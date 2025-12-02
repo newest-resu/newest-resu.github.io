@@ -1,64 +1,94 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-<meta charset="UTF-8">
-<title>Haber Robotu</title>
-<style>
-  body { font-family: Arial, sans-serif; max-width: 900px; margin: 20px auto; background: #f5f5f5; }
-  h1 { text-align: center; }
-  .article { background: #fff; margin: 12px 0; padding: 12px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
-  .article img { max-width: 100%; border-radius: 6px; margin-bottom: 8px; }
-  .article h2 { margin: 6px 0; font-size: 18px; }
-  .article p { margin: 4px 0 8px; }
-  .meta { font-size: 12px; color: #777; margin-bottom: 6px; }
-</style>
+  <meta charset="UTF-8">
+  <title>Haber Robotu</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 20px auto; background: #f5f5f5; }
+    h1 { text-align: center; }
+    #status { text-align: center; margin-bottom: 16px; color: #444; }
+    .article {
+      background: #fff;
+      margin: 12px 0;
+      padding: 12px;
+      border-radius: 8px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    }
+    .article img {
+      max-width: 100%;
+      border-radius: 6px;
+      margin-bottom: 8px;
+    }
+    .article h2 {
+      margin: 6px 0;
+      font-size: 18px;
+    }
+    .article p {
+      margin: 4px 0 8px;
+    }
+    .meta {
+      font-size: 12px;
+      color: #777;
+      margin-bottom: 6px;
+    }
+  </style>
 </head>
 <body>
-<h1>Güncel Haberler</h1>
-<p id="status">Haberler yükleniyor...</p>
-<div id="haberler"></div>
+  <h1>Güncel Haberler</h1>
+  <p id="status">Haberler yükleniyor...</p>
+  <div id="haberler"></div>
 
-<script>
-async function loadNews() {
-  const status = document.getElementById("status");
-  const container = document.getElementById("haberler");
-  try {
-    // ./ ile başlayalım ki proje köküne göre çözülsün
-    const res = await fetch("./news/latest.json", { cache: "no-store" });
-    if (!res.ok) {
-      status.textContent = "news/latest.json bulunamadı (HTTP " + res.status + ").";
-      return;
+  <script>
+    async function loadNews() {
+      const status = document.getElementById("status");
+      const container = document.getElementById("haberler");
+
+      try {
+        // Cache'i kırmak için zaman damgası ekliyoruz
+        const res = await fetch("./news/latest.json?t=" + Date.now());
+        if (!res.ok) {
+          status.textContent = "news/latest.json bulunamadı (HTTP " + res.status + ").";
+          return;
+        }
+
+        const data = await res.json();
+        const articles = data.articles || [];
+
+        status.textContent = "Toplam " + articles.length + " haber yüklendi. (generated_at: " + (data.generated_at || "") + ")";
+
+        container.innerHTML = "";
+
+        articles.forEach(function(a) {
+          const div = document.createElement("div");
+          div.className = "article";
+
+          const imgHtml = a.image
+            ? '<img src="' + a.image + '" onerror="this.style.display=\'none\'">'
+            : "";
+
+          div.innerHTML = `
+            <div class="meta">${a.url}</div>
+            ${imgHtml}
+            <h2>${a.title || "Başlık yok"}</h2>
+            <p>${a.summary || ""}</p>
+            <a href="${a.url}" target="_blank" rel="noopener noreferrer">Haberi Oku</a>
+          `;
+
+          container.appendChild(div);
+        });
+
+        if (articles.length === 0) {
+          // JSON boşsa buraya düşer
+          status.textContent = "JSON yüklendi ama 0 haber var.";
+        }
+
+      } catch (err) {
+        console.error(err);
+        status.textContent = "Haber yüklenirken hata oluştu: " + err;
+      }
     }
-    const data = await res.json();
 
-    if (!data.articles || data.articles.length === 0) {
-      status.textContent = "Şu anda gösterilecek haber bulunamadı.";
-      return;
-    }
-
-    status.textContent = "Toplam " + data.articles.length + " haber yüklendi.";
-    container.innerHTML = "";
-
-    data.articles.forEach(a => {
-      const div = document.createElement("div");
-      div.className = "article";
-
-      div.innerHTML = `
-        <div class="meta">${data.generated_at ? ("Güncellenme: " + data.generated_at) : ""}</div>
-        ${a.image ? `<img src="${a.image}" onerror="this.style.display='none'">` : ""}
-        <h2>${a.title || "Başlık yok"}</h2>
-        <p>${a.summary || ""}</p>
-        <a href="${a.url}" target="_blank" rel="noopener noreferrer">Haberi Oku</a>
-      `;
-      container.appendChild(div);
-    });
-  } catch (err) {
-    console.error(err);
-    status.textContent = "Haber yüklenirken hata oluştu: " + err;
-  }
-}
-
-loadNews();
-</script>
+    loadNews();
+  </script>
 </body>
 </html>
