@@ -2,112 +2,394 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Haber Robotu</title>
+  <title>Haber Robotu – Otomatik Güncel Haberler</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: 20px auto; background: #f5f5f5; }
-    h1 { text-align: center; }
-    #status { text-align: center; margin-bottom: 16px; color: #444; }
-    .article {
-      background: #fff;
-      margin: 12px 0;
-      padding: 12px;
-      border-radius: 8px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    :root {
+      --bg: #0f172a;
+      --bg-card: #020617;
+      --bg-alt: #020617;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #facc15;
+      --accent-soft: rgba(250, 204, 21, 0.12);
+      --border: #1f2937;
     }
-    .article img {
-      max-width: 100%;
-      border-radius: 6px;
-      margin-bottom: 8px;
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #1f2937 0, #020617 55%);
+      color: var(--text);
     }
-    .article h2 {
-      margin: 6px 0;
+    .shell {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 16px 12px 48px;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 18px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.98));
+      border: 1px solid rgba(148,163,184,0.18);
+      box-shadow: 0 24px 80px rgba(0,0,0,0.55);
+      position: sticky;
+      top: 8px;
+      z-index: 20;
+      backdrop-filter: blur(16px);
+    }
+    .logo {
+      width: 38px;
+      height: 38px;
+      border-radius: 12px;
+      background: radial-gradient(circle at 20% 0%, #facc15, #f97316);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #020617;
+      font-weight: 900;
       font-size: 18px;
+      box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);
     }
-    .article p {
-      margin: 4px 0 8px;
+    .title-wrap { flex: 1; }
+    .title {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: .02em;
     }
-    .meta {
+    .subtitle {
+      font-size: 13px;
+      color: var(--muted);
+    }
+    .pill {
+      font-size: 11px;
+      padding: 4px 9px;
+      border-radius: 999px;
+      border: 1px solid rgba(148,163,184,0.35);
+      color: var(--muted);
+      background: rgba(15,23,42,0.9);
+      white-space: nowrap;
+    }
+
+    .toolbar {
+      margin-top: 18px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .filters { display: flex; flex-wrap: wrap; gap: 8px; }
+    .btn-filter {
+      border-radius: 999px;
+      font-size: 13px;
+      padding: 5px 12px;
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .15s ease;
+    }
+    .btn-filter.active {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      color: #fefce8;
+    }
+    .status {
       font-size: 12px;
-      color: #777;
-      margin-bottom: 6px;
+      color: var(--muted);
+    }
+
+    /* Reklam alanları */
+    .ad {
+      margin: 16px 0 12px;
+      padding: 10px;
+      border-radius: 12px;
+      border: 1px dashed rgba(148,163,184,0.55);
+      background: rgba(15,23,42,0.85);
+      font-size: 12px;
+      color: var(--muted);
+      text-align: center;
+    }
+    .ad span {
+      display: block;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 2px;
+    }
+
+    /* Liste */
+    .grid {
+      margin-top: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .card {
+      display: grid;
+      grid-template-columns: 200px minmax(0,1fr);
+      gap: 14px;
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(15,23,42,0.96);
+      border: 1px solid rgba(31,41,55,0.9);
+      box-shadow: 0 14px 40px rgba(0,0,0,0.65);
+    }
+    .thumb-wrap {
+      border-radius: 10px;
+      overflow: hidden;
+      background: radial-gradient(circle at 10% 0%, #1f2937, #020617);
+      border: 1px solid rgba(31,41,55,0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      color: var(--muted);
+      text-align: center;
+      padding: 6px;
+    }
+    .thumb-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .card-body {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .meta-line {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .badge-source {
+      padding: 2px 7px;
+      border-radius: 999px;
+      border: 1px solid rgba(55,65,81,0.9);
+      background: rgba(15,23,42,0.9);
+    }
+    .badge-tag {
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(34,197,94,0.08);
+      border: 1px solid rgba(34,197,94,0.25);
+      color: #bbf7d0;
+    }
+    .headline {
+      font-size: 16px;
+      font-weight: 600;
+      color: #f9fafb;
+      margin: 2px 0;
+    }
+    .summary {
+      font-size: 13px;
+      color: #d1d5db;
+    }
+    .actions {
+      margin-top: 6px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .btn-read {
+      font-size: 12px;
+      padding: 5px 11px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      background: var(--accent);
+      color: #1f2937;
+      font-weight: 600;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .btn-read:hover {
+      filter: brightness(1.08);
+    }
+    .source-url {
+      font-size: 11px;
+      color: var(--muted);
+      max-width: 220px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    footer {
+      margin-top: 26px;
+      font-size: 11px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    @media (max-width: 768px) {
+      header { flex-wrap: wrap; gap: 8px; }
+      .title { font-size: 18px; }
+      .subtitle { font-size: 12px; }
+      .card {
+        grid-template-columns: 1fr;
+      }
+      .thumb-wrap {
+        height: 190px;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>Güncel Haberler</h1>
-  <p id="status">Haberler yükleniyor...</p>
-  <div id="haberler"></div>
+  <div class="shell">
+    <header>
+      <div class="logo">HR</div>
+      <div class="title-wrap">
+        <div class="title">Haber Robotu</div>
+        <div class="subtitle">Türkiye ve dünyadan haberler, her saat otomatik güncellenir.</div>
+      </div>
+      <div class="pill">Pasif gelir odaklı otomatik haber akışı</div>
+    </header>
+
+    <div class="toolbar">
+      <div class="filters">
+        <button class="btn-filter active" data-filter="all">Tüm Haberler</button>
+        <button class="btn-filter" data-filter="tr">Türkiye Kaynaklı</button>
+        <button class="btn-filter" data-filter="intl">Yabancı Kaynaklı</button>
+      </div>
+      <div class="status" id="status">Haberler yükleniyor...</div>
+    </div>
+
+    <!-- ÜST BANNER REKLAM ALANI -->
+    <div class="ad">
+      <span>Üst Banner Reklam Alanı – 728x90</span>
+      Google AdSense kodunu bu kutunun içine yerleştireceksin.
+    </div>
+
+    <div class="grid" id="haberler"></div>
+
+    <!-- ALT REKLAM ALANI -->
+    <div class="ad">
+      <span>Alt Banner / Native Reklam Alanı</span>
+      Sponsorlu içerik veya ikinci AdSense birimi için ideal alan.
+    </div>
+
+    <footer>
+      İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır,
+      detaylar için her haberdeki “Haberi Oku” butonuna tıklayarak kaynağa gidebilirsiniz.
+    </footer>
+  </div>
 
   <script>
-    // TARAYICI TARAFINDA ÜCRETSİZ TÜRKÇE ÇEVİRİ
-    async function translate(text) {
-      if (!text) return "";
+    let ALL_ARTICLES = [];
+
+    function getDomain(url) {
       try {
-        const r = await fetch("https://libretranslate.de/translate", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            q: text,
-            source: "auto",
-            target: "tr",
-            format: "text"
-          })
-        });
-        const data = await r.json();
-        return data.translatedText || text;
-      } catch (err) {
-        console.log("Çeviri hatası:", err);
-        return text;
+        const u = new URL(url);
+        return u.hostname.replace(/^www\./, "");
+      } catch {
+        return "";
       }
     }
 
-    // HABERLERİ YÜKLE
+    function classifySource(url) {
+      const d = getDomain(url);
+      if (!d) return { label: "Bilinmeyen", type: "intl" };
+      const isTr = d.endsWith(".tr");
+      return {
+        label: d,
+        type: isTr ? "tr" : "intl"
+      };
+    }
+
+    function renderArticles(filter = "all") {
+      const container = document.getElementById("haberler");
+      container.innerHTML = "";
+
+      const list = ALL_ARTICLES.filter(a => {
+        const src = classifySource(a.url);
+        if (filter === "tr") return src.type === "tr";
+        if (filter === "intl") return src.type === "intl";
+        return true;
+      });
+
+      list.forEach((a, index) => {
+        // Her 6 haberde bir feed içi reklam alanı
+        if (index > 0 && index % 6 === 0) {
+          const ad = document.createElement("div");
+          ad.className = "ad";
+          ad.innerHTML = "<span>Akış İçi Reklam Alanı</span>Bu satır Google AdSense in-feed reklam birimi için ayrıldı.";
+          container.appendChild(ad);
+        }
+
+        const src = classifySource(a.url);
+        const card = document.createElement("article");
+        card.className = "card";
+
+        const imgHtml = a.image
+          ? `<img src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+          : `<div>Görsel bulunamadı</div>`;
+
+        card.innerHTML = `
+          <div class="thumb-wrap">
+            ${imgHtml}
+          </div>
+          <div class="card-body">
+            <div class="meta-line">
+              <span class="badge-source">${src.label}</span>
+              <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
+            </div>
+            <h2 class="headline">${a.title || "Başlık yok"}</h2>
+            <p class="summary">${a.summary || ""}</p>
+            <div class="actions">
+              <a class="btn-read" href="${a.url}" target="_blank" rel="noopener noreferrer">
+                Haberi Oku
+              </a>
+              <span class="source-url">${a.url}</span>
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+
+      if (list.length === 0) {
+        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtre için gösterilecek haber bulunamadı.</p>";
+      }
+    }
+
     async function loadNews() {
       const status = document.getElementById("status");
-      const container = document.getElementById("haberler");
-
       try {
         const res = await fetch("./news/latest.json?t=" + Date.now());
         if (!res.ok) {
-          status.textContent = "news/latest.json bulunamadı. (HTTP " + res.status + ")";
+          status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
           return;
         }
-
         const data = await res.json();
-        const articles = data.articles || [];
-
-        status.textContent = "Toplam " + articles.length + " haber bulundu.";
-
-        container.innerHTML = "";
-
-        for (const a of articles) {
-          const div = document.createElement("div");
-          div.className = "article";
-
-          // BAŞLIK VE ÖZET ÇEVİRİ
-          const trTitle = await translate(a.title);
-          const trSummary = await translate(a.summary);
-
-          const imgHtml = a.image
-            ? `<img src="${a.image}" onerror="this.style.display='none'">`
-            : "";
-
-          div.innerHTML = `
-            <div class="meta">${a.url}</div>
-            ${imgHtml}
-            <h2>${trTitle}</h2>
-            <p>${trSummary}</p>
-            <a href="${a.url}" target="_blank" rel="noopener noreferrer">Haberi Oku</a>
-          `;
-
-          container.appendChild(div);
-        }
-
+        ALL_ARTICLES = data.articles || [];
+        status.textContent = "Toplam " + ALL_ARTICLES.length + " haber yüklendi • generated_at: " + (data.generated_at || "");
+        renderArticles("all");
       } catch (err) {
         console.error(err);
         status.textContent = "Haber yüklenirken hata oluştu: " + err;
       }
     }
+
+    // Filtre butonları
+    document.addEventListener("click", function (e) {
+      const btn = e.target.closest(".btn-filter");
+      if (!btn) return;
+      document.querySelectorAll(".btn-filter").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      const filter = btn.getAttribute("data-filter") || "all";
+      renderArticles(filter);
+    });
 
     loadNews();
   </script>
