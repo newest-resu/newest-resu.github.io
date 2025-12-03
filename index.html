@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="tr">
-  
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
-     crossorigin="anonymous"></script>
-
 <head>
   <meta charset="UTF-8">
   <title>Haber Robotu – Otomatik Güncel Haberler</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google AdSense site doğrulama -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
+       crossorigin="anonymous"></script>
+
   <style>
     :root {
       --bg: #0f172a;
@@ -44,6 +45,7 @@
       top: 8px;
       z-index: 20;
       backdrop-filter: blur(16px);
+      flex-wrap: wrap;
     }
     .logo {
       width: 38px;
@@ -58,7 +60,7 @@
       font-size: 18px;
       box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);
     }
-    .title-wrap { flex: 1; }
+    .title-wrap { flex: 1 1 200px; }
     .title {
       font-size: 20px;
       font-weight: 700;
@@ -76,6 +78,17 @@
       color: var(--muted);
       background: rgba(15,23,42,0.9);
       white-space: nowrap;
+    }
+    .top-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 13px;
+      margin-top: 6px;
+    }
+    .top-nav a {
+      color: #facc15;
+      text-decoration: none;
     }
 
     .toolbar {
@@ -129,18 +142,18 @@
     .side-ad {
       position: fixed;
       top: 70px;
-      width: 260px; /* GENİŞLİK BÜYÜDÜ */
-      height: calc(100vh - 100px); /* EKRAN YÜKSEKLİĞİNE GÖRE AYARLANIR */
+      width: 260px;
+      height: calc(100vh - 100px);
       border-radius: 14px;
       border: 1px dashed rgba(148,163,184,0.55);
       background: rgba(15,23,42,0.92);
       color: var(--muted);
       font-size: 11px;
       padding: 10px;
-      display: none; /* default: gizli, geniş ekranlarda açacağız */
+      display: none;
       z-index: 15;
       text-align: center;
-      overflow: hidden; /* içeriği kutu içinde tut */
+      overflow: hidden;
     }
     .side-ad span {
       display: block;
@@ -213,6 +226,13 @@
       border: 1px solid rgba(34,197,94,0.25);
       color: #bbf7d0;
     }
+    .badge-cat {
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(59,130,246,0.12);
+      border: 1px solid rgba(59,130,246,0.35);
+      color: #bfdbfe;
+    }
     .headline {
       font-size: 16px;
       font-weight: 600;
@@ -265,7 +285,7 @@
 
     /* Mobil ve orta ekran ayarları */
     @media (max-width: 768px) {
-      header { flex-wrap: wrap; gap: 8px; }
+      header { flex-direction: column; align-items: flex-start; }
       .title { font-size: 18px; }
       .subtitle { font-size: 12px; }
       .card { grid-template-columns: 1fr; }
@@ -284,38 +304,6 @@
   </style>
 </head>
 <body>
-  <!-- Üst Menü -->
-<nav style="
-    width: 100%;
-    background: #111827;
-    padding: 12px 0;
-    position: sticky;
-    top: 0;
-    z-index: 999;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.4);
-">
-    <div style="
-        max-width: 1200px;
-        margin: auto;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding: 0 20px;
-        color: white;
-        font-family: Arial;
-    ">
-        <div style="font-size: 20px; font-weight: bold;">
-            Haber Robotu
-        </div>
-
-        <div style="display: flex; gap: 20px; font-size: 15px;">
-            <a href="about.html" style="color: #fbbf24; text-decoration: none;">Hakkında</a>
-            <a href="privacy.html" style="color: #fbbf24; text-decoration: none;">Gizlilik Politikası</a>
-            <a href="terms.html" style="color: #fbbf24; text-decoration: none;">Kullanım Şartları</a>
-            <a href="contact.html" style="color: #fbbf24; text-decoration: none;">İletişim</a>
-        </div>
-    </div>
-</nav>
   <!-- SOL YAN REKLAM -->
   <div class="side-ad side-ad-left">
     <span>Sol Kenar Reklam Alanı</span>
@@ -334,20 +322,43 @@
       <div class="title-wrap">
         <div class="title">Haber Robotu</div>
         <div class="subtitle">Türkiye ve dünyadan haberler, her saat otomatik güncellenir.</div>
+        <div class="top-nav">
+          <a href="about.html">Hakkında</a>
+          <a href="privacy.html">Gizlilik Politikası</a>
+          <a href="terms.html">Kullanım Şartları</a>
+          <a href="contact.html">İletişim</a>
+        </div>
       </div>
       <div class="pill">Canlı otomatik haber akışı</div>
     </header>
-    <nav style="margin-left:20px; display:flex; gap:15px; font-size:13px;">
-  
-</nav>
 
+    <!-- Kaynak filtreleri -->
     <div class="toolbar">
       <div class="filters">
-        <button class="btn-filter active" data-filter="all">Tüm Haberler</button>
-        <button class="btn-filter" data-filter="tr">Türkiye Kaynaklı</button>
-        <button class="btn-filter" data-filter="intl">Yabancı Kaynaklı</button>
+        <button class="btn-filter btn-filter-source active" data-filter-source="all">Tüm Kaynaklar</button>
+        <button class="btn-filter btn-filter-source" data-filter-source="tr">Türkiye Kaynaklı</button>
+        <button class="btn-filter btn-filter-source" data-filter-source="intl">Yabancı Kaynaklı</button>
       </div>
       <div class="status" id="status">Haberler yükleniyor...</div>
+    </div>
+
+    <!-- Kategori filtreleri -->
+    <div class="toolbar" style="margin-top:8px;">
+      <div class="filters">
+        <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="teknoloji">Teknoloji</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="saglik">Sağlık</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="ekonomi">Ekonomi</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="magazin">Magazin</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="bilim">Bilim</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="savunma">Savunma / Askeri</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="oyun">Oyun / Dijital</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="otomobil">Otomobil</button>
+        <button class="btn-filter btn-filter-cat" data-filter-cat="yasam">Yaşam</button>
+      </div>
     </div>
 
     <!-- ÜST BANNER REKLAM ALANI -->
@@ -372,6 +383,23 @@
 
   <script>
     let ALL_ARTICLES = [];
+    let CURRENT_SOURCE_FILTER = "all";
+    let CURRENT_CATEGORY_FILTER = "all";
+
+    const CATEGORY_LABELS = {
+      gundem: "Gündem",
+      dunya: "Dünya",
+      spor: "Spor",
+      teknoloji: "Teknoloji",
+      saglik: "Sağlık",
+      ekonomi: "Ekonomi",
+      magazin: "Magazin",
+      bilim: "Bilim",
+      savunma: "Savunma / Askeri",
+      oyun: "Oyun / Dijital",
+      otomobil: "Otomobil",
+      yasam: "Yaşam"
+    };
 
     function getDomain(url) {
       try {
@@ -392,14 +420,70 @@
       };
     }
 
-    function renderArticles(filter = "all") {
+    function classifyCategory(article) {
+      const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
+      const src = classifySource(article.url);
+
+      const has = (keywords) => keywords.some(k => text.includes(k));
+
+      // Spor
+      if (has(["spor","maç","mac ","futbol","basketbol","voleybol","lig ","şampiyona","gol ","transfer","hakem","tenis","nba","fifa","uefa","olimpiyat"])) {
+        return "spor";
+      }
+      // Teknoloji
+      if (has(["teknoloji","uygulama","yazılım","telefon","akıllı","android","ios","yapay zeka","ai ","robot","çip","işlemci","apple","samsung","google","microsoft","uzay","roket","uydu"])) {
+        return "teknoloji";
+      }
+      // Sağlık
+      if (has(["sağlık","hastane","doktor","virüs","enfeksiyon","kanser","tedavi","ilaç","aşı","koronavirüs","covid","grip","diyet","obezite"])) {
+        return "saglik";
+      }
+      // Ekonomi
+      if (has(["ekonomi","dolar","euro","altın","borsa","faiz","enflasyon","piyasa","kriz","ihracat","ithalat","yatırım","gelir","vergi","asgari ücret","memur maaşı"])) {
+        return "ekonomi";
+      }
+      // Magazin
+      if (has(["magazin","ünlü","şarkıcı","oyuncu","dizi","film","evlilik","boşanma","aşk","görüntülendi","ünlü isim","defile","manken","klip"])) {
+        return "magazin";
+      }
+      // Bilim
+      if (has(["bilim","araştırma","deney","bilim insanı","laboratuvar","keşif","evren","fizik","kimya","biyoloji","genetik","astronomi"])) {
+        return "bilim";
+      }
+      // Savunma / Askeri
+      if (has(["savunma","ordu","asker","tatbikat","füze","tank","savaş uçağı","hava kuvvetleri","deniz kuvvetleri","operasyon","saldırı","terör","nato","güvenlik güçleri"])) {
+        return "savunma";
+      }
+      // Oyun / Dijital
+      if (has(["oyun","oyuncu","video oyunu","playstation","xbox","steam","mobil oyun","battle royale","espor","gamer","call of duty","pubg","fortnite"])) {
+        return "oyun";
+      }
+      // Otomobil
+      if (has(["otomobil","araba","araç","otomotiv","tesla","bmw","mercedes","renault","hyundai","trafik kazası","sürücü","otoyol","togg"])) {
+        return "otomobil";
+      }
+      // Yaşam
+      if (has(["yaşam","hayat","aile","evlilik","çocuk","alışveriş","tatil","seyahat","gezi","yemek","tarif","kültür","sanat","festival","etkinlik"])) {
+        return "yasam";
+      }
+
+      // Hiçbiri değilse, kaynağa göre Gündem / Dünya
+      if (src.type === "intl") return "dunya";
+      return "gundem";
+    }
+
+    function renderArticles() {
       const container = document.getElementById("haberler");
       container.innerHTML = "";
 
       const list = ALL_ARTICLES.filter(a => {
         const src = classifySource(a.url);
-        if (filter === "tr") return src.type === "tr";
-        if (filter === "intl") return src.type === "intl";
+        if (CURRENT_SOURCE_FILTER === "tr" && src.type !== "tr") return false;
+        if (CURRENT_SOURCE_FILTER === "intl" && src.type !== "intl") return false;
+
+        const cat = classifyCategory(a);
+        if (CURRENT_CATEGORY_FILTER !== "all" && cat !== CURRENT_CATEGORY_FILTER) return false;
+
         return true;
       });
 
@@ -412,6 +496,9 @@
         }
 
         const src = classifySource(a.url);
+        const catKey = classifyCategory(a);
+        const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+
         const card = document.createElement("article");
         card.className = "card";
 
@@ -427,6 +514,7 @@
             <div class="meta-line">
               <span class="badge-source">${src.label}</span>
               <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
+              <span class="badge-cat">${catLabel}</span>
             </div>
             <h2 class="headline">${a.title || "Başlık yok"}</h2>
             <p class="summary">${a.summary || ""}</p>
@@ -442,7 +530,7 @@
       });
 
       if (list.length === 0) {
-        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtre için gösterilecek haber bulunamadı.</p>";
+        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";
       }
     }
 
@@ -457,7 +545,7 @@
         const data = await res.json();
         ALL_ARTICLES = data.articles || [];
         status.textContent = "Toplam " + ALL_ARTICLES.length + " haber yüklendi • generated_at: " + (data.generated_at || "");
-        renderArticles("all");
+        renderArticles();
       } catch (err) {
         console.error(err);
         status.textContent = "Haber yüklenirken hata oluştu: " + err;
@@ -465,12 +553,21 @@
     }
 
     document.addEventListener("click", function (e) {
-      const btn = e.target.closest(".btn-filter");
-      if (!btn) return;
-      document.querySelectorAll(".btn-filter").forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-      const filter = btn.getAttribute("data-filter") || "all";
-      renderArticles(filter);
+      const srcBtn = e.target.closest(".btn-filter-source");
+      if (srcBtn) {
+        document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
+        srcBtn.classList.add("active");
+        CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";
+        renderArticles();
+        return;
+      }
+      const catBtn = e.target.closest(".btn-filter-cat");
+      if (catBtn) {
+        document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
+        catBtn.classList.add("active");
+        CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";
+        renderArticles();
+      }
     });
 
     loadNews();
