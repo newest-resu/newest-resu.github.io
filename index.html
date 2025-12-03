@@ -507,12 +507,16 @@
       };
     }
 
-    function classifyCategory(article) {
+        function classifyCategory(article) {
       const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
       const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
       const src = classifySource(article.url);
 
+      // 1) RSS kategorilerinden harita çıkar (ama hemen return ETME)
+      const mappedFromRss = [];
+
       const mapFromRss = (c) => {
+        // Dünya / politika / uluslararası
         if (
           c.includes("world") ||
           c.includes("us & canada") ||
@@ -529,6 +533,7 @@
           return "dunya";
         }
 
+        // Ekonomi / iş dünyası
         if (
           c.includes("business") ||
           c.includes("economy") ||
@@ -539,10 +544,12 @@
           return "ekonomi";
         }
 
+        // Spor
         if (c.includes("sport") || c.includes("sports")) {
           return "spor";
         }
 
+        // Teknoloji / bilim
         if (c.includes("technology") || c.includes("tech")) {
           return "teknoloji";
         }
@@ -550,10 +557,12 @@
           return "bilim";
         }
 
+        // Sağlık
         if (c.includes("health") || c.includes("medical") || c.includes("medicine")) {
           return "saglik";
         }
 
+        // Magazin / eğlence / kültür
         if (
           c.includes("entertainment") ||
           c.includes("arts") ||
@@ -563,6 +572,7 @@
           return "magazin";
         }
 
+        // Türkiye içi haberler
         if (
           c.includes("turkiye") ||
           c.includes("türkiye") ||
@@ -578,29 +588,59 @@
 
       for (const rc of rssCats) {
         const mapped = mapFromRss(rc);
-        if (mapped) return mapped;
+        if (mapped && !mappedFromRss.includes(mapped)) {
+          mappedFromRss.push(mapped);
+        }
       }
 
+      // Öncelik sırası: Dünya > Ekonomi > Spor > Teknoloji > Sağlık > Bilim > Magazin > Gündem
+      const priority = ["dunya", "ekonomi", "spor", "teknoloji", "saglik", "bilim", "magazin", "gundem"];
+      for (const p of priority) {
+        if (mappedFromRss.includes(p)) {
+          return p;
+        }
+      }
+
+      // 2) RSS ile belirlenemediyse, kelime tabanlı puanlama
+      const scores = {};
       let bestCat = null;
       let bestScore = 0;
 
       for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
         let score = 0;
         for (const k of keywords) {
-          if (text.includes(k)) score++;
+          if (text.includes(k)) {
+            score++;
+          }
         }
+        scores[cat] = score;
         if (score > bestScore) {
           bestScore = score;
           bestCat = cat;
         }
       }
 
+      // Magazin için ek temkin: en az 2 eşleşme yoksa ve başka kategoride 1+ eşleşme varsa magazin seçme
+      if (bestCat === "magazin") {
+        const maxOther = Object.entries(scores)
+          .filter(([cat]) => cat !== "magazin")
+          .reduce((m, [, s]) => Math.max(m, s), 0);
+        if (bestScore < 2 && maxOther >= 1) {
+          // başka kategoriye kaydır
+          bestCat = Object.entries(scores)
+            .filter(([cat]) => cat !== "magazin" && scores[cat] === maxOther)
+            .map(([cat]) => cat)[0] || null;
+        }
+      }
+
+      // 3) Hâlâ güçlü eşleşme yoksa kaynağa göre Gündem / Dünya
       if (!bestCat || bestScore === 0) {
         return src.type === "intl" ? "dunya" : "gundem";
       }
 
       return bestCat;
     }
+
 
     function renderArticles() {
       const container = document.getElementById("haberler");
