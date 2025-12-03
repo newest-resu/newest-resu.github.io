@@ -11,12 +11,32 @@ import requests
 # news klasörünü garanti altına al
 os.makedirs("news", exist_ok=True)
 
-# ÜCRETSİZ RSS KAYNAKLARI
+# RSS KAYNAKLARI (genel + kategori bazlı)
 RSS_SOURCES = [
+    # BBC genel ve dünya
     "https://feeds.bbci.co.uk/news/world/rss.xml",
     "https://feeds.bbci.co.uk/news/rss.xml",
+
+    # BBC tematik: teknoloji, bilim, sağlık, ekonomi
+    "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+    "https://feeds.bbci.co.uk/news/health/rss.xml",
+    "https://feeds.bbci.co.uk/news/business/rss.xml",
+
+    # Türkiye genel
     "https://www.hurriyet.com.tr/rss/anasayfa",
     "https://www.cnnturk.com/feed/rss/all/news",
+
+    # CNN Türk kategori bazlı RSS (spor, ekonomi, teknoloji, sağlık, magazin, otomobil, yaşam vs.)
+    "https://www.cnnturk.com/feed/rss/turkiye/news",
+    "https://www.cnnturk.com/feed/rss/dunya/news",
+    "https://www.cnnturk.com/feed/rss/ekonomi/news",
+    "https://www.cnnturk.com/feed/rss/spor/news",
+    "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news",
+    "https://www.cnnturk.com/feed/rss/saglik/news",
+    "https://www.cnnturk.com/feed/rss/magazin/news",
+    "https://www.cnnturk.com/feed/rss/otomobil/news",
+    "https://www.cnnturk.com/feed/rss/yasam/news",
 ]
 
 def clean_html(text: str) -> str:
@@ -58,7 +78,7 @@ def is_foreign(url: str) -> bool:
         return True
 
 TRANSLATION_CALLS = 0
-TRANSLATION_LIMIT = 60 # tek çalışmada maksimum çeviri isteği
+TRANSLATION_LIMIT = 60  # tek çalışmada maksimum çeviri isteği
 
 def translate_to_tr(text: str) -> str:
     """MyMemory API ile EN -> TR çeviri. Limit ve WARNING filtreli."""
@@ -70,7 +90,7 @@ def translate_to_tr(text: str) -> str:
 
     try:
         TRANSLATION_CALLS += 1
-        query = urllib.parse.quote(text[:450]) # çok uzun metinleri kısalt
+        query = urllib.parse.quote(text[:450])  # çok uzun metinleri kısalt
         url = f"https://api.mymemory.translated.net/get?q={query}&langpair=en|tr"
         r = requests.get(url, timeout=10)
         data = r.json()
@@ -88,6 +108,7 @@ def translate_to_tr(text: str) -> str:
         return text
 
 articles = []
+seen_links = set()  # aynı haberi birden fazla kaynaktan çekersek tekrarı önlemek için
 
 for src in RSS_SOURCES:
     try:
@@ -99,20 +120,25 @@ for src in RSS_SOURCES:
         items = root.findall(".//item")
         count_from_source = 0
 
-        for item in items[:20]: # her kaynaktan en fazla 20 haber
+        for item in items[:12]:  # her kaynaktan en fazla 12 haber al
             title = (item.findtext("title") or "").strip()
-            link = (item.findtext("link") or "").strip()
-            desc = item.findtext("description") or ""
+            link  = (item.findtext("link") or "").strip()
+            desc  = item.findtext("description") or ""
 
             if not title or not link:
                 continue
 
+            # Aynı link daha önce eklendiyse atla (tekrar haber oluşturma)
+            if link in seen_links:
+                continue
+            seen_links.add(link)
+
             summary = clean_html(desc)
-            image = extract_image(item)
+            image   = extract_image(item)
 
             # Kaynağa göre çeviri kararı
             if is_foreign(link):
-                title_tr = translate_to_tr(title)
+                title_tr   = translate_to_tr(title)
                 summary_tr = translate_to_tr(summary)
             else:
                 title_tr, summary_tr = title, summary
