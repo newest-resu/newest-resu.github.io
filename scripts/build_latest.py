@@ -1,6 +1,5 @@
 import os, re, json, time, hashlib
 from datetime import datetime, timezone
-
 import feedparser
 import requests
 from bs4 import BeautifulSoup
@@ -148,22 +147,6 @@ def chunk_text(text: str, max_chars: int = 2500):
     if cur:
         chunks.append("\n\n".join(cur))
     return chunks
-
-
-def tr(text: str) -> str:
-    text = text.strip()
-    if not text:
-        return ""
-    parts = chunk_text(text, 2500)
-    out = []
-    for p in parts:
-        try:
-            out.append(translator.translate(p))
-        except Exception:
-            out.append(p)
-        time.sleep(0.30)
-    return norm_ws("\n\n".join(out))
-
 
 def bullets_from_summary(summary_tr: str, max_bullets: int = 4):
     # Basit bullet üretimi: uzun özeti cümlelere ayırıp ilk güçlü cümleleri seç
