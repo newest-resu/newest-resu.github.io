@@ -30,6 +30,12 @@
       --border: #1f2937;
     }
     * { box-sizing: border-box; }
+    <div id="reader-modal" class="reader-modal">
+  <div class="reader-content">
+    <button class="reader-close" onclick="this.closest('.reader-modal').classList.remove('open')">✕</button>
+    <div class="reader-body"></div>
+  </div>
+</div>
     body {
       margin: 0;
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -689,9 +695,9 @@
             <h2 class="headline">${a.title || "Başlık yok"}</h2>
             <p class="summary">${a.summary || ""}</p>
             <div class="actions">
-              <a class="btn-read" href="${a.url}" target="_blank" rel="noopener noreferrer">
-                Haberi Oku
-              </a>
+              <button class="btn-read" data-id="${a.id}">
+  Haberi Oku
+</button>
               <span class="source-url">${a.url}</span>
             </div>
           </div>
@@ -722,6 +728,53 @@
       }
     }
 
+    document.addEventListener("click", (e) => {
+  const btn = e.target.closest(".btn-read");
+  if (!btn) return;
+function escapeHtml(s) {
+  if (!s) return "";
+  return String(s)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;");
+}
+
+function section(title, text) {
+  if (!text) return "";
+  return `
+    <div class="reader-section">
+      <h3>${title}</h3>
+      <p>${escapeHtml(text).replaceAll("\n", "<br>")}</p>
+    </div>
+  `;
+}
+
+function openReader(a) {
+  const modal = document.getElementById("reader-modal");
+  const body  = modal.querySelector(".reader-body");
+
+  body.innerHTML = `
+    <h2 class="reader-title">${escapeHtml(a.title_tr || a.title)}</h2>
+
+    ${section("Uzun Özet", a.summary_tr_long)}
+    ${section("Neden önemli?", a.why_important_tr)}
+    ${section("Arka plan", a.background_tr)}
+    ${section("Olası etkiler", a.possible_impacts_tr)}
+
+    <a class="source-link" href="${a.url}" target="_blank" rel="noopener">
+      Kaynağa Git
+    </a>
+  `;
+
+  modal.classList.add("open");
+}
+      
+  const id = btn.dataset.id;
+  const article = window.__NEWS__.find(x => String(x.id) === String(id));
+  if (!article) return;
+
+  openReader(article);
+});
     document.addEventListener("click", function (e) {
       const srcBtn = e.target.closest(".btn-filter-source");
       if (srcBtn) {
@@ -744,3 +797,36 @@
   </script>
 </body>
 </html>
+.reader-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.65);
+  display: none;
+  z-index: 9999;
+}
+.reader-modal.open { display: block; }
+
+.reader-content {
+  max-width: 820px;
+  margin: 40px auto;
+  background: #0f172a;
+  color: #fff;
+  padding: 20px;
+  border-radius: 16px;
+}
+
+.reader-title { font-size: 22px; margin-bottom: 14px; }
+.reader-section { margin: 16px 0; }
+.reader-section h3 { margin-bottom: 6px; font-size: 16px; }
+.reader-section p { line-height: 1.6; }
+
+.source-link { display: inline-block; margin-top: 16px; opacity: .8; }
+.reader-close {
+  position: absolute;
+  right: 16px;
+  top: 12px;
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+}
