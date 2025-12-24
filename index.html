@@ -34,7 +34,10 @@
                   linear-gradient(180deg, var(--bg1), var(--bg0));
       min-height:100vh;
     }
+    a{ color:inherit; text-decoration:none; }
+    .wrap{ max-width:1200px; margin:0 auto; padding:18px 14px 60px; }
 
+    /* 3 kolon düzen (reklam kutusu yok, sadece boşluk) */
     .grid{
       display:grid;
       grid-template-columns: 160px 1fr 160px;
@@ -54,12 +57,6 @@
       border:1px solid rgba(255,255,255,.08);
       background: rgba(255,255,255,.02);
       box-shadow: 0 12px 40px rgba(0,0,0,.18);
-    }
-    .side .hint{
-      padding:10px;
-      color: rgba(232,238,252,.55);
-      font-size:12px;
-      line-height:1.45;
     }
 
     /* Header */
@@ -399,6 +396,12 @@
   </style>
 </head>
 
+<body>
+  <div class="wrap">
+    <div class="grid">
+      <!-- LEFT: boş (hiçbir şey yazma) -->
+      <aside class="side"></aside>
+
       <!-- MAIN -->
       <main>
         <header>
@@ -426,7 +429,7 @@
             </div>
           </div>
 
-          <!-- YENİ: arama + manuel yenile -->
+          <!-- Arama + manuel yenile -->
           <div class="tools">
             <div class="search" title="Başlık ve özet içinde ara">
               <span style="color:rgba(232,238,252,.55)">🔎</span>
@@ -448,6 +451,11 @@
           </footer>
         </section>
       </main>
+
+      <!-- RIGHT: boş (hiçbir şey yazma) -->
+      <aside class="side"></aside>
+    </div>
+  </div>
 
   <!-- MODAL -->
   <div class="modalBackdrop" id="modalBackdrop" aria-hidden="true">
@@ -526,21 +534,18 @@
       return x;
     }
 
-    // Görsel: normal -> olmazsa proxy fallback
+    // Görsel: normal -> olmazsa proxy fallback (DOKUNMADIK)
     function normalizeImageUrl(url){
       const u = safeText(url);
       if(!u) return "";
       return u;
     }
     function proxyImage(url){
-      // weserv expects host/path without protocol or with, both can work.
-      // En stabil: https://images.weserv.nl/?url=<host/path>&w=420&h=280&fit=cover
       try{
         const u = new URL(url);
         const stripped = (u.host + u.pathname + (u.search || ""));
         return "https://images.weserv.nl/?url=" + encodeURIComponent(stripped) + "&w=420&h=280&fit=cover";
       }catch(e){
-        // url parse edilemezse direkt encode dene
         return "https://images.weserv.nl/?url=" + encodeURIComponent(url) + "&w=420&h=280&fit=cover";
       }
     }
@@ -630,7 +635,6 @@
           img.loading = "lazy";
           img.decoding = "async";
 
-          // 1. hata -> proxy dene
           img.onerror = () => {
             const p = proxyImage(imgUrl);
             const img2 = new Image();
