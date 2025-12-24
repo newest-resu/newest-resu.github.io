@@ -5,7 +5,8 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 from readability import Document
-from deep_translator import GoogleTranslator
+def to_tr(text: str) -> str:
+    return (text or "").strip()
 
 OUT_PATH = "news/latest.json"
 MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "120"))
