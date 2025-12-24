@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Haber Robotu - Okuyucu</title>
+  <style>
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial; background:#0b1324; color:#fff; }
+    .wrap { max-width: 980px; margin: 0 auto; padding: 16px; }
+    .card { background: rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.10); border-radius: 18px; padding:16px; }
+    h1 { font-size: 26px; line-height: 1.15; margin: 0 0 10px; }
+    h2 { font-size: 18px; margin: 18px 0 8px; }
+    .meta { color: rgba(255,255,255,.70); font-size: 13px; display:flex; gap:10px; flex-wrap: wrap; margin-bottom: 12px; }
+    .btns { display:flex; gap:10px; flex-wrap: wrap; margin: 14px 0 0; }
+    .btn { background:#ffd200; color:#000; border:none; padding:10px 12px; border-radius: 12px; font-weight: 800; cursor:pointer; }
+    .btn.secondary { background: rgba(255,255,255,.10); color:#fff; border:1px solid rgba(255,255,255,.18); }
+    img { width:100%; border-radius: 16px; margin: 10px 0 14px; }
+    .content { white-space: pre-wrap; line-height: 1.65; font-size: 16px; color: rgba(255,255,255,.92); }
+    ul { margin: 8px 0 0 18px; }
+    li { margin: 6px 0; color: rgba(255,255,255,.90); }
+    .note { margin-top: 14px; font-size: 12.5px; color: rgba(255,255,255,.55); line-height: 1.45; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="card">
+      <div id="state">Yükleniyor…</div>
+
+      <div id="root" style="display:none;">
+        <h1 id="title"></h1>
+        <div class="meta" id="meta"></div>
+        <img id="img" style="display:none;" />
+
+        <h2>Uzun Özet</h2>
+        <div class="content" id="longSummary"></div>
+
+        <h2>Neden Önemli?</h2>
+        <ul id="why"></ul>
+
+        <h2>Arka Plan</h2>
+        <ul id="bg"></ul>
+
+        <h2>Olası Etkiler</h2>
+        <ul id="imp"></ul>
+
+        <div class="btns">
+          <button class="btn" id="shareBtn">Paylaş</button>
+          <a class="btn secondary" id="sourceBtn" target="_blank" rel="noopener">Kaynağa Git</a>
+        </div>
+
+        <div class="note">
+          Not: Bu sayfa, kaynaktaki içeriğin Türkçe bir özetini ve çıkarımlarını sunar. Tam metin için “Kaynağa Git” seçeneğini kullanabilirsiniz.
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  function qp(name) {
+    const url = new URL(location.href);
+    return url.searchParams.get(name) || "";
+  }
+
+  function fillList(elId, arr) {
+    const ul = document.getElementById(elId);
+    ul.innerHTML = "";
+    (arr || []).slice(0, 6).forEach(t => {
+      const li = document.createElement("li");
+      li.textContent = t;
+      ul.appendChild(li);
+    });
+  }
+
+  async function load() {
+    const id = qp("id");
+    if (!id) {
+      document.getElementById("state").textContent = "Haber bulunamadı (id yok).";
+      return;
+    }
+
+    const res = await fetch("news/latest.json?ts=" + Date.now());
+    const json = await res.json();
+    const a = (json.articles || []).find(x => x.id === id);
+
+    if (!a) {
+      document.getElementById("state").textContent = "Haber bulunamadı.";
+      return;
+    }
+
+    document.getElementById("state").style.display = "none";
+    document.getElementById("root").style.display = "block";
+
+    document.getElementById("title").textContent = (a.title_tr || a.title || "Haber").trim();
+    document.getElementById("meta").textContent =
+      `${(a.source||"").trim()} • ${(a.rss_categories||[]).join(", ")}`.trim();
+
+    if (a.image && a.image.trim()) {
+      const img = document.getElementById("img");
+      img.src = a.image.trim();
+      img.style.display = "block";
+    }
+
+    document.getElementById("longSummary").textContent =
+      (a.summary_tr_long || a.summary_tr || a.summary || "").trim() || "Özet hazırlanıyor…";
+
+    fillList("why", a.why_important);
+    fillList("bg", a.background);
+    fillList("imp", a.possible_impacts);
+
+    document.getElementById("sourceBtn").href = a.url;
+
+    const shareUrl = location.href;
+    document.getElementById("shareBtn").onclick = async () => {
+      const title = (a.title_tr || a.title || "Haber").trim();
+      if (navigator.share) {
+        await navigator.share({ title: "Haber Robotu", text: title, url: shareUrl });
+      } else {
+        await navigator.clipboard.writeText(shareUrl);
+        alert("Link kopyalandı.");
+      }
+    };
+  }
+
+  load().catch(err => {
+    document.getElementById("state").textContent = "Hata: " + err;
+  });
+</script>
+</body>
+</html>
