@@ -1,8 +1,8 @@
-name: Update News
+name: Update news
 
 on:
   schedule:
-    - cron: "0 * * * *"    # Her saat başı
+    - cron: "0 * * * *" # Her saat başı
   workflow_dispatch:
 
 jobs:
@@ -22,11 +22,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests
+          python -m pip install --upgrade pip
+          pip install requests feedparser beautifulsoup4 lxml readability-lxml
 
       - name: Run generator
         run: |
-          python news/generator.py
+          python scripts/build_latest.py
 
       - name: Commit changes
         run: |
