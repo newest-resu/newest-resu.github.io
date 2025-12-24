@@ -1,832 +1,560 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <title>Haber Robotu – Otomatik Güncel Haberler</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Haber Robotu</title>
+  <meta name="description" content="Canlı otomatik haber akışı. Türkiye ve dünyadan önemli haberler." />
+  <meta name="theme-color" content="#0b1220" />
 
-  <!-- Açıklama & Open Graph -->
-  <meta name="description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada. Spor, teknoloji, ekonomi, sağlık ve daha fazlası.">
-  <meta property="og:title" content="Haber Robotu – Otomatik Güncel Haberler">
-  <meta property="og:description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada.">
-  <meta property="og:url" content="https://newest-resu.github.io/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Haber Robotu">
-  <meta name="twitter:card" content="summary_large_image">
-
-  <!-- Google AdSense site doğrulama -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
-       crossorigin="anonymous"></script>
+  <!--
+    BURAYA (varsa) Google AdSense / doğrulama meta kodlarını ekle:
+    <meta name="google-site-verification" content="..." />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=..."
+            crossorigin="anonymous"></script>
+  -->
 
   <style>
-    :root {
-      --bg: #0f172a;
-      --bg-card: #020617;
-      --bg-alt: #020617;
-      --text: #e5e7eb;
-      --muted: #9ca3af;
-      --accent: #facc15;
-      --accent-soft: rgba(250, 204, 21, 0.12);
-      --border: #1f2937;
-    }
-    * { box-sizing: border-box; }
-    <div id="reader-modal" class="reader-modal">
-  <div class="reader-content">
-    <button class="reader-close" onclick="this.closest('.reader-modal').classList.remove('open')">✕</button>
-    <div class="reader-body"></div>
-  </div>
-</div>
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: radial-gradient(circle at top, #1f2937 0, #020617 55%);
-      color: var(--text);
-    }
-    .shell {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 16px 12px 48px;
-    }
-    header {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      padding: 16px 18px;
-      border-radius: 14px;
-      background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.98));
-      border: 1px solid rgba(148,163,184,0.18);
-      box-shadow: 0 24px 80px rgba(0,0,0,0.55);
-      position: sticky;
-      top: 8px;
-      z-index: 20;
-      backdrop-filter: blur(16px);
-      flex-wrap: wrap;
-    }
-    .logo {
-      width: 38px;
-      height: 38px;
-      border-radius: 12px;
-      background: radial-gradient(circle at 20% 0%, #facc15, #f97316);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: #020617;
-      font-weight: 900;
-      font-size: 18px;
-      box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);
-    }
-    .title-wrap { flex: 1 1 200px; }
-    .title {
-      font-size: 20px;
-      font-weight: 700;
-      letter-spacing: .02em;
-    }
-    .subtitle {
-      font-size: 13px;
-      color: var(--muted);
-    }
-    .pill {
-      font-size: 11px;
-      padding: 4px 9px;
-      border-radius: 999px;
-      border: 1px solid rgba(148,163,184,0.35);
-      color: var(--muted);
-      background: rgba(15,23,42,0.9);
-      white-space: nowrap;
-    }
-    .top-nav {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      font-size: 13px;
-      margin-top: 6px;
-    }
-    .top-nav a {
-      color: #facc15;
-      text-decoration: none;
+    :root{
+      --bg1:#070b14;
+      --bg2:#0b1220;
+      --card:#0f1623;
+      --card2:#0d1421;
+      --border:rgba(255,255,255,.08);
+      --text:rgba(255,255,255,.92);
+      --muted:rgba(255,255,255,.68);
+      --muted2:rgba(255,255,255,.55);
+      --accent:#f5c542;
+      --accent2:#ffcc00;
+      --shadow: 0 18px 60px rgba(0,0,0,.45);
+      --radius:18px;
     }
 
-    .toolbar {
-      margin-top: 18px;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-      justify-content: space-between;
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      color:var(--text);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji","Segoe UI Emoji";
+      background:
+        radial-gradient(1200px 700px at 15% 10%, rgba(255,204,0,.12), transparent 60%),
+        radial-gradient(1000px 700px at 85% 15%, rgba(100,160,255,.10), transparent 60%),
+        linear-gradient(180deg, var(--bg2), var(--bg1));
     }
-    .filters { display: flex; flex-wrap: wrap; gap: 8px; }
-    .btn-filter {
-      border-radius: 999px;
-      font-size: 13px;
-      padding: 5px 12px;
-      border: 1px solid var(--border);
-      background: rgba(15,23,42,0.9);
+
+    .container{max-width:1100px;margin:0 auto;padding:18px 14px 40px}
+
+    /* Topbar */
+    .topbar{
+      display:flex;align-items:center;gap:14px;
+      padding:12px 14px;margin:10px 0 14px;
+      border:1px solid var(--border);
+      background:rgba(15,22,35,.65);
+      backdrop-filter: blur(10px);
+      border-radius: 22px;
+      box-shadow: var(--shadow);
+    }
+    .brand{
+      display:flex;align-items:center;gap:12px;min-width:220px;
+    }
+    .logo{
+      width:44px;height:44px;border-radius:14px;
+      background: linear-gradient(180deg, #ffcc00, #f5b400);
+      display:grid;place-items:center;
+      color:#111;font-weight:900;letter-spacing:.5px;
+      box-shadow: 0 10px 30px rgba(255,204,0,.25);
+      border: 1px solid rgba(0,0,0,.08);
+      flex:0 0 auto;
+    }
+    .brand h1{font-size:18px;line-height:1;margin:0}
+    .brand .sub{font-size:12px;color:var(--muted);margin-top:2px}
+
+    .searchwrap{
+      flex:1;display:flex;align-items:center;gap:10px;
+    }
+    .search{
+      flex:1;
+      display:flex;align-items:center;gap:10px;
+      padding:10px 12px;
+      border-radius: 16px;
+      border:1px solid var(--border);
+      background: rgba(11,18,32,.6);
+    }
+    .search input{
+      width:100%;
+      border:0;outline:0;
+      background:transparent;
+      color:var(--text);
+      font-size:14px;
+    }
+    .pill{
+      padding:9px 12px;border-radius:14px;
+      border:1px solid var(--border);
+      background: rgba(11,18,32,.55);
       color: var(--muted);
-      cursor: pointer;
-      transition: all .15s ease;
+      font-size:13px;
+      cursor:pointer;
+      user-select:none;
     }
-    .btn-filter.active {
-      background: var(--accent-soft);
-      border-color: var(--accent);
-      color: #fefce8;
+    .pill:hover{background:rgba(255,255,255,.06)}
+    .pill.active{
+      color:#111;
+      background: linear-gradient(180deg, #ffcc00, #f5b400);
+      border-color: rgba(255,204,0,.35);
+      font-weight:700;
     }
-    .status {
+
+    /* Filters row */
+    .filters{
+      display:flex;flex-wrap:wrap;gap:10px;
+      margin: 10px 0 14px;
+    }
+
+    /* Cards */
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:14px;
+    }
+    @media(min-width:900px){
+      .grid{grid-template-columns: 1fr 1fr;}
+    }
+
+    .card{
+      display:flex;gap:14px;
+      padding:14px;
+      border-radius: var(--radius);
+      border:1px solid var(--border);
+      background: rgba(15,22,35,.70);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 12px 40px rgba(0,0,0,.25);
+      overflow:hidden;
+    }
+    .thumb{
+      width:110px;height:110px;border-radius:16px;flex:0 0 auto;
+      overflow:hidden;border:1px solid rgba(255,255,255,.08);
+      background: rgba(255,255,255,.06);
+      display:grid;place-items:center;
+    }
+    .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .thumb .noimg{color:var(--muted2);font-size:12px;text-align:center;padding:10px}
+
+    .cardbody{min-width:0;flex:1;display:flex;flex-direction:column;gap:8px}
+    .meta{
+      display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+      color:var(--muted2);font-size:12px;
+    }
+    .badge{
+      padding:4px 8px;border-radius:999px;
+      border:1px solid var(--border);
+      background: rgba(255,255,255,.05);
+      color: var(--muted);
+      font-size:12px;
+    }
+    .badge.cat{border-color:rgba(255,204,0,.22); color: rgba(255,235,180,.95);}
+    .badge.src{border-color:rgba(120,170,255,.25); color: rgba(200,220,255,.9);}
+
+    .title{
+      margin:0;
+      font-size:18px;
+      line-height:1.2;
+      letter-spacing:.2px;
+      display:-webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow:hidden;
+    }
+    .summary{
+      margin:0;
+      color: var(--muted);
+      line-height:1.45;
+      font-size:14px;
+      display:-webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow:hidden;
+    }
+
+    .actions{
+      display:flex;align-items:center;justify-content:space-between;gap:10px;
+      margin-top:auto;
+    }
+    .btn-read{
+      border:1px solid rgba(255,204,0,.28);
+      background: rgba(255,204,0,.10);
+      color: rgba(255,235,180,.98);
+      padding:10px 12px;border-radius:14px;
+      cursor:pointer;
+      font-weight:700;
+    }
+    .btn-read:hover{background: rgba(255,204,0,.16)}
+    .url{
+      color:rgba(255,255,255,.35);
+      font-size:12px;
+      white-space:nowrap;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      max-width: 240px;
+    }
+
+    /* Status */
+    .status{
+      margin: 8px 0 14px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    /* Modal */
+    .hr-modal { position: fixed; inset: 0; display: none; z-index: 9999; }
+    .hr-modal.is-open { display: block; }
+    .hr-modal__backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.55); }
+    .hr-modal__panel {
+      position: absolute; left: 50%; top: 50%;
+      transform: translate(-50%, -50%);
+      width: min(920px, calc(100vw - 32px));
+      max-height: min(86vh, 860px);
+      overflow: auto;
+      border-radius: 18px;
+      background: #0f1623;
+      box-shadow: 0 20px 60px rgba(0,0,0,.45);
+      border: 1px solid rgba(255,255,255,.08);
+    }
+    .hr-modal__content { padding: 22px 22px 18px; }
+    .hr-modal__close {
+      position: sticky; top: 0; margin-left: auto; display: block;
+      border: 0; background: transparent; color: #fff;
+      font-size: 20px; padding: 14px 16px; cursor: pointer;
+    }
+    .hr-modal__meta { color: rgba(255,255,255,.65); font-size: 13px; margin-bottom: 10px; }
+    .hr-modal__title { margin: 0 0 12px; font-size: 28px; line-height: 1.15; }
+    .hr-modal__section h3 { margin: 14px 0 8px; font-size: 14px; color: rgba(255,255,255,.85); }
+    .hr-modal__section p { margin: 0; color: rgba(255,255,255,.85); line-height: 1.6; white-space: pre-wrap; }
+    .hr-modal__grid { display: grid; grid-template-columns: 1fr; gap: 14px; margin-top: 10px; }
+    @media (min-width: 840px) { .hr-modal__grid { grid-template-columns: 1fr 1fr 1fr; } }
+    .hr-modal__section ul { margin: 0; padding-left: 18px; color: rgba(255,255,255,.85); }
+    .hr-modal__section li { margin: 0 0 8px; line-height: 1.5; }
+    .hr-modal__actions { margin-top: 16px; display: flex; justify-content: space-between; gap: 10px; flex-wrap:wrap; }
+    .hr-btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 10px 14px; border-radius: 12px;
+      background: rgba(255,255,255,.08); color: #fff; text-decoration: none;
+      border: 1px solid rgba(255,255,255,.12);
+    }
+    .hr-btn:hover { background: rgba(255,255,255,.12); }
+    .hr-btn.secondary{background: rgba(255,204,0,.10); border-color: rgba(255,204,0,.25); color: rgba(255,235,180,.98);}
+
+    /* Footer */
+    .footer{
+      margin-top:22px;
+      padding-top:14px;
+      border-top:1px solid rgba(255,255,255,.08);
+      color: rgba(255,255,255,.45);
       font-size: 12px;
-      color: var(--muted);
+      display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;
     }
-
-    .ad {
-      margin: 16px 0 12px;
-      padding: 10px;
-      border-radius: 12px;
-      border: 1px dashed rgba(148,163,184,0.55);
-      background: rgba(15,23,42,0.85);
-      font-size: 12px;
-      color: var(--muted);
-      text-align: center;
-    }
-    .ad span {
-      display: block;
-      font-weight: 600;
-      color: var(--accent);
-      margin-bottom: 2px;
-    }
-
-    .side-ad {
-      position: fixed;
-      top: 70px;
-      width: 260px;
-      height: calc(100vh - 100px);
-      border-radius: 14px;
-      border: 1px dashed rgba(148,163,184,0.55);
-      background: rgba(15,23,42,0.92);
-      color: var(--muted);
-      font-size: 11px;
-      padding: 10px;
-      display: none;
-      z-index: 15;
-      text-align: center;
-      overflow: hidden;
-    }
-    .side-ad span {
-      display: block;
-      font-weight: 600;
-      color: var(--accent);
-      margin-bottom: 4px;
-    }
-    .side-ad-left { left: 12px; }
-    .side-ad-right { right: 12px; }
-
-    .grid {
-      margin-top: 12px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-    .card {
-      display: grid;
-      grid-template-columns: 200px minmax(0,1fr);
-      gap: 14px;
-      padding: 12px;
-      border-radius: 14px;
-      background: rgba(15,23,42,0.96);
-      border: 1px solid rgba(31,41,55,0.9);
-      box-shadow: 0 14px 40px rgba(0,0,0,0.65);
-    }
-    .thumb-wrap {
-      border-radius: 10px;
-      overflow: hidden;
-      background: radial-gradient(circle at 10% 0%, #1f2937, #020617);
-      border: 1px solid rgba(31,41,55,0.9);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 11px;
-      color: var(--muted);
-      text-align: center;
-      padding: 6px;
-    }
-    .thumb-wrap img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-    .card-body {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-    .meta-line {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      align-items: center;
-      font-size: 11px;
-      color: var(--muted);
-    }
-    .badge-source {
-      padding: 2px 7px;
-      border-radius: 999px;
-      border: 1px solid rgba(55,65,81,0.9);
-      background: rgba(15,23,42,0.9);
-    }
-    .badge-tag {
-      padding: 2px 7px;
-      border-radius: 999px;
-      background: rgba(34,197,94,0.08);
-      border: 1px solid rgba(34,197,94,0.25);
-      color: #bbf7d0;
-    }
-    .badge-cat {
-      padding: 2px 7px;
-      border-radius: 999px;
-      background: rgba(59,130,246,0.12);
-      border: 1px solid rgba(59,130,246,0.35);
-      color: #bfdbfe;
-    }
-    .headline {
-      font-size: 16px;
-      font-weight: 600;
-      color: #f9fafb;
-      margin: 2px 0;
-    }
-    .summary {
-      font-size: 13px;
-      color: #d1d5db;
-    }
-    .actions {
-      margin-top: 6px;
-      display: flex;
-      gap: 8px;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-    .btn-read {
-      font-size: 12px;
-      padding: 5px 11px;
-      border-radius: 999px;
-      border: none;
-      cursor: pointer;
-      background: var(--accent);
-      color: #1f2937;
-      font-weight: 600;
-      text-decoration: none;
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
-    }
-    .btn-read:hover {
-      filter: brightness(1.08);
-    }
-    .source-url {
-      font-size: 11px;
-      color: var(--muted);
-      max-width: 220px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-
-    footer {
-      margin-top: 26px;
-      font-size: 11px;
-      color: var(--muted);
-      text-align: center;
-    }
-
-    @media (max-width: 768px) {
-      header { flex-direction: column; align-items: flex-start; }
-      .title { font-size: 18px; }
-      .subtitle { font-size: 12px; }
-      .card { grid-template-columns: 1fr; }
-      .thumb-wrap { height: 190px; }
-    }
-
-    @media (min-width: 1400px) {
-      .shell {
-        max-width: 900px;
-      }
-      .side-ad {
-        display: block;
-      }
-    }
+    .footer a{color: rgba(255,255,255,.60); text-decoration:none}
+    .footer a:hover{text-decoration:underline}
   </style>
 </head>
+
 <body>
-  <!-- SOL YAN REKLAM -->
-  <div class="side-ad side-ad-left">
-    <span>Sol Kenar Reklam Alanı</span>
-    Buraya 160x600 / 300x600 AdSense skyscraper kodunu ekleyebilirsin.
-  </div>
-
-  <!-- SAĞ YAN REKLAM -->
-  <div class="side-ad side-ad-right">
-    <span>Sağ Kenar Reklam Alanı</span>
-    Buraya ikinci skyscraper veya sabit sponsor logo yerleştirebilirsin.
-  </div>
-
-  <div class="shell">
-    <header>
-      <div class="logo">HR</div>
-      <div class="title-wrap">
-        <div class="title">Haber Robotu</div>
-        <div class="subtitle">Türkiye ve dünyadan haberler, her saat otomatik güncellenir.</div>
-        <div class="top-nav">
-          <a href="about.html">Hakkında</a>
-          <a href="privacy.html">Gizlilik Politikası</a>
-          <a href="terms.html">Kullanım Şartları</a>
-          <a href="contact.html">İletişim</a>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">
+        <div class="logo">HR</div>
+        <div>
+          <h1>Haber Robotu</h1>
+          <div class="sub">Canlı otomatik haber akışı</div>
         </div>
       </div>
-      <div class="pill">Canlı otomatik haber akışı</div>
-    </header>
 
-    <!-- Kaynak filtreleri -->
-    <div class="toolbar">
-      <div class="filters">
-        <button class="btn-filter btn-filter-source active" data-filter-source="all">Tüm Kaynaklar</button>
-        <button class="btn-filter btn-filter-source" data-filter-source="tr">Türkiye Kaynaklı</button>
-        <button class="btn-filter btn-filter-source" data-filter-source="intl">Yabancı Kaynaklı</button>
+      <div class="searchwrap">
+        <div class="search" title="Başlık/özet içinde ara">
+          <span style="color:rgba(255,255,255,.45)">🔎</span>
+          <input id="q" type="text" placeholder="Haberlerde ara..." autocomplete="off" />
+        </div>
       </div>
-      <div class="status" id="status">Haberler yükleniyor...</div>
+
+      <div class="pill" id="reloadBtn" title="Haberleri yenile">Yenile</div>
     </div>
 
-    <!-- Kategori filtreleri -->
-    <div class="toolbar" style="margin-top:8px;">
-      <div class="filters">
-        <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="teknoloji">Teknoloji</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="saglik">Sağlık</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="ekonomi">Ekonomi</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="magazin">Magazin</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="bilim">Bilim</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="savunma">Savunma / Askeri</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="oyun">Oyun / Dijital</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="otomobil">Otomobil</button>
-        <button class="btn-filter btn-filter-cat" data-filter-cat="yasam">Yaşam</button>
+    <div class="filters" id="filters"></div>
+
+    <div class="status" id="status">Yükleniyor...</div>
+
+    <div class="grid" id="news"></div>
+
+    <div class="footer">
+      <div>© <span id="yy"></span> Haber Robotu</div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap">
+        <a href="about.html">Hakkında</a>
+        <a href="privacy.html">Gizlilik</a>
+        <a href="terms.html">Kullanım Şartları</a>
+        <a href="contact.html">İletişim</a>
       </div>
     </div>
+  </div>
 
-    <!-- ÜST BANNER REKLAM ALANI -->
-    <div class="ad">
-      <span>Üst Banner Reklam Alanı – 728x90</span>
-      Google AdSense kodunu bu kutunun içine yerleştireceksin.
+  <!-- Reader Modal -->
+  <div id="readerModal" class="hr-modal" aria-hidden="true">
+    <div class="hr-modal__backdrop" data-close="1"></div>
+
+    <div class="hr-modal__panel" role="dialog" aria-modal="true" aria-label="Haber Detayı">
+      <button class="hr-modal__close" type="button" data-close="1">✕</button>
+
+      <div class="hr-modal__content">
+        <div class="hr-modal__meta" id="rmMeta"></div>
+        <h1 class="hr-modal__title" id="rmTitle"></h1>
+
+        <div class="hr-modal__section">
+          <h3>Uzun Özet</h3>
+          <p id="rmLong"></p>
+        </div>
+
+        <div class="hr-modal__grid">
+          <div class="hr-modal__section">
+            <h3>Neden önemli?</h3>
+            <ul id="rmWhy"></ul>
+          </div>
+
+          <div class="hr-modal__section">
+            <h3>Arka plan</h3>
+            <ul id="rmBg"></ul>
+          </div>
+
+          <div class="hr-modal__section">
+            <h3>Olası etkiler</h3>
+            <ul id="rmImp"></ul>
+          </div>
+        </div>
+
+        <div class="hr-modal__actions">
+          <a id="rmSource" class="hr-btn secondary" href="#" target="_blank" rel="noopener noreferrer">
+            Kaynağa git
+          </a>
+          <button id="rmCopy" class="hr-btn" type="button">Linki kopyala</button>
+        </div>
+      </div>
     </div>
-
-    <div class="grid" id="haberler"></div>
-
-    <!-- ALT REKLAM ALANI -->
-    <div class="ad">
-      <span>Alt Banner / Native Reklam Alanı</span>
-      Sponsorlu içerik veya ikinci AdSense birimi için ideal alan.
-    </div>
-
-    <!-- PAYLAŞ BLOĞU -->
-    <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">
-      Bu sayfayı paylaş:
-      <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F" 
-         target="_blank" 
-         style="color:#facc15; margin-left:8px; text-decoration:none;">
-         WhatsApp
-      </a>
-      <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F" 
-         target="_blank" 
-         style="color:#facc15; margin-left:12px; text-decoration:none;">
-         X (Twitter)
-      </a>
-      <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler" 
-         target="_blank" 
-         style="color:#facc15; margin-left:12px; text-decoration:none;">
-         Telegram
-      </a>
-    </div>
-
-    <footer>
-      İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır,
-      detaylar için her haberdeki “Haberi Oku” butonuna tıklayarak kaynağa gidebilirsiniz.
-    </footer>
   </div>
 
   <script>
-    let ALL_ARTICLES = [];
-    let CURRENT_SOURCE_FILTER = "all";
-    let CURRENT_CATEGORY_FILTER = "all";
+    const LATEST_JSON = "./news/latest.json";
 
-    const CATEGORY_LABELS = {
-      gundem: "Gündem",
-      dunya: "Dünya",
-      spor: "Spor",
-      teknoloji: "Teknoloji",
-      saglik: "Sağlık",
-      ekonomi: "Ekonomi",
-      magazin: "Magazin",
-      bilim: "Bilim",
-      savunma: "Savunma / Askeri",
-      oyun: "Oyun / Dijital",
-      otomobil: "Otomobil",
-      yasam: "Yaşam"
+    const CATEGORIES = ["Hepsi","Türkiye","Dünya","Ekonomi","Teknoloji","Spor","Sağlık"];
+
+    const state = {
+      articles: [],
+      byId: {},
+      category: "Hepsi",
+      q: ""
     };
 
-    const CATEGORY_KEYWORDS = {
-      spor: [
-        " spor", "maç", "mac ", "lig ", "şampiyona", "gol ",
-        "transfer", "hakem", "derbi", "futbol", "basketbol",
-        "voleybol", "tenis"
-      ],
-      teknoloji: [
-        "teknoloji", "uygulama", "yazılım", "yazilim", "telefon",
-        "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ",
-        "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar",
-        "laptop", "apple", "samsung", "google", "microsoft",
-        "uzay", "roket", "uydu"
-      ],
-      saglik: [
-        "sağlık", "saglik", "hastane", "doktor", "virüs", "virus",
-        "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı",
-        "asi ", "covid", "koronavirüs", "koronavirus", "grip",
-        "diyet", "obezite"
-      ],
-      ekonomi: [
-        "ekonomi", "ekonomik", "dolar", "euro", "altın", "altin",
-        "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat",
-        "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce",
-        "vergi", "asgari ücret", "memur maaşı"
-      ],
-      magazin: [
-        "magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu",
-        "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk",
-        "ask ", "görüntülendi", "konser", "klip", "festival"
-      ],
-      bilim: [
-        "bilim", "araştırma", "arastirma", "deney", "bilim insanı",
-        "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya",
-        "biyoloji", "genetik", "astronomi", "nasa", "teleskop"
-      ],
-      savunma: [
-        "savunma", "savunma sanayii", "ordu", "asker", "tatbikat",
-        "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri",
-        "deniz kuvvetleri", "operasyon", "terör", "teror",
-        "saldırı", "saldiri", "nato", "güvenlik güçleri"
-      ],
-      oyun: [
-        "oyun", "video oyunu", "bilgisayar oyunu", "playstation",
-        "ps4", "ps5", "xbox", "nintendo", "switch", "steam",
-        "epic games", "battle.net", "mobil oyun", "battle royale",
-        "e-spor", "espor", "gamer", "gaming", "call of duty",
-        "pubg", "fortnite", "valorant", "cs2", "counter strike",
-        "league of legends", "dota", "gta", "fifa", "efootball"
-      ],
-      otomobil: [
-        "otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan",
-        "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai",
-        "trafik kazası", "trafik", "sürücü", "surucu", "otoyol",
-        "togg", "araç muayene", "lastik"
-      ],
-      yasam: [
-        "yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk",
-        "evlilik", "ilişki", "iliski", "alışveriş", "alisveris",
-        "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon",
-        "hobi", "ev hayatı", "gunluk hayat"
-      ]
-    };
+    function escText(s){ return (s ?? "").toString(); }
 
-    function getDomain(url) {
-      try {
-        const u = new URL(url);
-        return u.hostname.replace(/^www\./, "");
-      } catch {
-        return "";
-      }
-    }
-
-    function classifySource(url) {
-      const d = getDomain(url);
-      if (!d) return { label: "Bilinmeyen", type: "intl" };
-      const isTr = d.endsWith(".tr");
-      return {
-        label: d,
-        type: isTr ? "tr" : "intl"
-      };
-    }
-
-        function classifyCategory(article) {
-      const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
-      const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
-      const src = classifySource(article.url);
-
-      // 1) RSS kategorilerinden harita çıkar (ama hemen return ETME)
-      const mappedFromRss = [];
-
-      const mapFromRss = (c) => {
-        // Dünya / politika / uluslararası
-        if (
-          c.includes("world") ||
-          c.includes("us & canada") ||
-          c.includes("us and canada") ||
-          c.includes("americas") ||
-          c.includes("africa") ||
-          c.includes("asia") ||
-          c.includes("europe") ||
-          c.includes("middle east") ||
-          c.includes("international") ||
-          c.includes("global") ||
-          c.includes("politic")
-        ) {
-          return "dunya";
-        }
-
-        // Ekonomi / iş dünyası
-        if (
-          c.includes("business") ||
-          c.includes("economy") ||
-          c.includes("market") ||
-          c.includes("finance") ||
-          c.includes("money")
-        ) {
-          return "ekonomi";
-        }
-
-        // Spor
-        if (c.includes("sport") || c.includes("sports")) {
-          return "spor";
-        }
-
-        // Teknoloji / bilim
-        if (c.includes("technology") || c.includes("tech")) {
-          return "teknoloji";
-        }
-        if (c.includes("science") || c.includes("environment")) {
-          return "bilim";
-        }
-
-        // Sağlık
-        if (c.includes("health") || c.includes("medical") || c.includes("medicine")) {
-          return "saglik";
-        }
-
-        // Magazin / eğlence / kültür
-        if (
-          c.includes("entertainment") ||
-          c.includes("arts") ||
-          c.includes("culture") ||
-          c.includes("magazin")
-        ) {
-          return "magazin";
-        }
-
-        // Türkiye içi haberler
-        if (
-          c.includes("turkiye") ||
-          c.includes("türkiye") ||
-          c.includes("gündem") ||
-          c.includes("gundem") ||
-          c.includes("yerel")
-        ) {
-          return "gundem";
-        }
-
-        return null;
-      };
-
-      for (const rc of rssCats) {
-        const mapped = mapFromRss(rc);
-        if (mapped && !mappedFromRss.includes(mapped)) {
-          mappedFromRss.push(mapped);
-        }
-      }
-
-      // Öncelik sırası: Dünya > Ekonomi > Spor > Teknoloji > Sağlık > Bilim > Magazin > Gündem
-      const priority = ["dunya", "ekonomi", "spor", "teknoloji", "saglik", "bilim", "magazin", "gundem"];
-      for (const p of priority) {
-        if (mappedFromRss.includes(p)) {
-          return p;
-        }
-      }
-
-      // 2) RSS ile belirlenemediyse, kelime tabanlı puanlama
-      const scores = {};
-      let bestCat = null;
-      let bestScore = 0;
-
-      for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
-        let score = 0;
-        for (const k of keywords) {
-          if (text.includes(k)) {
-            score++;
-          }
-        }
-        scores[cat] = score;
-        if (score > bestScore) {
-          bestScore = score;
-          bestCat = cat;
-        }
-      }
-
-      // Magazin için ek temkin: en az 2 eşleşme yoksa ve başka kategoride 1+ eşleşme varsa magazin seçme
-      if (bestCat === "magazin") {
-        const maxOther = Object.entries(scores)
-          .filter(([cat]) => cat !== "magazin")
-          .reduce((m, [, s]) => Math.max(m, s), 0);
-        if (bestScore < 2 && maxOther >= 1) {
-          // başka kategoriye kaydır
-          bestCat = Object.entries(scores)
-            .filter(([cat]) => cat !== "magazin" && scores[cat] === maxOther)
-            .map(([cat]) => cat)[0] || null;
-        }
-      }
-
-      // 3) Hâlâ güçlü eşleşme yoksa kaynağa göre Gündem / Dünya
-      if (!bestCat || bestScore === 0) {
-        return src.type === "intl" ? "dunya" : "gundem";
-      }
-
-      return bestCat;
-    }
-
-
-    function renderArticles() {
-      const container = document.getElementById("haberler");
-      container.innerHTML = "";
-
-      const list = ALL_ARTICLES.filter(a => {
-        const src = classifySource(a.url);
-        if (CURRENT_SOURCE_FILTER === "tr" && src.type !== "tr") return false;
-        if (CURRENT_SOURCE_FILTER === "intl" && src.type !== "intl") return false;
-
-        const cat = classifyCategory(a);
-        if (CURRENT_CATEGORY_FILTER !== "all" && cat !== CURRENT_CATEGORY_FILTER) return false;
-
-        return true;
+    function buildFilters(){
+      const wrap = document.getElementById("filters");
+      wrap.innerHTML = "";
+      CATEGORIES.forEach(cat => {
+        const b = document.createElement("div");
+        b.className = "pill" + (cat === state.category ? " active" : "");
+        b.textContent = cat;
+        b.dataset.cat = cat;
+        wrap.appendChild(b);
       });
+    }
 
-      list.forEach((a, index) => {
-        if (index > 0 && index % 6 === 0) {
-          const ad = document.createElement("div");
-          ad.className = "ad";
-          ad.innerHTML = "<span>Akış İçi Reklam Alanı</span>Bu satır Google AdSense in-feed reklam birimi için ayrıldı.";
-          container.appendChild(ad);
-        }
+    function formatMeta(a){
+      const src = a.source ? a.source : "Kaynak";
+      const cats = (a.rss_categories && a.rss_categories.length) ? a.rss_categories.join(", ") : "";
+      return {src, cats};
+    }
 
-        const src = classifySource(a.url);
-        const catKey = classifyCategory(a);
-        const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+    function pickTitle(a){
+      return (a.title_tr && a.title_tr.trim()) ? a.title_tr : (a.title || "Başlık yok");
+    }
 
-        const card = document.createElement("article");
-        card.className = "card";
+    function pickSummary(a){
+      const s = (a.summary_tr && a.summary_tr.trim()) ? a.summary_tr : (a.summary || "");
+      return s;
+    }
 
-        const imgHtml = a.image
-          ? `<img src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
-          : `<div>Görsel bulunamadı</div>`;
+    function cardHTML(a){
+      const meta = formatMeta(a);
+      const catLabel = (a.rss_categories && a.rss_categories[0]) ? a.rss_categories[0] : "";
+      const img = (a.image && a.image.trim()) ? `<img src="${a.image}" alt="">` : `<div class="noimg">Görsel yok</div>`;
+      const url = escText(a.url || "");
+      return `
+        <div class="card">
+          <div class="thumb">${img}</div>
 
-        card.innerHTML = `
-          <div class="thumb-wrap">
-            ${imgHtml}
-          </div>
-          <div class="card-body">
-            <div class="meta-line">
-              <span class="badge-source">${src.label}</span>
-              <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
-              <span class="badge-cat">${catLabel}</span>
+          <div class="cardbody">
+            <div class="meta">
+              <span class="badge src">${escText(meta.src)}</span>
+              ${catLabel ? `<span class="badge cat">${escText(catLabel)}</span>` : ""}
             </div>
-            <h2 class="headline">${a.title || "Başlık yok"}</h2>
-            <p class="summary">${a.summary || ""}</p>
+
+            <h2 class="title">${escText(pickTitle(a))}</h2>
+            <p class="summary">${escText(pickSummary(a))}</p>
+
             <div class="actions">
-              <button class="btn-read" data-id="${a.id}">
-  Haberi Oku
-</button>
-              <span class="source-url">${a.url}</span>
+              <button class="btn-read" type="button" data-open-reader="1" data-id="${escText(a.id)}">
+                Haberi Oku
+              </button>
+              <div class="url" title="${url}">${url}</div>
             </div>
           </div>
-        `;
-        container.appendChild(card);
-      });
-
-      if (list.length === 0) {
-        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";
-      }
+        </div>
+      `;
     }
 
-    async function loadNews() {
-      const status = document.getElementById("status");
-      try {
-        const res = await fetch("./news/latest.json?t=" + Date.now());
-        if (!res.ok) {
-          status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
-          return;
-        }
-        const data = await res.json();
-        ALL_ARTICLES = data.articles || [];
-        status.textContent = "Toplam " + ALL_ARTICLES.length + " haber yüklendi • generated_at: " + (data.generated_at || "");
-        renderArticles();
-      } catch (err) {
-        console.error(err);
-        status.textContent = "Haber yüklenirken hata oluştu: " + err;
+    function applyFilters(){
+      const q = state.q.trim().toLowerCase();
+      const cat = state.category;
+
+      return state.articles.filter(a => {
+        const cats = (a.rss_categories || []);
+        const catOk = (cat === "Hepsi") || cats.includes(cat);
+        if (!catOk) return false;
+
+        if (!q) return true;
+
+        const hay = (pickTitle(a) + " " + pickSummary(a)).toLowerCase();
+        return hay.includes(q);
+      });
+    }
+
+    function render(){
+      buildFilters();
+
+      const list = applyFilters();
+      const el = document.getElementById("news");
+      el.innerHTML = list.map(cardHTML).join("");
+
+      const st = document.getElementById("status");
+      st.textContent = `Gösterilen: ${list.length} / Toplam: ${state.articles.length}`;
+    }
+
+    async function loadNews(){
+      const st = document.getElementById("status");
+      st.textContent = "Haberler yükleniyor...";
+
+      const res = await fetch(LATEST_JSON, {cache:"no-store"});
+      if(!res.ok){
+        st.textContent = `Hata: JSON alınamadı (HTTP ${res.status})`;
+        return;
       }
+      const data = await res.json();
+      const list = Array.isArray(data.articles) ? data.articles : [];
+
+      state.articles = list;
+
+      state.byId = {};
+      list.forEach(a => { if(a && a.id) state.byId[a.id] = a; });
+
+      render();
+    }
+
+    // MODAL
+    function fillList(ul, arr){
+      ul.innerHTML = "";
+      (arr || []).forEach(t => {
+        const li = document.createElement("li");
+        li.textContent = escText(t);
+        ul.appendChild(li);
+      });
+    }
+
+    function openReader(article){
+      const modal = document.getElementById("readerModal");
+      const rmMeta = document.getElementById("rmMeta");
+      const rmTitle = document.getElementById("rmTitle");
+      const rmLong = document.getElementById("rmLong");
+      const rmWhy = document.getElementById("rmWhy");
+      const rmBg = document.getElementById("rmBg");
+      const rmImp = document.getElementById("rmImp");
+      const rmSource = document.getElementById("rmSource");
+
+      const title = pickTitle(article);
+      rmTitle.textContent = title;
+
+      const src = article.source ? `Kaynak: ${article.source}` : "";
+      const cats = (article.rss_categories && article.rss_categories.length) ? ` • ${article.rss_categories.join(", ")}` : "";
+      rmMeta.textContent = (src + cats).trim();
+
+      rmLong.textContent =
+        (article.summary_tr_long && article.summary_tr_long.trim())
+          ? article.summary_tr_long
+          : (article.summary_tr || article.summary || "");
+
+      fillList(rmWhy, article.why_important);
+      fillList(rmBg, article.background);
+      fillList(rmImp, article.possible_impacts);
+
+      rmSource.href = article.url || "#";
+
+      modal.classList.add("is-open");
+      modal.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeReader(){
+      const modal = document.getElementById("readerModal");
+      modal.classList.remove("is-open");
+      modal.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
     }
 
     document.addEventListener("click", (e) => {
-  const btn = e.target.closest(".btn-read");
-  if (!btn) return;
-function escapeHtml(s) {
-  if (!s) return "";
-  return String(s)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;");
-}
-
-function section(title, text) {
-  if (!text) return "";
-  return `
-    <div class="reader-section">
-      <h3>${title}</h3>
-      <p>${escapeHtml(text).replaceAll("\n", "<br>")}</p>
-    </div>
-  `;
-}
-
-function openReader(a) {
-  const modal = document.getElementById("reader-modal");
-  const body  = modal.querySelector(".reader-body");
-
-  body.innerHTML = `
-    <h2 class="reader-title">${escapeHtml(a.title_tr || a.title)}</h2>
-
-    ${section("Uzun Özet", a.summary_tr_long)}
-    ${section("Neden önemli?", a.why_important_tr)}
-    ${section("Arka plan", a.background_tr)}
-    ${section("Olası etkiler", a.possible_impacts_tr)}
-
-    <a class="source-link" href="${a.url}" target="_blank" rel="noopener">
-      Kaynağa Git
-    </a>
-  `;
-
-  modal.classList.add("open");
-}
-      
-  const id = btn.dataset.id;
-  const article = window.__NEWS__.find(x => String(x.id) === String(id));
-  if (!article) return;
-
-  openReader(article);
-});
-    document.addEventListener("click", function (e) {
-      const srcBtn = e.target.closest(".btn-filter-source");
-      if (srcBtn) {
-        document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
-        srcBtn.classList.add("active");
-        CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";
-        renderArticles();
+      const openBtn = e.target.closest("[data-open-reader='1']");
+      if(openBtn){
+        const id = openBtn.getAttribute("data-id");
+        const a = state.byId[id];
+        if(a) openReader(a);
         return;
       }
-      const catBtn = e.target.closest(".btn-filter-cat");
-      if (catBtn) {
-        document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
-        catBtn.classList.add("active");
-        CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";
-        renderArticles();
+      const closeBtn = e.target.closest("[data-close='1']");
+      if(closeBtn){
+        closeReader();
+        return;
+      }
+
+      const catBtn = e.target.closest("[data-cat]");
+      if(catBtn){
+        state.category = catBtn.dataset.cat;
+        render();
+        return;
       }
     });
 
+    document.addEventListener("keydown", (e) => {
+      if(e.key === "Escape") closeReader();
+    });
+
+    document.getElementById("q").addEventListener("input", (e) => {
+      state.q = e.target.value || "";
+      render();
+    });
+
+    document.getElementById("reloadBtn").addEventListener("click", async () => {
+      await loadNews();
+    });
+
+    document.getElementById("rmCopy").addEventListener("click", async () => {
+      const a = document.getElementById("rmSource").href;
+      try{
+        await navigator.clipboard.writeText(a);
+        document.getElementById("rmCopy").textContent = "Kopyalandı";
+        setTimeout(() => (document.getElementById("rmCopy").textContent = "Linki kopyala"), 1200);
+      }catch(_){
+        alert("Kopyalama başarısız. Link: " + a);
+      }
+    });
+
+    document.getElementById("yy").textContent = new Date().getFullYear();
+
+    // İlk yükleme
     loadNews();
   </script>
 </body>
 </html>
-.reader-modal {
-  position: fixed;
-  inset: 0;
-  background: rgba(0,0,0,.65);
-  display: none;
-  z-index: 9999;
-}
-.reader-modal.open { display: block; }
-
-.reader-content {
-  max-width: 820px;
-  margin: 40px auto;
-  background: #0f172a;
-  color: #fff;
-  padding: 20px;
-  border-radius: 16px;
-}
-
-.reader-title { font-size: 22px; margin-bottom: 14px; }
-.reader-section { margin: 16px 0; }
-.reader-section h3 { margin-bottom: 6px; font-size: 16px; }
-.reader-section p { line-height: 1.6; }
-
-.source-link { display: inline-block; margin-top: 16px; opacity: .8; }
-.reader-close {
-  position: absolute;
-  right: 16px;
-  top: 12px;
-  background: none;
-  border: none;
-  color: #fff;
-  font-size: 18px;
-}
