@@ -1,742 +1,707 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Haber Robotu - Otomatik Güncel Haberler</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#0b1220" />
+  <title>Haber Robotu – Otomatik Güncel Haberler</title>
+  <meta name="description" content="Türkiye ve dünyadan haberler, otomatik güncellenir. Başlık ve özetler bilgilendirme amaçlıdır." />
 
-  <!-- Google AdSense: Auto Ads (slot yok) -->
+  <!-- AdSense Auto Ads (slot yok) -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
-    crossorigin="anonymous"></script>
+          crossorigin="anonymous"></script>
 
   <style>
     :root{
-      --bg:#0f172a;
-      --bg2:#0b1222;
-      --card:#0b2a3b;
-      --card2:#0a2433;
-      --border:rgba(255,255,255,.10);
-      --text:#e5e7eb;
-      --muted:#9ca3af;
-      --accent:#facc15;
-      --accent2:rgba(250,204,21,.14);
-      --shadow: 0 10px 30px rgba(0,0,0,.25);
+      --bg0:#070b14;
+      --bg1:#0b1220;
+      --card:#0e1a2f;
+      --card2:#0c1527;
+      --text:#e8eefc;
+      --muted:#9bb0d5;
+      --accent:#f5c542;
+      --line:rgba(255,255,255,.08);
+      --shadow: 0 16px 50px rgba(0,0,0,.35);
       --radius:18px;
     }
-
-    *{box-sizing:border-box}
+    *{ box-sizing:border-box; }
     body{
       margin:0;
-      font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
-      background: radial-gradient(1200px 700px at 20% 0%, #12304a 0%, var(--bg) 55%, #070b16 100%);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       color:var(--text);
+      background: radial-gradient(1200px 700px at 30% -10%, #172a52 0%, rgba(23,42,82,0) 60%),
+                  radial-gradient(1000px 600px at 90% 10%, #1b3a6b 0%, rgba(27,58,107,0) 55%),
+                  linear-gradient(180deg, var(--bg1), var(--bg0));
+      min-height:100vh;
     }
 
-    a{color:inherit}
-    .container{
-      max-width: 1280px;
-      margin: 0 auto;
-      padding: 14px 14px 70px;
-    }
-
-    /* 3 kolon layout (slot yok; sadece boş kolon/gutter) */
-    .layout{
+    .grid{
       display:grid;
-      grid-template-columns: 220px 1fr 220px;
-      gap: 14px;
+      grid-template-columns: 160px 1fr 160px;
+      gap:14px;
       align-items:start;
     }
-
-    /* Mobil/tablet tek kolona düş */
-    @media (max-width: 980px){
-      .layout{
-        grid-template-columns: 1fr;
-      }
-      .side{
-        display:none;
-      }
-      .container{
-        padding: 12px 12px 60px;
-      }
+    @media (max-width: 1060px){
+      .grid{ grid-template-columns: 1fr; }
+      .side{ display:none; }
     }
-
     .side{
-      position: sticky;
-      top: 86px;
-      height: calc(100vh - 110px);
-      border-radius: var(--radius);
-      background: linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.02));
-      border: 1px solid var(--border);
-      box-shadow: var(--shadow);
-      overflow:hidden;
-      padding: 12px;
+      position:sticky;
+      top:14px;
+      padding-top:6px;
+      min-height: 300px;
+      border-radius:14px;
+      border:1px solid rgba(255,255,255,.08);
+      background: rgba(255,255,255,.02);
+      box-shadow: 0 12px 40px rgba(0,0,0,.18);
     }
     .side .hint{
+      padding:10px;
+      color: rgba(232,238,252,.55);
       font-size:12px;
-      color:var(--muted);
-      line-height:1.35;
+      line-height:1.45;
     }
-    .side .hint b{color:var(--text)}
 
     /* Header */
-    .topbar{
-      position: sticky;
-      top: 0;
-      z-index: 50;
-      backdrop-filter: blur(10px);
-      background: rgba(10,15,30,.72);
-      border-bottom: 1px solid var(--border);
-    }
-    .topbar-inner{
-      max-width:1280px;
-      margin:0 auto;
-      padding: 10px 14px;
+    header{
       display:flex;
-      gap: 10px;
       align-items:center;
       justify-content:space-between;
+      gap:14px;
+      margin-bottom:14px;
+      flex-wrap:wrap;
     }
     .brand{
-      display:flex;
-      gap: 10px;
-      align-items:center;
-      min-width: 210px;
+      display:flex; align-items:center; gap:12px;
     }
     .logo{
-      width:42px;height:42px;border-radius:12px;
-      display:grid;place-items:center;
-      background: rgba(250,204,21,.12);
-      border:1px solid rgba(250,204,21,.22);
-      font-weight:800;
-      color:var(--accent);
-      letter-spacing:.5px;
+      width:54px; height:54px; border-radius:14px;
+      background: var(--accent);
+      color:#111;
+      font-weight:900;
+      display:grid; place-items:center;
+      box-shadow: 0 10px 30px rgba(245,197,66,.22);
+      flex:0 0 auto;
     }
-    .brand-title{
-      line-height:1.1;
+    .brand h1{
+      margin:0; font-size:28px; line-height:1.1;
+      letter-spacing:.2px;
     }
-    .brand-title .name{font-weight:800}
-    .brand-title .desc{font-size:12px;color:var(--muted)}
+    .brand p{ margin:4px 0 0; color:var(--muted); font-size:13px; }
+
     .navlinks{
-      display:flex;
-      gap: 14px;
-      align-items:center;
-      flex-wrap:wrap;
+      display:flex; flex-wrap:wrap; gap:10px;
       justify-content:flex-end;
-      font-size:13px;
-      color: var(--muted);
     }
     .navlinks a{
-      text-decoration:none;
-      padding: 6px 8px;
-      border-radius: 10px;
+      color:var(--muted);
+      font-size:13px;
+      padding:8px 10px;
+      border-radius:12px;
+      border:1px solid transparent;
     }
     .navlinks a:hover{
-      background: rgba(255,255,255,.06);
-      color: var(--text);
+      color:var(--text);
+      border-color: rgba(255,255,255,.12);
+      background: rgba(255,255,255,.03);
     }
 
-    /* Main panel */
+    /* Panel / Controls */
     .panel{
+      background: linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.02));
+      border:1px solid rgba(255,255,255,.08);
       border-radius: var(--radius);
-      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
-      border: 1px solid var(--border);
       box-shadow: var(--shadow);
-      overflow:hidden;
+      padding:14px;
     }
-    .panel-head{
-      padding: 14px 14px 10px;
-      border-bottom: 1px solid var(--border);
-    }
-    .panel-head-top{
+    .headlineRow{
       display:flex;
-      gap: 10px;
-      align-items:center;
+      align-items:flex-start;
       justify-content:space-between;
+      gap:12px;
+      margin-bottom:10px;
       flex-wrap:wrap;
     }
-    .headline{
-      font-weight:800;
-      font-size: 15px;
+    .headlineRow h2{
+      margin:0;
+      font-size:16px;
+      color:var(--text);
+      letter-spacing:.2px;
     }
-    .meta{
-      font-size: 12px;
-      color: var(--muted);
-      display:flex;
-      gap: 10px;
-      align-items:center;
-      flex-wrap:wrap;
-      justify-content:flex-end;
-    }
-    .meta .pill{
-      padding: 5px 10px;
-      border-radius: 999px;
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,.04);
-    }
-    .controls{
-      margin-top: 10px;
-      display:flex;
-      gap: 10px;
-      align-items:center;
-      flex-wrap:wrap;
-    }
+    .subnote{ color:var(--muted); font-size:12px; margin-top:6px; }
 
-    .search{
-      flex: 1 1 260px;
+    .tools{
       display:flex;
-      gap: 8px;
+      gap:10px;
+      flex-wrap:wrap;
       align-items:center;
-      border-radius: 14px;
-      border: 1px solid var(--border);
-      background: rgba(0,0,0,.22);
-      padding: 10px 12px;
+      margin-top:10px;
+    }
+    .btn{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 12px;
+      border-radius:12px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(255,255,255,.03);
+      color: var(--text);
+      font-size:13px;
+      cursor:pointer;
+      user-select:none;
+      transition:.15s ease;
+    }
+    .btn:hover{ transform: translateY(-1px); border-color: rgba(255,255,255,.22); }
+    .btn.primary{
+      border-color: rgba(245,197,66,.45);
+      background: rgba(245,197,66,.14);
+    }
+    .search{
+      flex: 1 1 240px;
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 12px;
+      border-radius:12px;
+      border:1px solid rgba(255,255,255,.12);
+      background: rgba(0,0,0,.18);
     }
     .search input{
       width:100%;
       border:0;
       outline:0;
-      background: transparent;
+      background:transparent;
       color: var(--text);
-      font-size: 14px;
+      font-size:13px;
     }
-    .btn{
-      border:1px solid var(--border);
-      background: rgba(255,255,255,.06);
-      color: var(--text);
-      padding: 10px 12px;
-      border-radius: 14px;
-      cursor:pointer;
-      font-weight:600;
-      font-size: 13px;
-    }
-    .btn:hover{background: rgba(255,255,255,.10)}
-    .btn-accent{
-      border-color: rgba(250,204,21,.25);
-      background: rgba(250,204,21,.12);
-      color: #fff;
-    }
-    .btn-accent:hover{background: rgba(250,204,21,.18)}
 
-    .chips{
-      padding: 10px 14px 14px;
+    .filters{
       display:flex;
-      gap: 8px;
       flex-wrap:wrap;
-      border-bottom: 1px solid var(--border);
+      gap:10px;
+      margin-top:10px;
     }
-    .chip{
-      border: 1px solid var(--border);
-      background: rgba(255,255,255,.04);
-      color: var(--text);
-      padding: 7px 10px;
+    .pill{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 12px;
       border-radius: 999px;
-      font-size: 12px;
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(255,255,255,.03);
+      color:var(--text);
+      font-size:13px;
       cursor:pointer;
       user-select:none;
+      transition:.15s ease;
     }
-    .chip.active{
-      border-color: rgba(250,204,21,.35);
-      background: rgba(250,204,21,.12);
-      color: #fff;
-      font-weight:700;
+    .pill:hover{ transform: translateY(-1px); }
+    .pill.active{
+      background: rgba(245,197,66,.14);
+      border-color: rgba(245,197,66,.35);
+      color: var(--text);
     }
 
+    #status{
+      margin:10px 0 0;
+      color:var(--muted);
+      font-size:13px;
+    }
+
+    /* List */
     .list{
-      padding: 14px;
-      display:flex;
-      flex-direction:column;
-      gap: 12px;
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:14px;
+      margin-top:14px;
     }
 
     .card{
-      display:grid;
-      grid-template-columns: 140px 1fr;
-      gap: 12px;
-      padding: 12px;
-      border-radius: 18px;
-      background: linear-gradient(180deg, rgba(11,42,59,.95), rgba(10,36,51,.95));
-      border: 1px solid rgba(255,255,255,.10);
-      box-shadow: 0 10px 24px rgba(0,0,0,.20);
-      cursor:pointer;
+      display:flex;
+      gap:14px;
+      padding:14px;
+      border-radius: var(--radius);
+      background: linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.02));
+      border:1px solid rgba(255,255,255,.08);
+      box-shadow: 0 12px 40px rgba(0,0,0,.25);
       overflow:hidden;
     }
 
-    /* Mobil: görsel üstte */
-    @media (max-width: 640px){
-      .card{
-        grid-template-columns: 1fr;
-      }
-      .thumb{
-        height: 180px;
-      }
-    }
-
+    /* Görseli büyüttük */
     .thumb{
-      border-radius: 14px;
+      width:170px;
+      height:120px;
+      border-radius:14px;
       overflow:hidden;
-      border: 1px solid rgba(255,255,255,.10);
-      background: rgba(0,0,0,.22);
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      min-height: 110px;
+      background: rgba(0,0,0,.2);
+      flex:0 0 auto;
+      display:grid;
+      place-items:center;
+      border:1px solid rgba(255,255,255,.08);
     }
-    .thumb img{
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      display:block;
-    }
-    .thumb .noimg{
-      font-size:12px;
-      color: var(--muted);
+    .thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+    .thumb .noimg{ color:rgba(255,255,255,.35); font-size:12px; padding:8px; text-align:center; }
+
+    /* Mobilde kart dikey */
+    @media (max-width: 640px){
+      .card{ flex-direction:column; }
+      .thumb{ width:100%; height:190px; }
     }
 
-    .badges{
+    .body{ min-width:0; flex:1; }
+    .meta{
       display:flex;
-      gap: 8px;
       flex-wrap:wrap;
+      gap:8px;
       align-items:center;
-      margin-bottom: 8px;
+      margin-bottom:8px;
     }
     .badge{
-      font-size: 11px;
-      padding: 5px 9px;
-      border-radius: 999px;
-      border: 1px solid rgba(255,255,255,.12);
-      background: rgba(255,255,255,.04);
-      color: var(--text);
+      font-size:12px;
+      padding:6px 10px;
+      border-radius:999px;
+      border:1px solid rgba(255,255,255,.10);
+      background: rgba(255,255,255,.03);
+      color: var(--muted);
     }
-    .badge.accent{
-      border-color: rgba(250,204,21,.26);
-      background: rgba(250,204,21,.12);
-      color:#fff;
+    .badge.source{ color:#d9e4ff; }
+    .badge.cat{ color:#b8c8f1; }
+    .badge.tag{
+      color: #111;
+      background: rgba(245,197,66,.95);
+      border-color: rgba(245,197,66,1);
       font-weight:700;
     }
 
     .title{
-      font-weight: 900;
-      font-size: 16px;
-      line-height: 1.25;
-      margin: 0 0 8px 0;
+      margin:0;
+      font-size:18px;
+      line-height:1.25;
+      letter-spacing:.1px;
+      word-break:break-word;
     }
     .summary{
-      margin: 0;
-      color: #d1d5db;
-      line-height: 1.45;
-      font-size: 13px;
-      display:-webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow:hidden;
+      margin:8px 0 0;
+      color:rgba(232,238,252,.78);
+      font-size:14px;
+      line-height:1.45;
+      word-break:break-word;
     }
-    .card-actions{
-      margin-top: 10px;
+    .actions{
       display:flex;
-      gap: 10px;
-      flex-wrap:wrap;
       align-items:center;
-      justify-content:space-between;
+      gap:10px;
+      margin-top:12px;
+      flex-wrap:wrap;
     }
-    .small{
-      font-size: 12px;
-      color: var(--muted);
-      word-break: break-word;
+    .url{
+      color: rgba(232,238,252,.45);
+      font-size:12px;
+      max-width:420px;
+      overflow:hidden;
+      text-overflow:ellipsis;
+      white-space:nowrap;
+    }
+
+    footer{
+      margin-top:16px;
+      color:rgba(232,238,252,.55);
+      font-size:12px;
+      line-height:1.5;
     }
 
     /* Modal */
-    .modal-backdrop{
-      position: fixed;
-      inset: 0;
-      background: rgba(0,0,0,.55);
+    .modalBackdrop{
+      position:fixed;
+      inset:0;
+      background: rgba(0,0,0,.58);
       display:none;
       align-items:center;
       justify-content:center;
-      z-index: 100;
-      padding: 16px;
+      padding:18px;
+      z-index:9999;
     }
-    .modal-backdrop.show{display:flex}
+    .modalBackdrop.open{ display:flex; }
     .modal{
-      width: min(980px, 100%);
-      max-height: min(86vh, 900px);
+      width:min(980px, 100%);
+      max-height: min(86vh, 780px);
       overflow:auto;
-      border-radius: 20px;
-      background: linear-gradient(180deg, rgba(15,23,42,.98), rgba(6,10,20,.98));
-      border: 1px solid rgba(255,255,255,.12);
-      box-shadow: 0 30px 80px rgba(0,0,0,.55);
+      border-radius: 22px;
+      background: linear-gradient(180deg, rgba(16,28,52,.98), rgba(10,17,32,.98));
+      border:1px solid rgba(255,255,255,.10);
+      box-shadow: 0 25px 90px rgba(0,0,0,.55);
+      padding:18px;
     }
-    .modal-head{
-      padding: 14px 14px 10px;
-      border-bottom: 1px solid rgba(255,255,255,.12);
+    .modalTop{
       display:flex;
-      gap: 10px;
       align-items:flex-start;
       justify-content:space-between;
+      gap:12px;
     }
-    .modal-title{
-      font-weight: 950;
-      font-size: 18px;
-      line-height:1.25;
+    .modal h3{
       margin:0;
+      font-size:22px;
+      line-height:1.25;
     }
-    .modal-sub{
+    .modal .small{
+      color:var(--muted);
+      font-size:12px;
       margin-top:6px;
-      color: var(--muted);
-      font-size: 12px;
-      word-break: break-word;
+      word-break:break-word;
     }
-    .modal-body{
-      padding: 14px;
-      display:flex;
-      flex-direction:column;
-      gap: 12px;
+    .close{
+      padding:10px 12px;
+      border-radius: 12px;
+      border:1px solid rgba(255,255,255,.14);
+      background: rgba(255,255,255,.04);
+      cursor:pointer;
+      color:var(--text);
+      user-select:none;
+    }
+    .modalBody{
+      margin-top:14px;
+      display:grid;
+      gap:12px;
     }
     .section{
+      border:1px solid rgba(255,255,255,.08);
+      background: rgba(255,255,255,.03);
       border-radius: 16px;
-      background: rgba(255,255,255,.04);
-      border: 1px solid rgba(255,255,255,.10);
-      padding: 12px;
+      padding:14px;
     }
-    .section h3{
-      margin: 0 0 8px 0;
-      font-size: 13px;
-      color: var(--accent);
+    .section h4{
+      margin:0 0 10px;
+      color:rgba(232,238,252,.92);
+      font-size:14px;
       letter-spacing:.2px;
     }
     .section p{
       margin:0;
-      white-space: pre-wrap;
+      color:rgba(232,238,252,.78);
+      font-size:14px;
       line-height:1.55;
-      color:#e5e7eb;
-      font-size: 13px;
+      white-space:pre-wrap;
+      word-break:break-word;
     }
-    .section ul{
+    .bullets{
       margin:0;
-      padding-left: 18px;
-      color:#e5e7eb;
+      padding-left:18px;
+      color:rgba(232,238,252,.78);
+      font-size:14px;
       line-height:1.55;
-      font-size: 13px;
     }
-
-    .modal-actions{
+    .modalActions{
       display:flex;
-      gap: 10px;
+      gap:10px;
       flex-wrap:wrap;
-      justify-content:flex-end;
-    }
-
-    /* Footer */
-    .footer{
-      margin-top: 14px;
-      padding: 12px 14px;
-      color: var(--muted);
-      font-size: 12px;
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap: 10px;
-      flex-wrap:wrap;
-    }
-    .footer a{
-      color: var(--muted);
-      text-decoration:none;
-      padding: 6px 8px;
-      border-radius: 10px;
-    }
-    .footer a:hover{
-      color: var(--text);
-      background: rgba(255,255,255,.06);
+      margin-top:10px;
     }
   </style>
 </head>
 
-<body>
-  <div class="topbar">
-    <div class="topbar-inner">
-      <div class="brand">
-        <div class="logo">HR</div>
-        <div class="brand-title">
-          <div class="name">Haber Robotu</div>
-          <div class="desc">Türkiye ve dünyadan haberler, otomatik güncellenir.</div>
-        </div>
-      </div>
-
-      <div class="navlinks">
-        <a href="about.html">Hakkında</a>
-        <a href="privacy.html">Gizlilik</a>
-        <a href="terms.html">Kullanım Şartları</a>
-        <a href="contact.html">İletişim</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="layout">
-      <!-- Sol kolon: slot yok, sadece layout/gutter -->
-      <aside class="side" aria-label="Sol kolon">
-        <div class="hint">
-          <b>Not:</b> Auto Ads açık. Bu alan bir reklam “kutusu” değildir; sadece 3 kolon düzeni için ayrılmış boşluk/gutter’dır.
-        </div>
-      </aside>
-
-      <!-- Orta kolon -->
-      <main class="panel" aria-label="Haber akışı">
-        <div class="panel-head">
-          <div class="panel-head-top">
-            <div class="headline">Canlı otomatik haber akışı</div>
-            <div class="meta">
-              <span class="pill" id="lastUpdated">Güncelleme: -</span>
-              <span class="pill" id="countPill">0 haber</span>
+      <!-- MAIN -->
+      <main>
+        <header>
+          <div class="brand">
+            <div class="logo">HR</div>
+            <div>
+              <h1>Haber Robotu</h1>
+              <p>Türkiye ve dünyadan haberler, otomatik güncellenir.</p>
             </div>
           </div>
 
-          <div class="controls">
-            <div class="search" title="Başlık/özet içinde ara">
-              <span style="color:var(--muted);font-size:13px;">🔎</span>
-              <input id="q" type="search" placeholder="Ara (ör. ekonomi, deprem, teknoloji)..." />
+          <nav class="navlinks">
+            <a href="/about.html">Hakkında</a>
+            <a href="/privacy.html">Gizlilik Politikası</a>
+            <a href="/terms.html">Kullanım Şartları</a>
+            <a href="/contact.html">İletişim</a>
+          </nav>
+        </header>
+
+        <section class="panel">
+          <div class="headlineRow">
+            <div>
+              <h2>Canlı otomatik haber akışı</h2>
+              <div class="subnote">Başlık/özet Türkçe gösterilir. Detayda “uzun özet + çıkarımlar” açılır.</div>
             </div>
-
-            <!-- Manuel yenileme (saatlik otomatik yenilemeden bağımsız) -->
-            <button class="btn btn-accent" id="btnRefresh" type="button">Yenile</button>
-            <button class="btn" id="btnClear" type="button">Sıfırla</button>
           </div>
-        </div>
 
-        <!-- Filtre chip'leri -->
-        <div class="chips" id="sourceChips">
-          <!-- JS dolduracak -->
-        </div>
-        <div class="chips" id="categoryChips" style="border-bottom:1px solid var(--border);">
-          <!-- JS dolduracak -->
-        </div>
-
-        <!-- Liste -->
-        <div class="list" id="list">
-          <div style="color:var(--muted);font-size:13px;">Yükleniyor…</div>
-        </div>
-
-        <div class="footer">
-          <div>Kaynak linkleri yayıncı sitelere aittir. Bu site “tam metin” yayınlamaz.</div>
-          <div>
-            <a href="about.html">Hakkında</a>
-            <a href="privacy.html">Gizlilik</a>
-            <a href="terms.html">Şartlar</a>
-            <a href="contact.html">İletişim</a>
+          <!-- YENİ: arama + manuel yenile -->
+          <div class="tools">
+            <div class="search" title="Başlık ve özet içinde ara">
+              <span style="color:rgba(232,238,252,.55)">🔎</span>
+              <input id="q" type="search" placeholder="Ara: ekonomi, teknoloji, deprem..." />
+            </div>
+            <button class="btn primary" id="btnRefresh" type="button">Yenile</button>
+            <button class="btn" id="btnReset" type="button">Sıfırla</button>
           </div>
-        </div>
+
+          <div class="filters" id="sourceFilters"></div>
+          <div class="filters" id="categoryFilters" style="margin-top:8px;"></div>
+
+          <div id="status">Haberler yükleniyor…</div>
+          <div class="list" id="newsList"></div>
+
+          <footer>
+            İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır.
+            Detaylar için her haberde “Kaynağa Git” bağlantısını kullanabilirsiniz.
+          </footer>
+        </section>
       </main>
 
-      <!-- Sağ kolon: slot yok, sadece layout/gutter -->
-      <aside class="side" aria-label="Sağ kolon">
-        <div class="hint">
-          <b>İpucu:</b> Auto Ads reklamları bazen ilk yüklemede görünmeyebilir; Google yerleşimi optimize eder.
+  <!-- MODAL -->
+  <div class="modalBackdrop" id="modalBackdrop" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modalTop">
+        <div>
+          <h3 id="modalTitle">Haber</h3>
+          <div class="small" id="modalMeta"></div>
         </div>
-      </aside>
-    </div>
-  </div>
-
-  <!-- Modal -->
-  <div class="modal-backdrop" id="modalBackdrop" role="dialog" aria-modal="true" aria-label="Haber detayı">
-    <div class="modal">
-      <div class="modal-head">
-        <div style="min-width:0;">
-          <h2 class="modal-title" id="mTitle">-</h2>
-          <div class="modal-sub" id="mMeta">-</div>
-        </div>
-        <div class="modal-actions">
-          <button class="btn" id="btnCopy" type="button">Linki kopyala</button>
-          <a class="btn btn-accent" id="btnGo" href="#" target="_blank" rel="noopener noreferrer">Kaynağa git</a>
-          <button class="btn" id="btnClose" type="button">Kapat</button>
-        </div>
+        <div class="close" id="modalClose">Kapat</div>
       </div>
 
-      <div class="modal-body">
+      <div class="modalBody">
         <div class="section">
-          <h3>Uzun özet</h3>
-          <p id="mLong">-</p>
+          <h4>Uzun Özet</h4>
+          <p id="modalLong"></p>
         </div>
 
         <div class="section">
-          <h3>Neden önemli?</h3>
-          <ul id="mWhy"></ul>
+          <h4>Neden Önemli?</h4>
+          <ul class="bullets" id="modalWhy"></ul>
         </div>
 
         <div class="section">
-          <h3>Arka plan</h3>
-          <ul id="mBg"></ul>
+          <h4>Arka Plan</h4>
+          <ul class="bullets" id="modalBg"></ul>
         </div>
 
         <div class="section">
-          <h3>Olası etkiler</h3>
-          <ul id="mImp"></ul>
+          <h4>Olası Etkiler</h4>
+          <ul class="bullets" id="modalImp"></ul>
+        </div>
+
+        <div class="modalActions">
+          <a class="btn primary" id="modalSource" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
+          <div class="btn" id="modalCopy">Linki Kopyala</div>
         </div>
       </div>
     </div>
   </div>
 
   <script>
-    const NEWS_URL = "news/latest.json";
+    const LATEST_URL = "/news/latest.json"; // GitHub Pages aynı domainde
+    const AUTO_REFRESH_MS = 60 * 60 * 1000; // saatlik
 
-    const state = {
-      raw: [],
-      view: [],
-      sourceFilter: "Tümü",
-      categoryFilter: "Tümü",
-      query: ""
-    };
+    let ALL = [];
+    let VIEW = [];
+    let sourceActive = "Tümü";
+    let typeActive = "Tümü";
+    let categoryActive = "Tümü";
+    let query = "";
 
-    const el = (id) => document.getElementById(id);
-
-    function esc(s){
-      return String(s ?? "").replace(/[&<>"']/g, m => ({
-        "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-      }[m]));
-    }
-
-    function sourceTypeLabel(article){
-      // Eğer pipeline'da type yoksa url domainine göre basit ayrım
-      try{
-        const u = new URL(article.url);
-        return u.hostname.endsWith(".tr") ? "Türkiye Kaynaklı" : "Yabancı Kaynaklı";
-      }catch(e){
-        return "";
-      }
-    }
+    function safeText(v){ return (v ?? "").toString().trim(); }
 
     function getDomain(url){
+      try{ return new URL(url).hostname.replace(/^www\./,''); }catch(_){ return ""; }
+    }
+
+    function classifySource(article){
+      const d = getDomain(article.url || "");
+      const isTr = d.endsWith(".tr");
+      return { label: article.source || d || "Kaynak", type: isTr ? "tr" : "intl" };
+    }
+
+    function categoriesOf(article){
+      const cats = Array.isArray(article.rss_categories) ? article.rss_categories : [];
+      return cats.map(c => safeText(c)).filter(Boolean);
+    }
+
+    function uniq(arr){ return [...new Set(arr)]; }
+
+    function el(tag, attrs={}, html=""){
+      const x = document.createElement(tag);
+      Object.entries(attrs).forEach(([k,v]) => x.setAttribute(k, v));
+      if(html) x.innerHTML = html;
+      return x;
+    }
+
+    // Görsel: normal -> olmazsa proxy fallback
+    function normalizeImageUrl(url){
+      const u = safeText(url);
+      if(!u) return "";
+      return u;
+    }
+    function proxyImage(url){
+      // weserv expects host/path without protocol or with, both can work.
+      // En stabil: https://images.weserv.nl/?url=<host/path>&w=420&h=280&fit=cover
       try{
         const u = new URL(url);
-        return u.hostname.replace(/^www\./,"");
+        const stripped = (u.host + u.pathname + (u.search || ""));
+        return "https://images.weserv.nl/?url=" + encodeURIComponent(stripped) + "&w=420&h=280&fit=cover";
       }catch(e){
-        return "";
+        // url parse edilemezse direkt encode dene
+        return "https://images.weserv.nl/?url=" + encodeURIComponent(url) + "&w=420&h=280&fit=cover";
       }
     }
 
-    function uniq(arr){
-      return [...new Set(arr)];
-    }
-
-    function buildChips(){
-      // Kaynak chip'leri
-      const sources = uniq(state.raw.map(a => a.source).filter(Boolean));
-      const srcWrap = el("sourceChips");
+    function renderFilters(){
+      const srcWrap = document.getElementById("sourceFilters");
+      const catWrap = document.getElementById("categoryFilters");
       srcWrap.innerHTML = "";
-      const srcAll = ["Tüm Kaynaklar", ...sources];
-
-      srcAll.forEach((name, idx) => {
-        const chip = document.createElement("div");
-        chip.className = "chip" + ((idx===0 && state.sourceFilter==="Tümü") || state.sourceFilter===name ? " active" : "");
-        chip.textContent = name;
-        chip.onclick = () => {
-          state.sourceFilter = (idx===0) ? "Tümü" : name;
-          applyFilters();
-          buildChips();
-        };
-        srcWrap.appendChild(chip);
-      });
-
-      // Kategori chip'leri (rss_categories)
-      const cats = uniq(state.raw.flatMap(a => (a.rss_categories || [])).filter(Boolean));
-      const catWrap = el("categoryChips");
       catWrap.innerHTML = "";
-      const catAll = ["Tümü", ...cats];
 
-      catAll.forEach((name, idx) => {
-        const chip = document.createElement("div");
-        chip.className = "chip" + ((idx===0 && state.categoryFilter==="Tümü") || state.categoryFilter===name ? " active" : "");
-        chip.textContent = name;
-        chip.onclick = () => {
-          state.categoryFilter = name;
-          applyFilters();
-          buildChips();
-        };
-        catWrap.appendChild(chip);
-      });
+      const sources = uniq(["Tümü", ...ALL.map(a => (a.source || "Kaynak"))]);
+      const types = ["Tümü", "Türkiye Kaynaklı", "Yabancı Kaynaklı"];
+      const categories = uniq(["Tümü", ...ALL.flatMap(a => categoriesOf(a))]);
+
+      function pill(text, active, onClick){
+        const p = el("div", { class: "pill" + (active ? " active" : "") });
+        p.textContent = text;
+        p.addEventListener("click", onClick);
+        return p;
+      }
+
+      sources.forEach(s => srcWrap.appendChild(
+        pill(s, sourceActive===s, () => { sourceActive=s; applyAndRender(); renderFilters(); })
+      ));
+      types.forEach(t => srcWrap.appendChild(
+        pill(t, typeActive===t, () => { typeActive=t; applyAndRender(); renderFilters(); })
+      ));
+      categories.forEach(c => catWrap.appendChild(
+        pill(c, categoryActive===c, () => { categoryActive=c; applyAndRender(); renderFilters(); })
+      ));
     }
 
-    function applyFilters(){
-      const q = (state.query || "").trim().toLowerCase();
+    function filterList(){
+      const q = (query || "").toLowerCase().trim();
 
-      state.view = state.raw.filter(a => {
-        if (state.sourceFilter !== "Tümü" && a.source !== state.sourceFilter) return false;
-        if (state.categoryFilter !== "Tümü") {
-          const c = (a.rss_categories || []);
-          if (!c.includes(state.categoryFilter)) return false;
-        }
-        if (q){
-          const t = (a.title_tr || a.title || "").toLowerCase();
-          const s = (a.summary_tr || a.summary || "").toLowerCase();
-          if (!t.includes(q) && !s.includes(q)) return false;
+      return ALL.filter(a => {
+        const src = (a.source || "Kaynak");
+        const csrc = classifySource(a);
+        const cats = categoriesOf(a);
+
+        if(sourceActive !== "Tümü" && src !== sourceActive) return false;
+        if(typeActive === "Türkiye Kaynaklı" && csrc.type !== "tr") return false;
+        if(typeActive === "Yabancı Kaynaklı" && csrc.type !== "intl") return false;
+        if(categoryActive !== "Tümü" && !cats.includes(categoryActive)) return false;
+
+        if(q){
+          const t = (safeText(a.title_tr) || safeText(a.title)).toLowerCase();
+          const s = (safeText(a.summary_tr) || safeText(a.summary)).toLowerCase();
+          if(!t.includes(q) && !s.includes(q)) return false;
         }
         return true;
       });
-
-      renderList();
-      el("countPill").textContent = `${state.view.length} haber`;
     }
 
-    function imgHtml(a){
-      const url = (a.image || "").trim();
-      if(!url){
-        return `<div class="thumb"><div class="noimg">Görsel yok</div></div>`;
-      }
-      // bazı siteler hotlink engelleyebilir; onerror fallback
-      return `
-        <div class="thumb">
-          <img src="${esc(url)}" alt="Haber görseli" loading="lazy"
-            onerror="this.closest('.thumb').innerHTML='<div class=&quot;noimg&quot;>Görsel yüklenemedi</div>';">
-        </div>
-      `;
+    function applyAndRender(){
+      VIEW = filterList();
+      renderList();
     }
 
     function renderList(){
-      const wrap = el("list");
-      if(!state.view.length){
-        wrap.innerHTML = `<div style="color:var(--muted);font-size:13px;">Bu filtreler için haber bulunamadı.</div>`;
-        return;
-      }
+      const list = document.getElementById("newsList");
+      const status = document.getElementById("status");
 
-      wrap.innerHTML = "";
-      state.view.forEach(a => {
-        const card = document.createElement("div");
-        card.className = "card";
+      status.textContent = VIEW.length
+        ? `Gösterilen haber: ${VIEW.length}`
+        : "Bu filtrelerle haber bulunamadı.";
 
-        const title = a.title_tr || a.title || "Başlık yok";
-        const summary = a.summary_tr || a.summary || "";
-        const src = a.source || getDomain(a.url) || "Kaynak";
-        const cat = (a.rss_categories && a.rss_categories[0]) ? a.rss_categories[0] : "Genel";
-        const typ = sourceTypeLabel(a);
+      list.innerHTML = "";
 
-        card.innerHTML = `
-          ${imgHtml(a)}
-          <div>
-            <div class="badges">
-              <span class="badge accent">${esc(src)}</span>
-              <span class="badge">${esc(typ || "Kaynak")}</span>
-              <span class="badge">${esc(cat)}</span>
-            </div>
-            <h3 class="title">${esc(title)}</h3>
-            <p class="summary">${esc(summary)}</p>
+      VIEW.forEach((a) => {
+        const csrc = classifySource(a);
+        const cats = categoriesOf(a);
+        const catLabel = cats[0] || "Genel";
 
-            <div class="card-actions">
-              <div class="small">${esc(a.url)}</div>
-            </div>
-          </div>
-        `;
+        const title = safeText(a.title_tr) || safeText(a.title) || "Başlık yok";
+        const summary = safeText(a.summary_tr) || safeText(a.summary) || "";
 
-        card.onclick = () => openModal(a);
-        wrap.appendChild(card);
+        const card = el("div", { class:"card" });
+
+        const thumb = el("div", { class:"thumb" });
+        const imgUrl = normalizeImageUrl(a.image);
+
+        if(imgUrl){
+          const img = new Image();
+          img.src = imgUrl;
+          img.alt = title;
+          img.loading = "lazy";
+          img.decoding = "async";
+
+          // 1. hata -> proxy dene
+          img.onerror = () => {
+            const p = proxyImage(imgUrl);
+            const img2 = new Image();
+            img2.src = p;
+            img2.alt = title;
+            img2.loading = "lazy";
+            img2.decoding = "async";
+            img2.onerror = () => { thumb.innerHTML = '<div class="noimg">Görsel yok</div>'; };
+            thumb.innerHTML = "";
+            thumb.appendChild(img2);
+          };
+
+          thumb.appendChild(img);
+        }else{
+          thumb.innerHTML = '<div class="noimg">Görsel yok</div>';
+        }
+
+        const body = el("div", { class:"body" });
+
+        const meta = el("div", { class:"meta" });
+        meta.appendChild(el("span", { class:"badge source" }, csrc.label));
+        meta.appendChild(el("span", { class:"badge tag" }, csrc.type==="tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"));
+        meta.appendChild(el("span", { class:"badge cat" }, catLabel));
+
+        const h = el("h3", { class:"title" });
+        h.textContent = title;
+
+        const p = el("p", { class:"summary" });
+        p.textContent = summary;
+
+        const actions = el("div", { class:"actions" });
+
+        const openBtn = el("div", { class:"btn primary" });
+        openBtn.textContent = "Haberi Oku";
+        openBtn.addEventListener("click", () => openModal(a));
+
+        const sourceBtn = el("a", { class:"btn", href: a.url, target:"_blank", rel:"noopener noreferrer" });
+        sourceBtn.textContent = "Kaynağa Git";
+
+        const url = el("div", { class:"url" });
+        url.textContent = a.url || "";
+
+        actions.appendChild(openBtn);
+        actions.appendChild(sourceBtn);
+        actions.appendChild(url);
+
+        body.appendChild(meta);
+        body.appendChild(h);
+        body.appendChild(p);
+        body.appendChild(actions);
+
+        card.appendChild(thumb);
+        card.appendChild(body);
+
+        list.appendChild(card);
       });
     }
 
-    function setListUL(ul, arr){
+    // Modal
+    const backdrop = document.getElementById("modalBackdrop");
+    const modalClose = document.getElementById("modalClose");
+
+    function setBullets(id, arr){
+      const ul = document.getElementById(id);
       ul.innerHTML = "";
-      (arr || []).filter(Boolean).slice(0, 8).forEach(t => {
+      (Array.isArray(arr) ? arr : []).forEach(t => {
         const li = document.createElement("li");
-        li.textContent = t;
+        li.textContent = safeText(t);
         ul.appendChild(li);
       });
-      if (!ul.children.length){
+      if(!ul.children.length){
         const li = document.createElement("li");
         li.textContent = "—";
         ul.appendChild(li);
@@ -744,100 +709,88 @@
     }
 
     function openModal(a){
-      const title = a.title_tr || a.title || "Başlık yok";
-      const src = a.source || getDomain(a.url) || "Kaynak";
-      const dom = getDomain(a.url);
+      document.getElementById("modalTitle").textContent =
+        safeText(a.title_tr) || safeText(a.title) || "Haber";
 
-      el("mTitle").textContent = title;
-      el("mMeta").textContent = `${src} • ${dom}`;
-      el("mLong").textContent = (a.summary_tr_long || a.summary_tr || a.summary || "").trim() || "—";
+      const meta = `${safeText(a.source) || "Kaynak"} • ${categoriesOf(a)[0] || "Genel"} • ${getDomain(a.url || "")}`;
+      document.getElementById("modalMeta").textContent = meta;
 
-      setListUL(el("mWhy"), a.why_important);
-      setListUL(el("mBg"), a.background);
-      setListUL(el("mImp"), a.possible_impacts);
+      document.getElementById("modalLong").textContent =
+        safeText(a.summary_tr_long) || safeText(a.summary_tr) || safeText(a.summary) || "—";
 
-      el("btnGo").href = a.url || "#";
-      el("btnCopy").onclick = async () => {
+      setBullets("modalWhy", a.why_important);
+      setBullets("modalBg", a.background);
+      setBullets("modalImp", a.possible_impacts);
+
+      const source = document.getElementById("modalSource");
+      source.href = a.url || "#";
+
+      const copyBtn = document.getElementById("modalCopy");
+      copyBtn.onclick = async () => {
         try{
           await navigator.clipboard.writeText(a.url || "");
-          el("btnCopy").textContent = "Kopyalandı";
-          setTimeout(()=> el("btnCopy").textContent="Linki kopyala", 1200);
-        }catch(e){
-          alert("Kopyalama başarısız. Tarayıcı izin vermedi.");
+          copyBtn.textContent = "Kopyalandı";
+          setTimeout(()=> copyBtn.textContent="Linki Kopyala", 1200);
+        }catch(_){
+          copyBtn.textContent = "Kopyalanamadı";
+          setTimeout(()=> copyBtn.textContent="Linki Kopyala", 1200);
         }
       };
 
-      el("modalBackdrop").classList.add("show");
+      backdrop.classList.add("open");
+      backdrop.setAttribute("aria-hidden","false");
       document.body.style.overflow = "hidden";
     }
 
     function closeModal(){
-      el("modalBackdrop").classList.remove("show");
+      backdrop.classList.remove("open");
+      backdrop.setAttribute("aria-hidden","true");
       document.body.style.overflow = "";
     }
 
+    modalClose.addEventListener("click", closeModal);
+    backdrop.addEventListener("click", (e) => { if(e.target === backdrop) closeModal(); });
+    document.addEventListener("keydown", (e) => { if(e.key === "Escape") closeModal(); });
+
     async function loadNews({force=false}={}){
-      const wrap = el("list");
-      wrap.innerHTML = `<div style="color:var(--muted);font-size:13px;">Yükleniyor…</div>`;
-
-      // cache bust (manuel yenileme)
-      const url = force ? `${NEWS_URL}?t=${Date.now()}` : NEWS_URL;
-
+      const status = document.getElementById("status");
       try{
-        const r = await fetch(url, { cache: "no-store" });
-        if(!r.ok) throw new Error("JSON alınamadı: " + r.status);
-        const data = await r.json();
-        const articles = (data.articles || []).slice(0, 200);
-
-        state.raw = articles;
-
-        // UI meta
-        const gen = data.generated_at ? new Date(data.generated_at) : null;
-        const stamp = gen ? gen.toLocaleString("tr-TR") : "-";
-        el("lastUpdated").textContent = `Güncelleme: ${stamp}`;
-        el("countPill").textContent = `${articles.length} haber`;
-
-        buildChips();
-        applyFilters();
-      }catch(e){
-        wrap.innerHTML = `
-          <div style="color:#fca5a5;font-size:13px;">
-            Hata: ${esc(e.message || e)}
-          </div>
-          <button class="btn" type="button" onclick="loadNews({force:true})" style="margin-top:10px;">Tekrar dene</button>
-        `;
+        status.textContent = "Haberler yükleniyor…";
+        const url = LATEST_URL + (force ? ("?t=" + Date.now()) : "");
+        const res = await fetch(url, { cache:"no-store" });
+        if(!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+        ALL = Array.isArray(data.articles) ? data.articles : [];
+        renderFilters();
+        applyAndRender();
+      }catch(err){
+        status.textContent = "Hata: " + (err?.message || err);
       }
     }
 
-    // Events
-    el("btnClose").onclick = closeModal;
-    el("modalBackdrop").addEventListener("click", (ev) => {
-      if(ev.target === el("modalBackdrop")) closeModal();
-    });
-    document.addEventListener("keydown", (ev) => {
-      if(ev.key === "Escape") closeModal();
+    // Search + buttons
+    document.getElementById("q").addEventListener("input", (e) => {
+      query = e.target.value || "";
+      applyAndRender();
     });
 
-    el("q").addEventListener("input", (ev) => {
-      state.query = ev.target.value || "";
-      applyFilters();
+    document.getElementById("btnRefresh").addEventListener("click", () => {
+      loadNews({force:true});
     });
 
-    el("btnRefresh").addEventListener("click", () => loadNews({force:true}));
-    el("btnClear").addEventListener("click", () => {
-      state.query = "";
-      state.sourceFilter = "Tümü";
-      state.categoryFilter = "Tümü";
-      el("q").value = "";
-      buildChips();
-      applyFilters();
+    document.getElementById("btnReset").addEventListener("click", () => {
+      query = "";
+      sourceActive = "Tümü";
+      typeActive = "Tümü";
+      categoryActive = "Tümü";
+      document.getElementById("q").value = "";
+      renderFilters();
+      applyAndRender();
     });
 
-    // İlk yükleme
-    loadNews({force:false});
-
-    // Saatlik otomatik yenileme (istersen kapat: bu satırı sil)
-    setInterval(() => loadNews({force:true}), 60 * 60 * 1000);
+    // İlk yükleme + saatlik otomatik yenileme
+    loadNews({force:true});
+    setInterval(() => loadNews({force:true}), AUTO_REFRESH_MS);
   </script>
 </body>
 </html>
