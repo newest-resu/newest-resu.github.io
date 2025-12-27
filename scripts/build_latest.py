@@ -1,27 +1,14 @@
-import os, re, json, time, hashlib
+import os, re, json, hashlib
 from datetime import datetime, timezone
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 from readability import Document
+from deep_translator import GoogleTranslator
 
-# Eğer çeviri kullanıyorsan:
-# pip: deep-translator
-try:
-    from deep_translator import GoogleTranslator
-    translator = GoogleTranslator(source="auto", target="tr")
-    def tr(text: str) -> str:
-        t = (text or "").strip()
-        if not t:
-            return ""
-        # Çok uzun metinlerde hata riskine karşı chunk'layarak çevirmek daha güvenli olur.
-        # Şimdilik mevcut mantığını bozmuyoruz.
-        return translator.translate(t)
-except Exception:
-    translator = None
-    def tr(text: str) -> str:
-        return (text or "").strip()
-
+# =========================
+# AYARLAR
+# =========================
 OUT_PATH = "news/latest.json"
 MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "120"))
 
@@ -30,8 +17,8 @@ RSS_SOURCES = [
     {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "category": "Teknoloji"},
     {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Ekonomi"},
 
-    {"name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/anasayfa", "category": "Türkiye"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news", "category": "Türkiye"},
+    {"name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/anasayfa", "category": "Gündem"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news", "category": "Gündem"},
     {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "category": "Ekonomi"},
     {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/spor/news", "category": "Spor"},
     {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news", "category": "Teknoloji"},
@@ -39,232 +26,191 @@ RSS_SOURCES = [
 ]
 
 UA = "HaberRobotuBot/1.0 (+https://newest-resu.github.io/)"
-S = requests.Session()
-S.headers.update({"User-Agent": UA})
+SESSION = requests.Session()
+SESSION.headers.update({"User-Agent": UA})
+translator = GoogleTranslator(source="auto", target="tr")
 
+# =========================
+# YARDIMCI FONKSİYONLAR
+# =========================
 def sha1(s: str) -> str:
     return hashlib.sha1(s.encode("utf-8")).hexdigest()
 
-def norm_ws(s: str) -> str:
-    s = s.replace("\r", "\n")
-    s = re.sub(r"\n{3,}", "\n\n", s)
-    s = re.sub(r"[ \t]{2,}", " ", s)
-    return s.strip()
+def clean_text(s: str) -> str:
+    s = re.sub(r"\s+", " ", s or "").strip()
+    return s
 
-def safe_get(url: str, timeout=20) -> str:
-    r = S.get(url, timeout=timeout, allow_redirects=True)
+def pick_image(entry) -> str:
+    if hasattr(entry, "media_content") and entry.media_content:
+        return entry.media_content[0].get("url", "")
+    if hasattr(entry, "links"):
+        for l in entry.links:
+            if l.get("type", "").startswith("image/"):
+                return l.get("href", "")
+    return ""
+
+def safe_get(url: str) -> str:
+    r = SESSION.get(url, timeout=20)
     r.raise_for_status()
     return r.text
 
-def get_domain(url: str) -> str:
-    try:
-        from urllib.parse import urlparse
-        return (urlparse(url).hostname or "").lower().replace("www.", "")
-    except Exception:
-        return ""
-
-def is_tr_domain(url: str) -> bool:
-    d = get_domain(url)
-    return d.endswith(".tr")
-
-def proxy_image(url: str, w: int = 820, h: int = 520) -> str:
-    """
-    Hotlink/referrer engellerini aşmak için images.weserv.nl proxy.
-    """
-    if not url:
-        return ""
-    try:
-        from urllib.parse import urlparse
-        u = urlparse(url)
-        # weserv için protokolsüz host+path tercih edilir
-        stripped = (u.netloc + u.path + (("?" + u.query) if u.query else ""))
-        return f"https://images.weserv.nl/?url={requests.utils.quote(stripped, safe='')}&w={w}&h={h}&fit=cover"
-    except Exception:
-        return f"https://images.weserv.nl/?url={requests.utils.quote(url, safe='')}&w={w}&h={h}&fit=cover"
-
-def pick_image_from_rss(entry) -> str:
-    # media:content
-    if hasattr(entry, "media_content") and entry.media_content:
-        url = entry.media_content[0].get("url")
-        if url:
-            return url
-    # links içinde image/*
-    if hasattr(entry, "links"):
-        for l in entry.links:
-            if l.get("type", "").startswith("image/") and l.get("href"):
-                return l["href"]
-    # enclosures
-    if hasattr(entry, "enclosures") and entry.enclosures:
-        for enc in entry.enclosures:
-            if (enc.get("type","").startswith("image/") or "image" in enc.get("type","")) and enc.get("href"):
-                return enc["href"]
-    return ""
-
-def pick_image_from_html(html: str) -> str:
-    """
-    RSS image yoksa, sayfanın <head> kısmından og:image / twitter:image yakala.
-    """
-    soup = BeautifulSoup(html, "lxml")
-    head = soup.find("head") or soup
-
-    def meta_content(prop_names):
-        for prop in prop_names:
-            m = head.find("meta", attrs={"property": prop}) or head.find("meta", attrs={"name": prop})
-            if m and m.get("content"):
-                return m["content"].strip()
-        return ""
-
-    img = meta_content(["og:image", "twitter:image", "twitter:image:src"])
-    if img:
-        return img
-
-    link = head.find("link", rel=lambda v: v and "image_src" in v)
-    if link and link.get("href"):
-        return link["href"].strip()
-
-    return ""
-
 def extract_main_text(html: str) -> str:
     doc = Document(html)
-    main_html = doc.summary(html_partial=True)
-    soup = BeautifulSoup(main_html, "lxml")
-    for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "aside"]):
+    soup = BeautifulSoup(doc.summary(html_partial=True), "lxml")
+    for tag in soup(["script", "style", "header", "footer", "nav", "aside"]):
         tag.decompose()
-    text = soup.get_text("\n")
-    return norm_ws(text)
+    return clean_text(soup.get_text(" "))
 
-def split_sentences(text: str):
-    text = text.replace("\n", " ")
-    text = re.sub(r"\s+", " ", text).strip()
-    if not text:
-        return []
+def sentences(text: str):
     parts = re.split(r"(?<=[.!?])\s+", text)
-    out = []
-    for p in parts:
-        p = p.strip()
-        if len(p) >= 40:
-            out.append(p)
-    return out
+    return [p.strip() for p in parts if len(p.strip()) > 50]
 
-def score_sentence(s: str):
-    score = 0
-    if re.search(r"\d", s):
-        score += 3
-    if re.search(r"\b[A-ZÇĞİÖŞÜ]{2,}\b", s):
-        score += 2
-    if re.search(r"\b[A-Z][a-zçğıöşü]+\b", s):
-        score += 1
-    score += min(len(s) / 120, 3)
-    return score
+def summarize(text: str, max_sentences=12):
+    sents = sentences(text)
+    return " ".join(sents[:max_sentences])
 
-def build_extractive_summary(text: str, max_words: int):
-    sents = split_sentences(text)
-    if not sents:
-        return ""
-    scored = sorted([(score_sentence(s), i, s) for i, s in enumerate(sents)], reverse=True)
-    chosen = []
-    total_words = 0
-    for _, _, s in scored:
-        w = len(s.split())
-        if total_words + w > max_words:
-            continue
-        chosen.append(s)
-        total_words += w
-        if total_words >= max_words * 0.92:
-            break
-    if not chosen:
-        chosen = sents[:5]
-    chosen_sorted = sorted(chosen, key=lambda x: sents.index(x))
-    return " ".join(chosen_sorted).strip()
+def tr(text: str) -> str:
+    try:
+        return translator.translate(text) if text else ""
+    except:
+        return text
 
-def bullets_from_summary(summary_tr: str, max_bullets: int = 4):
-    sents = split_sentences(summary_tr)
-    sents = [s for s in sents if len(s.split()) >= 8]
-    if not sents:
-        return []
-    scored = sorted([(score_sentence(s), s) for s in sents], reverse=True)
-    picked = []
-    for _, s in scored:
-        s = s.strip()
-        if s and s not in picked:
-            picked.append(s)
-        if len(picked) >= max_bullets:
-            break
-    out = []
-    for s in picked:
-        words = s.split()
-        out.append(" ".join(words[:28]) + ("…" if len(words) > 28 else ""))
-    return out
+# =========================
+# KATMA DEĞER ÜRETİCİLER
+# =========================
+def build_long_summary_tr(text: str) -> str:
+    base = summarize(text, 14)
+    tr_text = tr(base)
+    return tr_text
 
+def why_important(category: str):
+    MAP = {
+        "Ekonomi": [
+            "Ekonomik göstergeler ve piyasa beklentileri üzerinde etkisi olabilir.",
+            "Yatırımcılar ve tüketiciler açısından dikkatle takip ediliyor."
+        ],
+        "Teknoloji": [
+            "Teknolojik gelişmeler sektörün yönünü belirleyebilir.",
+            "Kullanıcı alışkanlıklarını ve dijital ekosistemi etkileyebilir."
+        ],
+        "Sağlık": [
+            "Toplum sağlığı açısından risk veya fırsatlar barındırıyor.",
+            "Sağlık politikaları ve bireysel yaşamı etkileyebilir."
+        ],
+        "Spor": [
+            "Spor kamuoyunda ve taraftarlar arasında geniş yankı uyandırdı.",
+            "Lig dengeleri ve kulüp stratejileri üzerinde etkili olabilir."
+        ],
+        "Dünya": [
+            "Uluslararası ilişkiler ve jeopolitik dengeler açısından önemli.",
+            "Bölgesel ve küresel etkiler doğurabilir."
+        ],
+        "Gündem": [
+            "Kamuoyunun yakından takip ettiği başlıklar arasında yer alıyor.",
+            "Siyasi ve sosyal tartışmaları etkileyebilir."
+        ]
+    }
+    return MAP.get(category, [
+        "Kamuoyunu ilgilendiren önemli gelişmeler içeriyor.",
+        "Yakın dönemde etkileri daha net görülebilir."
+    ])
+
+def background_info(category: str):
+    MAP = {
+        "Ekonomi": [
+            "Benzer gelişmeler geçmişte piyasalarda dalgalanmalara yol açmıştı.",
+            "Ekonomik veriler son dönemde yakından izleniyor."
+        ],
+        "Dünya": [
+            "Bölgedeki gelişmeler uzun süredir uluslararası gündemde.",
+            "Taraflar arasında süregelen anlaşmazlıklar bulunuyor."
+        ],
+        "Teknoloji": [
+            "Teknoloji sektörü son yıllarda hızlı bir dönüşüm sürecinde.",
+            "Şirketler rekabet avantajı için yatırımlarını artırıyor."
+        ]
+    }
+    return MAP.get(category, [
+        "Konu daha önce de kamuoyunda gündeme gelmişti.",
+        "Arka planda uzun süredir devam eden gelişmeler bulunuyor."
+    ])
+
+def possible_impacts(category: str):
+    MAP = {
+        "Ekonomi": [
+            "Piyasalarda dalgalanma ve fiyat değişimleri görülebilir.",
+            "Ekonomik kararlar ve politikalar yeniden şekillenebilir."
+        ],
+        "Dünya": [
+            "Diplomatik ilişkilerde yeni adımlar gündeme gelebilir.",
+            "Bölgesel güvenlik dengeleri etkilenebilir."
+        ],
+        "Teknoloji": [
+            "Yeni ürün ve hizmetlerin önünü açabilir.",
+            "Sektörde rekabet koşulları değişebilir."
+        ],
+        "Sağlık": [
+            "Toplum sağlığına yönelik yeni önlemler alınabilir.",
+            "Sağlık sisteminde düzenlemeler gündeme gelebilir."
+        ]
+    }
+    return MAP.get(category, [
+        "Kısa ve orta vadede etkileri yakından izlenecek.",
+        "Gelişmelere bağlı olarak yeni adımlar atılabilir."
+    ])
+
+# =========================
+# ANA AKIŞ
+# =========================
 def main():
-    raw_items = []
+    raw = []
+
     for src in RSS_SOURCES:
         feed = feedparser.parse(src["url"])
-        for e in getattr(feed, "entries", [])[: MAX_ARTICLES * 2]:
-            url = getattr(e, "link", "") or ""
+        for e in feed.entries[: MAX_ARTICLES * 2]:
+            url = getattr(e, "link", "")
             if not url:
                 continue
-            title = getattr(e, "title", "") or ""
-            summary_html = getattr(e, "summary", "") or ""
-            summary = BeautifulSoup(summary_html, "lxml").get_text(" ").strip()
-
-            image = pick_image_from_rss(e)
-
-            raw_items.append({
+            raw.append({
                 "id": sha1(url),
                 "url": url,
-                "title": title,
-                "summary": summary,
-                "image": image,
+                "title": clean_text(getattr(e, "title", "")),
+                "summary": clean_text(BeautifulSoup(getattr(e, "summary", ""), "lxml").get_text()),
+                "image": pick_image(e),
                 "source": src["name"],
-                "rss_categories": [src["category"]] if src.get("category") else [],
+                "rss_categories": [src["category"]],
             })
 
-    # uniq by url
     seen = set()
     items = []
-    for it in raw_items:
-        if it["url"] in seen:
+    for r in raw:
+        if r["url"] in seen:
             continue
-        seen.add(it["url"])
-        items.append(it)
+        seen.add(r["url"])
+        items.append(r)
     items = items[:MAX_ARTICLES]
 
-    # Fetch -> extract -> summaries -> translate + image fixes
     for it in items:
         try:
             html = safe_get(it["url"])
-
-            # 1) RSS image yoksa HTML'den og:image çek
-            if not (it.get("image") or "").strip():
-                it["image"] = pick_image_from_html(html) or ""
-
-            # 2) Yabancı kaynaklarda hotlink riski yüksek: proxy'e çevir
-            #    (İstersen .tr için de uygulayabilirsin ama önce intl çözüm yeterli)
-            if (it.get("image") or "").strip() and (not is_tr_domain(it["url"])):
-                it["image"] = proxy_image(it["image"])
-
             content = extract_main_text(html)
 
-            long_src = build_extractive_summary(content, max_words=1000)
-            short_src = build_extractive_summary(content, max_words=70)
+            it["title_tr"] = tr(it["title"])
+            it["summary_tr_long"] = build_long_summary_tr(content)
+            it["summary_tr"] = it["summary_tr_long"][:400]
 
-            it["title_tr"] = tr(it["title"]) if it["title"].strip() else ""
-            it["summary_tr"] = tr(short_src) if short_src else tr(it["summary"])
-            it["summary_tr_long"] = tr(long_src) if long_src else it["summary_tr"]
+            cat = it["rss_categories"][0]
+            it["why_important"] = why_important(cat)
+            it["background"] = background_info(cat)
+            it["possible_impacts"] = possible_impacts(cat)
 
-            it["why_important"] = bullets_from_summary(it["summary_tr_long"], 4)
-            it["background"] = bullets_from_summary(it["summary_tr_long"], 4)
-            it["possible_impacts"] = bullets_from_summary(it["summary_tr_long"], 4)
-
-        except Exception as ex:
-            it["title_tr"] = it.get("title", "")
-            it["summary_tr"] = it.get("summary", "")
-            it["summary_tr_long"] = it["summary_tr"]
+        except Exception as e:
+            it["summary_tr_long"] = tr(it["summary"])
+            it["summary_tr"] = tr(it["summary"])
             it["why_important"] = []
             it["background"] = []
             it["possible_impacts"] = []
-            it["error"] = str(ex)
+            it["error"] = str(e)
 
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -276,7 +222,7 @@ def main():
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {OUT_PATH} with {len(items)} articles")
+    print(f"✅ latest.json üretildi: {len(items)} haber")
 
 if __name__ == "__main__":
     main()
