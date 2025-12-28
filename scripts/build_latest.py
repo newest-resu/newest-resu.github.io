@@ -1,86 +1,155 @@
-# scripts/build_latest.py
 import os
 import re
 import json
-import time
 import hashlib
 from datetime import datetime, timezone
-from urllib.parse import urljoin
 
 import feedparser
 import requests
 from bs4 import BeautifulSoup
 from readability import Document
-from deep_translator import GoogleTranslator
 
-# =========================
-# AYARLAR
-# =========================
-OUT_PATH = "news/latest.json"
-MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "120"))
-REQUEST_TIMEOUT = 20
-SLEEP_BETWEEN_FETCH = float(os.getenv("SLEEP_BETWEEN_FETCH", "0.2"))  # nazik crawling
+# -------------------------
+# Translation (0 maliyet) - varsa deep-translator kullanır, yoksa olduğu gibi bırakır
+# -------------------------
+def _get_translator():
+    try:
+        from deep_translator import GoogleTranslator  # pip: deep-translator
+        return GoogleTranslator(source="auto", target="tr")
+    except Exception:
+        return None
 
-RSS_SOURCES = [
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "Dünya"},
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "category": "Teknoloji"},
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Ekonomi"},
-
-    {"name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/anasayfa", "category": "Gündem"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news", "category": "Gündem"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "category": "Ekonomi"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/spor/news", "category": "Spor"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news", "category": "Teknoloji"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/saglik/news", "category": "Sağlık"},
-
-    # Finans kategorisini şimdiden destekliyoruz (RSS eklemelerini sonraki adımda genişletiriz)
-    # {"name": "XXXX", "url": "https://....rss", "category": "Finans"},
-]
-
-UA = "HaberRobotuBot/1.0 (+https://newest-resu.github.io/)"
-SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": UA})
-
-translator = GoogleTranslator(source="auto", target="tr")
-
-# =========================
-# YARDIMCI FONKSİYONLAR
-# =========================
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
-
-def clean_text(s: str) -> str:
-    s = (s or "")
-    s = s.replace("\r", "\n")
-    s = re.sub(r"[ \t]+", " ", s)
-    s = re.sub(r"\n{3,}", "\n\n", s)
-    s = s.strip()
-    return s
-
-def strip_html(html: str) -> str:
-    if not html:
-        return ""
-    return clean_text(BeautifulSoup(html, "lxml").get_text(" "))
+_TRANSLATOR = _get_translator()
 
 def tr(text: str) -> str:
     text = (text or "").strip()
     if not text:
         return ""
-    try:
-        return translator.translate(text)
-    except Exception:
-        # çeviri fail olursa en azından boş dönmeyelim
-        return text
+    if _TRANSLATOR is None:
+        return text  # çeviri paketi yoksa fallback: olduğu gibi
+    # Çok uzun metinlerde translator hata verebilir; chunk’layıp birleştiriyoruz
+    chunks = chunk_text(text, max_chars=2200)
+    out = []
+    for c in chunks:
+        try:
+            out.append(_TRANSLATOR.translate(c))
+        except Exception:
+            out.append(c)
+    return "\n\n".join(out).strip()
 
-def safe_get(url: str) -> str:
-    r = SESSION.get(url, timeout=REQUEST_TIMEOUT, allow_redirects=True)
+# -------------------------
+# Config
+# -------------------------
+OUT_PATH = "news/latest.json"
+MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "120"))
+
+UA = "HaberRobotuBot/1.0 (+https://newest-resu.github.io/)"
+S = requests.Session()
+S.headers.update({"User-Agent": UA})
+S.timeout = 25
+
+# -------------------------
+# RSS Sources (Kategoriler KORUNUYOR + Finans + Yerel eklendi)
+# category alanı: JSON'da rss_categories olarak geçer.
+# -------------------------
+RSS_SOURCES = [
+    # ---- Dünya / Teknoloji / Ekonomi (mevcutlar + ekler) ----
+    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "Dünya"},
+    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "category": "Teknoloji"},
+    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Ekonomi"},
+
+    # ---- Türkiye geneli (mevcutlar) ----
+    {"name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/anasayfa", "category": "Türkiye"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news", "category": "Türkiye"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "category": "Ekonomi"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/spor/news", "category": "Spor"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news", "category": "Teknoloji"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/saglik/news", "category": "Sağlık"},
+
+    # ---- (Örnek ek ulusal RSS'ler) ----
+    # Bu kaynaklar RSS veriyorsa çalışır; vermezse otomatik skip olur (pipeline bozulmaz).
+    {"name": "NTV", "url": "https://www.ntv.com.tr/turkiye.rss", "category": "Türkiye"},
+    {"name": "NTV", "url": "https://www.ntv.com.tr/ekonomi.rss", "category": "Ekonomi"},
+    {"name": "NTV", "url": "https://www.ntv.com.tr/spor.rss", "category": "Spor"},
+    {"name": "NTV", "url": "https://www.ntv.com.tr/teknoloji.rss", "category": "Teknoloji"},
+
+    # -------------------------
+    # YENİ: Finans (buton)
+    # -------------------------
+    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Finans"},
+    {"name": "NTV", "url": "https://www.ntv.com.tr/ekonomi.rss", "category": "Finans"},
+    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "category": "Finans"},
+
+    # -------------------------
+    # YENİ: Yerel (Yalova) - RSS varsa çeker, yoksa sessizce atlar
+    # Not: Yerel için birkaç olası feed pattern ekledim. Hangisi çalışırsa onu kullanır.
+    # -------------------------
+    {"name": "Yalova Gazetesi", "url": "https://www.yalovagazetesi.com/rss", "category": "Yerel"},
+    {"name": "Yalova Gazetesi", "url": "https://www.yalovagazetesi.com/feed", "category": "Yerel"},
+    {"name": "Yalova Gazetesi", "url": "https://www.yalovagazetesi.com/feed/", "category": "Yerel"},
+]
+
+# -------------------------
+# Helpers
+# -------------------------
+def sha1(s: str) -> str:
+    return hashlib.sha1(s.encode("utf-8")).hexdigest()
+
+def norm_ws(s: str) -> str:
+    s = (s or "").replace("\r", "\n")
+    s = re.sub(r"\n{3,}", "\n\n", s)
+    s = re.sub(r"[ \t]{2,}", " ", s)
+    return s.strip()
+
+def strip_html(html: str) -> str:
+    if not html:
+        return ""
+    return BeautifulSoup(html, "lxml").get_text(" ").strip()
+
+def safe_get(url: str, timeout=25) -> str:
+    r = S.get(url, timeout=timeout)
     r.raise_for_status()
     return r.text
 
+def pick_image(entry) -> str:
+    # RSS/Atom alanları farklı olabiliyor; olabildiğince yakalamaya çalışıyoruz
+    try:
+        if hasattr(entry, "media_content") and entry.media_content:
+            url = entry.media_content[0].get("url")
+            if url:
+                return url
+    except Exception:
+        pass
+
+    try:
+        if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
+            url = entry.media_thumbnail[0].get("url")
+            if url:
+                return url
+    except Exception:
+        pass
+
+    try:
+        if hasattr(entry, "links"):
+            for l in entry.links:
+                if l.get("type", "").startswith("image/") and l.get("href"):
+                    return l["href"]
+    except Exception:
+        pass
+
+    # summary içindeki img
+    try:
+        summary_html = getattr(entry, "summary", "") or ""
+        soup = BeautifulSoup(summary_html, "lxml")
+        img = soup.find("img")
+        if img and img.get("src"):
+            return img["src"]
+    except Exception:
+        pass
+
+    return ""
+
 def extract_main_text(html: str) -> str:
-    """
-    Readability ile ana metni çıkarır.
-    """
     doc = Document(html)
     main_html = doc.summary(html_partial=True)
     soup = BeautifulSoup(main_html, "lxml")
@@ -89,13 +158,11 @@ def extract_main_text(html: str) -> str:
         tag.decompose()
 
     text = soup.get_text("\n")
-    return clean_text(text)
+    return norm_ws(text)
 
 def split_sentences(text: str):
-    """
-    TR/EN için yeterli basit cümle bölme.
-    """
-    text = re.sub(r"\s+", " ", (text or "")).strip()
+    text = (text or "").replace("\n", " ")
+    text = re.sub(r"\s+", " ", text).strip()
     if not text:
         return []
     parts = re.split(r"(?<=[.!?])\s+", text)
@@ -106,367 +173,135 @@ def split_sentences(text: str):
             out.append(p)
     return out
 
-def score_sentence(s: str) -> float:
-    """
-    Basit önem skorlaması: sayı/kurum/uzunluk + bazı işaretler.
-    """
+def score_sentence(s: str):
     score = 0.0
     if re.search(r"\d", s):
         score += 2.5
-    if re.search(r"\b[A-ZÇĞİÖŞÜ]{2,}\b", s):  # kısaltma
-        score += 1.2
-    if re.search(r"\b[A-Z][a-zçğıöşü]+\b", s):  # özel isim kalıbı
-        score += 0.8
-    if re.search(r"\b(announced|said|reports|according to|confirmed|warning|increase|decrease)\b", s, re.I):
-        score += 0.7
+    if re.search(r"\b[A-ZÇĞİÖŞÜ]{2,}\b", s):
+        score += 1.8
+    if re.search(r"\b[A-Z][a-zçğıöşü]+\b", s):
+        score += 1.0
     score += min(len(s) / 140.0, 2.5)
     return score
 
-def extractive_summary(text: str, max_words: int):
+def build_extractive_summary(text: str, max_words: int):
     sents = split_sentences(text)
     if not sents:
         return ""
 
     scored = sorted([(score_sentence(s), i, s) for i, s in enumerate(sents)], reverse=True)
     chosen = []
-    total = 0
+    total_words = 0
 
     for _, _, s in scored:
         w = len(s.split())
-        if total + w > max_words:
+        if total_words + w > max_words:
             continue
         chosen.append(s)
-        total += w
-        if total >= max_words * 0.92:
+        total_words += w
+        if total_words >= max_words * 0.92:
             break
 
     if not chosen:
-        chosen = sents[:6]
+        chosen = sents[:5]
 
-    # Orijinal sıralama
-    chosen_sorted = sorted(chosen, key=lambda x: sents.index(x))
+    # orijinal sıraya göre diz
+    idx_map = {s: i for i, s in enumerate(sents)}
+    chosen_sorted = sorted(chosen, key=lambda x: idx_map.get(x, 999999))
     return " ".join(chosen_sorted).strip()
 
-def cut_at_sentence_boundary(text: str, max_chars: int = 360) -> str:
-    """
-    UI için kısa özet: cümle sınırında kes.
-    """
-    t = clean_text(text)
-    if len(t) <= max_chars:
-        return t
-    # max_chars yakınında son noktalama
-    cut = t[:max_chars]
-    m = re.search(r"[.!?]\s", cut[::-1])
-    if m:
-        # ters aramada bulunan noktalama konumunu hesapla
-        idx_from_end = m.start()
-        final_len = max_chars - idx_from_end
-        return t[:final_len].strip()
-    return (cut.rstrip() + "…").strip()
+def chunk_text(text: str, max_chars: int = 2500):
+    text = (text or "").strip()
+    if len(text) <= max_chars:
+        return [text] if text else []
+    chunks, cur, cur_len = [], [], 0
+    for para in text.split("\n\n"):
+        para = para.strip()
+        if not para:
+            continue
+        add_len = len(para) + 2
+        if cur_len + add_len > max_chars and cur:
+            chunks.append("\n\n".join(cur))
+            cur, cur_len = [para], len(para)
+        else:
+            cur.append(para)
+            cur_len += add_len
+    if cur:
+        chunks.append("\n\n".join(cur))
+    return chunks
 
-# =========================
-# GÖRSEL BULMA (RSS + HTML META FALLBACK)
-# =========================
-def pick_image_from_feed_entry(entry) -> str:
-    # media:content
-    if getattr(entry, "media_content", None):
-        for m in entry.media_content:
-            u = (m.get("url") or "").strip()
-            if u:
-                return u
+# -------------------------
+# "Daha mantıklı" bullet üretimi (tekrar cümle yapıştırma hissini azaltır)
+#  - Tam LLM kalitesi değildir ama okuyucu algısı belirgin şekilde iyileşir.
+# -------------------------
+def _simplify_sentence(s: str) -> str:
+    s = (s or "").strip()
+    s = re.sub(r"\s+", " ", s)
+    # Çok uzun ise kısalt
+    words = s.split()
+    if len(words) > 26:
+        s = " ".join(words[:26]).rstrip() + "…"
+    return s
 
-    # media:thumbnail
-    if getattr(entry, "media_thumbnail", None):
-        for m in entry.media_thumbnail:
-            u = (m.get("url") or "").strip()
-            if u:
-                return u
-
-    # enclosure links (feedparser)
-    if getattr(entry, "links", None):
-        for l in entry.links:
-            href = (l.get("href") or "").strip()
-            ltype = (l.get("type") or "").lower()
-            rel = (l.get("rel") or "").lower()
-            # image/*
-            if href and ltype.startswith("image/"):
-                return href
-            # enclosure bazen image verir
-            if href and rel == "enclosure" and ("image" in ltype):
-                return href
-
-    # entry.enclosures
-    if getattr(entry, "enclosures", None):
-        for e in entry.enclosures:
-            href = (getattr(e, "href", "") or "").strip()
-            etype = (getattr(e, "type", "") or "").lower()
-            if href and etype.startswith("image/"):
-                return href
-
-    return ""
-
-def pick_image_from_html(url: str, html: str) -> str:
-    """
-    og:image / twitter:image / link rel=image_src fallback
-    """
-    try:
-        soup = BeautifulSoup(html, "lxml")
-
-        def meta(prop_name):
-            tag = soup.find("meta", attrs={"property": prop_name})
-            if tag and tag.get("content"):
-                return tag["content"].strip()
-            return ""
-
-        def meta_name(name):
-            tag = soup.find("meta", attrs={"name": name})
-            if tag and tag.get("content"):
-                return tag["content"].strip()
-            return ""
-
-        candidates = [
-            meta("og:image"),
-            meta("og:image:url"),
-            meta_name("twitter:image"),
-            meta_name("twitter:image:src"),
-        ]
-        candidates = [c for c in candidates if c]
-
-        # link rel=image_src
-        link = soup.find("link", attrs={"rel": "image_src"})
-        if link and link.get("href"):
-            candidates.append(link["href"].strip())
-
-        for c in candidates:
-            # relatifse absolute yap
-            if c.startswith("//"):
-                c = "https:" + c
-            if c.startswith("/"):
-                c = urljoin(url, c)
-            if c:
-                return c
-    except Exception:
-        pass
-    return ""
-
-# =========================
-# KATMA DEĞER ÜRETİMİ (Modal Alanları)
-# =========================
-CATEGORY_TEMPLATES = {
-    "Ekonomi": {
-        "why": [
-            "Piyasalar, fiyatlar ve beklentiler üzerinde kısa vadeli etkiler doğurabilir.",
-            "Hanehalkı ve işletmelerin kararlarını (harcama, yatırım, borçlanma) etkileyebilir.",
-        ],
-        "bg": [
-            "Son dönemde açıklanan veriler ve politika adımları ekonomi gündemini şekillendiriyor.",
-            "Benzer gelişmeler geçmişte piyasalarda dalgalanmalar yaratmıştı.",
-        ],
-        "imp": [
-            "Kısa vadede volatilite artabilir; orta vadede politika/strateji değişiklikleri görülebilir.",
-            "Faiz, kur, enflasyon ve sektör performanslarına yansıması izlenecek.",
-        ],
-    },
-    "Finans": {
-        "why": [
-            "Finansal piyasalar ve yatırım kararları açısından yakından izlenmesi gereken bir gelişme.",
-            "Risk iştahı, fon akışları ve varlık fiyatlamaları üzerinde etkili olabilir.",
-        ],
-        "bg": [
-            "Finans gündeminde son dönemde volatilite ve likidite koşulları belirleyici oluyor.",
-            "Regülasyonlar ve küresel gelişmeler finansal kanallar üzerinden yansıyabiliyor.",
-        ],
-        "imp": [
-            "Varlık fiyatlamaları ve portföy dağılımlarında kısa vadeli ayarlamalar görülebilir.",
-            "Banka/finans kuruluşlarının stratejileri ve kredi koşulları etkilenebilir.",
-        ],
-    },
-    "Teknoloji": {
-        "why": [
-            "Sektörün yönünü belirleyen ürün/şirket/regülasyon gelişmeleri kullanıcı davranışlarını etkileyebilir.",
-            "Rekabet dengeleri ve teknoloji yatırımları üzerinde etkileri olabilir.",
-        ],
-        "bg": [
-            "Teknoloji sektöründe ürün döngüleri ve regülasyon gündemi hızlı değişiyor.",
-            "Şirketler rekabet avantajı için Ar-Ge ve altyapı yatırımlarını artırıyor.",
-        ],
-        "imp": [
-            "Yeni ürün/hizmetlerin yayılımı hızlanabilir; kullanıcı alışkanlıkları değişebilir.",
-            "Sektörde birleşme/rekabet ve fiyatlama dinamikleri etkilenebilir.",
-        ],
-    },
-    "Dünya": {
-        "why": [
-            "Bölgesel gelişmeler küresel ekonomi ve güvenlik dengeleri üzerinde etkiler yaratabilir.",
-            "Diplomatik adımların seyri, risk algısı ve piyasalar için kritik olabilir.",
-        ],
-        "bg": [
-            "Bölgesel gerilimler ve diplomatik süreçler uzun süredir uluslararası gündemde.",
-            "Taraflar arasında süregelen anlaşmazlıklar çözüm arayışını şekillendiriyor.",
-        ],
-        "imp": [
-            "Diplomatik ilişkilerde yeni adımlar veya yaptırımlar gündeme gelebilir.",
-            "Enerji, ticaret ve güvenlik hatları üzerinden ikincil etkiler görülebilir.",
-        ],
-    },
-    "Gündem": {
-        "why": [
-            "Kamuoyunun doğrudan etkilendiği bir başlık; sosyal ve siyasi tartışmaları tetikleyebilir.",
-            "Kurumların alacağı kararlar günlük yaşamı ve yerel dinamikleri etkileyebilir.",
-        ],
-        "bg": [
-            "Konuya ilişkin gelişmeler daha önce de gündeme gelmiş ve farklı görüşler oluşmuştu.",
-            "Karar süreçleri çoğu zaman birden fazla kurum/aktörün etkisiyle şekilleniyor.",
-        ],
-        "imp": [
-            "Kısa vadede tartışmaların yoğunlaşması; orta vadede düzenleme/uygulama değişiklikleri görülebilir.",
-            "Kamu politikaları ve sosyal etkiler zaman içinde netleşebilir.",
-        ],
-    },
-    "Spor": {
-        "why": [
-            "Lig dengeleri, kulüp stratejileri ve taraftar gündemi üzerinde etkili olabilir.",
-            "Transfer/sonuç/ceza gibi unsurlar sezonun gidişatını değiştirebilir.",
-        ],
-        "bg": [
-            "Takımların form grafiği ve kadro planlaması sezon içinde dalgalanabiliyor.",
-            "Benzer kararlar geçmişte lig dinamiklerini etkilemişti.",
-        ],
-        "imp": [
-            "Kısa vadede kadro ve maç planlamasında değişiklikler görülebilir.",
-            "Sezon hedefleri ve ekonomik etkiler (gelir, sponsorluk) etkilenebilir.",
-        ],
-    },
-    "Sağlık": {
-        "why": [
-            "Toplum sağlığı ve sağlık sisteminin işleyişi açısından önem taşıyabilir.",
-            "Koruyucu önlemler ve bilgilendirme ihtiyacını artırabilir.",
-        ],
-        "bg": [
-            "Sağlık gündeminde risk değerlendirmeleri ve önleyici tedbirler belirleyici oluyor.",
-            "Bilimsel veriler ve resmi açıklamalar süreç yönetimini etkiler.",
-        ],
-        "imp": [
-            "Yeni önlemler, rehber güncellemeleri veya uygulama değişiklikleri gündeme gelebilir.",
-            "Kamuoyunun davranışları ve sağlık hizmeti talebi etkilenebilir.",
-        ],
-    },
-}
-
-def pick_evidence_sentences(content: str, k: int = 2) -> list[str]:
-    """
-    Habere özgü, tekrar hissi vermeyen 1-2 “kanıt cümle” seç.
-    """
-    sents = split_sentences(content)
+def bullets_structured(summary_tr_long: str):
+    sents = split_sentences(summary_tr_long)
     if not sents:
-        return []
+        return {
+            "why_important": [],
+            "background": [],
+            "possible_impacts": []
+        }
+
+    # skorla, ama bölümler için farklı dil kalıplarıyla sun
     scored = sorted([(score_sentence(s), s) for s in sents], reverse=True)
-    out = []
-    for _, s in scored:
-        s = clean_text(s)
-        # çok genel cümleleri ele
-        if len(s.split()) < 8:
-            continue
-        if any(s.lower().startswith(p) for p in ["click", "read more", "advert", "sign up"]):
-            continue
-        # benzerlik (basit)
-        if any(s[:60] == x[:60] for x in out):
-            continue
-        out.append(s)
-        if len(out) >= k:
+    top = [s for _, s in scored[:12]]
+
+    why = []
+    bg = []
+    imp = []
+
+    # Basit ama işe yarayan seçim: farklı cümleleri farklı bölümlere paylaştır
+    for i, s in enumerate(top):
+        t = _simplify_sentence(s)
+        if len(why) < 3 and i % 3 == 0:
+            why.append(f"Öne çıkan nokta: {t}")
+        elif len(bg) < 3 and i % 3 == 1:
+            bg.append(f"Arka plan: {t}")
+        elif len(imp) < 3 and i % 3 == 2:
+            imp.append(f"Muhtemel etki: {t}")
+
+        if len(why) >= 3 and len(bg) >= 3 and len(imp) >= 3:
             break
-    return out
 
-def extract_markers(content: str) -> list[str]:
-    """
-    Habere özgü ‘işaretler’: sayılar, para birimleri, tarih/kurum parçaları.
-    """
-    text = clean_text(content)
-    markers = []
+    return {
+        "why_important": why,
+        "background": bg,
+        "possible_impacts": imp
+    }
 
-    # para/sayı
-    nums = re.findall(r"\b\d{1,3}(?:[\.,]\d{3})*(?:[\.,]\d+)?\b", text)
-    nums = nums[:6]
-    if nums:
-        markers.append("Öne çıkan sayılar/veriler: " + ", ".join(nums))
-
-    # para birimi/finans işaretleri
-    if re.search(r"\b(USD|EUR|GBP|TRY|TL|dolar|euro|sterlin|faiz|enflasyon|borsa)\b", text, re.I):
-        markers.append("Finansal göstergeler/piyasa bağlantısı içeriyor.")
-
-    # kurum/ülke (çok kaba)
-    orgs = re.findall(r"\b[A-Z][a-zA-ZÇĞİÖŞÜçğıöşü]{2,}\b", text)
-    orgs = [o for o in orgs if o.lower() not in ["the", "and", "for", "with"]]
-    orgs = orgs[:8]
-    if orgs:
-        markers.append("Haberde geçen başlıca aktörler: " + ", ".join(orgs))
-
-    return markers[:3]
-
-def build_modal_sections(category: str, content: str) -> tuple[list[str], list[str], list[str]]:
-    """
-    why_important / background / possible_impacts alanlarını üretir:
-    - Kategori şablonu
-    - Habere özgü “kanıt cümle” ve işaretler
-    """
-    cat = category or "Gündem"
-    tpl = CATEGORY_TEMPLATES.get(cat, CATEGORY_TEMPLATES["Gündem"])
-
-    evidence = pick_evidence_sentences(content, k=2)
-    markers = extract_markers(content)
-
-    # Kanıt cümleleri TR'ye çevir
-    ev_tr = [tr(s) for s in evidence if s]
-
-    why = list(tpl["why"])
-    bg = list(tpl["bg"])
-    imp = list(tpl["imp"])
-
-    # Habere özgü satır ekle
-    if ev_tr:
-        why.append("Haberde öne çıkan nokta: " + ev_tr[0])
-    if len(ev_tr) > 1:
-        bg.append("Bağlamı güçlendiren detay: " + ev_tr[1])
-
-    if markers:
-        imp.extend(markers)
-
-    # Çok uzayanları kısalt
-    def clamp(lines: list[str], max_lines: int = 4) -> list[str]:
-        out = []
-        for x in lines:
-            x = clean_text(x)
-            if not x:
-                continue
-            if len(x) > 220:
-                x = x[:217].rstrip() + "…"
-            out.append(x)
-            if len(out) >= max_lines:
-                break
-        return out
-
-    return clamp(why, 4), clamp(bg, 4), clamp(imp, 4)
-
-# =========================
-# ANA AKIŞ
-# =========================
+# -------------------------
+# Main
+# -------------------------
 def main():
     raw_items = []
 
     for src in RSS_SOURCES:
-        feed = feedparser.parse(src["url"])
-        entries = getattr(feed, "entries", [])[: MAX_ARTICLES * 2]
+        try:
+            feed = feedparser.parse(src["url"])
+            entries = getattr(feed, "entries", []) or []
+        except Exception:
+            continue
 
-        for e in entries:
-            url = (getattr(e, "link", "") or "").strip()
+        for e in entries[: MAX_ARTICLES * 2]:
+            url = getattr(e, "link", "") or ""
             if not url:
                 continue
 
-            title = clean_text(getattr(e, "title", "") or "")
+            title = getattr(e, "title", "") or ""
             summary_html = getattr(e, "summary", "") or ""
-            summary = clean_text(strip_html(summary_html))
+            summary = strip_html(summary_html)
 
-            image = pick_image_from_feed_entry(e)
+            image = pick_image(e)
 
             raw_items.append({
                 "id": sha1(url),
@@ -474,7 +309,7 @@ def main():
                 "title": title,
                 "summary": summary,
                 "image": image,
-                "source": src["name"],
+                "source": src.get("name", "") or "Kaynak",
                 "rss_categories": [src["category"]] if src.get("category") else [],
             })
 
@@ -489,50 +324,34 @@ def main():
 
     items = items[:MAX_ARTICLES]
 
-    # fetch & enrich
+    # Fetch -> extract -> summarize -> translate -> structured bullets
     for it in items:
         try:
-            time.sleep(SLEEP_BETWEEN_FETCH)
-
             html = safe_get(it["url"])
-
-            # Görsel yoksa HTML meta fallback dene
-            if not (it.get("image") or "").strip():
-                img2 = pick_image_from_html(it["url"], html)
-                if img2:
-                    it["image"] = img2
-
             content = extract_main_text(html)
 
-            # --- Türkçe alanlar ---
-            it["title_tr"] = tr(it.get("title", ""))
-            # uzun özet: yaklaşık 800-1100 kelime bandı
-            long_src = extractive_summary(content, max_words=950)
-            it["summary_tr_long"] = tr(long_src) if long_src else tr(it.get("summary", ""))
+            long_src = build_extractive_summary(content, max_words=900)   # uzun özet kaynağı
+            short_src = build_extractive_summary(content, max_words=70)   # kısa özet kaynağı
 
-            # kısa özet: UI için
-            short_tr = cut_at_sentence_boundary(it["summary_tr_long"], max_chars=360)
-            it["summary_tr"] = short_tr
+            # Çeviri (başlık / kısa / uzun)
+            it["title_tr"] = tr(it["title"]) if it["title"].strip() else ""
+            it["summary_tr"] = tr(short_src) if short_src else tr(it.get("summary", ""))
+            it["summary_tr_long"] = tr(long_src) if long_src else it["summary_tr"]
 
-            # modal bölümleri (generator tarafında)
-            cat = (it.get("rss_categories") or ["Gündem"])[0] or "Gündem"
-            why, bg, imp = build_modal_sections(cat, content)
-            it["why_important"] = why
-            it["background"] = bg
-            it["possible_impacts"] = imp
+            structured = bullets_structured(it["summary_tr_long"])
+            it["why_important"] = structured["why_important"]
+            it["background"] = structured["background"]
+            it["possible_impacts"] = structured["possible_impacts"]
 
-            # telif riskine karşı TAM METİN yayınlamıyoruz:
-            # it["content"] / it["content_tr"] yok.
-
-        except Exception as e:
-            # En azından RSS özetlerinden TR üret
-            it["title_tr"] = tr(it.get("title", ""))
-            it["summary_tr_long"] = tr(it.get("summary", ""))
-            it["summary_tr"] = cut_at_sentence_boundary(it["summary_tr_long"], max_chars=360)
+        except Exception as ex:
+            # En kötü durumda RSS verisi ile ayakta kal
+            it["title_tr"] = it.get("title", "")
+            it["summary_tr"] = it.get("summary", "")
+            it["summary_tr_long"] = it["summary_tr"]
             it["why_important"] = []
             it["background"] = []
             it["possible_impacts"] = []
-            it["error"] = str(e)
+            it["error"] = str(ex)
 
     out = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -544,7 +363,7 @@ def main():
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ latest.json üretildi: {len(items)} haber -> {OUT_PATH}")
+    print(f"Wrote {OUT_PATH} with {len(items)} articles")
 
 if __name__ == "__main__":
     main()
