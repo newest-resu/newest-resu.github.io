@@ -255,8 +255,8 @@ CATEGORY_KEYWORDS = {
   "döviz", "dolar", "euro", "sterlin",
   "kripto", "bitcoin", "ethereum",
   "tahvil", "bono", "getiri",
-  "kredi", "faizli", "temettü"
-]
+  "kredi", "faizli", "temettü"                            
+        
     ],
     "yerel": [
         "yalova","çınarcık","cinarcik","çiftlikköy","ciftlikkoy","termal","altınova","altinova","armutlu",
