@@ -1,369 +1,484 @@
+# scripts/build_latest.py
+import json
 import os
 import re
-import json
-import hashlib
-from datetime import datetime, timezone
-
-import feedparser
+from datetime import datetime, timezone, timedelta
+from urllib.parse import urlparse
 import requests
+import feedparser
 from bs4 import BeautifulSoup
-from readability import Document
 
-# -------------------------
-# Translation (0 maliyet) - varsa deep-translator kullanır, yoksa olduğu gibi bırakır
-# -------------------------
-def _get_translator():
-    try:
-        from deep_translator import GoogleTranslator  # pip: deep-translator
-        return GoogleTranslator(source="auto", target="tr")
-    except Exception:
-        return None
 
-_TRANSLATOR = _get_translator()
+OUT_PATH = os.path.join("news", "latest.json")
+os.makedirs("news", exist_ok=True)
 
-def tr(text: str) -> str:
-    text = (text or "").strip()
-    if not text:
-        return ""
-    if _TRANSLATOR is None:
-        return text  # çeviri paketi yoksa fallback: olduğu gibi
-    # Çok uzun metinlerde translator hata verebilir; chunk’layıp birleştiriyoruz
-    chunks = chunk_text(text, max_chars=2200)
-    out = []
-    for c in chunks:
-        try:
-            out.append(_TRANSLATOR.translate(c))
-        except Exception:
-            out.append(c)
-    return "\n\n".join(out).strip()
+TR_TZ = timezone(timedelta(hours=3))  # Europe/Istanbul sabit +03:00
 
-# -------------------------
-# Config
-# -------------------------
-OUT_PATH = "news/latest.json"
-MAX_ARTICLES = int(os.getenv("MAX_ARTICLES", "120"))
-
-UA = "HaberRobotuBot/1.0 (+https://newest-resu.github.io/)"
-S = requests.Session()
-S.headers.update({"User-Agent": UA})
-S.timeout = 25
-
-# -------------------------
-# RSS Sources (Kategoriler KORUNUYOR + Finans + Yerel eklendi)
-# category alanı: JSON'da rss_categories olarak geçer.
-# -------------------------
+# ------------------------------------------------------------
+# RSS Sources
+# Not: RSS listesi "kaynakları arttırmak" için en güvenli yer burası.
+# Finans ve Yerel (Yalova) için Google News RSS araması ekliyoruz (stabil ve geniş kapsama).
+# ------------------------------------------------------------
 RSS_SOURCES = [
-    # ---- Dünya / Teknoloji / Ekonomi (mevcutlar + ekler) ----
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "Dünya"},
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "category": "Teknoloji"},
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Ekonomi"},
+    # --- BBC ---
+    {"url": "https://feeds.bbci.co.uk/news/rss.xml", "hint": "dunya"},
+    {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "hint": "dunya"},
+    {"url": "https://feeds.bbci.co.uk/news/technology/rss.xml", "hint": "teknoloji"},
+    {"url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "hint": "bilim"},
+    {"url": "https://feeds.bbci.co.uk/news/health/rss.xml", "hint": "saglik"},
+    {"url": "https://feeds.bbci.co.uk/news/business/rss.xml", "hint": "finans"},
 
-    # ---- Türkiye geneli (mevcutlar) ----
-    {"name": "Hürriyet", "url": "https://www.hurriyet.com.tr/rss/anasayfa", "category": "Türkiye"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/all/news", "category": "Türkiye"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "category": "Ekonomi"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/spor/news", "category": "Spor"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news", "category": "Teknoloji"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/saglik/news", "category": "Sağlık"},
+    # --- TR genel (mevcutlarınızla uyumlu) ---
+    {"url": "https://www.hurriyet.com.tr/rss/anasayfa", "hint": "gundem"},
+    {"url": "https://www.cnnturk.com/feed/rss/all/news", "hint": "gundem"},
+    {"url": "https://www.cnnturk.com/feed/rss/turkiye/news", "hint": "gundem"},
+    {"url": "https://www.cnnturk.com/feed/rss/dunya/news", "hint": "dunya"},
+    {"url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "hint": "ekonomi"},
+    {"url": "https://www.cnnturk.com/feed/rss/spor/news", "hint": "spor"},
+    {"url": "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news", "hint": "teknoloji"},
+    {"url": "https://www.cnnturk.com/feed/rss/saglik/news", "hint": "saglik"},
+    {"url": "https://www.cnnturk.com/feed/rss/magazin/news", "hint": "magazin"},
+    {"url": "https://www.cnnturk.com/feed/rss/otomobil/news", "hint": "otomobil"},
+    {"url": "https://www.cnnturk.com/feed/rss/yasam/news", "hint": "yasam"},
 
-    # ---- (Örnek ek ulusal RSS'ler) ----
-    # Bu kaynaklar RSS veriyorsa çalışır; vermezse otomatik skip olur (pipeline bozulmaz).
-    {"name": "NTV", "url": "https://www.ntv.com.tr/turkiye.rss", "category": "Türkiye"},
-    {"name": "NTV", "url": "https://www.ntv.com.tr/ekonomi.rss", "category": "Ekonomi"},
-    {"name": "NTV", "url": "https://www.ntv.com.tr/spor.rss", "category": "Spor"},
-    {"name": "NTV", "url": "https://www.ntv.com.tr/teknoloji.rss", "category": "Teknoloji"},
+    # --- Google News RSS (Finans TR) ---
+    # Son 7 gün; borsa/dolar/altın/faiz odaklı
+    {"url": "https://news.google.com/rss/search?q=(borsa%20OR%20dolar%20OR%20alt%C4%B1n%20OR%20faiz)%20when%3A7d&hl=tr&gl=TR&ceid=TR%3Atr", "hint": "finans"},
 
-    # -------------------------
-    # YENİ: Finans (buton)
-    # -------------------------
-    {"name": "BBC", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Finans"},
-    {"name": "NTV", "url": "https://www.ntv.com.tr/ekonomi.rss", "category": "Finans"},
-    {"name": "CNN Türk", "url": "https://www.cnnturk.com/feed/rss/ekonomi/news", "category": "Finans"},
-
-    # -------------------------
-    # YENİ: Yerel (Yalova) - RSS varsa çeker, yoksa sessizce atlar
-    # Not: Yerel için birkaç olası feed pattern ekledim. Hangisi çalışırsa onu kullanır.
-    # -------------------------
-    {"name": "Yalova Gazetesi", "url": "https://www.yalovagazetesi.com/rss", "category": "Yerel"},
-    {"name": "Yalova Gazetesi", "url": "https://www.yalovagazetesi.com/feed", "category": "Yerel"},
-    {"name": "Yalova Gazetesi", "url": "https://www.yalovagazetesi.com/feed/", "category": "Yerel"},
+    # --- Google News RSS (Yerel: Yalova) ---
+    # Yalova + ilçeler (isteğe göre genişletebilirsiniz)
+    {"url": "https://news.google.com/rss/search?q=(Yalova%20OR%20%C3%87%C4%B1narc%C4%B1k%20OR%20Termal%20OR%20Alt%C4%B1nova%20OR%20Armutlu)%20when%3A7d&hl=tr&gl=TR&ceid=TR%3Atr", "hint": "yerel"},
 ]
 
-# -------------------------
+MAX_ITEMS_PER_SOURCE = 18
+TOTAL_LIMIT = 240
+
+UA = "Mozilla/5.0 (compatible; HaberRobotuBot/1.0; +https://newest-resu.github.io/)"
+
+# ------------------------------------------------------------
 # Helpers
-# -------------------------
-def sha1(s: str) -> str:
-    return hashlib.sha1(s.encode("utf-8")).hexdigest()
-
-def norm_ws(s: str) -> str:
-    s = (s or "").replace("\r", "\n")
-    s = re.sub(r"\n{3,}", "\n\n", s)
-    s = re.sub(r"[ \t]{2,}", " ", s)
-    return s.strip()
-
-def strip_html(html: str) -> str:
-    if not html:
+# ------------------------------------------------------------
+def clean_html(text: str) -> str:
+    if not text:
         return ""
-    return BeautifulSoup(html, "lxml").get_text(" ").strip()
+    # feedparser summary bazen HTML gelir
+    soup = BeautifulSoup(text, "html.parser")
+    out = soup.get_text(" ", strip=True)
+    out = re.sub(r"\s+", " ", out).strip()
+    return out
 
-def safe_get(url: str, timeout=25) -> str:
-    r = S.get(url, timeout=timeout)
-    r.raise_for_status()
-    return r.text
 
-def pick_image(entry) -> str:
-    # RSS/Atom alanları farklı olabiliyor; olabildiğince yakalamaya çalışıyoruz
+def get_domain(url: str) -> str:
     try:
-        if hasattr(entry, "media_content") and entry.media_content:
-            url = entry.media_content[0].get("url")
-            if url:
-                return url
+        host = urlparse(url).hostname or ""
+        return host.replace("www.", "")
+    except Exception:
+        return ""
+
+
+def is_foreign(url: str) -> bool:
+    d = get_domain(url)
+    if not d:
+        return True
+    return not d.endswith(".tr")
+
+
+def extract_image(entry) -> str:
+    # feedparser entry: media_content, media_thumbnail, links(enclosure)
+    try:
+        if "media_content" in entry and entry.media_content:
+            u = entry.media_content[0].get("url")
+            if u:
+                return u
     except Exception:
         pass
 
     try:
-        if hasattr(entry, "media_thumbnail") and entry.media_thumbnail:
-            url = entry.media_thumbnail[0].get("url")
-            if url:
-                return url
+        if "media_thumbnail" in entry and entry.media_thumbnail:
+            u = entry.media_thumbnail[0].get("url")
+            if u:
+                return u
     except Exception:
         pass
 
     try:
-        if hasattr(entry, "links"):
+        if "links" in entry:
             for l in entry.links:
-                if l.get("type", "").startswith("image/") and l.get("href"):
-                    return l["href"]
+                if l.get("rel") == "enclosure" and (l.get("type", "").startswith("image") or "image" in l.get("type", "")):
+                    u = l.get("href")
+                    if u:
+                        return u
     except Exception:
         pass
 
-    # summary içindeki img
+    # summary içinden img src çekmeyi dener (bazı RSS’ler)
     try:
-        summary_html = getattr(entry, "summary", "") or ""
-        soup = BeautifulSoup(summary_html, "lxml")
-        img = soup.find("img")
-        if img and img.get("src"):
-            return img["src"]
+        s = entry.get("summary", "") or ""
+        m = re.search(r'<img[^>]+src="([^"]+)"', s, re.IGNORECASE)
+        if m:
+            return m.group(1)
     except Exception:
         pass
 
     return ""
 
-def extract_main_text(html: str) -> str:
-    doc = Document(html)
-    main_html = doc.summary(html_partial=True)
-    soup = BeautifulSoup(main_html, "lxml")
 
-    for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "aside"]):
-        tag.decompose()
+def safe(s: str) -> str:
+    return (s or "").strip()
 
-    text = soup.get_text("\n")
-    return norm_ws(text)
 
-def split_sentences(text: str):
-    text = (text or "").replace("\n", " ")
-    text = re.sub(r"\s+", " ", text).strip()
-    if not text:
+# ------------------------------------------------------------
+# Translation (lightweight, defensive)
+# ------------------------------------------------------------
+_TRANSLATION_CALLS = 0
+_TRANSLATION_LIMIT = 80  # bir çalışmada
+
+def translate_en_to_tr(text: str) -> str:
+    """
+    1) deep-translator varsa kullanmayı dener (GH'de bazen daha stabil).
+    2) olmazsa MyMemory ile dener (rate-limit olabilir).
+    3) olmazsa orijinal döner.
+    """
+    global _TRANSLATION_CALLS
+    t = safe(text)
+    if not t:
+        return t
+    if _TRANSLATION_CALLS >= _TRANSLATION_LIMIT:
+        return t
+
+    _TRANSLATION_CALLS += 1
+
+    # 1) deep-translator
+    try:
+        from deep_translator import GoogleTranslator  # type: ignore
+        return GoogleTranslator(source="auto", target="tr").translate(t[:2500])
+    except Exception:
+        pass
+
+    # 2) MyMemory fallback (kısa tut)
+    try:
+        q = requests.utils.quote(t[:450])
+        url = f"https://api.mymemory.translated.net/get?q={q}&langpair=en|tr"
+        r = requests.get(url, timeout=12, headers={"User-Agent": UA})
+        data = r.json() if r.ok else {}
+        tr = (data.get("responseData", {}) or {}).get("translatedText") or ""
+        up = tr.upper()
+        if "MYMEMORY WARNING" in up or "YOU USED ALL AVAILABLE FREE TRANSLATIONS" in up:
+            return t
+        return tr or t
+    except Exception:
+        return t
+
+
+# ------------------------------------------------------------
+# Category classification (Finans + Yerel eklendi)
+# ------------------------------------------------------------
+CATEGORY_LABELS = {
+    "gundem": "Gündem",
+    "dunya": "Dünya",
+    "spor": "Spor",
+    "teknoloji": "Teknoloji",
+    "saglik": "Sağlık",
+    "ekonomi": "Ekonomi",
+    "finans": "Finans",
+    "magazin": "Magazin",
+    "bilim": "Bilim",
+    "savunma": "Savunma / Askeri",
+    "oyun": "Oyun / Dijital",
+    "otomobil": "Otomobil",
+    "yasam": "Yaşam",
+    "yerel": "Yerel",
+}
+
+CATEGORY_KEYWORDS = {
+    "finans": [
+        "borsa", "bist", "hisse", "hisseleri", "endeks", "dolar", "euro", "altın", "altin",
+        "kripto", "bitcoin", "ethereum", "faiz", "tahvil", "bono", "swap", "kur",
+        "bankacılık", "bankacilik", "temettü", "temettu", "portföy", "portfoy",
+        "fed", "tcmb", "merkez bank", "enflasyon", "piyasa", "futures", "emtia"
+    ],
+    "yerel": [
+        "yalova", "çınarcık", "cinarcik", "termal", "altınova", "altinova", "armutlu",
+        "çiftlikköy", "ciftlikkoy", "kocaeli", "bursa", "marmara"
+    ],
+    "spor": ["maç", "mac", "lig", "şampiyona", "gol", "transfer", "derbi", "futbol", "basketbol", "voleybol", "tenis"],
+    "teknoloji": ["teknoloji", "yazılım", "yazilim", "android", "ios", "yapay zeka", "ai", "çip", "cip", "işlemci", "islemci", "bilgisayar"],
+    "saglik": ["sağlık", "saglik", "hastane", "doktor", "virüs", "virus", "kanser", "tedavi", "aşı", "asi", "grip", "diyet"],
+    "ekonomi": ["ekonomi", "ihracat", "ithalat", "bütçe", "butce", "vergi", "asgari", "maaş", "maas", "sanayi", "üretim", "uretim"],
+    "magazin": ["magazin", "ünlü", "unlu", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "konser"],
+    "bilim": ["bilim", "araştırma", "arastirma", "deney", "keşif", "kesif", "nasa", "teleskop", "genetik"],
+    "savunma": ["savunma", "ordu", "asker", "füze", "fuze", "tank", "operasyon", "nato", "güvenlik", "guvenlik"],
+    "oyun": ["oyun", "playstation", "ps5", "xbox", "nintendo", "steam", "mobil oyun", "espor", "gamer", "valorant"],
+    "otomobil": ["otomobil", "araba", "araç", "arac", "tesla", "togg", "trafik", "muayene", "lastik"],
+    "yasam": ["yaşam", "yasam", "aile", "çocuk", "cocuk", "alışveriş", "alisveris", "tatil", "seyahat", "yemek", "dekorasyon"],
+    "dunya": ["world", "international", "global", "europe", "middle east", "asia", "africa", "us", "canada", "politic"],
+    "gundem": ["türkiye", "turkiye", "gündem", "gundem", "yerel", "son dakika"],
+}
+
+def guess_category(title_any: str, summary_any: str, rss_categories: list, hint: str, url: str) -> str:
+    # 1) hint (source bazlı)
+    if hint in CATEGORY_LABELS:
+        # yerel/finans gibi özel hintleri güçlü tut
+        if hint in ("yerel", "finans"):
+            return hint
+
+    # 2) rss categories
+    rc = " ".join([safe(x).lower() for x in (rss_categories or []) if safe(x)])
+    if rc:
+        # rss'de finance/business geçiyorsa finansı öne al
+        if any(k in rc for k in ["finance", "markets", "stock", "stocks", "bist", "borsa"]):
+            return "finans"
+        if any(k in rc for k in ["business", "economy", "economics"]):
+            return "ekonomi"
+        if "sport" in rc:
+            return "spor"
+        if any(k in rc for k in ["technology", "tech"]):
+            return "teknoloji"
+        if any(k in rc for k in ["health", "medical", "medicine"]):
+            return "saglik"
+        if any(k in rc for k in ["science", "environment"]):
+            return "bilim"
+
+    # 3) keyword scoring
+    text = (safe(title_any) + " " + safe(summary_any)).lower()
+
+    # Yerel: yalova yakalarsa direkt yerel
+    if any(k in text for k in CATEGORY_KEYWORDS["yerel"]):
+        return "yerel"
+
+    scores = {}
+    for cat, kws in CATEGORY_KEYWORDS.items():
+        if cat in ("yerel",):
+            continue
+        score = 0
+        for k in kws:
+            if k and k in text:
+                score += 1
+        scores[cat] = score
+
+    best = max(scores.items(), key=lambda x: x[1])[0] if scores else ""
+    if scores.get(best, 0) > 0:
+        # finance ve economy çakışırsa; piyasaya dönük kelimeler varsa finans
+        if best == "ekonomi" and any(k in text for k in CATEGORY_KEYWORDS["finans"]):
+            return "finans"
+        return best
+
+    # fallback: foreign -> dünya, tr -> gündem
+    return "dunya" if is_foreign(url) else "gundem"
+
+
+# ------------------------------------------------------------
+# Modal content generation (telif riskini azaltan, tutarlı üretim)
+# ------------------------------------------------------------
+SENT_SPLIT = re.compile(r"(?<=[.!?])\s+")
+
+def pick_sentences(text: str, max_sent: int = 6) -> list:
+    t = clean_html(text)
+    if not t:
         return []
-    parts = re.split(r"(?<=[.!?])\s+", text)
+    parts = [p.strip() for p in SENT_SPLIT.split(t) if p.strip()]
+    # çok kısa/çok uzun parçaları filtrele
     out = []
     for p in parts:
-        p = p.strip()
-        if len(p) >= 45:
-            out.append(p)
+        if len(p) < 30:
+            continue
+        if len(p) > 320:
+            p = p[:320].rsplit(" ", 1)[0] + "…"
+        out.append(p)
+        if len(out) >= max_sent:
+            break
     return out
 
-def score_sentence(s: str):
-    score = 0.0
-    if re.search(r"\d", s):
-        score += 2.5
-    if re.search(r"\b[A-ZÇĞİÖŞÜ]{2,}\b", s):
-        score += 1.8
-    if re.search(r"\b[A-Z][a-zçğıöşü]+\b", s):
-        score += 1.0
-    score += min(len(s) / 140.0, 2.5)
-    return score
 
-def build_extractive_summary(text: str, max_words: int):
-    sents = split_sentences(text)
+def build_long_summary_tr(title_tr: str, summary_tr: str, category: str, source: str) -> str:
+    # Tam metin değil; özetin üstüne tutarlı bir giriş + özet cümleleri.
+    sents = pick_sentences(summary_tr, max_sent=5)
     if not sents:
-        return ""
+        base = safe(summary_tr) or "Bu haber için kısa özet mevcut değil."
+        sents = [base[:240] + ("…" if len(base) > 240 else "")]
+    intro = f"Bu içerik, {CATEGORY_LABELS.get(category, 'Genel')} kategorisinde derlenmiş bir haber özetidir (Kaynak: {source})."
+    body = " ".join(sents)
+    # aşırı tekrarları azalt
+    body = re.sub(r"\s+", " ", body).strip()
+    return intro + "\n\n" + body
 
-    scored = sorted([(score_sentence(s), i, s) for i, s in enumerate(sents)], reverse=True)
-    chosen = []
-    total_words = 0
 
-    for _, _, s in scored:
-        w = len(s.split())
-        if total_words + w > max_words:
-            continue
-        chosen.append(s)
-        total_words += w
-        if total_words >= max_words * 0.92:
+def make_why_important_tr(title_tr: str, summary_tr: str, category: str) -> list:
+    t = (safe(title_tr) + " " + safe(summary_tr)).lower()
+    bullets = []
+
+    # kategori bazlı “mantıklı” kalıplar
+    if category == "finans":
+        bullets.append("Piyasa fiyatlamaları (kur/altın/borsa/faiz) üzerinde kısa vadeli dalgalanma yaratabilir.")
+        bullets.append("Yatırımcı beklentilerini etkileyebilecek yeni veri/karar/söylem içerebilir.")
+    elif category == "yerel":
+        bullets.append("Yalova ve çevresinde günlük yaşamı ve yerel kararları etkileyebilecek bir gelişmeyi işaret ediyor.")
+        bullets.append("Yerel kurumların atacağı adımlar veya kamu hizmetleri açısından önem taşıyabilir.")
+    elif category == "saglik":
+        bullets.append("Kamu sağlığı, riskler veya tedavi süreçleri açısından doğrudan etki doğurabilir.")
+    elif category == "teknoloji":
+        bullets.append("Yeni ürün/hizmet veya düzenleme, kullanıcılar ve şirketler için maliyet ve güvenlik etkileri doğurabilir.")
+    elif category == "spor":
+        bullets.append("Takım/lig dinamiklerini ve yaklaşan karşılaşmaların dengelerini etkileyebilir.")
+    else:
+        bullets.append("Gündemi etkileyebilecek yeni bir bilgi veya gelişme içeriyor.")
+        bullets.append("Kısa vadede kamuoyu ve karar vericiler üzerinde etkisi olabilir.")
+
+    # metinden ekstra bir “somutluk” yakala: sayı/para/tarih
+    if re.search(r"\b\d{1,3}([.,]\d{3})*\b", summary_tr):
+        bullets.insert(0, "Haberde yer alan sayısal veriler, gelişmenin ölçeğini ve olası etkisini anlamayı kolaylaştırıyor.")
+
+    return bullets[:3]
+
+
+def make_background_tr(summary_tr: str, category: str) -> list:
+    sents = pick_sentences(summary_tr, max_sent=6)
+    if not sents:
+        return ["—"]
+    # “arka plan” için ilk 2-3 cümle
+    out = sents[:3]
+    if category == "finans":
+        out.append("Finansal haberlerde benzer başlıklar genellikle veri akışı, politika kararları ve küresel risk iştahıyla birlikte fiyatlanır.")
+    if category == "yerel":
+        out.append("Yerel gelişmeler, belediye/valilik kararları ve bölgesel altyapı–hizmet süreçleriyle birlikte değerlendirilmelidir.")
+    return out[:4]
+
+
+def make_impacts_tr(summary_tr: str, category: str) -> list:
+    t = safe(summary_tr)
+    if not t:
+        return ["—"]
+
+    bullets = []
+    # özet içinden “bekleniyor/olabilir/planlanıyor” gibi ifadeleri yakala
+    impact_sents = []
+    for s in pick_sentences(t, max_sent=10):
+        low = s.lower()
+        if any(k in low for k in ["beklen", "öngör", "planlan", "etkile", "yol aç", "yol ac", "risk", "olabilir", "muhtemel"]):
+            impact_sents.append(s)
+        if len(impact_sents) >= 2:
             break
 
-    if not chosen:
-        chosen = sents[:5]
+    if impact_sents:
+        bullets.extend(impact_sents[:2])
 
-    # orijinal sıraya göre diz
-    idx_map = {s: i for i, s in enumerate(sents)}
-    chosen_sorted = sorted(chosen, key=lambda x: idx_map.get(x, 999999))
-    return " ".join(chosen_sorted).strip()
+    # kategori bazlı ek
+    if category == "finans":
+        bullets.append("Yeni haber akışı devam ederse, fiyatlar kısa süreli “haber bazlı” tepkiler verebilir; karar için kaynağa gidip detay doğrulaması yapılmalıdır.")
+    elif category == "yerel":
+        bullets.append("Gelişmenin seyrine göre yerel hizmetler/ulaşım/etkinlikler gibi alanlarda güncellemeler görülebilir.")
+    else:
+        bullets.append("Gelişme yeni ayrıntılarla güncellenebilir; resmi açıklamalar ve kaynak detayları takip edilmelidir.")
 
-def chunk_text(text: str, max_chars: int = 2500):
-    text = (text or "").strip()
-    if len(text) <= max_chars:
-        return [text] if text else []
-    chunks, cur, cur_len = [], [], 0
-    for para in text.split("\n\n"):
-        para = para.strip()
-        if not para:
-            continue
-        add_len = len(para) + 2
-        if cur_len + add_len > max_chars and cur:
-            chunks.append("\n\n".join(cur))
-            cur, cur_len = [para], len(para)
-        else:
-            cur.append(para)
-            cur_len += add_len
-    if cur:
-        chunks.append("\n\n".join(cur))
-    return chunks
+    # temizle
+    out = []
+    for b in bullets:
+        bb = safe(b)
+        if bb and bb not in out:
+            out.append(bb)
+    return out[:3]
 
-# -------------------------
-# "Daha mantıklı" bullet üretimi (tekrar cümle yapıştırma hissini azaltır)
-#  - Tam LLM kalitesi değildir ama okuyucu algısı belirgin şekilde iyileşir.
-# -------------------------
-def _simplify_sentence(s: str) -> str:
-    s = (s or "").strip()
-    s = re.sub(r"\s+", " ", s)
-    # Çok uzun ise kısalt
-    words = s.split()
-    if len(words) > 26:
-        s = " ".join(words[:26]).rstrip() + "…"
-    return s
 
-def bullets_structured(summary_tr_long: str):
-    sents = split_sentences(summary_tr_long)
-    if not sents:
-        return {
-            "why_important": [],
-            "background": [],
-            "possible_impacts": []
-        }
+# ------------------------------------------------------------
+def fetch_feed(url: str):
+    r = requests.get(url, timeout=20, headers={"User-Agent": UA})
+    r.raise_for_status()
+    return feedparser.parse(r.content)
 
-    # skorla, ama bölümler için farklı dil kalıplarıyla sun
-    scored = sorted([(score_sentence(s), s) for s in sents], reverse=True)
-    top = [s for _, s in scored[:12]]
 
-    why = []
-    bg = []
-    imp = []
-
-    # Basit ama işe yarayan seçim: farklı cümleleri farklı bölümlere paylaştır
-    for i, s in enumerate(top):
-        t = _simplify_sentence(s)
-        if len(why) < 3 and i % 3 == 0:
-            why.append(f"Öne çıkan nokta: {t}")
-        elif len(bg) < 3 and i % 3 == 1:
-            bg.append(f"Arka plan: {t}")
-        elif len(imp) < 3 and i % 3 == 2:
-            imp.append(f"Muhtemel etki: {t}")
-
-        if len(why) >= 3 and len(bg) >= 3 and len(imp) >= 3:
-            break
-
-    return {
-        "why_important": why,
-        "background": bg,
-        "possible_impacts": imp
-    }
-
-# -------------------------
-# Main
-# -------------------------
 def main():
-    raw_items = []
+    seen = set()
+    articles = []
 
     for src in RSS_SOURCES:
+        url = src["url"]
+        hint = src.get("hint", "gundem")
+
         try:
-            feed = feedparser.parse(src["url"])
-            entries = getattr(feed, "entries", []) or []
-        except Exception:
-            continue
+            feed = fetch_feed(url)
+            entries = feed.entries[:MAX_ITEMS_PER_SOURCE]
 
-        for e in entries[: MAX_ARTICLES * 2]:
-            url = getattr(e, "link", "") or ""
-            if not url:
-                continue
+            for e in entries:
+                link = safe(e.get("link"))
+                if not link:
+                    continue
+                if link in seen:
+                    continue
+                seen.add(link)
 
-            title = getattr(e, "title", "") or ""
-            summary_html = getattr(e, "summary", "") or ""
-            summary = strip_html(summary_html)
+                # ham alanlar
+                title = safe(e.get("title"))
+                summary = clean_html(e.get("summary", "") or e.get("description", "") or "")
 
-            image = pick_image(e)
+                if not title:
+                    continue
 
-            raw_items.append({
-                "id": sha1(url),
-                "url": url,
-                "title": title,
-                "summary": summary,
-                "image": image,
-                "source": src.get("name", "") or "Kaynak",
-                "rss_categories": [src["category"]] if src.get("category") else [],
-            })
+                domain = get_domain(link) or "kaynak"
+                rss_cats = []
+                try:
+                    if "tags" in e and e.tags:
+                        rss_cats = [safe(t.get("term", "")).lower() for t in e.tags if safe(t.get("term", ""))]
+                except Exception:
+                    rss_cats = []
 
-    # uniq by url
-    seen = set()
-    items = []
-    for it in raw_items:
-        if it["url"] in seen:
-            continue
-        seen.add(it["url"])
-        items.append(it)
+                img = extract_image(e)
 
-    items = items[:MAX_ARTICLES]
+                # TR/EN ayır
+                if is_foreign(link):
+                    title_tr = translate_en_to_tr(title)
+                    summary_tr = translate_en_to_tr(summary)
+                else:
+                    title_tr = title
+                    summary_tr = summary
 
-    # Fetch -> extract -> summarize -> translate -> structured bullets
-    for it in items:
-        try:
-            html = safe_get(it["url"])
-            content = extract_main_text(html)
+                category = guess_category(title_tr or title, summary_tr or summary, rss_cats, hint, link)
 
-            long_src = build_extractive_summary(content, max_words=900)   # uzun özet kaynağı
-            short_src = build_extractive_summary(content, max_words=70)   # kısa özet kaynağı
+                # Modal alanları (TR üret)
+                long_tr = build_long_summary_tr(title_tr, summary_tr, category, domain)
+                why = make_why_important_tr(title_tr, summary_tr, category)
+                bg = make_background_tr(summary_tr, category)
+                impacts = make_impacts_tr(summary_tr, category)
 
-            # Çeviri (başlık / kısa / uzun)
-            it["title_tr"] = tr(it["title"]) if it["title"].strip() else ""
-            it["summary_tr"] = tr(short_src) if short_src else tr(it.get("summary", ""))
-            it["summary_tr_long"] = tr(long_src) if long_src else it["summary_tr"]
+                articles.append({
+                    "title": title,
+                    "summary": summary,
+                    "title_tr": title_tr,
+                    "summary_tr": summary_tr,
 
-            structured = bullets_structured(it["summary_tr_long"])
-            it["why_important"] = structured["why_important"]
-            it["background"] = structured["background"]
-            it["possible_impacts"] = structured["possible_impacts"]
+                    # modal alanları
+                    "summary_tr_long": long_tr,
+                    "why_important": why,
+                    "background": bg,
+                    "possible_impacts": impacts,
+
+                    "image": img,
+                    "url": link,
+                    "source": domain,
+                    "rss_categories": rss_cats,
+                    "category": category,
+                })
+
+                if len(articles) >= TOTAL_LIMIT:
+                    break
 
         except Exception as ex:
-            # En kötü durumda RSS verisi ile ayakta kal
-            it["title_tr"] = it.get("title", "")
-            it["summary_tr"] = it.get("summary", "")
-            it["summary_tr_long"] = it["summary_tr"]
-            it["why_important"] = []
-            it["background"] = []
-            it["possible_impacts"] = []
-            it["error"] = str(ex)
+            print("RSS hata:", url, ex)
 
+        if len(articles) >= TOTAL_LIMIT:
+            break
+
+    # generated_at: ISO +03:00
+    now_tr = datetime.now(TR_TZ).replace(microsecond=0)
     out = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "count": len(items),
-        "articles": items,
+        "generated_at": now_tr.isoformat(),
+        "articles": articles
     }
 
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {OUT_PATH} with {len(items)} articles")
+    print("Yazıldı:", OUT_PATH, "Toplam:", len(articles))
+
 
 if __name__ == "__main__":
     main()
