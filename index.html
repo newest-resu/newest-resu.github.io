@@ -567,6 +567,7 @@
       yasam: ["yaşam","yasam","hayat","aile","çocuk","cocuk","evlilik","ilişki","iliski","alışveriş","alisveris","tatil","seyahat","gezi","yemek","tarif","dekorasyon","hobi","ev hayatı","gunluk hayat"],
       yerel: ["yalova","çınarcık","cinarcik","çiftlikköy","ciftlikkoy","altınova","altinova","termal","armutlu","kadıköy yalova","belediye","valilik","il özel idaresi","su kesintisi","elektrik kesintisi","yol çalışması","yol calismasi","etkinlik","festival","duyuru","nöbetçi eczane","nobetci eczane"]
     };
+    
 
     function safeText(v){ return (v ?? "").toString().trim(); }
 
@@ -579,20 +580,89 @@
         .replaceAll("'","&#039;");
     }
 
-    function getDomain(url){
-      try{
-        const u = new URL(url);
-        return u.hostname.replace(/^www\./,"");
-      }catch{
-        return "";
-      }
+    <script>
+  // --- TR domain listesi (Türkiye’de .com olanlar dahil) ---
+  const TR_DOMAINS = new Set([
+    "aa.com.tr",
+    "anadoluajansi.com.tr",
+    "trt.net.tr",
+    "trthaber.com",
+    "ntv.com.tr",
+    "cnn.com.tr",
+    "haberturk.com",
+    "ensonhaber.com",
+    "posta.com.tr",
+    "hurriyet.com.tr",
+    "milliyet.com.tr",
+    "sabah.com.tr",
+    "sozcu.com.tr",
+    "cumhuriyet.com.tr",
+    "t24.com.tr",
+    "gazeteduvar.com.tr",
+    "odatv.com",
+    "haberler.com",
+    "sondakika.com",
+    "ekonomim.com",
+    "dunya.com",
+    "bigpara.hurriyet.com.tr",
+    "paraanaliz.com",
+    "bloomberght.com",
+    "tr.investing.com",
+    "foreks.com"
+  ]);
+
+  function safeUrlParse(u) {
+    try {
+      // URL şemasız gelirse (nadiren) https ekle
+      if (typeof u === "string" && u && !/^https?:\/\//i.test(u)) u = "https://" + u;
+      return new URL(u);
+    } catch {
+      return null;
+    }
+  }
+
+  function getDomainFromAny(articleOrUrl) {
+    // Önce generator’ın koyduğu source alanı varsa onu kullan (en sağlam yöntem)
+    if (articleOrUrl && typeof articleOrUrl === "object") {
+      const s = (articleOrUrl.source || "").toString().trim().toLowerCase();
+      if (s) return s.replace(/^www\./, "");
+      const u2 = (articleOrUrl.url || "").toString().trim();
+      const parsed2 = safeUrlParse(u2);
+      if (parsed2?.hostname) return parsed2.hostname.replace(/^www\./, "").toLowerCase();
+      return "";
     }
 
-    function classifySource(url){
-      const d = getDomain(url);
-      if (!d) return { label:"Bilinmeyen", type:"intl" };
-      const isTr = d.endsWith(".tr");
-      return { label:d, type: isTr ? "tr" : "intl" };
+    // String URL geldiyse parse et
+    const u = (articleOrUrl || "").toString().trim();
+    const parsed = safeUrlParse(u);
+    return parsed?.hostname ? parsed.hostname.replace(/^www\./, "").toLowerCase() : "";
+  }
+
+  function classifySource(articleOrUrl) {
+    const d = getDomainFromAny(articleOrUrl);
+    if (!d) return { label: "Bilinmeyen", type: "intl" };
+
+    // TR tld
+    if (
+      d.endsWith(".tr") ||
+      d.endsWith(".com.tr") ||
+      d.endsWith(".net.tr") ||
+      d.endsWith(".org.tr") ||
+      d.endsWith(".gov.tr") ||
+      d.endsWith(".edu.tr")
+    ) {
+      return { label: d, type: "tr" };
+    }
+
+    // TR whitelist (.com ama Türkiye)
+    if (TR_DOMAINS.has(d)) {
+      return { label: d, type: "tr" };
+    }
+
+    return { label: d, type: "intl" };
+  }
+</script>
+
     }
 
     function classifyCategory(article){
@@ -653,12 +723,20 @@
       }
     }
 
-    function setStatus(count, generatedAtIso){
-      const el = document.getElementById("status");
-      const nowTr = formatTR(new Date().toISOString());
-      const genTr = generatedAtIso ? formatTR(generatedAtIso) : "";
-      if (genTr) el.textContent = `Toplam ${count} haber • Son güncelleme: ${genTr} (TR) • Son kontrol: ${nowTr} (TR)`;
-      else el.textContent = `Toplam ${count} haber • Son kontrol: ${nowTr} (TR)`;
+    function setStatus(count, generatedAtIso) {
+  const status = document.getElementById("status");
+  const formatted = generatedAtIso ? formatTRDate(generatedAtIso) : formatTRDate(new Date().toISOString());
+
+  // TR / INTL say
+  let trCount = 0, intlCount = 0;
+  for (const a of (ALL_ARTICLES || [])) {
+    const src = classifySource(a);
+    if (src.type === "tr") trCount++;
+    else intlCount++;
+  }
+
+  status.textContent = `Toplam ${count} haber • TR: ${trCount} / INTL: ${intlCount} • Son güncelleme: ${formatted} (TR)`;
+}
     }
 
     // --- Modal helpers ---
