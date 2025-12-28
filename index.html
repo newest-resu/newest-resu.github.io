@@ -1,33 +1,510 @@
-<!DOCTYPE html> <html lang="tr"> <head>   <meta charset="UTF-8">   <title>Haber Robotu – Otomatik Güncel Haberler</title>   <meta name="viewport" content="width=device-width, initial-scale=1">    <!-- Açıklama & Open Graph -->   <meta name="description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada. Spor, teknoloji, ekonomi, sağlık ve daha fazlası.">   <meta property="og:title" content="Haber Robotu – Otomatik Güncel Haberler">   <meta property="og:description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada.">   <meta property="og:url" content="https://newest-resu.github.io/">   <meta property="og:type" content="website">   <meta property="og:site_name" content="Haber Robotu">   <meta name="twitter:card" content="summary_large_image">    <!-- Google AdSense (Auto Ads) -->   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"        crossorigin="anonymous"></script>    <style>     :root {       --bg: #0f172a;       --bg-card: #020617;       --bg-alt: #020617;       --text: #e5e7eb;       --muted: #9ca3af;       --accent: #facc15;       --accent-soft: rgba(250, 204, 21, 0.12);       --border: #1f2937;     }     * { box-sizing: border-box; }     body {       margin: 0;       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;       background: radial-gradient(circle at top, #1f2937 0, #020617 55%);       color: var(--text);     }      /* Sayfa düzeni: orta içerik + sağ/sol boşluklar (Auto Ads için) */     .page {       position: relative;       min-height: 100vh;     }      .shell {       max-width: 1100px;       margin: 0 auto;       padding: 16px 12px 48px;     }      header {       display: flex;       align-items: center;       gap: 12px;       padding: 16px 18px;       border-radius: 14px;       background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.98));       border: 1px solid rgba(148,163,184,0.18);       box-shadow: 0 24px 80px rgba(0,0,0,0.55);       position: sticky;       top: 8px;       z-index: 20;       backdrop-filter: blur(16px);       flex-wrap: wrap;     }      .logo {       width: 38px;       height: 38px;       border-radius: 12px;       background: radial-gradient(circle at 20% 0%, #facc15, #f97316);       display: flex;       align-items: center;       justify-content: center;       color: #020617;       font-weight: 900;       font-size: 18px;       box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);     }      .title-wrap { flex: 1 1 200px; }     .title {       font-size: 20px;       font-weight: 700;       letter-spacing: .02em;     }     .subtitle {       font-size: 13px;       color: var(--muted);     }     .pill {       font-size: 11px;       padding: 4px 9px;       border-radius: 999px;       border: 1px solid rgba(148,163,184,0.35);       color: var(--muted);       background: rgba(15,23,42,0.9);       white-space: nowrap;     }      .top-nav {       display: flex;       flex-wrap: wrap;       gap: 12px;       font-size: 13px;       margin-top: 6px;     }     .top-nav a {       color: #facc15;       text-decoration: none;     }      .toolbar {       margin-top: 18px;       display: flex;       flex-wrap: wrap;       gap: 10px;       align-items: center;       justify-content: space-between;     }     .filters { display: flex; flex-wrap: wrap; gap: 8px; }      .btn-filter {       border-radius: 999px;       font-size: 13px;       padding: 5px 12px;       border: 1px solid var(--border);       background: rgba(15,23,42,0.9);       color: var(--muted);       cursor: pointer;       transition: all .15s ease;     }     .btn-filter.active {       background: var(--accent-soft);       border-color: var(--accent);       color: #fefce8;     }     .status {       font-size: 12px;       color: var(--muted);     }      .grid {       margin-top: 12px;       display: flex;       flex-direction: column;       gap: 10px;     }     .card {       display: grid;       grid-template-columns: 200px minmax(0,1fr);       gap: 14px;       padding: 12px;       border-radius: 14px;       background: rgba(15,23,42,0.96);       border: 1px solid rgba(31,41,55,0.9);       box-shadow: 0 14px 40px rgba(0,0,0,0.65);     }     .thumb-wrap {       border-radius: 10px;       overflow: hidden;       background: radial-gradient(circle at 10% 0%, #1f2937, #020617);       border: 1px solid rgba(31,41,55,0.9);       display: flex;       align-items: center;       justify-content: center;       font-size: 11px;       color: var(--muted);       text-align: center;       padding: 6px;     }     .thumb-wrap img {       width: 100%;       height: 100%;       object-fit: cover;       display: block;     }      .card-body {       display: flex;       flex-direction: column;       gap: 6px;     }     .meta-line {       display: flex;       flex-wrap: wrap;       gap: 6px;       align-items: center;       font-size: 11px;       color: var(--muted);     }     .badge-source {       padding: 2px 7px;       border-radius: 999px;       border: 1px solid rgba(55,65,81,0.9);       background: rgba(15,23,42,0.9);     }     .badge-tag {       padding: 2px 7px;       border-radius: 999px;       background: rgba(34,197,94,0.08);       border: 1px solid rgba(34,197,94,0.25);       color: #bbf7d0;     }     .badge-cat {       padding: 2px 7px;       border-radius: 999px;       background: rgba(59,130,246,0.12);       border: 1px solid rgba(59,130,246,0.35);       color: #bfdbfe;     }     .headline {       font-size: 16px;       font-weight: 600;       color: #f9fafb;       margin: 2px 0;     }     .summary {       font-size: 13px;       color: #d1d5db;     }     .actions {       margin-top: 6px;       display: flex;       gap: 8px;       align-items: center;       flex-wrap: wrap;     }     .btn-read {       font-size: 12px;       padding: 5px 11px;       border-radius: 999px;       border: none;       cursor: pointer;       background: var(--accent);       color: #1f2937;       font-weight: 600;       text-decoration: none;       display: inline-flex;       align-items: center;       gap: 4px;     }     .btn-read:hover { filter: brightness(1.08); }     .source-url {       font-size: 11px;       color: var(--muted);       max-width: 220px;       white-space: nowrap;       overflow: hidden;       text-overflow: ellipsis;     }      footer {       margin-top: 26px;       font-size: 11px;       color: var(--muted);       text-align: center;     }      /* Sağ/sol boşluklar: yazı yok, sadece Auto Ads için ayrılmış alan */     .side-slot {       position: fixed;       top: 70px;       width: 260px;       height: calc(100vh - 100px);       border-radius: 14px;       border: 1px solid rgba(148,163,184,0.10);       background: rgba(15,23,42,0.08);       display: none;       z-index: 15;       overflow: hidden;       pointer-events: none;     }     .side-slot-left { left: 12px; }     .side-slot-right { right: 12px; }      @media (max-width: 768px) {       header { flex-direction: column; align-items: flex-start; }       .title { font-size: 18px; }       .subtitle { font-size: 12px; }       .card { grid-template-columns: 1fr; }       .thumb-wrap { height: 190px; }     }      @media (min-width: 1400px) {       .shell { max-width: 900px; }       .side-slot { display: block; }     } 
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Haber Robotu – Otomatik Güncel Haberler</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    .icon-btn { border: none; background: rgba(15,23,42,0.9); color: var(--muted); cursor: pointer; border-radius: 999px; padding: 6px 10px; border: 1px solid var(--border); font-size: 14px; line-height: 1; }
-    .icon-btn:hover { color: #fefce8; border-color: var(--accent); background: var(--accent-soft); }
+  <meta name="description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada. Spor, teknoloji, ekonomi, sağlık ve daha fazlası.">
+  <meta property="og:title" content="Haber Robotu – Otomatik Güncel Haberler">
+  <meta property="og:description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada.">
+  <meta property="og:url" content="https://newest-resu.github.io/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Haber Robotu">
+  <meta name="twitter:card" content="summary_large_image">
 
+  <!-- Google AdSense (Auto Ads) -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
+          crossorigin="anonymous"></script>
+
+  <style>
+    :root {
+      --bg: #0f172a;
+      --bg-card: #020617;
+      --bg-alt: #020617;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #facc15;
+      --accent-soft: rgba(250, 204, 21, 0.12);
+      --border: #1f2937;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #1f2937 0, #020617 55%);
+      color: var(--text);
+    }
+
+    .page { position: relative; min-height: 100vh; }
+    .shell { max-width: 1100px; margin: 0 auto; padding: 16px 12px 48px; }
+
+    header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 18px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.98));
+      border: 1px solid rgba(148,163,184,0.18);
+      box-shadow: 0 24px 80px rgba(0,0,0,0.55);
+      position: sticky;
+      top: 8px;
+      z-index: 20;
+      backdrop-filter: blur(16px);
+      flex-wrap: wrap;
+    }
+
+    .logo {
+      width: 38px;
+      height: 38px;
+      border-radius: 12px;
+      background: radial-gradient(circle at 20% 0%, #facc15, #f97316);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #020617;
+      font-weight: 900;
+      font-size: 18px;
+      box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);
+    }
+
+    .title-wrap { flex: 1 1 200px; }
+    .title { font-size: 20px; font-weight: 700; letter-spacing: .02em; }
+    .subtitle { font-size: 13px; color: var(--muted); }
+    .pill {
+      font-size: 11px;
+      padding: 4px 9px;
+      border-radius: 999px;
+      border: 1px solid rgba(148,163,184,0.35);
+      color: var(--muted);
+      background: rgba(15,23,42,0.9);
+      white-space: nowrap;
+    }
+
+    .top-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 13px;
+      margin-top: 6px;
+    }
+    .top-nav a { color: #facc15; text-decoration: none; }
+
+    .toolbar {
+      margin-top: 18px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .filters { display: flex; flex-wrap: wrap; gap: 8px; }
+
+    .btn-filter {
+      border-radius: 999px;
+      font-size: 13px;
+      padding: 5px 12px;
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .15s ease;
+    }
+    .btn-filter.active {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      color: #fefce8;
+    }
+
+    .status { font-size: 12px; color: var(--muted); }
+
+    .grid { margin-top: 12px; display: flex; flex-direction: column; gap: 10px; }
+    .card {
+      display: grid;
+      grid-template-columns: 200px minmax(0,1fr);
+      gap: 14px;
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(15,23,42,0.96);
+      border: 1px solid rgba(31,41,55,0.9);
+      box-shadow: 0 14px 40px rgba(0,0,0,0.65);
+    }
+
+    .thumb-wrap {
+      border-radius: 10px;
+      overflow: hidden;
+      background: radial-gradient(circle at 10% 0%, #1f2937, #020617);
+      border: 1px solid rgba(31,41,55,0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      color: var(--muted);
+      text-align: center;
+      padding: 6px;
+      min-height: 120px;
+    }
+    .thumb-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+    .card-body { display: flex; flex-direction: column; gap: 6px; }
+    .meta-line {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .badge-source {
+      padding: 2px 7px;
+      border-radius: 999px;
+      border: 1px solid rgba(55,65,81,0.9);
+      background: rgba(15,23,42,0.9);
+    }
+    .badge-tag {
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(34,197,94,0.08);
+      border: 1px solid rgba(34,197,94,0.25);
+      color: #bbf7d0;
+    }
+    .badge-cat {
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(59,130,246,0.12);
+      border: 1px solid rgba(59,130,246,0.35);
+      color: #bfdbfe;
+    }
+    .headline { font-size: 16px; font-weight: 600; color: #f9fafb; margin: 2px 0; }
+    .summary { font-size: 13px; color: #d1d5db; }
+
+    .actions {
+      margin-top: 6px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .btn-read {
+      font-size: 12px;
+      padding: 5px 11px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      background: var(--accent);
+      color: #1f2937;
+      font-weight: 600;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+    }
+    .btn-read:hover { filter: brightness(1.08); }
+
+    .source-url {
+      font-size: 11px;
+      color: var(--muted);
+      max-width: 220px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    footer { margin-top: 26px; font-size: 11px; color: var(--muted); text-align: center; }
+
+    .side-slot {
+      position: fixed;
+      top: 70px;
+      width: 260px;
+      height: calc(100vh - 100px);
+      border-radius: 14px;
+      border: 1px solid rgba(148,163,184,0.10);
+      background: rgba(15,23,42,0.08);
+      display: none;
+      z-index: 15;
+      overflow: hidden;
+      pointer-events: none;
+    }
+    .side-slot-left { left: 12px; }
+    .side-slot-right { right: 12px; }
+
+    @media (max-width: 768px) {
+      header { flex-direction: column; align-items: flex-start; }
+      .title { font-size: 18px; }
+      .subtitle { font-size: 12px; }
+      .card { grid-template-columns: 1fr; }
+      .thumb-wrap { height: 190px; }
+    }
+    @media (min-width: 1400px) {
+      .shell { max-width: 900px; }
+      .side-slot { display: block; }
+    }
+
+    /* Manuel yenile ikonu */
+    .icon-btn {
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--muted);
+      cursor: pointer;
+      border-radius: 999px;
+      padding: 6px 10px;
+      font-size: 14px;
+      line-height: 1;
+    }
+    .icon-btn:hover {
+      color: #fefce8;
+      border-color: var(--accent);
+      background: var(--accent-soft);
+    }
     .icon-btn.spin { pointer-events: none; opacity: .85; }
     .icon-btn.spin .icon { display:inline-block; animation: spin .8s linear infinite; }
     @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+  </style>
+</head>
 
-  </style> </head>  <body>   <div class="page">     <!-- SOL boş alan (yazı yok) -->     <div class="side-slot side-slot-left" aria-hidden="true"></div>      <!-- SAĞ boş alan (yazı yok) -->     <div class="side-slot side-slot-right" aria-hidden="true"></div>      <div class="shell">       <header>         <div class="logo">HR</div>         <div class="title-wrap">           <div class="title">Haber Robotu</div>           <div class="subtitle">Türkiye ve dünyadan haberler, her saat otomatik güncellenir.</div>           <div class="top-nav">             <a href="about.html">Hakkında</a>             <a href="privacy.html">Gizlilik Politikası</a>             <a href="terms.html">Kullanım Şartları</a>             <a href="contact.html">İletişim</a>           </div>         </div>         <div class="pill">Canlı otomatik haber akışı</div>       </header>        <!-- Kaynak filtreleri -->       <div class="toolbar">         <div class="filters">           <button class="btn-filter btn-filter-source active" data-filter-source="all">Tüm Kaynaklar</button>           <button class="btn-filter btn-filter-source" data-filter-source="tr">Türkiye Kaynaklı</button>           <button class="btn-filter btn-filter-source" data-filter-source="intl">Yabancı Kaynaklı</button>         </div>
-         <div style="display:flex; gap:10px; align-items:center;">
-           <button id="btnRefresh" class="icon-btn" type="button" title="Manuel yenile" aria-label="Manuel yenile">
-             <span class="icon">⟳</span>
-           </button>
-           <div class="status" id="status">Haberler yükleniyor...</div>
-         </div>
-       </div>        <!-- Kategori filtreleri -->       <div class="toolbar" style="margin-top:8px;">         <div class="filters">           <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="teknoloji">Teknoloji</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="saglik">Sağlık</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="ekonomi">Ekonomi</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="magazin">Magazin</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="bilim">Bilim</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="savunma">Savunma / Askeri</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="oyun">Oyun / Dijital</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="otomobil">Otomobil</button>           <button class="btn-filter btn-filter-cat" data-filter-cat="yasam">Yaşam</button>         </div>       </div>        <div class="grid" id="haberler"></div>        <!-- PAYLAŞ BLOĞU -->       <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">         Bu sayfayı paylaş:         <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F"            target="_blank"            style="color:#facc15; margin-left:8px; text-decoration:none;">            WhatsApp         </a>         <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F"            target="_blank"            style="color:#facc15; margin-left:12px; text-decoration:none;">            X (Twitter)         </a>         <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler"            target="_blank"            style="color:#facc15; margin-left:12px; text-decoration:none;">            Telegram         </a>       </div>        <footer>         İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır,         detaylar için her haberdeki “Haberi Oku” butonuna tıklayarak kaynağa gidebilirsiniz.       </footer>     </div>   </div>    <script>     let ALL_ARTICLES = [];     let CURRENT_SOURCE_FILTER = "all";     let CURRENT_CATEGORY_FILTER = "all";      // Saatlik otomatik yenileme (60 dk)     const AUTO_REFRESH_MS = 60 * 60 * 1000;      const CATEGORY_LABELS = {       gundem: "Gündem",       dunya: "Dünya",       spor: "Spor",       teknoloji: "Teknoloji",       saglik: "Sağlık",       ekonomi: "Ekonomi",       magazin: "Magazin",       bilim: "Bilim",       savunma: "Savunma / Askeri",       oyun: "Oyun / Dijital",       otomobil: "Otomobil",       yasam: "Yaşam"     };      const CATEGORY_KEYWORDS = {       spor: [" spor", "maç", "mac ", "lig ", "şampiyona", "gol ", "transfer", "hakem", "derbi", "futbol", "basketbol", "voleybol", "tenis"],       teknoloji: ["teknoloji", "uygulama", "yazılım", "yazilim", "telefon", "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ", "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar", "laptop", "apple", "samsung", "google", "microsoft", "uzay", "roket", "uydu"],       saglik: ["sağlık", "saglik", "hastane", "doktor", "virüs", "virus", "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı", "asi ", "covid", "koronavirüs", "koronavirus", "grip", "diyet", "obezite"],       ekonomi: ["ekonomi", "ekonomik", "dolar", "euro", "altın", "altin", "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat", "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce", "vergi", "asgari ücret", "memur maaşı"],       magazin: ["magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk", "ask ", "görüntülendi", "konser", "klip", "festival"],       bilim: ["bilim", "araştırma", "arastirma", "deney", "bilim insanı", "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya", "biyoloji", "genetik", "astronomi", "nasa", "teleskop"],       savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "saldırı", "saldiri", "nato", "güvenlik güçleri"],       oyun: ["oyun", "video oyunu", "bilgisayar oyunu", "playstation", "ps4", "ps5", "xbox", "nintendo", "switch", "steam", "epic games", "battle.net", "mobil oyun", "battle royale", "e-spor", "espor", "gamer", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "counter strike", "league of legends", "dota", "gta", "fifa", "efootball"],       otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik kazası", "trafik", "sürücü", "surucu", "otoyol", "togg", "araç muayene", "lastik"],       yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "evlilik", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi", "ev hayatı", "gunluk hayat"]     };      function getDomain(url) {       try {         const u = new URL(url);         return u.hostname.replace(/^www\./, "");       } catch {         return "";       }     }      function classifySource(url) {       const d = getDomain(url);       if (!d) return { label: "Bilinmeyen", type: "intl" };       const isTr = d.endsWith(".tr");       return { label: d, type: isTr ? "tr" : "intl" };     }      function classifyCategory(article) {       const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());       const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();       const src = classifySource(article.url);        const mapFromRss = (c) => {         if (c.includes("world") || c.includes("us & canada") || c.includes("us and canada") ||             c.includes("americas") || c.includes("africa") || c.includes("asia") ||             c.includes("europe") || c.includes("middle east") || c.includes("international") ||             c.includes("global") || c.includes("politic")) return "dunya";          if (c.includes("business") || c.includes("economy") || c.includes("market") ||             c.includes("finance") || c.includes("money")) return "ekonomi";          if (c.includes("sport") || c.includes("sports")) return "spor";         if (c.includes("technology") || c.includes("tech")) return "teknoloji";         if (c.includes("science") || c.includes("environment")) return "bilim";         if (c.includes("health") || c.includes("medical") || c.includes("medicine")) return "saglik";          if (c.includes("entertainment") || c.includes("arts") || c.includes("culture") || c.includes("magazin"))           return "magazin";          if (c.includes("turkiye") || c.includes("türkiye") || c.includes("gündem") || c.includes("gundem") || c.includes("yerel"))           return "gundem";          return null;       };        for (const rc of rssCats) {         const mapped = mapFromRss(rc);         if (mapped) return mapped;       }        let bestCat = null;       let bestScore = 0;        for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {         let score = 0;         for (const k of keywords) {           if (text.includes(k)) score++;         }         if (score > bestScore) {           bestScore = score;           bestCat = cat;         }       }        if (!bestCat || bestScore === 0) {         return src.type === "intl" ? "dunya" : "gundem";       }       return bestCat;     }      function renderArticles() {       const container = document.getElementById("haberler");       container.innerHTML = "";        const list = ALL_ARTICLES.filter(a => {         const src = classifySource(a.url);         if (CURRENT_SOURCE_FILTER === "tr" && src.type !== "tr") return false;         if (CURRENT_SOURCE_FILTER === "intl" && src.type !== "intl") return false;          const cat = classifyCategory(a);         if (CURRENT_CATEGORY_FILTER !== "all" && cat !== CURRENT_CATEGORY_FILTER) return false;          return true;       });        list.forEach((a) => {         const src = classifySource(a.url);         const catKey = classifyCategory(a);         const catLabel = CATEGORY_LABELS[catKey] || "Gündem";          const card = document.createElement("article");         card.className = "card";          // GÖRSEL KISMINA DOKUNMADIK         const imgHtml = a.image           ? `<img src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">`           : `<div>Görsel bulunamadı</div>`;          card.innerHTML = `           <div class="thumb-wrap">             ${imgHtml}           </div>           <div class="card-body">             <div class="meta-line">               <span class="badge-source">${src.label}</span>               <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>               <span class="badge-cat">${catLabel}</span>             </div>             <h2 class="headline">${a.title || "Başlık yok"}</h2>             <p class="summary">${a.summary || ""}</p>             <div class="actions">               <a class="btn-read" href="${a.url}" target="_blank" rel="noopener noreferrer">                 Haberi Oku               </a>               <span class="source-url">${a.url}</span>             </div>           </div>         `;         container.appendChild(card);       });        if (list.length === 0) {         container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";       }     }      // --- YENİ: generated_at'i TR saatine çevirip bas ---     function formatTRDate(isoString) {       try {         const d = new Date(isoString);         if (isNaN(d.getTime())) return "";         const dtf = new Intl.DateTimeFormat("tr-TR", {           timeZone: "Europe/Istanbul",           year: "numeric",           month: "2-digit",           day: "2-digit",           hour: "2-digit",           minute: "2-digit"         });         // "24.12.2025 13:05" formatı verir         return dtf.format(d).replace(",", "");       } catch {         return "";       }     }      function setStatus(count, generatedAtIso, fetchedAtIso) {
+<body>
+  <div class="page">
+    <div class="side-slot side-slot-left" aria-hidden="true"></div>
+    <div class="side-slot side-slot-right" aria-hidden="true"></div>
+
+    <div class="shell">
+      <header>
+        <div class="logo">HR</div>
+        <div class="title-wrap">
+          <div class="title">Haber Robotu</div>
+          <div class="subtitle">Türkiye ve dünyadan haberler, her saat otomatik güncellenir.</div>
+          <div class="top-nav">
+            <a href="about.html">Hakkında</a>
+            <a href="privacy.html">Gizlilik Politikası</a>
+            <a href="terms.html">Kullanım Şartları</a>
+            <a href="contact.html">İletişim</a>
+          </div>
+        </div>
+        <div class="pill">Canlı otomatik haber akışı</div>
+      </header>
+
+      <div class="toolbar">
+        <div class="filters">
+          <button class="btn-filter btn-filter-source active" data-filter-source="all">Tüm Kaynaklar</button>
+          <button class="btn-filter btn-filter-source" data-filter-source="tr">Türkiye Kaynaklı</button>
+          <button class="btn-filter btn-filter-source" data-filter-source="intl">Yabancı Kaynaklı</button>
+        </div>
+
+        <div style="display:flex; gap:10px; align-items:center;">
+          <button id="btnRefresh" class="icon-btn" type="button" title="Manuel yenile" aria-label="Manuel yenile">
+            <span class="icon">⟳</span>
+          </button>
+          <div class="status" id="status">Haberler yükleniyor...</div>
+        </div>
+      </div>
+
+      <div class="toolbar" style="margin-top:8px;">
+        <div class="filters">
+          <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="teknoloji">Teknoloji</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="saglik">Sağlık</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="ekonomi">Ekonomi</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="magazin">Magazin</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="bilim">Bilim</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="savunma">Savunma / Askeri</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="oyun">Oyun / Dijital</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="otomobil">Otomobil</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="yasam">Yaşam</button>
+        </div>
+      </div>
+
+      <div class="grid" id="haberler"></div>
+
+      <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">
+        Bu sayfayı paylaş:
+        <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F"
+           target="_blank"
+           style="color:#facc15; margin-left:8px; text-decoration:none;">
+          WhatsApp
+        </a>
+        <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F"
+           target="_blank"
+           style="color:#facc15; margin-left:12px; text-decoration:none;">
+          X (Twitter)
+        </a>
+        <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler"
+           target="_blank"
+           style="color:#facc15; margin-left:12px; text-decoration:none;">
+          Telegram
+        </a>
+      </div>
+
+      <footer>
+        İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır,
+        detaylar için her haberdeki “Haberi Oku” butonuna tıklayarak kaynağa gidebilirsiniz.
+      </footer>
+    </div>
+  </div>
+
+  <script>
+    let ALL_ARTICLES = [];
+    let CURRENT_SOURCE_FILTER = "all";
+    let CURRENT_CATEGORY_FILTER = "all";
+
+    const AUTO_REFRESH_MS = 60 * 60 * 1000;
+
+    // En kritik düzeltme: mutlak yol
+    const LATEST_URL = "/news/latest.json";
+
+    const CATEGORY_LABELS = {
+      gundem: "Gündem",
+      dunya: "Dünya",
+      spor: "Spor",
+      teknoloji: "Teknoloji",
+      saglik: "Sağlık",
+      ekonomi: "Ekonomi",
+      magazin: "Magazin",
+      bilim: "Bilim",
+      savunma: "Savunma / Askeri",
+      oyun: "Oyun / Dijital",
+      otomobil: "Otomobil",
+      yasam: "Yaşam"
+    };
+
+    const CATEGORY_KEYWORDS = {
+      spor: [" spor", "maç", "mac ", "lig ", "şampiyona", "gol ", "transfer", "hakem", "derbi", "futbol", "basketbol", "voleybol", "tenis"],
+      teknoloji: ["teknoloji", "uygulama", "yazılım", "yazilim", "telefon", "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ", "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar", "laptop", "apple", "samsung", "google", "microsoft", "uzay", "roket", "uydu"],
+      saglik: ["sağlık", "saglik", "hastane", "doktor", "virüs", "virus", "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı", "asi ", "covid", "koronavirüs", "koronavirus", "grip", "diyet", "obezite"],
+      ekonomi: ["ekonomi", "ekonomik", "dolar", "euro", "altın", "altin", "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat", "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce", "vergi", "asgari ücret", "memur maaşı"],
+      magazin: ["magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk", "ask ", "görüntülendi", "konser", "klip", "festival"],
+      bilim: ["bilim", "araştırma", "arastirma", "deney", "bilim insanı", "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya", "biyoloji", "genetik", "astronomi", "nasa", "teleskop"],
+      savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "saldırı", "saldiri", "nato", "güvenlik güçleri"],
+      oyun: ["oyun", "video oyunu", "bilgisayar oyunu", "playstation", "ps4", "ps5", "xbox", "nintendo", "switch", "steam", "epic games", "battle.net", "mobil oyun", "battle royale", "e-spor", "espor", "gamer", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "counter strike", "league of legends", "dota", "gta", "fifa", "efootball"],
+      otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik kazası", "trafik", "sürücü", "surucu", "otoyol", "togg", "araç muayene", "lastik"],
+      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "evlilik", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi", "ev hayatı", "gunluk hayat"]
+    };
+
+    function getDomain(url) {
+      try { return new URL(url).hostname.replace(/^www\./, ""); }
+      catch { return ""; }
+    }
+
+    function classifySource(url) {
+      const d = getDomain(url);
+      if (!d) return { label: "Bilinmeyen", type: "intl" };
+      const isTr = d.endsWith(".tr");
+      return { label: d, type: isTr ? "tr" : "intl" };
+    }
+
+    function classifyCategory(article) {
+      const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
+      const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
+      const src = classifySource(article.url);
+
+      const mapFromRss = (c) => {
+        if (c.includes("world") || c.includes("international") || c.includes("global") || c.includes("politic")) return "dunya";
+        if (c.includes("business") || c.includes("economy") || c.includes("market") || c.includes("finance") || c.includes("money")) return "ekonomi";
+        if (c.includes("sport") || c.includes("sports")) return "spor";
+        if (c.includes("technology") || c.includes("tech")) return "teknoloji";
+        if (c.includes("science") || c.includes("environment")) return "bilim";
+        if (c.includes("health") || c.includes("medical") || c.includes("medicine")) return "saglik";
+        if (c.includes("entertainment") || c.includes("arts") || c.includes("culture") || c.includes("magazin")) return "magazin";
+        if (c.includes("turkiye") || c.includes("türkiye") || c.includes("gündem") || c.includes("gundem") || c.includes("yerel")) return "gundem";
+        return null;
+      };
+
+      for (const rc of rssCats) {
+        const mapped = mapFromRss(rc);
+        if (mapped) return mapped;
+      }
+
+      let bestCat = null, bestScore = 0;
+      for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
+        let score = 0;
+        for (const k of keywords) if (text.includes(k)) score++;
+        if (score > bestScore) { bestScore = score; bestCat = cat; }
+      }
+
+      if (!bestCat || bestScore === 0) return src.type === "intl" ? "dunya" : "gundem";
+      return bestCat;
+    }
+
+    function formatTRDate(isoString) {
+      try {
+        const d = new Date(isoString);
+        if (isNaN(d.getTime())) return "";
+        return new Intl.DateTimeFormat("tr-TR", {
+          timeZone: "Europe/Istanbul",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        }).format(d).replace(",", "");
+      } catch { return ""; }
+    }
+
+    function setStatus(count, generatedAtIso, fetchedAtIso) {
       const status = document.getElementById("status");
       const genTR = generatedAtIso ? formatTRDate(generatedAtIso) : "";
       const fetchTR = fetchedAtIso ? formatTRDate(fetchedAtIso) : formatTRDate(new Date().toISOString());
 
-      // "Son kontrol" her manuel/otomatik çekişte değişir; kullanıcı butona basınca görsel olarak güncellendiğini anlar.
-      if (genTR) {
-        status.textContent = `Toplam ${count} haber • JSON üretimi: ${genTR} (TR) • Son kontrol: ${fetchTR} (TR)`;
-      } else {
-        status.textContent = `Toplam ${count} haber • Son kontrol: ${fetchTR} (TR)`;
+      if (genTR) status.textContent = `Toplam ${count} haber • JSON üretimi: ${genTR} (TR) • Son kontrol: ${fetchTR} (TR)`;
+      else status.textContent = `Toplam ${count} haber • Son kontrol: ${fetchTR} (TR)`;
+    }
+
+    function renderArticles() {
+      const container = document.getElementById("haberler");
+      container.innerHTML = "";
+
+      const list = ALL_ARTICLES.filter(a => {
+        const src = classifySource(a.url);
+        if (CURRENT_SOURCE_FILTER === "tr" && src.type !== "tr") return false;
+        if (CURRENT_SOURCE_FILTER === "intl" && src.type !== "intl") return false;
+        const cat = classifyCategory(a);
+        if (CURRENT_CATEGORY_FILTER !== "all" && cat !== CURRENT_CATEGORY_FILTER) return false;
+        return true;
+      });
+
+      list.forEach((a) => {
+        const src = classifySource(a.url);
+        const catKey = classifyCategory(a);
+        const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+
+        const card = document.createElement("article");
+        card.className = "card";
+
+        // GÖRSEL KISMINA DOKUNMADIK
+        const imgHtml = a.image
+          ? `<img src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
+          : `<div>Görsel bulunamadı</div>`;
+
+        card.innerHTML = `
+          <div class="thumb-wrap">
+            ${imgHtml}
+          </div>
+          <div class="card-body">
+            <div class="meta-line">
+              <span class="badge-source">${src.label}</span>
+              <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
+              <span class="badge-cat">${catLabel}</span>
+            </div>
+            <h2 class="headline">${a.title || "Başlık yok"}</h2>
+            <p class="summary">${a.summary || ""}</p>
+            <div class="actions">
+              <a class="btn-read" href="${a.url}" target="_blank" rel="noopener noreferrer">Haberi Oku</a>
+              <span class="source-url">${a.url}</span>
+            </div>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+
+      if (list.length === 0) {
+        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";
       }
     }
 
-    async function loadNews({ force = false, reason = "auto" } = {}) {
+    async function loadNews({ reason = "auto" } = {}) {
       const status = document.getElementById("status");
       const btn = document.getElementById("btnRefresh");
 
@@ -35,42 +512,60 @@
         if (status) status.textContent = "Haberler yükleniyor…";
         if (btn && reason === "manual") btn.classList.add("spin");
 
-        // Manuel yenilemede kullanıcı "anında" güncellendiğini görmeli:
-        //  - cache bust her seferinde
-        const res = await fetch("./news/latest.json?t=" + Date.now(), { cache: "no-store" });
+        const url = `${LATEST_URL}?t=${Date.now()}`;
+        const res = await fetch(url, { cache: "no-store" });
+
         if (!res.ok) {
-          if (status) status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
+          if (status) status.textContent = `latest.json yüklenemedi (HTTP ${res.status}) • URL: ${url}`;
           return;
         }
 
         const data = await res.json();
-        ALL_ARTICLES = data.articles || [];
+        ALL_ARTICLES = Array.isArray(data.articles) ? data.articles : [];
         setStatus(ALL_ARTICLES.length, data.generated_at || "", new Date().toISOString());
         renderArticles();
       } catch (err) {
         console.error(err);
-        if (status) status.textContent = "Haber yüklenirken hata oluştu: " + err;
+        if (status) status.textContent = "Haber yüklenirken hata oluştu: " + (err?.message || err);
       } finally {
-        if (btn && reason === "manual") {
-          // kullanıcı ikonun döndüğünü görsün
-          setTimeout(() => btn.classList.remove("spin"), 250);
-        }
+        if (btn && reason === "manual") setTimeout(() => btn.classList.remove("spin"), 250);
       }
     }
 
-    // Manual refresh icon
-    const btnRefresh = document.getElementById("btnRefresh");
-    if (btnRefresh) {
-      btnRefresh.addEventListener("click", async (e) => {
-        e.preventDefault();
-        btnRefresh.classList.add("spin");
-        try {
-          await loadNews({ force: true, reason: "manual" });
-        } finally {
-          // küçük bir gecikme: kullanıcı ikonun döndüğünü görsün
-          setTimeout(() => btnRefresh.classList.remove("spin"), 250);
-        }
-      });
-    }
+    document.addEventListener("click", function (e) {
+      const srcBtn = e.target.closest(".btn-filter-source");
+      if (srcBtn) {
+        document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
+        srcBtn.classList.add("active");
+        CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";
+        renderArticles();
+        return;
+      }
 
-      document.addEventListener("click", function (e) {       const srcBtn = e.target.closest(".btn-filter-source");       if (srcBtn) {         document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));         srcBtn.classList.add("active");         CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";         renderArticles();         return;       }       const catBtn = e.target.closest(".btn-filter-cat");       if (catBtn) {         document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));         catBtn.classList.add("active");         CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";         renderArticles();       }     });      // İlk yükleme     loadNews({ force: true });      // Saatlik otomatik yenileme (sekme görünürse)     setInterval(() => {       if (document.visibilityState === "visible") {         loadNews({ force: true });       }     }, AUTO_REFRESH_MS);      // Sekmeye geri gelince de yenile     document.addEventListener("visibilitychange", () => {       if (document.visibilityState === "visible") {         loadNews({ force: true });       }     });   </script> </body> </html>
+      const catBtn = e.target.closest(".btn-filter-cat");
+      if (catBtn) {
+        document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
+        catBtn.classList.add("active");
+        CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";
+        renderArticles();
+      }
+    });
+
+    // Buton bağlama + ilk yükleme
+    document.addEventListener("DOMContentLoaded", () => {
+      const btn = document.getElementById("btnRefresh");
+      if (btn) btn.addEventListener("click", (ev) => { ev.preventDefault(); loadNews({ reason: "manual" }); });
+
+      loadNews({ reason: "auto" });
+
+      setInterval(() => {
+        if (document.visibilityState === "visible") loadNews({ reason: "auto" });
+      }, AUTO_REFRESH_MS);
+
+      document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") loadNews({ reason: "auto" });
+      });
+    });
+  </script>
+</body>
+</html>
