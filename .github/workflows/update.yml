@@ -2,7 +2,8 @@ name: Update news
 
 on:
   schedule:
-    - cron: "0 * * * *" # Her saat başı (UTC)
+    # Her saat başı (UTC). TR saati için UI'da generated_at zaten TR formatlanıyor.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,9 +27,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install requests feedparser beautifulsoup4
 
       - name: Run generator
+        env:
+          TZ: Europe/Istanbul
         run: |
           python scripts/build_latest.py
 
