@@ -22,16 +22,12 @@
     :root {
       --bg: #0f172a;
       --bg-card: #020617;
+      --bg-alt: #020617;
       --text: #e5e7eb;
       --muted: #9ca3af;
       --accent: #facc15;
       --accent-soft: rgba(250, 204, 21, 0.12);
       --border: #1f2937;
-
-      --modal-bg: rgba(2,6,23,.72);
-      --panel: rgba(15,23,42,0.96);
-      --panel-2: rgba(15,23,42,0.90);
-      --shadow: 0 24px 90px rgba(0,0,0,.62);
     }
     * { box-sizing: border-box; }
     body {
@@ -40,7 +36,6 @@
       background: radial-gradient(circle at top, #1f2937 0, #020617 55%);
       color: var(--text);
     }
-    a { color: inherit; text-decoration: none; }
 
     /* Sayfa düzeni: orta içerik + sağ/sol boşluklar (Auto Ads için) */
     .page { position: relative; min-height: 100vh; }
@@ -65,6 +60,7 @@
       backdrop-filter: blur(16px);
       flex-wrap: wrap;
     }
+
     .logo {
       width: 38px;
       height: 38px;
@@ -77,17 +73,11 @@
       font-weight: 900;
       font-size: 18px;
       box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);
-      flex: 0 0 auto;
     }
-    .title-wrap { flex: 1 1 200px; min-width: 220px; }
+    .title-wrap { flex: 1 1 200px; }
     .title { font-size: 20px; font-weight: 700; letter-spacing: .02em; }
-    .subtitle { font-size: 13px; color: var(--muted); margin-top: 2px; }
-    .top-nav {
-      display: flex; flex-wrap: wrap; gap: 12px;
-      font-size: 13px;
-      margin-top: 8px;
-    }
-    .top-nav a { color: #facc15; }
+    .subtitle { font-size: 13px; color: var(--muted); }
+
     .pill {
       font-size: 11px;
       padding: 4px 9px;
@@ -96,10 +86,17 @@
       color: var(--muted);
       background: rgba(15,23,42,0.9);
       white-space: nowrap;
-      flex: 0 0 auto;
     }
 
-    /* Toolbar */
+    .top-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 13px;
+      margin-top: 6px;
+    }
+    .top-nav a { color: #facc15; text-decoration: none; }
+
     .toolbar {
       margin-top: 18px;
       display: flex;
@@ -109,6 +106,7 @@
       justify-content: space-between;
     }
     .filters { display: flex; flex-wrap: wrap; gap: 8px; }
+
     .btn-filter {
       border-radius: 999px;
       font-size: 13px;
@@ -118,43 +116,42 @@
       color: var(--muted);
       cursor: pointer;
       transition: all .15s ease;
-      user-select: none;
     }
     .btn-filter.active {
       background: var(--accent-soft);
       border-color: var(--accent);
       color: #fefce8;
     }
+
     .status {
       font-size: 12px;
       color: var(--muted);
-      display: flex;
+      display: inline-flex;
       align-items: center;
       gap: 10px;
       flex-wrap: wrap;
-      justify-content: flex-end;
     }
 
-    /* Manuel yenileme ikon butonu */
-    .icon-btn {
-      width: 36px; height: 36px;
+    /* Manuel yenile butonu (ikon) */
+    .btn-refresh {
+      width: 36px;
+      height: 36px;
       border-radius: 999px;
-      border: 1px solid rgba(148,163,184,0.30);
+      border: 1px solid var(--border);
       background: rgba(15,23,42,0.9);
+      color: var(--accent);
       cursor: pointer;
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      transition: transform .12s ease, border-color .12s ease, background .12s ease;
-      user-select: none;
+      font-size: 16px;
+      line-height: 1;
+      transition: transform .12s ease, filter .12s ease, border-color .12s ease;
     }
-    .icon-btn:hover { transform: translateY(-1px); border-color: rgba(250,204,21,.55); }
-    .icon-btn:active { transform: translateY(0px) scale(.98); }
-    .icon-btn svg { width: 18px; height: 18px; fill: none; stroke: #facc15; stroke-width: 2; }
-    .icon-btn.spin svg { animation: spin .9s linear infinite; }
-    @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+    .btn-refresh:hover { filter: brightness(1.08); border-color: rgba(250,204,21,0.55); }
+    .btn-refresh:active { transform: scale(0.96); }
+    .btn-refresh[disabled] { opacity: .55; cursor: not-allowed; }
 
-    /* Liste */
     .grid {
       margin-top: 12px;
       display: flex;
@@ -191,12 +188,8 @@
       object-fit: cover;
       display: block;
     }
-    .card-body {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-      min-width: 0;
-    }
+
+    .card-body { display: flex; flex-direction: column; gap: 6px; }
     .meta-line {
       display: flex;
       flex-wrap: wrap;
@@ -225,20 +218,9 @@
       border: 1px solid rgba(59,130,246,0.35);
       color: #bfdbfe;
     }
-    .headline {
-      font-size: 16px;
-      font-weight: 700;
-      color: #f9fafb;
-      margin: 2px 0;
-      line-height: 1.25;
-      word-break: break-word;
-    }
-    .summary {
-      font-size: 13px;
-      color: #d1d5db;
-      line-height: 1.45;
-      word-break: break-word;
-    }
+    .headline { font-size: 16px; font-weight: 600; color: #f9fafb; margin: 2px 0; }
+    .summary { font-size: 13px; color: #d1d5db; }
+
     .actions {
       margin-top: 6px;
       display: flex;
@@ -248,41 +230,37 @@
     }
     .btn-read {
       font-size: 12px;
-      padding: 6px 12px;
+      padding: 5px 11px;
       border-radius: 999px;
       border: none;
       cursor: pointer;
       background: var(--accent);
       color: #1f2937;
-      font-weight: 700;
+      font-weight: 600;
       text-decoration: none;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
-      user-select: none;
+      gap: 4px;
     }
     .btn-read:hover { filter: brightness(1.08); }
-    .btn-ghost {
-      font-size: 12px;
-      padding: 6px 12px;
-      border-radius: 999px;
-      border: 1px solid rgba(148,163,184,0.28);
-      background: rgba(15,23,42,0.88);
-      color: #e5e7eb;
-      cursor: pointer;
-      user-select: none;
-    }
-    .btn-ghost:hover { border-color: rgba(250,204,21,.45); }
+
     .source-url {
       font-size: 11px;
       color: var(--muted);
-      max-width: 320px;
+      max-width: 220px;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
 
-    /* Sağ/sol boşluklar: yazı yok */
+    footer {
+      margin-top: 26px;
+      font-size: 11px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    /* Sağ/sol boşluklar: yazı yok, sadece Auto Ads için ayrılmış alan */
     .side-slot {
       position: fixed;
       top: 70px;
@@ -299,123 +277,124 @@
     .side-slot-left { left: 12px; }
     .side-slot-right { right: 12px; }
 
-    /* Modal */
-    .modal-backdrop {
-      position: fixed;
-      inset: 0;
-      background: var(--modal-bg);
-      display: none;
-      align-items: center;
-      justify-content: center;
-      padding: 18px 12px;
-      z-index: 999;
-    }
-    .modal-backdrop.open { display: flex; }
-    .modal {
-      width: min(980px, 100%);
-      max-height: min(86vh, 860px);
-      overflow: auto;
-      border-radius: 16px;
-      background: linear-gradient(180deg, rgba(15,23,42,.98), rgba(2,6,23,.98));
-      border: 1px solid rgba(148,163,184,0.18);
-      box-shadow: var(--shadow);
-      padding: 14px;
-    }
-    .modal-top {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      gap: 12px;
-      padding: 6px 6px 10px;
-    }
-    .modal-title {
-      font-size: 18px;
-      font-weight: 800;
-      line-height: 1.25;
-      margin: 0;
-      word-break: break-word;
-    }
-    .modal-meta {
-      margin-top: 6px;
-      font-size: 12px;
-      color: var(--muted);
-      word-break: break-word;
-    }
-    .modal-close {
-      width: 36px; height: 36px;
-      border-radius: 999px;
-      border: 1px solid rgba(148,163,184,0.28);
-      background: rgba(15,23,42,0.88);
-      color: #e5e7eb;
-      cursor: pointer;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      user-select: none;
-      flex: 0 0 auto;
-    }
-    .modal-close:hover { border-color: rgba(250,204,21,.45); }
-
-    .modal-sections {
-      display: grid;
-      gap: 10px;
-      padding: 0 6px 6px;
-    }
-    .section {
-      border-radius: 14px;
-      background: rgba(15,23,42,0.78);
-      border: 1px solid rgba(148,163,184,0.14);
-      padding: 12px;
-    }
-    .section h3 {
-      margin: 0 0 8px;
-      font-size: 13px;
-      letter-spacing: .02em;
-      color: #f9fafb;
-    }
-    .section p {
-      margin: 0;
-      color: #d1d5db;
-      font-size: 14px;
-      line-height: 1.6;
-      white-space: pre-wrap;
-      word-break: break-word;
-    }
-    .bullets {
-      margin: 0;
-      padding-left: 18px;
-      color: #d1d5db;
-      font-size: 14px;
-      line-height: 1.6;
-    }
-    .modal-actions {
-      display: flex;
-      gap: 8px;
-      flex-wrap: wrap;
-      align-items: center;
-      padding: 8px 6px 0;
-    }
-
-    footer {
-      margin-top: 26px;
-      font-size: 11px;
-      color: var(--muted);
-      text-align: center;
-      line-height: 1.5;
-    }
-
     @media (max-width: 768px) {
       header { flex-direction: column; align-items: flex-start; }
       .title { font-size: 18px; }
       .subtitle { font-size: 12px; }
       .card { grid-template-columns: 1fr; }
       .thumb-wrap { height: 190px; }
-      .source-url { max-width: 100%; }
     }
+
     @media (min-width: 1400px) {
       .shell { max-width: 900px; }
       .side-slot { display: block; }
     }
+
+    /* Modal */
+    .modal-backdrop{
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.65);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      z-index: 999;
+    }
+    .modal-backdrop.open{ display: flex; }
+    .modal{
+      width: min(980px, 100%);
+      max-height: min(86vh, 780px);
+      overflow: auto;
+      border-radius: 16px;
+      background: rgba(15,23,42,0.98);
+      border: 1px solid rgba(148,163,184,0.18);
+      box-shadow: 0 30px 100px rgba(0,0,0,0.7);
+      padding: 14px;
+    }
+    .modal-top{
+      display:flex;
+      align-items:flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(148,163,184,0.12);
+      margin-bottom: 10px;
+    }
+    .modal-title{
+      font-size: 18px;
+      font-weight: 700;
+      margin: 0;
+      color: #f9fafb;
+    }
+    .modal-meta{
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 4px;
+      word-break: break-word;
+    }
+    .modal-close{
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: #f9fafb;
+      border-radius: 10px;
+      cursor: pointer;
+      padding: 8px 10px;
+      line-height: 1;
+    }
+    .modal-section{
+      margin-top: 10px;
+      padding: 12px;
+      border-radius: 12px;
+      border: 1px solid rgba(148,163,184,0.12);
+      background: rgba(2,6,23,0.55);
+    }
+    .modal-section h3{
+      margin: 0 0 8px 0;
+      font-size: 13px;
+      letter-spacing: .02em;
+      color: #e5e7eb;
+    }
+    .modal-section p{
+      margin: 0;
+      color: #d1d5db;
+      font-size: 13px;
+      line-height: 1.55;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .modal-section ul{
+      margin: 0;
+      padding-left: 18px;
+      color: #d1d5db;
+      font-size: 13px;
+      line-height: 1.55;
+    }
+    .modal-actions{
+      display:flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+    .modal-actions .btn-read{
+      border: 1px solid rgba(250,204,21,0.55);
+      background: rgba(250,204,21,0.14);
+      color: #fefce8;
+    }
+    .btn-mini{
+      font-size: 12px;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--muted);
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-mini:hover{ filter: brightness(1.08); }
   </style>
 </head>
 
@@ -423,6 +402,7 @@
   <div class="page">
     <!-- SOL boş alan (yazı yok) -->
     <div class="side-slot side-slot-left" aria-hidden="true"></div>
+
     <!-- SAĞ boş alan (yazı yok) -->
     <div class="side-slot side-slot-right" aria-hidden="true"></div>
 
@@ -450,15 +430,10 @@
           <button class="btn-filter btn-filter-source" data-filter-source="intl">Yabancı Kaynaklı</button>
         </div>
 
+        <!-- SAĞ: durum + manuel yenile -->
         <div class="status">
-          <button class="icon-btn" id="btnRefresh" type="button" title="Yenile">
-            <!-- Refresh icon -->
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M20 12a8 8 0 1 1-2.34-5.66" />
-              <path d="M20 4v6h-6" />
-            </svg>
-          </button>
           <span id="status">Haberler yükleniyor...</span>
+          <button id="btnManualRefresh" class="btn-refresh" type="button" title="Manuel yenile" aria-label="Manuel yenile">⟳</button>
         </div>
       </div>
 
@@ -484,18 +459,24 @@
 
       <div class="grid" id="haberler"></div>
 
-      <!-- Paylaş bloğu -->
+      <!-- PAYLAŞ BLOĞU -->
       <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">
         Bu sayfayı paylaş:
         <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F"
-           target="_blank" rel="noopener noreferrer"
-           style="color:#facc15; margin-left:8px; text-decoration:none;">WhatsApp</a>
+           target="_blank"
+           style="color:#facc15; margin-left:8px; text-decoration:none;">
+           WhatsApp
+        </a>
         <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F"
-           target="_blank" rel="noopener noreferrer"
-           style="color:#facc15; margin-left:12px; text-decoration:none;">X (Twitter)</a>
+           target="_blank"
+           style="color:#facc15; margin-left:12px; text-decoration:none;">
+           X (Twitter)
+        </a>
         <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler"
-           target="_blank" rel="noopener noreferrer"
-           style="color:#facc15; margin-left:12px; text-decoration:none;">Telegram</a>
+           target="_blank"
+           style="color:#facc15; margin-left:12px; text-decoration:none;">
+           Telegram
+        </a>
       </div>
 
       <footer>
@@ -509,41 +490,39 @@
   <div class="modal-backdrop" id="modalBackdrop" aria-hidden="true">
     <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
       <div class="modal-top">
-        <div>
+        <div style="min-width:0;">
           <h2 class="modal-title" id="modalTitle">Haber</h2>
           <div class="modal-meta" id="modalMeta"></div>
         </div>
-        <button class="modal-close" id="modalClose" type="button" title="Kapat">✕</button>
+        <button class="modal-close" id="modalClose" type="button" aria-label="Kapat">✕</button>
       </div>
 
-      <div class="modal-sections">
-        <div class="section">
-          <h3>Uzun Özet</h3>
-          <p id="modalLong">—</p>
-        </div>
+      <div class="modal-section">
+        <h3>Uzun Özet</h3>
+        <p id="modalLong">—</p>
+      </div>
 
-        <div class="section">
-          <h3>Neden Önemli?</h3>
-          <ul class="bullets" id="modalWhy"></ul>
-        </div>
+      <div class="modal-section">
+        <h3>Neden Önemli?</h3>
+        <ul id="modalWhy"></ul>
+      </div>
 
-        <div class="section">
-          <h3>Arka Plan</h3>
-          <ul class="bullets" id="modalBg"></ul>
-        </div>
+      <div class="modal-section">
+        <h3>Arka Plan</h3>
+        <ul id="modalBg"></ul>
+      </div>
 
-        <div class="section">
-          <h3>Olası Etkiler</h3>
-          <ul class="bullets" id="modalImp"></ul>
-        </div>
+      <div class="modal-section">
+        <h3>Olası Etkiler</h3>
+        <ul id="modalImp"></ul>
+      </div>
 
-        <div class="modal-actions">
-          <a class="btn-read" id="modalSource" href="#" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
-          <button class="btn-ghost" id="modalCopy" type="button">Linki Kopyala</button>
-          <a class="btn-ghost" id="modalShareX" href="#" target="_blank" rel="noopener noreferrer">X’te Paylaş</a>
-          <a class="btn-ghost" id="modalShareWa" href="#" target="_blank" rel="noopener noreferrer">WhatsApp</a>
-          <a class="btn-ghost" id="modalShareTg" href="#" target="_blank" rel="noopener noreferrer">Telegram</a>
-        </div>
+      <div class="modal-actions">
+        <a class="btn-read" id="modalSource" href="#" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
+        <button class="btn-mini" id="modalCopy" type="button">Linki Kopyala</button>
+        <a class="btn-mini" id="shareX" target="_blank" rel="noopener noreferrer">X’te Paylaş</a>
+        <a class="btn-mini" id="shareWA" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+        <a class="btn-mini" id="shareTG" target="_blank" rel="noopener noreferrer">Telegram</a>
       </div>
     </div>
   </div>
@@ -553,7 +532,8 @@
     let CURRENT_SOURCE_FILTER = "all";
     let CURRENT_CATEGORY_FILTER = "all";
 
-    const AUTO_REFRESH_MS = 60 * 60 * 1000; // 60 dk
+    // Saatlik otomatik yenileme (60 dk)
+    const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
     const CATEGORY_LABELS = {
       gundem: "Gündem",
@@ -575,19 +555,17 @@
       spor: [" spor", "maç", "mac ", "lig ", "şampiyona", "gol ", "transfer", "hakem", "derbi", "futbol", "basketbol", "voleybol", "tenis"],
       teknoloji: ["teknoloji", "uygulama", "yazılım", "yazilim", "telefon", "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ", "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar", "laptop", "apple", "samsung", "google", "microsoft", "uzay", "roket", "uydu"],
       saglik: ["sağlık", "saglik", "hastane", "doktor", "virüs", "virus", "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı", "asi ", "covid", "koronavirüs", "koronavirus", "grip", "diyet", "obezite"],
-      ekonomi: ["ekonomi", "ekonomik", "büyüme", "buyume", "faiz", "enflasyon", "piyasa", "kriz", "ihracat", "ithalat", "bütçe", "butce", "vergi", "asgari ücret", "memur maaşı"],
-      finans: ["finans", "finance", "borsa", "hisse", "endeks", "bist", "nasdaq", "dow", "sp500", "s&p", "bitcoin", "btc", "ethereum", "eth", "kripto", "altın", "altin", "dolar", "euro", "swap", "tahvil", "bond", "bankac", "kredi", "mevduat", "fon", "etf"],
-      magazin: ["magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk", "ask ", "konser", "festival"],
+      ekonomi: ["ekonomi", "ekonomik", "dolar", "euro", "altın", "altin", "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat", "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce", "vergi", "asgari ücret", "memur maaşı"],
+      finans: ["finans", "banka", "bankacılık", "kredi", "tahvil", "bono", "portföy", "portfoy", "hisse", "hisseler", "endeks", "bist", "nasdaq", "s&p", "sp500", "bitcoin", "btc", "ethereum", "kripto", "fon", "tefas", "temettü", "temettu"],
+      magazin: ["magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk", "ask ", "görüntülendi", "konser", "klip", "festival"],
       bilim: ["bilim", "araştırma", "arastirma", "deney", "bilim insanı", "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya", "biyoloji", "genetik", "astronomi", "nasa", "teleskop"],
-      savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "nato", "güvenlik güçleri"],
-      oyun: ["oyun", "video oyunu", "playstation", "ps5", "xbox", "nintendo", "steam", "epic games", "mobil oyun", "e-spor", "espor", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "league of legends", "gta", "fifa"],
-      otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik", "sürücü", "surucu", "otoyol", "togg", "muayene", "lastik"],
-      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi"]
+      savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "saldırı", "saldiri", "nato", "güvenlik güçleri"],
+      oyun: ["oyun", "video oyunu", "bilgisayar oyunu", "playstation", "ps4", "ps5", "xbox", "nintendo", "switch", "steam", "epic games", "battle.net", "mobil oyun", "battle royale", "e-spor", "espor", "gamer", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "counter strike", "league of legends", "dota", "gta", "fifa", "efootball"],
+      otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik kazası", "trafik", "sürücü", "surucu", "otoyol", "togg", "araç muayene", "lastik"],
+      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "evlilik", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi", "ev hayatı", "gunluk hayat"]
     };
 
-    function safeText(v) {
-      return (v ?? "").toString().trim();
-    }
+    function safeText(v){ return (v ?? "").toString().trim(); }
 
     function getDomain(url) {
       try {
@@ -605,31 +583,29 @@
       return { label: d, type: isTr ? "tr" : "intl" };
     }
 
-    // Öncelik: JSON içindeki rss_categories -> keyword skoru
     function classifyCategory(article) {
       const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
-      const text = (
-        (safeText(article.title_tr) || safeText(article.title)) + " " +
-        (safeText(article.summary_tr) || safeText(article.summary))
-      ).toLowerCase();
-
+      const text = ((article.title_tr || article.title || "") + " " + (article.summary_tr || article.summary || "")).toLowerCase();
       const src = classifySource(article.url);
 
       const mapFromRss = (c) => {
-        if (c.includes("world") || c.includes("international") || c.includes("global") || c.includes("politic") ||
-            c.includes("us ") || c.includes("america") || c.includes("asia") || c.includes("europe") || c.includes("middle east") || c.includes("africa")) return "dunya";
+        if (c.includes("world") || c.includes("us & canada") || c.includes("us and canada") ||
+            c.includes("americas") || c.includes("africa") || c.includes("asia") ||
+            c.includes("europe") || c.includes("middle east") || c.includes("international") ||
+            c.includes("global") || c.includes("politic")) return "dunya";
 
-        // Finans/Ekonomi ayırımı
-        if (c.includes("finance") || c.includes("markets") || c.includes("market") || c.includes("money") || c.includes("invest")) return "finans";
-        if (c.includes("business") || c.includes("economy") || c.includes("economic")) return "ekonomi";
+        if (c.includes("business") || c.includes("economy") || c.includes("market") ||
+            c.includes("finance") || c.includes("money")) return "ekonomi";
 
         if (c.includes("sport") || c.includes("sports")) return "spor";
         if (c.includes("technology") || c.includes("tech")) return "teknoloji";
         if (c.includes("science") || c.includes("environment")) return "bilim";
         if (c.includes("health") || c.includes("medical") || c.includes("medicine")) return "saglik";
+
         if (c.includes("entertainment") || c.includes("arts") || c.includes("culture") || c.includes("magazin")) return "magazin";
 
         if (c.includes("turkiye") || c.includes("türkiye") || c.includes("gündem") || c.includes("gundem") || c.includes("yerel")) return "gundem";
+
         return null;
       };
 
@@ -640,6 +616,7 @@
 
       let bestCat = null;
       let bestScore = 0;
+
       for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
         let score = 0;
         for (const k of keywords) {
@@ -654,9 +631,11 @@
       if (!bestCat || bestScore === 0) {
         return src.type === "intl" ? "dunya" : "gundem";
       }
+
       return bestCat;
     }
 
+    // --- generated_at'i TR saatine çevirip bas ---
     function formatTRDate(isoString) {
       try {
         const d = new Date(isoString);
@@ -678,19 +657,96 @@
     function setStatus(count, generatedAtIso) {
       const status = document.getElementById("status");
       const formatted = generatedAtIso ? formatTRDate(generatedAtIso) : "";
-      const when = formatted || formatTRDate(new Date().toISOString());
-      status.textContent = `Toplam ${count} haber • Son güncelleme: ${when} (TR)`;
+      if (formatted) {
+        status.textContent = `Toplam ${count} haber • Son güncelleme: ${formatted} (TR)`;
+      } else {
+        const nowFormatted = formatTRDate(new Date().toISOString());
+        status.textContent = `Toplam ${count} haber • Son güncelleme: ${nowFormatted} (TR)`;
+      }
     }
 
-    function getTitleTR(a) {
-      return safeText(a.title_tr) || safeText(a.title) || "Başlık yok";
+    // Modal helpers
+    const modalBackdrop = document.getElementById("modalBackdrop");
+    const modalClose = document.getElementById("modalClose");
+    const modalTitle = document.getElementById("modalTitle");
+    const modalMeta = document.getElementById("modalMeta");
+    const modalLong = document.getElementById("modalLong");
+    const modalWhy = document.getElementById("modalWhy");
+    const modalBg = document.getElementById("modalBg");
+    const modalImp = document.getElementById("modalImp");
+    const modalSource = document.getElementById("modalSource");
+    const modalCopy = document.getElementById("modalCopy");
+    const shareX = document.getElementById("shareX");
+    const shareWA = document.getElementById("shareWA");
+    const shareTG = document.getElementById("shareTG");
+
+    function setBullets(ul, arr){
+      ul.innerHTML = "";
+      const items = Array.isArray(arr) ? arr : [];
+      if (!items.length){
+        const li = document.createElement("li");
+        li.textContent = "—";
+        ul.appendChild(li);
+        return;
+      }
+      for (const t of items){
+        const li = document.createElement("li");
+        li.textContent = safeText(t) || "—";
+        ul.appendChild(li);
+      }
     }
-    function getSummaryTR(a) {
-      return safeText(a.summary_tr) || safeText(a.summary) || "";
+
+    function openModal(article){
+      const title = safeText(article.title_tr) || safeText(article.title) || "Haber";
+      const summaryLong = safeText(article.summary_tr_long) || safeText(article.summary_tr) || safeText(article.summary) || "—";
+
+      const src = classifySource(article.url || "");
+      const catKey = classifyCategory(article);
+      const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+
+      modalTitle.textContent = title;
+      modalMeta.textContent = `${src.label} • ${catLabel}`;
+      modalLong.textContent = summaryLong;
+
+      setBullets(modalWhy, article.why_important);
+      setBullets(modalBg, article.background);
+      setBullets(modalImp, article.possible_impacts);
+
+      const url = article.url || "#";
+      modalSource.href = url;
+
+      const shareText = encodeURIComponent(`Haber Robotu: ${title}`);
+      const shareUrl = encodeURIComponent(url);
+
+      shareX.href = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`;
+      shareWA.href = `https://wa.me/?text=${shareText}%20${shareUrl}`;
+      shareTG.href = `https://t.me/share/url?url=${shareUrl}&text=${shareText}`;
+
+      modalCopy.onclick = async () => {
+        try{
+          await navigator.clipboard.writeText(url);
+          modalCopy.textContent = "Kopyalandı";
+          setTimeout(() => modalCopy.textContent = "Linki Kopyala", 1200);
+        }catch{
+          modalCopy.textContent = "Kopyalanamadı";
+          setTimeout(() => modalCopy.textContent = "Linki Kopyala", 1200);
+        }
+      };
+
+      modalBackdrop.classList.add("open");
+      modalBackdrop.setAttribute("aria-hidden","false");
+      document.body.style.overflow = "hidden";
     }
-    function getLongTR(a) {
-      return safeText(a.summary_tr_long) || safeText(a.summary_tr) || safeText(a.summary) || "—";
+
+    function closeModal(){
+      modalBackdrop.classList.remove("open");
+      modalBackdrop.setAttribute("aria-hidden","true");
+      document.body.style.overflow = "";
     }
+
+    modalClose.addEventListener("click", closeModal);
+    modalBackdrop.addEventListener("click", (e) => { if (e.target === modalBackdrop) closeModal(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 
     function renderArticles() {
       const container = document.getElementById("haberler");
@@ -712,15 +768,15 @@
         const catKey = classifyCategory(a);
         const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
 
-        const title = getTitleTR(a);
-        const summary = getSummaryTR(a);
+        const title = safeText(a.title_tr) || safeText(a.title) || "Başlık yok";
+        const summary = safeText(a.summary_tr) || safeText(a.summary) || "";
 
         const card = document.createElement("article");
         card.className = "card";
 
-        // GÖRSEL KISMINA TEMEL YAPI OLARAK DOKUNMADIK; sadece referrerPolicy eklendi (engel olmasın diye)
+        // GÖRSEL KISMINA DOKUNMADIK
         const imgHtml = a.image
-          ? `<img src="${a.image}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`
+          ? `<img src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
           : `<div>Görsel bulunamadı</div>`;
 
         card.innerHTML = `
@@ -729,25 +785,22 @@
           </div>
           <div class="card-body">
             <div class="meta-line">
-              <span class="badge-source">${src.label || (a.source || "Kaynak")}</span>
+              <span class="badge-source">${src.label}</span>
               <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
               <span class="badge-cat">${catLabel}</span>
             </div>
-            <h2 class="headline">${escapeHtml(title)}</h2>
-            <p class="summary">${escapeHtml(summary)}</p>
+            <h2 class="headline">${title}</h2>
+            <p class="summary">${summary}</p>
             <div class="actions">
-              <button class="btn-read" type="button" data-open="1">Haberi Oku (Özet)</button>
-              <a class="btn-ghost" href="${escapeAttr(a.url)}" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
-              <span class="source-url">${escapeHtml(a.url || "")}</span>
+              <button class="btn-read" type="button" data-open-modal="1">Haberi Oku</button>
+              <span class="source-url">${a.url || ""}</span>
             </div>
           </div>
         `;
 
-        // Kartın içinde modal açma
-        card.querySelector('[data-open="1"]').addEventListener("click", () => openModal(a));
-
-        // İstersen kartın gövdesine tıkla -> modal
-        card.querySelector(".card-body").addEventListener("dblclick", () => openModal(a));
+        // Modal açma
+        const btn = card.querySelector('[data-open-modal="1"]');
+        btn.addEventListener("click", () => openModal(a));
 
         container.appendChild(card);
       });
@@ -757,118 +810,53 @@
       }
     }
 
-    // Modal logic
-    const backdrop = document.getElementById("modalBackdrop");
-    const modalClose = document.getElementById("modalClose");
+    // JSON fetch (iki olası yol + cache bust)
+    async function fetchLatestJson() {
+      const ts = Date.now();
+      const candidates = [
+        `./news/latest.json?t=${ts}`,
+        `/news/latest.json?t=${ts}`
+      ];
 
-    function setBullets(elId, arr) {
-      const ul = document.getElementById(elId);
-      ul.innerHTML = "";
-
-      const list = Array.isArray(arr) ? arr : [];
-      if (!list.length) {
-        const li = document.createElement("li");
-        li.textContent = "—";
-        ul.appendChild(li);
-        return;
-      }
-      list.forEach(t => {
-        const li = document.createElement("li");
-        li.textContent = safeText(t) || "—";
-        ul.appendChild(li);
-      });
-    }
-
-    function openModal(a) {
-      const title = getTitleTR(a);
-      const longText = getLongTR(a);
-
-      const src = classifySource(a.url);
-      const catKey = classifyCategory(a);
-      const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
-      const meta = `${safeText(a.source) || src.label || "Kaynak"} • ${catLabel} • ${getDomain(a.url || "")}`;
-
-      document.getElementById("modalTitle").textContent = title;
-      document.getElementById("modalMeta").textContent = meta;
-      document.getElementById("modalLong").textContent = longText;
-
-      setBullets("modalWhy", a.why_important);
-      setBullets("modalBg", a.background);
-      setBullets("modalImp", a.possible_impacts);
-
-      const url = safeText(a.url);
-      const modalSource = document.getElementById("modalSource");
-      modalSource.href = url || "#";
-
-      // Share links
-      const shareText = encodeURIComponent(title + " – Haber Robotu");
-      const shareUrl = encodeURIComponent(url || "https://newest-resu.github.io/");
-      document.getElementById("modalShareX").href = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`;
-      document.getElementById("modalShareWa").href = `https://wa.me/?text=${shareText}%20${shareUrl}`;
-      document.getElementById("modalShareTg").href = `https://t.me/share/url?url=${shareUrl}&text=${shareText}`;
-
-      const copyBtn = document.getElementById("modalCopy");
-      copyBtn.textContent = "Linki Kopyala";
-      copyBtn.onclick = async () => {
+      let lastErr = null;
+      for (const url of candidates) {
         try {
-          await navigator.clipboard.writeText(url || "");
-          copyBtn.textContent = "Kopyalandı";
-          setTimeout(() => copyBtn.textContent = "Linki Kopyala", 1200);
-        } catch {
-          copyBtn.textContent = "Kopyalanamadı";
-          setTimeout(() => copyBtn.textContent = "Linki Kopyala", 1200);
+          const res = await fetch(url, { cache: "no-store" });
+          if (!res.ok) throw new Error(`HTTP ${res.status} (${url})`);
+          return await res.json();
+        } catch (e) {
+          lastErr = e;
         }
-      };
-
-      backdrop.classList.add("open");
-      backdrop.setAttribute("aria-hidden", "false");
-      document.body.style.overflow = "hidden";
+      }
+      throw lastErr || new Error("latest.json alınamadı");
     }
 
-    function closeModal() {
-      backdrop.classList.remove("open");
-      backdrop.setAttribute("aria-hidden", "true");
-      document.body.style.overflow = "";
-    }
-
-    modalClose.addEventListener("click", closeModal);
-    backdrop.addEventListener("click", (e) => { if (e.target === backdrop) closeModal(); });
-    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
-
-    // --- Manuel yenileme + otomatik yenileme ---
-    async function loadNews({ force = false } = {}) {
-      const btn = document.getElementById("btnRefresh");
+    async function loadNews({ manual = false } = {}) {
       const status = document.getElementById("status");
+      const btn = document.getElementById("btnManualRefresh");
 
       try {
-        btn.classList.add("spin");
+        if (manual) {
+          btn.disabled = true;
+        }
         status.textContent = "Haberler yükleniyor...";
 
-        const url = "./news/latest.json" + (force ? ("?t=" + Date.now()) : "");
-        const res = await fetch(url, { cache: "no-store" });
-        if (!res.ok) {
-          status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
-          return;
-        }
+        const data = await fetchLatestJson();
+        ALL_ARTICLES = data.articles || [];
 
-        const data = await res.json();
-        ALL_ARTICLES = Array.isArray(data.articles) ? data.articles : [];
         setStatus(ALL_ARTICLES.length, data.generated_at || "");
         renderArticles();
       } catch (err) {
         console.error(err);
         status.textContent = "Haber yüklenirken hata oluştu: " + (err?.message || err);
       } finally {
-        btn.classList.remove("spin");
+        if (manual) {
+          btn.disabled = false;
+        }
       }
     }
 
-    // Manual refresh icon
-    document.getElementById("btnRefresh").addEventListener("click", () => {
-      loadNews({ force: true });
-    });
-
-    // Filter click handling
+    // Filtre clickleri
     document.addEventListener("click", function (e) {
       const srcBtn = e.target.closest(".btn-filter-source");
       if (srcBtn) {
@@ -888,31 +876,26 @@
       }
     });
 
-    // XSS safe helpers
-    function escapeHtml(s) {
-      const str = (s ?? "").toString();
-      return str
-        .replace(/&/g, "&amp;")
-        .replace(/</g, "&lt;")
-        .replace(/>/g, "&gt;")
-        .replace(/"/g, "&quot;")
-        .replace(/'/g, "&#039;");
-    }
-    function escapeAttr(s) {
-      return escapeHtml(s).replace(/"/g, "&quot;");
-    }
+    // Manuel yenile butonu
+    document.getElementById("btnManualRefresh").addEventListener("click", () => {
+      loadNews({ manual: true });
+    });
 
-    // İlk yükleme (force: true cache kır)
-    loadNews({ force: true });
+    // İlk yükleme
+    loadNews();
 
     // Saatlik otomatik yenileme (sekme görünürse)
     setInterval(() => {
-      if (document.visibilityState === "visible") loadNews({ force: true });
+      if (document.visibilityState === "visible") {
+        loadNews();
+      }
     }, AUTO_REFRESH_MS);
 
     // Sekmeye geri gelince de yenile
     document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "visible") loadNews({ force: true });
+      if (document.visibilityState === "visible") {
+        loadNews();
+      }
     });
   </script>
 </body>
