@@ -403,11 +403,15 @@
           <ul class="bullets" id="mImp"></ul>
         </div>
 
-        <div class="section">
-          <div style="display:flex; gap:8px; flex-wrap:wrap;">
-            <a class="btn-read" id="mGo" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
-            <button class="btn-secondary" id="mCopy" type="button">Linki Kopyala</button>
-          </div>
+        <div class="actions">
+  <!-- Haberi Oku artık ANA buton (sarı) -->
+  <button class="btn-read" type="button" data-open="1">Haberi Oku</button>
+
+  <!-- Kaynağa Git ikincil -->
+  <a class="btn-secondary" href="${url}" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
+
+  <span class="source-url">${escapeHtml(url)}</span>
+</div>
         </div>
       </div>
     </div>
