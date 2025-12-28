@@ -109,6 +109,19 @@ RSS_SOURCES = [
     {"url": "https://news.google.com/rss/search?q=Yalova%20when:7d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
     {"url": "https://news.google.com/rss/search?q=(Yalova%20Belediyesi%20OR%20Yalova%20Valili%C4%9Fi)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
     {"url": "https://news.google.com/rss/search?q=(%C3%87%C4%B1narc%C4%B1k%20OR%20%C3%87iftlikk%C3%B6y%20OR%20Alt%C4%B1nova%20OR%20Termal%20OR%20Armutlu)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+        # Yerel Marmara (Yalova + çevre iller)
+    {"url": "https://news.google.com/rss/search?q=(Marmara%20B%C3%B6lgesi)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Kocaeli%20OR%20%C4%B0zmit%20OR%20Gebze)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Sakarya%20OR%20Adapazar%C4%B1)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Bursa%20OR%20Nil%C3%BCfer%20OR%20Osmangazi%20OR%20Y%C4%B1ld%C4%B1r%C4%B1m)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Bal%C4%B1kesir%20OR%20Band%C4%B1rma%20OR%20Edremit)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Tekirda%C4%9F%20OR%20%C3%87orlu%20OR%20%C3%87erkezk%C3%B6y)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(K%C4%B1rklareli%20OR%20L%C3%BCleburgaz)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Edirne)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(%C4%B0stanbul%20trafik%20OR%20%C4%B0stanbul%20belediye%20OR%20%C4%B0BB)%20when:7d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(%C3%87anakkale%20OR%20Biga)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+    {"url": "https://news.google.com/rss/search?q=(Bilecik)%20when:14d&hl=tr&gl=TR&ceid=TR:tr", "hint": "yerel"},
+
 ]
 
 # ------------------------------------------------------------
@@ -233,64 +246,132 @@ CATEGORY_KEYWORDS = {
         "dolar","euro","sterlin","kur","parite","altın","altin","gram altın","ons",
         "faiz","politika faizi","enflasyon","tcmb","fed","ppk","swap","cds","resesyon",
         "kripto","bitcoin","ethereum","btc","eth","emtia","petrol","brent","wti","doğalgaz",
-        "nasdaq","s&p","dow","market","markets","stocks","shares","bond","inflation","rates"
+        "nasdaq","s&p","dow","market","markets","stocks","shares","bond","inflation","rates""finans", "finansal", "piyasa", "piyasalar",
+  "borsa", " bist ", "endeks",
+  "hisse", "hisseler", "portföy", "portfoy",
+  "yatırım", "yatirim", "yatırımcı",
+  "fon", "tefas", "emeklilik fonu",
+  "altın", "gram altın", "ons altın",
+  "döviz", "dolar", "euro", "sterlin",
+  "kripto", "bitcoin", "ethereum",
+  "tahvil", "bono", "getiri",
+  "kredi", "faizli", "temettü"
+]
     ],
     "yerel": [
         "yalova","çınarcık","cinarcik","çiftlikköy","ciftlikkoy","termal","altınova","altinova","armutlu",
         "yalova belediyesi","yalova valiliği","yalova valiligi","il genel meclisi",
         "imar","altyapı","altyapi","su kesintisi","elektrik kesintisi","trafik düzenlemesi","trafik duzenlemesi",
-        "sahil","feribot","iskele","otogar"
+        "sahil","feribot","iskele","otogar","marmara","kocaeli","izmit","gebze","sakarya","adapazarı","adapazari",
+        "bursa","nilüfer","nilufer","osmangazi","yıldırım","yildirim",
+        "balıkesir","balikesir","bandırma","bandirma","edremit",
+        "tekirdağ","tekirdag","çorlu","corlu","çerkezköy","cerkezkoy",
+        "kırklareli","kirklareli","lüleburgaz","luleburgaz",
+        "edirne","istanbul","ibb","çanakkale","canakkale","biga","bilecik""imar", "altyapı", "altyapi",
+  "su kesintisi", "elektrik kesintisi",
+  "yerel etkinlik", "festival", "panayır"
+
     ],
     "gundem": [
         "son dakika","gündem","gundem","meclis","bakan","bakanlık","bakanlik","valilik","belediye",
-        "seçim","secim","mahkeme","yargı","yargi","emniyet","operasyon","gözaltı","gozalti",
-        "deprem","yangın","yangin","sel","fırtına","firtina","kaza","soruşturma","sorusturma"
+        "seçim","secim","mahkeme","yargı","yargi","emniyet","operasyon","gözaltı","gozalti","jandarma","Jandarma"
+        "deprem","yangın","yangin","sel","fırtına","firtina","kaza","soruşturma","sorusturma","saldırı","teror","terör","terörist","acil","gelişme","gelisme",
+        "açıklama","aciklama","duyurdu","duyuru",
+        "karar alındı","karar","resmi gazete",
+        "bakan","bakanlık","bakanlik",
+        "valilik","belediye","kaymakamlık",
+        "meclis","tbmm","komisyon",
+        "toplantı","toplanti","basın açıklaması",
+        "yasa","kanun","yönetmelik","yonetmelik"
     ],
     "dunya": [
         "world","international","global","ukraine","russia","israel","gaza","iran","china","usa","europe",
-        "nato","united nations","g7","g20","sanction","ceasefire","election","summit","conflict","war"
+        "nato","united nations","g7","g20","sanction","ceasefire","election","summit","conflict","war","afrika","africa","dünya","dunya","uluslararası","uluslararasi",
+        "yurt dışı","yurtdışı","yurtdisi",
+        "abd","amerika","beyaz saray","pentagon",
+        "avrupa","ab","avrupa birliği",
+        "nato","bm","birleşmiş milletler",
+        "çin","rusya","ukrayna","israil","filistin",
+        "orta doğu","asya","palastine"
+        "seçim","referandum","hükümet","hukumet","election","referendum"
     ],
     "spor": [
         "spor","maç","mac","lig","süper lig","super lig","şampiyona","sampiyona","gol","transfer","hakem",
-        "derbi","futbol","basketbol","voleybol","tenis","formula 1","f1","uefa","şampiyonlar ligi","avrupa ligi"
+        "derbi","futbol","basketbol","voleybol","tenis","formula 1","box","uefa","şampiyonlar ligi","avrupa ligi","spor","maç","mac ","müsabaka","musabaka","karşılaşma","karsilasma",
+        "lig","puan durumu","fikstür","fikstur","play-off","playoff",
+        "transfer","bonservis","sözleşme","sozlesme","imza attı","imza",
+        "teknik direktör","td","antrenör","antrenor"
+
     ],
     "teknoloji": [
-        "teknoloji","yazılım","yazilim","uygulama","güncelleme","guncelleme","telefon","akıllı","akilli",
+        "teknoloji","yazılım","yazilim","uygulama","güncelleme","guncelleme","telefon","akıllı","akilli","teknoloji", "dijital",
+  "yapay zeka", "ai ", "machine learning",
+ , "kod", "programlama",
+  "uygulama", "app",
+  "donanım", "donanim",
+  "çip", "cip", "işlemci", "islemci",
+  "android", "ios", "iphone",
+  "google", "apple", "microsoft",
+  "siber", "siber güvenlik",
+  "internet", "veri", "bulut"
         "android","ios","yapay zeka","ai","robot","çip","cip","işlemci","islemci","donanım","donanim",
         "siber","hack","sızıntı","sizinti","openai","google","microsoft","apple","samsung","tesla"
     ],
     "saglik": [
-        "sağlık","saglik","hastane","doktor","virüs","virus","enfeksiyon","kanser","tedavi","ilaç","ilac",
+        "sağlık","saglik","hastane","doktor","virüs","virus","enfeksiyon","kanser","tedavi","ilaç","ilac","sağlık", "saglik", "tıp", "tip",
+     "hastane", "doktor", "hekim", "klinik", "hastalık", "hastalik", "tanı", "tani",
+     "psikiyatri","beslenme", "sağlık bakanlığı"
         "aşı","asi","covid","koronavirüs","koronavirus","grip","diyet","obezite","psikoloji","ruh sağlığı","ruh sagligi"
     ],
     "ekonomi": [
-        "ekonomi","ekonomik","bütçe","butce","vergi","zam","asgari ücret","asgari ucret","memur maaşı","memur maasi",
-        "ihracat","ithalat","üretim","uretim","sanayi","istihdam","işsizlik","issizlik","kobi","ticaret","turizm geliri"
+        "ekonomi","ekonomik","bütçe","butce","vergi","zam","asgari ücret","asgari ucret","memur maaşı","memur maasi","büyüme","daralma","resesyon","cari açık","indirim"
+        "ihracat","ithalat","üretim","uretim","sanayi","istihdam","işsizlik","issizlik","kobi","ticaret","turizm geliri","dış ticaret","politika faizi","tcmb","merkez bankası"
     ],
     "magazin": [
         "magazin","ünlü","unlu","şarkıcı","sarkici","oyuncu","dizi","film","evlilik","boşanma","bosanma",
         "aşk","ask","görüntülendi","konser","klip","festival","kırmızı halı","kirmizi hali"
     ],
     "bilim": [
-        "bilim","araştırma","arastirma","deney","laboratuvar","keşif","kesif","fizik","kimya","biyoloji","genetik",
-        "astronomi","nasa","teleskop","uzay","roket","iklim","deprem araştırması","jeoloji"
+        "bilim","araştırma","arastirma","deney","laboratuvar","keşif","kesif","fizik","kimya","biyoloji","genetik","esa"
+        "astronomi","nasa","teleskop","uzay","roket","iklim","deprem araştırması","jeoloji", "bilim", "bilimsel", "araştırma", "arastirma",
+        "bilim insanı","akademik",
+
     ],
     "savunma": [
         "savunma","savunma sanayii","ordu","asker","tatbikat","füze","fuze","tank","savaş uçağı","savas ucagi",
-        "hava kuvvetleri","deniz kuvvetleri","operasyon","terör","teror","saldırı","saldiri","nato","güvenlik","guvenlik",
+       "hava kuvvetleri","deniz kuvvetleri","operasyon","terör","teror","saldırı","saldiri","nato","güvenlik","guvenlik","savunma", "savunma sanayii",
+        "askeri", "ordu", "asker",        "operasyon", "tatbikat",
+       "silah", "füze", "fuze",
+       "hava kuvvetleri", "deniz kuvvetleri",
+      "savaş uçağı", "tank", "zırhlı", "zirhli",
+      "terör", "teror", "güvenlik",
+       "nato", "askeri üs"
         "iha","siha","dron","drone"
     ],
     "oyun": [
-        "oyun","video oyunu","bilgisayar oyunu","playstation","ps4","ps5","xbox","nintendo","switch","steam",
+        "oyun","video oyunu","bilgisayar oyunu","playstation","ps4","ps5","xbox","nintendo","switch","steam","fps"
         "epic games","mobil oyun","battle royale","e-spor","espor","gamer","gaming","call of duty","pubg",
         "fortnite","valorant","cs2","counter strike","league of legends","lol","dota","gta","fifa","efootball"
     ],
     "otomobil": [
-        "otomobil","araba","araç","arac","otomotiv","sedan","suv","tesla","bmw","mercedes","renault","hyundai",
-        "togg","elektrikli","şarj","sarj","menzil","trafik","otoyol","muayene","lastik","kaza","airbag"
+        "otomobil","araba","araç","arac","otomotiv","sedan","suv","tesla","bmw","mercedes","renault","hyundai","Fiat","Ferrari","Lamborghini","Alfa-Romeo","Maserati","Lancia","GMC","Lincoln","Ford","Tesla","Chrysler","Jeep","RAM"
+        "togg","elektrikli","şarj","sarj","menzil","trafik","otoyol","muayene","lastik","kaza","airbag","Toyota","Suzuki","Mitsubishi","Honda","Subaru","Nissan","Acura","Isuzu","Infiniti","Mazda","Lexus"
+        "Hyundai","Kia","Skoda","Dacia","Seat","Lada","Volvo","Audi","BMW","Mercedes","Benz","Mini","Opel","Porsche","Smart","Volkswagen","Renault","Peugeot","Citroen","Bugatti","DS Automobiles","Alpine",
+        "motor", "şanzıman","sanziman",
+        "trafik","kaza",
+        "otoyol","ehliyet",
+        "muayene","sigorta"
     ],
     "yasam": [
         "yaşam","yasam","hayat","aile","çocuk","cocuk","evlilik","ilişki","iliski","alışveriş","alisveris",
+  "günlük hayat", "gunluk hayat",
+  "aile", "çocuk", "cocuk",
+  "ev", "ev yaşamı", "ev hayati",
+  "seyahat", "tatil", "gezi",
+  "alışveriş", "alisveris",
+  "yemek", "tarif", "mutfak",
+  "dekorasyon", "hobi",
+  "kişisel gelişim", "kisisel gelisim"
         "tatil","seyahat","gezi","yemek","tarif","dekorasyon","hobi","günlük","gunluk","psikoloji","eğitim","egitim"
     ],
 }
