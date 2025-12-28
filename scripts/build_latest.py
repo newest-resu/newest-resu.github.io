@@ -306,7 +306,7 @@ CATEGORY_KEYWORDS = {
     "teknoloji": [
         "teknoloji","yazılım","yazilim","uygulama","güncelleme","guncelleme","telefon","akıllı","akilli","teknoloji", "dijital",
   "yapay zeka", "ai ", "machine learning",
- , "kod", "programlama",
+  "kod", "programlama",
   "uygulama", "app",
   "donanım", "donanim",
   "çip", "cip", "işlemci", "islemci",
@@ -340,7 +340,7 @@ CATEGORY_KEYWORDS = {
     "savunma": [
         "savunma","savunma sanayii","ordu","asker","tatbikat","füze","fuze","tank","savaş uçağı","savas ucagi",
        "hava kuvvetleri","deniz kuvvetleri","operasyon","terör","teror","saldırı","saldiri","nato","güvenlik","guvenlik","savunma", "savunma sanayii",
-        "askeri", "ordu", "asker",        "operasyon", "tatbikat",
+        "askeri", "ordu", "asker","operasyon", "tatbikat",
        "silah", "füze", "fuze",
        "hava kuvvetleri", "deniz kuvvetleri",
       "savaş uçağı", "tank", "zırhlı", "zirhli",
