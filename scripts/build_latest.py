@@ -9,8 +9,8 @@ import requests
 import feedparser
 from bs4 import BeautifulSoup
 
-OUT_PATH = os.path.join("news", "latest.json")
-os.makedirs("news", exist_ok=True)
+with open("news/raw.json", encoding="utf-8") as f:
+    raw = json.load(f)
 
 TR_TZ = timezone(timedelta(hours=3))  # Europe/Istanbul (+03:00)
 UA = "Mozilla/5.0 (compatible; HaberRobotuBot/1.0; +https://newest-resu.github.io/)"
@@ -386,7 +386,7 @@ def score_keywords(text: str, cat: str) -> int:
     return score
 
 def guess_category(title_any: str, summary_any: str, rss_categories: list, hint: str, url: str) -> str:
-    text = (safe(title_any) + " " + safe(summary_any)).lower()
+    text = (a.get("title_tr","") + " " + a.get("summary_tr","")).lower()
     rc = " ".join([safe(x).lower() for x in (rss_categories or []) if safe(x)])
 
     # 1) Yerel sadece Yalova/ilçe kelimeleri geçiyorsa
