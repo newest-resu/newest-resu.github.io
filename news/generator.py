@@ -118,8 +118,19 @@ feeds = [
 
 articles = []
 
-for f in feeds:
-    d = feedparser.parse(f)
+for feed in feeds:
+    if isinstance(feed, dict):
+        url = feed.get("url")
+        category_hint = feed.get("category", "")
+    else:
+        url = feed
+        category_hint = ""
+
+    if not url:
+        continue
+
+    d = feedparser.parse(url)
+
     for e in d.entries[:5]:
         uid = hashlib.md5(e.link.encode()).hexdigest()
         title = e.title
@@ -135,8 +146,10 @@ for f in feeds:
             **enrich_data,
             "url": e.link,
             "published": datetime.datetime.utcnow().isoformat(),
-            "source_type": "intl" if "reuters" in e.link or "bbc" in e.link else "tr"
+            "source_type": "intl" if "reuters" in e.link or "bbc" in e.link else "tr",
+            "category_hint": category_hint
         })
+
 
 import json, os
 os.makedirs("news", exist_ok=True)
