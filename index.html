@@ -1,674 +1,289 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-  <meta charset="UTF-8">
-  <title>Haber Robotu – Otomatik Güncel Haberler</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+  <title>Haber Akışı</title>
 
-  <meta name="description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada. Spor, teknoloji, ekonomi, sağlık ve daha fazlası.">
-  <meta property="og:title" content="Haber Robotu – Otomatik Güncel Haberler">
-  <meta property="og:description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada.">
-  <meta property="og:url" content="https://newest-resu.github.io/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Haber Robotu">
-  <meta name="twitter:card" content="summary_large_image">
-
+  <!-- AdSense (otomatik) -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
-          crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
 
   <style>
     :root{
       --bg:#0f172a;
-      --bg-card:#020617;
+      --card:#111827;
       --text:#e5e7eb;
       --muted:#9ca3af;
-      --accent:#facc15;
-      --accent-soft:rgba(250,204,21,0.12);
-      --border:#1f2937;
+      --accent:#22c55e;
     }
-    *{box-sizing:border-box}
     body{
       margin:0;
-      font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
-      background:radial-gradient(circle at top,#1f2937 0,#020617 55%);
+      font-family:system-ui,-apple-system,Segoe UI,Roboto;
+      background:var(--bg);
       color:var(--text);
     }
-
-    .page{position:relative;min-height:100vh}
-    .shell{max-width:1100px;margin:0 auto;padding:16px 12px 48px}
-
     header{
-      display:flex;align-items:center;gap:12px;padding:16px 18px;border-radius:14px;
-      background:linear-gradient(135deg,rgba(15,23,42,0.95),rgba(15,23,42,0.98));
-      border:1px solid rgba(148,163,184,0.18);
-      box-shadow:0 24px 80px rgba(0,0,0,0.55);
-      position:sticky;top:8px;z-index:20;backdrop-filter:blur(16px);
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      padding:12px 16px;
+      border-bottom:1px solid #1f2937;
+    }
+    h1{font-size:18px;margin:0;}
+    .refresh{
+      cursor:pointer;
+      font-size:20px;
+      user-select:none;
+    }
+    #status{
+      padding:8px 16px;
+      font-size:13px;
+      color:var(--muted);
+    }
+    .filters{
+      display:flex;
+      gap:8px;
+      padding:8px 16px;
       flex-wrap:wrap;
     }
-    .logo{
-      width:38px;height:38px;border-radius:12px;
-      background:radial-gradient(circle at 20% 0%,#facc15,#f97316);
-      display:flex;align-items:center;justify-content:center;
-      color:#020617;font-weight:900;font-size:18px;
-      box-shadow:0 0 0 2px rgba(15,23,42,0.9),0 16px 45px rgba(250,204,21,0.45);
-    }
-    .title-wrap{flex:1 1 200px}
-    .title{font-size:20px;font-weight:700;letter-spacing:.02em}
-    .subtitle{font-size:13px;color:var(--muted)}
-    .top-nav{display:flex;flex-wrap:wrap;gap:12px;font-size:13px;margin-top:6px}
-    .top-nav a{color:#facc15;text-decoration:none}
-
-    .pill{font-size:11px;padding:4px 9px;border-radius:999px;border:1px solid rgba(148,163,184,0.35);color:var(--muted);background:rgba(15,23,42,0.9);white-space:nowrap}
-
-    .toolbar{
-      margin-top:18px;display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between
-    }
-    .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-    .btn-filter{
-      border-radius:999px;font-size:13px;padding:5px 12px;border:1px solid var(--border);
-      background:rgba(15,23,42,0.9);color:var(--muted);cursor:pointer;transition:all .15s ease
-    }
-    .btn-filter.active{background:var(--accent-soft);border-color:var(--accent);color:#fefce8}
-
-    .btn-icon{
-      width:34px;height:34px;border-radius:999px;border:1px solid rgba(148,163,184,0.22);
-      background:rgba(15,23,42,0.92);color:#fefce8;cursor:pointer;
-      display:inline-flex;align-items:center;justify-content:center;
-      transition:all .15s ease;
-    }
-    .btn-icon:hover{border-color:rgba(250,204,21,0.55);transform:translateY(-1px)}
-    .btn-icon svg{width:16px;height:16px}
-
-    .status{font-size:12px;color:var(--muted)}
-
-    .grid{margin-top:12px;display:flex;flex-direction:column;gap:10px}
-    .card{
-      display:grid;grid-template-columns:200px minmax(0,1fr);gap:14px;padding:12px;border-radius:14px;
-      background:rgba(15,23,42,0.96);
-      border:1px solid rgba(31,41,55,0.9);
-      box-shadow:0 14px 40px rgba(0,0,0,0.65);
-    }
-    .thumb-wrap{
-      border-radius:10px;overflow:hidden;background:radial-gradient(circle at 10% 0%,#1f2937,#020617);
-      border:1px solid rgba(31,41,55,0.9);
-      display:flex;align-items:center;justify-content:center;font-size:11px;color:var(--muted);text-align:center;padding:6px;
-    }
-    .thumb-wrap img{width:100%;height:100%;object-fit:cover;display:block}
-    .card-body{display:flex;flex-direction:column;gap:6px}
-    .meta-line{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:11px;color:var(--muted)}
-    .badge-source{padding:2px 7px;border-radius:999px;border:1px solid rgba(55,65,81,0.9);background:rgba(15,23,42,0.9)}
-    .badge-tag{padding:2px 7px;border-radius:999px;background:rgba(34,197,94,0.08);border:1px solid rgba(34,197,94,0.25);color:#bbf7d0}
-    .badge-cat{padding:2px 7px;border-radius:999px;background:rgba(59,130,246,0.12);border:1px solid rgba(59,130,246,0.35);color:#bfdbfe}
-    .headline{font-size:16px;font-weight:600;color:#f9fafb;margin:2px 0}
-    .summary{font-size:13px;color:#d1d5db}
-    .actions{margin-top:6px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-
-    /* Haberi Oku (daha belirgin) */
-    .btn-read{
-      font-size:12px;
-      padding:6px 12px;
-      border-radius:999px;
+    .filters button{
+      background:#1f2937;
       border:none;
+      color:var(--text);
+      padding:6px 10px;
+      border-radius:6px;
       cursor:pointer;
-      background: var(--accent);
-      color:#1f2937;
-      font-weight:800;
-      text-decoration:none;
-      display:inline-flex;
-      align-items:center;
-      gap:6px;
-      box-shadow: 0 12px 28px rgba(250,204,21,0.18);
+      font-size:13px;
     }
-    .btn-read:hover{filter:brightness(1.08)}
-
-    /* Kaynağa Git (daha az belirgin) */
-    .btn-src{
+    .filters button.active{
+      background:var(--accent);
+      color:#022c22;
+      font-weight:600;
+    }
+    .news{
+      display:grid;
+      grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+      gap:12px;
+      padding:12px;
+    }
+    .card{
+      background:var(--card);
+      border-radius:10px;
+      padding:12px;
+      display:flex;
+      flex-direction:column;
+      gap:8px;
+    }
+    .card h3{
+      font-size:15px;
+      margin:0;
+      line-height:1.3;
+    }
+    .meta{
       font-size:12px;
-      padding:6px 12px;
-      border-radius:999px;
-      border:1px solid rgba(148,163,184,0.22);
-      background: transparent;
-      color: rgba(156,163,175,0.95);
-      text-decoration:none;
-      display:inline-flex;
-      align-items:center;
-      gap:6px;
+      color:var(--muted);
     }
-    .btn-src:hover{
-      border-color: rgba(148,163,184,0.35);
-      color:#e5e7eb;
+    .actions{
+      display:flex;
+      justify-content:space-between;
+      margin-top:auto;
+      gap:8px;
     }
-
-    .source-url{
-      font-size:11px;color:var(--muted);max-width:260px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis
+    .btn-read{
+      flex:1;
+      background:var(--accent);
+      border:none;
+      border-radius:6px;
+      padding:6px;
+      font-weight:600;
+      cursor:pointer;
     }
-
-    footer{margin-top:26px;font-size:11px;color:var(--muted);text-align:center}
-
-    .side-slot{
-      position:fixed;top:70px;width:260px;height:calc(100vh - 100px);
-      border-radius:14px;border:1px solid rgba(148,163,184,0.10);
-      background:rgba(15,23,42,0.08);
-      display:none;z-index:15;overflow:hidden;pointer-events:none;
-    }
-    .side-slot-left{left:12px}
-    .side-slot-right{right:12px}
-    @media (min-width: 1400px){
-      .shell{max-width:900px}
-      .side-slot{display:block}
+    .btn-source{
+      background:#1f2937;
+      color:var(--muted);
+      border:none;
+      border-radius:6px;
+      padding:6px 10px;
+      cursor:pointer;
+      font-size:12px;
     }
 
     /* MODAL */
-    .modal-backdrop{
-      position:fixed;inset:0;background:rgba(2,6,23,0.72);
-      display:none;align-items:center;justify-content:center;
-      z-index:60;padding:16px;
-    }
-    .modal-backdrop.show{display:flex}
     .modal{
-      width:min(920px, 100%);
-      max-height:86vh;
-      overflow:hidden;
-      border-radius:16px;
-      border:1px solid rgba(148,163,184,0.16);
-      background:rgba(15,23,42,0.98);
-      box-shadow:0 30px 120px rgba(0,0,0,0.75);
-      display:flex;flex-direction:column;
+      position:fixed;
+      inset:0;
+      background:rgba(0,0,0,.6);
+      display:none;
+      z-index:50;
     }
-    .modal-head{
-      padding:14px 14px 10px;
-      border-bottom:1px solid rgba(148,163,184,0.12);
-      display:flex;gap:10px;align-items:flex-start;justify-content:space-between;
+    .modal.open{display:block;}
+    .modal-content{
+      background:var(--bg);
+      position:absolute;
+      inset:0;
+      overflow-y:auto;
+      padding:16px;
     }
-    .modal-title{font-size:15px;font-weight:750;margin:0;color:#f9fafb;line-height:1.25}
-    .modal-sub{font-size:12px;color:var(--muted);margin-top:6px}
-    .modal-close{
-      border:none;background:transparent;color:#e5e7eb;cursor:pointer;
-      width:34px;height:34px;border-radius:10px;
-      display:flex;align-items:center;justify-content:center;
+    .modal h2{font-size:18px;}
+    .section{
+      margin-top:16px;
     }
-    .modal-close:hover{background:rgba(148,163,184,0.12)}
-    .modal-body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:10px}
-    .modal-scroll{overflow:auto;max-height:calc(86vh - 70px);padding-right:4px}
-    .modal-section{
-      border:1px solid rgba(148,163,184,0.10);
-      border-radius:14px;
-      padding:10px 12px;
-      background:rgba(2,6,23,0.22);
+    .section h4{
+      margin:0 0 6px 0;
+      color:var(--accent);
     }
-    .modal-section h3{margin:0 0 6px;font-size:12px;color:#fefce8}
-    .modal-section p{margin:0;font-size:13px;color:#e5e7eb;line-height:1.55}
-    .modal-section ul{margin:0;padding-left:18px;color:#e5e7eb}
-    .modal-section li{margin:5px 0;font-size:13px;line-height:1.45}
-    .modal-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
-
-    /* Mobil modal optimizasyonu */
-    @media (max-width: 640px){
-      .modal-shell{padding:0;}
-      .modal{
-        width:100%;
-        max-width:100%;
-        height:100vh;
-        max-height:100vh;
-        border-radius:0;
-      }
-      .modal-head{
-        position:sticky;
-        top:0;
-        z-index:2;
-        background:rgba(15,23,42,0.98);
-        backdrop-filter: blur(14px);
-      }
-      .modal-body{padding:12px 12px 14px;}
-      .modal-scroll{max-height:calc(100vh - 110px);}
+    .close{
+      position:fixed;
+      top:10px;
+      right:12px;
+      font-size:22px;
+      cursor:pointer;
     }
 
-    @media (max-width: 768px){
-      header{flex-direction:column;align-items:flex-start}
-      .title{font-size:18px}
-      .subtitle{font-size:12px}
-      .card{grid-template-columns:1fr}
-      .thumb-wrap{height:190px}
-      .source-url{max-width: 100%}
+    @media(min-width:768px){
+      .modal-content{
+        inset:5% 20%;
+        border-radius:12px;
+      }
     }
   </style>
 </head>
+
 <body>
-  <div class="page">
-    <div class="side-slot side-slot-left" aria-hidden="true"></div>
-    <div class="side-slot side-slot-right" aria-hidden="true"></div>
 
-    <div class="shell">
-      <header>
-        <div class="logo">HR</div>
-        <div class="title-wrap">
-          <div class="title">Haber Robotu</div>
-          <div class="subtitle">Türkiye ve dünyadan haberler, her saat otomatik güncellenir.</div>
-          <div class="top-nav">
-            <a href="about.html">Hakkında</a>
-            <a href="privacy.html">Gizlilik Politikası</a>
-            <a href="terms.html">Kullanım Şartları</a>
-            <a href="contact.html">İletişim</a>
-          </div>
-        </div>
+<header>
+  <h1>Haber Akışı</h1>
+  <div id="btnManualRefresh" class="refresh">⟳</div>
+</header>
 
-        <div class="filters" style="gap:10px">
-          <div class="pill">Canlı otomatik haber akışı</div>
+<div id="status">Yükleniyor…</div>
 
-          <!-- Manuel yenileme (ikon) -->
-          <button class="btn-icon" id="btnManualRefresh" title="Sayfayı yenile" aria-label="Sayfayı yenile">
-            <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
-              <path d="M20 12a8 8 0 1 1-2.34-5.66" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-              <path d="M20 4v6h-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>
-          </button>
-        </div>
-      </header>
+<div class="filters" id="categoryFilters"></div>
 
-      <!-- Kaynak filtreleri -->
-      <div class="toolbar">
-        <div class="filters">
-          <button class="btn-filter btn-filter-source active" data-filter-source="all">Tüm Kaynaklar</button>
-          <button class="btn-filter btn-filter-source" data-filter-source="tr">Türkiye Kaynaklı</button>
-          <button class="btn-filter btn-filter-source" data-filter-source="intl">Yabancı Kaynaklı</button>
-        </div>
-        <div class="status" id="status">Haberler yükleniyor...</div>
-      </div>
+<div class="news" id="newsList"></div>
 
-      <!-- Kategori filtreleri (mevcut yapınızı bozmadım) -->
-      <div class="toolbar" style="margin-top:8px;">
-        <div class="filters">
-          <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="teknoloji">Teknoloji</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="saglik">Sağlık</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="ekonomi">Ekonomi</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="magazin">Magazin</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="bilim">Bilim</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="savunma">Savunma / Askeri</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="oyun">Oyun / Dijital</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="otomobil">Otomobil</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="yasam">Yaşam</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="finans">Finans</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="yerel">Yerel</button>
-        </div>
-      </div>
+<!-- MODAL -->
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <div class="close" onclick="closeModal()">✕</div>
+    <h2 id="mTitle"></h2>
 
-      <div class="grid" id="haberler"></div>
+    <div class="section">
+      <h4>Uzun Özet</h4>
+      <p id="mSummary"></p>
+    </div>
 
-      <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">
-        Bu sayfayı paylaş:
-        <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F"
-           target="_blank" style="color:#facc15; margin-left:8px; text-decoration:none;">WhatsApp</a>
-        <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F"
-           target="_blank" style="color:#facc15; margin-left:12px; text-decoration:none;">X (Twitter)</a>
-        <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler"
-           target="_blank" style="color:#facc15; margin-left:12px; text-decoration:none;">Telegram</a>
-      </div>
+    <div class="section">
+      <h4>Neden Önemli?</h4>
+      <p id="mWhy"></p>
+    </div>
 
-      <footer>
-        İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır,
-        detaylar için her haberdeki “Kaynağa Git” butonuna tıklayarak kaynağa gidebilirsiniz.
-      </footer>
+    <div class="section">
+      <h4>Olası Etkiler</h4>
+      <p id="mImpact"></p>
+    </div>
+
+    <div class="section">
+      <a id="mSource" target="_blank">Kaynağa Git</a>
     </div>
   </div>
+</div>
 
-  <!-- MODAL -->
-  <div class="modal-backdrop" id="modalBackdrop" role="dialog" aria-modal="true" aria-hidden="true">
-    <div class="modal" role="document">
-      <div class="modal-head">
-        <div style="min-width:0">
-          <h2 class="modal-title" id="modalTitle">Başlık</h2>
-          <div class="modal-sub" id="modalMeta">Kaynak • Kategori</div>
-        </div>
-        <button class="modal-close" id="modalClose" aria-label="Kapat">✕</button>
-      </div>
-      <div class="modal-body">
-        <div class="modal-scroll">
-          <div class="modal-section">
-            <h3>Uzun Özet</h3>
-            <p id="modalLongSummary"></p>
-          </div>
-          <div class="modal-section">
-            <h3>Neden Önemli?</h3>
-            <ul id="modalWhy"></ul>
-          </div>
-          <div class="modal-section">
-            <h3>Olası Etkiler</h3>
-            <ul id="modalImpacts"></ul>
-          </div>
-          <div class="modal-section">
-            <h3>Arka Plan</h3>
-            <ul id="modalBackground"></ul>
-          </div>
-        </div>
+<script>
+let ALL_ARTICLES=[];
+let CURRENT_CATEGORY="all";
 
-        <div class="modal-actions">
-          <a class="btn-read" id="modalReadBtn" href="#" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
-        </div>
-      </div>
-    </div>
-  </div>
+const CATEGORY_KEYWORDS={
+  finans:["borsa","faiz","enflasyon","dolar","euro","altın","hisse","kripto","bitcoin"],
+  spor:["maç","lig","gol","transfer"],
+  magazin:["ünlü","dizi","film"],
+  teknoloji:["yapay zeka","teknoloji","iphone","android"],
+  dunya:["abd","avrupa","israil","ukrayna"],
+  yerel:["yalova","çınarcık","altınova"]
+};
 
-  <script>
-    let ALL_ARTICLES = [];
-    let CURRENT_SOURCE_FILTER = "all";
-    let CURRENT_CATEGORY_FILTER = "all";
-    let LAST_GENERATED_AT = "";
-
-    const AUTO_REFRESH_MS = 60 * 60 * 1000;
-
-    const CATEGORY_LABELS = {
-      gundem:"Gündem", dunya:"Dünya", spor:"Spor", teknoloji:"Teknoloji", saglik:"Sağlık",
-      ekonomi:"Ekonomi", magazin:"Magazin", bilim:"Bilim", savunma:"Savunma / Askeri",
-      oyun:"Oyun / Dijital", otomobil:"Otomobil", yasam:"Yaşam", finans:"Finans", yerel:"Yerel"
-    };
-
-    // NOT: Keyword listelerinize dokunmadım (kısaltılmış gösterim yok, mevcut dosyanızdaki gibi bırakın).
-    const CATEGORY_KEYWORDS = window.CATEGORY_KEYWORDS || {};
-
-    function safeText(x){
-      if (!x) return "";
-      return String(x).replace(/\s+/g," ").trim();
-    }
-
-    function getDomain(url){
-      try{
-        const u = new URL(url);
-        return u.hostname.replace(/^www\./,"");
-      }catch{ return ""; }
-    }
-
-    function classifySource(article){
-  if (article && article.source_type === "tr") {
-    return { label: article.source || "kaynak", type: "tr" };
-  }
-  if (article && article.source_type === "intl") {
-    return { label: article.source || "kaynak", type: "intl" };
-  }
-  return { label: article.source || "kaynak", type: "intl" };
+function classifySource(a){
+  if(a.source_type==="tr") return {type:"tr"};
+  if(a.source_type==="intl") return {type:"intl"};
+  return {type:"intl"};
 }
 
-    function formatTRDate(isoString){
-      try{
-        const d = new Date(isoString);
-        if (isNaN(d.getTime())) return "";
-        const dtf = new Intl.DateTimeFormat("tr-TR", {
-          timeZone:"Europe/Istanbul",
-          year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"
-        });
-        return dtf.format(d).replace(",","");
-      }catch{ return ""; }
-    }
+function classifyCategory(a){
+  if(a.category) return a.category;
+  const text=((a.title_tr||a.title||"")+" "+(a.summary_tr||"")).toLowerCase();
+  const financeSignals=CATEGORY_KEYWORDS.finans;
+  if(financeSignals.some(k=>text.includes(k))) return "finans";
 
-    function normalizeArticle(a){
-      const out = {...a};
-      out.url = safeText(a.url || a.link || "");
-      out.source = safeText(a.source || getDomain(out.url) || "kaynak");
-      out.source_type = safeText(a.source_type || "");
-      out.title_tr = safeText(a.title_tr || a.title || "");
-      out.summary_tr = safeText(a.summary_tr || a.summary || "");
-      out.summary_tr_long = safeText(a.summary_tr_long || "");
-      out.why_important = Array.isArray(a.why_important) ? a.why_important : [];
-      out.possible_impacts = Array.isArray(a.possible_impacts) ? a.possible_impacts : [];
-      out.background = Array.isArray(a.background) ? a.background : [];
-      out.category = safeText(a.category || "");
-      out.image = safeText(a.image || "");
-      out.rss_categories = Array.isArray(a.rss_categories) ? a.rss_categories : [];
-      return out;
-    }
-
-    function classifyCategory(article){
-      const financeStrongSignals = [
-  "faiz", "enflasyon", "tcmb", "fed",
-  "borsa", "hisse", "dolar", "euro",
-  "altın", "kripto", "bitcoin", "ethereum"
-];
-      if (!bestCat) {
-  return source.type === "intl" ? "dunya" : "gundem";
-
-const textLower = text.toLowerCase();
-const hasStrongFinance =
-  financeStrongSignals.some(k => textLower.includes(k));
-
-if (bestCat === "finans" && !hasStrongFinance) {
-  bestCat = null;
+  let best=null,score=0;
+  for(const c in CATEGORY_KEYWORDS){
+    let s=0;
+    CATEGORY_KEYWORDS[c].forEach(k=>{if(text.includes(k)) s++;});
+    if(s>score){score=s;best=c;}
+  }
+  return best||"gundem";
 }
-      // build_latest.py zaten category basıyor; öncelik ona
-      if (article.category && CATEGORY_LABELS[article.category]) return article.category;
 
-      // fallback (mevcut yaklaşımınız neyse bozmuyoruz)
-      const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
-      const text = ((article.title_tr || article.title || "") + " " + (article.summary_tr || article.summary || "")).toLowerCase();
-      const src = classifySource(article);
-
-      // Eğer keyword seti globalde yoksa/boşsa, basit fallback:
-      if (!CATEGORY_KEYWORDS || Object.keys(CATEGORY_KEYWORDS).length === 0){
-        return src.type === "intl" ? "dunya" : "gundem";
-      }
-
-      let bestCat = null;
-      let bestScore = 0;
-      for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)){
-        let score = 0;
-        for (const k of keywords){
-          if (k && text.includes(String(k).toLowerCase())) score++;
-        }
-        if (score > bestScore){
-          bestScore = score;
-          bestCat = cat;
-        }
-      }
-      if (!bestCat || bestScore === 0) return src.type === "intl" ? "dunya" : "gundem";
-      return bestCat;
-    }
-
-    function setStatus(count, generatedAtIso, reason){
-      const status = document.getElementById("status");
-      const total = Number.isFinite(count) ? count : (ALL_ARTICLES ? ALL_ARTICLES.length : 0);
-
-      const trCount = (ALL_ARTICLES || []).filter(a => classifySource(a).type === "tr").length;
-      const intlCount = total - trCount;
-
-      const formattedGen = generatedAtIso ? formatTRDate(generatedAtIso) : "";
-      const fetchNow = formatTRDate(new Date().toISOString());
-
-      const genText = formattedGen ? ` • generated_at: ${formattedGen}` : "";
-      const reasonText = reason ? ` • ${reason}` : "";
-
-      status.textContent = `Toplam ${total} haber • TR: ${trCount} / INTL: ${intlCount} • Son çekme: ${fetchNow} (TR)${genText}${reasonText}`;
-    }
-
-    function renderArticles(){
-      const container = document.getElementById("haberler");
-      container.innerHTML = "";
-
-      const list = ALL_ARTICLES
-        .map(a => ({
-          raw: a,
-          src: classifySource(a),
-          cat: classifyCategory(a),
-        }))
-        .filter(x => {
-          if (CURRENT_SOURCE_FILTER === "tr" && x.src.type !== "tr") return false;
-          if (CURRENT_SOURCE_FILTER === "intl" && x.src.type !== "intl") return false;
-          if (CURRENT_CATEGORY_FILTER !== "all" && x.cat !== CURRENT_CATEGORY_FILTER) return false;
-          return true;
-        });
-
-      list.forEach(({raw:a, src, cat}, index) => {
-        const catLabel = CATEGORY_LABELS[cat] || "Gündem";
-
-        const card = document.createElement("article");
-        card.className = "card";
-
-        const imgHtml = a.image
-          ? `<img src="${a.image}" alt="" loading="lazy" onerror="this.style.display='none'">`
-          : `<div>Görsel bulunamadı</div>`;
-
-        card.innerHTML = `
-          <div class="thumb-wrap">${imgHtml}</div>
-          <div class="card-body">
-            <div class="meta-line">
-              <span class="badge-source">${src.label}</span>
-              <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
-              <span class="badge-cat">${catLabel}</span>
-            </div>
-
-            <h2 class="headline">${a.title_tr || "Başlık yok"}</h2>
-            <p class="summary">${a.summary_tr || ""}</p>
-
-            <div class="actions">
-              <button class="btn-read btn-open-modal" data-url="${a.url}" data-id="${index}">
-                Haberi Oku
-              </button>
-              <a class="btn-src" href="${a.url}" target="_blank" rel="noopener noreferrer">
-                Kaynağa Git
-              </a>
-              <span class="source-url">${a.url}</span>
-            </div>
-          </div>
-        `;
-
-        container.appendChild(card);
-      });
-
-      if (list.length === 0){
-        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";
-      }
-    }
-
-    function fillList(el, items){
-      el.innerHTML = "";
-      const clean = (items || []).map(x => safeText(x)).filter(Boolean);
-      if (clean.length === 0){
-        const li = document.createElement("li");
-        li.textContent = "Bu haber için özet alanı henüz üretilemedi. Kaynağa giderek detaylara ulaşabilirsiniz.";
-        el.appendChild(li);
-        return;
-      }
-      clean.slice(0, 6).forEach(t => {
-        const li = document.createElement("li");
-        li.textContent = t;
-        el.appendChild(li);
-      });
-    }
-
-    function openModal(article){
-      const b = document.getElementById("modalBackdrop");
-      b.classList.add("show");
-      b.setAttribute("aria-hidden","false");
-
-      const src = classifySource(article);
-      const cat = classifyCategory(article);
-
-      document.getElementById("modalTitle").textContent = article.title_tr || "Başlık yok";
-      document.getElementById("modalMeta").textContent = `${src.label} • ${CATEGORY_LABELS[cat] || cat || "Gündem"}`;
-
-      const longText = safeText(article.summary_tr_long) || safeText(article.summary_tr) || "";
-      document.getElementById("modalLongSummary").textContent = longText || "Özet üretilemedi. Kaynağa giderek detaylara ulaşabilirsiniz.";
-
-      fillList(document.getElementById("modalWhy"), article.why_important);
-      fillList(document.getElementById("modalImpacts"), article.possible_impacts);
-      fillList(document.getElementById("modalBackground"), article.background);
-
-      const btn = document.getElementById("modalReadBtn");
-      btn.href = article.url || "#";
-    }
-
-    function closeModal(){
-      const b = document.getElementById("modalBackdrop");
-      b.classList.remove("show");
-      b.setAttribute("aria-hidden","true");
-    }
-
-    async function loadNews(force=false){
-      const status = document.getElementById("status");
-      try{
-        status.textContent = force ? "Manuel yenileme yapılıyor..." : "Haberler yükleniyor...";
-
-        const res = await fetch("./news/latest.json?t=" + Date.now(), { cache: "no-store" });
-        if (!res.ok){
-          status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
-          return;
-        }
-        const data = await res.json();
-        LAST_GENERATED_AT = safeText(data.generated_at || "");
-
-        ALL_ARTICLES = (data.articles || []).map(normalizeArticle);
-
-        setStatus(ALL_ARTICLES.length, LAST_GENERATED_AT, force ? "Manuel yenileme" : "Otomatik kontrol");
-        renderArticles();
-      }catch(err){
-        console.error(err);
-        status.textContent = "Haber yüklenirken hata oluştu: " + err;
-      }
-    }
-
-    document.addEventListener("click", function(e){
-      const srcBtn = e.target.closest(".btn-filter-source");
-      if (srcBtn){
-        document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
-        srcBtn.classList.add("active");
-        CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";
-        renderArticles();
-        return;
-      }
-
-      const catBtn = e.target.closest(".btn-filter-cat");
-      if (catBtn){
-        document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
-        catBtn.classList.add("active");
-        CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";
-        renderArticles();
-        return;
-      }
-
-      const openBtn = e.target.closest(".btn-open-modal");
-      if (openBtn){
-        const id = Number(openBtn.getAttribute("data-id"));
-        const article = ALL_ARTICLES[id];
-        if (article) openModal(article);
-        return;
-      }
-    });
-
-    document.getElementById("btnManualRefresh")
-  .addEventListener("click", async () => {
-    document.getElementById("status").innerText = "Yenileniyor...";
-    await loadNews(true);
+function renderFilters(){
+  const cats=["all",...new Set(ALL_ARTICLES.map(classifyCategory))];
+  const el=document.getElementById("categoryFilters");
+  el.innerHTML="";
+  cats.forEach(c=>{
+    const b=document.createElement("button");
+    b.textContent=c;
+    if(c===CURRENT_CATEGORY) b.classList.add("active");
+    b.onclick=()=>{CURRENT_CATEGORY=c;renderFilters();renderArticles();}
+    el.appendChild(b);
   });
-    document.getElementById("modalClose").addEventListener("click", closeModal);
-    document.getElementById("modalBackdrop").addEventListener("click", (e) => {
-      if (e.target === document.getElementById("modalBackdrop")) closeModal();
-    });
-    document.addEventListener("keydown", (e) => {
-      if (e.key === "Escape") closeModal();
-    });
-
-    // İlk yükleme
-    async function loadNews(force=false){
-  try{
-    const url = force
-      ? `news/latest.json?ts=${Date.now()}`
-      : "news/latest.json";
-
-    const res = await fetch(url, { cache: "no-store" });
-    const data = await res.json();
-
-    LAST_GENERATED_AT = data.generated_at || "";
-    ALL_ARTICLES = data.articles.map(normalizeArticle);
-
-    renderArticles();
-    setStatus(ALL_ARTICLES.length, LAST_GENERATED_AT, "ok");
-
-  }catch(e){
-    console.error(e);
-    setStatus(0, "", "error");
-  }
 }
-  </script>
+
+function renderArticles(){
+  const list=document.getElementById("newsList");
+  list.innerHTML="";
+  ALL_ARTICLES.filter(a=>{
+    if(CURRENT_CATEGORY==="all") return true;
+    return classifyCategory(a)===CURRENT_CATEGORY;
+  }).forEach(a=>{
+    const c=document.createElement("div");
+    c.className="card";
+    c.innerHTML=`
+      <h3>${a.title_tr||a.title}</h3>
+      <div class="meta">${classifyCategory(a).toUpperCase()}</div>
+      <div class="actions">
+        <button class="btn-read">Haberi Oku</button>
+        <a class="btn-source" href="${a.url}" target="_blank">Kaynağa Git</a>
+      </div>`;
+    c.querySelector(".btn-read").onclick=()=>openModal(a);
+    list.appendChild(c);
+  });
+}
+
+function openModal(a){
+  document.getElementById("mTitle").textContent=a.title_tr||a.title;
+  document.getElementById("mSummary").textContent=a.summary_tr_long||a.summary_tr||"";
+  document.getElementById("mWhy").textContent=a.why_important||"";
+  document.getElementById("mImpact").textContent=a.possible_impacts||"";
+  document.getElementById("mSource").href=a.url;
+  document.getElementById("modal").classList.add("open");
+}
+
+function closeModal(){
+  document.getElementById("modal").classList.remove("open");
+}
+
+async function loadNews(force=false){
+  const res=await fetch(`./news/latest.json${force?"?t="+Date.now():""}`,{cache:"no-store"});
+  const data=await res.json();
+  ALL_ARTICLES=data.articles||[];
+  document.getElementById("status").textContent=
+    `Toplam ${ALL_ARTICLES.length} haber • Güncellendi: ${data.generated_at}`;
+  renderFilters();
+  renderArticles();
+}
+
+document.getElementById("btnManualRefresh").onclick=()=>loadNews(true);
+loadNews();
+</script>
+
 </body>
 </html>
