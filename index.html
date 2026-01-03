@@ -381,32 +381,15 @@
       }catch{ return ""; }
     }
 
-    function classifySource(input){
-      // input: URL string OR article object (preferred)
-      let url = "";
-      let hintedType = "";
-      if (input && typeof input === "object") {
-        url = safeText(input.url || input.link || "");
-        hintedType = safeText(input.source_type || "");
-      } else {
-        url = safeText(input || "");
-      }
-
-      const d = getDomain(url);
-      if (!d) {
-        if (hintedType === "tr" || hintedType === "intl") {
-          return { label: "Bilinmeyen", type: hintedType };
-        }
-        return { label: "Bilinmeyen", type: "intl" };
-      }
-
-      if (hintedType === "tr" || hintedType === "intl") {
-        return { label: d, type: hintedType };
-      }
-
-      const isTr = d.endsWith(".tr");
-      return { label: d, type: isTr ? "tr" : "intl" };
-    }
+    function classifySource(article){
+  if (article && article.source_type === "tr") {
+    return { label: article.source || "kaynak", type: "tr" };
+  }
+  if (article && article.source_type === "intl") {
+    return { label: article.source || "kaynak", type: "intl" };
+  }
+  return { label: article.source || "kaynak", type: "intl" };
+}
 
     function formatTRDate(isoString){
       try{
