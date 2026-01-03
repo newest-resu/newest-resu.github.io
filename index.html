@@ -505,289 +505,415 @@
     </div>
   </div>
 
-  <!-- AdSense (otomatik) -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
-    crossorigin="anonymous"></script>
+  <!-- MODAL -->
+  <div class="modal-backdrop" id="modalBackdrop" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal-top">
+        <div>
+          <h2 class="modal-title" id="modalTitle">Haber</h2>
+          <div class="modal-meta" id="modalMeta"></div>
+        </div>
+        <button class="modal-close" id="modalClose" type="button" title="Kapat">✕</button>
+      </div>
 
-  <style>
-    :root{
-      --bg:#0f172a;
-      --card:#111827;
-      --text:#e5e7eb;
-      --muted:#9ca3af;
-      --accent:#22c55e;
-    }
-    body{
-      margin:0;
-      font-family:system-ui,-apple-system,Segoe UI,Roboto;
-      background:var(--bg);
-      color:var(--text);
-    }
-    header{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      padding:12px 16px;
-      border-bottom:1px solid #1f2937;
-    }
-    h1{font-size:18px;margin:0;}
-    .refresh{
-      cursor:pointer;
-      font-size:20px;
-      user-select:none;
-    }
-    #status{
-      padding:8px 16px;
-      font-size:13px;
-      color:var(--muted);
-    }
-    .filters{
-      display:flex;
-      gap:8px;
-      padding:8px 16px;
-      flex-wrap:wrap;
-    }
-    .filters button{
-      background:#1f2937;
-      border:none;
-      color:var(--text);
-      padding:6px 10px;
-      border-radius:6px;
-      cursor:pointer;
-      font-size:13px;
-    }
-    .filters button.active{
-      background:var(--accent);
-      color:#022c22;
-      font-weight:600;
-    }
-    .news{
-      display:grid;
-      grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
-      gap:12px;
-      padding:12px;
-    }
-    .card{
-      background:var(--card);
-      border-radius:10px;
-      padding:12px;
-      display:flex;
-      flex-direction:column;
-      gap:8px;
-    }
-    .card h3{
-      font-size:15px;
-      margin:0;
-      line-height:1.3;
-    }
-    .meta{
-      font-size:12px;
-      color:var(--muted);
-    }
-    .actions{
-      display:flex;
-      justify-content:space-between;
-      margin-top:auto;
-      gap:8px;
-    }
-    .btn-read{
-      flex:1;
-      background:var(--accent);
-      border:none;
-      border-radius:6px;
-      padding:6px;
-      font-weight:600;
-      cursor:pointer;
-    }
-    .btn-source{
-      background:#1f2937;
-      color:var(--muted);
-      border:none;
-      border-radius:6px;
-      padding:6px 10px;
-      cursor:pointer;
-      font-size:12px;
-    }
+      <div class="modal-sections">
+        <div class="section">
+          <h3>Uzun Özet</h3>
+          <p id="modalLong">—</p>
+        </div>
 
-    /* MODAL */
-    .modal{
-      position:fixed;
-      inset:0;
-      background:rgba(0,0,0,.6);
-      display:none;
-      z-index:50;
-    }
-    .modal.open{display:block;}
-    .modal-content{
-      background:var(--bg);
-      position:absolute;
-      inset:0;
-      overflow-y:auto;
-      padding:16px;
-    }
-    .modal h2{font-size:18px;}
-    .section{
-      margin-top:16px;
-    }
-    .section h4{
-      margin:0 0 6px 0;
-      color:var(--accent);
-    }
-    .close{
-      position:fixed;
-      top:10px;
-      right:12px;
-      font-size:22px;
-      cursor:pointer;
-    }
+        <div class="section">
+          <h3>Neden Önemli?</h3>
+          <ul class="bullets" id="modalWhy"></ul>
+        </div>
 
-    @media(min-width:768px){
-      .modal-content{
-        inset:5% 20%;
-        border-radius:12px;
-      }
-    }
-  </style>
-</head>
+        <div class="section">
+          <h3>Arka Plan</h3>
+          <ul class="bullets" id="modalBg"></ul>
+        </div>
 
-<body>
+        <div class="section">
+          <h3>Olası Etkiler</h3>
+          <ul class="bullets" id="modalImp"></ul>
+        </div>
 
-<header>
-  <h1>Haber Akışı</h1>
-  <div id="btnManualRefresh" class="refresh">⟳</div>
-</header>
-
-<div id="status">Yükleniyor…</div>
-
-<div class="filters" id="categoryFilters"></div>
-
-<div class="news" id="newsList"></div>
-
-<!-- MODAL -->
-<div id="modal" class="modal">
-  <div class="modal-content">
-    <div class="close" onclick="closeModal()">✕</div>
-    <h2 id="mTitle"></h2>
-
-    <div class="section">
-      <h4>Uzun Özet</h4>
-      <p id="mSummary"></p>
-    </div>
-
-    <div class="section">
-      <h4>Neden Önemli?</h4>
-      <p id="mWhy"></p>
-    </div>
-
-    <div class="section">
-      <h4>Olası Etkiler</h4>
-      <p id="mImpact"></p>
-    </div>
-
-    <div class="section">
-      <a id="mSource" target="_blank">Kaynağa Git</a>
+        <div class="modal-actions">
+          <a class="btn-read" id="modalSource" href="#" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
+          <button class="btn-ghost" id="modalCopy" type="button">Linki Kopyala</button>
+          <a class="btn-ghost" id="modalShareX" href="#" target="_blank" rel="noopener noreferrer">X’te Paylaş</a>
+          <a class="btn-ghost" id="modalShareWa" href="#" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+          <a class="btn-ghost" id="modalShareTg" href="#" target="_blank" rel="noopener noreferrer">Telegram</a>
+        </div>
+      </div>
     </div>
   </div>
-</div>
 
-<script>
-let ALL_ARTICLES=[];
-let CURRENT_CATEGORY="all";
+  <script>
+    let ALL_ARTICLES = [];
+    let CURRENT_SOURCE_FILTER = "all";
+    let CURRENT_CATEGORY_FILTER = "all";
 
-const CATEGORY_KEYWORDS={
-  finans:["borsa","faiz","enflasyon","dolar","euro","altın","hisse","kripto","bitcoin"],
-  spor:["maç","lig","gol","transfer"],
-  magazin:["ünlü","dizi","film"],
-  teknoloji:["yapay zeka","teknoloji","iphone","android"],
-  dunya:["abd","avrupa","israil","ukrayna"],
-  yerel:["yalova","çınarcık","altınova"]
-};
+    const AUTO_REFRESH_MS = 60 * 60 * 1000; // 60 dk
 
-function classifySource(a){
-  if(a.source_type==="tr") return {type:"tr"};
-  if(a.source_type==="intl") return {type:"intl"};
-  return {type:"intl"};
-}
+    const CATEGORY_LABELS = {
+      gundem: "Gündem",
+      dunya: "Dünya",
+      spor: "Spor",
+      teknoloji: "Teknoloji",
+      saglik: "Sağlık",
+      ekonomi: "Ekonomi",
+      finans: "Finans",
+      magazin: "Magazin",
+      bilim: "Bilim",
+      savunma: "Savunma / Askeri",
+      oyun: "Oyun / Dijital",
+      otomobil: "Otomobil",
+      yasam: "Yaşam"
+    };
 
-function classifyCategory(a){
-  if(a.category) return a.category;
-  const text=((a.title_tr||a.title||"")+" "+(a.summary_tr||"")).toLowerCase();
-  const financeSignals=CATEGORY_KEYWORDS.finans;
-  if(financeSignals.some(k=>text.includes(k))) return "finans";
+    const CATEGORY_KEYWORDS = {
+      spor: [" spor", "maç", "mac ", "lig ", "şampiyona", "gol ", "transfer", "hakem", "derbi", "futbol", "basketbol", "voleybol", "tenis"],
+      teknoloji: ["teknoloji", "uygulama", "yazılım", "yazilim", "telefon", "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ", "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar", "laptop", "apple", "samsung", "google", "microsoft", "uzay", "roket", "uydu"],
+      saglik: ["sağlık", "saglik", "hastane", "doktor", "virüs", "virus", "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı", "asi ", "covid", "koronavirüs", "koronavirus", "grip", "diyet", "obezite"],
+      ekonomi: ["ekonomi", "ekonomik", "büyüme", "buyume", "faiz", "enflasyon", "piyasa", "kriz", "ihracat", "ithalat", "bütçe", "butce", "vergi", "asgari ücret", "memur maaşı"],
+      finans: ["finans", "finance", "borsa", "hisse", "endeks", "bist", "nasdaq", "dow", "sp500", "s&p", "bitcoin", "btc", "ethereum", "eth", "kripto", "altın", "altin", "dolar", "euro", "swap", "tahvil", "bond", "bankac", "kredi", "mevduat", "fon", "etf"],
+      magazin: ["magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk", "ask ", "konser", "festival"],
+      bilim: ["bilim", "araştırma", "arastirma", "deney", "bilim insanı", "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya", "biyoloji", "genetik", "astronomi", "nasa", "teleskop"],
+      savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "nato", "güvenlik güçleri"],
+      oyun: ["oyun", "video oyunu", "playstation", "ps5", "xbox", "nintendo", "steam", "epic games", "mobil oyun", "e-spor", "espor", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "league of legends", "gta", "fifa"],
+      otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik", "sürücü", "surucu", "otoyol", "togg", "muayene", "lastik"],
+      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi"]
+    };
 
-  let best=null,score=0;
-  for(const c in CATEGORY_KEYWORDS){
-    let s=0;
-    CATEGORY_KEYWORDS[c].forEach(k=>{if(text.includes(k)) s++;});
-    if(s>score){score=s;best=c;}
-  }
-  return best||"gundem";
-}
+    function safeText(v) {
+      return (v ?? "").toString().trim();
+    }
 
-function renderFilters(){
-  const cats=["all",...new Set(ALL_ARTICLES.map(classifyCategory))];
-  const el=document.getElementById("categoryFilters");
-  el.innerHTML="";
-  cats.forEach(c=>{
-    const b=document.createElement("button");
-    b.textContent=c;
-    if(c===CURRENT_CATEGORY) b.classList.add("active");
-    b.onclick=()=>{CURRENT_CATEGORY=c;renderFilters();renderArticles();}
-    el.appendChild(b);
-  });
-}
+    function getDomain(url) {
+      try {
+        const u = new URL(url);
+        return u.hostname.replace(/^www\./, "");
+      } catch {
+        return "";
+      }
+    }
 
-function renderArticles(){
-  const list=document.getElementById("newsList");
-  list.innerHTML="";
-  ALL_ARTICLES.filter(a=>{
-    if(CURRENT_CATEGORY==="all") return true;
-    return classifyCategory(a)===CURRENT_CATEGORY;
-  }).forEach(a=>{
-    const c=document.createElement("div");
-    c.className="card";
-    c.innerHTML=`
-      <h3>${a.title_tr||a.title}</h3>
-      <div class="meta">${classifyCategory(a).toUpperCase()}</div>
-      <div class="actions">
-        <button class="btn-read">Haberi Oku</button>
-        <a class="btn-source" href="${a.url}" target="_blank">Kaynağa Git</a>
-      </div>`;
-    c.querySelector(".btn-read").onclick=()=>openModal(a);
-    list.appendChild(c);
-  });
-}
+    function classifySource(url) {
+      const d = getDomain(url);
+      if (!d) return { label: "Bilinmeyen", type: "intl" };
+      const isTr = d.endsWith(".tr");
+      return { label: d, type: isTr ? "tr" : "intl" };
+    }
 
-function openModal(a){
-  document.getElementById("mTitle").textContent=a.title_tr||a.title;
-  document.getElementById("mSummary").textContent=a.summary_tr_long||a.summary_tr||"";
-  document.getElementById("mWhy").textContent=a.why_important||"";
-  document.getElementById("mImpact").textContent=a.possible_impacts||"";
-  document.getElementById("mSource").href=a.url;
-  document.getElementById("modal").classList.add("open");
-}
+    // Öncelik: JSON içindeki rss_categories -> keyword skoru
+    function classifyCategory(article) {
+      const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
+      const text = (
+        (safeText(article.title_tr) || safeText(article.title)) + " " +
+        (safeText(article.summary_tr) || safeText(article.summary))
+      ).toLowerCase();
 
-function closeModal(){
-  document.getElementById("modal").classList.remove("open");
-}
+      const src = classifySource(article.url);
 
-<!-- SADECE KRİTİK KISMI GÖSTERİYORUM -->
-<script>
-async function loadNews(force=false){
-  const res = await fetch("./news/latest.json"+(force?"?t="+Date.now():""), {
-    cache:"no-store"
-  });
-  const data = await res.json();
-  ALL_ARTICLES = data.articles;
-  document.getElementById("status").innerText =
-    "Güncellendi: " + data.generated_at;
-  renderFilters();
-  renderArticles();
-}
+      const mapFromRss = (c) => {
+        if (c.includes("world") || c.includes("international") || c.includes("global") || c.includes("politic") ||
+            c.includes("us ") || c.includes("america") || c.includes("asia") || c.includes("europe") || c.includes("middle east") || c.includes("africa")) return "dunya";
 
-document.getElementById("btnManualRefresh").onclick = () => loadNews(true);
-</script>
+        // Finans/Ekonomi ayırımı
+        if (c.includes("finance") || c.includes("markets") || c.includes("market") || c.includes("money") || c.includes("invest")) return "finans";
+        if (c.includes("business") || c.includes("economy") || c.includes("economic")) return "ekonomi";
 
+        if (c.includes("sport") || c.includes("sports")) return "spor";
+        if (c.includes("technology") || c.includes("tech")) return "teknoloji";
+        if (c.includes("science") || c.includes("environment")) return "bilim";
+        if (c.includes("health") || c.includes("medical") || c.includes("medicine")) return "saglik";
+        if (c.includes("entertainment") || c.includes("arts") || c.includes("culture") || c.includes("magazin")) return "magazin";
 
+        if (c.includes("turkiye") || c.includes("türkiye") || c.includes("gündem") || c.includes("gundem") || c.includes("yerel")) return "gundem";
+        return null;
+      };
+
+      for (const rc of rssCats) {
+        const mapped = mapFromRss(rc);
+        if (mapped) return mapped;
+      }
+
+      let bestCat = null;
+      let bestScore = 0;
+      for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
+        let score = 0;
+        for (const k of keywords) {
+          if (text.includes(k)) score++;
+        }
+        if (score > bestScore) {
+          bestScore = score;
+          bestCat = cat;
+        }
+      }
+
+      if (!bestCat || bestScore === 0) {
+        return src.type === "intl" ? "dunya" : "gundem";
+      }
+      return bestCat;
+    }
+
+    function formatTRDate(isoString) {
+      try {
+        const d = new Date(isoString);
+        if (isNaN(d.getTime())) return "";
+        const dtf = new Intl.DateTimeFormat("tr-TR", {
+          timeZone: "Europe/Istanbul",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+        return dtf.format(d).replace(",", "");
+      } catch {
+        return "";
+      }
+    }
+
+    function setStatus(count, generatedAtIso) {
+      const status = document.getElementById("status");
+      const formatted = generatedAtIso ? formatTRDate(generatedAtIso) : "";
+      const when = formatted || formatTRDate(new Date().toISOString());
+      status.textContent = `Toplam ${count} haber • Son güncelleme: ${when} (TR)`;
+    }
+
+    function getTitleTR(a) {
+      return safeText(a.title_tr) || safeText(a.title) || "Başlık yok";
+    }
+    function getSummaryTR(a) {
+      return safeText(a.summary_tr) || safeText(a.summary) || "";
+    }
+    function getLongTR(a) {
+      return safeText(a.summary_tr_long) || safeText(a.summary_tr) || safeText(a.summary) || "—";
+    }
+
+    function renderArticles() {
+      const container = document.getElementById("haberler");
+      container.innerHTML = "";
+
+      const list = ALL_ARTICLES.filter(a => {
+        const src = classifySource(a.url);
+        if (CURRENT_SOURCE_FILTER === "tr" && src.type !== "tr") return false;
+        if (CURRENT_SOURCE_FILTER === "intl" && src.type !== "intl") return false;
+
+        const cat = classifyCategory(a);
+        if (CURRENT_CATEGORY_FILTER !== "all" && cat !== CURRENT_CATEGORY_FILTER) return false;
+
+        return true;
+      });
+
+      list.forEach((a) => {
+        const src = classifySource(a.url);
+        const catKey = classifyCategory(a);
+        const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+
+        const title = getTitleTR(a);
+        const summary = getSummaryTR(a);
+
+        const card = document.createElement("article");
+        card.className = "card";
+
+        // GÖRSEL KISMINA TEMEL YAPI OLARAK DOKUNMADIK; sadece referrerPolicy eklendi (engel olmasın diye)
+        const imgHtml = a.image
+          ? `<img src="${a.image}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`
+          : `<div>Görsel bulunamadı</div>`;
+
+        card.innerHTML = `
+          <div class="thumb-wrap">
+            ${imgHtml}
+          </div>
+          <div class="card-body">
+            <div class="meta-line">
+              <span class="badge-source">${src.label || (a.source || "Kaynak")}</span>
+              <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
+              <span class="badge-cat">${catLabel}</span>
+            </div>
+            <h2 class="headline">${escapeHtml(title)}</h2>
+            <p class="summary">${escapeHtml(summary)}</p>
+            <div class="actions">
+              <button class="btn-read" type="button" data-open="1">Haberi Oku (Özet)</button>
+              <a class="btn-ghost" href="${escapeAttr(a.url)}" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
+              <span class="source-url">${escapeHtml(a.url || "")}</span>
+            </div>
+          </div>
+        `;
+
+        // Kartın içinde modal açma
+        card.querySelector('[data-open="1"]').addEventListener("click", () => openModal(a));
+
+        // İstersen kartın gövdesine tıkla -> modal
+        card.querySelector(".card-body").addEventListener("dblclick", () => openModal(a));
+
+        container.appendChild(card);
+      });
+
+      if (list.length === 0) {
+        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";
+      }
+    }
+
+    // Modal logic
+    const backdrop = document.getElementById("modalBackdrop");
+    const modalClose = document.getElementById("modalClose");
+
+    function setBullets(elId, arr) {
+      const ul = document.getElementById(elId);
+      ul.innerHTML = "";
+
+      const list = Array.isArray(arr) ? arr : [];
+      if (!list.length) {
+        const li = document.createElement("li");
+        li.textContent = "—";
+        ul.appendChild(li);
+        return;
+      }
+      list.forEach(t => {
+        const li = document.createElement("li");
+        li.textContent = safeText(t) || "—";
+        ul.appendChild(li);
+      });
+    }
+
+    function openModal(a) {
+      const title = getTitleTR(a);
+      const longText = getLongTR(a);
+
+      const src = classifySource(a.url);
+      const catKey = classifyCategory(a);
+      const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+      const meta = `${safeText(a.source) || src.label || "Kaynak"} • ${catLabel} • ${getDomain(a.url || "")}`;
+
+      document.getElementById("modalTitle").textContent = title;
+      document.getElementById("modalMeta").textContent = meta;
+      document.getElementById("modalLong").textContent = longText;
+
+      setBullets("modalWhy", a.why_important);
+      setBullets("modalBg", a.background);
+      setBullets("modalImp", a.possible_impacts);
+
+      const url = safeText(a.url);
+      const modalSource = document.getElementById("modalSource");
+      modalSource.href = url || "#";
+
+      // Share links
+      const shareText = encodeURIComponent(title + " – Haber Robotu");
+      const shareUrl = encodeURIComponent(url || "https://newest-resu.github.io/");
+      document.getElementById("modalShareX").href = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`;
+      document.getElementById("modalShareWa").href = `https://wa.me/?text=${shareText}%20${shareUrl}`;
+      document.getElementById("modalShareTg").href = `https://t.me/share/url?url=${shareUrl}&text=${shareText}`;
+
+      const copyBtn = document.getElementById("modalCopy");
+      copyBtn.textContent = "Linki Kopyala";
+      copyBtn.onclick = async () => {
+        try {
+          await navigator.clipboard.writeText(url || "");
+          copyBtn.textContent = "Kopyalandı";
+          setTimeout(() => copyBtn.textContent = "Linki Kopyala", 1200);
+        } catch {
+          copyBtn.textContent = "Kopyalanamadı";
+          setTimeout(() => copyBtn.textContent = "Linki Kopyala", 1200);
+        }
+      };
+
+      backdrop.classList.add("open");
+      backdrop.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeModal() {
+      backdrop.classList.remove("open");
+      backdrop.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+
+    modalClose.addEventListener("click", closeModal);
+    backdrop.addEventListener("click", (e) => { if (e.target === backdrop) closeModal(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+    // --- Manuel yenileme + otomatik yenileme ---
+    async function loadNews({ force = false } = {}) {
+      const btn = document.getElementById("btnRefresh");
+      const status = document.getElementById("status");
+
+      try {
+        btn.classList.add("spin");
+        status.textContent = "Haberler yükleniyor...";
+
+        const url = "./news/latest.json" + (force ? ("?t=" + Date.now()) : "");
+        const res = await fetch(url, { cache: "no-store" });
+        if (!res.ok) {
+          status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
+          return;
+        }
+
+        const data = await res.json();
+        ALL_ARTICLES = Array.isArray(data.articles) ? data.articles : [];
+        setStatus(ALL_ARTICLES.length, data.generated_at || "");
+        renderArticles();
+      } catch (err) {
+        console.error(err);
+        status.textContent = "Haber yüklenirken hata oluştu: " + (err?.message || err);
+      } finally {
+        btn.classList.remove("spin");
+      }
+    }
+
+    // Manual refresh icon
+    document.getElementById("btnRefresh").addEventListener("click", () => {
+      loadNews({ force: true });
+    });
+
+    // Filter click handling
+    document.addEventListener("click", function (e) {
+      const srcBtn = e.target.closest(".btn-filter-source");
+      if (srcBtn) {
+        document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
+        srcBtn.classList.add("active");
+        CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";
+        renderArticles();
+        return;
+      }
+      const catBtn = e.target.closest(".btn-filter-cat");
+      if (catBtn) {
+        document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
+        catBtn.classList.add("active");
+        CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";
+        renderArticles();
+        return;
+      }
+    });
+
+    // XSS safe helpers
+    function escapeHtml(s) {
+      const str = (s ?? "").toString();
+      return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+    function escapeAttr(s) {
+      return escapeHtml(s).replace(/"/g, "&quot;");
+    }
+
+    // İlk yükleme (force: true cache kır)
+    loadNews({ force: true });
+
+    // Saatlik otomatik yenileme (sekme görünürse)
+    setInterval(() => {
+      if (document.visibilityState === "visible") loadNews({ force: true });
+    }, AUTO_REFRESH_MS);
+
+    // Sekmeye geri gelince de yenile
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") loadNews({ force: true });
+    });
+  </script>
 </body>
 </html>
