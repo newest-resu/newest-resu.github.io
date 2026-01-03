@@ -1,13 +1,15 @@
-import feedparser, hashlib, datetime
+import feedparser
+import hashlib
+import datetime
 from deep_translator import GoogleTranslator
 
 translator = GoogleTranslator(source="auto", target="tr")
 
-def tr(text):
+def tr(txt):
     try:
-        return translator.translate(text[:4000])
+        return translator.translate(txt[:3800])
     except:
-        return text
+        return txt
 
 def enrich(title, summary):
     base = f"{title}. {summary}"
@@ -118,41 +120,39 @@ feeds = [
 
 articles = []
 
-for feed in feeds:
-    if isinstance(feed, dict):
-        url = feed.get("url")
-        category_hint = feed.get("category", "")
-    else:
-        url = feed
-        category_hint = ""
-
-    if not url:
+for url in FEEDS:
+    try:
+        d = feedparser.parse(url)
+    except Exception as e:
+        print("RSS fetch error:", url, e)
         continue
 
-    d = feedparser.parse(url)
+    for entry in d.entries[:10]:
+        link = entry.get("link", "")
+        title = entry.get("title", "")
+        summary = entry.get("summary", entry.get("description", ""))
 
-    for e in d.entries[:5]:
-        uid = hashlib.md5(e.link.encode()).hexdigest()
-        title = e.title
-        summary = getattr(e, "summary", "")
+        uid = hashlib.sha1(link.encode()).hexdigest()
 
-        enrich_data = enrich(title, summary)
+        title_tr = tr(title)
+        summary_tr = tr(summary)
+
+        # Basit yerel “keyword”
+        is_local = "yalova" in title_tr.lower() or "yalova" in summary_tr.lower()
 
         articles.append({
             "id": uid,
+            "url": link,
             "title": title,
-            "title_tr": tr(title),
-            "summary_tr": tr(summary),
-            **enrich_data,
-            "url": e.link,
-            "published": datetime.datetime.utcnow().isoformat(),
-            "source_type": "intl" if "reuters" in e.link or "bbc" in e.link else "tr",
-            "category_hint": category_hint
+            "title_tr": title_tr,
+            "summary_tr": summary_tr,
+            "source_type": "intl",  # yabancı RSS olduğu için
+            "is_local": is_local
         })
-
 
 import json, os
 os.makedirs("news", exist_ok=True)
 
 with open("news/raw.json", "w", encoding="utf-8") as f:
+    import json
     json.dump(articles, f, ensure_ascii=False, indent=2)
