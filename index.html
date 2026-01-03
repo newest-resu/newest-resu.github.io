@@ -421,6 +421,19 @@
     }
 
     function classifyCategory(article){
+      const financeStrongSignals = [
+  "faiz", "enflasyon", "tcmb", "fed",
+  "borsa", "hisse", "dolar", "euro",
+  "altın", "kripto", "bitcoin", "ethereum"
+];
+
+const textLower = text.toLowerCase();
+const hasStrongFinance =
+  financeStrongSignals.some(k => textLower.includes(k));
+
+if (bestCat === "finans" && !hasStrongFinance) {
+  bestCat = null;
+}
       // build_latest.py zaten category basıyor; öncelik ona
       if (article.category && CATEGORY_LABELS[article.category]) return article.category;
 
