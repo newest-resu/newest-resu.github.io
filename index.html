@@ -271,19 +271,23 @@ function closeModal(){
   document.getElementById("modal").classList.remove("open");
 }
 
+<!-- SADECE KRİTİK KISMI GÖSTERİYORUM -->
+<script>
 async function loadNews(force=false){
-  const res=await fetch(`./news/latest.json${force?"?t="+Date.now():""}`,{cache:"no-store"});
-  const data=await res.json();
-  ALL_ARTICLES=data.articles||[];
-  document.getElementById("status").textContent=
-    `Toplam ${ALL_ARTICLES.length} haber • Güncellendi: ${data.generated_at}`;
+  const res = await fetch("./news/latest.json"+(force?"?t="+Date.now():""), {
+    cache:"no-store"
+  });
+  const data = await res.json();
+  ALL_ARTICLES = data.articles;
+  document.getElementById("status").innerText =
+    "Güncellendi: " + data.generated_at;
   renderFilters();
   renderArticles();
 }
 
-document.getElementById("btnManualRefresh").onclick=()=>loadNews(true);
-loadNews();
+document.getElementById("btnManualRefresh").onclick = () => loadNews(true);
 </script>
+
 
 </body>
 </html>
