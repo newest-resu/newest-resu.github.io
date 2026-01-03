@@ -479,6 +479,7 @@
           <button class="btn-filter btn-filter-cat" data-filter-cat="oyun">Oyun / Dijital</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="otomobil">Otomobil</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="yasam">Yaşam</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="yerel">Yerel</button>
         </div>
       </div>
 
@@ -582,7 +583,10 @@
       savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "nato", "güvenlik güçleri"],
       oyun: ["oyun", "video oyunu", "playstation", "ps5", "xbox", "nintendo", "steam", "epic games", "mobil oyun", "e-spor", "espor", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "league of legends", "gta", "fifa"],
       otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik", "sürücü", "surucu", "otoyol", "togg", "muayene", "lastik"],
-      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi"]
+      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi"],
+      "yerel": ["yalova","çınarcık","cinarcik","çiftlikköy","ciftlikkoy","termal","altınova","altinova","armutlu","yalova belediyesi","yalova valiliği","yalova valiligi","il genel meclisi","imar","altyapı","altyapi","su kesintisi","elektrik kesintisi","trafik düzenlemesi","trafik duzenlemesi",
+        "sahil","feribot","iskele","otogar","marmara","kocaeli","izmit","gebze","sakarya","adapazarı","adapazari","bursa","nilüfer","nilufer","osmangazi","yıldırım","yildirim","balıkesir","balikesir","bandırma","bandirma","edremit","tekirdağ","tekirdag","çorlu","corlu","çerkezköy","cerkezkoy",
+        "kırklareli","kirklareli","lüleburgaz","luleburgaz","edirne","istanbul","ibb","çanakkale","canakkale","biga","bilecik""imar", "altyapı", "altyapi","su kesintisi", "elektrik kesintisi","yerel etkinlik", "festival", "panayır"]
     };
 
     function safeText(v) {
@@ -598,12 +602,10 @@
       }
     }
 
-    function classifySource(url) {
-      const d = getDomain(url);
-      if (!d) return { label: "Bilinmeyen", type: "intl" };
-      const isTr = d.endsWith(".tr");
-      return { label: d, type: isTr ? "tr" : "intl" };
-    }
+    function classifySource(article){
+  const t = article.source_type || "";
+  return { label: t === "tr" ? "Türkiye Kaynak" : "Uluslararası Kaynak", type:t };
+   }
 
     // Öncelik: JSON içindeki rss_categories -> keyword skoru
     function classifyCategory(article) {
@@ -836,9 +838,18 @@
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
 
     // --- Manuel yenileme + otomatik yenileme ---
-    async function loadNews({ force = false } = {}) {
-      const btn = document.getElementById("btnRefresh");
-      const status = document.getElementById("status");
+    async function loadNews(force=false){
+  try {
+    const url = "./news/latest.json" + (force ? "?t=" + Date.now() : "");
+    const res = await fetch(url, {cache:"no-store"});
+    const data = await res.json();
+    ALL_ARTICLES = data.articles || [];
+    renderArticles();
+    setStatus(ALL_ARTICLES.length, data.generated_at);
+  } catch(e) {
+    document.getElementById("status").textContent = "Hata: " + e;
+  }
+}
 
       try {
         btn.classList.add("spin");
@@ -864,9 +875,9 @@
     }
 
     // Manual refresh icon
-    document.getElementById("btnRefresh").addEventListener("click", () => {
-      loadNews({ force: true });
-    });
+    document.getElementById("btnManualRefresh").addEventListener("click", () => {
+  loadNews(true);
+  });
 
     // Filter click handling
     document.addEventListener("click", function (e) {
