@@ -635,8 +635,11 @@ if (bestCat === "finans" && !hasStrongFinance) {
       }
     });
 
-    document.getElementById("btnManualRefresh").addEventListener("click", () => loadNews(true));
-
+    document.getElementById("btnManualRefresh")
+  .addEventListener("click", async () => {
+    document.getElementById("status").innerText = "Yenileniyor...";
+    await loadNews(true);
+  });
     document.getElementById("modalClose").addEventListener("click", closeModal);
     document.getElementById("modalBackdrop").addEventListener("click", (e) => {
       if (e.target === document.getElementById("modalBackdrop")) closeModal();
@@ -646,21 +649,26 @@ if (bestCat === "finans" && !hasStrongFinance) {
     });
 
     // İlk yükleme
-    loadNews(false);
+    async function loadNews(force=false){
+  try{
+    const url = force
+      ? `news/latest.json?ts=${Date.now()}`
+      : "news/latest.json";
 
-    // Saatlik otomatik kontrol
-    setInterval(() => {
-      if (document.visibilityState === "visible"){
-        loadNews(false);
-      }
-    }, AUTO_REFRESH_MS);
+    const res = await fetch(url, { cache: "no-store" });
+    const data = await res.json();
 
-    // Sekmeye dönünce kontrol
-    document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "visible"){
-        loadNews(false);
-      }
-    });
+    LAST_GENERATED_AT = data.generated_at || "";
+    ALL_ARTICLES = data.articles.map(normalizeArticle);
+
+    renderArticles();
+    setStatus(ALL_ARTICLES.length, LAST_GENERATED_AT, "ok");
+
+  }catch(e){
+    console.error(e);
+    setStatus(0, "", "error");
+  }
+}
   </script>
 </body>
 </html>
