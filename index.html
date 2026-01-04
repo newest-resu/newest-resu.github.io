@@ -19,7 +19,6 @@
           crossorigin="anonymous"></script>
 
   <style>
-    /* === SENİN ORİJİNAL CSS’İN === */
     :root {
       --bg: #0f172a;
       --bg-card: #020617;
@@ -28,47 +27,406 @@
       --accent: #facc15;
       --accent-soft: rgba(250, 204, 21, 0.12);
       --border: #1f2937;
+
       --modal-bg: rgba(2,6,23,.72);
       --panel: rgba(15,23,42,0.96);
+      --panel-2: rgba(15,23,42,0.90);
       --shadow: 0 24px 90px rgba(0,0,0,.62);
     }
     * { box-sizing: border-box; }
-    body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: radial-gradient(circle at top, #1f2937 0, #020617 55%); color: var(--text); }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #1f2937 0, #020617 55%);
+      color: var(--text);
+    }
     a { color: inherit; text-decoration: none; }
+
+    /* Sayfa düzeni: orta içerik + sağ/sol boşluklar (Auto Ads için) */
     .page { position: relative; min-height: 100vh; }
-    .shell { max-width: 1100px; margin: 0 auto; padding: 16px 12px 48px; }
-    header { display: flex; align-items: center; gap: 12px; padding: 16px 18px; border-radius: 14px; background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.98)); border: 1px solid rgba(148,163,184,0.18); box-shadow: 0 24px 80px rgba(0,0,0,0.55); position: sticky; top: 8px; z-index: 20; backdrop-filter: blur(16px); flex-wrap: wrap; }
-    .logo { width: 38px; height: 38px; border-radius: 12px; background: radial-gradient(circle at 20% 0%, #facc15, #f97316); display: flex; align-items: center; justify-content: center; color: #020617; font-weight: 900; font-size: 18px; box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45); }
+    .shell {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 16px 12px 48px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 18px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(15,23,42,0.95), rgba(15,23,42,0.98));
+      border: 1px solid rgba(148,163,184,0.18);
+      box-shadow: 0 24px 80px rgba(0,0,0,0.55);
+      position: sticky;
+      top: 8px;
+      z-index: 20;
+      backdrop-filter: blur(16px);
+      flex-wrap: wrap;
+    }
+    .logo {
+      width: 38px;
+      height: 38px;
+      border-radius: 12px;
+      background: radial-gradient(circle at 20% 0%, #facc15, #f97316);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #020617;
+      font-weight: 900;
+      font-size: 18px;
+      box-shadow: 0 0 0 2px rgba(15,23,42,0.9), 0 16px 45px rgba(250,204,21,0.45);
+      flex: 0 0 auto;
+    }
     .title-wrap { flex: 1 1 200px; min-width: 220px; }
     .title { font-size: 20px; font-weight: 700; letter-spacing: .02em; }
     .subtitle { font-size: 13px; color: var(--muted); margin-top: 2px; }
-    .top-nav { display: flex; flex-wrap: wrap; gap: 12px; font-size: 13px; margin-top: 8px; }
+    .top-nav {
+      display: flex; flex-wrap: wrap; gap: 12px;
+      font-size: 13px;
+      margin-top: 8px;
+    }
     .top-nav a { color: #facc15; }
-    .pill { font-size: 11px; padding: 4px 9px; border-radius: 999px; border: 1px solid rgba(148,163,184,0.35); color: var(--muted); background: rgba(15,23,42,0.9); white-space: nowrap; }
-    .toolbar { margin-top: 18px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: space-between; }
+    .pill {
+      font-size: 11px;
+      padding: 4px 9px;
+      border-radius: 999px;
+      border: 1px solid rgba(148,163,184,0.35);
+      color: var(--muted);
+      background: rgba(15,23,42,0.9);
+      white-space: nowrap;
+      flex: 0 0 auto;
+    }
+
+    /* Toolbar */
+    .toolbar {
+      margin-top: 18px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+    }
     .filters { display: flex; flex-wrap: wrap; gap: 8px; }
-    .btn-filter { border-radius: 999px; font-size: 13px; padding: 5px 12px; border: 1px solid var(--border); background: rgba(15,23,42,0.9); color: var(--muted); cursor: pointer; transition: all .15s ease; user-select: none; }
-    .btn-filter.active { background: var(--accent-soft); border-color: var(--accent); color: #fefce8; }
-    .status { font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 10px; flex-wrap: wrap; justify-content: flex-end; }
-    .icon-btn { width: 36px; height: 36px; border-radius: 999px; border: 1px solid rgba(148,163,184,0.30); background: rgba(15,23,42,0.9); cursor: pointer; display: inline-flex; align-items: center; justify-content: center; user-select: none; }
+    .btn-filter {
+      border-radius: 999px;
+      font-size: 13px;
+      padding: 5px 12px;
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--muted);
+      cursor: pointer;
+      transition: all .15s ease;
+      user-select: none;
+    }
+    .btn-filter.active {
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      color: #fefce8;
+    }
+    .status {
+      font-size: 12px;
+      color: var(--muted);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    /* Manuel yenileme ikon butonu */
+    .icon-btn {
+      width: 36px; height: 36px;
+      border-radius: 999px;
+      border: 1px solid rgba(148,163,184,0.30);
+      background: rgba(15,23,42,0.9);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform .12s ease, border-color .12s ease, background .12s ease;
+      user-select: none;
+    }
     .icon-btn:hover { transform: translateY(-1px); border-color: rgba(250,204,21,.55); }
+    .icon-btn:active { transform: translateY(0px) scale(.98); }
     .icon-btn svg { width: 18px; height: 18px; fill: none; stroke: #facc15; stroke-width: 2; }
     .icon-btn.spin svg { animation: spin .9s linear infinite; }
     @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
-    .grid { margin-top: 12px; display: flex; flex-direction: column; gap: 10px; }
-    .card { display: grid; grid-template-columns: 200px minmax(0,1fr); gap: 14px; padding: 12px; border-radius: 14px; background: rgba(15,23,42,0.96); border: 1px solid rgba(31,41,55,0.9); box-shadow: 0 14px 40px rgba(0,0,0,0.65); }
-    .thumb-wrap { border-radius: 10px; overflow: hidden; background: radial-gradient(circle at 10% 0%, #1f2937, #020617); border: 1px solid rgba(31,41,55,0.9); display: flex; align-items: center; justify-content: center; font-size: 11px; color: var(--muted); text-align: center; padding: 6px; min-height: 120px; }
-    .thumb-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
-    /* ===================== SENİN ORİJİNAL STİLLERİN DEVAMI ===================== */
+
+    /* Liste */
+    .grid {
+      margin-top: 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .card {
+      display: grid;
+      grid-template-columns: 200px minmax(0,1fr);
+      gap: 14px;
+      padding: 12px;
+      border-radius: 14px;
+      background: rgba(15,23,42,0.96);
+      border: 1px solid rgba(31,41,55,0.9);
+      box-shadow: 0 14px 40px rgba(0,0,0,0.65);
+    }
+    .thumb-wrap {
+      border-radius: 10px;
+      overflow: hidden;
+      background: radial-gradient(circle at 10% 0%, #1f2937, #020617);
+      border: 1px solid rgba(31,41,55,0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      color: var(--muted);
+      text-align: center;
+      padding: 6px;
+      min-height: 120px;
+    }
+    .thumb-wrap img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .card-body {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      min-width: 0;
+    }
+    .meta-line {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      font-size: 11px;
+      color: var(--muted);
+    }
+    .badge-source {
+      padding: 2px 7px;
+      border-radius: 999px;
+      border: 1px solid rgba(55,65,81,0.9);
+      background: rgba(15,23,42,0.9);
+    }
+    .badge-tag {
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(34,197,94,0.08);
+      border: 1px solid rgba(34,197,94,0.25);
+      color: #bbf7d0;
+    }
+    .badge-cat {
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(59,130,246,0.12);
+      border: 1px solid rgba(59,130,246,0.35);
+      color: #bfdbfe;
+    }
+    .headline {
+      font-size: 16px;
+      font-weight: 700;
+      color: #f9fafb;
+      margin: 2px 0;
+      line-height: 1.25;
+      word-break: break-word;
+    }
+    .summary {
+      font-size: 13px;
+      color: #d1d5db;
+      line-height: 1.45;
+      word-break: break-word;
+    }
+    .actions {
+      margin-top: 6px;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .btn-read {
+      font-size: 12px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      background: var(--accent);
+      color: #1f2937;
+      font-weight: 700;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      user-select: none;
+    }
+    .btn-read:hover { filter: brightness(1.08); }
+    .btn-ghost {
+      font-size: 12px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      border: 1px solid rgba(148,163,184,0.28);
+      background: rgba(15,23,42,0.88);
+      color: #e5e7eb;
+      cursor: pointer;
+      user-select: none;
+    }
+    .btn-ghost:hover { border-color: rgba(250,204,21,.45); }
+    .source-url {
+      font-size: 11px;
+      color: var(--muted);
+      max-width: 320px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Sağ/sol boşluklar: yazı yok */
+    .side-slot {
+      position: fixed;
+      top: 70px;
+      width: 260px;
+      height: calc(100vh - 100px);
+      border-radius: 14px;
+      border: 1px solid rgba(148,163,184,0.10);
+      background: rgba(15,23,42,0.08);
+      display: none;
+      z-index: 15;
+      overflow: hidden;
+      pointer-events: none;
+    }
+    .side-slot-left { left: 12px; }
+    .side-slot-right { right: 12px; }
+
+    /* Modal */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: var(--modal-bg);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 18px 12px;
+      z-index: 999;
+    }
+    .modal-backdrop.open { display: flex; }
+    .modal {
+      width: min(980px, 100%);
+      max-height: min(86vh, 860px);
+      overflow: auto;
+      border-radius: 16px;
+      background: linear-gradient(180deg, rgba(15,23,42,.98), rgba(2,6,23,.98));
+      border: 1px solid rgba(148,163,184,0.18);
+      box-shadow: var(--shadow);
+      padding: 14px;
+    }
+    .modal-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 6px 6px 10px;
+    }
+    .modal-title {
+      font-size: 18px;
+      font-weight: 800;
+      line-height: 1.25;
+      margin: 0;
+      word-break: break-word;
+    }
+    .modal-meta {
+      margin-top: 6px;
+      font-size: 12px;
+      color: var(--muted);
+      word-break: break-word;
+    }
+    .modal-close {
+      width: 36px; height: 36px;
+      border-radius: 999px;
+      border: 1px solid rgba(148,163,184,0.28);
+      background: rgba(15,23,42,0.88);
+      color: #e5e7eb;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      user-select: none;
+      flex: 0 0 auto;
+    }
+    .modal-close:hover { border-color: rgba(250,204,21,.45); }
+
+    .modal-sections {
+      display: grid;
+      gap: 10px;
+      padding: 0 6px 6px;
+    }
+    .section {
+      border-radius: 14px;
+      background: rgba(15,23,42,0.78);
+      border: 1px solid rgba(148,163,184,0.14);
+      padding: 12px;
+    }
+    .section h3 {
+      margin: 0 0 8px;
+      font-size: 13px;
+      letter-spacing: .02em;
+      color: #f9fafb;
+    }
+    .section p {
+      margin: 0;
+      color: #d1d5db;
+      font-size: 14px;
+      line-height: 1.6;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+    .bullets {
+      margin: 0;
+      padding-left: 18px;
+      color: #d1d5db;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+    .modal-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      align-items: center;
+      padding: 8px 6px 0;
+    }
+
+    footer {
+      margin-top: 26px;
+      font-size: 11px;
+      color: var(--muted);
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 768px) {
+      header { flex-direction: column; align-items: flex-start; }
+      .title { font-size: 18px; }
+      .subtitle { font-size: 12px; }
+      .card { grid-template-columns: 1fr; }
+      .thumb-wrap { height: 190px; }
+      .source-url { max-width: 100%; }
+    }
+    @media (min-width: 1400px) {
+      .shell { max-width: 900px; }
+      .side-slot { display: block; }
+    }
   </style>
 </head>
 
 <body>
   <div class="page">
+    <!-- SOL boş alan (yazı yok) -->
     <div class="side-slot side-slot-left" aria-hidden="true"></div>
+    <!-- SAĞ boş alan (yazı yok) -->
     <div class="side-slot side-slot-right" aria-hidden="true"></div>
-    <div class="shell">
 
+    <div class="shell">
       <header>
         <div class="logo">HR</div>
         <div class="title-wrap">
@@ -94,20 +452,20 @@
 
         <div class="status">
           <button class="icon-btn" id="btnRefresh" type="button" title="Yenile">
+            <!-- Refresh icon -->
             <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M20 12a8 8 0 1 1-2.34-5.66"></path>
-              <path d="M20 4v6h-6"></path>
+              <path d="M20 12a8 8 0 1 1-2.34-5.66" />
+              <path d="M20 4v6h-6" />
             </svg>
           </button>
           <span id="status">Haberler yükleniyor...</span>
         </div>
       </div>
 
-      <!-- Kategori filtreleri (Yerel eklendi) -->
+      <!-- Kategori filtreleri -->
       <div class="toolbar" style="margin-top:8px;">
         <div class="filters">
           <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="yerel">Yerel</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>
@@ -126,21 +484,28 @@
 
       <div class="grid" id="haberler"></div>
 
+      <!-- Paylaş bloğu -->
       <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">
         Bu sayfayı paylaş:
-        <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20güncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F" target="_blank" rel="noopener noreferrer" style="color:#facc15; margin-left:8px; text-decoration:none;">WhatsApp</a>
-        <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20güncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F" target="_blank" rel="noopener noreferrer" style="color:#facc15; margin-left:12px; text-decoration:none;">X (Twitter)</a>
-        <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20güncel%20haberler" target="_blank" rel="noopener noreferrer" style="color:#facc15; margin-left:12px; text-decoration:none;">Telegram</a>
+        <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F"
+           target="_blank" rel="noopener noreferrer"
+           style="color:#facc15; margin-left:8px; text-decoration:none;">WhatsApp</a>
+        <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F"
+           target="_blank" rel="noopener noreferrer"
+           style="color:#facc15; margin-left:12px; text-decoration:none;">X (Twitter)</a>
+        <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler"
+           target="_blank" rel="noopener noreferrer"
+           style="color:#facc15; margin-left:12px; text-decoration:none;">Telegram</a>
       </div>
 
       <footer>
-        İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır. Detaylar için modal içinden “Kaynağa Git” bağlantısını kullanabilirsiniz.
+        İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır.
+        Detaylar için modal içinden “Kaynağa Git” bağlantısını kullanabilirsiniz.
       </footer>
-
     </div>
   </div>
 
-  <!-- SENİN ORİJİNAL MODAL BLOĞUN (DEĞİŞMEDİ) -->
+  <!-- MODAL -->
   <div class="modal-backdrop" id="modalBackdrop" aria-hidden="true">
     <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
       <div class="modal-top">
@@ -150,11 +515,28 @@
         </div>
         <button class="modal-close" id="modalClose" type="button" title="Kapat">✕</button>
       </div>
+
       <div class="modal-sections">
-        <div class="section"><h3>Uzun Özet</h3><p id="modalLong">—</p></div>
-        <div class="section"><h3>Neden Önemli?</h3><ul class="bullets" id="modalWhy"></ul></div>
-        <div class="section"><h3>Arka Plan</h3><ul class="bullets" id="modalBg"></ul></div>
-        <div class="section"><h3>Olası Etkiler</h3><ul class="bullets" id="modalImp"></ul></div>
+        <div class="section">
+          <h3>Uzun Özet</h3>
+          <p id="modalLong">—</p>
+        </div>
+
+        <div class="section">
+          <h3>Neden Önemli?</h3>
+          <ul class="bullets" id="modalWhy"></ul>
+        </div>
+
+        <div class="section">
+          <h3>Arka Plan</h3>
+          <ul class="bullets" id="modalBg"></ul>
+        </div>
+
+        <div class="section">
+          <h3>Olası Etkiler</h3>
+          <ul class="bullets" id="modalImp"></ul>
+        </div>
+
         <div class="modal-actions">
           <a class="btn-read" id="modalSource" href="#" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
           <button class="btn-ghost" id="modalCopy" type="button">Linki Kopyala</button>
@@ -167,136 +549,371 @@
   </div>
 
   <script>
-/* === GLOBAL STATE === */
-let ALL_ARTICLES = [];
-let CURRENT_SOURCE_FILTER = "all";
-let CURRENT_CATEGORY_FILTER = "gundem";
-const AUTO_REFRESH_MS = 60 * 60 * 1000;
+    let ALL_ARTICLES = [];
+    let CURRENT_SOURCE_FILTER = "all";
+    let CURRENT_CATEGORY_FILTER = "all";
 
-/* === KEYWORDS === */
-const LOCAL_KEYWORDS = [
-  "belediye","valilik","kaymakam",
-  "istanbul","bursa","kocaeli","sakarya","yalova"
-];
+    const AUTO_REFRESH_MS = 60 * 60 * 1000; // 60 dk
 
-const CATEGORY_KEYWORDS = {
-  yerel: ["belediye","valilik","kaymakam","yerel"],
-  gundem: ["son dakika","açıklama","olay","karar"],
-  dunya: ["abd","avrupa","rusya","çin","israil","ukrayna"],
-  spor: ["maç","gol","lig","transfer"],
-  teknoloji: ["yapay zeka","teknoloji","apple","google","yazılım"],
-  saglik: ["sağlık","hastane","doktor","tedavi"],
-  ekonomi: ["enflasyon","faiz","merkez bankası"],
-  finans: ["borsa","hisse","kripto","bitcoin","ethereum"],
-  magazin: ["ünlü","dizi","film","sanatçı"],
-  bilim: ["araştırma","bilim","keşif"],
-  savunma: ["askeri","savunma","ordu","silah"],
-  oyun: ["oyun","steam","playstation","xbox"],
-  otomobil: ["otomobil","araba","tesla","elektrikli"],
-  yasam: ["yaşam","kültür","sosyal"]
-};
+    const CATEGORY_LABELS = {
+      gundem: "Gündem",
+      dunya: "Dünya",
+      spor: "Spor",
+      teknoloji: "Teknoloji",
+      saglik: "Sağlık",
+      ekonomi: "Ekonomi",
+      finans: "Finans",
+      magazin: "Magazin",
+      bilim: "Bilim",
+      savunma: "Savunma / Askeri",
+      oyun: "Oyun / Dijital",
+      otomobil: "Otomobil",
+      yasam: "Yaşam"
+    };
 
-const CATEGORY_LABELS = {
-  yerel:"Yerel",gundem:"Gündem",dunya:"Dünya",spor:"Spor",
-  teknoloji:"Teknoloji",saglik:"Sağlık",ekonomi:"Ekonomi",
-  finans:"Finans",magazin:"Magazin",bilim:"Bilim",
-  savunma:"Savunma / Askeri",oyun:"Oyun / Dijital",
-  otomobil:"Otomobil",yasam:"Yaşam"
-};
+    const CATEGORY_KEYWORDS = {
+      spor: [" spor", "maç", "mac ", "lig ", "şampiyona", "gol ", "transfer", "hakem", "derbi", "futbol", "basketbol", "voleybol", "tenis"],
+      teknoloji: ["teknoloji", "uygulama", "yazılım", "yazilim", "telefon", "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ", "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar", "laptop", "apple", "samsung", "google", "microsoft", "uzay", "roket", "uydu"],
+      saglik: ["sağlık", "saglik", "hastane", "doktor", "virüs", "virus", "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı", "asi ", "covid", "koronavirüs", "koronavirus", "grip", "diyet", "obezite"],
+      ekonomi: ["ekonomi", "ekonomik", "büyüme", "buyume", "faiz", "enflasyon", "piyasa", "kriz", "ihracat", "ithalat", "bütçe", "butce", "vergi", "asgari ücret", "memur maaşı"],
+      finans: ["finans", "finance", "borsa", "hisse", "endeks", "bist", "nasdaq", "dow", "sp500", "s&p", "bitcoin", "btc", "ethereum", "eth", "kripto", "altın", "altin", "dolar", "euro", "swap", "tahvil", "bond", "bankac", "kredi", "mevduat", "fon", "etf"],
+      magazin: ["magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu", "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk", "ask ", "konser", "festival"],
+      bilim: ["bilim", "araştırma", "arastirma", "deney", "bilim insanı", "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya", "biyoloji", "genetik", "astronomi", "nasa", "teleskop"],
+      savunma: ["savunma", "savunma sanayii", "ordu", "asker", "tatbikat", "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri", "deniz kuvvetleri", "operasyon", "terör", "teror", "nato", "güvenlik güçleri"],
+      oyun: ["oyun", "video oyunu", "playstation", "ps5", "xbox", "nintendo", "steam", "epic games", "mobil oyun", "e-spor", "espor", "gaming", "call of duty", "pubg", "fortnite", "valorant", "cs2", "league of legends", "gta", "fifa"],
+      otomobil: ["otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan", "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai", "trafik", "sürücü", "surucu", "otoyol", "togg", "muayene", "lastik"],
+      yasam: ["yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk", "ilişki", "iliski", "alışveriş", "alisveris", "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon", "hobi"]
+    };
 
-/* === HELPERS === */
-function safeText(v){ return (v ?? "").toString().toLowerCase(); }
-
-function getDomain(url){
-  try { return new URL(url).hostname.replace(/^www\./,""); }
-  catch { return ""; }
-}
-
-function classifySource(url){
-  const d = getDomain(url);
-  return { label: d, type: d.endsWith(".tr") ? "tr" : "intl" };
-}
-
-function classifyCategory(article){
-  const text =
-    safeText(article.title_tr || article.title) + " " +
-    safeText(article.summary_tr || article.summary);
-
-  const src = classifySource(article.url);
-
-  if (src.type === "tr") {
-    for (const k of LOCAL_KEYWORDS)
-      if (text.includes(k)) return "yerel";
-  }
-
-  let bestCat = "gundem";
-  let bestScore = 0;
-
-  for (const [cat, keys] of Object.entries(CATEGORY_KEYWORDS)) {
-    let score = 0;
-    keys.forEach(k => { if (text.includes(k)) score++; });
-    if (score > bestScore) {
-      bestScore = score;
-      bestCat = cat;
+    function safeText(v) {
+      return (v ?? "").toString().trim();
     }
-  }
-  return bestCat;
-}
 
-/* === FETCH === */
-async function loadNews(){
-  try {
-    const res = await fetch("news/latest.json?_=" + Date.now());
-    const data = await res.json();
+    function getDomain(url) {
+      try {
+        const u = new URL(url);
+        return u.hostname.replace(/^www\./, "");
+      } catch {
+        return "";
+      }
+    }
 
-    const articles = Array.isArray(data)
-      ? data
-      : (data.articles || []);
+    function classifySource(url) {
+      const d = getDomain(url);
+      if (!d) return { label: "Bilinmeyen", type: "intl" };
+      const isTr = d.endsWith(".tr");
+      return { label: d, type: isTr ? "tr" : "intl" };
+    }
 
-    ALL_ARTICLES = articles.map(a => ({
-      ...a,
-      category: classifyCategory(a)
-    }));
+    // Öncelik: JSON içindeki rss_categories -> keyword skoru
+    function classifyCategory(article) {
+      const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
+      const text = (
+        (safeText(article.title_tr) || safeText(article.title)) + " " +
+        (safeText(article.summary_tr) || safeText(article.summary))
+      ).toLowerCase();
 
-    renderArticles();
-  } catch (e) {
-    console.error("Haberler yüklenemedi:", e);
-  }
-}
+      const src = classifySource(article.url);
 
-/* === RENDER === */
-function renderArticles(){
-  const container = document.getElementById("news-container");
-  if (!container) return;
+      const mapFromRss = (c) => {
+        if (c.includes("world") || c.includes("international") || c.includes("global") || c.includes("politic") ||
+            c.includes("us ") || c.includes("america") || c.includes("asia") || c.includes("europe") || c.includes("middle east") || c.includes("africa")) return "dunya";
 
-  container.innerHTML = "";
+        // Finans/Ekonomi ayırımı
+        if (c.includes("finance") || c.includes("markets") || c.includes("market") || c.includes("money") || c.includes("invest")) return "finans";
+        if (c.includes("business") || c.includes("economy") || c.includes("economic")) return "ekonomi";
 
-  const filtered = ALL_ARTICLES.filter(a =>
-    CURRENT_CATEGORY_FILTER === "all" ||
-    a.category === CURRENT_CATEGORY_FILTER
-  );
+        if (c.includes("sport") || c.includes("sports")) return "spor";
+        if (c.includes("technology") || c.includes("tech")) return "teknoloji";
+        if (c.includes("science") || c.includes("environment")) return "bilim";
+        if (c.includes("health") || c.includes("medical") || c.includes("medicine")) return "saglik";
+        if (c.includes("entertainment") || c.includes("arts") || c.includes("culture") || c.includes("magazin")) return "magazin";
 
-  if (!filtered.length) {
-    container.innerHTML = "<p>Bu kategori için haber yok.</p>";
-    return;
-  }
+        if (c.includes("turkiye") || c.includes("türkiye") || c.includes("gündem") || c.includes("gundem") || c.includes("yerel")) return "gundem";
+        return null;
+      };
 
-  filtered.forEach(a => {
-    const div = document.createElement("div");
-    div.className = "news-card";
-    div.innerHTML = `
-      <h3>${a.title_tr || a.title}</h3>
-      <p>${a.summary_tr || a.summary || ""}</p>
-    `;
-    container.appendChild(div);
-  });
-}
+      for (const rc of rssCats) {
+        const mapped = mapFromRss(rc);
+        if (mapped) return mapped;
+      }
 
-/* === INIT === */
-document.addEventListener("DOMContentLoaded", () => {
-  loadNews();
-  setInterval(loadNews, AUTO_REFRESH_MS);
-});
-</script>
+      let bestCat = null;
+      let bestScore = 0;
+      for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
+        let score = 0;
+        for (const k of keywords) {
+          if (text.includes(k)) score++;
+        }
+        if (score > bestScore) {
+          bestScore = score;
+          bestCat = cat;
+        }
+      }
+
+      if (!bestCat || bestScore === 0) {
+        return src.type === "intl" ? "dunya" : "gundem";
+      }
+      return bestCat;
+    }
+
+    function formatTRDate(isoString) {
+      try {
+        const d = new Date(isoString);
+        if (isNaN(d.getTime())) return "";
+        const dtf = new Intl.DateTimeFormat("tr-TR", {
+          timeZone: "Europe/Istanbul",
+          year: "numeric",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        });
+        return dtf.format(d).replace(",", "");
+      } catch {
+        return "";
+      }
+    }
+
+    function setStatus(count, generatedAtIso) {
+      const status = document.getElementById("status");
+      const formatted = generatedAtIso ? formatTRDate(generatedAtIso) : "";
+      const when = formatted || formatTRDate(new Date().toISOString());
+      status.textContent = `Toplam ${count} haber • Son güncelleme: ${when} (TR)`;
+    }
+
+    function getTitleTR(a) {
+      return safeText(a.title_tr) || safeText(a.title) || "Başlık yok";
+    }
+    function getSummaryTR(a) {
+      return safeText(a.summary_tr) || safeText(a.summary) || "";
+    }
+    function getLongTR(a) {
+      return safeText(a.summary_tr_long) || safeText(a.summary_tr) || safeText(a.summary) || "—";
+    }
+
+    function renderArticles() {
+      const container = document.getElementById("haberler");
+      container.innerHTML = "";
+
+      const list = ALL_ARTICLES.filter(a => {
+        const src = classifySource(a.url);
+        if (CURRENT_SOURCE_FILTER === "tr" && src.type !== "tr") return false;
+        if (CURRENT_SOURCE_FILTER === "intl" && src.type !== "intl") return false;
+
+        const cat = classifyCategory(a);
+        if (CURRENT_CATEGORY_FILTER !== "all" && cat !== CURRENT_CATEGORY_FILTER) return false;
+
+        return true;
+      });
+
+      list.forEach((a) => {
+        const src = classifySource(a.url);
+        const catKey = classifyCategory(a);
+        const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+
+        const title = getTitleTR(a);
+        const summary = getSummaryTR(a);
+
+        const card = document.createElement("article");
+        card.className = "card";
+
+        // GÖRSEL KISMINA TEMEL YAPI OLARAK DOKUNMADIK; sadece referrerPolicy eklendi (engel olmasın diye)
+        const imgHtml = a.image
+          ? `<img src="${a.image}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">`
+          : `<div>Görsel bulunamadı</div>`;
+
+        card.innerHTML = `
+          <div class="thumb-wrap">
+            ${imgHtml}
+          </div>
+          <div class="card-body">
+            <div class="meta-line">
+              <span class="badge-source">${src.label || (a.source || "Kaynak")}</span>
+              <span class="badge-tag">${src.type === "tr" ? "Türkiye kaynağı" : "Uluslararası kaynak"}</span>
+              <span class="badge-cat">${catLabel}</span>
+            </div>
+            <h2 class="headline">${escapeHtml(title)}</h2>
+            <p class="summary">${escapeHtml(summary)}</p>
+            <div class="actions">
+              <button class="btn-read" type="button" data-open="1">Haberi Oku (Özet)</button>
+              <a class="btn-ghost" href="${escapeAttr(a.url)}" target="_blank" rel="noopener noreferrer">Kaynağa Git</a>
+              <span class="source-url">${escapeHtml(a.url || "")}</span>
+            </div>
+          </div>
+        `;
+
+        // Kartın içinde modal açma
+        card.querySelector('[data-open="1"]').addEventListener("click", () => openModal(a));
+
+        // İstersen kartın gövdesine tıkla -> modal
+        card.querySelector(".card-body").addEventListener("dblclick", () => openModal(a));
+
+        container.appendChild(card);
+      });
+
+      if (list.length === 0) {
+        container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için gösterilecek haber bulunamadı.</p>";
+      }
+    }
+
+    // Modal logic
+    const backdrop = document.getElementById("modalBackdrop");
+    const modalClose = document.getElementById("modalClose");
+
+    function setBullets(elId, arr) {
+      const ul = document.getElementById(elId);
+      ul.innerHTML = "";
+
+      const list = Array.isArray(arr) ? arr : [];
+      if (!list.length) {
+        const li = document.createElement("li");
+        li.textContent = "—";
+        ul.appendChild(li);
+        return;
+      }
+      list.forEach(t => {
+        const li = document.createElement("li");
+        li.textContent = safeText(t) || "—";
+        ul.appendChild(li);
+      });
+    }
+
+    function openModal(a) {
+      const title = getTitleTR(a);
+      const longText = getLongTR(a);
+
+      const src = classifySource(a.url);
+      const catKey = classifyCategory(a);
+      const catLabel = CATEGORY_LABELS[catKey] || "Gündem";
+      const meta = `${safeText(a.source) || src.label || "Kaynak"} • ${catLabel} • ${getDomain(a.url || "")}`;
+
+      document.getElementById("modalTitle").textContent = title;
+      document.getElementById("modalMeta").textContent = meta;
+      document.getElementById("modalLong").textContent = longText;
+
+      setBullets("modalWhy", a.why_important);
+      setBullets("modalBg", a.background);
+      setBullets("modalImp", a.possible_impacts);
+
+      const url = safeText(a.url);
+      const modalSource = document.getElementById("modalSource");
+      modalSource.href = url || "#";
+
+      // Share links
+      const shareText = encodeURIComponent(title + " – Haber Robotu");
+      const shareUrl = encodeURIComponent(url || "https://newest-resu.github.io/");
+      document.getElementById("modalShareX").href = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`;
+      document.getElementById("modalShareWa").href = `https://wa.me/?text=${shareText}%20${shareUrl}`;
+      document.getElementById("modalShareTg").href = `https://t.me/share/url?url=${shareUrl}&text=${shareText}`;
+
+      const copyBtn = document.getElementById("modalCopy");
+      copyBtn.textContent = "Linki Kopyala";
+      copyBtn.onclick = async () => {
+        try {
+          await navigator.clipboard.writeText(url || "");
+          copyBtn.textContent = "Kopyalandı";
+          setTimeout(() => copyBtn.textContent = "Linki Kopyala", 1200);
+        } catch {
+          copyBtn.textContent = "Kopyalanamadı";
+          setTimeout(() => copyBtn.textContent = "Linki Kopyala", 1200);
+        }
+      };
+
+      backdrop.classList.add("open");
+      backdrop.setAttribute("aria-hidden", "false");
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeModal() {
+      backdrop.classList.remove("open");
+      backdrop.setAttribute("aria-hidden", "true");
+      document.body.style.overflow = "";
+    }
+
+    modalClose.addEventListener("click", closeModal);
+    backdrop.addEventListener("click", (e) => { if (e.target === backdrop) closeModal(); });
+    document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeModal(); });
+
+    // --- Manuel yenileme + otomatik yenileme ---
+    async function loadNews({ force = false } = {}) {
+      const btn = document.getElementById("btnRefresh");
+      const status = document.getElementById("status");
+
+      try {
+        btn.classList.add("spin");
+        status.textContent = "Haberler yükleniyor...";
+
+        const url = "./news/latest.json" + (force ? ("?t=" + Date.now()) : "");
+        const res = await fetch(url, { cache: "no-store" });
+        if (!res.ok) {
+          status.textContent = "news/latest.json yüklenemedi (HTTP " + res.status + ")";
+          return;
+        }
+
+        const data = await res.json();
+        ALL_ARTICLES = Array.isArray(data.articles) ? data.articles : [];
+        setStatus(ALL_ARTICLES.length, data.generated_at || "");
+        renderArticles();
+      } catch (err) {
+        console.error(err);
+        status.textContent = "Haber yüklenirken hata oluştu: " + (err?.message || err);
+      } finally {
+        btn.classList.remove("spin");
+      }
+    }
+
+    // Manual refresh icon
+    document.getElementById("btnRefresh").addEventListener("click", () => {
+      loadNews({ force: true });
+    });
+
+    // Filter click handling
+    document.addEventListener("click", function (e) {
+      const srcBtn = e.target.closest(".btn-filter-source");
+      if (srcBtn) {
+        document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
+        srcBtn.classList.add("active");
+        CURRENT_SOURCE_FILTER = srcBtn.getAttribute("data-filter-source") || "all";
+        renderArticles();
+        return;
+      }
+      const catBtn = e.target.closest(".btn-filter-cat");
+      if (catBtn) {
+        document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
+        catBtn.classList.add("active");
+        CURRENT_CATEGORY_FILTER = catBtn.getAttribute("data-filter-cat") || "all";
+        renderArticles();
+        return;
+      }
+    });
+
+    // XSS safe helpers
+    function escapeHtml(s) {
+      const str = (s ?? "").toString();
+      return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+    }
+    function escapeAttr(s) {
+      return escapeHtml(s).replace(/"/g, "&quot;");
+    }
+
+    // İlk yükleme (force: true cache kır)
+    loadNews({ force: true });
+
+    // Saatlik otomatik yenileme (sekme görünürse)
+    setInterval(() => {
+      if (document.visibilityState === "visible") loadNews({ force: true });
+    }, AUTO_REFRESH_MS);
+
+    // Sekmeye geri gelince de yenile
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "visible") loadNews({ force: true });
+    });
+  </script>
 </body>
 </html>
