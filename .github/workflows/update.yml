@@ -2,7 +2,7 @@ name: Update News Feed
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Her saat başı
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,14 +25,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser requests
 
-      - name: Generate news JSON
+      - name: Generate raw news JSON
         run: |
           python news/generator.py
 
-      - name: Check output exists
+      - name: Validate raw JSON
         run: |
           if [ ! -s news/latest.json ]; then
-            echo "latest.json oluşturulamadı veya boş!"
+            echo "news/latest.json boş veya oluşturulamadı"
+            exit 1
+          fi
+
+      - name: Build public JSON
+        run: |
+          python scripts/build_latest.py
+
+      - name: Validate public JSON
+        run: |
+          if [ ! -s latest.json ]; then
+            echo "latest.json oluşturulamadı"
             exit 1
           fi
 
@@ -41,7 +52,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add news/latest.json
+          git add news/latest.json latest.json
           git diff --cached --quiet && echo "Değişiklik yok." && exit 0
           git commit -m "Auto update news feed"
 
