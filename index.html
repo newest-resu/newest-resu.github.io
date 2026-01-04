@@ -249,7 +249,11 @@ async function loadNews(){
     const res = await fetch("news/latest.json?_=" + Date.now());
     const data = await res.json();
 
-    ALL_ARTICLES = data.map(a => ({
+    const articles = Array.isArray(data)
+      ? data
+      : (data.articles || []);
+
+    ALL_ARTICLES = articles.map(a => ({
       ...a,
       category: classifyCategory(a)
     }));
