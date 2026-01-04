@@ -24,7 +24,6 @@ RSS_SOURCES = [
     ("https://rss.cnn.com/rss/edition.rss", "CNN Intl"),
     ("https://www.aljazeera.com/xml/rss/all.xml", "Al Jazeera"),
     ("https://feeds.reuters.com/reuters/topNews", "Reuters"),
-    RSS_SOURCES = [
     # =========================
     # DOĞRUDAN RSS (TR) – Çeşitlilik
     # =========================
