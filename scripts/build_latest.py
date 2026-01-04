@@ -140,7 +140,8 @@ def get_domain(url: str) -> str:
     try:
         host = urlparse(url).hostname or ""
         return host.replace("www.", "")
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         return ""
 
 def is_foreign(url: str) -> bool:
@@ -158,14 +159,16 @@ def extract_image(entry) -> str:
             u = entry.media_content[0].get("url")
             if u:
                 return u
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         pass
     try:
         if "media_thumbnail" in entry and entry.media_thumbnail:
             u = entry.media_thumbnail[0].get("url")
             if u:
                 return u
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         pass
     try:
         if "links" in entry:
@@ -174,14 +177,16 @@ def extract_image(entry) -> str:
                     u = l.get("href")
                     if u:
                         return u
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         pass
     try:
         s = entry.get("summary", "") or ""
         m = re.search(r'<img[^>]+src="([^"]+)"', s, re.IGNORECASE)
         if m:
             return m.group(1)
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         pass
     return ""
 
@@ -203,7 +208,8 @@ def translate_to_tr(text: str) -> str:
     try:
         from deep_translator import GoogleTranslator  # type: ignore
         return GoogleTranslator(source="auto", target="tr").translate(t[:2500])
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         pass
 
     # MyMemory fallback
@@ -217,7 +223,8 @@ def translate_to_tr(text: str) -> str:
         if "MYMEMORY WARNING" in up or "YOU USED ALL AVAILABLE FREE TRANSLATIONS" in up:
             return t
         return tr or t
-    except Exception:
+    except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
         return t
 
 # ------------------------------------------------------------
@@ -645,7 +652,8 @@ def main():
                 try:
                     if "tags" in e and e.tags:
                         rss_cats = [safe(t.get("term", "")).lower() for t in e.tags if safe(t.get("term", ""))]
-                except Exception:
+                except Exception as e:
+                    print(f"RSS hata: {url} -> {e}")
                     rss_cats = []
 
                 img = extract_image(e)
@@ -683,8 +691,8 @@ def main():
                 if len(articles) >= TOTAL_LIMIT:
                     break
 
-        except Exception as ex:
-            print("RSS hata:", url, ex)
+        except Exception as e:
+        print(f"RSS hata: {url} -> {e}")
 
         if len(articles) >= TOTAL_LIMIT:
             break
