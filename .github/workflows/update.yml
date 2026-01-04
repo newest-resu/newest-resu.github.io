@@ -1,35 +1,46 @@
-name: Update News
+name: Update news
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Saatte 1
+    - cron: "0 * * * *" # Her saat başı (UTC)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  run-news:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.10"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
-          pip install feedparser requests beautifulsoup4 deep-translator
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Generate news
+      - name: Run generator
         run: |
-          python news/generator.py
           python scripts/build_latest.py
 
-      - name: Commit & Push
+      - name: Commit changes
         run: |
-          git config user.name "news-bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add news/latest.json
-          git commit -m "update news" || echo "No changes"
-          git push
+          git commit -m "Update news" || echo "Nothing to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
