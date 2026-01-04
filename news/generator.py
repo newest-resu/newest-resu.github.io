@@ -1,178 +1,154 @@
-import os
+import feedparser
 import json
-import re
-from datetime import datetime, timedelta
-import xml.etree.ElementTree as ET
-import urllib.parse
+import hashlib
+import time
+import requests
+from datetime import datetime, timezone
 from urllib.parse import urlparse
 
-import requests
+# ================== AYARLAR ==================
+OUTPUT_FILE = "news/latest.json"
+MAX_ARTICLES = 250
+TIMEOUT = 15
 
-# news klasörünü garanti altına al
-os.makedirs("news", exist_ok=True)
-
-# RSS KAYNAKLARI (genel + kategori bazlı)
-RSS_SOURCES = [
-    # BBC genel ve dünya
-    "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "https://feeds.bbci.co.uk/news/rss.xml",
-
-    # BBC tematik: teknoloji, bilim, sağlık, ekonomi
-    "https://feeds.bbci.co.uk/news/technology/rss.xml",
-    "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-    "https://feeds.bbci.co.uk/news/health/rss.xml",
-    "https://feeds.bbci.co.uk/news/business/rss.xml",
-
-    # Türkiye genel
-    "https://www.hurriyet.com.tr/rss/anasayfa",
-    "https://www.cnnturk.com/feed/rss/all/news",
-
-    # CNN Türk kategori bazlı RSS (spor, ekonomi, teknoloji, sağlık, magazin, otomobil, yaşam vs.)
-    "https://www.cnnturk.com/feed/rss/turkiye/news",
-    "https://www.cnnturk.com/feed/rss/dunya/news",
-    "https://www.cnnturk.com/feed/rss/ekonomi/news",
-    "https://www.cnnturk.com/feed/rss/spor/news",
-    "https://www.cnnturk.com/feed/rss/bilim-teknoloji/news",
-    "https://www.cnnturk.com/feed/rss/saglik/news",
-    "https://www.cnnturk.com/feed/rss/magazin/news",
-    "https://www.cnnturk.com/feed/rss/otomobil/news",
-    "https://www.cnnturk.com/feed/rss/yasam/news",
-]
-
-def clean_html(text: str) -> str:
-    if not text:
-        return ""
-    return re.sub(r"<.*?>", " ", text).replace("&nbsp;", " ").strip()
-
-def extract_image(item):
-    # media:content
-    media = item.find("{http://search.yahoo.com/mrss/}content")
-    if media is not None and "url" in media.attrib:
-        return media.attrib["url"]
-
-    # media:thumbnail
-    thumb = item.find("{http://search.yahoo.com/mrss/}thumbnail")
-    if thumb is not None and "url" in thumb.attrib:
-        return thumb.attrib["url"]
-
-    # enclosure
-    enclosure = item.find("enclosure")
-    if enclosure is not None and "url" in enclosure.attrib:
-        return enclosure.attrib["url"]
-
-    # description içinden <img> ara
-    desc = item.findtext("description") or ""
-    img = re.search(r'<img[^>]+src="([^"]+)"', desc)
-    if img:
-        return img.group(1)
-
-    return ""
-
-def is_foreign(url: str) -> bool:
-    """Sonu .tr ile bitmeyen domainleri 'yabancı' say."""
-    try:
-        d = urlparse(url).hostname or ""
-        d = d.replace("www.", "")
-        return not d.endswith(".tr")
-    except Exception:
-        return True
-
-# Çeviri ile ilgili ayarlar
-TRANSLATION_CALLS = 0
-TRANSLATION_LIMIT = 60  # tek çalışmada maksimum çeviri isteği
-
-def translate_to_tr(text: str) -> str:
-    """MyMemory API ile EN -> TR çeviri. Limit ve WARNING filtreli."""
-    global TRANSLATION_CALLS
-    if not text:
-        return text
-    if TRANSLATION_CALLS >= TRANSLATION_LIMIT:
-        return text
-
-    try:
-        TRANSLATION_CALLS += 1
-        query = urllib.parse.quote(text[:450])  # çok uzun metinleri kısalt
-        url = f"https://api.mymemory.translated.net/get?q={query}&langpair=en|tr"
-        r = requests.get(url, timeout=10)
-        data = r.json()
-        translated = (data.get("responseData", {}) or {}).get("translatedText") or ""
-
-        # Günlük limit dolduğunda gelen WARNING metnini tamamen yoksay
-        upper = translated.upper()
-        if "MYMEMORY WARNING" in upper or "YOU USED ALL AVAILABLE FREE TRANSLATIONS" in upper:
-            print("Çeviri limit uyarısı alındı, orijinal metin kullanılacak.")
-            return text
-
-        return translated or text
-    except Exception as e:
-        print("Çeviri hatası:", e)
-        return text
-
-articles = []
-seen_links = set()  # aynı haberi birden fazla kaynaktan çekersek tekrarı önlemek için
-
-for src in RSS_SOURCES:
-    try:
-        print("Kaynak:", src)
-        resp = requests.get(src, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
-        resp.raise_for_status()
-        root = ET.fromstring(resp.content)
-
-        items = root.findall(".//item")
-        count_from_source = 0
-
-        for item in items[:12]:  # her kaynaktan en fazla 12 haber al
-            title = (item.findtext("title") or "").strip()
-            link  = (item.findtext("link") or "").strip()
-            desc  = item.findtext("description") or ""
-
-            if not title or not link:
-                continue
-
-            # Aynı link daha önce eklendiyse atla
-            if link in seen_links:
-                continue
-            seen_links.add(link)
-
-            summary = clean_html(desc)
-            image   = extract_image(item)
-
-            # RSS category etiketlerini oku
-            rss_categories = [ (c.text or "").lower() for c in item.findall("category") if c.text ]
-
-            # Kaynağa göre çeviri kararı
-            if is_foreign(link):
-                title_tr   = translate_to_tr(title)
-                summary_tr = translate_to_tr(summary)
-            else:
-                title_tr, summary_tr = title, summary
-
-            articles.append({
-                "title": title_tr,
-                "summary": summary_tr,
-                "image": image,
-                "url": link,
-                "rss_categories": rss_categories
-            })
-            count_from_source += 1
-
-        print(f"{src} -> {count_from_source} haber eklendi.")
-
-    except Exception as e:
-        print("Hata:", src, e)
-
-print("TOPLAM HABER:", len(articles))
-
-# Türkiye yerel saati: UTC + 3, sade format
-now_tr = datetime.utcnow() + timedelta(hours=3)
-generated_str = now_tr.strftime("%Y-%m-%d %H.%M")
-
-output = {
-    "generated_at": generated_str,
-    "articles": articles
+HEADERS = {
+    "User-Agent": "HaberRobotuBot/1.0 (+https://newest-resu.github.io)"
 }
 
-with open("news/latest.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
+RSS_SOURCES = [
+    # --- TÜRKİYE ---
+    ("https://www.trthaber.com/rss/anasayfa.xml", "TRT Haber"),
+    ("https://www.aa.com.tr/tr/rss/default?cat=guncel", "Anadolu Ajansı"),
+    ("https://www.cnnturk.com/feed/rss/all/news", "CNN Türk"),
+    ("https://www.ntv.com.tr/rss", "NTV"),
 
-print("news/latest.json yazıldı.")
+    # --- YEREL ---
+    ("https://www.istanbul.gov.tr/rss", "İstanbul Valiliği"),
+
+    # --- YABANCI ---
+    ("https://feeds.bbci.co.uk/news/rss.xml", "BBC"),
+    ("https://rss.cnn.com/rss/edition.rss", "CNN Intl"),
+    ("https://www.aljazeera.com/xml/rss/all.xml", "Al Jazeera"),
+    ("https://feeds.reuters.com/reuters/topNews", "Reuters"),
+]
+
+# ================== KATEGORİ ==================
+KEYWORDS = {
+    "yerel": ["belediye", "valilik", "il ", "ilçe", "mahall", "yerel"],
+    "finans": ["borsa", "bitcoin", "kripto", "altın", "dolar", "euro", "hisse", "bist", "nasdaq", "bank"],
+    "ekonomi": ["ekonomi", "enflasyon", "faiz", "bütçe", "asgari", "vergi", "maaş"],
+    "spor": ["spor", "maç", "lig", "transfer", "gol"],
+    "teknoloji": ["teknoloji", "yapay zeka", "android", "ios", "çip", "robot"],
+    "saglik": ["sağlık", "hastane", "doktor", "ilaç", "virüs"],
+    "bilim": ["bilim", "araştırma", "uzay", "nasa", "deney"],
+    "magazin": ["magazin", "ünlü", "dizi", "film", "oyuncu"],
+}
+
+# ================== YARDIMCI ==================
+def domain(url):
+    try:
+        return urlparse(url).hostname or ""
+    except:
+        return ""
+
+def classify(article):
+    text = f"{article['title']} {article['summary']}".lower()
+    dom = domain(article["url"])
+
+    scores = {k: 0 for k in KEYWORDS}
+    for cat, words in KEYWORDS.items():
+        for w in words:
+            if w in text:
+                scores[cat] += 1
+
+    best = max(scores, key=scores.get)
+    if scores[best] > 0:
+        return best
+
+    if dom.endswith(".tr"):
+        return "gundem"
+    return "dunya"
+
+def make_long_summary(summary):
+    if len(summary) < 120:
+        return summary
+    return summary + " Bu gelişme kamuoyu ve ilgili sektörler açısından yakından takip ediliyor."
+
+def why_important(cat):
+    base = {
+        "finans": [
+            "Piyasalarda fiyatlamaları etkileyebilir",
+            "Yatırımcı davranışlarını değiştirebilir"
+        ],
+        "ekonomi": [
+            "Vatandaşın alım gücünü doğrudan etkiler",
+            "Makroekonomik dengeler açısından önemlidir"
+        ],
+        "yerel": [
+            "Bölge halkını doğrudan ilgilendiriyor",
+            "Yerel yönetim kararlarını etkileyebilir"
+        ],
+    }
+    return base.get(cat, ["Kamuoyunu ilgilendiren bir gelişme"])
+
+# ================== ANA ==================
+def generate():
+    articles = []
+    seen = set()
+
+    for feed_url, source in RSS_SOURCES:
+        try:
+            r = requests.get(feed_url, headers=HEADERS, timeout=TIMEOUT)
+            feed = feedparser.parse(r.content)
+        except Exception as e:
+            print("RSS hata:", feed_url, e)
+            continue
+
+        for e in feed.entries:
+            url = getattr(e, "link", "")
+            if not url:
+                continue
+
+            uid = hashlib.md5(url.encode()).hexdigest()
+            if uid in seen:
+                continue
+            seen.add(uid)
+
+            title = getattr(e, "title", "").strip()
+            summary = getattr(e, "summary", "").strip()
+
+            article = {
+                "id": uid,
+                "title": title,
+                "title_tr": title,
+                "summary": summary[:350],
+                "summary_tr": summary[:350],
+                "summary_tr_long": make_long_summary(summary[:350]),
+                "url": url,
+                "image": "",
+                "source": source,
+                "published_at": getattr(e, "published", ""),
+            }
+
+            cat = classify(article)
+            article["category"] = cat
+            article["why_important"] = why_important(cat)
+            article["background"] = ["Haber otomatik RSS taramasıyla derlenmiştir."]
+            article["possible_impacts"] = ["Kamuoyu ve ilgili sektörler üzerinde etkiler yaratabilir."]
+
+            articles.append(article)
+            if len(articles) >= MAX_ARTICLES:
+                break
+
+    data = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "articles": articles
+    }
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    print(f"{len(articles)} haber üretildi.")
+
+if __name__ == "__main__":
+    generate()
