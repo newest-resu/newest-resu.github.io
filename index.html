@@ -167,60 +167,132 @@
   </div>
 
   <script>
-    /* SENİN ORİJİNAL JS KODUNUN ÜZERİNE SADECE GEREKLİ DÜZELTMELER */
-    let ALL_ARTICLES = [];
-    let CURRENT_SOURCE_FILTER = "all";
-    let CURRENT_CATEGORY_FILTER = "all";
-    const AUTO_REFRESH_MS = 60 * 60 * 1000;
+/* === GLOBAL STATE === */
+let ALL_ARTICLES = [];
+let CURRENT_SOURCE_FILTER = "all";
+let CURRENT_CATEGORY_FILTER = "gundem";
+const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
-    const LOCAL_KEYWORDS = [
-      "belediye","valilik","kaymakam","istanbul","bursa","kocaeli","sakarya","yalova"
-    ];
+/* === KEYWORDS === */
+const LOCAL_KEYWORDS = [
+  "belediye","valilik","kaymakam",
+  "istanbul","bursa","kocaeli","sakarya","yalova"
+];
 
-    const CATEGORY_LABELS = {
-      yerel:"Yerel",gundem:"Gündem",dunya:"Dünya",spor:"Spor",teknoloji:"Teknoloji",
-      saglik:"Sağlık",ekonomi:"Ekonomi",finans:"Finans",magazin:"Magazin",bilim:"Bilim",
-      savunma:"Savunma / Askeri",oyun:"Oyun / Dijital",otomobil:"Otomobil",yasam:"Yaşam"
-    };
+const CATEGORY_KEYWORDS = {
+  yerel: ["belediye","valilik","kaymakam","yerel"],
+  gundem: ["son dakika","açıklama","olay","karar"],
+  dunya: ["abd","avrupa","rusya","çin","israil","ukrayna"],
+  spor: ["maç","gol","lig","transfer"],
+  teknoloji: ["yapay zeka","teknoloji","apple","google","yazılım"],
+  saglik: ["sağlık","hastane","doktor","tedavi"],
+  ekonomi: ["enflasyon","faiz","merkez bankası"],
+  finans: ["borsa","hisse","kripto","bitcoin","ethereum"],
+  magazin: ["ünlü","dizi","film","sanatçı"],
+  bilim: ["araştırma","bilim","keşif"],
+  savunma: ["askeri","savunma","ordu","silah"],
+  oyun: ["oyun","steam","playstation","xbox"],
+  otomobil: ["otomobil","araba","tesla","elektrikli"],
+  yasam: ["yaşam","kültür","sosyal"]
+};
 
-    function safeText(v){return (v??"").toString().trim();}
-    function getDomain(url){try{const u=new URL(url);return u.hostname.replace(/^www\./,"");}catch{return"";}}
-    function classifySource(url){const d=getDomain(url);return{label:d,type:d.endsWith(".tr")?"tr":"intl"};}
+const CATEGORY_LABELS = {
+  yerel:"Yerel",gundem:"Gündem",dunya:"Dünya",spor:"Spor",
+  teknoloji:"Teknoloji",saglik:"Sağlık",ekonomi:"Ekonomi",
+  finans:"Finans",magazin:"Magazin",bilim:"Bilim",
+  savunma:"Savunma / Askeri",oyun:"Oyun / Dijital",
+  otomobil:"Otomobil",yasam:"Yaşam"
+};
 
-    function classifyCategory(article){
-      const text=((safeText(article.title_tr)|| safeText(article.title))+" "+(safeText(article.summary_tr)|| safeText(article.summary)).toLowerCase());
-      const src=classifySource(article.url);
-      if(src.type==="tr"){
-        for(const k of LOCAL_KEYWORDS)if(text.includes(k))return"yerel";
-      }
-      let bestCat=null,bestScore=0;
-      for(const [cat,keys] of Object.entries(CATEGORY_KEYWORDS)){
-        let score=0;keys.forEach(k=>{if(text.includes(k))score++;});
-        if(score>bestScore){bestScore=score;bestCat=cat;}
-      }
-      return bestCat||(src.type==="intl"?"dunya":"gundem");
+/* === HELPERS === */
+function safeText(v){ return (v ?? "").toString().toLowerCase(); }
+
+function getDomain(url){
+  try { return new URL(url).hostname.replace(/^www\./,""); }
+  catch { return ""; }
+}
+
+function classifySource(url){
+  const d = getDomain(url);
+  return { label: d, type: d.endsWith(".tr") ? "tr" : "intl" };
+}
+
+function classifyCategory(article){
+  const text =
+    safeText(article.title_tr || article.title) + " " +
+    safeText(article.summary_tr || article.summary);
+
+  const src = classifySource(article.url);
+
+  if (src.type === "tr") {
+    for (const k of LOCAL_KEYWORDS)
+      if (text.includes(k)) return "yerel";
+  }
+
+  let bestCat = "gundem";
+  let bestScore = 0;
+
+  for (const [cat, keys] of Object.entries(CATEGORY_KEYWORDS)) {
+    let score = 0;
+    keys.forEach(k => { if (text.includes(k)) score++; });
+    if (score > bestScore) {
+      bestScore = score;
+      bestCat = cat;
     }
+  }
+  return bestCat;
+}
 
-    function injectSchema(article){
-      const s={
-        "@context":"https://schema.org",
-        "@type":"NewsArticle",
-        "headline":article.title_tr||article.title,
-        "datePublished":article.published_at,
-        "author":{"@type":"Organization","name":article.source||""},
-        "publisher":{"@type":"Organization","name":"Haber Robotu","logo":{"@type":"ImageObject","url":"https://newest-resu.github.io/logo.png"}},
-        "mainEntityOfPage":article.url
-      };
-      document.getElementById("schema-news")?.remove();
-      const sc=document.createElement("script");
-      sc.id="schema-news";sc.type="application/ld+json";sc.textContent=JSON.stringify(s);
-      document.head.appendChild(sc);
-    }
+/* === FETCH === */
+async function loadNews(){
+  try {
+    const res = await fetch("news/latest.json?_=" + Date.now());
+    const data = await res.json();
 
-    // renderArticles(), openModal(), closeModal(), loadNews(), filters … 
-    // SENİN MEVCUT JS KODUN ÇALIŞIR ŞEKİLDE BURADA KALSIN (aynı olduğu gibi), 
-    // SADECE classifyCategory ve schema injection fix edildi.
+    ALL_ARTICLES = data.map(a => ({
+      ...a,
+      category: classifyCategory(a)
+    }));
 
-  </script>
+    renderArticles();
+  } catch (e) {
+    console.error("Haberler yüklenemedi:", e);
+  }
+}
+
+/* === RENDER === */
+function renderArticles(){
+  const container = document.getElementById("news-container");
+  if (!container) return;
+
+  container.innerHTML = "";
+
+  const filtered = ALL_ARTICLES.filter(a =>
+    CURRENT_CATEGORY_FILTER === "all" ||
+    a.category === CURRENT_CATEGORY_FILTER
+  );
+
+  if (!filtered.length) {
+    container.innerHTML = "<p>Bu kategori için haber yok.</p>";
+    return;
+  }
+
+  filtered.forEach(a => {
+    const div = document.createElement("div");
+    div.className = "news-card";
+    div.innerHTML = `
+      <h3>${a.title_tr || a.title}</h3>
+      <p>${a.summary_tr || a.summary || ""}</p>
+    `;
+    container.appendChild(div);
+  });
+}
+
+/* === INIT === */
+document.addEventListener("DOMContentLoaded", () => {
+  loadNews();
+  setInterval(loadNews, AUTO_REFRESH_MS);
+});
+</script>
 </body>
 </html>
