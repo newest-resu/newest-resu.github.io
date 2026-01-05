@@ -550,6 +550,75 @@
   </div>
 
   <script>
+    /* ===============================
+   MODAL KONTROL + GERÇEKÇİ METİN
+   =============================== */
+
+const modal = document.getElementById("newsModal");
+const modalTitle = document.getElementById("modal-title");
+const modalSummary = document.getElementById("modal-summary");
+const modalMeta = document.getElementById("modal-meta");
+const modalLink = document.getElementById("modal-link");
+
+function formatDate(dateStr) {
+  if (!dateStr) return "";
+  const d = new Date(dateStr);
+  return d.toLocaleString("tr-TR", {
+    day: "2-digit",
+    month: "long",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit"
+  });
+}
+
+function whyImportant(article) {
+  const cat = article.category;
+
+  const map = {
+    gundem: "Kamuoyunu ve güncel gelişmeleri doğrudan ilgilendiren bir konu.",
+    yerel: "Bölgesel gelişmeler açısından vatandaşları yakından ilgilendiriyor.",
+    dunya: "Uluslararası dengeleri ve küresel gündemi etkileyebilecek bir gelişme.",
+    ekonomi: "Ekonomik göstergeler ve piyasa beklentileri açısından önem taşıyor.",
+    teknoloji: "Teknolojik gelişmelerin günlük yaşama etkisini ortaya koyuyor.",
+    spor: "Spor dünyasında dengeleri etkileyebilecek bir gelişme."
+  };
+
+  return map[cat] || "Gündemde öne çıkan ve dikkat çeken bir gelişme.";
+}
+
+function openModal(article) {
+  modalTitle.textContent = article.title;
+  modalSummary.textContent = article.summary || "Bu haber için henüz detaylı bir özet paylaşılmadı.";
+
+  modalMeta.innerHTML = `
+    <strong>Kaynak:</strong> ${article.source} <br>
+    <strong>Yayın:</strong> ${formatDate(article.published_at)} <br><br>
+    <strong>Neden önemli?</strong><br>
+    ${whyImportant(article)}
+  `;
+
+  modalLink.href = article.url;
+  modalLink.target = "_blank";
+
+  modal.classList.add("active");
+}
+
+function closeModal() {
+  modal.classList.remove("active");
+}
+
+/* Kart tıklama bağlantısı */
+document.addEventListener("click", function (e) {
+  const card = e.target.closest(".news-card");
+  if (!card) return;
+
+  const index = card.getAttribute("data-index");
+  if (index === null) return;
+
+  const article = ALL_ARTICLES[index];
+  if (article) openModal(article);
+});
   /* =======================
      XSS SAFE HELPERS (EN ÜSTE ALINDI)
   ======================= */
