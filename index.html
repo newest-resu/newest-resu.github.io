@@ -86,114 +86,66 @@
   </div>
 
   <script>
-    let ALL_ARTICLES=[],
-        CURRENT_SOURCE_FILTER="all",
-        CURRENT_CATEGORY_FILTER="all",
-        LAST_FETCH_TIMESTAMP="";
+let ALL_ARTICLES = [];
+let CURRENT_CATEGORY = "all";
+const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
-    const CATEGORY_LABELS={
-      yerel:"Yerel",gundem:"Gündem",dunya:"Dünya",spor:"Spor",
-      teknoloji:"Teknoloji",saglik:"Sağlık",ekonomi:"Ekonomi",
-      finans:"Finans",magazin:"Magazin",bilim:"Bilim",
-      savunma:"Savunma / Askeri",oyun:"Oyun / Dijital",
-      otomobil:"Otomobil",yasam:"Yaşam"
-    };
+async function loadNews(manual=false) {
+  const res = await fetch("news/latest.json?ts=" + Date.now());
+  const data = await res.json();
 
-    function safeText(v){return(v??"").toString().trim();}
-    function getDomain(url){try{return new URL(url).hostname.replace(/^www\./,"");}catch{return"";}}
-    function classifySource(url){const d=getDomain(url);return{label:d,type:d.endsWith(".tr")?"tr":"intl"};}
+  if (manual && data.updated_at === window.lastUpdate) return;
 
-    function classifyCategory(article){
-      const txt=(safeText(article.title).toLowerCase()+" "+safeText(article.summary).toLowerCase());
-      if(txt.match(/(belediye|valilik|kaymakam|ilçe|ilçe|ilimiz)/))return"yerel";
-      for(const cat in CATEGORY_LABELS){
-        if(txt.includes(cat))return cat;
-      }
-      return "gundem";
-    }
+  window.lastUpdate = data.updated_at;
+  ALL_ARTICLES = data.articles || [];
+  document.getElementById("lastUpdate").innerText =
+    "Son güncelleme: " + new Date(data.updated_at).toLocaleString("tr-TR");
 
-    function formatTRDate(iso){
-      try{
-        const d=new Date(iso);
-        return d.toLocaleString("tr-TR",{year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit"});
-      }catch{return"";}
-    }
+  render();
+}
 
-    async function loadNews({force=false}={}){
-      try{
-        const url="./news/latest.json"+(force?("?t="+Date.now()):"");
-        const res=await fetch(url,{cache:"no-store"});
-        const data=await res.json();
-        LAST_FETCH_TIMESTAMP=data.generated_at||"";
+function render() {
+  const list = document.getElementById("newsList");
+  list.innerHTML = "";
 
-        ALL_ARTICLES=(Array.isArray(data.articles)?data.articles:[]).map(a=>{
-          return {...a,category:classifyCategory(a)};
-        });
-
-        renderArticles();
-      }catch(e){
-        document.getElementById("status").textContent="Haberler yüklenemedi!";
-        console.error(e);
-      }
-    }
-
-    function renderArticles(){
-      const container=document.getElementById("haberler");
-      container.innerHTML="";
-      document.getElementById("status").textContent=`Toplam ${ALL_ARTICLES.length} haber • Son güncelleme: ${formatTRDate(LAST_FETCH_TIMESTAMP)} (TR)`;
-
-      const list=ALL_ARTICLES.filter(a=>{
-        const src=classifySource(a.url);
-        if(CURRENT_SOURCE_FILTER==="tr" && src.type!=="tr")return false;
-        if(CURRENT_SOURCE_FILTER==="intl" && src.type!=="intl")return false;
-        if(CURRENT_CATEGORY_FILTER!=="all" && a.category!==CURRENT_CATEGORY_FILTER)return false;
-        return true;
-      });
-
-      if(!list.length){container.innerHTML="<p>Bu filtreler için haber yok.</p>";return;}
-
-      list.forEach(a=>{
-        const div=document.createElement("div");
-        div.className="card";
-        div.innerHTML=`
-          <div class="headline">${safeText(a.title)}</div>
-          <div class="summary">${safeText(a.summary)}</div>
-        `;
-        div.addEventListener("click",()=>{
-          document.getElementById("modalTitle").textContent=safeText(a.title);
-          document.getElementById("modalContent").textContent=safeText(a.summary);
-          document.getElementById("modalBackdrop").classList.add("open");
-        });
-        container.appendChild(div);
-      });
-    }
-
-    document.getElementById("btnManualRefresh").addEventListener("click",()=>loadNews({force:true}));
-
-    document.addEventListener("click",function(e){
-      const srcBtn=e.target.closest(".btn-filter-source");
-      if(srcBtn){
-        document.querySelectorAll(".btn-filter-source").forEach(b=>b.classList.remove("active"));
-        srcBtn.classList.add("active");
-        CURRENT_SOURCE_FILTER=srcBtn.getAttribute("data-filter-source")||"all";
-        renderArticles();
-        return;
-      }
-      const catBtn=e.target.closest(".btn-filter-cat");
-      if(catBtn){
-        document.querySelectorAll(".btn-filter-cat").forEach(b=>b.classList.remove("active"));
-        catBtn.classList.add("active");
-        CURRENT_CATEGORY_FILTER=catBtn.getAttribute("data-filter-cat")||"all";
-        renderArticles();
-        return;
-      }
+  ALL_ARTICLES
+    .filter(a => CURRENT_CATEGORY === "all" || a.category === CURRENT_CATEGORY)
+    .forEach(a => {
+      const div = document.createElement("div");
+      div.className = "news-card";
+      div.innerHTML = `
+        <h3>${a.title}</h3>
+        <p>${a.source} • ${a.category.toUpperCase()}</p>
+        <button onclick="openModal('${a.title}','${a.url}','${a.source}')">
+          Haberi Oku
+        </button>
+      `;
+      list.appendChild(div);
     });
+}
 
-    document.getElementById("modalBackdrop").addEventListener("click",()=>document.getElementById("modalBackdrop").classList.remove("open"));
+function openModal(title,url,source){
+  const m=document.getElementById("modal");
+  m.querySelector("h2").innerText=title;
+  m.querySelector("p").innerText=
+    "Bu haber, " + source +
+    " tarafından yayımlanmıştır. Kaynağa giderek tamamını okuyabilirsiniz.";
+  m.querySelector("a").href=url;
+  m.style.display="block";
+}
 
-    loadNews({force:true});
-    setInterval(()=>loadNews({force:true}),60*60*1000);
-  </script>
+function closeModal(){
+  document.getElementById("modal").style.display="none";
+}
 
+document.querySelectorAll("[data-category]").forEach(b=>{
+  b.onclick=()=>{CURRENT_CATEGORY=b.dataset.category;render();}
+});
+
+document.getElementById("manualRefresh").onclick=()=>loadNews(true);
+
+loadNews();
+setInterval(loadNews, AUTO_REFRESH_MS);
+</script>
 </body>
 </html>
