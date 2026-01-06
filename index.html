@@ -947,8 +947,6 @@ window.addEventListener("load", () => {
   loadNews({ force: true });
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
 
-    let lastFocusedElement = null;
-
 function trapFocus(modal) {
   const focusableSelectors = `
     a[href], button, textarea, input, select, [tabindex]:not([tabindex="-1"])
