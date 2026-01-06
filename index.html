@@ -770,6 +770,17 @@ document.addEventListener("click", function (e) {
       container.appendChild(card);
     });
   }
+    
+    document.addEventListener("click", function (e) {
+    // X kapatma butonu
+    if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
+        closeModal();
+    }
+    // Modal dışına tıklayınca kapatma (overlay)
+    if (e.target.classList.contains("modal-overlay")) {
+        closeModal();
+    }
+   });
 
   async function loadNews({ force = true } = {}) {
     const btn = document.getElementById("btnRefresh");
@@ -811,17 +822,6 @@ document.addEventListener("click", function (e) {
     }
     });
     
-   document.addEventListener("click", function (e) {
-    // X kapatma butonu
-    if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
-        closeModal();
-    }
-    // Modal dışına tıklayınca kapatma (overlay)
-    if (e.target.classList.contains("modal-overlay")) {
-        closeModal();
-    }
-   });
-
   loadNews({ force: true });
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
     
