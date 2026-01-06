@@ -8,6 +8,15 @@ import re
 OUTPUT = Path("news/raw_news.json")
 
 RSS_FEEDS = [
+    ("Hürriyet", "https://www.hurriyet.com.tr/rss/gundem"),
+    ("CNN Türk", "https://www.cnnturk.com/feed/rss/all/news"),
+    ("NTV", "https://www.ntv.com.tr/gundem.rss"),
+    ("Anadolu Ajansı", "https://www.aa.com.tr/tr/rss/default?cat=guncel"),
+    ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("Reuters", "https://feeds.reuters.com/reuters/worldNews"),
+    ("DW Türkçe", "https://rss.dw.com/rdf/rss-tr-all"),
+    
     # Yerel
     ("Anadolu Ajansı Yerel", "https://www.aa.com.tr/tr/rss/default?cat=yerel"),
     ("TRT Haber", "https://www.trthaber.com/rss/turkiye.rss"),
@@ -24,15 +33,6 @@ RSS_FEEDS = [
     ("The Guardian", "https://www.theguardian.com/world/rss"),
     ("DW Türkçe", "https://rss.dw.com/rdf/rss-tr-all"),
     ("Euronews", "https://tr.euronews.com/rss"),
-    
-    ("Hürriyet", "https://www.hurriyet.com.tr/rss/gundem"),
-    ("CNN Türk", "https://www.cnnturk.com/feed/rss/all/news"),
-    ("NTV", "https://www.ntv.com.tr/gundem.rss"),
-    ("Anadolu Ajansı", "https://www.aa.com.tr/tr/rss/default?cat=guncel"),
-    ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
-    ("Reuters", "https://feeds.reuters.com/reuters/worldNews"),
-    ("DW Türkçe", "https://rss.dw.com/rdf/rss-tr-all"),
 
     # ================= EKONOMİ =================
     ("Anadolu Ajansı", "https://www.aa.com.tr/tr/rss/default?cat=ekonomi"),
