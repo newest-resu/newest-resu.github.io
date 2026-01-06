@@ -8,6 +8,23 @@ import re
 OUTPUT = Path("news/raw_news.json")
 
 RSS_FEEDS = [
+    # Yerel
+    ("Anadolu Ajansı Yerel", "https://www.aa.com.tr/tr/rss/default?cat=yerel"),
+    ("TRT Haber", "https://www.trthaber.com/rss/turkiye.rss"),
+    ("Bursa Hakimiyet", "https://www.bursahakimiyet.com.tr/rss"),
+    ("Yalova Gazetesi", "https://www.yalovagazetesi.com/rss"),
+
+    # Spor
+    ("NTV Spor", "https://www.ntvspor.net/rss"),
+    ("TRT Spor", "https://www.trtspor.com.tr/rss/anasayfa.xml"),
+    ("Fanatik", "https://www.fanatik.com.tr/rss"),
+
+    # Dünya
+    ("Reuters", "https://feeds.reuters.com/reuters/worldNews"),
+    ("The Guardian", "https://www.theguardian.com/world/rss"),
+    ("DW Türkçe", "https://rss.dw.com/rdf/rss-tr-all"),
+    ("Euronews", "https://tr.euronews.com/rss"),
+    
     ("Hürriyet", "https://www.hurriyet.com.tr/rss/gundem"),
     ("CNN Türk", "https://www.cnnturk.com/feed/rss/all/news"),
     ("NTV", "https://www.ntv.com.tr/gundem.rss"),
@@ -16,16 +33,75 @@ RSS_FEEDS = [
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
     ("Reuters", "https://feeds.reuters.com/reuters/worldNews"),
     ("DW Türkçe", "https://rss.dw.com/rdf/rss-tr-all"),
+
+    # ================= EKONOMİ =================
+    ("Anadolu Ajansı", "https://www.aa.com.tr/tr/rss/default?cat=ekonomi"),
+    ("NTV Ekonomi", "https://www.ntv.com.tr/ekonomi.rss"),
+    ("Dünya Gazetesi", "https://www.dunya.com/rss"),
+    ("Bloomberg HT", "https://www.bloomberght.com/rss"),
+
+    # ================= TEKNOLOJİ =================
+    ("Webtekno", "https://www.webtekno.com/rss"),
+    ("ShiftDelete.Net", "https://shiftdelete.net/feed"),
+    ("DonanımHaber", "https://www.donanimhaber.com/rss"),
+    ("The Verge", "https://www.theverge.com/rss/index.xml"),
+
+    # ================= SAĞLIK =================
+    ("Anadolu Ajansı Sağlık", "https://www.aa.com.tr/tr/rss/default?cat=saglik"),
+    ("NTV Sağlık", "https://www.ntv.com.tr/saglik.rss"),
+    ("Medical Xpress", "https://medicalxpress.com/rss-feed/"),
+    ("Healthline", "https://www.healthline.com/rss"),
+
+    # ================= FİNANS =================
+    ("Investing Türkiye", "https://tr.investing.com/rss/news.rss"),
+    ("Cointelegraph", "https://cointelegraph.com/rss"),
+    ("Reuters Business", "https://feeds.reuters.com/reuters/businessNews"),
+    ("CNBC", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+
+    # ================= MAGAZİN =================
+    ("Hürriyet Magazin", "https://www.hurriyet.com.tr/rss/magazin"),
+    ("Milliyet Magazin", "https://www.milliyet.com.tr/rss/rssnew/magazinrss.xml"),
+    ("People", "https://people.com/rss/"),
+    ("TMZ", "https://www.tmz.com/rss.xml"),
+
+    # ================= BİLİM =================
+    ("AA Bilim Teknoloji", "https://www.aa.com.tr/tr/rss/default?cat=bilim-teknoloji"),
+    ("ScienceDaily", "https://www.sciencedaily.com/rss/all.xml"),
+    ("Live Science", "https://www.livescience.com/feeds/all"),
+    ("NASA", "https://www.nasa.gov/rss/dyn/breaking_news.rss"),
+
+    # ================= SAVUNMA / ASKERİ =================
+    ("AA Savunma", "https://www.aa.com.tr/tr/rss/default?cat=savunma"),
+    ("Defence Blog", "https://defence-blog.com/feed/"),
+    ("Breaking Defense", "https://breakingdefense.com/feed/"),
+    ("Army Technology", "https://www.army-technology.com/feed/"),
+
+    # ================= OYUN / DİJİTAL =================
+    ("IGN", "https://feeds.ign.com/ign/all"),
+    ("GameSpot", "https://www.gamespot.com/feeds/news/"),
+    ("PC Gamer", "https://www.pcgamer.com/rss/"),
+    ("Webtekno Oyun", "https://www.webtekno.com/rss"),
+
+    # ================= OTOMOBİL =================
+    ("Motor1 Türkiye", "https://tr.motor1.com/rss"),
+    ("Auto Bild", "https://www.autobild.com/rss"),
+    ("Carscoops", "https://www.carscoops.com/feed/"),
+    ("TopGear", "https://www.topgear.com/rss"),
+
+    # ================= YAŞAM =================
+    ("Hürriyet Yaşam", "https://www.hurriyet.com.tr/rss/yasam"),
+    ("NTV Yaşam", "https://www.ntv.com.tr/yasam.rss"),
+    ("National Geographic", "https://www.nationalgeographic.com/content/natgeo/en_us/index.rss"),
+    ("BBC Life", "https://feeds.bbci.co.uk/news/lifestyle/rss.xml"),
 ]
 
 LOCAL_KEYWORDS = [
-    "belediye", "valilik", "kaymakam",
-    "istanbul", "bursa", "kocaeli", "sakarya", "yalova"
+    "belediye", "valilik", "kaymakam","istanbul", "bursa", "kocaeli", "sakarya", "yalova"
 ]
 
 CATEGORY_KEYWORDS = {
     "yerel": LOCAL_KEYWORDS,
-    "gundem": ["bakan", "meclis", "cumhurbaşkanı", "seçim", "hükümet"],
+    "gundem": ["bakan", "meclis", "cumhurbaşkanı", "seçim", "hükümet", "deprem", "sel", "fırtına"],
     "dunya": ["ukraine", "israel", "gaza", "usa", "china", "russia", "iran", "europe", "africa"],
     "spor": ["maç", "transfer", "gol", "lig", "şampiyon", "futbol", "basketbol"],
     "ekonomi": ["enflasyon", "dolar", "borsa", "faiz", "merkez bankası"],
