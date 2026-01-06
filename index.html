@@ -626,7 +626,12 @@ Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz öneri
 }
 
 function closeModal() {
-  modal.classList.remove("open");
+    const modal = document.getElementById("newsModal");
+    if (!modal) return;
+
+    modal.classList.remove("active");
+    modal.style.display = "none";
+    document.body.style.overflow = "";
 }
 
 /* Kart tıklama bağlantısı */
@@ -804,7 +809,18 @@ document.addEventListener("click", function (e) {
       CURRENT_CATEGORY_FILTER = cat.dataset.filterCat;
       renderArticles();
     }
-  });
+    
+   document.addEventListener("click", function (e) {
+    // X kapatma butonu
+    if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
+        closeModal();
+    }
+
+    // Modal dışına tıklayınca kapatma (overlay)
+    if (e.target.classList.contains("modal-overlay")) {
+        closeModal();
+    }
+});
 
   loadNews({ force: true });
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
