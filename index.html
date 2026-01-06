@@ -813,197 +813,210 @@ window.addEventListener("load", () => {
   }
 });
   /* =======================
-     XSS SAFE HELPERS (EN ÜSTE ALINDI)
-  ======================= */
-  function escapeHtml(s) {
-    const str = (s ?? "").toString();
-    return str
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
+   XSS SAFE HELPERS
+======================= */
+function escapeHtml(s) {
+  const str = (s ?? "").toString();
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+function escapeAttr(s) {
+  return escapeHtml(s).replace(/"/g, "&quot;");
+}
+
+/* =======================
+   GLOBAL STATE
+======================= */
+let ALL_ARTICLES = [];
+let CURRENT_SOURCE_FILTER = "all";
+let CURRENT_CATEGORY_FILTER = "all";
+
+    const modalBackdrop = document.getElementById("modalBackdrop");
+const modal = modalBackdrop.querySelector(".modal");
+const modalTitle = document.getElementById("modalTitle");
+const modalMeta = document.getElementById("modalMeta");
+const modalLong = document.getElementById("modalLong");
+const modalWhy = document.getElementById("modalWhy");
+const modalBg = document.getElementById("modalBg");
+const modalImp = document.getElementById("modalImp");
+const modalLink = document.getElementById("modalSource");
+const modalCloseBtn = document.getElementById("modalClose");
+
+let lastFocusedElement = null;
+
+/* =======================
+   HELPERS
+======================= */
+function formatDate(dateStr) {
+  try {
+    return new Date(dateStr).toLocaleString("tr-TR", {
+      dateStyle: "long",
+      timeStyle: "short"
+    });
+  } catch {
+    return "";
   }
-  function escapeAttr(s) {
-    return escapeHtml(s).replace(/"/g, "&quot;");
-  }
+}
 
-  let ALL_ARTICLES = [];
-  let CURRENT_SOURCE_FILTER = "all";
-  let CURRENT_CATEGORY_FILTER = "all";
-
-  const AUTO_REFRESH_MS = 60 * 60 * 1000;
-
-  const CATEGORY_LABELS = {
-    gundem: "Gündem",
-    dunya: "Dünya",
-    yerel: "Yerel",
-    spor: "Spor",
-    teknoloji: "Teknoloji",
-    saglik: "Sağlık",
-    ekonomi: "Ekonomi",
-    finans: "Finans",
-    magazin: "Magazin",
-    bilim: "Bilim",
-    savunma: "Savunma / Askeri",
-    oyun: "Oyun / Dijital",
-    otomobil: "Otomobil",
-    yasam: "Yaşam"
-  };
-
-  function safeText(v) {
-    return (v ?? "").toString().trim();
-  }
-
-  function getDomain(url) {
-    try {
-      return new URL(url).hostname.replace(/^www\./, "");
-    } catch {
-      return "";
-    }
-  }
-
- function classifySource(article) {
+function classifySource(article) {
   return {
     label: article.source || "Bilinmeyen",
     type: article.source_type === "intl" ? "intl" : "tr"
   };
 }
 
-  function classifyCategory(a) {
-    return a.category || "gundem";
-  }
+function toggleSection(el, hasContent) {
+  el.closest(".section").style.display = hasContent ? "" : "none";
+}
 
-  function formatTRDate(iso) {
-    try {
-      return new Intl.DateTimeFormat("tr-TR", {
-        dateStyle: "short",
-        timeStyle: "short",
-        timeZone: "Europe/Istanbul"
-      }).format(new Date(iso));
-    } catch {
-      return "";
-    }
-  }
+/* =======================
+   FOCUS TRAP
+======================= */
+function trapFocus(modalEl) {
+  const selectors = 'a[href], button, [tabindex]:not([tabindex="-1"])';
+  const items = modalEl.querySelectorAll(selectors);
+  if (!items.length) return;
 
-  function setStatus(count, iso) {
-    const el = document.getElementById("status");
-    el.textContent = `Toplam ${count} haber • Son güncelleme: ${formatTRDate(iso)}`;
-  }
+  const first = items[0];
+  const last = items[items.length - 1];
 
-  function renderArticles() {
-    const container = document.getElementById("haberler");
-    if (!container) return;
-
-    container.innerHTML = "";
-
-    const filtered = ALL_ARTICLES.filter(a => {
-      const src = classifySource(a);
-      if (CURRENT_SOURCE_FILTER !== "all" && src.type !== CURRENT_SOURCE_FILTER) return false;
-      if (CURRENT_CATEGORY_FILTER !== "all" && classifyCategory(a) !== CURRENT_CATEGORY_FILTER) return false;
-      return true;
-    });
-
-    if (!filtered.length) {
-      container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için haber bulunamadı.</p>";
-      return;
-    }
-
-    filtered.forEach(a => {
-      const src = classifySource(a.url);
-      const cat = classifyCategory(a);
-      const card = document.createElement("article");
-      card.className = "card";
-
-      card.innerHTML = `
-        <div class="thumb-wrap">
-          ${a.image ? `<img src="${escapeAttr(a.image)}" loading="lazy" referrerpolicy="no-referrer">` : "Görsel yok"}
-        </div>
-        <div class="card-body">
-          <div class="meta-line">
-            <span class="badge-source">${src.label}</span>
-            <span class="badge-tag">${src.type === "tr" ? "Türkiye" : "Yabancı"}</span>
-            <span class="badge-cat">${CATEGORY_LABELS[cat] || "Gündem"}</span>
-          </div>
-          <h2 class="headline">${escapeHtml(a.title_tr || a.title)}</h2>
-          <p class="summary">${escapeHtml(a.summary_tr || a.summary || "")}</p>
-          <div class="actions">
-            <button class="btn-read">Haberi Oku</button>
-            <a class="btn-ghost" href="${escapeAttr(a.url)}" target="_blank">Kaynağa Git</a>
-          </div>
-        </div>
-      `;
-
-      card.querySelector(".btn-read").onclick = () => openModal(a);
-      container.appendChild(card);
-    });
-  }
-
-  async function loadNews({ force = true } = {}) {
-    const btn = document.getElementById("btnRefresh");
-    const status = document.getElementById("status");
-    btn.classList.add("spin");
-
-    try {
-      const res = await fetch(`./news/latest.json?t=${Date.now()}`, { cache: "no-store" });
-      const data = await res.json();
-      ALL_ARTICLES = data.articles || [];
-      setStatus(ALL_ARTICLES.length, data.generated_at || new Date().toISOString());
-      renderArticles();
-    } catch (e) {
-      status.textContent = "Haberler yüklenemedi.";
-      console.error(e);
-    } finally {
-      btn.classList.remove("spin");
-    }
-  }
-
-  document.getElementById("btnRefresh").onclick = () => loadNews({ force: true });
-
-  document.addEventListener("click", e => {
-    const src = e.target.closest(".btn-filter-source");
-    const cat = e.target.closest(".btn-filter-cat");
-
-    if (src) {
-      document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
-      src.classList.add("active");
-      CURRENT_SOURCE_FILTER = src.dataset.filterSource;
-      renderArticles();
-    }
-
-    if (cat) {
-      document.querySelectorAll(".btn-filter-cat").forEach(b => b.classList.remove("active"));
-      cat.classList.add("active");
-      CURRENT_CATEGORY_FILTER = cat.dataset.filterCat;
-      renderArticles();
-    }
-    });
-    
-  loadNews({ force: true });
-  setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
-
-function trapFocus(modal) {
-  const focusableSelectors = `
-    a[href], button, textarea, input, select, [tabindex]:not([tabindex="-1"])
-  `;
-  const focusableElements = modal.querySelectorAll(focusableSelectors);
-  const first = focusableElements[0];
-  const last = focusableElements[focusableElements.length - 1];
-
-  modal.addEventListener("keydown", (e) => {
+  function handler(e) {
     if (e.key !== "Tab") return;
-
     if (e.shiftKey && document.activeElement === first) {
-      e.preventDefault();
-      last.focus();
+      e.preventDefault(); last.focus();
     } else if (!e.shiftKey && document.activeElement === last) {
-      e.preventDefault();
-      first.focus();
+      e.preventDefault(); first.focus();
     }
+  }
+
+  modalEl.addEventListener("keydown", handler);
+  first.focus();
+
+  modalEl._releaseFocus = () =>
+    modalEl.removeEventListener("keydown", handler);
+}
+
+/* =======================
+   MODAL OPEN / CLOSE
+======================= */
+function openModal(article, index = null) {
+  lastFocusedElement = document.activeElement;
+
+  modalTitle.textContent = article.title;
+  modalMeta.innerHTML = `
+    <strong>Kaynak:</strong> ${article.source}<br>
+    <strong>Yayın:</strong> ${formatDate(article.published_at)}
+  `;
+
+  const baseText =
+    article.summary ||
+    `${article.title} başlıklı haber ${article.source} tarafından yayımlandı.`;
+
+  const sentences = baseText.split(/(?<=[.!?])\s+/);
+
+  modalLong.textContent = sentences.slice(0, 4).join(" ");
+  modalWhy.innerHTML = sentences[0] ? `<li>${sentences[0]}</li>` : "";
+  modalBg.innerHTML = sentences[1] ? `<li>${sentences[1]}</li>` : "";
+  modalImp.innerHTML = sentences[2] ? `<li>${sentences[2]}</li>` : "";
+
+  toggleSection(modalLong, modalLong.textContent.trim());
+  toggleSection(modalWhy, modalWhy.children.length);
+  toggleSection(modalBg, modalBg.children.length);
+  toggleSection(modalImp, modalImp.children.length);
+
+  modalLink.href = article.url;
+
+  modalBackdrop.classList.add("open");
+  document.body.style.overflow = "hidden";
+  trapFocus(modal);
+
+  if (index !== null) {
+    history.pushState(null, "", `#news-${index}`);
+  }
+}
+
+function closeModal() {
+  modalBackdrop.classList.remove("open");
+  document.body.style.overflow = "";
+  if (modal._releaseFocus) modal._releaseFocus();
+  if (lastFocusedElement) lastFocusedElement.focus();
+
+  if (location.hash.startsWith("#news-")) {
+    history.pushState("", document.title, location.pathname);
+  }
+}
+
+/* =======================
+   MODAL EVENTS
+======================= */
+modalCloseBtn.onclick = closeModal;
+modalBackdrop.onclick = e => e.target === modalBackdrop && closeModal();
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape" && modalBackdrop.classList.contains("open")) {
+    closeModal();
+  }
+});
+
+/* =======================
+   RENDER
+======================= */
+function renderArticles() {
+  const container = document.getElementById("haberler");
+  container.innerHTML = "";
+
+  const filtered = ALL_ARTICLES.filter(a => {
+    const src = classifySource(a);
+    if (CURRENT_SOURCE_FILTER !== "all" && src.type !== CURRENT_SOURCE_FILTER) return false;
+    if (CURRENT_CATEGORY_FILTER !== "all" && a.category !== CURRENT_CATEGORY_FILTER) return false;
+    return true;
   });
 
-  first.focus();
+  if (!filtered.length) {
+    container.innerHTML = "<p style='color:#9ca3af'>Bu filtre için haber yok.</p>";
+    return;
+  }
+
+  filtered.forEach((a, i) => {
+    const src = classifySource(a);
+    const card = document.createElement("article");
+    card.className = "card";
+    card.innerHTML = `
+      <div class="thumb-wrap">
+        ${a.image ? `<img src="${escapeAttr(a.image)}">` : "Görsel yok"}
+      </div>
+      <div class="card-body">
+        <div class="meta-line">
+          <span class="badge-source">${src.label}</span>
+          <span class="badge-tag">${src.type === "tr" ? "Türkiye" : "Yabancı"}</span>
+        </div>
+        <h2 class="headline">${escapeHtml(a.title)}</h2>
+        <p class="summary">${escapeHtml(a.summary || "")}</p>
+        <div class="actions">
+          <button class="btn-read">Haberi Oku</button>
+          <a class="btn-ghost" href="${escapeAttr(a.url)}" target="_blank">Kaynağa Git</a>
+        </div>
+      </div>
+    `;
+    card.querySelector(".btn-read").onclick = () => openModal(a, i);
+    container.appendChild(card);
+  });
 }
+
+/* =======================
+   LOAD NEWS
+======================= */
+async function loadNews() {
+  const res = await fetch(`./news/latest.json?t=${Date.now()}`);
+  const data = await res.json();
+  ALL_ARTICLES = data.articles || [];
+  renderArticles();
+}
+
+loadNews();
     
 </script>
 </body>
