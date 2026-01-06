@@ -801,12 +801,6 @@ document.addEventListener("click", function (e) {
       container.appendChild(card);
     });
   }
-    
-    // Modal dışına tıklayınca kapatma (overlay)
-    if (e.target.classList.contains("modal-overlay")) {
-        closeModal();
-    }
-   });
 
   async function loadNews({ force = true } = {}) {
     const btn = document.getElementById("btnRefresh");
