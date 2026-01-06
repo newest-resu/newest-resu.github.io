@@ -416,6 +416,28 @@
       .shell { max-width: 900px; }
       .side-slot { display: block; }
     }
+
+    .modal-backdrop {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+
+.modal-backdrop.open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.modal {
+  transform: translateY(20px) scale(0.98);
+  opacity: 0;
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.modal-backdrop.open .modal {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
   </style>
 </head>
 
@@ -650,6 +672,9 @@ function openModal(article) {
 
   modalBackdrop.classList.add("open");
   document.body.style.overflow = "hidden";
+
+  lastFocusedElement = document.activeElement;
+trapFocus(document.querySelector(".modal"));
 }
 
 /* Kapatma */
@@ -681,6 +706,8 @@ document.addEventListener("keydown", (e) => {
   if (e.target.classList.contains("modal-overlay")) {
     closeModal();
   }
+      
+  if (lastFocusedElement) lastFocusedElement.focus();
 });
 
 /* Kart tıklama bağlantısı */
@@ -862,6 +889,31 @@ document.addEventListener("click", function (e) {
     
   loadNews({ force: true });
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
+
+    let lastFocusedElement = null;
+
+function trapFocus(modal) {
+  const focusableSelectors = `
+    a[href], button, textarea, input, select, [tabindex]:not([tabindex="-1"])
+  `;
+  const focusableElements = modal.querySelectorAll(focusableSelectors);
+  const first = focusableElements[0];
+  const last = focusableElements[focusableElements.length - 1];
+
+  modal.addEventListener("keydown", (e) => {
+    if (e.key !== "Tab") return;
+
+    if (e.shiftKey && document.activeElement === first) {
+      e.preventDefault();
+      last.focus();
+    } else if (!e.shiftKey && document.activeElement === last) {
+      e.preventDefault();
+      first.focus();
+    }
+  });
+
+  first.focus();
+}
     
 </script>
 </body>
