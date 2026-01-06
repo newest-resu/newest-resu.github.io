@@ -573,15 +573,23 @@
 
   <script>
     /* ===============================
-   MODAL KONTROL + GERÇEKÇİ METİN
-   =============================== */
+   MODAL – TEK VE STABİL KONTROL
+   (scroll lock + animasyon + focus + hash)
+================================ */
 
-const modal = document.getElementById("modalBackdrop");
+const modalBackdrop = document.getElementById("modalBackdrop");
+const modal = modalBackdrop.querySelector(".modal");
 const modalTitle = document.getElementById("modalTitle");
 const modalSummary = document.getElementById("modalLong");
 const modalMeta = document.getElementById("modalMeta");
 const modalLink = document.getElementById("modalSource");
+const modalCloseBtn = document.getElementById("modalClose");
 
+let lastFocusedElement = null;
+
+/* -------------------------------
+   UTIL
+-------------------------------- */
 function formatDate(dateStr) {
   if (!dateStr) return "";
   const d = new Date(dateStr);
@@ -607,6 +615,36 @@ function whyImportant(article) {
   };
 
   return map[cat] || "Gündemde öne çıkan ve dikkat çeken bir gelişme.";
+}
+    /* -------------------------------
+   FOCUS TRAP
+-------------------------------- */
+function trapFocus(modalEl) {
+  const selectors =
+    'a[href], button, textarea, input, select, [tabindex]:not([tabindex="-1"])';
+  const focusables = modalEl.querySelectorAll(selectors);
+  if (!focusables.length) return;
+
+  const first = focusables[0];
+  const last = focusables[focusables.length - 1];
+
+  function handler(e) {
+    if (e.key !== "Tab") return;
+
+    if (e.shiftKey && document.activeElement === first) {
+      e.preventDefault();
+      last.focus();
+    } else if (!e.shiftKey && document.activeElement === last) {
+      e.preventDefault();
+      first.focus();
+    }
+  }
+
+  modalEl.addEventListener("keydown", handler);
+  first.focus();
+
+  modalEl._releaseFocus = () =>
+    modalEl.removeEventListener("keydown", handler);
 }
 
 function openModal(article) {
@@ -654,8 +692,12 @@ Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz öneri
 const modalBackdrop = document.getElementById("modalBackdrop");
 const modalCloseBtn = document.getElementById("modalClose");
 
-/* Açma */
-function openModal(article) {
+/* -------------------------------
+   OPEN MODAL
+-------------------------------- */
+function openModal(article, index = null) {
+  lastFocusedElement = document.activeElement;
+
   modalTitle.textContent = article.title;
 
   modalSummary.textContent =
@@ -673,53 +715,75 @@ function openModal(article) {
   modalBackdrop.classList.add("open");
   document.body.style.overflow = "hidden";
 
-  lastFocusedElement = document.activeElement;
-trapFocus(document.querySelector(".modal"));
+  trapFocus(modal);
+
+  if (index !== null) {
+    history.pushState(null, "", `#news-${index}`);
+  }
 }
 
-/* Kapatma */
+/* -------------------------------
+   CLOSE MODAL
+-------------------------------- */
 function closeModal() {
   modalBackdrop.classList.remove("open");
   document.body.style.overflow = "";
+
+  if (modal._releaseFocus) modal._releaseFocus();
+  if (lastFocusedElement) lastFocusedElement.focus();
+
+  if (location.hash.startsWith("#news-")) {
+    history.pushState("", document.title, window.location.pathname);
+  }
 }
 
-/* X butonu */
+/* -------------------------------
+   EVENTS
+-------------------------------- */
 modalCloseBtn.addEventListener("click", closeModal);
 
-/* Backdrop */
 modalBackdrop.addEventListener("click", (e) => {
   if (e.target === modalBackdrop) closeModal();
 });
 
-/* ESC */
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && modalBackdrop.classList.contains("open")) {
     closeModal();
   }
 });
 
-    document.addEventListener("click", function (e) {
-  if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
-    closeModal();
-  }
+/* -------------------------------
+   CARD CLICK (mevcut yapıya uyumlu)
+-------------------------------- */
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest(".btn-read");
+  if (!btn) return;
 
-  if (e.target.classList.contains("modal-overlay")) {
-    closeModal();
-  }
-      
-  if (lastFocusedElement) lastFocusedElement.focus();
-});
-
-/* Kart tıklama bağlantısı */
-document.addEventListener("click", function (e) {
-  const card = e.target.closest(".news-card");
+  const card = btn.closest(".card");
   if (!card) return;
 
-  const index = card.getAttribute("data-index");
-  if (index === null) return;
-
+  const index = [...document.querySelectorAll(".card")].indexOf(card);
   const article = ALL_ARTICLES[index];
-  if (article) openModal(article);
+  if (article) openModal(article, index);
+});
+
+/* -------------------------------
+   HASH İLE AÇMA
+-------------------------------- */
+window.addEventListener("load", () => {
+  if (location.hash.startsWith("#news-")) {
+    const i = parseInt(location.hash.replace("#news-", ""), 10);
+    if (!isNaN(i)) {
+      const tryOpen = () => {
+        if (ALL_ARTICLES[i]) {
+          openModal(ALL_ARTICLES[i], i);
+        } else {
+          setTimeout(tryOpen, 300);
+        }
+      };
+      tryOpen();
+    }
+  }
 });
   /* =======================
      XSS SAFE HELPERS (EN ÜSTE ALINDI)
