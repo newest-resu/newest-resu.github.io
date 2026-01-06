@@ -589,8 +589,24 @@ function whyImportant(article) {
 
 function openModal(article) {
   modalTitle.textContent = article.title;
-  modalSummary.textContent = article.summary || "Bu haber için henüz detaylı bir özet paylaşılmadı.";
+  // Uzun özet
+toggleSection("modalLong", !!modalSummary.textContent.trim());
 
+// Neden Önemli
+toggleSection("modalWhy", article.category);
+
+// Arka Plan
+toggleSection("modalBg", Array.isArray(article.background) && article.background.length);
+
+// Olası Etkiler
+toggleSection("modalImp", Array.isArray(article.impacts) && article.impacts.length);
+  
+  modalSummary.textContent =
+  article.summary ||
+  article.description ||
+  `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı. 
+Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz önerilir.`;
+  
   modalMeta.innerHTML = `
     <strong>Kaynak:</strong> ${article.source} <br>
     <strong>Yayın:</strong> ${formatDate(article.published_at)} <br><br>
@@ -602,6 +618,11 @@ function openModal(article) {
   modalLink.target = "_blank";
 
   modal.classList.add("open");
+}
+    function toggleSection(sectionId, hasContent) {
+  const el = document.getElementById(sectionId);
+  if (!el) return;
+  el.closest(".section").style.display = hasContent ? "" : "none";
 }
 
 function closeModal() {
