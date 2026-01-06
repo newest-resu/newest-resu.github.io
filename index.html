@@ -809,13 +809,13 @@ document.addEventListener("click", function (e) {
       CURRENT_CATEGORY_FILTER = cat.dataset.filterCat;
       renderArticles();
     }
+    });
     
    document.addEventListener("click", function (e) {
     // X kapatma butonu
     if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
         closeModal();
     }
-});
     // Modal dışına tıklayınca kapatma (overlay)
     if (e.target.classList.contains("modal-overlay")) {
         closeModal();
