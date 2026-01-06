@@ -820,10 +820,11 @@ document.addEventListener("click", function (e) {
     if (e.target.classList.contains("modal-overlay")) {
         closeModal();
     }
-});
+   });
 
   loadNews({ force: true });
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
+    
 </script>
 </body>
 </html>
