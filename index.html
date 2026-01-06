@@ -863,11 +863,12 @@ window.addEventListener("load", () => {
     }
   }
 
-  function classifySource(url) {
-    const d = getDomain(url);
-    if (!d) return { label: "Bilinmeyen", type: "intl" };
-    return { label: d, type: d.endsWith(".tr") ? "tr" : "intl" };
-  }
+ function classifySource(article) {
+  return {
+    label: article.source || "Bilinmeyen",
+    type: article.source_type === "intl" ? "intl" : "tr"
+  };
+}
 
   function classifyCategory(a) {
     return a.category || "gundem";
@@ -897,7 +898,7 @@ window.addEventListener("load", () => {
     container.innerHTML = "";
 
     const filtered = ALL_ARTICLES.filter(a => {
-      const src = classifySource(a.url);
+      const src = classifySource(a);
       if (CURRENT_SOURCE_FILTER !== "all" && src.type !== CURRENT_SOURCE_FILTER) return false;
       if (CURRENT_CATEGORY_FILTER !== "all" && classifyCategory(a) !== CURRENT_CATEGORY_FILTER) return false;
       return true;
