@@ -554,11 +554,11 @@
    MODAL KONTROL + GERÇEKÇİ METİN
    =============================== */
 
-const modal = document.getElementById("newsModal");
-const modalTitle = document.getElementById("modal-title");
-const modalSummary = document.getElementById("modal-summary");
-const modalMeta = document.getElementById("modal-meta");
-const modalLink = document.getElementById("modal-link");
+const modal = document.getElementById("modalBackdrop");
+const modalTitle = document.getElementById("modalTitle");
+const modalSummary = document.getElementById("modalLong");
+const modalMeta = document.getElementById("modalMeta");
+const modalLink = document.getElementById("modalSource");
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -601,11 +601,11 @@ function openModal(article) {
   modalLink.href = article.url;
   modalLink.target = "_blank";
 
-  modal.classList.add("active");
+  modal.classList.add("open");
 }
 
 function closeModal() {
-  modal.classList.remove("active");
+  modal.classList.remove("open");
 }
 
 /* Kart tıklama bağlantısı */
