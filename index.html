@@ -625,19 +625,35 @@ Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz öneri
   el.closest(".section").style.display = hasContent ? "" : "none";
 }
 
-function getModalElement() {
-  return (
-    document.querySelector(".modal.active") ||
-    document.querySelector(".modal-overlay.active") ||
-    document.querySelector(".modal")
-  );
+/* ===============================
+   MODAL KAPATMA – SADECE FIX
+   =============================== */
+
+const modalBackdrop = document.getElementById("modalBackdrop");
+const modalCloseBtn = document.getElementById("modalClose");
+
+/* Kapatma fonksiyonu */
+function closeModal() {
+  if (!modalBackdrop) return;
+  modalBackdrop.classList.remove("open");
 }
 
-function closeModal() {
-  const modal = getModalElement();
-  if (!modal) return;
+/* X butonu */
+modalCloseBtn.addEventListener("click", closeModal);
 
-  modal.classList.remove("active");
+/* Backdrop’a tıklayınca kapat */
+modalBackdrop.addEventListener("click", function (e) {
+  if (e.target === modalBackdrop) {
+    closeModal();
+  }
+});
+
+/* ESC tuşu ile kapatma */
+document.addEventListener("keydown", function (e) {
+  if (e.key === "Escape") {
+    closeModal();
+  }
+});
 
   // body scroll kilidi varsa kaldır
   document.body.classList.remove("modal-open");
