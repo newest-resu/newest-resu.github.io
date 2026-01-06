@@ -626,31 +626,49 @@ Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz öneri
 }
 
 /* ===============================
-   MODAL KAPATMA – SADECE FIX
+   MODAL KAPATMA – STABIL & NET
    =============================== */
 
 const modalBackdrop = document.getElementById("modalBackdrop");
 const modalCloseBtn = document.getElementById("modalClose");
 
-/* Kapatma fonksiyonu */
+/* Açma */
+function openModal(article) {
+  modalTitle.textContent = article.title;
+
+  modalSummary.textContent =
+    article.summary ||
+    `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı.`;
+
+  modalMeta.innerHTML = `
+    <strong>Kaynak:</strong> ${article.source}<br>
+    <strong>Yayın:</strong> ${formatDate(article.published_at)}
+  `;
+
+  modalLink.href = article.url;
+  modalLink.target = "_blank";
+
+  modalBackdrop.classList.add("open");
+  document.body.style.overflow = "hidden";
+}
+
+/* Kapatma */
 function closeModal() {
-  if (!modalBackdrop) return;
   modalBackdrop.classList.remove("open");
+  document.body.style.overflow = "";
 }
 
 /* X butonu */
 modalCloseBtn.addEventListener("click", closeModal);
 
-/* Backdrop’a tıklayınca kapat */
-modalBackdrop.addEventListener("click", function (e) {
-  if (e.target === modalBackdrop) {
-    closeModal();
-  }
+/* Backdrop */
+modalBackdrop.addEventListener("click", (e) => {
+  if (e.target === modalBackdrop) closeModal();
 });
 
-/* ESC tuşu ile kapatma */
-document.addEventListener("keydown", function (e) {
-  if (e.key === "Escape") {
+/* ESC */
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape" && modalBackdrop.classList.contains("open")) {
     closeModal();
   }
 });
