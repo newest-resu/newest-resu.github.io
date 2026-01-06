@@ -647,37 +647,71 @@ function trapFocus(modalEl) {
     modalEl.removeEventListener("keydown", handler);
 }
 
-function openModal(article) {
+function openModal(article, index = null) {
+  lastFocusedElement = document.activeElement;
+
   modalTitle.textContent = article.title;
-  // Uzun özet
-toggleSection("modalLong", !!modalSummary.textContent.trim());
 
-// Neden Önemli
-toggleSection("modalWhy", article.category);
+  const baseText =
+    article.summary ||
+    `${article.title} başlıklı haber ${article.source} tarafından yayımlandı.`;
 
-// Arka Plan
-toggleSection("modalBg", Array.isArray(article.background) && article.background.length);
+  // Uzun özet (summary'den türetilir)
+  const sentences = baseText
+    .split(/(?<=[.!?])\s+/)
+    .filter(s => s.length > 30);
 
-// Olası Etkiler
-toggleSection("modalImp", Array.isArray(article.impacts) && article.impacts.length);
-  
-  modalSummary.textContent =
-  article.summary ||
-  article.description ||
-  `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı. 
-Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz önerilir.`;
-  
+  modalSummary.textContent = sentences.slice(0, 4).join(" ");
+
+  // Neden önemli?
+  const whyList = document.getElementById("modalWhy");
+  whyList.innerHTML = "";
+  if (sentences[0]) {
+    const li = document.createElement("li");
+    li.textContent = sentences[0];
+    whyList.appendChild(li);
+  }
+
+  // Arka plan
+  const bgList = document.getElementById("modalBg");
+  bgList.innerHTML = "";
+  if (sentences[1]) {
+    const li = document.createElement("li");
+    li.textContent = sentences[1];
+    bgList.appendChild(li);
+  }
+
+  // Olası etkiler
+  const impList = document.getElementById("modalImp");
+  impList.innerHTML = "";
+  if (sentences[2]) {
+    const li = document.createElement("li");
+    li.textContent = sentences[2];
+    impList.appendChild(li);
+  }
+
+  // Section visibility
+  toggleSection("modalLong", modalSummary.textContent.trim().length > 0);
+  toggleSection("modalWhy", whyList.children.length > 0);
+  toggleSection("modalBg", bgList.children.length > 0);
+  toggleSection("modalImp", impList.children.length > 0);
+
   modalMeta.innerHTML = `
-    <strong>Kaynak:</strong> ${article.source} <br>
-    <strong>Yayın:</strong> ${formatDate(article.published_at)} <br><br>
-    <strong>Neden önemli?</strong><br>
-    ${whyImportant(article)}
+    <strong>Kaynak:</strong> ${article.source}<br>
+    <strong>Yayın:</strong> ${formatDate(article.published_at)}
   `;
 
   modalLink.href = article.url;
   modalLink.target = "_blank";
 
-  modal.classList.add("open");
+  modalBackdrop.classList.add("open");
+  document.body.style.overflow = "hidden";
+
+  trapFocus(modal);
+
+  if (index !== null) {
+    history.pushState(null, "", `#news-${index}`);
+  }
 }
     function toggleSection(sectionId, hasContent) {
   const el = document.getElementById(sectionId);
