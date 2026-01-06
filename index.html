@@ -625,14 +625,32 @@ Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz öneri
   el.closest(".section").style.display = hasContent ? "" : "none";
 }
 
-function closeModal() {
-    const modal = document.getElementById("newsModal");
-    if (!modal) return;
-
-    modal.classList.remove("active");
-    modal.style.display = "none";
-    document.body.style.overflow = "";
+function getModalElement() {
+  return (
+    document.querySelector(".modal.active") ||
+    document.querySelector(".modal-overlay.active") ||
+    document.querySelector(".modal")
+  );
 }
+
+function closeModal() {
+  const modal = getModalElement();
+  if (!modal) return;
+
+  modal.classList.remove("active");
+
+  // body scroll kilidi varsa kaldır
+  document.body.classList.remove("modal-open");
+}
+    document.addEventListener("click", function (e) {
+  if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
+    closeModal();
+  }
+
+  if (e.target.classList.contains("modal-overlay")) {
+    closeModal();
+  }
+});
 
 /* Kart tıklama bağlantısı */
 document.addEventListener("click", function (e) {
@@ -771,11 +789,6 @@ document.addEventListener("click", function (e) {
     });
   }
     
-    document.addEventListener("click", function (e) {
-    // X kapatma butonu
-    if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
-        closeModal();
-    }
     // Modal dışına tıklayınca kapatma (overlay)
     if (e.target.classList.contains("modal-overlay")) {
         closeModal();
