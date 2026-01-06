@@ -15,18 +15,16 @@ RSS_FEEDS = [
 ]
 
 LOCAL_KEYWORDS = [
-    "belediye","valilik","kaymakam",
-    "istanbul","ankara","izmir",
-    "bursa","kocaeli","sakarya","yalova"
+    "belediye", "valilik", "kaymakam","istanbul", "bursa", "kocaeli", "sakarya", "yalova"
 ]
 
 CATEGORY_KEYWORDS = {
     "yerel": LOCAL_KEYWORDS,
-    "gundem": ["bakan","meclis","cumhurbaşkanı","seçim"],
-    "dunya": ["ukraine","israel","gaza","usa","china","russia"],
-    "spor": ["maç","transfer","gol","lig"],
-    "ekonomi": ["enflasyon","dolar","borsa","faiz"],
-    "teknoloji": ["yapay zeka","ai","apple","google","tesla"],
+    "gundem": ["bakan", "meclis", "cumhurbaşkanı", "seçim"],
+    "dunya": ["ukraine", "israel", "gaza", "usa", "china", "russia", "venezuela", "europe", "africa"],
+    "spor": ["maç", "transfer", "gol", "lig"],
+    "ekonomi": ["enflasyon", "dolar", "borsa", "faiz"],
+    "teknoloji": ["yapay zeka", "ai", "apple", "google", "tesla"],
 }
 
 def clean_html(text):
@@ -35,6 +33,15 @@ def clean_html(text):
     text = html.unescape(text)
     text = re.sub(r"<[^>]+>", "", text)
     return text.strip()
+
+def normalize_summary(summary, title):
+    """
+    Summary çok kısa veya boşsa,
+    title üzerinden mantıklı bir fallback üretir
+    """
+    if not summary or len(summary) < 80:
+        return f"{title} ile ilgili gelişmeler haber detaylarında yer alıyor."
+    return summary
 
 def detect_category(text):
     t = text.lower()
@@ -49,19 +56,16 @@ def is_local(text):
     return any(k in t for k in LOCAL_KEYWORDS)
 
 def extract_image(entry):
-    # media:content
     if "media_content" in entry:
         media = entry.media_content
         if isinstance(media, list) and media:
             return media[0].get("url")
 
-    # media:thumbnail
     if "media_thumbnail" in entry:
         media = entry.media_thumbnail
         if isinstance(media, list) and media:
             return media[0].get("url")
 
-    # enclosure
     if "enclosures" in entry and entry.enclosures:
         for e in entry.enclosures:
             if e.get("type", "").startswith("image"):
@@ -78,12 +82,14 @@ for source, url in RSS_FEEDS:
         title = clean_html(e.get("title", ""))
         link = e.get("link", "")
         published = e.get("published", "")
-        summary = clean_html(
+
+        raw_summary = clean_html(
             e.get("summary") or
             e.get("description") or
             ""
         )
 
+        summary = normalize_summary(raw_summary, title)
         image = extract_image(e)
 
         combined_text = f"{title} {summary}"
@@ -110,3 +116,4 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
         "generated_at": datetime.datetime.utcnow().isoformat(),
         "articles": articles
     }, f, ensure_ascii=False, indent=2)
+
