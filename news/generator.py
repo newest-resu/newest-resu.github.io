@@ -90,10 +90,21 @@ def clean_html(text):
 
 def detect_intl_category(text):
     t = text.lower()
+    scores = {}
+
     for cat, keys in INTL_CATEGORY_KEYWORDS.items():
-        if any(k in t for k in keys):
-            return cat
-    return "dunya"
+        score = 0
+        for k in keys:
+            if k in t:
+                score += 1
+        scores[cat] = score
+
+    best_cat = max(scores, key=scores.get)
+
+    if scores[best_cat] == 0:
+        return "dunya"
+
+    return best_cat
 
 def extract_image(entry):
     for key in ("media_content", "media_thumbnail"):
