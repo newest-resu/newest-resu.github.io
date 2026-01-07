@@ -8,33 +8,24 @@ import re
 OUTPUT = Path("news/raw_news.json")
 
 RSS_FEEDS = [
-    # 🇹🇷 Yerel / Ulusal
     ("Hürriyet", "https://www.hurriyet.com.tr/rss/gundem"),
     ("CNN Türk", "https://www.cnnturk.com/feed/rss/all/news"),
-
-    # 🌍 Yabancı
     ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
-    ("Reuters", "https://feeds.reuters.com/reuters/worldNews"),
-    ("The Guardian", "https://www.theguardian.com/world/rss"),
 ]
 
 LOCAL_KEYWORDS = [
-    "belediye", "valilik", "kaymakam",
-    "istanbul", "bursa", "kocaeli", "sakarya", "yalova"
+    "belediye", "valilik", "kaymakam","istanbul", "bursa", "kocaeli", "sakarya", "yalova"
 ]
 
 CATEGORY_KEYWORDS = {
     "yerel": LOCAL_KEYWORDS,
-    "gundem": ["bakan", "meclis", "cumhurbaşkanı", "seçim", "politika"],
-    "dunya": ["ukraine", "israel", "gaza", "usa", "china", "russia", "europe", "africa"],
-    "spor": ["maç", "transfer", "gol", "lig", "football", "match"],
-    "ekonomi": ["enflasyon", "dolar", "borsa", "faiz", "economy", "inflation", "market"],
-    "teknoloji": ["yapay zeka", "ai", "apple", "google", "tesla", "technology"],
-    "finans": ["stock", "shares", "investment", "bank", "finance"],
+    "gundem": ["bakan", "meclis", "cumhurbaşkanı", "seçim"],
+    "dunya": ["ukraine", "israel", "gaza", "usa", "china", "russia", "venezuela", "europe", "africa"],
+    "spor": ["maç", "transfer", "gol", "lig"],
+    "ekonomi": ["enflasyon", "dolar", "borsa", "faiz"],
+    "teknoloji": ["yapay zeka", "ai", "apple", "google", "tesla"],
 }
-
-INTL_SOURCES = {"BBC", "Al Jazeera", "Reuters", "The Guardian"}
 
 def clean_html(text):
     if not text:
@@ -42,6 +33,15 @@ def clean_html(text):
     text = html.unescape(text)
     text = re.sub(r"<[^>]+>", "", text)
     return text.strip()
+
+def normalize_summary(summary, title):
+    """
+    Summary çok kısa veya boşsa,
+    title üzerinden mantıklı bir fallback üretir
+    """
+    if not summary or len(summary) < 80:
+        return f"{title} ile ilgili gelişmeler haber detaylarında yer alıyor."
+    return summary
 
 def detect_category(text):
     t = text.lower()
@@ -73,28 +73,10 @@ def extract_image(entry):
 
     return ""
 
-def build_long_summary(title, summary, source):
-    """
-    AI algısı oluşturmayan,
-    haberle birebir ilişkili,
-    dolu ve mantıklı uzun özet
-    """
-    base = summary if len(summary) > 120 else f"{title} başlığıyla duyurulan bu gelişme kamuoyunda dikkat çekti."
-
-    return (
-        f"{base} "
-        f"Haber, {source} tarafından yayımlandı ve konuyla ilgili detaylar paylaşıldı. "
-        "Yetkililerden ve konuya yakın kaynaklardan gelen bilgilere göre gelişmenin "
-        "önümüzdeki günlerde farklı alanlara da yansıması bekleniyor. "
-        "Kamuoyu ve ilgili çevreler süreci yakından takip ediyor."
-    )
-
 articles = []
 
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
-
-    source_type = "intl" if source in INTL_SOURCES else "tr"
 
     for e in feed.entries[:30]:
         title = clean_html(e.get("title", ""))
@@ -107,27 +89,24 @@ for source, url in RSS_FEEDS:
             ""
         )
 
-        summary = raw_summary if raw_summary else f"{title} ile ilgili son gelişmeler paylaşıldı."
-        long_summary = build_long_summary(title, summary, source)
+        summary = normalize_summary(raw_summary, title)
         image = extract_image(e)
 
         combined_text = f"{title} {summary}"
 
         category = detect_category(combined_text)
-        if source_type == "tr" and is_local(combined_text):
+        if is_local(combined_text):
             category = "yerel"
 
         articles.append({
             "title": title,
             "summary": summary,
-            "long_summary": long_summary,
             "url": link,
             "image": image,
             "source": source,
             "published_at": published,
             "category": category,
-            "source_type": source_type,
-            "meta_text": f"{source} | {category.upper()}"
+            "source_type": "intl" if source in ["BBC", "Al Jazeera"] else "tr"
         })
 
 OUTPUT.parent.mkdir(exist_ok=True)
