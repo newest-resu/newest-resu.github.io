@@ -67,21 +67,24 @@ CATEGORY_KEYWORDS = {
         "tatil","seyahat","gezi","yemek","tarif","dekorasyon","hobi","günlük","gunluk","psikoloji","eğitim","egitim"],
     }
 
+INTL_LABELS_TR = {
+    "savunma": "Savunma",
+    "ekonomi": "Ekonomi",
+    "teknoloji": "Teknoloji",
+    "spor": "Spor",
+    "dunya": "Dünya"
+}
+
 def clean_html(text):
     if not text:
         return ""
     text = html.unescape(text)
     return re.sub(r"<[^>]+>", "", text).strip()
 
-def normalize_summary(summary, title, source_type):
-    if summary and len(summary) > 80:
-        return summary
-    return f"{title} ile ilgili gelişmeler paylaşıldı."
-
 def detect_intl_category(text):
     t = text.lower()
-    for cat, keys in INTL_CATEGORY_KEYWORDS.items():
-        if any(k in t for k in keys):
+    for cat in ["savunma", "ekonomi", "teknoloji", "spor", "dunya"]:
+        if any(k in t for k in INTL_CATEGORY_KEYWORDS.get(cat, [])):
             return cat
     return "dunya"
 
@@ -112,22 +115,20 @@ for source, url in RSS_FEEDS:
         title = clean_html(e.get("title", ""))
         link = e.get("link", "")
         published = e.get("published", "")
+        summary = clean_html(e.get("summary") or e.get("description") or "")
+        summary = summary or f"{title} ile ilgili gelişmeler aktarıldı."
 
-        raw_summary = clean_html(
-            e.get("summary") or
-            e.get("description") or
-            ""
-        )
-
-        summary = normalize_summary(raw_summary, title, source_type)
         combined = f"{title} {summary}"
+        image = extract_image(e)
 
         if source_type == "intl":
-            category = detect_intl_category(combined)
+            intl_category = detect_intl_category(combined)
+            category = "dunya"
+            label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
         else:
+            intl_category = None
             category = detect_category(combined)
-
-        image = extract_image(e)
+            label_tr = category.capitalize()
 
         articles.append({
             "title": title,
@@ -137,6 +138,8 @@ for source, url in RSS_FEEDS:
             "source": source,
             "published_at": published,
             "category": category,
+            "intl_category": intl_category,
+            "label_tr": label_tr,
             "source_type": source_type
         })
 
