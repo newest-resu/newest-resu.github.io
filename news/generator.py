@@ -13,14 +13,14 @@ RSS_FEEDS = [
     ("Habertürk", "https://www.haberturk.com/rss"),
 
     ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
-    ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+    ("Reuters World", "https://feeds.reuters.com/Reuters/worldNews"),
 
     ("Anadolu Ajansı Yerel", "https://www.aa.com.tr/tr/rss/default?cat=yerel"),
     ("TRT Haber", "https://www.trthaber.com/rss/turkiye.rss"),
     ("Bursa Hakimiyet", "https://www.bursahakimiyet.com.tr/rss"),
     ("Yalova Gazetesi", "https://www.yalovagazetesi.com/rss"),
 
-    ("ESPN", "https://www.espn.com/espn/rss/news"),
+    ("Sky Sports", "https://www.skysports.com/rss/12040"),
     ("BBC Sport", "https://feeds.bbci.co.uk/sport/rss.xml"),
 
     ("Webtekno", "https://www.webtekno.com/rss.xml"),
@@ -105,20 +105,51 @@ def clean_html(text):
     text = html.unescape(text)
     return re.sub(r"<[^>]+>", "", text).strip()
 
-def translate_en_to_tr(text):
+# -------------------------
+# TRANSLATION CACHE
+# -------------------------
+TRANSLATION_CACHE = {}
+
+def translate_text_safe(text):
     if not text or len(text.strip()) < 5:
         return text
+
+    if text in TRANSLATION_CACHE:
+        return TRANSLATION_CACHE[text]
+
     try:
         r = requests.post(
             "https://libretranslate.de/translate",
-            data={"q": text, "source": "en", "target": "tr", "format": "text"},
-            timeout=10
+            data={
+                "q": text,
+                "source": "en",
+                "target": "tr",
+                "format": "text"
+            },
+            timeout=15
         )
         if r.status_code == 200:
-            return r.json().get("translatedText", text)
+            translated = r.json().get("translatedText", text)
+            TRANSLATION_CACHE[text] = translated
+            time.sleep(0.3)  # rate-limit guard
+            return translated
     except Exception:
         pass
+
     return text
+
+def translate_article(title, summary):
+    combined = f"TITLE: {title}\nSUMMARY: {summary}"
+    translated = translate_text_safe(combined)
+
+    if "SUMMARY:" in translated:
+        t_title, t_summary = translated.split("SUMMARY:", 1)
+        return (
+            t_title.replace("TITLE:", "").strip(),
+            t_summary.strip()
+        )
+
+    return title, summary
 
 def detect_intl_category(text):
     t = text.lower()
@@ -140,19 +171,22 @@ articles = []
 
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
-    source_type = "intl" if source in ("BBC World", "Al Jazeera", "ESPN", "BBC Sport") else "tr"
+    source_type = "intl" if source in (
+        "BBC World", "Reuters World", "Sky Sports", "BBC Sport","Defense News","Breaking Defense", "Popular Science", "Science Daily","Elle","IGN","GameSpot","Autocar"
+    ) else "tr"
 
-    for e in feed.entries[:30]:
+    for e in feed.entries[:25]:
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or "")
+        raw_summary = raw_summary or f"{raw_title} ile ilgili gelişmeler aktarıldı."
+
         combined_raw = f"{raw_title} {raw_summary}"
 
         if source_type == "intl":
             intl_category = detect_intl_category(combined_raw)
-            title = translate_en_to_tr(raw_title)
-            summary = translate_en_to_tr(raw_summary)
+            title, summary = translate_article(raw_title, raw_summary)
             category = intl_category
-            label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
+            label_tr = INTL_LABELS_TR.get(intl_category, "Dünya")
         else:
             intl_category = None
             title = raw_title
@@ -176,7 +210,10 @@ for source, url in RSS_FEEDS:
 OUTPUT.parent.mkdir(exist_ok=True)
 with open(OUTPUT, "w", encoding="utf-8") as f:
     json.dump(
-        {"generated_at": datetime.datetime.utcnow().isoformat(), "articles": articles},
+        {
+            "generated_at": datetime.datetime.utcnow().isoformat(),
+            "articles": articles
+        },
         f,
         ensure_ascii=False,
         indent=2
