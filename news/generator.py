@@ -192,7 +192,7 @@ if source_type == "intl":
 else:
     intl_category = None
     category = detect_category(combined)
-    label_tr = category.capitalize()
+    label_tr = category.capitalize()"
 
         articles.append({
             "title": title,
