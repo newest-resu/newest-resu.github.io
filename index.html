@@ -733,10 +733,7 @@ document.addEventListener("click", function (e) {
     return { label: d, type: d.endsWith(".tr") ? "tr" : "intl" };
   }
 
-  function classifyCategory(a) {
-  if (a.source_type === "intl") {
-    return a.category || "dunya";
-  }
+ function classifyCategory(a) {
   return a.category || "gundem";
 }
 
