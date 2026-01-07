@@ -76,6 +76,7 @@ def clean_html(text):
 def normalize_summary(summary, title, source_type):
     if summary and len(summary) > 80:
         return summary
+    return f"{title} ile ilgili gelişmeler paylaşıldı."
 
 def detect_intl_category(text):
     t = text.lower()
@@ -91,20 +92,14 @@ def detect_category(text):
             return cat
     return "gundem"
 
-def is_local(text):
-    t = text.lower()
-    return any(k in t for k in LOCAL_KEYWORDS)
-
 def extract_image(entry):
     for key in ("media_content", "media_thumbnail"):
         media = entry.get(key)
         if isinstance(media, list) and media:
             return media[0].get("url", "")
-
     for e in entry.get("enclosures", []):
         if e.get("type", "").startswith("image"):
             return e.get("href", "")
-
     return ""
 
 articles = []
@@ -118,13 +113,6 @@ for source, url in RSS_FEEDS:
         link = e.get("link", "")
         published = e.get("published", "")
 
-         if source_type == "intl":
-    category = detect_intl_category(combined)
-    else:
-    category = detect_category(combined)
-    if is_local(combined):
-        category = "yerel"
-
         raw_summary = clean_html(
             e.get("summary") or
             e.get("description") or
@@ -132,8 +120,14 @@ for source, url in RSS_FEEDS:
         )
 
         summary = normalize_summary(raw_summary, title, source_type)
-        image = extract_image(e)
         combined = f"{title} {summary}"
+
+        if source_type == "intl":
+            category = detect_intl_category(combined)
+        else:
+            category = detect_category(combined)
+
+        image = extract_image(e)
 
         articles.append({
             "title": title,
