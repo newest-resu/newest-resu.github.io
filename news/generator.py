@@ -77,13 +77,6 @@ def normalize_summary(summary, title, source_type):
     if summary and len(summary) > 80:
         return summary
 
-if source_type == "intl":
-    category = detect_intl_category(combined)
-else:
-    category = detect_category(combined)
-    if is_local(combined):
-        category = "yerel"
-
 def detect_intl_category(text):
     t = text.lower()
     for cat, keys in INTL_CATEGORY_KEYWORDS.items():
@@ -135,12 +128,12 @@ for source, url in RSS_FEEDS:
         image = extract_image(e)
         combined = f"{title} {summary}"
 
-        if source_type == "intl":
-            category = "yabanci"
-        else:
-            category = detect_category(combined)
-            if is_local(combined):
-                category = "yerel"
+       if source_type == "intl":
+    category = detect_intl_category(combined)
+    else:
+    category = detect_category(combined)
+    if is_local(combined):
+        category = "yerel"
 
         articles.append({
             "title": title,
