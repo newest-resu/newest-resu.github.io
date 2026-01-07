@@ -178,21 +178,21 @@ for source, url in RSS_FEEDS:
         summary = clean_html(e.get("summary") or e.get("description") or "")
         summary = summary or f"{title} ile ilgili gelişmeler aktarıldı."
 
-        if source_type == "intl":
-           title = translate_en_to_tr(title)
-           summary = translate_en_to_tr(summary)
+if source_type == "intl":
+    title = translate_en_to_tr(title)
+    summary = translate_en_to_tr(summary)
 
-        combined = f"{title} {summary}"
-        image = extract_image(e)
+combined = f"{title} {summary}"
+image = extract_image(e)
 
-        if source_type == "intl":
-            intl_category = detect_intl_category(combined)
-            category = "dunya"
-            label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
-        else:
-            intl_category = None
-            category = detect_category(combined)
-            label_tr = category.capitalize()
+if source_type == "intl":
+    intl_category = detect_intl_category(combined)
+    category = "dunya"
+    label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
+else:
+    intl_category = None
+    category = detect_category(combined)
+    label_tr = category.capitalize()
 
         articles.append({
             "title": title,
