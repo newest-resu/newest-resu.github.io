@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install feedparser requests beautifulsoup4
 
-      - name: Generate news
+      - name: Generate news (raw)
         run: |
           python news/generator.py
 
@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add news/latest.json
+          git add news/raw_news.json news/latest.json
           git diff --cached --quiet || git commit -m "Auto update news"
           git push
