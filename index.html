@@ -587,36 +587,35 @@ function whyImportant(article) {
   return map[cat] || "Gündemde öne çıkan ve dikkat çeken bir gelişme.";
 }
 
+function buildSentenceBullets(text) {
+  if (!text) return [];
+  return text
+    .split(/[.!?]/)
+    .map(s => s.trim())
+    .filter(s => s.length > 40)
+    .slice(0, 3);
+}
+
 function openModal(article) {
   modalTitle.textContent = article.title;
-  // Uzun özet
-toggleSection("modalLong", !!modalSummary.textContent.trim());
 
-// Neden Önemli
-toggleSection("modalWhy", article.category);
+  modalSummary.textContent = article.summary;
 
-// Arka Plan
-toggleSection("modalBg", Array.isArray(article.background) && article.background.length);
+  const bg = buildSentenceBullets(article.summary);
+  const imp = buildSentenceBullets(article.summary);
 
-// Olası Etkiler
-toggleSection("modalImp", Array.isArray(article.impacts) && article.impacts.length);
-  
-  modalSummary.textContent =
-  article.summary ||
-  article.description ||
-  `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı. 
-Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz önerilir.`;
-  
+  const bgEl = document.getElementById("modalBg");
+  const impEl = document.getElementById("modalImp");
+
+  bgEl.innerHTML = bg.map(s => `<li>${escapeHtml(s)}.</li>`).join("");
+  impEl.innerHTML = imp.map(s => `<li>${escapeHtml(s)}.</li>`).join("");
+
   modalMeta.innerHTML = `
-    <strong>Kaynak:</strong> ${article.source} <br>
-    <strong>Yayın:</strong> ${formatDate(article.published_at)} <br><br>
-    <strong>Neden önemli?</strong><br>
-    ${whyImportant(article)}
+    <strong>Kaynak:</strong> ${article.source}<br>
+    <strong>Yayın:</strong> ${formatDate(article.published_at)}
   `;
 
   modalLink.href = article.url;
-  modalLink.target = "_blank";
-
   modal.classList.add("open");
 }
     function toggleSection(sectionId, hasContent) {
@@ -699,6 +698,7 @@ document.addEventListener("click", function (e) {
   const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
   const CATEGORY_LABELS = {
+    CATEGORY_LABELS.yabanci = "Yabancı Kaynaklar";
     gundem: "Gündem",
     dunya: "Dünya",
     yerel: "Yerel",
