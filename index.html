@@ -681,7 +681,8 @@ document.addEventListener("click", function (e) {
   const article = ALL_ARTICLES[index];
   if (article) openModal(article);
 });
- /* =======================
+ <script>
+/* =======================
    XSS SAFE HELPERS
 ======================= */
 function escapeHtml(s) {
@@ -738,26 +739,31 @@ function setStatus(count, iso) {
 }
 
 /* =======================
-   MODAL
+   MODAL (TEK VE TEMİZ)
 ======================= */
 const modalBackdrop = document.getElementById("modalBackdrop");
 const modalTitle = document.getElementById("modalTitle");
 const modalSummary = document.getElementById("modalLong");
 const modalMeta = document.getElementById("modalMeta");
 const modalLink = document.getElementById("modalSource");
+const modalCloseBtn = document.getElementById("modalClose");
 
 function openModal(a) {
   modalTitle.textContent = a.title_tr || a.title;
   modalSummary.textContent = a.summary_tr || a.summary || "";
-  modalMeta.innerHTML = `<strong>Kaynak:</strong> ${a.source || ""}<br>
-                         <strong>Yayın:</strong> ${formatTRDate(a.published_at)}`;
+  modalMeta.innerHTML = `
+    <strong>Kaynak:</strong> ${a.source || ""}<br>
+    <strong>Yayın:</strong> ${formatTRDate(a.published_at)}
+  `;
   modalLink.href = a.url;
   modalBackdrop.classList.add("open");
 }
+
 function closeModal() {
   modalBackdrop.classList.remove("open");
 }
-document.getElementById("modalClose").onclick = closeModal;
+
+modalCloseBtn.onclick = closeModal;
 modalBackdrop.onclick = e => e.target === modalBackdrop && closeModal();
 document.addEventListener("keydown", e => e.key === "Escape" && closeModal());
 
