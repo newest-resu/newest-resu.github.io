@@ -90,17 +90,10 @@ def clean_html(text):
 
 def detect_intl_category(text):
     t = text.lower()
-    for cat in INTL_CATEGORY_KEYWORDS:
-        if any(k in t for k in INTL_CATEGORY_KEYWORDS[cat]):
-            return cat
-    return "dunya"
-
-def detect_category(text):
-    t = text.lower()
-    for cat, keys in CATEGORY_KEYWORDS.items():
+    for cat, keys in INTL_CATEGORY_KEYWORDS.items():
         if any(k in t for k in keys):
             return cat
-    return "gundem"
+    return "dunya"
 
 def extract_image(entry):
     for key in ("media_content", "media_thumbnail"):
@@ -120,8 +113,6 @@ for source, url in RSS_FEEDS:
 
     for e in feed.entries[:30]:
         title = clean_html(e.get("title", ""))
-        link = e.get("link", "")
-        published = e.get("published", "")
         summary = clean_html(e.get("summary") or e.get("description") or "")
         summary = summary or f"{title} ile ilgili gelişmeler aktarıldı."
 
@@ -138,16 +129,16 @@ for source, url in RSS_FEEDS:
             label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
         else:
             intl_category = None
-            category = detect_category(combined)
+            category = "gundem"
             label_tr = category.capitalize()
 
         articles.append({
             "title": title,
             "summary": summary,
-            "url": link,
+            "url": e.get("link", ""),
             "image": image,
             "source": source,
-            "published_at": published,
+            "published_at": e.get("published", ""),
             "category": category,
             "intl_category": intl_category,
             "label_tr": label_tr,
@@ -157,7 +148,12 @@ for source, url in RSS_FEEDS:
 OUTPUT.parent.mkdir(exist_ok=True)
 
 with open(OUTPUT, "w", encoding="utf-8") as f:
-    json.dump({
-        "generated_at": datetime.datetime.utcnow().isoformat(),
-        "articles": articles
-    }, f, ensure_ascii=False, indent=2)
+    json.dump(
+        {
+            "generated_at": datetime.datetime.utcnow().isoformat(),
+            "articles": articles
+        },
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
