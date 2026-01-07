@@ -5,8 +5,12 @@ from pathlib import Path
 import html
 import re
 import requests
+from datetime import datetime, timedelta, timezone
 
 OUTPUT = Path("news/raw_news.json")
+CUTOFF_HOURS = 36
+NOW = datetime.now(timezone.utc)
+CUTOFF_TIME = NOW - timedelta(hours=CUTOFF_HOURS)
 
 RSS_FEEDS = [
     ("NTV", "https://www.ntv.com.tr/gundem.rss"),
@@ -105,9 +109,11 @@ def clean_html(text):
     text = html.unescape(text)
     return re.sub(r"<[^>]+>", "", text).strip()
 
-# -------------------------
-# TRANSLATION CACHE
-# -------------------------
+def parse_entry_date(entry):
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
+        return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+    return None
+
 TRANSLATION_CACHE = {}
 
 def translate_text_safe(text):
@@ -120,18 +126,13 @@ def translate_text_safe(text):
     try:
         r = requests.post(
             "https://libretranslate.de/translate",
-            data={
-                "q": text,
-                "source": "en",
-                "target": "tr",
-                "format": "text"
-            },
+            data={"q": text, "source": "en", "target": "tr", "format": "text"},
             timeout=15
         )
         if r.status_code == 200:
             translated = r.json().get("translatedText", text)
             TRANSLATION_CACHE[text] = translated
-            time.sleep(0.3)  # rate-limit guard
+            time.sleep(0.3)
             return translated
     except Exception:
         pass
@@ -144,10 +145,7 @@ def translate_article(title, summary):
 
     if "SUMMARY:" in translated:
         t_title, t_summary = translated.split("SUMMARY:", 1)
-        return (
-            t_title.replace("TITLE:", "").strip(),
-            t_summary.strip()
-        )
+        return t_title.replace("TITLE:", "").strip(), t_summary.strip()
 
     return title, summary
 
@@ -172,18 +170,22 @@ articles = []
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
     source_type = "intl" if source in (
-        "BBC World", "Reuters World", "Sky Sports", "BBC Sport","Defense News","Breaking Defense", "Popular Science", "Science Daily","Elle","IGN","GameSpot","Autocar"
+        "BBC World", "Reuters World", "Sky Sports", "BBC Sport",
+        "Defense News", "Breaking Defense", "Popular Science",
+        "Science Daily", "Elle", "IGN", "GameSpot", "Autocar"
     ) else "tr"
 
     for e in feed.entries[:25]:
+        published_dt = parse_entry_date(e)
+        if published_dt and published_dt < CUTOFF_TIME:
+            continue  # ⏱️ 36 saat filtresi
+
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or "")
         raw_summary = raw_summary or f"{raw_title} ile ilgili gelişmeler aktarıldı."
 
-        combined_raw = f"{raw_title} {raw_summary}"
-
         if source_type == "intl":
-            intl_category = detect_intl_category(combined_raw)
+            intl_category = detect_intl_category(f"{raw_title} {raw_summary}")
             title, summary = translate_article(raw_title, raw_summary)
             category = intl_category
             label_tr = INTL_LABELS_TR.get(intl_category, "Dünya")
@@ -211,7 +213,7 @@ OUTPUT.parent.mkdir(exist_ok=True)
 with open(OUTPUT, "w", encoding="utf-8") as f:
     json.dump(
         {
-            "generated_at": datetime.datetime.utcnow().isoformat(),
+            "generated_at": datetime.utcnow().isoformat(),
             "articles": articles
         },
         f,
