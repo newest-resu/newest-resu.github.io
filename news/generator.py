@@ -8,10 +8,47 @@ import re
 OUTPUT = Path("news/raw_news.json")
 
 RSS_FEEDS = [
-    ("Hürriyet", "https://www.hurriyet.com.tr/rss/gundem"),
-    ("CNN Türk", "https://www.cnnturk.com/feed/rss/all/news"),
-    ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    GÜNDEM (TR)
+    ("NTV", "https://www.ntv.com.tr/gundem.rss"),
+    ("Habertürk", "https://www.haberturk.com/rss"),
+    DÜNYA (YABANCI)
+    ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
+    YEREL HABER KAYINAKLARI (TR)
+    ("Anadolu Ajansı Yerel", "https://www.aa.com.tr/tr/rss/default?cat=yerel"),
+    ("TRT Haber", "https://www.trthaber.com/rss/turkiye.rss"),
+    ("Bursa Hakimiyet", "https://www.bursahakimiyet.com.tr/rss"),
+    ("Yalova Gazetesi", "https://www.yalovagazetesi.com/rss"),
+    SPOR
+    ("ESPN", "https://www.espn.com/espn/rss/news"),
+    ("BBC Sport", "https://feeds.bbci.co.uk/sport/rss.xml"),
+    TEKNOLOJİ (TR)
+    ("Webtekno", "https://www.webtekno.com/rss.xml"),
+    ("ShiftDelete", "https://shiftdelete.net/feed"),
+    SAĞLIK (TR)
+    ("Sağlık Bakanlığı", "https://www.saglik.gov.tr/TR/rss"),
+    ("Medimagazin", "https://www.medimagazin.com.tr/rss"),
+    EKONOMİ (TR)
+    ("Dünya Gazetesi", "https://www.dunya.com/rss"),
+    ("Bloomberg HT", "https://www.bloomberght.com/rss"),
+    FİNANS (TR)
+    ("Investing TR", "https://tr.investing.com/rss/news_25.rss"),
+    ("Foreks", "https://www.foreks.com/rss"),
+    MAGAZİN / YAŞAM
+    ("Onedio", "https://onedio.com/rss"),
+    ("Elle", "https://www.elle.com/rss/all.xml"),
+    BİLİM
+    ("Popular Science", "https://www.popsci.com/feed"),
+    ("Science Daily", "https://www.sciencedaily.com/rss/all.xml"),
+    SAVUNMA / ASKERİ
+    ("Defense News", "https://www.defensenews.com/arc/outboundfeeds/rss/"),
+    ("Breaking Defense", "https://breakingdefense.com/feed/"),
+    OYUN / DİJİTAL
+    ("IGN", "https://feeds.ign.com/ign/all"),
+    ("GameSpot", "https://www.gamespot.com/feeds/news/"),
+    OTOMOBİL
+    ("Motor1", "https://tr.motor1.com/rss/news/all/"),
+    ("Autocar", "https://www.autocar.co.uk/rss"),
 ]
 
 INTL_CATEGORY_KEYWORDS = {
