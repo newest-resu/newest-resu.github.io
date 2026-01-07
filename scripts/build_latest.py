@@ -1,28 +1,24 @@
 import json
 from pathlib import Path
-from datetime import datetime
 
 RAW = Path("news/raw_news.json")
 OUT = Path("news/latest.json")
 
-MAX_ARTICLES = 50  # 🔴 Performans için limit
+MAX_ARTICLES = 50  # Performans limiti
 
 with open(RAW, "r", encoding="utf-8") as f:
     raw = json.load(f)
 
 articles = raw.get("articles", [])
 
-def parse_date(item):
-    d = item.get("published_at", "")
-    try:
-        return datetime.fromisoformat(d)
-    except Exception:
-        return datetime.min
+def sort_key(item):
+    # ISO tarih string’i varsa onu kullan
+    return item.get("published_at") or ""
 
-# 🔽 En yeni haberler üstte
+# 🔽 EN YENİ HABERLER ÜSTTE (STRING SORT)
 articles = sorted(
     articles,
-    key=parse_date,
+    key=sort_key,
     reverse=True
 )
 
