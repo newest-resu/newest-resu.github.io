@@ -15,13 +15,14 @@ RSS_FEEDS = [
 ]
 
 LOCAL_KEYWORDS = [
-    "belediye", "valilik", "kaymakam","istanbul", "bursa", "kocaeli", "sakarya", "yalova"
+    "belediye", "valilik", "kaymakam",
+    "istanbul", "bursa", "kocaeli", "sakarya", "yalova"
 ]
 
 CATEGORY_KEYWORDS = {
     "yerel": LOCAL_KEYWORDS,
     "gundem": ["bakan", "meclis", "cumhurbaşkanı", "seçim"],
-    "dunya": ["ukraine", "israel", "gaza", "usa", "china", "russia", "venezuela", "europe", "africa"],
+    "dunya": ["ukraine", "israel", "gaza", "usa", "china", "russia"],
     "spor": ["maç", "transfer", "gol", "lig"],
     "ekonomi": ["enflasyon", "dolar", "borsa", "faiz"],
     "teknoloji": ["yapay zeka", "ai", "apple", "google", "tesla"],
@@ -31,24 +32,22 @@ def clean_html(text):
     if not text:
         return ""
     text = html.unescape(text)
-    text = re.sub(r"<[^>]+>", "", text)
-    return text.strip()
+    return re.sub(r"<[^>]+>", "", text).strip()
 
-def normalize_summary(summary, title):
-    """
-    Summary çok kısa veya boşsa,
-    title üzerinden mantıklı bir fallback üretir
-    """
-    if not summary or len(summary) < 80:
-        return f"{title} ile ilgili gelişmeler haber detaylarında yer alıyor."
-    return summary
+def normalize_summary(summary, title, source_type):
+    if summary and len(summary) > 80:
+        return summary
+
+    if source_type == "intl":
+        return f"{title} başlıklı haber yabancı kaynaklardan derlenmiştir. Ayrıntılar haber içeriğinde yer almaktadır."
+
+    return f"{title} ile ilgili gelişmeler haber detaylarında yer alıyor."
 
 def detect_category(text):
     t = text.lower()
     for cat, keys in CATEGORY_KEYWORDS.items():
-        for k in keys:
-            if k in t:
-                return cat
+        if any(k in t for k in keys):
+            return cat
     return "gundem"
 
 def is_local(text):
@@ -56,20 +55,14 @@ def is_local(text):
     return any(k in t for k in LOCAL_KEYWORDS)
 
 def extract_image(entry):
-    if "media_content" in entry:
-        media = entry.media_content
+    for key in ("media_content", "media_thumbnail"):
+        media = entry.get(key)
         if isinstance(media, list) and media:
-            return media[0].get("url")
+            return media[0].get("url", "")
 
-    if "media_thumbnail" in entry:
-        media = entry.media_thumbnail
-        if isinstance(media, list) and media:
-            return media[0].get("url")
-
-    if "enclosures" in entry and entry.enclosures:
-        for e in entry.enclosures:
-            if e.get("type", "").startswith("image"):
-                return e.get("href")
+    for e in entry.get("enclosures", []):
+        if e.get("type", "").startswith("image"):
+            return e.get("href", "")
 
     return ""
 
@@ -77,6 +70,7 @@ articles = []
 
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
+    source_type = "intl" if source in ("BBC", "Al Jazeera") else "tr"
 
     for e in feed.entries[:30]:
         title = clean_html(e.get("title", ""))
@@ -89,14 +83,16 @@ for source, url in RSS_FEEDS:
             ""
         )
 
-        summary = normalize_summary(raw_summary, title)
+        summary = normalize_summary(raw_summary, title, source_type)
         image = extract_image(e)
+        combined = f"{title} {summary}"
 
-        combined_text = f"{title} {summary}"
-
-        category = detect_category(combined_text)
-        if is_local(combined_text):
-            category = "yerel"
+        if source_type == "intl":
+            category = "yabanci"
+        else:
+            category = detect_category(combined)
+            if is_local(combined):
+                category = "yerel"
 
         articles.append({
             "title": title,
@@ -106,7 +102,7 @@ for source, url in RSS_FEEDS:
             "source": source,
             "published_at": published,
             "category": category,
-            "source_type": "intl" if source in ["BBC", "Al Jazeera"] else "tr"
+            "source_type": source_type
         })
 
 OUTPUT.parent.mkdir(exist_ok=True)
