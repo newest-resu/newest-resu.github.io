@@ -632,7 +632,9 @@ function openModal(article) {
    MODAL KAPATMA – SADECE FIX
    =============================== */
 
-const modalBackdrop = document.getElementById("modalBackdrop");
+if (!window.modalBackdrop) {
+  window.modalBackdrop = document.getElementById("modal-backdrop");
+}
 const modalCloseBtn = document.getElementById("modalClose");
 
 /* Kapatma fonksiyonu */
