@@ -24,7 +24,10 @@ jobs:
 
       - name: Generate news (raw)
         run: |
-          python news/generator.py
+           set -e
+    python news/generator.py
+    echo "---- news klasörü ----"
+    ls -la news
 
       - name: Build latest.json
         run: |
