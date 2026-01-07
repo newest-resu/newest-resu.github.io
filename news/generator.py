@@ -14,7 +14,7 @@ RSS_FEEDS = [
     Dünya(Yabancı)
     ("BBC World", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml"),
-   Yerel Haber Kaynakları(TR)
+    Yerel
     ("Anadolu Ajansı Yerel", "https://www.aa.com.tr/tr/rss/default?cat=yerel"),
     ("TRT Haber", "https://www.trthaber.com/rss/turkiye.rss"),
     ("Bursa Hakimiyet", "https://www.bursahakimiyet.com.tr/rss"),
