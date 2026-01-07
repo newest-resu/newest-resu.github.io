@@ -118,6 +118,13 @@ for source, url in RSS_FEEDS:
         link = e.get("link", "")
         published = e.get("published", "")
 
+         if source_type == "intl":
+    category = detect_intl_category(combined)
+    else:
+    category = detect_category(combined)
+    if is_local(combined):
+        category = "yerel"
+
         raw_summary = clean_html(
             e.get("summary") or
             e.get("description") or
@@ -127,13 +134,6 @@ for source, url in RSS_FEEDS:
         summary = normalize_summary(raw_summary, title, source_type)
         image = extract_image(e)
         combined = f"{title} {summary}"
-
-       if source_type == "intl":
-    category = detect_intl_category(combined)
-    else:
-    category = detect_category(combined)
-    if is_local(combined):
-        category = "yerel"
 
         articles.append({
             "title": title,
