@@ -179,8 +179,8 @@ for source, url in RSS_FEEDS:
         summary = summary or f"{title} ile ilgili gelişmeler aktarıldı."
 
         if source_type == "intl":
-    title = translate_en_to_tr(title)
-    summary = translate_en_to_tr(summary)
+           title = translate_en_to_tr(title)
+           summary = translate_en_to_tr(summary)
 
         combined = f"{title} {summary}"
         image = extract_image(e)
