@@ -4,6 +4,7 @@ import datetime
 from pathlib import Path
 import html
 import re
+import requests
 
 OUTPUT = Path("news/raw_news.json")
 
@@ -112,6 +113,28 @@ INTL_LABELS_TR = {
     "dunya": "Dünya"
 }
 
+def translate_en_to_tr(text):
+    if not text or len(text.strip()) < 10:
+        return text
+
+    try:
+        r = requests.post(
+            "https://libretranslate.de/translate",
+            data={
+                "q": text,
+                "source": "en",
+                "target": "tr",
+                "format": "text"
+            },
+            timeout=10
+        )
+        if r.status_code == 200:
+            return r.json().get("translatedText", text)
+    except Exception:
+        pass
+
+    return text
+
 def clean_html(text):
     if not text:
         return ""
@@ -154,6 +177,10 @@ for source, url in RSS_FEEDS:
         published = e.get("published", "")
         summary = clean_html(e.get("summary") or e.get("description") or "")
         summary = summary or f"{title} ile ilgili gelişmeler aktarıldı."
+
+        if source_type == "intl":
+    title = translate_en_to_tr(title)
+    summary = translate_en_to_tr(summary)
 
         combined = f"{title} {summary}"
         image = extract_image(e)
