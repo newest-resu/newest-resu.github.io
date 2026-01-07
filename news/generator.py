@@ -111,12 +111,7 @@ def translate_en_to_tr(text):
     try:
         r = requests.post(
             "https://libretranslate.de/translate",
-            data={
-                "q": text,
-                "source": "en",
-                "target": "tr",
-                "format": "text"
-            },
+            data={"q": text, "source": "en", "target": "tr", "format": "text"},
             timeout=10
         )
         if r.status_code == 200:
@@ -127,17 +122,9 @@ def translate_en_to_tr(text):
 
 def detect_intl_category(text):
     t = text.lower()
-    scores = {}
-
-    for cat, keys in INTL_CATEGORY_KEYWORDS.items():
-        score = sum(1 for k in keys if k in t)
-        if score > 0:
-            scores[cat] = score
-
-    if not scores:
-        return "dunya"
-
-    return max(scores, key=scores.get)
+    scores = {cat: sum(1 for k in keys if k in t) for cat, keys in INTL_CATEGORY_KEYWORDS.items()}
+    scores = {k: v for k, v in scores.items() if v > 0}
+    return max(scores, key=scores.get) if scores else "dunya"
 
 def extract_image(entry):
     for key in ("media_content", "media_thumbnail"):
@@ -158,15 +145,13 @@ for source, url in RSS_FEEDS:
     for e in feed.entries[:30]:
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or "")
-        raw_summary = raw_summary or f"{raw_title} ile ilgili gelişmeler aktarıldı."
-
         combined_raw = f"{raw_title} {raw_summary}"
 
         if source_type == "intl":
             intl_category = detect_intl_category(combined_raw)
             title = translate_en_to_tr(raw_title)
             summary = translate_en_to_tr(raw_summary)
-            category = "dunya"
+            category = intl_category
             label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
         else:
             intl_category = None
@@ -189,13 +174,9 @@ for source, url in RSS_FEEDS:
         })
 
 OUTPUT.parent.mkdir(exist_ok=True)
-
 with open(OUTPUT, "w", encoding="utf-8") as f:
     json.dump(
-        {
-            "generated_at": datetime.datetime.utcnow().isoformat(),
-            "articles": articles
-        },
+        {"generated_at": datetime.datetime.utcnow().isoformat(), "articles": articles},
         f,
         ensure_ascii=False,
         indent=2
