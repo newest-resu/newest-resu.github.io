@@ -734,8 +734,11 @@ document.addEventListener("click", function (e) {
   }
 
   function classifyCategory(a) {
-    return a.category || "gundem";
+  if (a.source_type === "intl") {
+    return a.category || "dunya";
   }
+  return a.category || "gundem";
+}
 
   function formatTRDate(iso) {
     try {
