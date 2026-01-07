@@ -589,32 +589,29 @@ function whyImportant(article) {
 
 function openModal(article) {
   modalTitle.textContent = article.title;
+  // Uzun özet
+toggleSection("modalLong", !!modalSummary.textContent.trim());
 
-  /* === UZUN ÖZET === */
+// Neden Önemli
+toggleSection("modalWhy", article.category);
+
+// Arka Plan
+toggleSection("modalBg", Array.isArray(article.background) && article.background.length);
+
+// Olası Etkiler
+toggleSection("modalImp", Array.isArray(article.impacts) && article.impacts.length);
+  
   modalSummary.textContent =
-    article.long_summary ||
-    article.summary ||
-    `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı. 
-Gelişmenin ayrıntıları için kaynağa gitmeniz önerilir.`;
-
-  toggleSection("modalLong", !!modalSummary.textContent.trim());
-
-  /* === NEDEN ÖNEMLİ === */
-  fillList("modalWhy", article.why);
-  toggleSection("modalWhy", Array.isArray(article.why) && article.why.length);
-
-  /* === ARKA PLAN === */
-  fillList("modalBg", article.background);
-  toggleSection("modalBg", Array.isArray(article.background) && article.background.length);
-
-  /* === OLASI ETKİLER === */
-  fillList("modalImp", article.impacts);
-  toggleSection("modalImp", Array.isArray(article.impacts) && article.impacts.length);
-
-  /* === META === */
+  article.summary ||
+  article.description ||
+  `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı. 
+Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz önerilir.`;
+  
   modalMeta.innerHTML = `
-    <strong>Kaynak:</strong> ${article.source}<br>
-    <strong>Yayın:</strong> ${formatDate(article.published_at)}
+    <strong>Kaynak:</strong> ${article.source} <br>
+    <strong>Yayın:</strong> ${formatDate(article.published_at)} <br><br>
+    <strong>Neden önemli?</strong><br>
+    ${whyImportant(article)}
   `;
 
   modalLink.href = article.url;
@@ -718,25 +715,6 @@ document.addEventListener("click", function (e) {
     yasam: "Yaşam"
   };
 
-    function fillList(id, items) {
-  const el = document.getElementById(id);
-  if (!el) return;
-
-  el.innerHTML = "";
-
-  if (!items || !items.length) {
-    el.closest(".section").style.display = "none";
-    return;
-  }
-
-  el.closest(".section").style.display = "";
-  items.forEach(text => {
-    const li = document.createElement("li");
-    li.textContent = text;
-    el.appendChild(li);
-  });
-}
-
   function safeText(v) {
     return (v ?? "").toString().trim();
   }
@@ -747,6 +725,12 @@ document.addEventListener("click", function (e) {
     } catch {
       return "";
     }
+  }
+
+  function classifySource(url) {
+    const d = getDomain(url);
+    if (!d) return { label: "Bilinmeyen", type: "intl" };
+    return { label: d, type: d.endsWith(".tr") ? "tr" : "intl" };
   }
 
   function classifyCategory(a) {
@@ -777,14 +761,12 @@ document.addEventListener("click", function (e) {
     container.innerHTML = "";
 
     const filtered = ALL_ARTICLES.filter(a => {
-  if (CURRENT_SOURCE_FILTER !== "all" && a.source_type !== CURRENT_SOURCE_FILTER) {
-    return false;
-  }
-  if (CURRENT_CATEGORY_FILTER !== "all" && a.category !== CURRENT_CATEGORY_FILTER) {
-    return false;
-  }
-  return true;
-});
+      const src = classifySource(a.url);
+      if (CURRENT_SOURCE_FILTER !== "all" && src.type !== CURRENT_SOURCE_FILTER) return false;
+      if (CURRENT_CATEGORY_FILTER !== "all" && classifyCategory(a) !== CURRENT_CATEGORY_FILTER) return false;
+      return true;
+    });
+
     if (!filtered.length) {
       container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için haber bulunamadı.</p>";
       return;
