@@ -622,58 +622,6 @@ function openModal(article) {
   el.closest(".section").style.display = hasContent ? "" : "none";
 }
 
-/* ===============================
-   MODAL KAPATMA – SADECE FIX
-   =============================== */
-
-if (!window.modalBackdrop) {
-  window.modalBackdrop = document.getElementById("modal-backdrop");
-}
-
-/* Kapatma fonksiyonu */
-function closeModal() {
-  if (!modalBackdrop) return;
-  modalBackdrop.classList.remove("open");
-}
-
-/* X butonu */
-modalCloseBtn.addEventListener("click", closeModal);
-
-/* Backdrop’a tıklayınca kapat */
-modalBackdrop.addEventListener("click", function (e) {
-  if (e.target === modalBackdrop) {
-    closeModal();
-  }
-});
-
-/* ESC tuşu ile kapatma */
-document.addEventListener("keydown", function (e) {
-  if (e.key === "Escape") {
-    closeModal();
-  }
-});
-
-    document.addEventListener("click", function (e) {
-  if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
-    closeModal();
-  }
-
-  if (e.target.classList.contains("modal-overlay")) {
-    closeModal();
-  }
-});
-
-/* Kart tıklama bağlantısı */
-document.addEventListener("click", function (e) {
-  const card = e.target.closest(".news-card");
-  if (!card) return;
-
-  const index = card.getAttribute("data-index");
-  if (index === null) return;
-
-  const article = ALL_ARTICLES[index];
-  if (article) openModal(article);
-});
 /* =======================
    XSS SAFE HELPERS
 ======================= */
