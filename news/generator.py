@@ -136,7 +136,7 @@ for source, url in RSS_FEEDS:
 
         if source_type == "intl":
             intl_category = detect_intl_category(combined)
-            category = "dunya"
+            category = intl_category
             label_tr = f"Dünya • {INTL_LABELS_TR[intl_category]}"
         else:
             intl_category = None
