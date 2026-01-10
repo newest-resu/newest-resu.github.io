@@ -587,42 +587,56 @@ function whyImportant(article) {
   return map[cat] || "Gündemde öne çıkan ve dikkat çeken bir gelişme.";
 }
 
-function openModal(article) {
-  modalTitle.textContent = article.title;
-  // Uzun özet
-toggleSection("modalLong", !!modalSummary.textContent.trim());
+function buildImpacts(article) {
+  const impacts = [];
+  const cat = article.category;
 
-// Neden Önemli
-toggleSection("modalWhy", article.category);
+  if (cat === "gundem" || cat === "yerel") {
+    impacts.push("Günlük yaşamı ve vatandaşların planlarını etkileyebilir.");
+  }
+  if (cat === "ekonomi" || cat === "finans") {
+    impacts.push("Piyasa beklentileri ve ekonomik kararlar üzerinde etkili olabilir.");
+  }
+  if (cat === "spor") {
+    impacts.push("Takımların veya sporcuların performansını etkileyebilir.");
+  }
+  if (cat === "teknoloji") {
+    impacts.push("Yeni teknolojilerin kullanım alanlarını genişletebilir.");
+  }
 
-// Arka Plan
-toggleSection("modalBg", Array.isArray(article.background) && article.background.length);
-
-// Olası Etkiler
-toggleSection("modalImp", Array.isArray(article.impacts) && article.impacts.length);
-  
-  modalSummary.textContent =
-  article.summary ||
-  article.description ||
-  `${article.title} başlıklı bu haber ${article.source} tarafından yayımlandı. 
-Gelişmenin ayrıntıları ve resmi açıklamalar için kaynağa gitmeniz önerilir.`;
-  
-  modalMeta.innerHTML = `
-    <strong>Kaynak:</strong> ${article.source} <br>
-    <strong>Yayın:</strong> ${formatDate(article.published_at)} <br><br>
-    <strong>Neden önemli?</strong><br>
-    ${whyImportant(article)}
-  `;
-
-  modalLink.href = article.url;
-  modalLink.target = "_blank";
-
-  modal.classList.add("open");
+  return impacts;
 }
     function toggleSection(sectionId, hasContent) {
   const el = document.getElementById(sectionId);
   if (!el) return;
   el.closest(".section").style.display = hasContent ? "" : "none";
+}
+
+    function openModal(article) {
+  modalTitle.textContent = article.title;
+  modalSummary.textContent =
+  article.summary.length > 220
+    ? article.summary
+    : article.summary + " Detaylar ve gelişmeler haber akışına göre takip edilmektedir.";
+  modalMeta.textContent = `${article.source} • ${formatDate(article.published_at)}`;
+  modalLink.href = article.url;
+
+  // Neden Önemli
+  const whyEl = document.getElementById("modalWhy");
+  whyEl.innerHTML = `<li>${escapeHtml(whyImportant(article))}</li>`;
+  toggleSection("modalWhy", true);
+
+  // Arka Plan (şimdilik gizli)
+  toggleSection("modalBg", false);
+document.getElementById("modalBg").innerHTML = "";
+
+  // Olası Etkiler
+  const impacts = buildImpacts(article);
+  const impEl = document.getElementById("modalImp");
+  impEl.innerHTML = impacts.map(i => `<li>${escapeHtml(i)}</li>`).join("");
+  toggleSection("modalImp", impacts.length > 0);
+
+  modalBackdrop.classList.add("open");
 }
 
 /* ===============================
@@ -655,27 +669,6 @@ document.addEventListener("keydown", function (e) {
   }
 });
 
-    document.addEventListener("click", function (e) {
-  if (e.target.closest(".modal-close, .modal-close-btn, .close-modal")) {
-    closeModal();
-  }
-
-  if (e.target.classList.contains("modal-overlay")) {
-    closeModal();
-  }
-});
-
-/* Kart tıklama bağlantısı */
-document.addEventListener("click", function (e) {
-  const card = e.target.closest(".news-card");
-  if (!card) return;
-
-  const index = card.getAttribute("data-index");
-  if (index === null) return;
-
-  const article = ALL_ARTICLES[index];
-  if (article) openModal(article);
-});
   /* =======================
      XSS SAFE HELPERS (EN ÜSTE ALINDI)
   ======================= */
@@ -727,12 +720,12 @@ document.addEventListener("click", function (e) {
     }
   }
 
-  function classifySource(url) {
-    const d = getDomain(url);
-    if (!d) return { label: "Bilinmeyen", type: "intl" };
-    return { label: d, type: d.endsWith(".tr") ? "tr" : "intl" };
-  }
-
+  function getSourceInfo(article) {
+  return {
+    type: article.source_type || "intl",
+    label: article.source || "Kaynak"
+  };
+}
   function classifyCategory(a) {
     return a.category || "gundem";
   }
@@ -761,8 +754,11 @@ document.addEventListener("click", function (e) {
     container.innerHTML = "";
 
     const filtered = ALL_ARTICLES.filter(a => {
-      const src = classifySource(a.url);
-      if (CURRENT_SOURCE_FILTER !== "all" && src.type !== CURRENT_SOURCE_FILTER) return false;
+      const src = getSourceInfo(a);
+      if (
+  CURRENT_SOURCE_FILTER !== "all" &&
+  a.source_type !== CURRENT_SOURCE_FILTER
+) return false;
       if (CURRENT_CATEGORY_FILTER !== "all" && classifyCategory(a) !== CURRENT_CATEGORY_FILTER) return false;
       return true;
     });
@@ -773,7 +769,7 @@ document.addEventListener("click", function (e) {
     }
 
     filtered.forEach(a => {
-      const src = classifySource(a.url);
+      const src = getSourceInfo(a);
       const cat = classifyCategory(a);
       const card = document.createElement("article");
       card.className = "card";
@@ -785,11 +781,11 @@ document.addEventListener("click", function (e) {
         <div class="card-body">
           <div class="meta-line">
             <span class="badge-source">${src.label}</span>
-            <span class="badge-tag">${src.type === "tr" ? "Türkiye" : "Yabancı"}</span>
+            <span class="badge-tag">${src.type === "tr" ? "Türkiye Kaynaklı" : "Yabancı Kaynaklar"}</span>
             <span class="badge-cat">${CATEGORY_LABELS[cat] || "Gündem"}</span>
           </div>
-          <h2 class="headline">${escapeHtml(a.title_tr || a.title)}</h2>
-          <p class="summary">${escapeHtml(a.summary_tr || a.summary || "")}</p>
+          <h2 class="headline">${escapeHtml(a.title)}</h2>
+          <p class="summary">${escapeHtml(a.summary || "")}</p>
           <div class="actions">
             <button class="btn-read">Haberi Oku</button>
             <a class="btn-ghost" href="${escapeAttr(a.url)}" target="_blank">Kaynağa Git</a>
