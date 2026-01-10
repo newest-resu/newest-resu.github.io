@@ -1,10 +1,10 @@
 import feedparser
 import json
-import datetime
-from pathlib import Path
 import html
 import re
 import requests
+import time
+from pathlib import Path
 from datetime import datetime, timedelta, timezone
 
 OUTPUT = Path("news/raw_news.json")
@@ -88,20 +88,7 @@ INTL_CATEGORY_KEYWORDS = {
     
 }
 
-INTL_LABELS_TR = {
-    "savunma": "Savunma",
-    "ekonomi": "Ekonomi",
-    "teknoloji": "Teknoloji",
-    "spor": "Spor",
-    "finans": "Finans",
-    "saglık": "Sağlık",
-    "magazin": "Magazin",
-    "bilim": "Bilim",
-    "oyun/dijital": "Oyun / Dijital",
-    "otomobil": "Otomobil",
-    "yasam": "Yaşam",
-    "dunya": "Dünya"
-}
+TRANSLATION_CACHE = {}
 
 def clean_html(text):
     if not text:
@@ -114,19 +101,15 @@ def parse_entry_date(entry):
         return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
     return None
 
-TRANSLATION_CACHE = {}
-
 def translate_text_safe(text):
-    if not text or len(text.strip()) < 5:
+    if not text or len(text) < 5:
         return text
-
     if text in TRANSLATION_CACHE:
         return TRANSLATION_CACHE[text]
-
     try:
         r = requests.post(
             "https://libretranslate.de/translate",
-            data={"q": text, "source": "en", "target": "tr", "format": "text"},
+            data={"q": text, "source": "en", "target": "tr"},
             timeout=15
         )
         if r.status_code == 200:
@@ -136,87 +119,71 @@ def translate_text_safe(text):
             return translated
     except Exception:
         pass
-
     return text
 
-def translate_article(title, summary):
-    combined = f"TITLE: {title}\nSUMMARY: {summary}"
-    translated = translate_text_safe(combined)
-
-    if "SUMMARY:" in translated:
-        t_title, t_summary = translated.split("SUMMARY:", 1)
-        return t_title.replace("TITLE:", "").strip(), t_summary.strip()
-
-    return title, summary
-
-def detect_intl_category(text):
+def detect_category(text):
     t = text.lower()
-    scores = {cat: sum(1 for k in keys if k in t) for cat, keys in INTL_CATEGORY_KEYWORDS.items()}
-    scores = {k: v for k, v in scores.items() if v > 0}
-    return max(scores, key=scores.get) if scores else "dunya"
+    for cat, keys in CATEGORY_KEYWORDS.items():
+        if any(k in t for k in keys):
+            return cat
+    return "Gündem"
 
-def extract_image(entry):
-    for key in ("media_content", "media_thumbnail"):
-        media = entry.get(key)
-        if isinstance(media, list) and media:
-            return media[0].get("url", "")
-    for e in entry.get("enclosures", []):
-        if e.get("type", "").startswith("image"):
-            return e.get("href", "")
-    return ""
+def build_long_summary(summary):
+    return summary[:500]
+
+def build_why_important(category):
+    return f"{category} alanında kamuoyunu ilgilendiren bir gelişme."
+
+def build_possible_impacts(category):
+    impacts = {
+        "Ekonomi": "Piyasalarda dalgalanmalara yol açabilir.",
+        "Spor": "Takımlar ve taraftarlar açısından sonuçlar doğurabilir.",
+        "Sağlık": "Toplum sağlığı açısından dikkat edilmesi gerekebilir.",
+        "Teknoloji": "Dijital dönüşüm süreçlerini etkileyebilir."
+    }
+    return impacts.get(category, "Gelişmenin farklı alanlarda etkileri olabilir.")
 
 articles = []
 
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
-    source_type = "intl" if source in (
-        "BBC World", "Reuters World", "Sky Sports", "BBC Sport",
-        "Defense News", "Breaking Defense", "Popular Science",
-        "Science Daily", "Elle", "IGN", "GameSpot", "Autocar"
-    ) else "tr"
+
+    source_group = "Yabancı Kaynaklar" if source not in (
+        "NTV","Habertürk","Anadolu Ajansı Yerel","TRT Haber",
+        "Bursa Hakimiyet","Yalova Gazetesi","Webtekno","ShiftDelete",
+        "Sağlık Bakanlığı","Medimagazin","Dünya Gazetesi",
+        "Bloomberg HT","Investing TR","Foreks","Onedio","Motor1"
+    ) else "Türkiye Kaynaklı"
 
     for e in feed.entries[:25]:
         published_dt = parse_entry_date(e)
         if published_dt and published_dt < CUTOFF_TIME:
-            continue  # ⏱️ 36 saat filtresi
+            continue
 
         raw_title = clean_html(e.get("title", ""))
-        raw_summary = clean_html(e.get("summary") or e.get("description") or "")
-        raw_summary = raw_summary or f"{raw_title} ile ilgili gelişmeler aktarıldı."
+        raw_summary = clean_html(e.get("summary") or e.get("description") or raw_title)
 
-        if source_type == "intl":
-            intl_category = detect_intl_category(f"{raw_title} {raw_summary}")
-            title, summary = translate_article(raw_title, raw_summary)
-            category = intl_category
-            label_tr = INTL_LABELS_TR.get(intl_category, "Dünya")
-        else:
-            intl_category = None
-            title = raw_title
-            summary = raw_summary
-            category = "gundem"
-            label_tr = "Gündem"
+        title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklar" else raw_title
+        summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklar" else raw_summary
+
+        sub_category = detect_category(f"{title} {summary}")
 
         articles.append({
             "title": title,
             "summary": summary,
-            "url": e.get("link", ""),
-            "image": extract_image(e),
+            "long_summary": build_long_summary(summary),
+            "why_important": build_why_important(sub_category),
+            "possible_impacts": build_possible_impacts(sub_category),
+            "main_category": source_group,
+            "sub_category": sub_category,
             "source": source,
-            "published_at": e.get("published", ""),
-            "category": category,
-            "intl_category": intl_category,
-            "label_tr": label_tr,
-            "source_type": source_type
+            "url": e.get("link", ""),
+            "published_at": e.get("published", "")
         })
 
 OUTPUT.parent.mkdir(exist_ok=True)
 with open(OUTPUT, "w", encoding="utf-8") as f:
-    json.dump(
-        {
-            "generated_at": datetime.utcnow().isoformat(),
-            "articles": articles
-        },
-        f,
-        ensure_ascii=False,
-        indent=2
-    )
+    json.dump({
+        "generated_at": datetime.utcnow().isoformat(),
+        "articles": articles
+    }, f, ensure_ascii=False, indent=2)
