@@ -161,10 +161,10 @@ for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
 
     source_group = "Yabancı Kaynaklar" if source not in (
-        "NTV","Habertürk","Anadolu Ajansı Yerel","TRT Haber",
-        "Bursa Hakimiyet","Yalova Gazetesi","Webtekno","ShiftDelete",
-        "Sağlık Bakanlığı","Medimagazin","Dünya Gazetesi",
-        "Bloomberg HT","Investing TR","Foreks","Onedio","Motor1"
+        "NTV", "Habertürk", "Anadolu Ajansı Yerel", "TRT Haber",
+        "Bursa Hakimiyet", "Yalova Gazetesi", "Webtekno", "ShiftDelete",
+        "Sağlık Bakanlığı", "Medimagazin", "Dünya Gazetesi",
+        "Bloomberg HT", "Investing TR", "Foreks", "Onedio", "Motor1"
     ) else "Türkiye Kaynaklı"
 
     for e in feed.entries[:25]:
@@ -178,7 +178,7 @@ for source, url in RSS_FEEDS:
         title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklar" else raw_title
         summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklar" else raw_summary
 
-       if source_group == "Yabancı Kaynaklar":
+        if source_group == "Yabancı Kaynaklar":
             sub_category = detect_category(
                 f"{title} {summary}",
                 INTL_CATEGORY_KEYWORDS
