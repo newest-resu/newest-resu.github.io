@@ -99,6 +99,22 @@ TR_CATEGORY_KEYWORDS = {
     "otomobil": ["otomobil", "araç", "kaza", "trafik", "ehliyet"],
 }
 
+CATEGORY_DISPLAY_MAP = {
+    "gundem": "Gündem",
+    "dunya": "Dünya",
+    "spor": "Spor",
+    "teknoloji": "Teknoloji",
+    "saglik": "Sağlık",
+    "ekonomi": "Ekonomi",
+    "finans": "Finans",
+    "magazin": "Magazin",
+    "bilim": "Bilim",
+    "oyun/dijital": "Oyun / Dijital",
+    "otomobil": "Otomobil",
+    "yasam": "Yaşam",
+    "savunma": "Savunma / Askeri"
+}
+
 TRANSLATION_CACHE = {}
 
 def clean_html(text):
@@ -160,7 +176,7 @@ articles = []
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
 
-    source_group = "Yabancı Kaynaklar" if source not in (
+    source_group = "Yabancı Kaynaklı" if source not in (
         "NTV", "Habertürk", "Anadolu Ajansı Yerel", "TRT Haber",
         "Bursa Hakimiyet", "Yalova Gazetesi", "Webtekno", "ShiftDelete",
         "Sağlık Bakanlığı", "Medimagazin", "Dünya Gazetesi",
@@ -189,6 +205,11 @@ for source, url in RSS_FEEDS:
                 TR_CATEGORY_KEYWORDS
             )
 
+        sub_category_display = CATEGORY_DISPLAY_MAP.get(
+    sub_category,
+    sub_category.capitalize()
+)
+
         articles.append({
             "title": title,
             "summary": summary,
@@ -196,7 +217,7 @@ for source, url in RSS_FEEDS:
             "why_important": build_why_important(sub_category),
             "possible_impacts": build_possible_impacts(sub_category),
             "main_category": source_group,
-            "sub_category": sub_category,
+            "sub_category": sub_category_display,
             "source": source,
             "url": e.get("link", ""),
             "published_at": e.get("published", "")
