@@ -126,6 +126,55 @@ CATEGORY_DISPLAY_MAP = {
     "savunma": "Savunma / Askeri"
 }
 
+const SOURCE_CATEGORY_MAP = {
+  // Türkiye – Genel
+  "Anadolu Ajansı": "Gündem",
+  "TRT Haber": "Gündem",
+  "DHA": "Gündem",
+  "İHA": "Gündem",
+  "NTV": "Gündem",
+  "Habertürk": "Gündem",
+  "Sözcü": "Gündem",
+  "Hürriyet": "Gündem",
+  "Milliyet": "Gündem",
+  "CNN Türk": "Gündem",
+
+  // Yerel
+  "Yalova Haber": "Yerel",
+  "Bursa Hakimiyet": "Yerel",
+  "İstanbul Haber": "Yerel",
+
+  // Spor
+  "TRT Spor": "Spor",
+  "Fanatik": "Spor",
+  "Sporx": "Spor",
+  "BBC Sport": "Spor",
+  "Sky Sports": "Spor",
+  "ESPN": "Spor",
+
+  // Teknoloji
+  "Webtekno": "Teknoloji",
+  "ShiftDelete": "Teknoloji",
+  "DonanımHaber": "Teknoloji",
+  "The Verge": "Teknoloji",
+  "TechCrunch": "Teknoloji",
+
+  // Ekonomi / Finans
+  "Bloomberg HT": "Finans",
+  "Reuters": "Ekonomi",
+  "Dünya Gazetesi": "Ekonomi",
+  "CNBC": "Finans",
+
+  // Bilim / Sağlık
+  "Nature": "Bilim",
+  "ScienceDaily": "Bilim",
+  "Medical News Today": "Sağlık",
+
+  // Savunma
+  "Defense News": "Savunma / Askeri",
+  "Breaking Defense": "Savunma / Askeri"
+};
+
 TRANSLATION_CACHE = {}
 
 def clean_html(text):
