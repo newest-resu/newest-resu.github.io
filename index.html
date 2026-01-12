@@ -614,8 +614,7 @@ function buildImpacts(article) {
 
     function openModal(article) {
   modalTitle.textContent = article.title;
-  modalSummary.textContent =
-  article.summary.length > 220
+  modalSummary.textContent = article.long_summary || article.summary;
     ? article.summary
     : article.summary + " Detaylar ve gelişmeler haber akışına göre takip edilmektedir.";
   modalMeta.textContent = `${article.source} • ${formatDate(article.published_at)}`;
@@ -623,7 +622,7 @@ function buildImpacts(article) {
 
   // Neden Önemli
   const whyEl = document.getElementById("modalWhy");
-  whyEl.innerHTML = `<li>${escapeHtml(whyImportant(article))}</li>`;
+  whyEl.innerHTML = `<li>${escapeHtml(article.why_important || "")}</li>`;
   toggleSection("modalWhy", true);
 
   // Arka Plan (şimdilik gizli)
@@ -631,7 +630,9 @@ function buildImpacts(article) {
 document.getElementById("modalBg").innerHTML = "";
 
   // Olası Etkiler
-  const impacts = buildImpacts(article);
+  const impacts = article.possible_impacts
+  ? [article.possible_impacts]
+  : [];
   const impEl = document.getElementById("modalImp");
   impEl.innerHTML = impacts.map(i => `<li>${escapeHtml(i)}</li>`).join("");
   toggleSection("modalImp", impacts.length > 0);
@@ -721,14 +722,33 @@ document.addEventListener("keydown", function (e) {
   }
 
   function getSourceInfo(article) {
+  const isTR = article.main_category === "Türkiye Kaynaklı";
   return {
-    type: article.source_type || "intl",
+    type: isTR ? "tr" : "intl",
     label: article.source || "Kaynak"
   };
 }
   function classifyCategory(a) {
-    return a.category || "gundem";
-  }
+  if (!a.sub_category) return "gundem";
+
+  const map = {
+    "Gündem": "gundem",
+    "Dünya": "dunya",
+    "Spor": "spor",
+    "Teknoloji": "teknoloji",
+    "Sağlık": "saglik",
+    "Ekonomi": "ekonomi",
+    "Finans": "finans",
+    "Magazin": "magazin",
+    "Bilim": "bilim",
+    "Savunma / Askeri": "savunma",
+    "Oyun / Dijital": "oyun",
+    "Otomobil": "otomobil",
+    "Yaşam": "yasam"
+  };
+
+  return map[a.sub_category] || "gundem";
+}
 
   function formatTRDate(iso) {
     try {
