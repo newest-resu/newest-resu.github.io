@@ -179,15 +179,15 @@ for source, url in RSS_FEEDS:
         summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklar" else raw_summary
 
        if source_group == "Yabancı Kaynaklar":
-    sub_category = detect_category(
-        f"{title} {summary}",
-        INTL_CATEGORY_KEYWORDS
-    )
-else:
-    sub_category = detect_category(
-        f"{title} {summary}",
-        TR_CATEGORY_KEYWORDS
-    )
+            sub_category = detect_category(
+                f"{title} {summary}",
+                INTL_CATEGORY_KEYWORDS
+            )
+        else:
+            sub_category = detect_category(
+                f"{title} {summary}",
+                TR_CATEGORY_KEYWORDS
+            )
 
         articles.append({
             "title": title,
