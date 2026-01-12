@@ -89,19 +89,30 @@ INTL_CATEGORY_KEYWORDS = {
 }
 
 TR_CATEGORY_KEYWORDS = {
-    "gundem": ["son dakika", "açıklama", "karar", "gelişme", "olay"],
-    "ekonomi": ["enflasyon", "zam", "maaş", "asgari", "faiz", "banka", "borsa", "dolar", "euro", "altın"],
-    "spor": ["maç", "gol", "lig", "transfer", "teknik direktör", "derbi", "puan"],
-    "saglik": ["sağlık", "hastane", "doktor", "aşı", "salgın", "grip", "covid"],
-    "teknoloji": ["teknoloji", "yazılım", "uygulama", "yapay zeka", "siber", "internet"],
-    "magazin": ["ünlü", "sanatçı", "oyuncu", "dizi", "film", "evlilik", "boşanma"],
-    "yasam": ["hava durumu", "trafik", "eğitim", "okul", "tatil", "yaşam"],
-    "otomobil": ["otomobil", "araç", "kaza", "trafik", "ehliyet"],
+    "gundem": ["son dakika", "açıklama", "karar", "gelişme", "olay","idari", "resmi", "bildiri", "toplantı", "basın açıklaması", "soruşturma", "inceleme", "gözaltı", "tutuklama",
+        "kanun", "yasa", "meclis", "tbmm", "genelge"],
+    "dunya": ["uluslararası", "dışişleri", "yabancı", "küresel","nato", "bm", "birleşmiş milletler", "avrupa birliği","abd", "rusya", "ukrayna", "çin", "orta doğu",
+        "savaş", "çatışma", "ateşkes", "diplomasi","zirve", "ambargo", "yaptırım"],
+    "yerel": ["belediye", "büyükşehir", "il", "ilçe", "valilik","kaymakamlık", "yerel", "mahalle", "köy","altyapı", "yol çalışması", "su kesintisi", "elektrik kesintisi","imar", "çevre düzenlemesi",
+        "yalova", "bursa", "istanbul", "izmit", "kocaeli", "sakarya"],
+    "ekonomi": ["enflasyon", "zam", "maaş", "asgari ücret","faiz", "merkez bankası", "tcmb","banka", "kredi", "borç", "vergi","dolar", "euro", "altın", "petrol","ihracat", "ithalat", "cari açık",
+        "büyüme", "ekonomik veri"],
+    "finans": ["borsa", "bist", "hisse", "senet","yatırım", "portföy", "fon","kripto", "bitcoin", "ethereum","tahvil", "bono","faiz kararı", "piyasa", "endeks","finansal rapor", "şirket bilançosu"],
+    "spor": ["maç", "gol", "lig", "puan durumu","transfer", "teknik direktör", "derbi","futbol", "basketbol", "voleybol","milli takım", "şampiyona","hakem", "kart", "ceza","taraftar", "stadyum"],
+    "saglik": ["sağlık", "hastane", "doktor", "hemşire","aşı", "salgın", "grip", "covid","virüs", "bulaşıcı","ameliyat", "tedavi", "ilaç","sağlık bakanlığı", "halk sağlığı","psikoloji", "ruh sağlığı"],
+    "teknoloji": ["teknoloji", "yazılım", "donanım","uygulama", "mobil uygulama","yapay zeka", "ai", "otomasyon","siber", "siber güvenlik","internet", "veri", "sunucu","sosyal medya", "platform","güncelleme", "sistem"],
+    "bilim": ["bilim", "bilimsel", "araştırma","deney", "çalışma", "rapor","üniversite", "akademik","uzay", "nasa", "tübitak","iklim", "çevre", "küresel ısınma","biyoloji", "fizik", "kimya"],
+    "magazin": ["ünlü", "sanatçı", "oyuncu","dizi", "film", "sinema","televizyon", "program","evlilik", "boşanma","magazin", "sosyal medya paylaşımı","konser", "albüm", "şarkı","moda", "defile"],
+    "yasam": ["hava durumu", "fırtına", "yağmur", "kar","trafik", "kaza", "yoğunluk","eğitim", "okul", "üniversite","tatil", "resmi tatil","yaşam", "günlük hayat","toplu taşıma", "metro", "otobüs","konut", "kira"],
+    "otomobil": ["otomobil", "araç", "trafik","kaza", "ehliyet","otomotiv", "araç muayenesi","elektrikli araç", "hibrit","yakıt", "benzin", "motorin","otoyol", "hız sınırı","servis", "geri çağırma"],
+    "oyun/dijital": ["oyun", "video oyun","mobil oyun", "bilgisayar oyunu","espor", "turnuva","playstation", "xbox", "pc","steam", "epic games","güncelleme", "yama","oyuncu", "oyun stüdyosu"],
+    "savunma": ["savunma", "askeri","ordu", "silahlı kuvvetler","tsk", "msb","tatbikat", "operasyon","insansız hava aracı", "iha", "siha","füze", "silah sistemi","güvenlik", "sınır güvenliği","terör", "terörle mücadele"]
 }
 
 CATEGORY_DISPLAY_MAP = {
     "gundem": "Gündem",
     "dunya": "Dünya",
+    "yerel": "Yerel",
     "spor": "Spor",
     "teknoloji": "Teknoloji",
     "saglik": "Sağlık",
@@ -194,7 +205,10 @@ for source, url in RSS_FEEDS:
         title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklı" else raw_title
         summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklı" else raw_summary
 
-        if source_group == "Yabancı Kaynaklı":
+        # Kategori tespiti
+        if source == "Anadolu Ajansı Yerel":
+            sub_category = "yerel"
+        elif source_group == "Yabancı Kaynaklı":
             sub_category = detect_category(
                 f"{title} {summary}",
                 INTL_CATEGORY_KEYWORDS
