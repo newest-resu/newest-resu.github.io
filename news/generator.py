@@ -159,7 +159,7 @@ def build_long_summary(summary):
     return summary[:500]
 
 def build_why_important(category):
-    return f"{category} alanında kamuoyunu ilgilendiren bir gelişme."
+    return f"{category} alanında kamuoyunu yakından ilgilendiren bir gelişme."
 
 def build_possible_impacts(category):
     impacts = {
@@ -191,10 +191,10 @@ for source, url in RSS_FEEDS:
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or raw_title)
 
-        title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklar" else raw_title
-        summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklar" else raw_summary
+        title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklı" else raw_title
+        summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklı" else raw_summary
 
-        if source_group == "Yabancı Kaynaklar":
+        if source_group == "Yabancı Kaynaklı":
             sub_category = detect_category(
                 f"{title} {summary}",
                 INTL_CATEGORY_KEYWORDS
@@ -205,10 +205,7 @@ for source, url in RSS_FEEDS:
                 TR_CATEGORY_KEYWORDS
             )
 
-        sub_category_display = CATEGORY_DISPLAY_MAP.get(
-    sub_category,
-    sub_category.capitalize()
-)
+        sub_category_display = CATEGORY_DISPLAY_MAP.get(sub_category, sub_category.capitalize())
 
         articles.append({
             "title": title,
