@@ -88,6 +88,17 @@ INTL_CATEGORY_KEYWORDS = {
     
 }
 
+TR_CATEGORY_KEYWORDS = {
+    "gundem": ["son dakika", "açıklama", "karar", "gelişme", "olay"],
+    "ekonomi": ["enflasyon", "zam", "maaş", "asgari", "faiz", "banka", "borsa", "dolar", "euro", "altın"],
+    "spor": ["maç", "gol", "lig", "transfer", "teknik direktör", "derbi", "puan"],
+    "saglik": ["sağlık", "hastane", "doktor", "aşı", "salgın", "grip", "covid"],
+    "teknoloji": ["teknoloji", "yazılım", "uygulama", "yapay zeka", "siber", "internet"],
+    "magazin": ["ünlü", "sanatçı", "oyuncu", "dizi", "film", "evlilik", "boşanma"],
+    "yasam": ["hava durumu", "trafik", "eğitim", "okul", "tatil", "yaşam"],
+    "otomobil": ["otomobil", "araç", "kaza", "trafik", "ehliyet"],
+}
+
 TRANSLATION_CACHE = {}
 
 def clean_html(text):
@@ -121,12 +132,12 @@ def translate_text_safe(text):
         pass
     return text
 
-def detect_category(text):
+def detect_category(text, keyword_map):
     t = text.lower()
-    for cat, keys in CATEGORY_KEYWORDS.items():
+    for cat, keys in keyword_map.items():
         if any(k in t for k in keys):
             return cat
-    return "Gündem"
+    return "gundem"
 
 def build_long_summary(summary):
     return summary[:500]
@@ -136,10 +147,11 @@ def build_why_important(category):
 
 def build_possible_impacts(category):
     impacts = {
-        "Ekonomi": "Piyasalarda dalgalanmalara yol açabilir.",
-        "Spor": "Takımlar ve taraftarlar açısından sonuçlar doğurabilir.",
-        "Sağlık": "Toplum sağlığı açısından dikkat edilmesi gerekebilir.",
-        "Teknoloji": "Dijital dönüşüm süreçlerini etkileyebilir."
+        "ekonomi": "Piyasalarda dalgalanmalara yol açabilir.",
+        "spor": "Takımlar ve taraftarlar açısından sonuçlar doğurabilir.",
+        "saglik": "Toplum sağlığı açısından dikkat edilmesi gerekebilir.",
+        "teknoloji": "Dijital dönüşüm süreçlerini etkileyebilir.",
+        "gundem": "Geniş kitleleri ilgilendiren sonuçlar doğurabilir."
     }
     return impacts.get(category, "Gelişmenin farklı alanlarda etkileri olabilir.")
 
@@ -166,7 +178,16 @@ for source, url in RSS_FEEDS:
         title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklar" else raw_title
         summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklar" else raw_summary
 
-        sub_category = detect_category(f"{title} {summary}")
+       if source_group == "Yabancı Kaynaklar":
+    sub_category = detect_category(
+        f"{title} {summary}",
+        INTL_CATEGORY_KEYWORDS
+    )
+else:
+    sub_category = detect_category(
+        f"{title} {summary}",
+        TR_CATEGORY_KEYWORDS
+    )
 
         articles.append({
             "title": title,
