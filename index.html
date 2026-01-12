@@ -468,7 +468,7 @@
           <button class="btn-filter btn-filter-cat active" data-filter-cat="all">Tüm Kategoriler</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="gundem">Gündem</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="dunya">Dünya</button>
-          <button class="btn-filter btn-filter-cat" data-filter-cat="yerel">Yerel</button>
+          <button class="btn-filter btn-filter-cat" data-filter-cat="yerel" data-only-tr="true">Yerel</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="spor">Spor</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="teknoloji">Teknoloji</button>
           <button class="btn-filter btn-filter-cat" data-filter-cat="saglik">Sağlık</button>
@@ -675,6 +675,32 @@ document.addEventListener("keydown", function (e) {
     yasam: "Yaşam"
   };
 
+  function syncYerelVisibility() {
+  const yerelBtn = document.querySelector('[data-filter-cat="yerel"]');
+  if (!yerelBtn) return;
+
+  const isTR = CURRENT_SOURCE_FILTER === "tr";
+
+  // Görünürlük
+  yerelBtn.style.display = isTR ? "" : "none";
+
+  // Eğer Yerel seçiliyken TR dışına çıkıldıysa resetle
+  if (!isTR && CURRENT_CATEGORY_FILTER === "yerel") {
+    CURRENT_CATEGORY_FILTER = "all";
+    document
+      .querySelector('.btn-filter-cat[data-filter-cat="all"]')
+      ?.classList.add("active");
+
+    yerelBtn.classList.remove("active");
+  }
+
+  if (!isTR && CURRENT_CATEGORY_FILTER === "all") {
+  document
+    .querySelector('.btn-filter-cat[data-filter-cat="all"]')
+    ?.classList.add("active");
+  }
+}
+
   function safeText(v) {
     return (v ?? "").toString().trim();
   }
@@ -694,12 +720,15 @@ document.addEventListener("keydown", function (e) {
     label: article.source || "Kaynak"
   };
 }
+
   function classifyCategory(a) {
   if (!a.sub_category) return "gundem";
+  if (a.sub_category === "Oyun / Dijital") return "oyun";
 
   const map = {
     "Gündem": "gundem",
     "Dünya": "dunya",
+    "Yerel": "yerel",
     "Spor": "spor",
     "Teknoloji": "teknoloji",
     "Sağlık": "saglik",
@@ -813,6 +842,7 @@ if (
       document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
       src.classList.add("active");
       CURRENT_SOURCE_FILTER = src.dataset.filterSource;
+      syncYerelVisibility(); // ← EKLENDİ
       renderArticles();
     }
 
@@ -825,6 +855,7 @@ if (
     });
     
   loadNews({ force: true });
+  syncYerelVisibility();
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
     
 </script>
