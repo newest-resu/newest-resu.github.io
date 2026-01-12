@@ -205,18 +205,18 @@ for source, url in RSS_FEEDS:
         title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklı" else raw_title
         summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklı" else raw_summary
 
-        # Kategori tespiti
-        if source == "Anadolu Ajansı Yerel":
-            sub_category = "yerel"
-        elif source_group == "Yabancı Kaynaklı":
-            sub_category = detect_category(
-                f"{title} {summary}",
-                INTL_CATEGORY_KEYWORDS
-            )
+        if source_group == "Türkiye Kaynaklı":
+            if source == "Anadolu Ajansı Yerel":
+                sub_category = "yerel"
+            else:
+                sub_category = detect_category(
+                    f"{title} {summary}",
+                    TR_CATEGORY_KEYWORDS
+                )
         else:
             sub_category = detect_category(
                 f"{title} {summary}",
-                TR_CATEGORY_KEYWORDS
+                INTL_CATEGORY_KEYWORDS
             )
 
         sub_category_display = CATEGORY_DISPLAY_MAP.get(sub_category, sub_category.capitalize())
