@@ -553,8 +553,7 @@
     /* ===============================
    MODAL KONTROL + GERÇEKÇİ METİN
    =============================== */
-
-const modal = document.getElementById("modalBackdrop");
+const modalBackdrop = document.getElementById("modalBackdrop");
 const modalTitle = document.getElementById("modalTitle");
 const modalSummary = document.getElementById("modalLong");
 const modalMeta = document.getElementById("modalMeta");
@@ -572,67 +571,35 @@ function formatDate(dateStr) {
   });
 }
 
-function whyImportant(article) {
-  const cat = article.category;
-
-  const map = {
-    gundem: "Kamuoyunu ve güncel gelişmeleri doğrudan ilgilendiren bir konu.",
-    yerel: "Bölgesel gelişmeler açısından vatandaşları yakından ilgilendiriyor.",
-    dunya: "Uluslararası dengeleri ve küresel gündemi etkileyebilecek bir gelişme.",
-    ekonomi: "Ekonomik göstergeler ve piyasa beklentileri açısından önem taşıyor.",
-    teknoloji: "Teknolojik gelişmelerin günlük yaşama etkisini ortaya koyuyor.",
-    spor: "Spor dünyasında dengeleri etkileyebilecek bir gelişme."
-  };
-
-  return map[cat] || "Gündemde öne çıkan ve dikkat çeken bir gelişme.";
-}
-
-function buildImpacts(article) {
-  const impacts = [];
-  const cat = article.category;
-
-  if (cat === "gundem" || cat === "yerel") {
-    impacts.push("Günlük yaşamı ve vatandaşların planlarını etkileyebilir.");
-  }
-  if (cat === "ekonomi" || cat === "finans") {
-    impacts.push("Piyasa beklentileri ve ekonomik kararlar üzerinde etkili olabilir.");
-  }
-  if (cat === "spor") {
-    impacts.push("Takımların veya sporcuların performansını etkileyebilir.");
-  }
-  if (cat === "teknoloji") {
-    impacts.push("Yeni teknolojilerin kullanım alanlarını genişletebilir.");
-  }
-
-  return impacts;
-}
     function toggleSection(sectionId, hasContent) {
   const el = document.getElementById(sectionId);
   if (!el) return;
-  el.closest(".section").style.display = hasContent ? "" : "none";
+  const section = el.closest(".section");
+  if (section) section.style.display = hasContent ? "" : "none";
 }
-
     function openModal(article) {
   modalTitle.textContent = article.title;
   modalSummary.textContent = article.long_summary || article.summary;
-    ? article.summary
-    : article.summary + " Detaylar ve gelişmeler haber akışına göre takip edilmektedir.";
   modalMeta.textContent = `${article.source} • ${formatDate(article.published_at)}`;
   modalLink.href = article.url;
 
   // Neden Önemli
   const whyEl = document.getElementById("modalWhy");
-  whyEl.innerHTML = `<li>${escapeHtml(article.why_important || "")}</li>`;
-  toggleSection("modalWhy", true);
+  if (article.why_important) {
+    whyEl.innerHTML = `<li>${escapeHtml(article.why_important)}</li>`;
+    toggleSection("modalWhy", true);
+  } else {
+    toggleSection("modalWhy", false);
+  }
 
   // Arka Plan (şimdilik gizli)
   toggleSection("modalBg", false);
-document.getElementById("modalBg").innerHTML = "";
+  document.getElementById("modalBg").innerHTML = "";
 
   // Olası Etkiler
   const impacts = article.possible_impacts
-  ? [article.possible_impacts]
-  : [];
+    ? [article.possible_impacts]
+    : [];
   const impEl = document.getElementById("modalImp");
   impEl.innerHTML = impacts.map(i => `<li>${escapeHtml(i)}</li>`).join("");
   toggleSection("modalImp", impacts.length > 0);
@@ -644,7 +611,6 @@ document.getElementById("modalBg").innerHTML = "";
    MODAL KAPATMA – SADECE FIX
    =============================== */
 
-const modalBackdrop = document.getElementById("modalBackdrop");
 const modalCloseBtn = document.getElementById("modalClose");
 
 /* Kapatma fonksiyonu */
@@ -775,9 +741,9 @@ document.addEventListener("keydown", function (e) {
 
     const filtered = ALL_ARTICLES.filter(a => {
       const src = getSourceInfo(a);
-      if (
+if (
   CURRENT_SOURCE_FILTER !== "all" &&
-  a.source_type !== CURRENT_SOURCE_FILTER
+  src.type !== CURRENT_SOURCE_FILTER
 ) return false;
       if (CURRENT_CATEGORY_FILTER !== "all" && classifyCategory(a) !== CURRENT_CATEGORY_FILTER) return false;
       return true;
@@ -801,7 +767,7 @@ document.addEventListener("keydown", function (e) {
         <div class="card-body">
           <div class="meta-line">
             <span class="badge-source">${src.label}</span>
-            <span class="badge-tag">${src.type === "tr" ? "Türkiye Kaynaklı" : "Yabancı Kaynaklar"}</span>
+            <span class="badge-tag">${src.type === "tr" ? "Türkiye Kaynaklı" : "Yabancı Kaynaklı"}</span>
             <span class="badge-cat">${CATEGORY_LABELS[cat] || "Gündem"}</span>
           </div>
           <h2 class="headline">${escapeHtml(a.title)}</h2>
