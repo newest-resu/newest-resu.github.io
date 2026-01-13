@@ -55,6 +55,59 @@ RSS_FEEDS = [
     ("Autocar", "https://www.autocar.co.uk/rss"),
 ]
 
+SOURCE_CATEGORY_MAP = {
+    # 🇹🇷 TÜRKİYE
+    "NTV": ("Türkiye Kaynaklı", "Gündem"),
+    "Habertürk": ("Türkiye Kaynaklı", "Gündem"),
+    "TRT Haber": ("Türkiye Kaynaklı", "Gündem"),
+
+    "Anadolu Ajansı Yerel": ("Türkiye Kaynaklı", "Yerel"),
+    "Bursa Hakimiyet": ("Türkiye Kaynaklı", "Yerel"),
+    "Yalova Gazetesi": ("Türkiye Kaynaklı", "Yerel"),
+
+    # 🌍 DÜNYA
+    "BBC World": ("Yabancı Kaynaklar", "Dünya"),
+    "Reuters World": ("Yabancı Kaynaklar", "Dünya"),
+
+    # ⚽ SPOR
+    "Sky Sports": ("Yabancı Kaynaklar", "Spor"),
+    "BBC Sport": ("Yabancı Kaynaklar", "Spor"),
+
+    # 💻 TEKNOLOJİ
+    "Webtekno": ("Türkiye Kaynaklı", "Teknoloji"),
+    "ShiftDelete": ("Türkiye Kaynaklı", "Teknoloji"),
+
+    # 🏥 SAĞLIK
+    "Sağlık Bakanlığı": ("Türkiye Kaynaklı", "Sağlık"),
+    "Medimagazin": ("Türkiye Kaynaklı", "Sağlık"),
+
+    # 💰 EKONOMİ / FİNANS
+    "Dünya Gazetesi": ("Türkiye Kaynaklı", "Ekonomi"),
+    "Bloomberg HT": ("Türkiye Kaynaklı", "Finans"),
+    "Investing TR": ("Türkiye Kaynaklı", "Finans"),
+    "Foreks": ("Türkiye Kaynaklı", "Finans"),
+
+    # 🎭 MAGAZİN
+    "Onedio": ("Türkiye Kaynaklı", "Magazin"),
+    "Elle": ("Yabancı Kaynaklar", "Magazin"),
+
+    # 🔬 BİLİM
+    "Popular Science": ("Yabancı Kaynaklar", "Bilim"),
+    "Science Daily": ("Yabancı Kaynaklar", "Bilim"),
+
+    # 🛡️ SAVUNMA
+    "Defense News": ("Yabancı Kaynaklar", "Savunma / Askeri"),
+    "Breaking Defense": ("Yabancı Kaynaklar", "Savunma / Askeri"),
+
+    # 🎮 OYUN
+    "IGN": ("Yabancı Kaynaklar", "Oyun / Dijital"),
+    "GameSpot": ("Yabancı Kaynaklar", "Oyun / Dijital"),
+
+    # 🚗 OTOMOBİL
+    "Motor1": ("Türkiye Kaynaklı", "Otomobil"),
+    "Autocar": ("Yabancı Kaynaklar", "Otomobil"),
+}
+
 INTL_CATEGORY_KEYWORDS = {
 
     "savunma": ["military", "army", "defense", "missile", "weapon","air force", "navy","defence", "defense ministry","missile", "drone", "air strike","terror attack", "terrorism",
@@ -126,54 +179,20 @@ CATEGORY_DISPLAY_MAP = {
     "savunma": "Savunma / Askeri"
 }
 
-const SOURCE_CATEGORY_MAP = {
-  // Türkiye – Genel
-  "Anadolu Ajansı": "Gündem",
-  "TRT Haber": "Gündem",
-  "DHA": "Gündem",
-  "İHA": "Gündem",
-  "NTV": "Gündem",
-  "Habertürk": "Gündem",
-  "Sözcü": "Gündem",
-  "Hürriyet": "Gündem",
-  "Milliyet": "Gündem",
-  "CNN Türk": "Gündem",
+def determine_categories(source, title, summary):
+    # 1️⃣ Kaynağa göre kesin karar
+    if source in SOURCE_CATEGORY_MAP:
+        return SOURCE_CATEGORY_MAP[source]
 
-  // Yerel
-  "Yalova Haber": "Yerel",
-  "Bursa Hakimiyet": "Yerel",
-  "İstanbul Haber": "Yerel",
+    text = f"{title} {summary}".lower()
 
-  // Spor
-  "TRT Spor": "Spor",
-  "Fanatik": "Spor",
-  "Sporx": "Spor",
-  "BBC Sport": "Spor",
-  "Sky Sports": "Spor",
-  "ESPN": "Spor",
+    # 2️⃣ Türkiye keyword fallback
+    for cat, keywords in TR_CATEGORY_KEYWORDS.items():
+        if any(k in text for k in keywords):
+            return ("Türkiye Kaynaklı", CATEGORY_DISPLAY_MAP.get(cat, cat.capitalize()))
 
-  // Teknoloji
-  "Webtekno": "Teknoloji",
-  "ShiftDelete": "Teknoloji",
-  "DonanımHaber": "Teknoloji",
-  "The Verge": "Teknoloji",
-  "TechCrunch": "Teknoloji",
-
-  // Ekonomi / Finans
-  "Bloomberg HT": "Finans",
-  "Reuters": "Ekonomi",
-  "Dünya Gazetesi": "Ekonomi",
-  "CNBC": "Finans",
-
-  // Bilim / Sağlık
-  "Nature": "Bilim",
-  "ScienceDaily": "Bilim",
-  "Medical News Today": "Sağlık",
-
-  // Savunma
-  "Defense News": "Savunma / Askeri",
-  "Breaking Defense": "Savunma / Askeri"
-};
+    # 3️⃣ En son çare
+    return ("Türkiye Kaynaklı", "Gündem")
 
 TRANSLATION_CACHE = {}
 
@@ -208,13 +227,6 @@ def translate_text_safe(text):
         pass
     return text
 
-def detect_category(text, keyword_map):
-    t = text.lower()
-    for cat, keys in keyword_map.items():
-        if any(k in t for k in keys):
-            return cat
-    return "gundem"
-
 def build_long_summary(summary):
     return summary[:500]
 
@@ -223,25 +235,19 @@ def build_why_important(category):
 
 def build_possible_impacts(category):
     impacts = {
-        "ekonomi": "Piyasalarda dalgalanmalara yol açabilir.",
-        "spor": "Takımlar ve taraftarlar açısından sonuçlar doğurabilir.",
-        "saglik": "Toplum sağlığı açısından dikkat edilmesi gerekebilir.",
-        "teknoloji": "Dijital dönüşüm süreçlerini etkileyebilir.",
-        "gundem": "Geniş kitleleri ilgilendiren sonuçlar doğurabilir."
+        "Ekonomi": "Piyasalarda dalgalanmalara yol açabilir.",
+        "Finans": "Yatırımcı davranışlarını ve piyasaları etkileyebilir.",
+        "Spor": "Takımlar ve taraftarlar açısından sonuçlar doğurabilir.",
+        "Sağlık": "Toplum sağlığı açısından dikkat edilmesi gerekebilir.",
+        "Teknoloji": "Dijital dönüşüm süreçlerini etkileyebilir.",
+        "Gündem": "Geniş kitleleri ilgilendiren sonuçlar doğurabilir.",
+        "Yerel": "Bölgesel yaşamı ve yerel hizmetleri etkileyebilir."
     }
     return impacts.get(category, "Gelişmenin farklı alanlarda etkileri olabilir.")
-
 articles = []
 
 for source, url in RSS_FEEDS:
     feed = feedparser.parse(url)
-
-    source_group = "Yabancı Kaynaklı" if source not in (
-        "NTV", "Habertürk", "Anadolu Ajansı Yerel", "TRT Haber",
-        "Bursa Hakimiyet", "Yalova Gazetesi", "Webtekno", "ShiftDelete",
-        "Sağlık Bakanlığı", "Medimagazin", "Dünya Gazetesi",
-        "Bloomberg HT", "Investing TR", "Foreks", "Onedio", "Motor1"
-    ) else "Türkiye Kaynaklı"
 
     for e in feed.entries[:25]:
         published_dt = parse_entry_date(e)
@@ -251,24 +257,16 @@ for source, url in RSS_FEEDS:
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or raw_title)
 
-        title = translate_text_safe(raw_title) if source_group == "Yabancı Kaynaklı" else raw_title
-        summary = translate_text_safe(raw_summary) if source_group == "Yabancı Kaynaklı" else raw_summary
+        main_category, _ = determine_categories(source, raw_title, raw_summary)
 
-        if source_group == "Türkiye Kaynaklı":
-            if source == "Anadolu Ajansı Yerel":
-                sub_category = "yerel"
-            else:
-                sub_category = detect_category(
-                    f"{title} {summary}",
-                    TR_CATEGORY_KEYWORDS
-                )
-        else:
-            sub_category = detect_category(
-                f"{title} {summary}",
-                INTL_CATEGORY_KEYWORDS
-            )
+        title = translate_text_safe(raw_title) if main_category == "Yabancı Kaynaklar" else raw_title
+        summary = translate_text_safe(raw_summary) if main_category == "Yabancı Kaynaklar" else raw_summary
 
-        sub_category_display = CATEGORY_DISPLAY_MAP.get(sub_category, sub_category.capitalize())
+        main_category, sub_category = determine_categories(
+            source,
+            title,
+            summary
+        )
 
         articles.append({
             "title": title,
@@ -276,8 +274,8 @@ for source, url in RSS_FEEDS:
             "long_summary": build_long_summary(summary),
             "why_important": build_why_important(sub_category),
             "possible_impacts": build_possible_impacts(sub_category),
-            "main_category": source_group,
-            "sub_category": sub_category_display,
+            "main_category": main_category,
+            "sub_category": sub_category,
             "source": source,
             "url": e.get("link", ""),
             "published_at": e.get("published", "")
@@ -286,6 +284,6 @@ for source, url in RSS_FEEDS:
 OUTPUT.parent.mkdir(exist_ok=True)
 with open(OUTPUT, "w", encoding="utf-8") as f:
     json.dump({
-        "generated_at": datetime.utcnow().isoformat(),
+        "generated_at": datetime.now(timezone.utc).isoformat(),
         "articles": articles
     }, f, ensure_ascii=False, indent=2)
