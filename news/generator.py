@@ -66,12 +66,12 @@ SOURCE_CATEGORY_MAP = {
     "Yalova Gazetesi": ("Türkiye Kaynaklı", "Yerel"),
 
     # 🌍 DÜNYA
-    "BBC World": ("Yabancı Kaynaklar", "Dünya"),
-    "Reuters World": ("Yabancı Kaynaklar", "Dünya"),
+    "BBC World": ("Yabancı Kaynaklı", "Dünya"),
+    "Reuters World": ("Yabancı Kaynaklı", "Dünya"),
 
     # ⚽ SPOR
-    "Sky Sports": ("Yabancı Kaynaklar", "Spor"),
-    "BBC Sport": ("Yabancı Kaynaklar", "Spor"),
+    "Sky Sports": ("Yabancı Kaynaklı", "Spor"),
+    "BBC Sport": ("Yabancı Kaynaklı", "Spor"),
 
     # 💻 TEKNOLOJİ
     "Webtekno": ("Türkiye Kaynaklı", "Teknoloji"),
@@ -89,23 +89,38 @@ SOURCE_CATEGORY_MAP = {
 
     # 🎭 MAGAZİN
     "Onedio": ("Türkiye Kaynaklı", "Magazin"),
-    "Elle": ("Yabancı Kaynaklar", "Magazin"),
+    "Elle": ("Yabancı Kaynaklı", "Magazin"),
 
     # 🔬 BİLİM
-    "Popular Science": ("Yabancı Kaynaklar", "Bilim"),
-    "Science Daily": ("Yabancı Kaynaklar", "Bilim"),
+    "Popular Science": ("Yabancı Kaynaklı", "Bilim"),
+    "Science Daily": ("Yabancı Kaynaklı", "Bilim"),
 
     # 🛡️ SAVUNMA
-    "Defense News": ("Yabancı Kaynaklar", "Savunma / Askeri"),
-    "Breaking Defense": ("Yabancı Kaynaklar", "Savunma / Askeri"),
+    "Defense News": ("Yabancı Kaynaklı", "Savunma / Askeri"),
+    "Breaking Defense": ("Yabancı Kaynaklı", "Savunma / Askeri"),
 
     # 🎮 OYUN
-    "IGN": ("Yabancı Kaynaklar", "Oyun / Dijital"),
-    "GameSpot": ("Yabancı Kaynaklar", "Oyun / Dijital"),
+    "IGN": ("Yabancı Kaynaklı", "Oyun / Dijital"),
+    "GameSpot": ("Yabancı Kaynaklı", "Oyun / Dijital"),
 
     # 🚗 OTOMOBİL
     "Motor1": ("Türkiye Kaynaklı", "Otomobil"),
-    "Autocar": ("Yabancı Kaynaklar", "Otomobil"),
+    "Autocar": ("Yabancı Kaynaklı", "Otomobil"),
+}
+
+FOREIGN_SOURCES = {
+    "BBC World",
+    "Reuters World",
+    "Sky Sports",
+    "BBC Sport",
+    "Elle",
+    "Popular Science",
+    "Science Daily",
+    "Defense News",
+    "Breaking Defense",
+    "IGN",
+    "GameSpot",
+    "Autocar"
 }
 
 INTL_CATEGORY_KEYWORDS = {
@@ -173,7 +188,7 @@ CATEGORY_DISPLAY_MAP = {
     "finans": "Finans",
     "magazin": "Magazin",
     "bilim": "Bilim",
-    "oyun/dijital": "Oyun / Dijital",
+    "oyun/dijital": "oyun/dijital",
     "otomobil": "Otomobil",
     "yasam": "Yaşam",
     "savunma": "Savunma / Askeri"
@@ -182,8 +197,14 @@ CATEGORY_DISPLAY_MAP = {
 def determine_origin(source):
     if source in SOURCE_CATEGORY_MAP:
         return SOURCE_CATEGORY_MAP[source][0]
-    return "Türkiye Kaynaklı"
+    return "Yabancı Kaynaklı" if source in FOREIGN_SOURCES else "Türkiye Kaynaklı"
 
+def stable_pick(text, options):
+    if not text or not options:
+        return None
+    index = sum(ord(c) for c in text) % len(options)
+    return options[index]
+    
 def determine_subcategory(source, origin, title, summary):
     # 1️⃣ Kaynak bazlı override (en güçlü kural)
     if source in SOURCE_CATEGORY_MAP:
@@ -203,7 +224,7 @@ def determine_subcategory(source, origin, title, summary):
             return CATEGORY_DISPLAY_MAP.get(cat, cat.capitalize())
 
     # 3️⃣ Fallback
-    return "Gündem" if origin == "Türkiye Kaynaklı" else "Dünya
+    return "Gündem" if origin == "Türkiye Kaynaklı" else "Dünya"
 
 def extract_image(entry, summary_html=""):
     # 1️⃣ media:content
@@ -382,7 +403,7 @@ def build_why_important(category):
     # Her haberde aynı cümle çıkmasın diye döndürme
     options = reasons.get(category)
     if options:
-        return options[hash(category) % len(options)]
+        return stable_pick(category, options)
 
     return "Kamuoyunu ilgilendiren önemli bir gelişme olması"
 
@@ -487,14 +508,9 @@ def build_possible_impacts(category):
         ]
     }
 
-    return impacts.get(
-        category,
-        [
-            "Kamuoyunda yeni değerlendirmeler yapılabilir",
-            "İlgili sektörde gelişmeler yaşanabilir",
-            "Uzman görüşleri öne çıkabilir"
-        ]
-    )
+    options = impacts.get(category)
+    return stable_pick(category, options) if options else "Olası etkiler zamanla netleşebilir."
+       
 articles = []
 
 for source, url in RSS_FEEDS:
@@ -511,8 +527,8 @@ for source, url in RSS_FEEDS:
 
         origin = determine_origin(source)
 
-        title = translate_text_safe(raw_title) if origin == "Yabancı Kaynaklar" else raw_title
-        summary = translate_text_safe(raw_summary) if origin == "Yabancı Kaynaklar" else raw_summary
+        title = translate_text_safe(raw_title) if origin == "Yabancı Kaynaklı" else raw_title
+        summary = translate_text_safe(raw_summary) if origin == "Yabancı Kaynaklı" else raw_summary
 
         sub_category = determine_subcategory(
             source,
@@ -532,7 +548,7 @@ for source, url in RSS_FEEDS:
             "source": source,
             "url": e.get("link", ""),
             "image": image,
-            "published_at": "published_at": normalize_published_at(e)
+            "published_at": normalize_published_at(e)
         })
 
 OUTPUT.parent.mkdir(exist_ok=True)
