@@ -584,27 +584,25 @@ function formatDate(dateStr) {
   modalLink.href = article.url;
 
   // Neden Önemli
-  const whyEl = document.getElementById("modalWhy");
-  if (article.why_important) {
-    whyEl.innerHTML = `<li>${escapeHtml(article.why_important)}</li>`;
-    toggleSection("modalWhy", true);
-  } else {
-    toggleSection("modalWhy", false);
-  }
+const whyEl = document.getElementById("modalWhy");
+if (Array.isArray(article.why_important) && article.why_important.length) {
+  whyEl.innerHTML = article.why_important
+    .map(w => `<li>${escapeHtml(w)}</li>`)
+    .join("");
+  toggleSection("modalWhy", true);
+} else {
+  toggleSection("modalWhy", false);
+}
 
-  // Arka Plan (şimdilik gizli)
-  toggleSection("modalBg", false);
-  document.getElementById("modalBg").innerHTML = "";
-
-  // Olası Etkiler
-  const impacts = article.possible_impacts
-    ? [article.possible_impacts]
-    : [];
-  const impEl = document.getElementById("modalImp");
-  impEl.innerHTML = impacts.map(i => `<li>${escapeHtml(i)}</li>`).join("");
-  toggleSection("modalImp", impacts.length > 0);
-
-  modalBackdrop.classList.add("open");
+// Olası Etkiler
+const impEl = document.getElementById("modalImp");
+if (Array.isArray(article.possible_impacts) && article.possible_impacts.length) {
+  impEl.innerHTML = article.possible_impacts
+    .map(i => `<li>${escapeHtml(i)}</li>`)
+    .join("");
+  toggleSection("modalImp", true);
+} else {
+  toggleSection("modalImp", false);
 }
 
 /* ===============================
@@ -636,9 +634,6 @@ document.addEventListener("keydown", function (e) {
   }
 });
 
-  /* =======================
-     XSS SAFE HELPERS (EN ÜSTE ALINDI)
-  ======================= */
   function escapeHtml(s) {
     const str = (s ?? "").toString();
     return str
@@ -651,6 +646,10 @@ document.addEventListener("keydown", function (e) {
   function escapeAttr(s) {
     return escapeHtml(s).replace(/"/g, "&quot;");
   }
+
+  /* =======================
+     XSS SAFE HELPERS (EN ÜSTE ALINDI)
+  ======================= */
 
   let ALL_ARTICLES = [];
   let CURRENT_SOURCE_FILTER = "all";
@@ -705,14 +704,6 @@ document.addEventListener("keydown", function (e) {
     return (v ?? "").toString().trim();
   }
 
-  function getDomain(url) {
-    try {
-      return new URL(url).hostname.replace(/^www\./, "");
-    } catch {
-      return "";
-    }
-  }
-
   function getSourceInfo(article) {
   const isTR = article.main_category === "Türkiye Kaynaklı";
   return {
@@ -722,27 +713,26 @@ document.addEventListener("keydown", function (e) {
 }
 
   function classifyCategory(a) {
-  if (!a.sub_category) return "gundem";
-  if (a.sub_category === "Oyun / Dijital") return "oyun";
-
-  const map = {
-    "Gündem": "gundem",
-    "Dünya": "dunya",
-    "Yerel": "yerel",
-    "Spor": "spor",
-    "Teknoloji": "teknoloji",
-    "Sağlık": "saglik",
-    "Ekonomi": "ekonomi",
-    "Finans": "finans",
-    "Magazin": "magazin",
-    "Bilim": "bilim",
-    "Savunma / Askeri": "savunma",
-    "Oyun / Dijital": "oyun",
-    "Otomobil": "otomobil",
-    "Yaşam": "yasam"
-  };
-
-  return map[a.sub_category] || "gundem";
+  if (a.sub_category) {
+    const map = {
+      "Gündem": "gundem",
+      "Dünya": "dunya",
+      "Yerel": "yerel",
+      "Spor": "spor",
+      "Teknoloji": "teknoloji",
+      "Sağlık": "saglik",
+      "Ekonomi": "ekonomi",
+      "Finans": "finans",
+      "Magazin": "magazin",
+      "Bilim": "bilim",
+      "Savunma / Askeri": "savunma",
+      "Oyun / Dijital": "oyun",
+      "Otomobil": "otomobil",
+      "Yaşam": "yasam"
+    };
+    return map[a.sub_category] || "gundem";
+  }
+  return "gundem";
 }
 
   function formatTRDate(iso) {
