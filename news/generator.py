@@ -179,21 +179,32 @@ CATEGORY_DISPLAY_MAP = {
     "savunma": "Savunma / Askeri"
 }
 
-def determine_categories(source, title, summary):
-    # 1️⃣ Kaynağa göre kesin karar
+def determine_origin(source):
     if source in SOURCE_CATEGORY_MAP:
-        return SOURCE_CATEGORY_MAP[source]
+        return SOURCE_CATEGORY_MAP[source][0]
+    return "Türkiye Kaynaklı"
+
+def determine_subcategory(source, origin, title, summary):
+    # 1️⃣ Kaynak bazlı override (en güçlü kural)
+    if source in SOURCE_CATEGORY_MAP:
+        return SOURCE_CATEGORY_MAP[source][1]
 
     text = f"{title} {summary}".lower()
 
-    # 2️⃣ Türkiye keyword fallback
-    for cat, keywords in TR_CATEGORY_KEYWORDS.items():
+    # 2️⃣ Keyword bazlı sınıflandırma
+    keyword_map = (
+        TR_CATEGORY_KEYWORDS
+        if origin == "Türkiye Kaynaklı"
+        else INTL_CATEGORY_KEYWORDS
+    )
+
+    for cat, keywords in keyword_map.items():
         if any(k in text for k in keywords):
-            return ("Türkiye Kaynaklı", CATEGORY_DISPLAY_MAP.get(cat, cat.capitalize()))
+            return CATEGORY_DISPLAY_MAP.get(cat, cat.capitalize())
 
-    # 3️⃣ En son çare
-    return ("Türkiye Kaynaklı", "Gündem")
-
+    # 3️⃣ Fallback
+    return "Gündem" if origin == "Türkiye Kaynaklı" else "Dünya"
+    
 TRANSLATION_CACHE = {}
 
 def clean_html(text):
@@ -231,19 +242,222 @@ def build_long_summary(summary):
     return summary[:500]
 
 def build_why_important(category):
-    return f"{category} alanında kamuoyunu yakından ilgilendiren bir gelişme."
+    reasons = {
+        # Türkiye / Gündem
+        "Gündem": [
+            "Toplumu doğrudan ilgilendiren bir gelişme olması",
+            "Kamuoyunu etkileyebilecek kararlar içermesi",
+            "Resmî kurumları ve politikaları ilgilendirmesi"
+        ],
+
+        # Yerel
+        "Yerel": [
+            "Bölge halkının günlük yaşamını etkilemesi",
+            "Yerel yönetim kararlarını ilgilendirmesi",
+            "Şehir ve ilçelerde doğrudan sonuçlar doğurması"
+        ],
+
+        # Dünya
+        "Dünya": [
+            "Uluslararası dengeleri ilgilendirmesi",
+            "Küresel gelişmelerle bağlantılı olması",
+            "Türkiye’yi dolaylı olarak etkileyebilecek sonuçlar doğurması"
+        ],
+
+        # Ekonomi
+        "Ekonomi": [
+            "Ekonomik göstergeleri ve piyasa beklentilerini etkilemesi",
+            "Vatandaşların alım gücüyle doğrudan ilişkili olması",
+            "Makro ekonomik dengeler açısından önem taşıması"
+        ],
+
+        # Finans
+        "Finans": [
+            "Yatırımcılar açısından risk ve fırsatlar barındırması",
+            "Finansal piyasalar üzerinde etkili olması",
+            "Para ve sermaye hareketlerini ilgilendirmesi"
+        ],
+
+        # Spor
+        "Spor": [
+            "Sportif rekabet ve sonuçları etkilemesi",
+            "Takımlar ve sporcular açısından kritik olması",
+            "Taraftarlar ve spor kamuoyu tarafından yakından takip edilmesi"
+        ],
+
+        # Sağlık
+        "Sağlık": [
+            "Toplum sağlığı açısından önem taşıması",
+            "Sağlık hizmetleri ve politikalarıyla ilgili olması",
+            "Halk sağlığına yönelik risk veya önlemler içermesi"
+        ],
+
+        # Teknoloji
+        "Teknoloji": [
+            "Dijital dönüşüm süreçlerini etkilemesi",
+            "Yeni teknolojik gelişmeler içermesi",
+            "Kullanıcı alışkanlıklarını ve sektörleri etkilemesi"
+        ],
+
+        # Magazin
+        "Magazin": [
+            "Kamuoyunun ve medyanın ilgisini çekmesi",
+            "Popüler kültür ve sosyal gündemle bağlantılı olması",
+            "Toplumsal etkileşim yaratması"
+        ],
+
+        # Yaşam
+        "Yaşam": [
+            "Günlük hayatı ve sosyal düzeni etkilemesi",
+            "Toplumsal alışkanlıklarla doğrudan ilişkili olması",
+            "Geniş kesimleri ilgilendiren bir konu olması"
+        ],
+
+        # Otomobil
+        "Otomobil": [
+            "Ulaşım ve araç kullanımını etkilemesi",
+            "Trafik güvenliği veya araç piyasasıyla ilgili olması",
+            "Sürücüleri ve tüketicileri ilgilendirmesi"
+        ],
+
+        # Bilim
+        "Bilim": [
+            "Bilimsel araştırmalar ve yeni bulgular içermesi",
+            "Teknolojik ve akademik gelişmelere katkı sağlaması",
+            "Geleceğe yönelik önemli veriler sunması"
+        ],
+
+        # Oyun / Dijital
+        "Oyun / Dijital": [
+            "Dijital eğlence sektörünü etkilemesi",
+            "Kullanıcı deneyimleri ve trendlerle ilgili olması",
+            "Oyun ve dijital platformları ilgilendirmesi"
+        ],
+
+        # Savunma / Askeri
+        "Savunma / Askeri": [
+            "Ulusal veya bölgesel güvenlikle ilgili olması",
+            "Savunma politikaları ve stratejileri etkilemesi",
+            "Askerî gelişmeler açısından önem taşıması"
+        ]
+    }
+
+    # Her haberde aynı cümle çıkmasın diye döndürme
+    options = reasons.get(category)
+    if options:
+        return options[hash(category) % len(options)]
+
+    return "Kamuoyunu ilgilendiren önemli bir gelişme olması"
 
 def build_possible_impacts(category):
     impacts = {
-        "Ekonomi": "Piyasalarda dalgalanmalara yol açabilir.",
-        "Finans": "Yatırımcı davranışlarını ve piyasaları etkileyebilir.",
-        "Spor": "Takımlar ve taraftarlar açısından sonuçlar doğurabilir.",
-        "Sağlık": "Toplum sağlığı açısından dikkat edilmesi gerekebilir.",
-        "Teknoloji": "Dijital dönüşüm süreçlerini etkileyebilir.",
-        "Gündem": "Geniş kitleleri ilgilendiren sonuçlar doğurabilir.",
-        "Yerel": "Bölgesel yaşamı ve yerel hizmetleri etkileyebilir."
+        # Türkiye / Gündem
+        "Gündem": [
+            "Kamu politikalarında değişiklikler olabilir",
+            "Toplumsal gündemde yeni tartışmalar doğabilir",
+            "Resmî kurumların yeni adımlar atması beklenebilir"
+        ],
+
+        # Yerel (Türkiye altı)
+        "Yerel": [
+            "Yerel yönetimlerde karar süreçleri etkilenebilir",
+            "Bölge halkının günlük yaşamı doğrudan etkilenebilir",
+            "Belediye hizmetlerinde değişiklikler görülebilir"
+        ],
+
+        # Dünya
+        "Dünya": [
+            "Uluslararası ilişkilerde dengeler değişebilir",
+            "Bölgesel güvenlik riskleri artabilir",
+            "Küresel kamuoyunda yankı uyandırabilir"
+        ],
+
+        # Ekonomi
+        "Ekonomi": [
+            "Piyasalarda dalgalanma yaşanabilir",
+            "Tüketici fiyatları ve alım gücü etkilenebilir",
+            "Ekonomik beklentiler yeniden şekillenebilir"
+        ],
+
+        # Finans
+        "Finans": [
+            "Yatırımcı davranışları değişebilir",
+            "Finansal piyasalarda volatilite artabilir",
+            "Para ve sermaye akışları etkilenebilir"
+        ],
+
+        # Spor
+        "Spor": [
+            "Lig sıralamaları ve rekabet dengeleri değişebilir",
+            "Takım stratejileri yeniden şekillenebilir",
+            "Taraftar beklentileri etkilenebilir"
+        ],
+
+        # Sağlık
+        "Sağlık": [
+            "Toplum sağlığına yönelik önlemler artırılabilir",
+            "Sağlık politikalarında güncellemeler yapılabilir",
+            "Hizmet erişiminde değişiklikler olabilir"
+        ],
+
+        # Teknoloji
+        "Teknoloji": [
+            "Dijital dönüşüm süreçleri hızlanabilir",
+            "Yeni ürün ve hizmetler gündeme gelebilir",
+            "Siber güvenlik riskleri artabilir"
+        ],
+
+        # Magazin
+        "Magazin": [
+            "Kamuoyunun ilgisi farklı alanlara kayabilir",
+            "Medya ve sosyal ağlarda etkileşim artabilir",
+            "Popüler kültür trendleri değişebilir"
+        ],
+
+        # Yaşam
+        "Yaşam": [
+            "Günlük yaşam alışkanlıkları etkilenebilir",
+            "Toplumsal farkındalık artabilir",
+            "Kentsel ve sosyal düzenlemeler gündeme gelebilir"
+        ],
+
+        # Otomobil
+        "Otomobil": [
+            "Araç piyasasında fiyat ve talep dengeleri değişebilir",
+            "Trafik ve ulaşım alışkanlıkları etkilenebilir",
+            "Yeni düzenlemeler gündeme gelebilir"
+        ],
+
+        # Bilim
+        "Bilim": [
+            "Bilimsel araştırmalara ilgi artabilir",
+            "Yeni keşifler farklı alanlara yön verebilir",
+            "Akademik ve teknolojik gelişmeler hızlanabilir"
+        ],
+
+        # Oyun / Dijital
+        "Oyun / Dijital": [
+            "Dijital eğlence trendleri değişebilir",
+            "Oyun sektöründe rekabet artabilir",
+            "Kullanıcı alışkanlıkları dönüşebilir"
+        ],
+
+        # Savunma / Askeri
+        "Savunma / Askeri": [
+            "Bölgesel güvenlik dengeleri etkilenebilir",
+            "Savunma politikalarında güncellemeler yapılabilir",
+            "Askeri yatırımlar ve stratejiler değişebilir"
+        ]
     }
-    return impacts.get(category, "Gelişmenin farklı alanlarda etkileri olabilir.")
+
+    return impacts.get(
+        category,
+        [
+            "Kamuoyunda yeni değerlendirmeler yapılabilir",
+            "İlgili sektörde gelişmeler yaşanabilir",
+            "Uzman görüşleri öne çıkabilir"
+        ]
+    )
 articles = []
 
 for source, url in RSS_FEEDS:
@@ -257,13 +471,14 @@ for source, url in RSS_FEEDS:
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or raw_title)
 
-        main_category, _ = determine_categories(source, raw_title, raw_summary)
+        origin = determine_origin(source)
 
-        title = translate_text_safe(raw_title) if main_category == "Yabancı Kaynaklar" else raw_title
-        summary = translate_text_safe(raw_summary) if main_category == "Yabancı Kaynaklar" else raw_summary
+        title = translate_text_safe(raw_title) if origin == "Yabancı Kaynaklar" else raw_title
+        summary = translate_text_safe(raw_summary) if origin == "Yabancı Kaynaklar" else raw_summary
 
-        main_category, sub_category = determine_categories(
+        sub_category = determine_subcategory(
             source,
+            origin,
             title,
             summary
         )
@@ -274,7 +489,7 @@ for source, url in RSS_FEEDS:
             "long_summary": build_long_summary(summary),
             "why_important": build_why_important(sub_category),
             "possible_impacts": build_possible_impacts(sub_category),
-            "main_category": main_category,
+            "main_category": origin,
             "sub_category": sub_category,
             "source": source,
             "url": e.get("link", ""),
