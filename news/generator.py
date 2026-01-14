@@ -203,8 +203,39 @@ def determine_subcategory(source, origin, title, summary):
             return CATEGORY_DISPLAY_MAP.get(cat, cat.capitalize())
 
     # 3️⃣ Fallback
-    return "Gündem" if origin == "Türkiye Kaynaklı" else "Dünya"
-    
+    return "Gündem" if origin == "Türkiye Kaynaklı" else "Dünya
+
+def extract_image(entry, summary_html=""):
+    # 1️⃣ media:content
+    media_content = entry.get("media_content")
+    if media_content and isinstance(media_content, list):
+        for m in media_content:
+            if isinstance(m, dict) and m.get("url"):
+                return m["url"]
+
+    # 2️⃣ media:thumbnail
+    media_thumbnail = entry.get("media_thumbnail")
+    if media_thumbnail and isinstance(media_thumbnail, list):
+        for m in media_thumbnail:
+            if isinstance(m, dict) and m.get("url"):
+                return m["url"]
+
+    # 3️⃣ enclosures
+    enclosures = entry.get("enclosures")
+    if enclosures and isinstance(enclosures, list):
+        for enc in enclosures:
+            if enc.get("type", "").startswith("image") and enc.get("href"):
+                return enc["href"]
+
+    # 4️⃣ summary / description içinden <img> yakala
+    if summary_html:
+        match = re.search(r'<img[^>]+src="([^">]+)"', summary_html)
+        if match:
+            return match.group(1)
+
+    # 5️⃣ Hiç görsel yok
+    return None
+   
 TRANSLATION_CACHE = {}
 
 def clean_html(text):
@@ -216,6 +247,12 @@ def clean_html(text):
 def parse_entry_date(entry):
     if hasattr(entry, "published_parsed") and entry.published_parsed:
         return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+    return None
+
+def normalize_published_at(entry):
+    dt = parse_entry_date(entry)
+    if dt:
+        return dt.isoformat()
     return None
 
 def translate_text_safe(text):
@@ -468,6 +505,7 @@ for source, url in RSS_FEEDS:
         if published_dt and published_dt < CUTOFF_TIME:
             continue
 
+        image = extract_image(e, e.get("summary", ""))
         raw_title = clean_html(e.get("title", ""))
         raw_summary = clean_html(e.get("summary") or e.get("description") or raw_title)
 
@@ -493,7 +531,8 @@ for source, url in RSS_FEEDS:
             "sub_category": sub_category,
             "source": source,
             "url": e.get("link", ""),
-            "published_at": e.get("published", "")
+            "image": image,
+            "published_at": "published_at": normalize_published_at(e)
         })
 
 OUTPUT.parent.mkdir(exist_ok=True)
