@@ -55,57 +55,57 @@ RSS_FEEDS = [
     ("Autocar", "https://www.autocar.co.uk/rss"),
 ]
 
-SOURCE_CATEGORY_MAP = {
+SOURCE_SUBCATEGORY_MAP = {
     # 🇹🇷 TÜRKİYE
-    "NTV": ("Türkiye Kaynaklı", "Gündem"),
-    "Habertürk": ("Türkiye Kaynaklı", "Gündem"),
-    "TRT Haber": ("Türkiye Kaynaklı", "Gündem"),
+    "NTV": "Gündem",
+    "Habertürk": "Gündem",
+    "TRT Haber": "Gündem",
 
-    "Anadolu Ajansı Yerel": ("Türkiye Kaynaklı", "Yerel"),
-    "Bursa Hakimiyet": ("Türkiye Kaynaklı", "Yerel"),
-    "Yalova Gazetesi": ("Türkiye Kaynaklı", "Yerel"),
+    "Anadolu Ajansı Yerel": "Yerel",
+    "Bursa Hakimiyet": "Yerel",
+    "Yalova Gazetesi": "Yerel",
 
     # 🌍 DÜNYA
-    "BBC World": ("Yabancı Kaynaklı", "Dünya"),
-    "Reuters World": ("Yabancı Kaynaklı", "Dünya"),
+    "BBC World": "Dünya",
+    "Reuters World": "Dünya",
 
     # ⚽ SPOR
-    "Sky Sports": ("Yabancı Kaynaklı", "Spor"),
-    "BBC Sport": ("Yabancı Kaynaklı", "Spor"),
+    "Sky Sports": "Spor",
+    "BBC Sport": "Spor",
 
     # 💻 TEKNOLOJİ
-    "Webtekno": ("Türkiye Kaynaklı", "Teknoloji"),
-    "ShiftDelete": ("Türkiye Kaynaklı", "Teknoloji"),
+    "Webtekno": "Teknoloji",
+    "ShiftDelete": "Teknoloji",
 
     # 🏥 SAĞLIK
-    "Sağlık Bakanlığı": ("Türkiye Kaynaklı", "Sağlık"),
-    "Medimagazin": ("Türkiye Kaynaklı", "Sağlık"),
+    "Sağlık Bakanlığı": "Sağlık",
+    "Medimagazin": "Sağlık",
 
     # 💰 EKONOMİ / FİNANS
-    "Dünya Gazetesi": ("Türkiye Kaynaklı", "Ekonomi"),
-    "Bloomberg HT": ("Türkiye Kaynaklı", "Finans"),
-    "Investing TR": ("Türkiye Kaynaklı", "Finans"),
-    "Foreks": ("Türkiye Kaynaklı", "Finans"),
+    "Dünya Gazetesi": "Ekonomi",
+    "Bloomberg HT": "Finans",
+    "Investing TR": "Finans",
+    "Foreks": "Finans",
 
     # 🎭 MAGAZİN
-    "Onedio": ("Türkiye Kaynaklı", "Magazin"),
-    "Elle": ("Yabancı Kaynaklı", "Magazin"),
+    "Onedio": "Magazin",
+    "Elle": "Magazin",
 
     # 🔬 BİLİM
-    "Popular Science": ("Yabancı Kaynaklı", "Bilim"),
-    "Science Daily": ("Yabancı Kaynaklı", "Bilim"),
+    "Popular Science": "Bilim",
+    "Science Daily": "Bilim",
 
     # 🛡️ SAVUNMA
-    "Defense News": ("Yabancı Kaynaklı", "Savunma / Askeri"),
-    "Breaking Defense": ("Yabancı Kaynaklı", "Savunma / Askeri"),
+    "Defense News": "Savunma / Askeri",
+    "Breaking Defense": "Savunma / Askeri",
 
     # 🎮 OYUN
-    "IGN": ("Yabancı Kaynaklı", "Oyun / Dijital"),
-    "GameSpot": ("Yabancı Kaynaklı", "Oyun / Dijital"),
+    "IGN": "Oyun / Dijital",
+    "GameSpot": "Oyun / Dijital",
 
     # 🚗 OTOMOBİL
-    "Motor1": ("Türkiye Kaynaklı", "Otomobil"),
-    "Autocar": ("Yabancı Kaynaklı", "Otomobil"),
+    "Motor1": "Otomobil",
+    "Autocar": "Otomobil",
 }
 
 FOREIGN_SOURCES = {
@@ -188,43 +188,60 @@ CATEGORY_DISPLAY_MAP = {
     "finans": "Finans",
     "magazin": "Magazin",
     "bilim": "Bilim",
-    "oyun/dijital": "oyun/dijital",
+    "oyun/dijital": "Oyun / Dijital",
     "otomobil": "Otomobil",
     "yasam": "Yaşam",
     "savunma": "Savunma / Askeri"
 }
 
 def determine_origin(source):
-    if source in SOURCE_CATEGORY_MAP:
-        return SOURCE_CATEGORY_MAP[source][0]
-    return "Yabancı Kaynaklı" if source in FOREIGN_SOURCES else "Türkiye Kaynaklı"
+    return "yabanci" if source in FOREIGN_SOURCES else "turkiye"
 
 def stable_pick(text, options):
     if not text or not options:
         return None
     index = sum(ord(c) for c in text) % len(options)
     return options[index]
-    
-def determine_subcategory(source, origin, title, summary):
-    # 1️⃣ Kaynak bazlı override (en güçlü kural)
-    if source in SOURCE_CATEGORY_MAP:
-        return SOURCE_CATEGORY_MAP[source][1]
 
+def slugify_category(label: str) -> str:
+    if not label:
+        return ""
+
+    replacements = {
+        "ç": "c", "ğ": "g", "ı": "i", "ö": "o", "ş": "s", "ü": "u",
+        "Ç": "c", "Ğ": "g", "İ": "i", "Ö": "o", "Ş": "s", "Ü": "u"
+    }
+
+    for k, v in replacements.items():
+        label = label.replace(k, v)
+
+    label = label.lower()
+    label = label.replace("/", " ")
+    label = re.sub(r"\s+", "_", label)
+
+    return label.strip("_")
+
+def determine_subcategory(source, origin, title, summary):
     text = f"{title} {summary}".lower()
+    # 1️⃣ Kaynak bazlı override (en güçlü kural)
+    if source in SOURCE_SUBCATEGORY_MAP:
+        return SOURCE_SUBCATEGORY_MAP[source]
 
     # 2️⃣ Keyword bazlı sınıflandırma
     keyword_map = (
         TR_CATEGORY_KEYWORDS
-        if origin == "Türkiye Kaynaklı"
+        if origin == "turkiye"
         else INTL_CATEGORY_KEYWORDS
     )
 
     for cat, keywords in keyword_map.items():
         if any(k in text for k in keywords):
-            return CATEGORY_DISPLAY_MAP.get(cat, cat.capitalize())
+            return CATEGORY_DISPLAY_MAP.get(cat, CATEGORY_DISPLAY_MAP.get(cat.lower(), cat))
 
     # 3️⃣ Fallback
-    return "Gündem" if origin == "Türkiye Kaynaklı" else "Dünya"
+    return "Gündem" if origin == "turkiye" else "Dünya"
+def is_local_news(origin, category):
+    return origin == "turkiye" and category == "Yerel"
 
 def extract_image(entry, summary_html=""):
     # 1️⃣ media:content
@@ -297,7 +314,7 @@ def translate_text_safe(text):
     return text
 
 def build_long_summary(summary):
-    return summary[:500]
+    return summary[:500].rsplit(" ", 1)[0]
 
 def build_why_important(category):
     reasons = {
@@ -403,9 +420,10 @@ def build_why_important(category):
     # Her haberde aynı cümle çıkmasın diye döndürme
     options = reasons.get(category)
     if options:
-        return stable_pick(category, options)
+        pick = stable_pick(category, options)
+        return [pick] if pick else [options[0]]
 
-    return "Kamuoyunu ilgilendiren önemli bir gelişme olması"
+    return ["Kamuoyunu ilgilendiren önemli bir gelişme olması"]
 
 def build_possible_impacts(category):
     impacts = {
@@ -509,8 +527,12 @@ def build_possible_impacts(category):
     }
 
     options = impacts.get(category)
-    return stable_pick(category, options) if options else "Olası etkiler zamanla netleşebilir."
-       
+    if options:
+        pick = stable_pick(category, options)
+        return [pick] if pick else [options[0]]
+        
+    return ["Olası etkiler zamanla netleşebilir."]
+    
 articles = []
 
 for source, url in RSS_FEEDS:
@@ -527,8 +549,8 @@ for source, url in RSS_FEEDS:
 
         origin = determine_origin(source)
 
-        title = translate_text_safe(raw_title) if origin == "Yabancı Kaynaklı" else raw_title
-        summary = translate_text_safe(raw_summary) if origin == "Yabancı Kaynaklı" else raw_summary
+        title = translate_text_safe(raw_title) if origin == "yabanci" else raw_title
+        summary = translate_text_safe(raw_summary) if origin == "yabanci" else raw_summary
 
         sub_category = determine_subcategory(
             source,
@@ -538,19 +560,20 @@ for source, url in RSS_FEEDS:
         )
 
         articles.append({
+            "origin": origin,
+            "category": sub_category,
+            "is_local": is_local_news(origin, sub_category),
+            "source": source,
             "title": title,
             "summary": summary,
             "long_summary": build_long_summary(summary),
             "why_important": build_why_important(sub_category),
             "possible_impacts": build_possible_impacts(sub_category),
-            "main_category": origin,
-            "sub_category": sub_category,
-            "source": source,
             "url": e.get("link", ""),
             "image": image,
             "published_at": normalize_published_at(e)
-        })
-
+         })
+        
 OUTPUT.parent.mkdir(exist_ok=True)
 with open(OUTPUT, "w", encoding="utf-8") as f:
     json.dump({
