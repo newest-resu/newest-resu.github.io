@@ -1,6 +1,576 @@
 {
-  "updated_at": "2026-01-15T13:52:13.870648+00:00",
+  "updated_at": "2026-01-15T14:37:10.098360+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Karneler saat kaçta veriliyor, dağıtılacak?",
+      "summary": "Karne günü yaklaşırken öğrenciler ve veliler saat detayını merak etmeye başladı. Okullarda karnelerin hangi saatte dağıtılacağı en çok araştırılan konular arasında yer alıyor. Bu sebeple sıkça yöneltilen sorulardan biri de &quot;Karneler saat kaçta veriliyor&quot; şeklinde...",
+      "long_summary": "Karne günü yaklaşırken öğrenciler ve veliler saat detayını merak etmeye başladı. Okullarda karnelerin hangi saatte dağıtılacağı en çok araştırılan konular arasında yer alıyor. Bu sebeple sıkça yöneltilen sorulardan biri de &quot;Karneler saat kaçta veriliyor&quot;",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/karneler-saat-kacta-veriliyor-dagitilacak-haberi-811489",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/karneler-rnva_cover.png",
+      "published_at": "2026-01-15T14:27:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "Türkiye’de de Satılan Nothing Telefonlara Yakında Büyük Zam Geliyor! İşte Nedeni",
+      "summary": "Nothing CEO'su, tüm sektörde beklendiği gibi 2026 yılında telefonlarına ciddi zamlar yapılacağını açıkladı. Peki neden?",
+      "long_summary": "Nothing CEO'su, tüm sektörde beklendiği gibi 2026 yılında telefonlarına ciddi zamlar yapılacağını açıkladı. Peki",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/nothing-telefonlara-zam-geliyor-h210844.html",
+      "image": "https://imgrosetta.webtekno.com/file/645112/645112-640xauto.jpg",
+      "published_at": "2026-01-15T14:26:34+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "Yarışseverler Buraya: Merakla Beklenen Forza Horizon 6'nın Çıkış Tarihi Sızdırıldı!",
+      "summary": "Yarışseverlerin en sevdiği oyun serilerinden Forza Horizon'ın yeni oyunu Forza Horizon 6'nın çıkış tarihi Forza Horizon 5 içerisinde yer alan bir reklamla ortaya çıkmış oldu.",
+      "long_summary": "Yarışseverlerin en sevdiği oyun serilerinden Forza Horizon'ın yeni oyunu Forza Horizon 6'nın çıkış tarihi Forza Horizon 5 içerisinde yer alan bir reklamla ortaya çıkmış",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/forza-horizon-6-cikis-tarihi-sizdirildi-h210814.html",
+      "image": "https://imgrosetta.webtekno.com/file/645014/645014-640xauto.jpg",
+      "published_at": "2026-01-15T14:25:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Emekli maaşı düzenlemesi komisyonda kabul edildi",
+      "summary": "En düşük emekli aylığının 20 bin TL'ye yükseltilmesi düzenlemesini içeren madde TBMM Komisyonu'nda kabul edildi.",
+      "long_summary": "En düşük emekli aylığının 20 bin TL'ye yükseltilmesi düzenlemesini içeren madde TBMM Komisyonu'nda kabul",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/emekli-maasi-duzenlemesi-komisyonda-kabul-edildi-3766425",
+      "image": null,
+      "published_at": "2026-01-15T14:25:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Goolsbee: Fed’in önceliği enflasyonu yeniden yüzde 2 hedefine indirmek",
+      "summary": "Chicago Fed Başkanı Austan Goolsbee, son işsizlik başvuruları verilerindeki düşüşün kendisi için sürpriz olmadığını belirterek, iş gücü piyasasında istikrarın sürdüğünü söyledi. CNBC’ye konuşan Goolsb...",
+      "long_summary": "Chicago Fed Başkanı Austan Goolsbee, son işsizlik başvuruları verilerindeki düşüşün kendisi için sürpriz olmadığını belirterek, iş gücü piyasasında istikrarın sürdüğünü söyledi. CNBC’ye konuşan",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6968f8d067ad3132ebdfe51f/PICNEWS/tr/goolsbee-fedin-onceligi-enflasyonu-yeniden-yuzde-2-hedefine-indirmek-15-01-26/",
+      "image": "https://news-files.foreks.com/images/1768487114370.jpeg",
+      "published_at": "2026-01-15T14:25:20+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Anker Prime Power Bank (20K, 200W) review: Plenty of power for laptops and more",
+      "summary": "At just over a pound, this burly power bank can keep up with high-end laptops and charger just about everything else in your bag with juice left to spare.\nThe post Anker Prime Power Bank (20K, 200W) review: Plenty of power for laptops and more appeared first on Popular Science.",
+      "long_summary": "At just over a pound, this burly power bank can keep up with high-end laptops and charger just about everything else in your bag with juice left to spare.\nThe post Anker Prime Power Bank (20K, 200W) review: Plenty of power for laptops and more appeared first on Popular",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/gear/review-anker-prime-power-bank-20k-200w-laptop-charger/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/01/anker-prime-pro-220-product-card.jpg?quality=85",
+      "published_at": "2026-01-15T14:25:11+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Statins may help almost everyone with type 2 diabetes live longer",
+      "summary": "New research suggests statins may protect adults with type 2 diabetes regardless of how low their predicted heart risk appears. In a large UK study, statin use was linked to fewer deaths and major cardiac events across all risk levels. Even those labeled “low risk” benefited, challenging long-held assumptions about who should receive preventive therapy. Side effects were rare and generally mild.",
+      "long_summary": "New research suggests statins may protect adults with type 2 diabetes regardless of how low their predicted heart risk appears. In a large UK study, statin use was linked to fewer deaths and major cardiac events across all risk levels. Even those labeled “low risk” benefited, challenging long-held assumptions about who should receive preventive therapy. Side effects were rare and generally",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/01/260115022812.htm",
+      "image": null,
+      "published_at": "2026-01-15T14:17:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Citigroup, alüminyum için beklentilerini yukarı yönlü revize etti",
+      "summary": "Citigroup, küresel alüminyum piyasasına ilişkin kısa vadeli fiyat beklentilerini yukarı yönlü revize etti. Citi Research, 0–3 aylık dönem için alüminyum fiyat hedefini ton başına 2.950 dolardan 3.400 ...",
+      "long_summary": "Citigroup, küresel alüminyum piyasasına ilişkin kısa vadeli fiyat beklentilerini yukarı yönlü revize etti. Citi Research, 0–3 aylık dönem için alüminyum fiyat hedefini ton başına 2.950 dolardan 3.400",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6968f63d67ad3132ebdfe4fd/PICNEWS/tr/citigroup-aluminyum-icin-beklentilerini-yukari-yonlu-revize-etti-15-01-26/",
+      "image": "https://news-files.foreks.com/images/1768486413450.jpeg",
+      "published_at": "2026-01-15T14:14:21+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Managers' authority is being eroded - Southgate",
+      "summary": "Football managers' authority is being steadily eroded, Sir Gareth Southgate says, but the switch to head coaching still brings a \"significant melting pot of problems and pressure\".",
+      "long_summary": "Football managers' authority is being steadily eroded, Sir Gareth Southgate says, but the switch to head coaching still brings a \"significant melting pot of problems and",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cgk8rgpgkpyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b05/live/799abb60-f204-11f0-af44-156539fce2f7.jpg",
+      "published_at": "2026-01-15T14:13:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Emekli maaşı düzenlemesi komisyonda kabul edildi",
+      "summary": "En düşük emekli aylığını 20 bin liraya yükselten düzenleme TBMM Plan ve Bütçe Komisyonunda kabul edildi.",
+      "long_summary": "En düşük emekli aylığını 20 bin liraya yükselten düzenleme TBMM Plan ve Bütçe Komisyonunda kabul",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/emekli-maasi-duzenlemesi-komisyonda-kabul-edildi-haberi-811488",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/sonnnn-p15q_cover.jpg",
+      "published_at": "2026-01-15T14:12:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Applied Materials, Barclays’ın AI harcamaları nedeniyle hisseyi yükseltmesinin ardından yükselişe geçti",
+      "summary": "Applied Materials, Barclays’ın AI harcamaları nedeniyle hisseyi yükseltmesinin ardından yükselişe geçti",
+      "long_summary": "Applied Materials, Barclays’ın AI harcamaları nedeniyle hisseyi yükseltmesinin ardından yükselişe",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/barclays-applied-materials-ai-harcamalar-nedeniyle-yukseltti-hisseler-frlad-3716457",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-15T14:11:16+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Resident Evil Showcase: How To Watch, Start Times, And What To Expect",
+      "summary": "Resident Evil Requiem launches next month, and to start building momentum for the game, Capcom will broadcast a new look at it today. If you're interested in checking out new content for the survival-horror adventure, here's a closer look at how you can tune in for it.When does the Resident Evil Showcase start?The Resident Evil Showcase will kick off at 2 PM PT / 5 PM ET today, January 15. Outside of the US, you can catch it at the following times:2 PM PT5 PM ET10 PM GMT7 AM JST (January 16)8 AM AEST (January 16)Where to watch the Resident Evil Showcase?          Like other Capcom streams, you can catch the showcase on the company's official Resident Evil YouTube and Twitch channels.Continue Reading at GameSpot",
+      "long_summary": "Resident Evil Requiem launches next month, and to start building momentum for the game, Capcom will broadcast a new look at it today. If you're interested in checking out new content for the survival-horror adventure, here's a closer look at how you can tune in for it.When does the Resident Evil Showcase start?The Resident Evil Showcase will kick off at 2 PM PT / 5 PM ET today, January 15. Outside of the US, you can catch it at the following times:2 PM PT5 PM ET10 PM GMT7 AM JST (January 16)8",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/resident-evil-showcase-how-to-watch-start-times-and-what-to-expect/1100-6537415/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4635573-re-requiem.jpg",
+      "published_at": "2026-01-15T14:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Ünlülere uyuşturucu soruşturması. Eski voleybolcu Derya Çayırgan gözaltında",
+      "summary": "Ünlülere yönelik uyuşturucu soruşturması kapsamında eski voleybolcu Derya Çayırgan'ın da aralarında bulunduğu 18 şüpheli gözaltına alındı. Çayırgan ev hapsi şeklinde adli kontrol kararıyla serbest bırakıldı.",
+      "long_summary": "Ünlülere yönelik uyuşturucu soruşturması kapsamında eski voleybolcu Derya Çayırgan'ın da aralarında bulunduğu 18 şüpheli gözaltına alındı. Çayırgan ev hapsi şeklinde adli kontrol kararıyla serbest",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/video/turkiye/unlulere-uyusturucu-sorusturmasi-eski-voleybolcu-derya-cayirgan-gozaltinda-1707556",
+      "image": "https://images.ntv.com.tr/images/deryavoleybolcu-385317-699723.jpg",
+      "published_at": "2026-01-15T14:08:05+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Aeva hisseleri, AI veri merkezleri için yüksek güçlü optik amplifikatör tanıtımı sonrası yükseldi",
+      "summary": "Aeva hisseleri, AI veri merkezleri için yüksek güçlü optik amplifikatör tanıtımı sonrası yükseldi",
+      "long_summary": "Aeva hisseleri, AI veri merkezleri için yüksek güçlü optik amplifikatör tanıtımı sonrası",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/aeva-hisseleri-ai-veri-merkezleri-icin-yuksek-guclu-optik-amplifikator-tantm-sonras-yukseldi-93CH-3716441",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-15T14:06:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "UBS, Wegovy Hapı Lansmanı Öncesinde Novo Nordisk Hisse Hedefini Yükseltti",
+      "summary": "UBS, Wegovy Hapı Lansmanı Öncesinde Novo Nordisk Hisse Hedefini Yükseltti",
+      "long_summary": "UBS, Wegovy Hapı Lansmanı Öncesinde Novo Nordisk Hisse Hedefini",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/ubs-wegovy-hap-lansman-oncesinde-novo-nordisk-hisse-hedefini-yukseltti-3716446",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-15T14:05:53+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "ABD'de işsizlik maaşı başvuruları azaldı",
+      "summary": "ABD’de ilk kez işsizlik maaşı başvuruları, 10 Ocak’la biten haftada 198 bine düşerek piyasa beklentilerinin altında kaldı.",
+      "long_summary": "ABD’de ilk kez işsizlik maaşı başvuruları, 10 Ocak’la biten haftada 198 bine düşerek piyasa beklentilerinin altında",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/abdde-issizlik-maasi-basvurulari-azaldi-haberi-811487",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/abd-ln4s_cover.jpg",
+      "published_at": "2026-01-15T14:04:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Sahibinden'in rekabet soruşturması sonlandırıldı",
+      "summary": "Rekabet Kurulu, Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret AŞ hakkında yürütülen soruşturmayı, şirket tarafından sunulan taahhütlerin kabul edilmesi üzerine sonlandırdığını bildirdi.",
+      "long_summary": "Rekabet Kurulu, Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret AŞ hakkında yürütülen soruşturmayı, şirket tarafından sunulan taahhütlerin kabul edilmesi üzerine sonlandırdığını",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/sahibinden-in-rekabet-sorusturmasi-sonlandirildi-3766423",
+      "image": null,
+      "published_at": "2026-01-15T14:03:23+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Is turbulence really like Jello-O? Pilots weigh in.",
+      "summary": "Science backs up the goofy analogy.\nThe post Is turbulence really like Jello-O? Pilots weigh in. appeared first on Popular Science.",
+      "long_summary": "Science backs up the goofy analogy.\nThe post Is turbulence really like Jello-O? Pilots weigh in. appeared first on Popular",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/science/turbulence-jell-o-airplanes/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/01/Is-turbulence-really-like-Jello-O-Pilots-weigh-in.jpg?quality=85",
+      "published_at": "2026-01-15T14:02:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Australian Open: Men's and women's draw",
+      "summary": "The full draw for the men's and women's singles tournament for the Australian Open in Melbourne.",
+      "long_summary": "The full draw for the men's and women's singles tournament for the Australian Open in",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/tennis/news/12040/13493930/mens-and-womens-australian-open-draw-and-results-with-emma-raducanu-carlos-alcaraz-jannik-sinner-and-aryna-sabalenka-playing",
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-jannik-sinner-tennis_7134578.jpg?20260113202855",
+      "published_at": "2026-01-15T14:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "TSMC Taleplere Yetişemiyor!",
+      "summary": "Dünyanın en büyük gelişmiş işlemci üreticisi olan TSMC, en büyük müşterileri arasında yer alan Nvidia ve Broadcom’a kötü bir haber verdi. Şirket, artan çip üretim kapasitesi taleplerinin tamamını karşılayamayacağını iletti. The Information tarafından paylaşılan bu gelişme, yapay zeka teknolojilerine olan ilginin üretim imkanlarını ne kadar zorladığını bir kez daha gözler önüne seriyor. Küresel çip tedarik […]",
+      "long_summary": "Dünyanın en büyük gelişmiş işlemci üreticisi olan TSMC, en büyük müşterileri arasında yer alan Nvidia ve Broadcom’a kötü bir haber verdi. Şirket, artan çip üretim kapasitesi taleplerinin tamamını karşılayamayacağını iletti. The Information tarafından paylaşılan bu gelişme, yapay zeka teknolojilerine olan ilginin üretim imkanlarını ne kadar zorladığını bir kez daha gözler önüne seriyor. Küresel çip tedarik",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/tsmc-taleplere-yetisemiyor",
+      "image": null,
+      "published_at": "2026-01-15T14:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "12. YARGI PAKETİ SON DURUM: 12. Yargı Paketi Meclis'e ne zaman gelecek? Af geliyor mu?",
+      "summary": "Yeni yargı paketiyle ilgili gelişmeler milyonlarca kişiyi ilgilendiriyor. 11. Yargı Paketi’nin ardından hızlanan çalışmalar, af beklentisini de beraberinde getirdi. Gözler, 12. Yargı Paketi’nde yer alacak maddelere çevrildi. Şu sıralar sıklıkla &quot;12. Yargı Paketi Meclis&#039;e ne zaman gelecek&quot; sorusu yöneltiliyor.",
+      "long_summary": "Yeni yargı paketiyle ilgili gelişmeler milyonlarca kişiyi ilgilendiriyor. 11. Yargı Paketi’nin ardından hızlanan çalışmalar, af beklentisini de beraberinde getirdi. Gözler, 12. Yargı Paketi’nde yer alacak maddelere çevrildi. Şu sıralar sıklıkla &quot;12. Yargı Paketi Meclis&#039;e ne zaman gelecek&quot; sorusu",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/foto-galeri/gundem/12-yargi-paketi-son-durum-12-yargi-paketi-meclise-ne-zaman-gelecek-af-geliyor-mu-galeri-811484",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/12-qeru_cover.png",
+      "published_at": "2026-01-15T14:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Lucy Liu Shares an Emotional Charlie’s Angels Reunion With Cameron Diaz, Drew Barrymore, and Demi Moore in Honor of Her Film Rosemead",
+      "summary": "“I love you ladies deeply.”",
+      "long_summary": "“I love you ladies",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a69999860/lucy-liu-cameron-diaz-drew-barrymore-demi-moore-reunion-video-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3daa2dcd-52a5-4016-813f-dee78e0bfc2f.png",
+      "published_at": "2026-01-15T14:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Why Celebrities Turn to Chandler Guttersen for One-of-a-Kind Vintage",
+      "summary": "Meet the woman behind Vintage Grace, young Hollywood’s latest obsession.",
+      "long_summary": "Meet the woman behind Vintage Grace, young Hollywood’s latest",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/personal-style/a69936830/chandler-guttersen-vintage-grace-interview-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/91685c81-8fc9-4c8b-8aec-c3a38875bbe5.png",
+      "published_at": "2026-01-15T14:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "New York'ta imalat sektörü yeniden büyüme sinyali verdi",
+      "summary": "New York Eyaleti'nde imalat sektörü faaliyeti, Aralık ayındaki beklenmedik düşüşün ardından bu ay yeniden pozitif bölgeye geçti. Sektördeki canlanmada yeni siparişler ve sevkiyatlar etkili oldu.New Yo...",
+      "long_summary": "New York Eyaleti'nde imalat sektörü faaliyeti, Aralık ayındaki beklenmedik düşüşün ardından bu ay yeniden pozitif bölgeye geçti. Sektördeki canlanmada yeni siparişler ve sevkiyatlar etkili oldu.New",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6968f2b267ad3132ebdfe4d9/PICNEWS/tr/new-york-ta-imalat-sektoru-yeniden-buyume-sinyali-verdi-15-01-26/",
+      "image": "https://news-files.foreks.com/images/1768485551511.jpeg",
+      "published_at": "2026-01-15T13:59:14+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "CME Group’tan kripto türevlerinde yeni adım",
+      "summary": "Dünyanın önde gelen türev piyasası CME Group, düzenlenmiş kripto para türevleri ürün yelpazesini genişletme planını duyurdu. Buna göre Cardano (ADA), Chainlink (LINK) ve Stellar (Lumens) vadeli işlem ...",
+      "long_summary": "Dünyanın önde gelen türev piyasası CME Group, düzenlenmiş kripto para türevleri ürün yelpazesini genişletme planını duyurdu. Buna göre Cardano (ADA), Chainlink (LINK) ve Stellar (Lumens) vadeli işlem",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6968f26ae9f62417261562bd/PICNEWS/tr/cme-grouptan-kripto-turevlerinde-yeni-adim-15-01-26/",
+      "image": "https://news-files.foreks.com/images/1768485476341.jpeg",
+      "published_at": "2026-01-15T13:58:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "SHURA: Enerji dönüşüm yatırımları ortalamanın 2,5 katına çıkmalı",
+      "summary": "SHURA Enerji Dönüşümü Merkezi Direktörü Alkım Bağ, enerji dönüşümünde finansmanın en kritik başlıklardan biri olduğunu ve Türkiye'nin 2053 net sıfır karbon hedefine ulaşabilmesi için yıllık yatırım tutarının geçmiş dönemdeki enerji yatırımları ortalamasının 2,5 katına çıkarılması gerektiğini belirtti.",
+      "long_summary": "SHURA Enerji Dönüşümü Merkezi Direktörü Alkım Bağ, enerji dönüşümünde finansmanın en kritik başlıklardan biri olduğunu ve Türkiye'nin 2053 net sıfır karbon hedefine ulaşabilmesi için yıllık yatırım tutarının geçmiş dönemdeki enerji yatırımları ortalamasının 2,5 katına çıkarılması gerektiğini",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/shura-enerji-donusum-yatirimlari-ortalamanin-2-5-katina-cikmali-3766422",
+      "image": null,
+      "published_at": "2026-01-15T13:57:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "MediaTek, Akıllı Telefon Pazarını Karıştıracak Yeni İşlemcisi Dimensity 9500s'i Duyurdu: İşte Özellikleri",
+      "summary": "MediaTek, üst düzey telefonlara hayat verecek yeni işlemcisi Dimensity 9500s'i duyurdu. İlk olarak Redmi Turbo 5 Max'te kullanılacak işlemci, yüksek performansı ile tüketicilerin aklını çelecek gibi görünüyor.",
+      "long_summary": "MediaTek, üst düzey telefonlara hayat verecek yeni işlemcisi Dimensity 9500s'i duyurdu. İlk olarak Redmi Turbo 5 Max'te kullanılacak işlemci, yüksek performansı ile tüketicilerin aklını çelecek gibi",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/mediatek-dimensity-9500s-duyuruldu-h210883.html",
+      "image": "https://imgrosetta.webtekno.com/file/645232/645232-640xauto.jpg",
+      "published_at": "2026-01-15T13:56:18+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "US Navy to deploy unmanned systems with surface forces this year",
+      "summary": "The Navy is on course to stand up new unmanned surface vessel divisions in the coming weeks, service officials said.",
+      "long_summary": "The Navy is on course to stand up new unmanned surface vessel divisions in the coming weeks, service officials",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/your-military/2026/01/15/us-navy-to-deploy-unmanned-systems-with-surface-forces-this-year/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Z2POQ7KOBFEB3C6QARLLBLBL4U.jpg",
+      "published_at": "2026-01-15T13:53:05+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Quantum hisseleri, 3. çeyrek gelir beklentilerini aşmasının ardından yükseldi",
+      "summary": "Quantum hisseleri, 3. çeyrek gelir beklentilerini aşmasının ardından yükseldi",
+      "long_summary": "Quantum hisseleri, 3. çeyrek gelir beklentilerini aşmasının ardından",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/quantum-hisseleri-3-ceyrek-gelir-beklentilerini-asmasnn-ardndan-yukseldi-93CH-3716390",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-15T13:50:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD'de işsizlik maaşı başvuruları Kasım'dan beri en düşük seviyede",
+      "summary": "ABD'de haftalık işsizlik maaşı başvuruları beklentilerin altında kaldı. Başvurular Kasım'dan beri en düşük seviyesine geriledi.",
+      "long_summary": "ABD'de haftalık işsizlik maaşı başvuruları beklentilerin altında kaldı. Başvurular Kasım'dan beri en düşük seviyesine",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-beklentilerin-altinda-3766420",
+      "image": null,
+      "published_at": "2026-01-15T13:48:10+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
@@ -19,6 +589,25 @@
       "url": "https://www.foreks.com/haber/detay/6968eff2e9f62417261562a0/PICNEWS/tr/abdde-issizlik-maasi-basvurulari-azaldi-15-01-26/",
       "image": "https://news-files.foreks.com/images/1768484848546.jpeg",
       "published_at": "2026-01-15T13:47:30+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Çimsa, Bilecik'teki maden projesi ruhsatının iptali için başvurdu",
+      "summary": "Sabancı Holding iştiraki Çimsa, İntikamtepe Şehitliği yakınlarında bulunan Bozüyük Beyaz Kalker Sahasında sahip olduğu ruhsatın iptali için gerekli işlemleri başlatırken projeye ilişkin bugüne kadar yapılan tüm başvuruları da geri çektiğini duyurdu.",
+      "long_summary": "Sabancı Holding iştiraki Çimsa, İntikamtepe Şehitliği yakınlarında bulunan Bozüyük Beyaz Kalker Sahasında sahip olduğu ruhsatın iptali için gerekli işlemleri başlatırken projeye ilişkin bugüne kadar yapılan tüm başvuruları da geri çektiğini",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/cimsa-bilecik-teki-maden-projesi-ruhsatinin-iptali-icin-basvurdu-3766419",
+      "image": null,
+      "published_at": "2026-01-15T13:47:13+00:00"
     },
     {
       "origin": "turkiye",
@@ -41,6 +630,63 @@
     },
     {
       "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Morgan Stanley kârını artırdı, beklentileri aştı: Hisseler bilanço sonrası yükseldi",
+      "summary": "Morgan Stanley, 2025 yılının dördüncü çeyreğinde yatırım bankacılığı gelirlerindeki güçlü artışın etkisiyle kârını artırdı. Banka, söz konusu dönemde 4,40 milyar dolar net kâr ve hisse başına 2,68 dolar kazanç açıkladı. Toplam gelir 17,9 milyar dolar ile piyasa beklentilerinin üzerine çıkarken, yatırım bankacılığı gelirleri yıllık bazda belirgin artış kaydetti. Finansal sonuçların ardından ise şirketin hisseleri ABD ön piyasasında yükseldi.",
+      "long_summary": "Morgan Stanley, 2025 yılının dördüncü çeyreğinde yatırım bankacılığı gelirlerindeki güçlü artışın etkisiyle kârını artırdı. Banka, söz konusu dönemde 4,40 milyar dolar net kâr ve hisse başına 2,68 dolar kazanç açıkladı. Toplam gelir 17,9 milyar dolar ile piyasa beklentilerinin üzerine çıkarken, yatırım bankacılığı gelirleri yıllık bazda belirgin artış kaydetti. Finansal sonuçların ardından ise şirketin hisseleri ABD ön piyasasında",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/morgan-stanley-karini-artirdi-beklentileri-asti-hisseler-bilanco-sonrasi-yukseldi-haberi-811486",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2023/01/30/morgan-stanley2-gpME_cover.jpg",
+      "published_at": "2026-01-15T13:46:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Avrupa’da lüks hisse senetleri, Richemont satış tahminlerini aştıktan sonra düştü",
+      "summary": "Avrupa’da lüks hisse senetleri, Richemont satış tahminlerini aştıktan sonra düştü",
+      "long_summary": "Avrupa’da lüks hisse senetleri, Richemont satış tahminlerini aştıktan sonra",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/avrupada-luks-hisse-senetleri-richemont-sats-tahminlerini-astktan-sonra-dustu-3716397",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-15T13:44:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakanı Bayraktar duyurdu: Karadeniz'de 6 lokasyonda keşif sondajı başlıyor",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Karadeniz&#039;deki Sakarya Gaz Sahası&#039;ndaki üretimin bu yıl 2 katına çıkacağını duyururken, Karadeniz&#039;de keşif amaçlı 6 tane yeni sondaj yapılacağını, sondaj alanlarından birinin Çayeli açıklarında olacağını belirtti.",
+      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Karadeniz&#039;deki Sakarya Gaz Sahası&#039;ndaki üretimin bu yıl 2 katına çıkacağını duyururken, Karadeniz&#039;de keşif amaçlı 6 tane yeni sondaj yapılacağını, sondaj alanlarından birinin Çayeli açıklarında olacağını",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/bakani-bayraktar-duyurdu-karadenizde-6-lokasyonda-kesif-sondaji-basliyor-haberi-811485",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/12/10/bayraktar-iqzr_cover.jpg",
+      "published_at": "2026-01-15T13:43:00+00:00"
+    },
+    {
+      "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
@@ -57,6 +703,25 @@
       "url": "https://www.foreks.com/haber/detay/6968ee3767ad3132ebdfe4b3/PICNEWS/tr/tav-tiflis-havalimani-isletme-imtiyaz-suresini-uzatti-15-01-26/",
       "image": "https://news-files.foreks.com/images/1768484391126.jpeg",
       "published_at": "2026-01-15T13:40:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Electrons stop acting like particles—and physics still works",
+      "summary": "Physicists have long relied on the idea that electrons behave like tiny particles zipping through materials, even though quantum physics says their exact position is fundamentally uncertain. Now, researchers at TU Wien have discovered something surprising: a material where this particle picture completely breaks down can still host exotic topological states—features once thought to depend on particle-like behavior.",
+      "long_summary": "Physicists have long relied on the idea that electrons behave like tiny particles zipping through materials, even though quantum physics says their exact position is fundamentally uncertain. Now, researchers at TU Wien have discovered something surprising: a material where this particle picture completely breaks down can still host exotic topological states—features once thought to depend on particle-like",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/01/260115022758.htm",
+      "image": null,
+      "published_at": "2026-01-15T13:36:20+00:00"
     },
     {
       "origin": "turkiye",
@@ -212,6 +877,25 @@
     },
     {
       "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Oni Press Brings Matt Kindt's Flux House Imprint to Free Comic Book Day 2026",
+      "summary": "Check out an exclusive preview of Mind MGMT/Fort Psycho FCBD 2026 Special, easily one of the most exciting books in this year's Free Comic Book Day lineup.",
+      "long_summary": "Check out an exclusive preview of Mind MGMT/Fort Psycho FCBD 2026 Special, easily one of the most exciting books in this year's Free Comic Book Day",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/oni-press-brings-matt-kindts-flux-house-imprint-to-free-comic-book-day-2026",
+      "image": "https://assets-prd.ignimgs.com/2025/12/11/mixcollage-11-dec-2025-08-54-am-2279-1765461299448.jpg",
+      "published_at": "2026-01-15T13:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
       "category": "Dünya",
       "category_slug": "dunya",
       "is_local": false,
@@ -266,690 +950,6 @@
       "url": "https://www.webtekno.com/gta-6-online-ilk-somut-detay-ortaya-cikti-h210873.html",
       "image": "https://imgrosetta.webtekno.com/file/645198/645198-640xauto.jpg",
       "published_at": "2026-01-15T13:27:09+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Rusya: Ukrayna’da batılı güçlerin konuşlandırılması kabul edilemez",
-      "summary": "Rusya, Ukrayna için olası bir barış anlaşması kapsamında Batılı güçlerin asker konuşlandırmasını kabul edilemez bulduğunu ve bu askerlerin Moskova tarafından meşru hedef olarak görüleceğini perşembe g...",
-      "long_summary": "Rusya, Ukrayna için olası bir barış anlaşması kapsamında Batılı güçlerin asker konuşlandırmasını kabul edilemez bulduğunu ve bu askerlerin Moskova tarafından meşru hedef olarak görüleceğini perşembe",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6968eaa667ad3132ebdfe47d/PICNEWS/tr/rusya-ukraynada-batili-guclerin-konuslandirilmasi-kabul-edilemez-15-01-26/",
-      "image": "https://news-files.foreks.com/images/1768483489692.jpeg",
-      "published_at": "2026-01-15T13:24:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Fransa savunma bütçesini hızlandırıyor: 2030 hedefi 2027'ye çekildi",
-      "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Istres&#039;teki askeri üste yaptığı konuşmada savunma politikalarına ilişkin önemli mesajlar verdi. 2026&#039;nın zorlu geçeceğini belirten Macron, Fransa&#039;nın bu sürece hazır olduğunu vurguladı. Savunma harcamalarının hızlandırıldığını açıklayan Macron, 2030 için öngörülen 64 milyar Euro hedefinin 2027&#039;ye çekildiğini, 2026 yılı için ise 3,5 milyar Euro ek bütçe planlandığını söyledi.",
-      "long_summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Istres&#039;teki askeri üste yaptığı konuşmada savunma politikalarına ilişkin önemli mesajlar verdi. 2026&#039;nın zorlu geçeceğini belirten Macron, Fransa&#039;nın bu sürece hazır olduğunu vurguladı. Savunma harcamalarının hızlandırıldığını açıklayan Macron, 2030 için öngörülen 64 milyar Euro hedefinin 2027&#039;ye çekildiğini, 2026 yılı için ise 3,5 milyar Euro ek bütçe planlandığını",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/fransa-savunma-butcesini-hizlandiriyor-2030-hedefi-2027ye-cekildi-haberi-811482",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/09/macron-fxps-cover-3xcc_cover.jpg",
-      "published_at": "2026-01-15T13:24:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Merkez Bankası toplantısı ne zaman? TCMB faiz kararı hangi gün açıklanacak?",
-      "summary": "Türkiye&#039;nin gözü Merkez Bankası&#039;nda… Merkez ocak ayında toplanacak ve faiz kararını duyuracak. Vatandaşlar tarihi araştırıyor ve &quot;Merkez Bankası toplantısı ne zaman&quot; sorusuna cevap bulmaya çalışıyor. İşte toplantı tarihi ve saati...",
-      "long_summary": "Türkiye&#039;nin gözü Merkez Bankası&#039;nda… Merkez ocak ayında toplanacak ve faiz kararını duyuracak. Vatandaşlar tarihi araştırıyor ve &quot;Merkez Bankası toplantısı ne zaman&quot; sorusuna cevap bulmaya çalışıyor. İşte toplantı tarihi ve",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/merkez-bankasi-toplantisi-ne-zaman-tcmb-faiz-karari-hangi-gun-aciklanacak-haberi-811480",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/merkez-bankasi-v6mg_cover.png",
-      "published_at": "2026-01-15T13:23:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Morgan Stanley, perakendede 2026 için en yüksek güven duyduğu 3 fikri açıkladı",
-      "summary": "Morgan Stanley, perakendede 2026 için en yüksek güven duyduğu 3 fikri açıkladı",
-      "long_summary": "Morgan Stanley, perakendede 2026 için en yüksek güven duyduğu 3 fikri",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-perakende-sektorunde-2026-icin-en-guclu-3-yatrm-fikrini-acklad-3716259",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-15T13:21:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Türkiye NATO'ya yazılım ihraç etti, Yunanistan'da \"sinirler\" gerildi",
-      "summary": "NATO, &quot;haberleşmenin beyni&quot; olarak tanımlanan kritik &#039;Taktik Data Link&#039; ağ planlama yazılımının tedariki için HAVELSAN&#039;ı tek yetkili seçerken, anlaşma Yunanistan&#039;da eleştiriye yol açtı. Eski Avrupa Parlamentosu Milletvekili Giorgos Kyrtsos &quot;NATO ile Yunan koordinasyonu için Türk yazılımı kullanılması, savunma sistemimizin gizli bilgilerine sızılması konusunda yüksek bir Türk nüfuzu olasılığı anlamına gelmektedir&quot; dedi.",
-      "long_summary": "NATO, &quot;haberleşmenin beyni&quot; olarak tanımlanan kritik &#039;Taktik Data Link&#039; ağ planlama yazılımının tedariki için HAVELSAN&#039;ı tek yetkili seçerken, anlaşma Yunanistan&#039;da eleştiriye yol açtı. Eski Avrupa Parlamentosu Milletvekili Giorgos Kyrtsos &quot;NATO ile Yunan koordinasyonu için Türk yazılımı kullanılması, savunma sistemimizin gizli bilgilerine sızılması konusunda yüksek bir Türk nüfuzu olasılığı anlamına gelmektedir&quot;",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/turkiye-natoya-yazilim-ihrac-etti-yunanistanda-sinirler-gerildi-haberi-811481",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/yeni-proje-2026-01-13t124858-l0ie_cover.jpg",
-      "published_at": "2026-01-15T13:14:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "No VAR error over Wirtz 'offside' goal, panel says",
-      "summary": "The VAR was correct to intervene and give Florian Wirtz's goal at Fulham despite the Liverpool player appearing to be offside, a panel says.",
-      "long_summary": "The VAR was correct to intervene and give Florian Wirtz's goal at Fulham despite the Liverpool player appearing to be offside, a panel",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c0kezxl4z40o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c6/live/b891d050-eb20-11f0-a6a3-53d02379137e.jpg",
-      "published_at": "2026-01-15T13:13:55+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Cumhurbaşkanı Erdoğan’dan dijital kumar uyarısı: Her telefon neredeyse bir kumarhane",
-      "summary": "Cumhurbaşkanı Erdoğan, TRT Genç Kanalı Açılış Etkinliği&#039;nde konuştu. Dijital çağda kumar ve bağımlılık tehdidine dikkat çeken Erdoğan, &quot;Uyuşturucu, alkol, sigara, kumar ve sanal bahis milli bünyemiz açısından terör kadar hatta terörden daha zararlı boyutlara ulaşmıştır&quot; dedi. Aile yapısının risk altında olduğunu vurgulayan Erdoğan, mücadelede TRT Genç kanalının kritik rol üstlendiğini ifade etti.",
-      "long_summary": "Cumhurbaşkanı Erdoğan, TRT Genç Kanalı Açılış Etkinliği&#039;nde konuştu. Dijital çağda kumar ve bağımlılık tehdidine dikkat çeken Erdoğan, &quot;Uyuşturucu, alkol, sigara, kumar ve sanal bahis milli bünyemiz açısından terör kadar hatta terörden daha zararlı boyutlara ulaşmıştır&quot; dedi. Aile yapısının risk altında olduğunu vurgulayan Erdoğan, mücadelede TRT Genç kanalının kritik rol üstlendiğini ifade",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogandan-dijital-kumar-uyarisi-her-telefon-neredeyse-bir-kumarhane-haberi-811478",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/yeni-proje-2026-01-15t161610-xaqt_cover.jpg",
-      "published_at": "2026-01-15T13:13:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Kroger, Uber Eats ve Postmates ile teslimat seçeneklerini genişletiyor",
-      "summary": "Kroger, Uber Eats ve Postmates ile teslimat seçeneklerini genişletiyor",
-      "long_summary": "Kroger, Uber Eats ve Postmates ile teslimat seçeneklerini",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/kroger-uber-eats-ve-postmates-ile-teslimat-seceneklerini-genisletiyor-93CH-3716194",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-15T13:12:04+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "007: First Light PC Specs Revealed: See If Your Computer Can Run The James Bond Game",
-      "summary": "Following the game's delay to May 2026, IO Interactive has announced the PC requirements for the upcoming James Bond game, 007: First Light. On January 15, IO acknowledged a mistake with the originally announced requirements, which was due to an \"internal miscommunication.\"\"After a thorough re-examination and additional testing, the recommended RAM has been corrected from 32GB to 16GB, VRAM values have been updated, and the minimum CPU line has been fixed. Additional performance targets will be shared closer to launch,\" the developer said.\"We're sorry for the confusion this caused and appreciate everyone who brought it to our attention.\"Continue Reading at GameSpot",
-      "long_summary": "Following the game's delay to May 2026, IO Interactive has announced the PC requirements for the upcoming James Bond game, 007: First Light. On January 15, IO acknowledged a mistake with the originally announced requirements, which was due to an \"internal miscommunication.\"\"After a thorough re-examination and additional testing, the recommended RAM has been corrected from 32GB to 16GB, VRAM values have been updated, and the minimum CPU line has been fixed. Additional performance targets will be",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/007-first-light-pc-specs-revealed-see-if-your-computer-can-run-the-james-bond-game/1100-6537204/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4630486-screenshot2026-01-06at11.45.04%E2%80%AFam.png",
-      "published_at": "2026-01-15T13:11:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Offside or not? Man City, Arsenal and VAR inconsistencies",
-      "summary": "Manchester City had their goal disallowed, while Arsenal's was allowed to stand. But the VAR should not look to be consistent with a previous bad decision.",
-      "long_summary": "Manchester City had their goal disallowed, while Arsenal's was allowed to stand. But the VAR should not look to be consistent with a previous bad",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c7v0lz7q7q2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3283/live/00b40a10-f206-11f0-af44-156539fce2f7.jpg",
-      "published_at": "2026-01-15T13:09:09+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Robertson sacking marks another slip from the summit for All Blacks",
-      "summary": "Scott Robertson's sacking is just the most high-profile symptom of a deeper malaise in New Zealand rugby union.",
-      "long_summary": "Scott Robertson's sacking is just the most high-profile symptom of a deeper malaise in New Zealand rugby",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c5y2k5pw8z7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4aa6/live/0f61ae60-f20a-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-15T13:08:44+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "McIlroy targets new challenges in 2026 after strong start in Dubai",
-      "summary": "Rory McIlroy says embracing \"challenging things\" will fuel his desire for further golfing success in 2026.",
-      "long_summary": "Rory McIlroy says embracing \"challenging things\" will fuel his desire for further golfing success in",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/golf/articles/c4gv04y7852o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a5/live/076a0d20-f20e-11f0-9024-9b4621e849d3.jpg",
-      "published_at": "2026-01-15T13:08:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Boston Scientific, Penumbra’yı 14,5 milyar dolara satın alıyor, PEN yükselirken BSX düşüşte",
-      "summary": "Boston Scientific, Penumbra’yı 14,5 milyar dolara satın alıyor, PEN yükselirken BSX düşüşte",
-      "long_summary": "Boston Scientific, Penumbra’yı 14,5 milyar dolara satın alıyor, PEN yükselirken BSX",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/boston-scientific-penumbray-145-milyar-dolara-satn-alyor-pen-yukselirken-bsx-dususte-3716206",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-15T13:08:05+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "RE&UP’a döngüsel ekonomi başarısıyla Sürdürülebilirlik Liderleri Ödülü",
-      "summary": "Yeni nesil geri dönüşüm teknolojileriyle tekstil sektöründe “sıfır atık” vizyonunu hayata geçiren RE&amp;UP, döngüsel ekonomi modeli ve ölçeklenebilir sürdürülebilirlik yaklaşımıyla Sürdürülebilirlik Liderleri Ödülü’ne layık görüldü.",
-      "long_summary": "Yeni nesil geri dönüşüm teknolojileriyle tekstil sektöründe “sıfır atık” vizyonunu hayata geçiren RE&amp;UP, döngüsel ekonomi modeli ve ölçeklenebilir sürdürülebilirlik yaklaşımıyla Sürdürülebilirlik Liderleri Ödülü’ne layık",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/reupa-dongusel-ekonomi-basarisiyla-surdurulebilirlik-liderleri-odulu-haberi-811477",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/yeni-proje-jdvx_cover.jpg",
-      "published_at": "2026-01-15T13:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Cumhurbaşkanı Erdoğan: Bağımlılık terör kadar tehlikeli",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bağımlılık türlerinde ciddi artış yaşandığını ifade edip \"Uyuşturucu, alkol, sigara, kumar ve sanal bahis milli bünyemiz açısından terör kadar hatta terörden daha zararlı boyutlara ulaşmıştır.” dedi.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bağımlılık türlerinde ciddi artış yaşandığını ifade edip \"Uyuşturucu, alkol, sigara, kumar ve sanal bahis milli bünyemiz açısından terör kadar hatta terörden daha zararlı boyutlara ulaşmıştır.”",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-bagimlilik-teror-kadar-tehlikeli-1707593",
-      "image": "https://images.ntv.com.tr/images/erdoğan-348404.jpg",
-      "published_at": "2026-01-15T13:03:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Troy: Altın ve gümüşte yeni rekorlar gelecek",
-      "summary": "Geçen yılı tarihi rekor seviyelerde kapatan altın ve gümüş fiyatlarının 2026 yılında da yeni rekorlar kırması bekleniyor.",
-      "long_summary": "Geçen yılı tarihi rekor seviyelerde kapatan altın ve gümüş fiyatlarının 2026 yılında da yeni rekorlar kırması",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/troy-altin-ve-gumuste-yeni-rekorlar-gelecek-3766412",
-      "image": null,
-      "published_at": "2026-01-15T13:03:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Goldman Sachs'tan beklentileri aşan kâr performansı! 2026 için iyimser tahmin",
-      "summary": "Goldman Sachs, 2025&#039;in dördüncü çeyreğinde hisse başına 14,01 dolar kâr açıklayarak piyasa beklentilerini aştı. Aynı dönemde bankanın net geliri 13,45 milyar dolar ile tahminlerin altında kalsa da, özkaynak kârlılığı yüzde 16 seviyesinde gerçekleşti. Yatırım bankacılığı ve piyasa gelirlerindeki artış sonuçları desteklerken, banka 2026&#039;nın ilk çeyreğinden itibaren temettüyü hisse başına 4,50 dolara yükselteceğini duyurdu.",
-      "long_summary": "Goldman Sachs, 2025&#039;in dördüncü çeyreğinde hisse başına 14,01 dolar kâr açıklayarak piyasa beklentilerini aştı. Aynı dönemde bankanın net geliri 13,45 milyar dolar ile tahminlerin altında kalsa da, özkaynak kârlılığı yüzde 16 seviyesinde gerçekleşti. Yatırım bankacılığı ve piyasa gelirlerindeki artış sonuçları desteklerken, banka 2026&#039;nın ilk çeyreğinden itibaren temettüyü hisse başına 4,50 dolara yükselteceğini",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/haberler/goldman-sachstan-beklentileri-asan-kar-performansi-2026-icin-iyimser-tahmin-haberi-811479",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/05/goldman-sachs-5gpk_cover.png",
-      "published_at": "2026-01-15T13:02:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Harbaugh agrees to become Giants head coach",
-      "summary": "John Harbaugh has agreed to become the new head coach of the New York Giants, with the former Baltimore Ravens leader finalising a five-year deal with the four-time Super Bowl champions.",
-      "long_summary": "John Harbaugh has agreed to become the new head coach of the New York Giants, with the former Baltimore Ravens leader finalising a five-year deal with the four-time Super Bowl",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/nfl/news/12040/13494626/john-harbaugh-agrees-to-become-new-york-giants-head-coach-after-18-seasons-in-charge-of-baltimore-ravens",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-john-harbaugh-baltimore-ravens_7136216.jpg?20260115133259",
-      "published_at": "2026-01-15T13:01:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "2026 için En İyi Cybersecurity Hisseleri Önemli Yükseliş Potansiyeli Gösteriyor",
-      "summary": "2026 için En İyi Cybersecurity Hisseleri Önemli Yükseliş Potansiyeli Gösteriyor",
-      "long_summary": "2026 için En İyi Cybersecurity Hisseleri Önemli Yükseliş Potansiyeli",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/2026-icin-en-iyi-siber-guvenlik-hisseleri-onemli-yukselis-potansiyeli-gosteriyor-3716159",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-15T13:00:55+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "X Grok için Yeni Kısıtlamalar Getirdi!",
-      "summary": "Elon Musk’ın sahibi olduğu X platformu, yapay zeka sohbet robotu Grok üzerindeki baskıların artmasıyla birlikte radikal politika değişikliklerine gitti. Özellikle çocukların ve rızası olmayan kişilerin müstehcen görüntülerinin oluşturulmasıyla ilgili haftalarca süren tepkilerin ardından şirket, X Grok kısıtlaması kapsamında yeni teknolojik önlemler aldığını duyurdu. Gerçek kişilerin görüntüleri düzenlenemeyecek X’in Güvenlik (@Safety) hesabından yapılan açıklamaya göre, Grok’un […]",
-      "long_summary": "Elon Musk’ın sahibi olduğu X platformu, yapay zeka sohbet robotu Grok üzerindeki baskıların artmasıyla birlikte radikal politika değişikliklerine gitti. Özellikle çocukların ve rızası olmayan kişilerin müstehcen görüntülerinin oluşturulmasıyla ilgili haftalarca süren tepkilerin ardından şirket, X Grok kısıtlaması kapsamında yeni teknolojik önlemler aldığını duyurdu. Gerçek kişilerin görüntüleri düzenlenemeyecek X’in Güvenlik (@Safety) hesabından yapılan açıklamaya göre, Grok’un",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/x-grok-icin-yeni-kisitlamalar-getirdi",
-      "image": null,
-      "published_at": "2026-01-15T13:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The 4 Coat Trends That Are Defining Winter 2026",
-      "summary": "This season’s outerwear speaks in confident silhouettes—where tailoring sharpens and volume sculpts.",
-      "long_summary": "This season’s outerwear speaks in confident silhouettes—where tailoring sharpens and volume",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a69821376/winter-2026-coat-trends/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/cos-lead-edit-69603c61de8f8.jpg",
-      "published_at": "2026-01-15T13:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Goldman Sachs ve Boston Scientific piyasa öncesi düşüyor; Morgan Stanley, TSMC yükseliyor",
-      "summary": "Goldman Sachs ve Boston Scientific piyasa öncesi düşüyor; Morgan Stanley, TSMC yükseliyor",
-      "long_summary": "Goldman Sachs ve Boston Scientific piyasa öncesi düşüyor; Morgan Stanley, TSMC",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/goldman-sachs-ve-boston-scientific-piyasa-oncesi-dusuyor-morgan-stanley-tsmc-yukseliyor-3716152",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-15T12:59:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Memur-Sen'den \"seyyanen zam\" talebi",
-      "summary": "Memur-Sen Genel Başkanı Ali Yalçın, gelirde denge sağlanması için kayıpların telafi edilerek emekliye de yansıyacak şekilde seyyanen zam verilmesini istediklerini belirtti.",
-      "long_summary": "Memur-Sen Genel Başkanı Ali Yalçın, gelirde denge sağlanması için kayıpların telafi edilerek emekliye de yansıyacak şekilde seyyanen zam verilmesini istediklerini",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/memur-sen-den-seyyanen-zam-talebi-3766413",
-      "image": null,
-      "published_at": "2026-01-15T12:59:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Gaziantep’in turizm yol haritası belirlendi",
-      "summary": "Gaziantep Büyükşehir Belediyesi koordinasyonunda hazırlanan, şehrin turizm potansiyelini sürdürülebilir ekonomiye dönüştürmeyi hedefleyen 36 politika ve 85 eylemden oluşan “Gaziantep Turizm Ekonomisi Geliştirme ve Yol Haritası 2030” tanıtıldı.",
-      "long_summary": "Gaziantep Büyükşehir Belediyesi koordinasyonunda hazırlanan, şehrin turizm potansiyelini sürdürülebilir ekonomiye dönüştürmeyi hedefleyen 36 politika ve 85 eylemden oluşan “Gaziantep Turizm Ekonomisi Geliştirme ve Yol Haritası 2030”",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/turizm/gaziantepin-turizm-yol-haritasi-belirlendi-haberi-811476",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/yeni-proje-zq5l_cover.jpg",
-      "published_at": "2026-01-15T12:58:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Hakan Çakır cinayeti davası 4 Mart'a ertelendi",
-      "summary": "Ankara'da 18 yaşından küçük zanlılar tarafından katledilen 22 yaşındaki Hakan Çakır cinayetinde dava 4 Mart'ta ertelendi.",
-      "long_summary": "Ankara'da 18 yaşından küçük zanlılar tarafından katledilen 22 yaşındaki Hakan Çakır cinayetinde dava 4 Mart'ta",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/hakan-cakir-cinayeti-davasi-4-marta-ertelendi-1707557",
-      "image": "https://images.ntv.com.tr/images/hakançakır-210944.jpg",
-      "published_at": "2026-01-15T12:57:36+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Borsa İstanbul’da yapay zekâ çağı: ProPicks AI ile hisse seçiminde öne geçin",
-      "summary": "Borsa İstanbul’da yapay zekâ çağı: ProPicks AI ile hisse seçiminde öne geçin",
-      "long_summary": "Borsa İstanbul’da yapay zekâ çağı: ProPicks AI ile hisse seçiminde öne",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/borsa-istanbulda-yapay-zeka-cag-propicks-ai-ile-hisse-seciminde-one-gecin-3716144",
-      "image": "https://i-invdn-com.investing.com/news/arrows_up_b_1._M_1440048113.jpg",
-      "published_at": "2026-01-15T12:57:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Yazı Atölyesi Bursa'da ilk mezunlarını verdi",
-      "summary": "Yıldırım Belediyesi tarafından başlatılan, 2025-2026 Kültür Sanat Sezonu’nda başlatılan ‘Yazı Atölyesi’ ilk mezunlarını verdi.Yazar Mustafa Başpınar tarafından verilen ve iki farklı seviyeden oluşan Yazı Atölyesi’nin ilk basamağını 8 hafta sürdü.\n\nToplam 16 dersin verildiği atölyede, katılımcılar; yazı atölyesine giriş, okuma yöntemleri, kitap-dergi ve edebi türleri okuma, yazma hayatında estetik-bilinç-devinim-ilham ve inan neyi nasıl anlatır konularında teorik ve pratik eğitimler aldı. Yazı Atölyesi’ni başarıyla tamamlayan kursiyerler, Mümine Şeremet Uyumayan Kütüphanesi’nde düzenlenen törenle sertifikalarını aldı. Katılımcılar, Yazı Atölyesi’ni düzenleyerek kendilerine eğitim ve gelişim imkanı sunan Yıldırım Belediyesi’ne ve Başkan Oktay Yılmaz’a teşekkür etti.",
-      "long_summary": "Yıldırım Belediyesi tarafından başlatılan, 2025-2026 Kültür Sanat Sezonu’nda başlatılan ‘Yazı Atölyesi’ ilk mezunlarını verdi.Yazar Mustafa Başpınar tarafından verilen ve iki farklı seviyeden oluşan Yazı Atölyesi’nin ilk basamağını 8 hafta sürdü.\n\nToplam 16 dersin verildiği atölyede, katılımcılar; yazı atölyesine giriş, okuma yöntemleri, kitap-dergi ve edebi türleri okuma, yazma hayatında estetik-bilinç-devinim-ilham ve inan neyi nasıl anlatır konularında teorik ve pratik eğitimler aldı. Yazı",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/yazi-atolyesi-bursa-da-ilk-mezunlarini-verdi-1563861",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/15/yazi-atolyesi-bursa-da-ilk-mezunlarini-verdi-1768481892-537_large.webp",
-      "published_at": "2026-01-15T12:57:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Widespread delays hit Uganda election amid internet shutdown",
-      "summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
-      "long_summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3027/live/577394d0-f1e6-11f0-b373-d7bde4e9f067.jpg",
-      "published_at": "2026-01-15T12:51:52+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Science Daily",
-      "title": "This after-meal blood sugar spike may raise Alzheimer’s risk",
-      "summary": "Spikes in blood sugar after eating may be more dangerous for the brain than previously thought. In a massive genetic study, people with higher post-meal blood sugar had a much greater risk of Alzheimer’s disease. The effect couldn’t be explained by visible brain damage, suggesting hidden biological pathways may be involved. Researchers say managing blood sugar after meals could become a key strategy for reducing dementia risk.",
-      "long_summary": "Spikes in blood sugar after eating may be more dangerous for the brain than previously thought. In a massive genetic study, people with higher post-meal blood sugar had a much greater risk of Alzheimer’s disease. The effect couldn’t be explained by visible brain damage, suggesting hidden biological pathways may be involved. Researchers say managing blood sugar after meals could become a key strategy for reducing dementia",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/01/260115022756.htm",
-      "image": null,
-      "published_at": "2026-01-15T12:51:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Anne Babalar, Çocukların Ne Kadar YouTube Shorts İzleyeceğini Kontrol Edebilecek!",
-      "summary": "YouTube, Shorts için yeni ebeveyn kontrolleri ekledi. Artık ebeveynler, zamanlayıcı yoluyla çocukların ne kadar Shorts video izleyeceğini kontrol edebilecek.",
-      "long_summary": "YouTube, Shorts için yeni ebeveyn kontrolleri ekledi. Artık ebeveynler, zamanlayıcı yoluyla çocukların ne kadar Shorts video izleyeceğini kontrol",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/youtube-shorts-yeni-ebeveyn-kontrolu-ozelligi-h210837.html",
-      "image": "https://imgrosetta.webtekno.com/file/645099/645099-640xauto.jpg",
-      "published_at": "2026-01-15T12:51:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ADM ve GDZ Elektrik’te üst yönetimde değişim: Yeni genel müdürler atandı",
-      "summary": "ADM Elektrik’te Genel Müdürlük görevine Emrah Kalkan, GDZ Elektrik Genel Müdürlüğüne ise Ahmet Bayramoğlu getirildi. Aydem Enerji Dağıtım Grubu bünyesindeki değişikliklerin, şirketlerin 2026 vizyonu doğrultusunda operasyonel gücü artırmayı hedeflediği belirtildi.",
-      "long_summary": "ADM Elektrik’te Genel Müdürlük görevine Emrah Kalkan, GDZ Elektrik Genel Müdürlüğüne ise Ahmet Bayramoğlu getirildi. Aydem Enerji Dağıtım Grubu bünyesindeki değişikliklerin, şirketlerin 2026 vizyonu doğrultusunda operasyonel gücü artırmayı hedeflediği",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/adm-ve-gdz-elektrikte-ust-yonetimde-degisim-yeni-genel-mudurler-atandi-haberi-811474",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/yeni-proje-mxxi_cover.jpg",
-      "published_at": "2026-01-15T12:49:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Jefferies, 2026 toparlanması için izlenmesi gereken 18 Avrupa orta ölçekli hissesini açıkladı",
-      "summary": "Jefferies, 2026 toparlanması için izlenmesi gereken 18 Avrupa orta ölçekli hissesini açıkladı",
-      "long_summary": "Jefferies, 2026 toparlanması için izlenmesi gereken 18 Avrupa orta ölçekli hissesini",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/jefferies-2026-toparlanmas-icin-izlenmesi-gereken-18-avrupa-orta-olcekli-hissesini-acklad-93CH-3716131",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-15T12:47:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Matriks’in TCMB faiz anketi: 150 baz puan indirim beklentisi öne çıktı",
-      "summary": "Matriks Haber’in ocak ayı ve gelecek döneme ilişkin faiz ve enflasyon beklentilerini içeren TCMB faiz anketi sonuçlandı. Ankete katılan ekonomistlerin büyük bölümü, Türkiye Cumhuriyeti Merkez Bankası’nın (TCMB) Ocak 2026 Para Politikası Kurulu (PPK) toplantısında politika faizini 150 baz puan indirerek yüzde 38,00’den yüzde 36,50’ye çekeceğini öngörüyor.",
-      "long_summary": "Matriks Haber’in ocak ayı ve gelecek döneme ilişkin faiz ve enflasyon beklentilerini içeren TCMB faiz anketi sonuçlandı. Ankete katılan ekonomistlerin büyük bölümü, Türkiye Cumhuriyeti Merkez Bankası’nın (TCMB) Ocak 2026 Para Politikası Kurulu (PPK) toplantısında politika faizini 150 baz puan indirerek yüzde 38,00’den yüzde 36,50’ye çekeceğini",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/matriksin-tcmb-faiz-anketi-150-baz-puan-indirim-beklentisi-one-cikti-haberi-811472",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/15/gorsel-2026-01-15-155232187-vnax_cover.png",
-      "published_at": "2026-01-15T12:44:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "THY uçağında bomba önlemi. Kontroller yapıldı, uçak temiz çıktı",
-      "summary": "Türk Hava Yolları'nın İstanbul-Barselona seferini yapan uçakta bir yolcunun uçak içi internet erişim noktası oluşturması ve ağın adının bomba tehdidi içermesi nedeniyle uçakta kontroller gerçekleştirildi. THY İletişim Başkanı Yahya Üstün, uçakta kontrollerin tamamlandığını ve sorun olmadığını açıkladı.",
-      "long_summary": "Türk Hava Yolları'nın İstanbul-Barselona seferini yapan uçakta bir yolcunun uçak içi internet erişim noktası oluşturması ve ağın adının bomba tehdidi içermesi nedeniyle uçakta kontroller gerçekleştirildi. THY İletişim Başkanı Yahya Üstün, uçakta kontrollerin tamamlandığını ve sorun olmadığını",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/thy-ucaginda-bomba-onlemi-kontroller-yapildi-ucak-temiz-cikti-1707602",
-      "image": "https://images.ntv.com.tr/images/thy2-420611.jpg",
-      "published_at": "2026-01-15T12:43:55+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Morgan Stanley ve Goldman Sachs'ın 4. çeyrek bilançoları açıklandı",
-      "summary": "Amerikalı bankalar Morgan Stanley ve Goldman Sachs'ın dördüncü çeyrek bilançoları açıklandı.",
-      "long_summary": "Amerikalı bankalar Morgan Stanley ve Goldman Sachs'ın dördüncü çeyrek bilançoları",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/morgan-stanley-ve-goldman-sachs-in-4-ceyrek-bilancolari-aciklandi-3766411",
-      "image": null,
-      "published_at": "2026-01-15T12:43:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Lord of the Rings Trilogy Re-Release Already Earned $5 Million in Domestic Presales",
-      "summary": "The Lord of the Rings has already earned more than $5 million in ticket pre-sales ahead of the trilogy's new theatrical re-release this weekend.",
-      "long_summary": "The Lord of the Rings has already earned more than $5 million in ticket pre-sales ahead of the trilogy's new theatrical re-release this",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/lord-of-the-rings-trilogy-re-release-already-earned-5-million-in-domestic-presales",
-      "image": "https://assets-prd.ignimgs.com/2024/09/11/gan-1726066030666.jpg",
-      "published_at": "2026-01-15T12:43:35+00:00"
     }
   ]
 }
