@@ -562,6 +562,7 @@ for source, url in RSS_FEEDS:
         articles.append({
             "origin": origin,
             "category": sub_category,
+            "category_slug": slugify_category(sub_category),
             "is_local": is_local_news(origin, sub_category),
             "source": source,
             "title": title,
