@@ -194,9 +194,27 @@ CATEGORY_DISPLAY_MAP = {
     "savunma": "Savunma / Askeri"
 }
 
-def determine_origin(source):
-    return "yabanci" if source in FOREIGN_SOURCES else "turkiye"
+FALLBACK_CATEGORIES = [
+    "Gündem",
+    "Dünya",
+    "Ekonomi",
+    "Finans",
+    "Spor",
+    "Teknoloji",
+    "Sağlık",
+    "Bilim",
+    "Magazin",
+    "Yaşam",
+    "Otomobil",
+    "Oyun / Dijital",
+    "Savunma / Askeri"
+]
 
+def determine_origin(source):
+    if source in FOREIGN_SOURCES:
+        return "yabanci"
+    return "turkiye"
+    
 def stable_pick(text, options):
     if not text or not options:
         return None
@@ -239,7 +257,7 @@ def determine_subcategory(source, origin, title, summary):
             return CATEGORY_DISPLAY_MAP.get(cat, CATEGORY_DISPLAY_MAP.get(cat.lower(), cat))
 
     # 3️⃣ Fallback
-    return "Gündem" if origin == "turkiye" else "Dünya"
+    return stable_pick(title, FALLBACK_CATEGORIES)
 def is_local_news(origin, category):
     return origin == "turkiye" and category == "Yerel"
 
