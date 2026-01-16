@@ -194,7 +194,7 @@ CATEGORY_DISPLAY_MAP = {
     "savunma": "Savunma / Askeri"
 }
 
-FALLBACK_CATEGORIES = [
+FALLBACK_CATEGORIES = {
     "Gündem",
     "Dünya",
     "Ekonomi",
@@ -208,7 +208,7 @@ FALLBACK_CATEGORIES = [
     "Otomobil",
     "Oyun / Dijital",
     "Savunma / Askeri"
-]
+}
 
 def determine_origin(source):
     if source in FOREIGN_SOURCES:
