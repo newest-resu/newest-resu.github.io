@@ -6,6 +6,8 @@ import requests
 import time
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
+from functools import lru_cache
+import hashlib
 
 OUTPUT = Path("news/raw_news.json")
 CUTOFF_HOURS = 36
@@ -210,6 +212,27 @@ FALLBACK_CATEGORIES = {
     "Savunma / Askeri"
 }
 
+@lru_cache(maxsize=5000)
+def translate_to_tr(text: str) -> str:
+    if not text or len(text.strip()) < 3:
+        return text
+
+    try:
+        res = requests.post(
+            "https://libretranslate.de/translate",
+            json={
+                "q": text,
+                "source": "en",
+                "target": "tr",
+                "format": "text"
+            },
+            timeout=10
+        )
+        data = res.json()
+        return data.get("translatedText", text)
+    except Exception:
+        return text
+
 def determine_origin(source):
     if source in FOREIGN_SOURCES:
         return "yabanci"
@@ -257,9 +280,9 @@ def determine_subcategory(source, origin, title, summary):
             return CATEGORY_DISPLAY_MAP.get(cat, CATEGORY_DISPLAY_MAP.get(cat.lower(), cat))
 
     # 3️⃣ Fallback
-    return stable_pick(title, FALLBACK_CATEGORIES)
+    return stable_pick(title, sorted(FALLBACK_CATEGORIES))
 def is_local_news(origin, category):
-    return origin == "turkiye" and category.lower() == "yerel"
+    return origin == "turkiye" and category.strip().lower() == "yerel"
 
 def extract_image(entry, summary_html=""):
     # 1️⃣ media:content
@@ -340,9 +363,9 @@ def translate_article_if_needed(article, cache):
         return text
 
     translated = {
-        "title": call_translate(article["title"]),
-        "summary": call_translate(article["summary"]),
-        "long_summary": call_translate(article["long_summary"])
+    "title_tr": call_translate(article["title"]),
+    "summary_tr": call_translate(article["summary"]),
+    "long_summary_tr": call_translate(article["long_summary"])
     }
 
     cache[url] = translated
@@ -369,6 +392,10 @@ def normalize_published_at(entry):
     return None
 
 def build_long_summary(summary):
+    if not summary:
+        return ""
+    if len(summary) <= 500:
+        return summary
     return summary[:500].rsplit(" ", 1)[0]
 
 def build_why_important(category):
@@ -613,20 +640,35 @@ for source, url in RSS_FEEDS:
             raw_summary
         )
 
+        category = sub_category
+        category_slug = slugify_category(sub_category)
+        is_local = is_local_news(origin, sub_category)
+
+        title = raw_title
+        summary = raw_summary
+        long_summary = build_long_summary(raw_summary)
+
+        why_important = build_why_important(sub_category)
+        possible_impacts = build_possible_impacts(sub_category)
+        published_at = normalize_published_at(e)
+
         article = {
             "origin": origin,
-            "category": sub_category,
-            "category_slug": slugify_category(sub_category),
-            "is_local": is_local_news(origin, sub_category),
+            "category": category,
+            "category_slug": category_slug,
+            "is_local": is_local,
             "source": source,
-            "title": raw_title,
-            "summary": raw_summary,
-            "long_summary": build_long_summary(raw_summary),
-            "why_important": build_why_important(sub_category),
-            "possible_impacts": build_possible_impacts(sub_category),
-            "url": e.get("link", ""),
+            "title": title,
+            "title_tr": title,
+            "summary": summary,
+            "summary_tr": summary,
+            "long_summary": long_summary,
+            "long_summary_tr": long_summary,
+            "why_important": why_important,
+            "possible_impacts": possible_impacts,
+            "url": e.get("link"),
             "image": image,
-            "published_at": normalize_published_at(e)
+            "published_at": published_at
         }
 
         article = translate_article_if_needed(article, translation_cache)
