@@ -577,6 +577,7 @@ function formatDate(dateStr) {
   modalSummary.textContent = article.long_summary || article.summary;
   modalMeta.textContent = `${article.source} • ${formatDate(article.published_at)}`;
   modalLink.href = article.url;
+  modalBackdrop.classList.add("open");
 
   // Neden Önemli
 const whyEl = document.getElementById("modalWhy");
