@@ -553,7 +553,7 @@ const modalTitle = document.getElementById("modalTitle");
 const modalSummary = document.getElementById("modalLong");
 const modalMeta = document.getElementById("modalMeta");
 const modalLink = document.getElementById("modalSource");
-const yerelBtn = document.getElementById("yerelBtn");
+const yerelBtn = document.querySelector('.btn-filter-cat[data-filter-cat="yerel"]');
 
 function formatDate(dateStr) {
   if (!dateStr) return "";
@@ -655,11 +655,15 @@ document.addEventListener("keydown", function (e) {
 
   const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
-  const isTR = CURRENT_SOURCE_FILTER === "tr";
+  function isTR() {
+  return CURRENT_SOURCE_FILTER === "tr";
+  }
 
   // Görünürlük
+  if (yerelBtn) {
   yerelBtn.style.display = isTR ? "" : "none";
-
+  }
+  
   // Eğer Yerel seçiliyken TR dışına çıkıldıysa resetle
   if (!isTR && CURRENT_CATEGORY_FILTER === "yerel") {
     CURRENT_CATEGORY_FILTER = "all";
