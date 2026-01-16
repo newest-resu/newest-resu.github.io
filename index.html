@@ -652,23 +652,6 @@ document.addEventListener("keydown", function (e) {
 
   const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
-  const CATEGORY_LABELS = {
-    gundem: "Gündem",
-    dunya: "Dünya",
-    yerel: "Yerel",
-    spor: "Spor",
-    teknoloji: "Teknoloji",
-    saglik: "Sağlık",
-    ekonomi: "Ekonomi",
-    finans: "Finans",
-    magazin: "Magazin",
-    bilim: "Bilim",
-    savunma: "Savunma / Askeri",
-    oyun: "Oyun / Dijital",
-    otomobil: "Otomobil",
-    yasam: "Yaşam"
-  };
-
   function syncYerelVisibility() {
   const yerelBtn = document.querySelector('[data-filter-cat="yerel"]');
   if (!yerelBtn) return;
@@ -700,34 +683,11 @@ document.addEventListener("keydown", function (e) {
   }
 
   function getSourceInfo(article) {
-  const isTR = article.main_category === "Türkiye Kaynaklı";
+  const isTR = article.origin === "turkiye";
   return {
     type: isTR ? "tr" : "intl",
     label: article.source || "Kaynak"
   };
-}
-
-  function classifyCategory(a) {
-  if (a.sub_category) {
-    const map = {
-      "Gündem": "gundem",
-      "Dünya": "dunya",
-      "Yerel": "yerel",
-      "Spor": "spor",
-      "Teknoloji": "teknoloji",
-      "Sağlık": "saglik",
-      "Ekonomi": "ekonomi",
-      "Finans": "finans",
-      "Magazin": "magazin",
-      "Bilim": "bilim",
-      "Savunma / Askeri": "savunma_askeri",
-      "Oyun / Dijital": "oyun_dijital",
-      "Otomobil": "otomobil",
-      "Yaşam": "yasam"
-    };
-    return map[a.sub_category] || "gundem";
-  }
-  return "gundem";
 }
 
   function formatTRDate(iso) {
@@ -754,15 +714,25 @@ document.addEventListener("keydown", function (e) {
     container.innerHTML = "";
 
     const filtered = ALL_ARTICLES.filter(a => {
-      const src = getSourceInfo(a);
-if (
-  CURRENT_SOURCE_FILTER !== "all" &&
-  src.type !== CURRENT_SOURCE_FILTER
-) return false;
-      if (CURRENT_CATEGORY_FILTER !== "all" && classifyCategory(a) !== CURRENT_CATEGORY_FILTER) return false;
-      return true;
-    });
+  const src = getSourceInfo(a);
 
+  if (
+    CURRENT_SOURCE_FILTER !== "all" &&
+    src.type !== CURRENT_SOURCE_FILTER
+  ) return false;
+
+  if (CURRENT_CATEGORY_FILTER === "yerel") {
+    return a.is_local === true;
+  }
+
+  if (
+    CURRENT_CATEGORY_FILTER !== "all" &&
+    a.category_slug !== CURRENT_CATEGORY_FILTER
+  ) return false;
+
+  return true;
+});
+    
     if (!filtered.length) {
       container.innerHTML = "<p style='color:#9ca3af;font-size:13px;'>Bu filtreler için haber bulunamadı.</p>";
       return;
@@ -770,7 +740,6 @@ if (
 
     filtered.forEach(a => {
       const src = getSourceInfo(a);
-      const cat = classifyCategory(a);
       const card = document.createElement("article");
       card.className = "card";
 
@@ -781,8 +750,8 @@ if (
         <div class="card-body">
           <div class="meta-line">
             <span class="badge-source">${src.label}</span>
-            <span class="badge-tag">${src.type === "tr" ? "Türkiye Kaynaklı" : "Yabancı Kaynaklı"}</span>
-            <span class="badge-cat">${CATEGORY_LABELS[cat] || "Gündem"}</span>
+            <span class="badge-tag">${a.origin === "turkiye" ? "Türkiye Kaynaklı" : "Yabancı Kaynaklı"}</span>
+            <span class="badge-cat">${a.category}</span>
           </div>
           <h2 class="headline">${escapeHtml(a.title)}</h2>
           <p class="summary">${escapeHtml(a.summary || "")}</p>
