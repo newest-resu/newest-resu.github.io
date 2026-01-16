@@ -654,10 +654,6 @@ document.addEventListener("keydown", function (e) {
 
   const AUTO_REFRESH_MS = 60 * 60 * 1000;
 
-  function syncYerelVisibility() {
-  const yerelBtn = document.querySelector('[data-filter-cat="yerel"]');
-  if (!yerelBtn) return;
-
   const isTR = CURRENT_SOURCE_FILTER === "tr";
 
   // Görünürlük
@@ -798,7 +794,6 @@ document.addEventListener("keydown", function (e) {
       document.querySelectorAll(".btn-filter-source").forEach(b => b.classList.remove("active"));
       src.classList.add("active");
       CURRENT_SOURCE_FILTER = src.dataset.filterSource;
-      syncYerelVisibility(); // ← EKLENDİ
       renderArticles();
     }
 
@@ -811,7 +806,6 @@ document.addEventListener("keydown", function (e) {
     });
     
   loadNews({ force: true });
-  syncYerelVisibility();
   setInterval(() => document.visibilityState === "visible" && loadNews({ force: true }), AUTO_REFRESH_MS);
     
 </script>
