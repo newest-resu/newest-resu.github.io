@@ -259,7 +259,7 @@ def determine_subcategory(source, origin, title, summary):
     # 3️⃣ Fallback
     return stable_pick(title, FALLBACK_CATEGORIES)
 def is_local_news(origin, category):
-    return origin == "turkiye" and category == "Yerel"
+    return origin == "turkiye" and category.lower() == "yerel"
 
 def extract_image(entry, summary_html=""):
     # 1️⃣ media:content
@@ -291,8 +291,65 @@ def extract_image(entry, summary_html=""):
 
     # 5️⃣ Hiç görsel yok
     return None
-   
-TRANSLATION_CACHE = {}
+
+TRANSLATION_CACHE_FILE = Path("news/translation_cache.json")
+
+def load_translation_cache():
+    if TRANSLATION_CACHE_FILE.exists():
+        return json.loads(TRANSLATION_CACHE_FILE.read_text(encoding="utf-8"))
+    return {}
+
+def save_translation_cache(cache):
+    TRANSLATION_CACHE_FILE.parent.mkdir(exist_ok=True)
+    TRANSLATION_CACHE_FILE.write_text(
+        json.dumps(cache, ensure_ascii=False, indent=2),
+        encoding="utf-8"
+    )
+
+def translate_article_if_needed(article, cache):
+    if article["origin"] != "yabanci":
+        return article
+
+    url = article["url"]
+    if not url:
+        return article
+
+    if url in cache:
+        article.update(cache[url])
+        return article
+
+    def call_translate(text):
+        if not text or len(text) < 5:
+            return text
+        try:
+            r = requests.post(
+                "https://libretranslate.de/translate",
+                data={
+                    "q": text,
+                    "source": "auto",
+                    "target": "tr",
+                    "format": "text"
+                },
+                timeout=15
+            )
+            if r.status_code == 200:
+                time.sleep(0.4)  # rate limit koruması
+                return r.json().get("translatedText", text)
+        except Exception:
+            pass
+        return text
+
+    translated = {
+        "title": call_translate(article["title"]),
+        "summary": call_translate(article["summary"]),
+        "long_summary": call_translate(article["long_summary"])
+    }
+
+    cache[url] = translated
+    article.update(translated)
+    save_translation_cache(cache)
+
+    return article
 
 def clean_html(text):
     if not text:
@@ -310,26 +367,6 @@ def normalize_published_at(entry):
     if dt:
         return dt.isoformat()
     return None
-
-def translate_text_safe(text):
-    if not text or len(text) < 5:
-        return text
-    if text in TRANSLATION_CACHE:
-        return TRANSLATION_CACHE[text]
-    try:
-        r = requests.post(
-            "https://libretranslate.de/translate",
-            data={"q": text, "source": "en", "target": "tr"},
-            timeout=15
-        )
-        if r.status_code == 200:
-            translated = r.json().get("translatedText", text)
-            TRANSLATION_CACHE[text] = translated
-            time.sleep(0.3)
-            return translated
-    except Exception:
-        pass
-    return text
 
 def build_long_summary(summary):
     return summary[:500].rsplit(" ", 1)[0]
@@ -550,6 +587,8 @@ def build_possible_impacts(category):
         return [pick] if pick else [options[0]]
         
     return ["Olası etkiler zamanla netleşebilir."]
+
+translation_cache = load_translation_cache()
     
 articles = []
 
@@ -567,31 +606,31 @@ for source, url in RSS_FEEDS:
 
         origin = determine_origin(source)
 
-        title = translate_text_safe(raw_title) if origin == "yabanci" else raw_title
-        summary = translate_text_safe(raw_summary) if origin == "yabanci" else raw_summary
-
         sub_category = determine_subcategory(
             source,
             origin,
-            title,
-            summary
+            raw_title,
+            raw_summary
         )
 
-        articles.append({
+        article = {
             "origin": origin,
             "category": sub_category,
             "category_slug": slugify_category(sub_category),
             "is_local": is_local_news(origin, sub_category),
             "source": source,
-            "title": title,
-            "summary": summary,
-            "long_summary": build_long_summary(summary),
+            "title": raw_title,
+            "summary": raw_summary,
+            "long_summary": build_long_summary(raw_summary),
             "why_important": build_why_important(sub_category),
             "possible_impacts": build_possible_impacts(sub_category),
             "url": e.get("link", ""),
             "image": image,
             "published_at": normalize_published_at(e)
-         })
+        }
+
+        article = translate_article_if_needed(article, translation_cache)
+        articles.append(article)
         
 OUTPUT.parent.mkdir(exist_ok=True)
 with open(OUTPUT, "w", encoding="utf-8") as f:
