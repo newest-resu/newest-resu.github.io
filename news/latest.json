@@ -1,6 +1,72 @@
 {
-  "updated_at": "2026-01-17T22:34:38.534125+00:00",
+  "updated_at": "2026-01-17T23:32:38.731736+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Watch: Match of the Day",
+      "title_tr": "Watch: Match of the Day",
+      "summary": "Highlights of seven Premier League games, including the Manchester derby.",
+      "summary_tr": "Highlights of seven Premier League games, including the Manchester derby.",
+      "long_summary": "Highlights of seven Premier League games, including the Manchester derby.",
+      "long_summary_tr": "Highlights of seven Premier League games, including the Manchester derby.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mv7l7r.jpg",
+      "published_at": "2026-01-18T08:59:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "İdeal Monitör Renk Ayarı Nasıl Yapılır?",
+      "title_tr": "İdeal Monitör Renk Ayarı Nasıl Yapılır?",
+      "summary": "İdeal monitör renk ayarı, ekranın gerçekçi ve dengeli renkler sunması için parlaklık, kontrast ve renk profillerinin doğru şekilde optimize edilmesini gerektirir. Bu ayarları yapmak için cihazın kendi kalibrasyon araçlarını veya profesyonel yazılımları kullanarak adım adım testler uygulamak en etkili yöntemdir.",
+      "summary_tr": "İdeal monitör renk ayarı, ekranın gerçekçi ve dengeli renkler sunması için parlaklık, kontrast ve renk profillerinin doğru şekilde optimize edilmesini gerektirir. Bu ayarları yapmak için cihazın kendi kalibrasyon araçlarını veya profesyonel yazılımları kullanarak adım adım testler uygulamak en etkili yöntemdir.",
+      "long_summary": "İdeal monitör renk ayarı, ekranın gerçekçi ve dengeli renkler sunması için parlaklık, kontrast ve renk profillerinin doğru şekilde optimize edilmesini gerektirir. Bu ayarları yapmak için cihazın kendi kalibrasyon araçlarını veya profesyonel yazılımları kullanarak adım adım testler uygulamak en etkili yöntemdir.",
+      "long_summary_tr": "İdeal monitör renk ayarı, ekranın gerçekçi ve dengeli renkler sunması için parlaklık, kontrast ve renk profillerinin doğru şekilde optimize edilmesini gerektirir. Bu ayarları yapmak için cihazın kendi kalibrasyon araçlarını veya profesyonel yazılımları kullanarak adım adım testler uygulamak en etkili yöntemdir.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/ideal-monitor-renk-ayari-nasil-yapilir-h210789.html",
+      "image": "https://imgrosetta.webtekno.com/file/644957/644957-640xauto.jpg",
+      "published_at": "2026-01-17T23:00:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Dahil Marmara ve Batı Karadeniz’de Fırtına Alarmı",
+      "title_tr": "Yalova Dahil Marmara ve Batı Karadeniz’de Fırtına Alarmı",
+      "summary": "Meteoroloji Genel Müdürlüğü, Yalova’nın da içinde bulunduğu Marmara Bölgesi ile Batı Karadeniz için fırtına uyarısı yaptı.",
+      "summary_tr": "Meteoroloji Genel Müdürlüğü, Yalova’nın da içinde bulunduğu Marmara Bölgesi ile Batı Karadeniz için fırtına uyarısı yaptı.",
+      "long_summary": "Meteoroloji Genel Müdürlüğü, Yalova’nın da içinde bulunduğu Marmara Bölgesi ile Batı Karadeniz için fırtına uyarısı yaptı.",
+      "long_summary_tr": "Meteoroloji Genel Müdürlüğü, Yalova’nın da içinde bulunduğu Marmara Bölgesi ile Batı Karadeniz için fırtına uyarısı yaptı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-dahil-marmara-ve-bati-karadenizde-firtina-alarmi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/kotu-hava-feribotlari-vurdu-seferler-iptal-2.jpeg",
+      "published_at": "2026-01-17T22:26:00+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Spor",
@@ -20,7 +86,7 @@
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
       "url": "https://www.bbc.com/sport/articles/crmlee2eem3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29cb/live/e0cc9590-f3f0-11f0-b5f7-49f0357294ff.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb6/live/0435e270-f3f6-11f0-b385-5f48925de19a.jpg",
       "published_at": "2026-01-17T22:21:56+00:00"
     },
     {
@@ -240,7 +306,7 @@
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
       "url": "https://www.bbc.com/sport/football/articles/cew8nj12841o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3729/live/73774f10-f3e3-11f0-808e-fddbe2ff1e6c.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bab3/live/a302dda0-f3f0-11f0-a422-4ba8a094a8fa.png",
       "published_at": "2026-01-17T21:15:11+00:00"
     },
     {
@@ -1034,72 +1100,6 @@
       "url": "https://www.skysports.com/tennis/news/12040/13495612/australian-open-gigi-salmon-previews-melbourne-grand-slam-and-predicts-jannik-sinner-amanda-anisimova-to-claim-titles",
       "image": "https://e0.365dm.com/26/01/1920x1080/skysports-sinner-anisimova_7138428.jpg?20260117194617",
       "published_at": "2026-01-17T20:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Avrupa ülkeleri, ABD'nin gümrük vergisi kararına tepki gösterdi",
-      "title_tr": "Avrupa ülkeleri, ABD'nin gümrük vergisi kararına tepki gösterdi",
-      "summary": "Avrupa ülkeleri, ABD Başkanı Donald Trump&#039;ın 8 Avrupa ülkesine gümrük vergisi uygulayacağına yönelik kararına tepki gösterdi.",
-      "summary_tr": "Avrupa ülkeleri, ABD Başkanı Donald Trump&#039;ın 8 Avrupa ülkesine gümrük vergisi uygulayacağına yönelik kararına tepki gösterdi.",
-      "long_summary": "Avrupa ülkeleri, ABD Başkanı Donald Trump&#039;ın 8 Avrupa ülkesine gümrük vergisi uygulayacağına yönelik kararına tepki gösterdi.",
-      "long_summary_tr": "Avrupa ülkeleri, ABD Başkanı Donald Trump&#039;ın 8 Avrupa ülkesine gümrük vergisi uygulayacağına yönelik kararına tepki gösterdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/avrupa-ulkeleri-abdnin-gumruk-vergisi-kararina-tepki-gosterdi-haberi-811717",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/04/13/avrupa-eubg_cover.jpg",
-      "published_at": "2026-01-17T19:57:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Trump, JPMorgan'a dava açıyor",
-      "title_tr": "Trump, JPMorgan'a dava açıyor",
-      "summary": "ABD Başkanı Donald Trump, 6 Ocak protestoları sonrası banka hizmetlerini sonlandırdığı gerekçesiyle JPMorgan Chase'e iki hafta içinde dava açacağını duyurdu.",
-      "summary_tr": "ABD Başkanı Donald Trump, 6 Ocak protestoları sonrası banka hizmetlerini sonlandırdığı gerekçesiyle JPMorgan Chase'e iki hafta içinde dava açacağını duyurdu.",
-      "long_summary": "ABD Başkanı Donald Trump, 6 Ocak protestoları sonrası banka hizmetlerini sonlandırdığı gerekçesiyle JPMorgan Chase'e iki hafta içinde dava açacağını duyurdu.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, 6 Ocak protestoları sonrası banka hizmetlerini sonlandırdığı gerekçesiyle JPMorgan Chase'e iki hafta içinde dava açacağını duyurdu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/trump-jpmorgan-a-dava-aciyor-3766616",
-      "image": null,
-      "published_at": "2026-01-17T19:55:48+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "What a seventh term for 81-year-old leader means for Uganda",
-      "title_tr": "What a seventh term for 81-year-old leader means for Uganda",
-      "summary": "Yoweri Museveni has won a record seventh term in elections after promising that the fledgling oil sector will boost the economy.",
-      "summary_tr": "Yoweri Museveni has won a record seventh term in elections after promising that the fledgling oil sector will boost the economy.",
-      "long_summary": "Yoweri Museveni has won a record seventh term in elections after promising that the fledgling oil sector will boost the economy.",
-      "long_summary_tr": "Yoweri Museveni has won a record seventh term in elections after promising that the fledgling oil sector will boost the economy.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cx20qj1pwrwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7b2/live/271a2e30-f3b6-11f0-a42e-950e67f27517.jpg",
-      "published_at": "2026-01-17T19:55:16+00:00"
     }
   ]
 }
