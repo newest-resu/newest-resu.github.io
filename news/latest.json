@@ -1,6 +1,666 @@
 {
-  "updated_at": "2026-01-16T23:34:44.339676+00:00",
+  "updated_at": "2026-01-17T02:13:04.649197+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İstanbul'da pazara dikkat. Sıcaklık 6 derece azalacak, kar başlayacak",
+      "title_tr": "İstanbul'da pazara dikkat. Sıcaklık 6 derece azalacak, kar başlayacak",
+      "summary": "İstanbul Valiliği ve AKOM hafta sonu kentte hava sıcaklığının 3 dereceye kadar düşeceğini, karla karışık yağmur ve kar yağışı beklendiğini duyurdu. 13 kent için sarı kod yayınlayan Meteoroloji ise kar kalınlığının 20 santimetreye kadar çıkacağı uyarısı yaptı.",
+      "summary_tr": "İstanbul Valiliği ve AKOM hafta sonu kentte hava sıcaklığının 3 dereceye kadar düşeceğini, karla karışık yağmur ve kar yağışı beklendiğini duyurdu. 13 kent için sarı kod yayınlayan Meteoroloji ise kar kalınlığının 20 santimetreye kadar çıkacağı uyarısı yaptı.",
+      "long_summary": "İstanbul Valiliği ve AKOM hafta sonu kentte hava sıcaklığının 3 dereceye kadar düşeceğini, karla karışık yağmur ve kar yağışı beklendiğini duyurdu. 13 kent için sarı kod yayınlayan Meteoroloji ise kar kalınlığının 20 santimetreye kadar çıkacağı uyarısı yaptı.",
+      "long_summary_tr": "İstanbul Valiliği ve AKOM hafta sonu kentte hava sıcaklığının 3 dereceye kadar düşeceğini, karla karışık yağmur ve kar yağışı beklendiğini duyurdu. 13 kent için sarı kod yayınlayan Meteoroloji ise kar kalınlığının 20 santimetreye kadar çıkacağı uyarısı yaptı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/galeri/turkiye/istanbulda-pazara-dikkat-sicaklik-6-derece-azalacak-kar-baslayacak-1707780",
+      "image": "https://images.ntv.com.tr/images/kar3-102957.jpg",
+      "published_at": "2026-01-17T01:54:20+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "Grey Wolf helicopter notches first operational mission",
+      "title_tr": "Grey Wolf helicopter notches first operational mission",
+      "summary": "Two MH-139A Grey Wolf helicopters completed their first operational mission Jan. 8, escorting a Minuteman III intercontinental ballistic missile convoy.",
+      "summary_tr": "Two MH-139A Grey Wolf helicopters completed their first operational mission Jan. 8, escorting a Minuteman III intercontinental ballistic missile convoy.",
+      "long_summary": "Two MH-139A Grey Wolf helicopters completed their first operational mission Jan. 8, escorting a Minuteman III intercontinental ballistic missile convoy.",
+      "long_summary_tr": "Two MH-139A Grey Wolf helicopters completed their first operational mission Jan. 8, escorting a Minuteman III intercontinental ballistic missile convoy.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/your-air-force/2026/01/17/grey-wolf-helicopter-notches-first-operational-mission/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/EUZZNX5MPNF3ZPS6YHX4DF6NTU.jpeg",
+      "published_at": "2026-01-17T01:48:06+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "title_tr": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "summary": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "summary_tr": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "long_summary": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "long_summary_tr": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8157/live/3baf6cd0-f324-11f0-93be-b59669b0a56b.jpg",
+      "published_at": "2026-01-17T01:44:20+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Fallout Season 2 Ratings Fall Well Below Season 1 as Prime Video Ditches Binge Strategy",
+      "title_tr": "Fallout Season 2 Ratings Fall Well Below Season 1 as Prime Video Ditches Binge Strategy",
+      "summary": "Fallout Season 2 ratings are down compared to the explosive debut of Season 1 – but there’s a good reason for that.",
+      "summary_tr": "Fallout Season 2 ratings are down compared to the explosive debut of Season 1 – but there’s a good reason for that.",
+      "long_summary": "Fallout Season 2 ratings are down compared to the explosive debut of Season 1 – but there’s a good reason for that.",
+      "long_summary_tr": "Fallout Season 2 ratings are down compared to the explosive debut of Season 1 – but there’s a good reason for that.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/fallout-season-2-ratings-fall-well-below-season-1-as-prime-video-ditches-binge-strategy",
+      "image": "https://assets-prd.ignimgs.com/2025/12/16/fallout-s2e3-review-blogroll-1765902772410.jpg",
+      "published_at": "2026-01-17T01:28:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "This Compact $50 True HEPA Air Purifier Is an Effective Way to Keep Your Gaming PC Dust-Free",
+      "title_tr": "This Compact $50 True HEPA Air Purifier Is an Effective Way to Keep Your Gaming PC Dust-Free",
+      "summary": "Along with all the other benefits of an air purifier, of course.",
+      "summary_tr": "Along with all the other benefits of an air purifier, of course.",
+      "long_summary": "Along with all the other benefits of an air purifier, of course.",
+      "long_summary_tr": "Along with all the other benefits of an air purifier, of course.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/tailulu-hepa-air-purifier-for-pc-deal",
+      "image": "https://assets-prd.ignimgs.com/2026/01/17/tailulu-1768609182417.jpg",
+      "published_at": "2026-01-17T01:15:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Get a Brand New Ecoflow River 3 Power Station for 30% Less Than on Amazon",
+      "title_tr": "Get a Brand New Ecoflow River 3 Power Station for 30% Less Than on Amazon",
+      "summary": "Sold and shipped from Ecoflow's official AliExpress storefront.",
+      "summary_tr": "Sold and shipped from Ecoflow's official AliExpress storefront.",
+      "long_summary": "Sold and shipped from Ecoflow's official AliExpress storefront.",
+      "long_summary_tr": "Sold and shipped from Ecoflow's official AliExpress storefront.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/ecoflow-river-3-power-station-deal-aliexpress-winter-sale",
+      "image": "https://assets-prd.ignimgs.com/2026/01/12/ecoflowriver3-1768231239391.jpg",
+      "published_at": "2026-01-17T00:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Get These Powerful Sofirn High-Powered LED Flashlights for 50% Less Than Buying From Amazon",
+      "title_tr": "Get These Powerful Sofirn High-Powered LED Flashlights for 50% Less Than Buying From Amazon",
+      "summary": "Unbeatable light output for the price.",
+      "summary_tr": "Unbeatable light output for the price.",
+      "long_summary": "Unbeatable light output for the price.",
+      "long_summary_tr": "Unbeatable light output for the price.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/sofirn-led-flashlight-deals-aliexpress-new-year-sale",
+      "image": "https://assets-prd.ignimgs.com/2026/01/13/sofirnq8plus-1768318422017.jpg",
+      "published_at": "2026-01-17T00:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The $17 Baseus 67W USB-C Charger Will Fast Charge the Most Powerful Gaming Handheld PCs",
+      "title_tr": "The $17 Baseus 67W USB-C Charger Will Fast Charge the Most Powerful Gaming Handheld PCs",
+      "summary": "A handy accessory for the Nintendo Switch 2, Steam Deck, Xbox Ally X, or Legion Go.",
+      "summary_tr": "A handy accessory for the Nintendo Switch 2, Steam Deck, Xbox Ally X, or Legion Go.",
+      "long_summary": "A handy accessory for the Nintendo Switch 2, Steam Deck, Xbox Ally X, or Legion Go.",
+      "long_summary_tr": "A handy accessory for the Nintendo Switch 2, Steam Deck, Xbox Ally X, or Legion Go.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/usb-c-charger-deals-for-handheld-gaming-pcs",
+      "image": "https://assets-prd.ignimgs.com/2026/01/15/baseuscharger-1768495847183.jpg",
+      "published_at": "2026-01-17T00:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Beats Studio Pro Noise Canceling Headphones Drops to Just $95 at Woot",
+      "title_tr": "The Beats Studio Pro Noise Canceling Headphones Drops to Just $95 at Woot",
+      "summary": "Factory refurbished model with a 1 year warranty.",
+      "summary_tr": "Factory refurbished model with a 1 year warranty.",
+      "long_summary": "Factory refurbished model with a 1 year warranty.",
+      "long_summary_tr": "Factory refurbished model with a 1 year warranty.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/beats-studio-pro-noise-canceling-headphone-deal-new-year",
+      "image": "https://assets-prd.ignimgs.com/2026/01/14/beatsstudiopro2-1768403276828.jpg",
+      "published_at": "2026-01-17T00:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "AliExpress Has a 500W 375Wh Adult Electric Bike for Just $231 with Free Delivery",
+      "title_tr": "AliExpress Has a 500W 375Wh Adult Electric Bike for Just $231 with Free Delivery",
+      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "long_summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "long_summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/aliexpress-has-a-500w-375wh-adult-electric-bike-for-just-231-with-free-delivery",
+      "image": "https://assets-prd.ignimgs.com/2026/01/16/5thwheel-1768522689760.jpg",
+      "published_at": "2026-01-17T00:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Get a Free Printer and Unlimited Ink for a Low Monthly Price with HP's All-in-One Plan",
+      "title_tr": "Get a Free Printer and Unlimited Ink for a Low Monthly Price with HP's All-in-One Plan",
+      "summary": "Get a $470 printer for just $12.99 per month.",
+      "summary_tr": "Get a $470 printer for just $12.99 per month.",
+      "long_summary": "Get a $470 printer for just $12.99 per month.",
+      "long_summary_tr": "Get a $470 printer for just $12.99 per month.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/hp-all-in-one-plan-free-printer-unlimited-ink-monthly-subscription",
+      "image": "https://assets-prd.ignimgs.com/2026/01/07/hpallinone-1767827779301.jpg",
+      "published_at": "2026-01-17T00:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Today Is the Last Day to Save 30% Off the reMarkable 2 E-Ink Tablet with Digital Stylus and Folio",
+      "title_tr": "Today Is the Last Day to Save 30% Off the reMarkable 2 E-Ink Tablet with Digital Stylus and Folio",
+      "summary": "The most paper-like writing experience you can get in a digital tablet.",
+      "summary_tr": "The most paper-like writing experience you can get in a digital tablet.",
+      "long_summary": "The most paper-like writing experience you can get in a digital tablet.",
+      "long_summary_tr": "The most paper-like writing experience you can get in a digital tablet.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/remarkable-new-years-sale-e-ink-tablet-deals",
+      "image": "https://assets-prd.ignimgs.com/2026/01/09/remarkable2-1768003029048.jpg",
+      "published_at": "2026-01-17T00:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "title_tr": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "summary": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
+      "summary_tr": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
+      "long_summary": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
+      "long_summary_tr": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd85/live/04f165c0-f2ef-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-17T00:43:58+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Save 50% Off the 34\" Alienware Ultra-Wide OLED Gaming Monitor (Now $450, Down From $900)",
+      "title_tr": "Save 50% Off the 34\" Alienware Ultra-Wide OLED Gaming Monitor (Now $450, Down From $900)",
+      "summary": "The lowest price I've ever seen for a 34\" OLED monitor from any store and any brand.",
+      "summary_tr": "The lowest price I've ever seen for a 34\" OLED monitor from any store and any brand.",
+      "long_summary": "The lowest price I've ever seen for a 34\" OLED monitor from any store and any brand.",
+      "long_summary_tr": "The lowest price I've ever seen for a 34\" OLED monitor from any store and any brand.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/dell-alienware-aw3423dwf-qd-oled-gaming-monitor-deal-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/01/15/alienwareaw3423dwf-1768503885048.jpg",
+      "published_at": "2026-01-17T00:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Alienware Aurora R16 RTX 5080 Gaming PC with 16GB of DDR5 RAM Drops to $2,280",
+      "title_tr": "The Alienware Aurora R16 RTX 5080 Gaming PC with 16GB of DDR5 RAM Drops to $2,280",
+      "summary": "Prices on prebuilts are expected to go up later this year.",
+      "summary_tr": "Prices on prebuilts are expected to go up later this year.",
+      "long_summary": "Prices on prebuilts are expected to go up later this year.",
+      "long_summary_tr": "Prices on prebuilts are expected to go up later this year.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-aurora-geforce-rtx-5080-gaming-pc-deal-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/01/14/alienwareaurorar16-1768408985267.jpg",
+      "published_at": "2026-01-17T00:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Best Budget 3D Printer Deals Are at AliExpress (Anycubic, Flashforge, Creality From $175)",
+      "title_tr": "The Best Budget 3D Printer Deals Are at AliExpress (Anycubic, Flashforge, Creality From $175)",
+      "summary": "These printers ship fast and free, with full warranty and 90-day free returns.",
+      "summary_tr": "These printers ship fast and free, with full warranty and 90-day free returns.",
+      "long_summary": "These printers ship fast and free, with full warranty and 90-day free returns.",
+      "long_summary_tr": "These printers ship fast and free, with full warranty and 90-day free returns.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/the-best-budget-3d-printer-deals-january-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/01/15/3dprinters-1768499998331.jpg",
+      "published_at": "2026-01-17T00:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The New Alienware Area-51 Ryzen X3D RTX 5090 Gaming PC Drops in Price Following CES 2026",
+      "title_tr": "The New Alienware Area-51 Ryzen X3D RTX 5090 Gaming PC Drops in Price Following CES 2026",
+      "summary": "If you're seeking the absolute best of the best in PC gaming performance, look no further.",
+      "summary_tr": "If you're seeking the absolute best of the best in PC gaming performance, look no further.",
+      "long_summary": "If you're seeking the absolute best of the best in PC gaming performance, look no further.",
+      "long_summary_tr": "If you're seeking the absolute best of the best in PC gaming performance, look no further.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-area-51-geforce-rtx-5090-gaming-pc-deal-ryzen-x3d-edition-ces-2026-price-drop",
+      "image": "https://assets-prd.ignimgs.com/2026/01/12/alienwarearea51ryzen-1768226157261.jpg",
+      "published_at": "2026-01-17T00:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The RTX 5070 Ti GPU Might Be Discontinued, But You Can Still Get a Prebuilt Gaming PC for a Good Price",
+      "title_tr": "The RTX 5070 Ti GPU Might Be Discontinued, But You Can Still Get a Prebuilt Gaming PC for a Good Price",
+      "summary": "Best Buy has an RTX 5070 Ti gaming PC for $1,799.99, but for how long?",
+      "summary_tr": "Best Buy has an RTX 5070 Ti gaming PC for $1,799.99, but for how long?",
+      "long_summary": "Best Buy has an RTX 5070 Ti gaming PC for $1,799.99, but for how long?",
+      "long_summary_tr": "Best Buy has an RTX 5070 Ti gaming PC for $1,799.99, but for how long?",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/the-rtx-5070-ti-gpu-might-be-discontinued-but-you-can-still-get-a-prebuilt-gaming-pc-for-a-good-price",
+      "image": "https://assets-prd.ignimgs.com/2026/01/15/acernitro602-1768512125796.jpg",
+      "published_at": "2026-01-17T00:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Samsung P9 256GB MicroSD Express Nintendo Switch 2 Memory Card Drops to $35 on Amazon",
+      "title_tr": "The Samsung P9 256GB MicroSD Express Nintendo Switch 2 Memory Card Drops to $35 on Amazon",
+      "summary": "Doubles your Switch 2 storage capacity.",
+      "summary_tr": "Doubles your Switch 2 storage capacity.",
+      "long_summary": "Doubles your Switch 2 storage capacity.",
+      "long_summary_tr": "Doubles your Switch 2 storage capacity.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/samsung-p9-256gb-microsd-express-nintendo-switch-2-memory-card-deal-2026-1",
+      "image": "https://assets-prd.ignimgs.com/2026/01/06/samsungp9express256gb-1767723151865.jpg",
+      "published_at": "2026-01-17T00:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+      "title_tr": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+      "summary": "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale.",
+      "summary_tr": "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale.",
+      "long_summary": "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale.",
+      "long_summary_tr": "Ukraine's third largest city has come under sustained attack on its ports in a Russian bid to sap morale.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f36d/live/b0629db0-f30e-11f0-a422-4ba8a094a8fa.jpg",
+      "published_at": "2026-01-17T00:14:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+      "title_tr": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+      "summary": "Researchers say their gold-standard review should put an end to the debate over use of the common painkiller during pregnancy.",
+      "summary_tr": "Researchers say their gold-standard review should put an end to the debate over use of the common painkiller during pregnancy.",
+      "long_summary": "Researchers say their gold-standard review should put an end to the debate over use of the common painkiller during pregnancy.",
+      "long_summary_tr": "Researchers say their gold-standard review should put an end to the debate over use of the common painkiller during pregnancy.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7cf/live/3718db40-f304-11f0-b2ab-f70ba525289e.jpg",
+      "published_at": "2026-01-17T00:13:47+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Speedy Gonzales Movie Back in Development at Warner Bros. With New Director",
+      "title_tr": "Speedy Gonzales Movie Back in Development at Warner Bros. With New Director",
+      "summary": "Speedy Gonzales is reportedly racing to the big screen with a new movie from director Jorge R. Gutiérrez.",
+      "summary_tr": "Speedy Gonzales is reportedly racing to the big screen with a new movie from director Jorge R. Gutiérrez.",
+      "long_summary": "Speedy Gonzales is reportedly racing to the big screen with a new movie from director Jorge R. Gutiérrez.",
+      "long_summary_tr": "Speedy Gonzales is reportedly racing to the big screen with a new movie from director Jorge R. Gutiérrez.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/speedy-gonzales-movie-back-in-development-at-warner-bros-with-new-director",
+      "image": "https://assets-prd.ignimgs.com/2026/01/16/speedy-gonzales-1768606724471.png",
+      "published_at": "2026-01-17T00:09:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Kız kardeşini öldürüp annesini yaraladı, intihar etti",
+      "title_tr": "Kız kardeşini öldürüp annesini yaraladı, intihar etti",
+      "summary": "Konya’da evlerinde çıkan tartışmanın ardından kız kardeşini öldüren, annesini ağır yaralayan Nadir Türkmen, aynı silahla intihar etti.",
+      "summary_tr": "Konya’da evlerinde çıkan tartışmanın ardından kız kardeşini öldüren, annesini ağır yaralayan Nadir Türkmen, aynı silahla intihar etti.",
+      "long_summary": "Konya’da evlerinde çıkan tartışmanın ardından kız kardeşini öldüren, annesini ağır yaralayan Nadir Türkmen, aynı silahla intihar etti.",
+      "long_summary_tr": "Konya’da evlerinde çıkan tartışmanın ardından kız kardeşini öldüren, annesini ağır yaralayan Nadir Türkmen, aynı silahla intihar etti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/kiz-kardesini-oldurup-annesini-yaraladi-intihar-etti-1707777",
+      "image": "https://images.ntv.com.tr/images/AA-20260116-40278470-40278468-KONYADA_KARDESINI_OLDUREN_ANNESINI_YARALAYAN_KISI_INTIHAR_ETTI-927734.jpg",
+      "published_at": "2026-01-17T00:01:46+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "All the goals as Rangers blow away Annan in Scottish Cup",
+      "title_tr": "All the goals as Rangers blow away Annan in Scottish Cup",
+      "summary": "Watch highlights as Rangers advance in the Scottish Cup by beating Annan Athletic.",
+      "summary_tr": "Watch highlights as Rangers advance in the Scottish Cup by beating Annan Athletic.",
+      "long_summary": "Watch highlights as Rangers advance in the Scottish Cup by beating Annan Athletic.",
+      "long_summary_tr": "Watch highlights as Rangers advance in the Scottish Cup by beating Annan Athletic.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/videos/c62vlznyzlzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da15/live/23b19e50-f333-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-17T00:00:52+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Evden 168 ton çöp çıktı",
+      "title_tr": "Evden 168 ton çöp çıktı",
+      "summary": "Tarsus'ta Şehit Kerim Mahallesi sakinlerinin kötü koku şikayeti üzerine harekete geçen belediye ekipleri, bir evden 168 ton çöp çıkardı.",
+      "summary_tr": "Tarsus'ta Şehit Kerim Mahallesi sakinlerinin kötü koku şikayeti üzerine harekete geçen belediye ekipleri, bir evden 168 ton çöp çıkardı.",
+      "long_summary": "Tarsus'ta Şehit Kerim Mahallesi sakinlerinin kötü koku şikayeti üzerine harekete geçen belediye ekipleri, bir evden 168 ton çöp çıkardı.",
+      "long_summary_tr": "Tarsus'ta Şehit Kerim Mahallesi sakinlerinin kötü koku şikayeti üzerine harekete geçen belediye ekipleri, bir evden 168 ton çöp çıkardı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/galeri/turkiye/evden-168-ton-cop-cikti-1707776",
+      "image": "https://images.ntv.com.tr/images/AA-20260116-40278823-40278820-MERSINDE_BIR_EVDEN_168_TON_COP_CIKTI-724694.jpg",
+      "published_at": "2026-01-16T23:53:02+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Battlefield 6 Update Improves Jet Combat And Knife Attacks",
+      "title_tr": "Battlefield 6 Update Improves Jet Combat And Knife Attacks",
+      "summary": "Earlier this week, Battlefield 6's Season 2 launch was pushed back to February 17 to give the development team more time to implement some needed changes. But that doesn't mean there won't be some improvements ahead of time. Electronic Arts has announced that Battlefield 6 Update 1.1.3.5 will arrive on Tuesday, January 20, and it's bringing some good news for anyone who wanted the jet combat to be more refined.Going forward, jet cannon damage against flying vehicles has been greatly reduced, and it will take \"approximately 40% more hits\" to blow targets out of the sky. However, the air radar that was previously announced will not be included in this update.Melee combat was also a priority for this update, which aims to improve \"responsiveness, consistency, and sprint behavior for melee attacks, including knives and the sledgehammer.\" The Assault Ladder should also be more functional after this update, and the patch notes indicate that it has resolved some issues with the user interface and heads-up display in Redsec and Multiplayer, in addition to better stability for the Battle Royale and Gauntlet modes.Continue Reading at GameSpot",
+      "summary_tr": "Earlier this week, Battlefield 6's Season 2 launch was pushed back to February 17 to give the development team more time to implement some needed changes. But that doesn't mean there won't be some improvements ahead of time. Electronic Arts has announced that Battlefield 6 Update 1.1.3.5 will arrive on Tuesday, January 20, and it's bringing some good news for anyone who wanted the jet combat to be more refined.Going forward, jet cannon damage against flying vehicles has been greatly reduced, and it will take \"approximately 40% more hits\" to blow targets out of the sky. However, the air radar that was previously announced will not be included in this update.Melee combat was also a priority for this update, which aims to improve \"responsiveness, consistency, and sprint behavior for melee attacks, including knives and the sledgehammer.\" The Assault Ladder should also be more functional after this update, and the patch notes indicate that it has resolved some issues with the user interface and heads-up display in Redsec and Multiplayer, in addition to better stability for the Battle Royale and Gauntlet modes.Continue Reading at GameSpot",
+      "long_summary": "Earlier this week, Battlefield 6's Season 2 launch was pushed back to February 17 to give the development team more time to implement some needed changes. But that doesn't mean there won't be some improvements ahead of time. Electronic Arts has announced that Battlefield 6 Update 1.1.3.5 will arrive on Tuesday, January 20, and it's bringing some good news for anyone who wanted the jet combat to be more refined.Going forward, jet cannon damage against flying vehicles has been greatly reduced,",
+      "long_summary_tr": "Earlier this week, Battlefield 6's Season 2 launch was pushed back to February 17 to give the development team more time to implement some needed changes. But that doesn't mean there won't be some improvements ahead of time. Electronic Arts has announced that Battlefield 6 Update 1.1.3.5 will arrive on Tuesday, January 20, and it's bringing some good news for anyone who wanted the jet combat to be more refined.Going forward, jet cannon damage against flying vehicles has been greatly reduced,",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/battlefield-6-update-improves-jet-combat-and-knife-attacks/1100-6537476/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4636510-battlefield6featured3.jpg",
+      "published_at": "2026-01-16T23:46:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Get the Powerful Asus ROG Xbox Ally X Handheld Gaming PC for Below MSRP",
+      "title_tr": "Get the Powerful Asus ROG Xbox Ally X Handheld Gaming PC for Below MSRP",
+      "summary": "Both imported and open box options are available and in stock.",
+      "summary_tr": "Both imported and open box options are available and in stock.",
+      "long_summary": "Both imported and open box options are available and in stock.",
+      "long_summary_tr": "Both imported and open box options are available and in stock.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/get-the-powerful-asus-rog-xbox-ally-x-handheld-gaming-pc-for-below-msrp",
+      "image": "https://assets-prd.ignimgs.com/2026/01/16/xboxallyx-1768605230787.jpg",
+      "published_at": "2026-01-16T23:45:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Atama kararları Resmi Gazete'de. Tan Sağtürk görevden alındı",
+      "title_tr": "Atama kararları Resmi Gazete'de. Tan Sağtürk görevden alındı",
+      "summary": "Cumhurbaşkanı Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama ve görevden alma kararlarına göre, Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk, görevden alındı. Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atandı.",
+      "summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama ve görevden alma kararlarına göre, Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk, görevden alındı. Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atandı.",
+      "long_summary": "Cumhurbaşkanı Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama ve görevden alma kararlarına göre, Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk, görevden alındı. Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atandı.",
+      "long_summary_tr": "Cumhurbaşkanı Erdoğan'ın imzasıyla Resmi Gazete'de yayımlanan atama ve görevden alma kararlarına göre, Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk, görevden alındı. Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/atama-kararlari-resmi-gazetede-yayimlandi-disisleri-bakanliginda-gorev-degisimi-1707774",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_28f16691f9ef79c89405a-414952.jpg",
+      "published_at": "2026-01-16T23:28:21+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Blair and Rubio among names on Gaza 'Board of Peace'",
+      "title_tr": "Blair and Rubio among names on Gaza 'Board of Peace'",
+      "summary": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says.",
+      "summary_tr": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says.",
+      "long_summary": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says.",
+      "long_summary_tr": "The former UK prime minister and US secretary of state will sit on the \"founding executive board\", the White House says.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2db7/live/9c8c8ba0-f338-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-16T23:15:34+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Here's Where to Buy All of  LEGO Sets That Were Recently Retired at the End of 2025",
+      "title_tr": "Here's Where to Buy All of  LEGO Sets That Were Recently Retired at the End of 2025",
+      "summary": "Last chance to buy.",
+      "summary_tr": "Last chance to buy.",
+      "long_summary": "Last chance to buy.",
+      "long_summary_tr": "Last chance to buy.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/recently-retired-lego-sets-janaury-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/01/16/retired-lego-1768591726455.png",
+      "published_at": "2026-01-16T23:15:00+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Teknoloji",
@@ -333,28 +993,6 @@
     },
     {
       "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "5 Questions We Have For the Next 28 Years Later Movie Following The Bone Temple",
-      "title_tr": "5 Questions We Have For the Next 28 Years Later Movie Following The Bone Temple",
-      "summary": "Five Questions we have for the next 28 Years Later movie following The Bone Temple: Cillian Murphy is back, and we have so many questions.",
-      "summary_tr": "Five Questions we have for the next 28 Years Later movie following The Bone Temple: Cillian Murphy is back, and we have so many questions.",
-      "long_summary": "Five Questions we have for the next 28 Years Later movie following The Bone Temple: Cillian Murphy is back, and we have so many questions.",
-      "long_summary_tr": "Five Questions we have for the next 28 Years Later movie following The Bone Temple: Cillian Murphy is back, and we have so many questions.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/5-questions-we-have-for-the-next-28-years-later-movie-the-bone-temple-jim-cillian-murphy",
-      "image": "https://assets-prd.ignimgs.com/2025/12/09/28yearslaterthebonetempleconfrontationbehindthescenesvideo-ign-blogroll-1765290548865.jpg",
-      "published_at": "2026-01-16T22:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
@@ -462,644 +1100,6 @@
       "url": "https://www.bbc.com/sport/cricket/articles/ce9yrj9g07vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbb4/live/f2e91860-f324-11f0-93be-b59669b0a56b.png",
       "published_at": "2026-01-16T21:49:08+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "You Can't Invite Hotel Visitors to Move to Your Island in Animal Crossing: New Horizons, and We're All Bummed About It",
-      "title_tr": "You Can't Invite Hotel Visitors to Move to Your Island in Animal Crossing: New Horizons, and We're All Bummed About It",
-      "summary": "Animal Crossing: New Horizon's big 3.0 update is now live, and with it a bustling hotel where you can decorate rooms and attract villagers from the game's massive roster of over 400 animals for a visit. But sadly, these new friends won't stay forever.",
-      "summary_tr": "Animal Crossing: New Horizon's big 3.0 update is now live, and with it a bustling hotel where you can decorate rooms and attract villagers from the game's massive roster of over 400 animals for a visit. But sadly, these new friends won't stay forever.",
-      "long_summary": "Animal Crossing: New Horizon's big 3.0 update is now live, and with it a bustling hotel where you can decorate rooms and attract villagers from the game's massive roster of over 400 animals for a visit. But sadly, these new friends won't stay forever.",
-      "long_summary_tr": "Animal Crossing: New Horizon's big 3.0 update is now live, and with it a bustling hotel where you can decorate rooms and attract villagers from the game's massive roster of over 400 animals for a visit. But sadly, these new friends won't stay forever.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/you-cant-invite-hotel-visitors-to-move-to-your-island-in-animal-crossing-new-horizons-and-were-all-bummed-about-it",
-      "image": "https://assets-prd.ignimgs.com/2026/01/16/20260114094200-01keyjkq7z95ztxng8btr3mfwh-1768598646369.jpg",
-      "published_at": "2026-01-16T21:47:05+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "AliExpress Has a 500W 375Wh Adult Electric Bike for Just $231 with Free Delivery",
-      "title_tr": "AliExpress Has a 500W 375Wh Adult Electric Bike for Just $231 with Free Delivery",
-      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "long_summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "long_summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/aliexpress-has-a-500w-375wh-adult-electric-bike-for-just-231-with-free-delivery",
-      "image": "https://assets-prd.ignimgs.com/2026/01/16/5thwheel-1768522689760.jpg",
-      "published_at": "2026-01-16T21:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Miovski hat-trick helps Rangers beat fourth-tier Annan in Scottish Cup",
-      "title_tr": "Miovski hat-trick helps Rangers beat fourth-tier Annan in Scottish Cup",
-      "summary": "Rangers are safely through to the fifth round of the Scottish Cup after a routine 5-0 victory over fourth-tier Annan Athletic at Ibrox.",
-      "summary_tr": "Rangers are safely through to the fifth round of the Scottish Cup after a routine 5-0 victory over fourth-tier Annan Athletic at Ibrox.",
-      "long_summary": "Rangers are safely through to the fifth round of the Scottish Cup after a routine 5-0 victory over fourth-tier Annan Athletic at Ibrox.",
-      "long_summary_tr": "Rangers are safely through to the fifth round of the Scottish Cup after a routine 5-0 victory over fourth-tier Annan Athletic at Ibrox.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/rangers-vs-annan-athletic/report/550772",
-      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-bojan-miovski-rangers_7137578.jpg?20260116215412",
-      "published_at": "2026-01-16T21:43:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "SGK'dan yurt dışı ilaç listesinde güncelleme: İşte yeni ilaç fiyatları",
-      "title_tr": "SGK'dan yurt dışı ilaç listesinde güncelleme: İşte yeni ilaç fiyatları",
-      "summary": "SGK, Sağlık Uygulama Tebliği  kapsamındaki yurt dışı ilaç fiyat listesini güncelledi.",
-      "summary_tr": "SGK, Sağlık Uygulama Tebliği  kapsamındaki yurt dışı ilaç fiyat listesini güncelledi.",
-      "long_summary": "SGK, Sağlık Uygulama Tebliği  kapsamındaki yurt dışı ilaç fiyat listesini güncelledi.",
-      "long_summary_tr": "SGK, Sağlık Uygulama Tebliği  kapsamındaki yurt dışı ilaç fiyat listesini güncelledi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/sgk-dan-yurt-disi-ilac-listesinde-guncelleme-iste-yeni-ilac-fiyatlari-3766598",
-      "image": null,
-      "published_at": "2026-01-16T21:42:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Atama kararları Resmi Gazete'de yayımlandı. Dışişleri Bakanlığı'nda görev değişimi",
-      "title_tr": "Atama kararları Resmi Gazete'de yayımlandı. Dışişleri Bakanlığı'nda görev değişimi",
-      "summary": "Resmi Gazede yayımlanan kararlara göre Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atanırken Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk görevden alındı.",
-      "summary_tr": "Resmi Gazede yayımlanan kararlara göre Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atanırken Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk görevden alındı.",
-      "long_summary": "Resmi Gazede yayımlanan kararlara göre Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atanırken Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk görevden alındı.",
-      "long_summary_tr": "Resmi Gazede yayımlanan kararlara göre Dışişleri Bakan Yardımcılığı'na Hacı Ali Özel atanırken Devlet Opera ve Balesi Genel Müdürü Tan Sağtürk görevden alındı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/atama-kararlari-resmi-gazetede-yayimlandi-disisleri-bakanliginda-gorev-degisimi-1707774",
-      "image": "https://images.ntv.com.tr/images/thumbs_b_c_28f16691f9ef79c89405a-414952.jpg",
-      "published_at": "2026-01-16T21:42:15+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Mardin'de iki çocuk gölette ölü bulundu",
-      "title_tr": "Mardin'de iki çocuk gölette ölü bulundu",
-      "summary": "Mardin'de  7 ve 9 yaşındaki iki çocuk kayboldu. Çocukların gölete girmiş olma ihtimali üzerine ekipler bölgeye sevk edildi. Arama çalışmaları sonucu iki çocuğun cansız bedenlerine ulaşıldı.",
-      "summary_tr": "Mardin'de  7 ve 9 yaşındaki iki çocuk kayboldu. Çocukların gölete girmiş olma ihtimali üzerine ekipler bölgeye sevk edildi. Arama çalışmaları sonucu iki çocuğun cansız bedenlerine ulaşıldı.",
-      "long_summary": "Mardin'de  7 ve 9 yaşındaki iki çocuk kayboldu. Çocukların gölete girmiş olma ihtimali üzerine ekipler bölgeye sevk edildi. Arama çalışmaları sonucu iki çocuğun cansız bedenlerine ulaşıldı.",
-      "long_summary_tr": "Mardin'de  7 ve 9 yaşındaki iki çocuk kayboldu. Çocukların gölete girmiş olma ihtimali üzerine ekipler bölgeye sevk edildi. Arama çalışmaları sonucu iki çocuğun cansız bedenlerine ulaşıldı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/mardinde-iki-cocuk-kayboldu-golette-aramalar-yapiliyor-1707760",
-      "image": "https://images.ntv.com.tr/images/AW622043_05-964863.jpg",
-      "published_at": "2026-01-16T21:31:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Glasner on Man Utd radar - Saturday's gossip",
-      "title_tr": "Glasner on Man Utd radar - Saturday's gossip",
-      "summary": "Oliver Glasner is a target for Manchester United, Chelsea and Manchester City battling for Dro Fernandez, and Tottenham want to add a left-sided attacker.",
-      "summary_tr": "Oliver Glasner is a target for Manchester United, Chelsea and Manchester City battling for Dro Fernandez, and Tottenham want to add a left-sided attacker.",
-      "long_summary": "Oliver Glasner is a target for Manchester United, Chelsea and Manchester City battling for Dro Fernandez, and Tottenham want to add a left-sided attacker.",
-      "long_summary_tr": "Oliver Glasner is a target for Manchester United, Chelsea and Manchester City battling for Dro Fernandez, and Tottenham want to add a left-sided attacker.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c79rl2q0v39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/6002e0b0-f32b-11f0-b385-5f48925de19a.png",
-      "published_at": "2026-01-16T21:31:34+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Trump threatens new tariffs on countries opposed to Greenland takeover",
-      "title_tr": "Trump threatens new tariffs on countries opposed to Greenland takeover",
-      "summary": "The president made the threat while a bipartisan group of US lawmakers were visiting Denmark in the hope of easing tensions over the territory.",
-      "summary_tr": "The president made the threat while a bipartisan group of US lawmakers were visiting Denmark in the hope of easing tensions over the territory.",
-      "long_summary": "The president made the threat while a bipartisan group of US lawmakers were visiting Denmark in the hope of easing tensions over the territory.",
-      "long_summary_tr": "The president made the threat while a bipartisan group of US lawmakers were visiting Denmark in the hope of easing tensions over the territory.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c9qpy952xvno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f59b/live/07ec7290-f2c9-11f0-951c-1b651e8e7a90.jpg",
-      "published_at": "2026-01-16T21:27:56+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova Belediyesi’nden Fırınlara Sıkı Denetim",
-      "title_tr": "Yalova Belediyesi’nden Fırınlara Sıkı Denetim",
-      "summary": "Yalova Belediyesi Zabıta Müdürlüğü’ne bağlı ekipler, kent merkezinde faaliyet gösteren fırınlarda kapsamlı denetim gerçekleştirdi. Denetimler; vatandaşların sağlıklı, hijyenik ve standartlara uygun ürünlere erişimini sağlamak amacıyla yapıldı.",
-      "summary_tr": "Yalova Belediyesi Zabıta Müdürlüğü’ne bağlı ekipler, kent merkezinde faaliyet gösteren fırınlarda kapsamlı denetim gerçekleştirdi. Denetimler; vatandaşların sağlıklı, hijyenik ve standartlara uygun ürünlere erişimini sağlamak amacıyla yapıldı.",
-      "long_summary": "Yalova Belediyesi Zabıta Müdürlüğü’ne bağlı ekipler, kent merkezinde faaliyet gösteren fırınlarda kapsamlı denetim gerçekleştirdi. Denetimler; vatandaşların sağlıklı, hijyenik ve standartlara uygun ürünlere erişimini sağlamak amacıyla yapıldı.",
-      "long_summary_tr": "Yalova Belediyesi Zabıta Müdürlüğü’ne bağlı ekipler, kent merkezinde faaliyet gösteren fırınlarda kapsamlı denetim gerçekleştirdi. Denetimler; vatandaşların sağlıklı, hijyenik ve standartlara uygun ürünlere erişimini sağlamak amacıyla yapıldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-belediyesinden-firinlara-siki-denetim",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/yalova-belediyesinden-firinlara-siki-denetim-1.jpeg",
-      "published_at": "2026-01-16T21:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çiftlikköy Belediyesi’nden Çocuklara Masal Gibi Tiyatro Şöleni",
-      "title_tr": "Çiftlikköy Belediyesi’nden Çocuklara Masal Gibi Tiyatro Şöleni",
-      "summary": "Çiftlikköy Belediyesi, çocukların hayal gücünü besleyen, eğlendirirken düşündüren tiyatro etkinlikleriyle minik sanatseverleri kültür ve sanatla buluşturuyor.",
-      "summary_tr": "Çiftlikköy Belediyesi, çocukların hayal gücünü besleyen, eğlendirirken düşündüren tiyatro etkinlikleriyle minik sanatseverleri kültür ve sanatla buluşturuyor.",
-      "long_summary": "Çiftlikköy Belediyesi, çocukların hayal gücünü besleyen, eğlendirirken düşündüren tiyatro etkinlikleriyle minik sanatseverleri kültür ve sanatla buluşturuyor.",
-      "long_summary_tr": "Çiftlikköy Belediyesi, çocukların hayal gücünü besleyen, eğlendirirken düşündüren tiyatro etkinlikleriyle minik sanatseverleri kültür ve sanatla buluşturuyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ciftlikkoy-belediyesinden-cocuklara-masal-gibi-tiyatro-soleni",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/ciftlikkoy-belediyesinden-cocuklara-masal-gibi-tiyatro-soleni-1.jpg",
-      "published_at": "2026-01-16T21:19:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Anahtar Parti Yalova İl Yönetiminden Gazetemize Ziyaret",
-      "title_tr": "Anahtar Parti Yalova İl Yönetiminden Gazetemize Ziyaret",
-      "summary": "Genel Başkanlığını Yavuz Ağıralioğlu’nun yaptığı ve siyasi çalışmalarına kısa süre önce başlayan Anahtar Parti’nin Yalova İl Başkanı Hüseyin Özdemir ile İl Yönetimi, 10 Ocak Çalışan Gazeteciler Günü dolayısıyla gazetemizi ziyaret etti.",
-      "summary_tr": "Genel Başkanlığını Yavuz Ağıralioğlu’nun yaptığı ve siyasi çalışmalarına kısa süre önce başlayan Anahtar Parti’nin Yalova İl Başkanı Hüseyin Özdemir ile İl Yönetimi, 10 Ocak Çalışan Gazeteciler Günü dolayısıyla gazetemizi ziyaret etti.",
-      "long_summary": "Genel Başkanlığını Yavuz Ağıralioğlu’nun yaptığı ve siyasi çalışmalarına kısa süre önce başlayan Anahtar Parti’nin Yalova İl Başkanı Hüseyin Özdemir ile İl Yönetimi, 10 Ocak Çalışan Gazeteciler Günü dolayısıyla gazetemizi ziyaret etti.",
-      "long_summary_tr": "Genel Başkanlığını Yavuz Ağıralioğlu’nun yaptığı ve siyasi çalışmalarına kısa süre önce başlayan Anahtar Parti’nin Yalova İl Başkanı Hüseyin Özdemir ile İl Yönetimi, 10 Ocak Çalışan Gazeteciler Günü dolayısıyla gazetemizi ziyaret etti.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/anahtar-parti-yalova-il-yonetiminden-gazetemize-ziyaret",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/anahtar-parti-yalova-il-yonetiminden-gazetemize-ziyaret-2.jpeg",
-      "published_at": "2026-01-16T21:18:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova FK, Galata’ya Konuk Oluyor",
-      "title_tr": "Yalova FK, Galata’ya Konuk Oluyor",
-      "summary": "TFF 3. Lig 1. Gruptaki ekibimiz Yalova FK, hafta sonunda İstanbul deplasmanında puan arayacak. İkinci yarıya beraberlikle başlayan Kırmızı Beyaz ve Yeşilli ekibimiz, 18 Ocak Pazar günü Galata Spor Kulübü’nün konuğu olacak.",
-      "summary_tr": "TFF 3. Lig 1. Gruptaki ekibimiz Yalova FK, hafta sonunda İstanbul deplasmanında puan arayacak. İkinci yarıya beraberlikle başlayan Kırmızı Beyaz ve Yeşilli ekibimiz, 18 Ocak Pazar günü Galata Spor Kulübü’nün konuğu olacak.",
-      "long_summary": "TFF 3. Lig 1. Gruptaki ekibimiz Yalova FK, hafta sonunda İstanbul deplasmanında puan arayacak. İkinci yarıya beraberlikle başlayan Kırmızı Beyaz ve Yeşilli ekibimiz, 18 Ocak Pazar günü Galata Spor Kulübü’nün konuğu olacak.",
-      "long_summary_tr": "TFF 3. Lig 1. Gruptaki ekibimiz Yalova FK, hafta sonunda İstanbul deplasmanında puan arayacak. İkinci yarıya beraberlikle başlayan Kırmızı Beyaz ve Yeşilli ekibimiz, 18 Ocak Pazar günü Galata Spor Kulübü’nün konuğu olacak.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-fk-galataya-konuk-oluyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/spor/yalova-fk-galataya-konuk-oluyor-5.jpg",
-      "published_at": "2026-01-16T21:17:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Süper Amatör İçin Son Bilet",
-      "title_tr": "Süper Amatör İçin Son Bilet",
-      "summary": "2025-2026 sezonu kapsamında Süper Amatör Kümeye çıkacak son takım bu hafta sonunda belli olacak.",
-      "summary_tr": "2025-2026 sezonu kapsamında Süper Amatör Kümeye çıkacak son takım bu hafta sonunda belli olacak.",
-      "long_summary": "2025-2026 sezonu kapsamında Süper Amatör Kümeye çıkacak son takım bu hafta sonunda belli olacak.",
-      "long_summary_tr": "2025-2026 sezonu kapsamında Süper Amatör Kümeye çıkacak son takım bu hafta sonunda belli olacak.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/super-amator-icin-son-bilet",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/spor/super-amator-icin-son-bilet.jpeg",
-      "published_at": "2026-01-16T21:16:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Sultanlar Son İç Saha Maçına Çıkıyor",
-      "title_tr": "Sultanlar Son İç Saha Maçına Çıkıyor",
-      "summary": "Mihrican Deviren yönetiminde bu sezon Türkiye Voleybol 2. Ligi 9. Grupta başarıyla mücadele eden Çiftlikköy Belediyespor 2025-2026 sezonundaki son iç saha maçına çıkıyor.",
-      "summary_tr": "Mihrican Deviren yönetiminde bu sezon Türkiye Voleybol 2. Ligi 9. Grupta başarıyla mücadele eden Çiftlikköy Belediyespor 2025-2026 sezonundaki son iç saha maçına çıkıyor.",
-      "long_summary": "Mihrican Deviren yönetiminde bu sezon Türkiye Voleybol 2. Ligi 9. Grupta başarıyla mücadele eden Çiftlikköy Belediyespor 2025-2026 sezonundaki son iç saha maçına çıkıyor.",
-      "long_summary_tr": "Mihrican Deviren yönetiminde bu sezon Türkiye Voleybol 2. Ligi 9. Grupta başarıyla mücadele eden Çiftlikköy Belediyespor 2025-2026 sezonundaki son iç saha maçına çıkıyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/sultanlar-son-ic-saha-macina-cikiyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/spor/sultanlar-son-ic-saha-macina-cikiyor-3.jpeg",
-      "published_at": "2026-01-16T21:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "US Navy, Marines to get L3Harris robots for bomb disposal missions",
-      "title_tr": "US Navy, Marines to get L3Harris robots for bomb disposal missions",
-      "summary": "The U.S. Marine Corps and U.S. Navy have sealed a deal with L3Harris Technologies for 34 large T7 robots to support the services in EOD missions.",
-      "summary_tr": "The U.S. Marine Corps and U.S. Navy have sealed a deal with L3Harris Technologies for 34 large T7 robots to support the services in EOD missions.",
-      "long_summary": "The U.S. Marine Corps and U.S. Navy have sealed a deal with L3Harris Technologies for 34 large T7 robots to support the services in EOD missions.",
-      "long_summary_tr": "The U.S. Marine Corps and U.S. Navy have sealed a deal with L3Harris Technologies for 34 large T7 robots to support the services in EOD missions.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/news/your-military/2026/01/16/us-navy-marines-to-get-l3harris-robots-for-bomb-disposal-missions/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PEA7FMBJPBBXNDZKZGVGCRGPFQ.jpg",
-      "published_at": "2026-01-16T21:14:10+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Subaşılı Görkem’den Büyük Başarılı",
-      "title_tr": "Subaşılı Görkem’den Büyük Başarılı",
-      "summary": "Subaşılı Milli sporcu Görkem Duran, Dünya Ümitler ve Gençler Bocce Şampiyonası’nda elde ettiği başarıyla gurur kaynağımız oldu.",
-      "summary_tr": "Subaşılı Milli sporcu Görkem Duran, Dünya Ümitler ve Gençler Bocce Şampiyonası’nda elde ettiği başarıyla gurur kaynağımız oldu.",
-      "long_summary": "Subaşılı Milli sporcu Görkem Duran, Dünya Ümitler ve Gençler Bocce Şampiyonası’nda elde ettiği başarıyla gurur kaynağımız oldu.",
-      "long_summary_tr": "Subaşılı Milli sporcu Görkem Duran, Dünya Ümitler ve Gençler Bocce Şampiyonası’nda elde ettiği başarıyla gurur kaynağımız oldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/subasili-gorkemden-buyuk-basarili",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/spor/subasili-gorkemden-buyuk-basarili-1.jpg",
-      "published_at": "2026-01-16T21:14:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "How to Watch Indiana Jones Movies in Chronological Order",
-      "title_tr": "How to Watch Indiana Jones Movies in Chronological Order",
-      "summary": "Looking to catch up on the Indiana Jones saga before Dial of Destiny? Our guide will help you navigate the series' chronology.",
-      "summary_tr": "Looking to catch up on the Indiana Jones saga before Dial of Destiny? Our guide will help you navigate the series' chronology.",
-      "long_summary": "Looking to catch up on the Indiana Jones saga before Dial of Destiny? Our guide will help you navigate the series' chronology.",
-      "long_summary_tr": "Looking to catch up on the Indiana Jones saga before Dial of Destiny? Our guide will help you navigate the series' chronology.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/indiana-jones-movies-in-order",
-      "image": "https://assets-prd.ignimgs.com/2023/02/26/indiana-jones-movies-in-order-1677437341864.jpg",
-      "published_at": "2026-01-16T21:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Gelişim Ligi’nde Derbi Heyecanı",
-      "title_tr": "Gelişim Ligi’nde Derbi Heyecanı",
-      "summary": "Türkiye Futbol Federasyonu(TFF) tarafından düzenlenen Gelişim Ligleri’nde gözler hafta sonuna çevrildi.",
-      "summary_tr": "Türkiye Futbol Federasyonu(TFF) tarafından düzenlenen Gelişim Ligleri’nde gözler hafta sonuna çevrildi.",
-      "long_summary": "Türkiye Futbol Federasyonu(TFF) tarafından düzenlenen Gelişim Ligleri’nde gözler hafta sonuna çevrildi.",
-      "long_summary_tr": "Türkiye Futbol Federasyonu(TFF) tarafından düzenlenen Gelişim Ligleri’nde gözler hafta sonuna çevrildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/gelisim-liginde-derbi-heyecani",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/spor/gelisim-liginde-derbi-heyecani-1.JPG",
-      "published_at": "2026-01-16T21:13:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Dışişleri Bakan Yardımcılığına Hacı Ali Özel atandı",
-      "title_tr": "Dışişleri Bakan Yardımcılığına Hacı Ali Özel atandı",
-      "summary": "Resmi Gazete’de yayımlanan atama kararlarına göre, Dışişleri Bakan Yardımcılığına Personel Genel Müdürü Hacı Ali Özel atandı.",
-      "summary_tr": "Resmi Gazete’de yayımlanan atama kararlarına göre, Dışişleri Bakan Yardımcılığına Personel Genel Müdürü Hacı Ali Özel atandı.",
-      "long_summary": "Resmi Gazete’de yayımlanan atama kararlarına göre, Dışişleri Bakan Yardımcılığına Personel Genel Müdürü Hacı Ali Özel atandı.",
-      "long_summary_tr": "Resmi Gazete’de yayımlanan atama kararlarına göre, Dışişleri Bakan Yardımcılığına Personel Genel Müdürü Hacı Ali Özel atandı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/disisleri-bakan-yardimciligina-haci-ali-ozel-atandi-haberi-811658",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/16/disisleri-bakanligi-rcsi-cover-8n7k-iu6e_cover.jpg",
-      "published_at": "2026-01-16T21:13:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çiftlikköy’ün Dev Adamları Kerasus’u Ağırlıyor",
-      "title_tr": "Çiftlikköy’ün Dev Adamları Kerasus’u Ağırlıyor",
-      "summary": "Türkiye Basketbol 2. Ligi(TB2L) A Grubunda ilimizi temsil eden Çiftlikköy Belediyespor, Play-Off yolunda kritik bir maça çıkacak.",
-      "summary_tr": "Türkiye Basketbol 2. Ligi(TB2L) A Grubunda ilimizi temsil eden Çiftlikköy Belediyespor, Play-Off yolunda kritik bir maça çıkacak.",
-      "long_summary": "Türkiye Basketbol 2. Ligi(TB2L) A Grubunda ilimizi temsil eden Çiftlikköy Belediyespor, Play-Off yolunda kritik bir maça çıkacak.",
-      "long_summary_tr": "Türkiye Basketbol 2. Ligi(TB2L) A Grubunda ilimizi temsil eden Çiftlikköy Belediyespor, Play-Off yolunda kritik bir maça çıkacak.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ciftlikkoyun-dev-adamlari-kerasusu-agirliyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/spor/ciftlikkoyun-dev-adamlari-kerasusu-agirliyor-4.jpg",
-      "published_at": "2026-01-16T21:12:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Fıstıklı İlkokulu’nda Ara Karne Sevinci",
-      "title_tr": "Fıstıklı İlkokulu’nda Ara Karne Sevinci",
-      "summary": "2025-2026 Eğitim Öğretim Yılı Ara Karne Töreni’nde Armutlu Belediyesi ve ilçe protokolü minik öğrencilerin heyecanına ortak oldu.",
-      "summary_tr": "2025-2026 Eğitim Öğretim Yılı Ara Karne Töreni’nde Armutlu Belediyesi ve ilçe protokolü minik öğrencilerin heyecanına ortak oldu.",
-      "long_summary": "2025-2026 Eğitim Öğretim Yılı Ara Karne Töreni’nde Armutlu Belediyesi ve ilçe protokolü minik öğrencilerin heyecanına ortak oldu.",
-      "long_summary_tr": "2025-2026 Eğitim Öğretim Yılı Ara Karne Töreni’nde Armutlu Belediyesi ve ilçe protokolü minik öğrencilerin heyecanına ortak oldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/fistikli-ilkokulunda-ara-karne-sevinci",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/fistikli-ilkokulunda-ara-karne-sevinci-2.jpg",
-      "published_at": "2026-01-16T21:11:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Miraç Kandili Dualarla İdrak Edildi",
-      "title_tr": "Yalova’da Miraç Kandili Dualarla İdrak Edildi",
-      "summary": "Miraç Kandili dolayısıyla Yalova Merkez Cami’nde düzenlenen programda vatandaşlar camiyi doldurdu.",
-      "summary_tr": "Miraç Kandili dolayısıyla Yalova Merkez Cami’nde düzenlenen programda vatandaşlar camiyi doldurdu.",
-      "long_summary": "Miraç Kandili dolayısıyla Yalova Merkez Cami’nde düzenlenen programda vatandaşlar camiyi doldurdu.",
-      "long_summary_tr": "Miraç Kandili dolayısıyla Yalova Merkez Cami’nde düzenlenen programda vatandaşlar camiyi doldurdu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-mirac-kandili-dualarla-idrak-edildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/yalovada-mirac-kandili-dualarla-idrak-edildi-1.jpg",
-      "published_at": "2026-01-16T21:10:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The White Lotus Season 4 Dream Cast: 27 Actors ELLE Editors Are Eyeing",
-      "title_tr": "The White Lotus Season 4 Dream Cast: 27 Actors ELLE Editors Are Eyeing",
-      "summary": "Here’s who we’d book for the HBO show’s next reservation.",
-      "summary_tr": "Here’s who we’d book for the HBO show’s next reservation.",
-      "long_summary": "Here’s who we’d book for the HBO show’s next reservation.",
-      "long_summary_tr": "Here’s who we’d book for the HBO show’s next reservation.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a70021844/the-white-lotus-season-4-dream-cast/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/the-white-lotus-season-3-fashion-67d01c0436ddc.jpg",
-      "published_at": "2026-01-16T21:09:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova Belediyesi Kandil Simidi ve Lokum Dağıttı",
-      "title_tr": "Yalova Belediyesi Kandil Simidi ve Lokum Dağıttı",
-      "summary": "Yalova Belediyesi, Miraç Kandili dolayısıyla kent genelinde vatandaşlara yönelik anlamlı bir ikram programı gerçekleştirdi.",
-      "summary_tr": "Yalova Belediyesi, Miraç Kandili dolayısıyla kent genelinde vatandaşlara yönelik anlamlı bir ikram programı gerçekleştirdi.",
-      "long_summary": "Yalova Belediyesi, Miraç Kandili dolayısıyla kent genelinde vatandaşlara yönelik anlamlı bir ikram programı gerçekleştirdi.",
-      "long_summary_tr": "Yalova Belediyesi, Miraç Kandili dolayısıyla kent genelinde vatandaşlara yönelik anlamlı bir ikram programı gerçekleştirdi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-belediyesi-kandil-simidi-ve-lokum-dagitti",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/yalova-belediyesi-kandil-simidi-ve-lokum-dagitti-3.jpeg",
-      "published_at": "2026-01-16T21:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Usta Oyuncu Yurdaer Okur Yalova Sahnesinde",
-      "title_tr": "Usta Oyuncu Yurdaer Okur Yalova Sahnesinde",
-      "summary": "Yalova Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü tarafından yetişkinlere yönelik kültür-sanat etkinlikleri kapsamında düzenlenen tiyatro programı, Yalova’da sanat dolu bir akşama sahne oldu.",
-      "summary_tr": "Yalova Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü tarafından yetişkinlere yönelik kültür-sanat etkinlikleri kapsamında düzenlenen tiyatro programı, Yalova’da sanat dolu bir akşama sahne oldu.",
-      "long_summary": "Yalova Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü tarafından yetişkinlere yönelik kültür-sanat etkinlikleri kapsamında düzenlenen tiyatro programı, Yalova’da sanat dolu bir akşama sahne oldu.",
-      "long_summary_tr": "Yalova Belediyesi Kültür, Sanat ve Sosyal İşler Müdürlüğü tarafından yetişkinlere yönelik kültür-sanat etkinlikleri kapsamında düzenlenen tiyatro programı, Yalova’da sanat dolu bir akşama sahne oldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/usta-oyuncu-yurdaer-okur-yalova-sahnesinde",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/usta-oyuncu-yurdaer-okur-yalova-sahnesinde-2.jpeg",
-      "published_at": "2026-01-16T21:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "YPG/SDG Elebaşı Ferhat Abdi Şahin: Fırat’ın batısından çekileceğiz",
-      "title_tr": "YPG/SDG Elebaşı Ferhat Abdi Şahin: Fırat’ın batısından çekileceğiz",
-      "summary": "Terör örgütü YPG/SDG elebaşlarından Ferhat Abdi Şahin, Suriye ordusunun Fırat Nehri’nin batısında başlattığı operasyonun ardından örgüt unsurlarının nehrin doğusuna çekileceğini iddia etti.",
-      "summary_tr": "Terör örgütü YPG/SDG elebaşlarından Ferhat Abdi Şahin, Suriye ordusunun Fırat Nehri’nin batısında başlattığı operasyonun ardından örgüt unsurlarının nehrin doğusuna çekileceğini iddia etti.",
-      "long_summary": "Terör örgütü YPG/SDG elebaşlarından Ferhat Abdi Şahin, Suriye ordusunun Fırat Nehri’nin batısında başlattığı operasyonun ardından örgüt unsurlarının nehrin doğusuna çekileceğini iddia etti.",
-      "long_summary_tr": "Terör örgütü YPG/SDG elebaşlarından Ferhat Abdi Şahin, Suriye ordusunun Fırat Nehri’nin batısında başlattığı operasyonun ardından örgüt unsurlarının nehrin doğusuna çekileceğini iddia etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/ypgsdg-elebasi-ferhat-abdi-sahin-firatin-batisindan-cekilecegiz-haberi-811657",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2021/07/15/ypg-M3gd_cover.jpg",
-      "published_at": "2026-01-16T21:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Kadıköy Belediyesi’nden Kandil İkramı",
-      "title_tr": "Kadıköy Belediyesi’nden Kandil İkramı",
-      "summary": "Kadıköy Belediyesi, Miraç Kandili dolayısıyla belde genelindeki camilerde vatandaşlara helva ikramında bulundu.",
-      "summary_tr": "Kadıköy Belediyesi, Miraç Kandili dolayısıyla belde genelindeki camilerde vatandaşlara helva ikramında bulundu.",
-      "long_summary": "Kadıköy Belediyesi, Miraç Kandili dolayısıyla belde genelindeki camilerde vatandaşlara helva ikramında bulundu.",
-      "long_summary_tr": "Kadıköy Belediyesi, Miraç Kandili dolayısıyla belde genelindeki camilerde vatandaşlara helva ikramında bulundu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/kadikoy-belediyesinden-kandil-ikrami",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/kadikoy-belediyesinden-kandil-ikrami-3.jpg",
-      "published_at": "2026-01-16T21:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çınarcık’ta Kandil Geleneği Sürdü",
-      "title_tr": "Çınarcık’ta Kandil Geleneği Sürdü",
-      "summary": "Çınarcık Belediyesi, Miraç Kandili dolayısıyla ilçe genelindeki camilerde düzenlenen programların ardından vatandaşlara kandil simidi ikramında bulunarak geleneğini sürdürdü.",
-      "summary_tr": "Çınarcık Belediyesi, Miraç Kandili dolayısıyla ilçe genelindeki camilerde düzenlenen programların ardından vatandaşlara kandil simidi ikramında bulunarak geleneğini sürdürdü.",
-      "long_summary": "Çınarcık Belediyesi, Miraç Kandili dolayısıyla ilçe genelindeki camilerde düzenlenen programların ardından vatandaşlara kandil simidi ikramında bulunarak geleneğini sürdürdü.",
-      "long_summary_tr": "Çınarcık Belediyesi, Miraç Kandili dolayısıyla ilçe genelindeki camilerde düzenlenen programların ardından vatandaşlara kandil simidi ikramında bulunarak geleneğini sürdürdü.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/cinarcikta-kandil-gelenegi-surdu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/cinarcikta-kandil-gelenegi-surdu-1.jpg",
-      "published_at": "2026-01-16T21:06:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çiftlikköy’de Karne Heyecanı",
-      "title_tr": "Çiftlikköy’de Karne Heyecanı",
-      "summary": "2025–2026 eğitim öğretim yılının yarıyıl tatiline girilmesiyle birlikte Çiftlikköy’de karne heyecanı, protokol üyelerinin katılımıyla paylaşıldı.",
-      "summary_tr": "2025–2026 eğitim öğretim yılının yarıyıl tatiline girilmesiyle birlikte Çiftlikköy’de karne heyecanı, protokol üyelerinin katılımıyla paylaşıldı.",
-      "long_summary": "2025–2026 eğitim öğretim yılının yarıyıl tatiline girilmesiyle birlikte Çiftlikköy’de karne heyecanı, protokol üyelerinin katılımıyla paylaşıldı.",
-      "long_summary_tr": "2025–2026 eğitim öğretim yılının yarıyıl tatiline girilmesiyle birlikte Çiftlikköy’de karne heyecanı, protokol üyelerinin katılımıyla paylaşıldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ciftlikkoyde-karne-heyecani-1",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/ciftlikkoyde-karne-heyecani-5.jpg",
-      "published_at": "2026-01-16T21:05:00+00:00"
     }
   ]
 }
