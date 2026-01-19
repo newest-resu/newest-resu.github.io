@@ -1,6 +1,974 @@
 {
-  "updated_at": "2026-01-19T04:21:19.690790+00:00",
+  "updated_at": "2026-01-19T05:41:46.828147+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Fed adaylığında Hassett ihtimali azaldı, Rieder ismi öne çıktı",
+      "title_tr": "Fed adaylığında Hassett ihtimali azaldı, Rieder ismi öne çıktı",
+      "summary": "Kevin Hassett’i görev süresi Mayıs ayında dolacak olan Fed Başkanı Jerome Powell’ın yerine aday gösterme konusunda isteksiz olduğunu belirten Trump, Hassett’e “Gerçeği bilmek istiyorsan, aslında seni olduğun yerde tutmak istiyorum” dedi.",
+      "summary_tr": "Kevin Hassett’i görev süresi Mayıs ayında dolacak olan Fed Başkanı Jerome Powell’ın yerine aday gösterme konusunda isteksiz olduğunu belirten Trump, Hassett’e “Gerçeği bilmek istiyorsan, aslında seni olduğun yerde tutmak istiyorum” dedi.",
+      "long_summary": "Kevin Hassett’i görev süresi Mayıs ayında dolacak olan Fed Başkanı Jerome Powell’ın yerine aday gösterme konusunda isteksiz olduğunu belirten Trump, Hassett’e “Gerçeği bilmek istiyorsan, aslında seni olduğun yerde tutmak istiyorum” dedi.",
+      "long_summary_tr": "Kevin Hassett’i görev süresi Mayıs ayında dolacak olan Fed Başkanı Jerome Powell’ın yerine aday gösterme konusunda isteksiz olduğunu belirten Trump, Hassett’e “Gerçeği bilmek istiyorsan, aslında seni olduğun yerde tutmak istiyorum” dedi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/fed-adayliginda-hassett-ihtimali-azaldi-rieder-ismi-one-cikti-3766643",
+      "image": null,
+      "published_at": "2026-01-19T05:37:15+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "High-speed train collision in Spain kills at least 21",
+      "title_tr": "High-speed train collision in Spain kills at least 21",
+      "summary": "More than 400 passengers were on board the trains that derailed near the city of Córdoba in Spain's worst rail crash in more than a decade.",
+      "summary_tr": "More than 400 passengers were on board the trains that derailed near the city of Córdoba in Spain's worst rail crash in more than a decade.",
+      "long_summary": "More than 400 passengers were on board the trains that derailed near the city of Córdoba in Spain's worst rail crash in more than a decade.",
+      "long_summary_tr": "More than 400 passengers were on board the trains that derailed near the city of Córdoba in Spain's worst rail crash in more than a decade.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b11/live/056a3850-f4e9-11f0-a422-4ba8a094a8fa.jpg",
+      "published_at": "2026-01-19T05:34:39+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Küresel piyasalarda tarife gerginliği",
+      "title_tr": "Küresel piyasalarda tarife gerginliği",
+      "summary": "Trump, Grönland’da NATO askeri tatbikatları planladıkları için Danimarka dahil sekiz Avrupa ülkesine gümrük vergisi uygulayacağını açıklarken, Fransa lideri Macron karşılık olarak AB’nin en güçlü misilleme aracını devreye sokmak istiyor.",
+      "summary_tr": "Trump, Grönland’da NATO askeri tatbikatları planladıkları için Danimarka dahil sekiz Avrupa ülkesine gümrük vergisi uygulayacağını açıklarken, Fransa lideri Macron karşılık olarak AB’nin en güçlü misilleme aracını devreye sokmak istiyor.",
+      "long_summary": "Trump, Grönland’da NATO askeri tatbikatları planladıkları için Danimarka dahil sekiz Avrupa ülkesine gümrük vergisi uygulayacağını açıklarken, Fransa lideri Macron karşılık olarak AB’nin en güçlü misilleme aracını devreye sokmak istiyor.",
+      "long_summary_tr": "Trump, Grönland’da NATO askeri tatbikatları planladıkları için Danimarka dahil sekiz Avrupa ülkesine gümrük vergisi uygulayacağını açıklarken, Fransa lideri Macron karşılık olarak AB’nin en güçlü misilleme aracını devreye sokmak istiyor.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/kuresel-piyasalarda-tarife-gerginligi-3766642",
+      "image": null,
+      "published_at": "2026-01-19T05:33:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Kar yağdı, İstanbul'da trafik yüzde 80'e çıktı",
+      "title_tr": "Kar yağdı, İstanbul'da trafik yüzde 80'e çıktı",
+      "summary": "Kar yağışının devam ettiği İstanbul'un birçok bölgesinde, saat 07.15 itibarıyla trafik yoğun. Okullar tatil olmasına rağmen İBB trafik yoğunluk haritasında bazı ana arterler kırmızıya döndü, yoğunluk yüzde 80'e ulaştı.",
+      "summary_tr": "Kar yağışının devam ettiği İstanbul'un birçok bölgesinde, saat 07.15 itibarıyla trafik yoğun. Okullar tatil olmasına rağmen İBB trafik yoğunluk haritasında bazı ana arterler kırmızıya döndü, yoğunluk yüzde 80'e ulaştı.",
+      "long_summary": "Kar yağışının devam ettiği İstanbul'un birçok bölgesinde, saat 07.15 itibarıyla trafik yoğun. Okullar tatil olmasına rağmen İBB trafik yoğunluk haritasında bazı ana arterler kırmızıya döndü, yoğunluk yüzde 80'e ulaştı.",
+      "long_summary_tr": "Kar yağışının devam ettiği İstanbul'un birçok bölgesinde, saat 07.15 itibarıyla trafik yoğun. Okullar tatil olmasına rağmen İBB trafik yoğunluk haritasında bazı ana arterler kırmızıya döndü, yoğunluk yüzde 80'e ulaştı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/kar-yagdi-istanbulda-trafik-yuzde-71e-cikti-1708049",
+      "image": "https://images.ntv.com.tr/images/trafik-521342.jpg",
+      "published_at": "2026-01-19T05:28:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İstanbul'a kar geri döndü",
+      "title_tr": "İstanbul'a kar geri döndü",
+      "summary": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "summary_tr": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "long_summary": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "long_summary_tr": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/video/turkiye/istanbula-kar-geri-dondu-1708055",
+      "image": "https://images.ntv.com.tr/images/kar12-282202(2).jpg",
+      "published_at": "2026-01-19T05:25:37+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Çin nüfusunda tarihi gerileme: 1,405 milyar seviyesine indi",
+      "title_tr": "Çin nüfusunda tarihi gerileme: 1,405 milyar seviyesine indi",
+      "summary": "Çin’de doğum oranı 2025’te binde 5,63’e gerileyerek kayıtların tutulmaya başlandığı 1949’dan bu yana en düşük seviyeye indi; nüfus bir yılda 3,39 milyon azaldı.",
+      "summary_tr": "Çin’de doğum oranı 2025’te binde 5,63’e gerileyerek kayıtların tutulmaya başlandığı 1949’dan bu yana en düşük seviyeye indi; nüfus bir yılda 3,39 milyon azaldı.",
+      "long_summary": "Çin’de doğum oranı 2025’te binde 5,63’e gerileyerek kayıtların tutulmaya başlandığı 1949’dan bu yana en düşük seviyeye indi; nüfus bir yılda 3,39 milyon azaldı.",
+      "long_summary_tr": "Çin’de doğum oranı 2025’te binde 5,63’e gerileyerek kayıtların tutulmaya başlandığı 1949’dan bu yana en düşük seviyeye indi; nüfus bir yılda 3,39 milyon azaldı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/cin-nufusunda-tarihi-gerileme-1405-milyar-seviyesine-indi-haberi-811835",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/cin-ickf_cover.jpg",
+      "published_at": "2026-01-19T05:25:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Trump’ın Avrupa'ya Grönland tarifeleri kararı, doları baskılıyor",
+      "title_tr": "Trump’ın Avrupa'ya Grönland tarifeleri kararı, doları baskılıyor",
+      "summary": "ABD Başkanı Donald Trump’ın Grönland planı kapsamında Avrupa ülkelerine yönelik yeni tarifeleri gündeme getirmesi, dolar üzerinde yeni baskılar yarattı. Analistlere göre artan politika belirsizliği, A...",
+      "summary_tr": "ABD Başkanı Donald Trump’ın Grönland planı kapsamında Avrupa ülkelerine yönelik yeni tarifeleri gündeme getirmesi, dolar üzerinde yeni baskılar yarattı. Analistlere göre artan politika belirsizliği, A...",
+      "long_summary": "ABD Başkanı Donald Trump’ın Grönland planı kapsamında Avrupa ülkelerine yönelik yeni tarifeleri gündeme getirmesi, dolar üzerinde yeni baskılar yarattı. Analistlere göre artan politika belirsizliği, A...",
+      "long_summary_tr": "ABD Başkanı Donald Trump’ın Grönland planı kapsamında Avrupa ülkelerine yönelik yeni tarifeleri gündeme getirmesi, dolar üzerinde yeni baskılar yarattı. Analistlere göre artan politika belirsizliği, A...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696dbfbd67ad3132ebdff80d/PICNEWS/tr/trumpin-avrupa-ya-gronland-tarifeleri-karari-dolari-baskiliyor-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768800180779.jpeg",
+      "published_at": "2026-01-19T05:23:09+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Fourteen dead, dozens missing in massive Pakistan mall fire",
+      "title_tr": "Fourteen dead, dozens missing in massive Pakistan mall fire",
+      "summary": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
+      "summary_tr": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
+      "long_summary": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
+      "long_summary_tr": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/e2575a30-f472-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-19T05:22:01+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Ehliyet sınavında randevu karaborsası",
+      "title_tr": "Ehliyet sınavında randevu karaborsası",
+      "summary": "Belçika’da ehliyet sınavı randevularının sosyal medya üzerinden karaborsaya düştü ortaya çıktı. Fırsatçıların pratik direksiyon sınavı randevularını toplu halde alıp 100 Euro karşılığında satması tepki çekti.",
+      "summary_tr": "Belçika’da ehliyet sınavı randevularının sosyal medya üzerinden karaborsaya düştü ortaya çıktı. Fırsatçıların pratik direksiyon sınavı randevularını toplu halde alıp 100 Euro karşılığında satması tepki çekti.",
+      "long_summary": "Belçika’da ehliyet sınavı randevularının sosyal medya üzerinden karaborsaya düştü ortaya çıktı. Fırsatçıların pratik direksiyon sınavı randevularını toplu halde alıp 100 Euro karşılığında satması tepki çekti.",
+      "long_summary_tr": "Belçika’da ehliyet sınavı randevularının sosyal medya üzerinden karaborsaya düştü ortaya çıktı. Fırsatçıların pratik direksiyon sınavı randevularını toplu halde alıp 100 Euro karşılığında satması tepki çekti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/ehliyet-sinavinda-randevu-karaborsasi-haberi-811833",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/yeni-proje-13j4_cover.jpg",
+      "published_at": "2026-01-19T05:22:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Fenerbahçe kafilesi, Alanya'da mahsur kaldı",
+      "title_tr": "Fenerbahçe kafilesi, Alanya'da mahsur kaldı",
+      "summary": "Trendyol Süper Lig'de deplasmanda Alanyaspor ile karşılaşan Fenerbahçe, İstanbul'a dönemedi. Olumsuz hava koşulları nedeniyle uçak Alanya'dan havalanmadı.Trendyol Süper Lig'de Fenerbahçe deplasmanda Alanya ile karşılaştı. Sarı lacivertliler maçtan hemen sonra İstanbul'a dönecekti ancak hava koşullarından etkilendi.\n\nTRT Spor'un haberine göre; İstanbul'da havanın uçaklar için elverişli olmaması nedeniyle Fenerbahçe kafilesi henüz hareket edemedi.\n\nHabere göre sarı lacivertliler bu geceyi Alanya'da geçirip 19 Ocak sabahı İstanbul'a dönecek.",
+      "summary_tr": "Trendyol Süper Lig'de deplasmanda Alanyaspor ile karşılaşan Fenerbahçe, İstanbul'a dönemedi. Olumsuz hava koşulları nedeniyle uçak Alanya'dan havalanmadı.Trendyol Süper Lig'de Fenerbahçe deplasmanda Alanya ile karşılaştı. Sarı lacivertliler maçtan hemen sonra İstanbul'a dönecekti ancak hava koşullarından etkilendi.\n\nTRT Spor'un haberine göre; İstanbul'da havanın uçaklar için elverişli olmaması nedeniyle Fenerbahçe kafilesi henüz hareket edemedi.\n\nHabere göre sarı lacivertliler bu geceyi Alanya'da geçirip 19 Ocak sabahı İstanbul'a dönecek.",
+      "long_summary": "Trendyol Süper Lig'de deplasmanda Alanyaspor ile karşılaşan Fenerbahçe, İstanbul'a dönemedi. Olumsuz hava koşulları nedeniyle uçak Alanya'dan havalanmadı.Trendyol Süper Lig'de Fenerbahçe deplasmanda Alanya ile karşılaştı. Sarı lacivertliler maçtan hemen sonra İstanbul'a dönecekti ancak hava koşullarından etkilendi.\n\nTRT Spor'un haberine göre; İstanbul'da havanın uçaklar için elverişli olmaması nedeniyle Fenerbahçe kafilesi henüz hareket edemedi.\n\nHabere göre sarı lacivertliler bu geceyi",
+      "long_summary_tr": "Trendyol Süper Lig'de deplasmanda Alanyaspor ile karşılaşan Fenerbahçe, İstanbul'a dönemedi. Olumsuz hava koşulları nedeniyle uçak Alanya'dan havalanmadı.Trendyol Süper Lig'de Fenerbahçe deplasmanda Alanya ile karşılaştı. Sarı lacivertliler maçtan hemen sonra İstanbul'a dönecekti ancak hava koşullarından etkilendi.\n\nTRT Spor'un haberine göre; İstanbul'da havanın uçaklar için elverişli olmaması nedeniyle Fenerbahçe kafilesi henüz hareket edemedi.\n\nHabere göre sarı lacivertliler bu geceyi",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/fenerbahce-kafilesi-alanya-da-mahsur-kaldi-1565209",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/fenerbahce-kafilesi-alanya-da-mahsur-kaldi-1768800047-297_large.webp",
+      "published_at": "2026-01-19T05:20:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Kız evlattan kaçırılan 1 milyar TL'lik miras! Her yolu denediler...",
+      "title_tr": "Kız evlattan kaçırılan 1 milyar TL'lik miras! Her yolu denediler...",
+      "summary": "Ankara'da 2020'de hayatını kaybeden iş insanı Zeki Taşdemir'in mirası mahkemeye taşındı. Babasının hiç miras bırakmadığı Medine Akdemir harekete geçerek yargı yoluyla mirasın kendinden kaçırıldığını ispat etti. Emsal bir karara imza atan mahkeme 1 milyar TL'lik mirasta kızın hakkı olduğunu belirterek diğer tapuları iptal etti. Medine Akdemir şimdi de 500 milyon TL'lik akaryakıt istasyonu için harekete geçiyor.Ankara'nın Kahramankazan ilçesinde tanınan işadamı Zeki Taşdemir'in 2020'de vefatının ardından başlayan hukuk mücadelesi, miras hakları konusunda emsal bir karara dönüştü. Babasının vefatı sonrası kendisine hiçbir mal bırakılmadığını öğrenen Medine Akdemir, babasına ait çok sayıda taşınmazın ve akaryakıt istasyonunun şüpheli bir şekilde el değiştirdiğini fark edince harekete geçti.\n\nMALLAR ARACILARLA ERKEK KARDEŞLERE DEVREDİLDİ\n\nSabah'ta yer alan habere göre tüm malların erkek kardeşlerine devredildiğini kendisinden mal kaçırdığı iddiasıyla yargıya başvurdu. Yargılama sürecinde alınan bilirkişi raporları ve tapu kayıtları, gerçeği gün yüzüne çıkardı.\n\nMahkeme, Zeki Taşdemir'in sağlığında mal varlığını önce üçüncü şahıslara devrettiğini, bu kişilerin ise kısa süre sonra malları Taşdemir'in oğulları İrfan ve Fethi Taşdemir'e devrettiğini saptadı.\n\n\n\nPAYLAŞMAMAK İÇİN AKRABA EVLİLİĞİ YAPILDI\n\nDosyanın seyrini değiştiren unsurlardan biri de tanık beyanları oldu. Zeki Taşdemir'in kız kardeşi Kezban Tamer, verdiği ifadede, Zeki Taşdemir'in mallarını \"kız çocuğuna vermemek için bölüştürdüğünü\" söyledi. Medine Akdemir'in oğlu Turan Akdemir ise ifadesinde dedesinin mal varlığını paylaşmamak için çocuklarını akraba evliği yaptırdığını anlattı.\n\n\"CENAZE TÖRENİNE KATILMADI\"\n\nDavalı taraf, \"mal kaçırma\" iddialarını reddederek dava konusu benzin istasyonları ve taşınmazların ölen babaya değil, kendi emekleri ve ticari faaliyetleriyle edinildiğini savundu.\n\n\n\nYapılan tüm satış ve devirlerin yasal ve gerçek bedeller karşılığında gerçekleştiği belirtilirken, kız evlada yönelik bir ayrımcılık yapılmadığı ileri sürüldü. Savunmada, davacının uzun yıllar babasıyla görüşmediği, aile bağlarının koptuğu ve babasının cenaze törenine dahi katılmadığı iddiasına yer verildi.\n\n1 MİLYARLIK MİRASI KAÇIRDIKLARI TESPİT EDİLDİ\n\nKahramankazan 2. Asliye Hukuk Mahkemesi, tüm delilleri birlikte değerlendirerek tapuda yapılan toplam değeri 1 milyar lirayı bulan bu işlemlerin, \"gerçek bir satış değil, kız evladı mirastan mahrum bırakma amaçlı bir oyun (muvazaa)\" olduğu hükmüne vardı.\n\n\n\nTAPULAR İPTAL EDİLDİ\n\nMahkeme kararıyla birlikte birden fazla taşınmazda davalılar adına olan tapu kayıtları iptal edildi. Taşınmazların 1/3 hissesi Medine Akdemir adına tescil edilirken, kalan hisseler davalılarda bırakıldı.\n\nKarar henüz kesinleşmedi. Tarafların Ankara Bölge Adliye Mahkemesi'ne istinaf yolu açık.\n\n500 MİLYONLUK İSTASYON İÇİN HAREKETE GEÇEÇECEK\n\nMedine Akdemir, bu kararın ardından akaryakıt istasyonuyla ilgili ayrı bir dava açmaya hazırlanıyor. Yaklaşık 500 milyon lira değerindeki akaryakıt istasyonuna ilişkin yargı sürecinin önümüzdeki dönemde başlaması bekleniyor.",
+      "summary_tr": "Ankara'da 2020'de hayatını kaybeden iş insanı Zeki Taşdemir'in mirası mahkemeye taşındı. Babasının hiç miras bırakmadığı Medine Akdemir harekete geçerek yargı yoluyla mirasın kendinden kaçırıldığını ispat etti. Emsal bir karara imza atan mahkeme 1 milyar TL'lik mirasta kızın hakkı olduğunu belirterek diğer tapuları iptal etti. Medine Akdemir şimdi de 500 milyon TL'lik akaryakıt istasyonu için harekete geçiyor.Ankara'nın Kahramankazan ilçesinde tanınan işadamı Zeki Taşdemir'in 2020'de vefatının ardından başlayan hukuk mücadelesi, miras hakları konusunda emsal bir karara dönüştü. Babasının vefatı sonrası kendisine hiçbir mal bırakılmadığını öğrenen Medine Akdemir, babasına ait çok sayıda taşınmazın ve akaryakıt istasyonunun şüpheli bir şekilde el değiştirdiğini fark edince harekete geçti.\n\nMALLAR ARACILARLA ERKEK KARDEŞLERE DEVREDİLDİ\n\nSabah'ta yer alan habere göre tüm malların erkek kardeşlerine devredildiğini kendisinden mal kaçırdığı iddiasıyla yargıya başvurdu. Yargılama sürecinde alınan bilirkişi raporları ve tapu kayıtları, gerçeği gün yüzüne çıkardı.\n\nMahkeme, Zeki Taşdemir'in sağlığında mal varlığını önce üçüncü şahıslara devrettiğini, bu kişilerin ise kısa süre sonra malları Taşdemir'in oğulları İrfan ve Fethi Taşdemir'e devrettiğini saptadı.\n\n\n\nPAYLAŞMAMAK İÇİN AKRABA EVLİLİĞİ YAPILDI\n\nDosyanın seyrini değiştiren unsurlardan biri de tanık beyanları oldu. Zeki Taşdemir'in kız kardeşi Kezban Tamer, verdiği ifadede, Zeki Taşdemir'in mallarını \"kız çocuğuna vermemek için bölüştürdüğünü\" söyledi. Medine Akdemir'in oğlu Turan Akdemir ise ifadesinde dedesinin mal varlığını paylaşmamak için çocuklarını akraba evliği yaptırdığını anlattı.\n\n\"CENAZE TÖRENİNE KATILMADI\"\n\nDavalı taraf, \"mal kaçırma\" iddialarını reddederek dava konusu benzin istasyonları ve taşınmazların ölen babaya değil, kendi emekleri ve ticari faaliyetleriyle edinildiğini savundu.\n\n\n\nYapılan tüm satış ve devirlerin yasal ve gerçek bedeller karşılığında gerçekleştiği belirtilirken, kız evlada yönelik bir ayrımcılık yapılmadığı ileri sürüldü. Savunmada, davacının uzun yıllar babasıyla görüşmediği, aile bağlarının koptuğu ve babasının cenaze törenine dahi katılmadığı iddiasına yer verildi.\n\n1 MİLYARLIK MİRASI KAÇIRDIKLARI TESPİT EDİLDİ\n\nKahramankazan 2. Asliye Hukuk Mahkemesi, tüm delilleri birlikte değerlendirerek tapuda yapılan toplam değeri 1 milyar lirayı bulan bu işlemlerin, \"gerçek bir satış değil, kız evladı mirastan mahrum bırakma amaçlı bir oyun (muvazaa)\" olduğu hükmüne vardı.\n\n\n\nTAPULAR İPTAL EDİLDİ\n\nMahkeme kararıyla birlikte birden fazla taşınmazda davalılar adına olan tapu kayıtları iptal edildi. Taşınmazların 1/3 hissesi Medine Akdemir adına tescil edilirken, kalan hisseler davalılarda bırakıldı.\n\nKarar henüz kesinleşmedi. Tarafların Ankara Bölge Adliye Mahkemesi'ne istinaf yolu açık.\n\n500 MİLYONLUK İSTASYON İÇİN HAREKETE GEÇEÇECEK\n\nMedine Akdemir, bu kararın ardından akaryakıt istasyonuyla ilgili ayrı bir dava açmaya hazırlanıyor. Yaklaşık 500 milyon lira değerindeki akaryakıt istasyonuna ilişkin yargı sürecinin önümüzdeki dönemde başlaması bekleniyor.",
+      "long_summary": "Ankara'da 2020'de hayatını kaybeden iş insanı Zeki Taşdemir'in mirası mahkemeye taşındı. Babasının hiç miras bırakmadığı Medine Akdemir harekete geçerek yargı yoluyla mirasın kendinden kaçırıldığını ispat etti. Emsal bir karara imza atan mahkeme 1 milyar TL'lik mirasta kızın hakkı olduğunu belirterek diğer tapuları iptal etti. Medine Akdemir şimdi de 500 milyon TL'lik akaryakıt istasyonu için harekete geçiyor.Ankara'nın Kahramankazan ilçesinde tanınan işadamı Zeki Taşdemir'in 2020'de vefatının",
+      "long_summary_tr": "Ankara'da 2020'de hayatını kaybeden iş insanı Zeki Taşdemir'in mirası mahkemeye taşındı. Babasının hiç miras bırakmadığı Medine Akdemir harekete geçerek yargı yoluyla mirasın kendinden kaçırıldığını ispat etti. Emsal bir karara imza atan mahkeme 1 milyar TL'lik mirasta kızın hakkı olduğunu belirterek diğer tapuları iptal etti. Medine Akdemir şimdi de 500 milyon TL'lik akaryakıt istasyonu için harekete geçiyor.Ankara'nın Kahramankazan ilçesinde tanınan işadamı Zeki Taşdemir'in 2020'de vefatının",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/kiz-evlattan-kacirilan-1-milyar-tl-lik-miras-her-yolu-denediler-1565211",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/kiz-evlattan-kacirilan-1-milyar-tl-lik-miras-her-yolu-denediler-1768800139-107_large.webp",
+      "published_at": "2026-01-19T05:19:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Hızlı trenler raydan çıktı! Çok sayıda ölü ve yaralı var",
+      "title_tr": "Hızlı trenler raydan çıktı! Çok sayıda ölü ve yaralı var",
+      "summary": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi hayatını kaybetti, 100 kişi yaralandı. Yerel medyada yer alan haberlerde, Kurtuba'ya bağlı Adamuz beldesinde, Malaga'dan Madrid'e giden bir hızlı trenin üç vagonunun raydan çıktığı, bu sırada karşı hatta Huelva istikametine doğru giden bir trenin de raydan çıkan vagonlar nedeniyle manevra yapmak zorunda kaldığı ve bazı vagonlarının devrildiği belirtildi.\n\nİspanya resmi haber ajansı EFE'nin, soruşturmayı yürüten yetkililere dayanarak verdiği haberde ilk trende 317, ikinci trende 100 yolcunun olduğu kaydedildi.\n\nEFE, kazada ölenlerin sayısının 21 olduğunu, 30'u ağır olmak üzere 100 kişinin yaralandığını duyurdu.\n\nKurtuba'ya beş mobil yoğun bakım ünitesi, bir lojistik destek aracı ve dört acil kritik bakım ünitesi gönderildiği ifade edildi.\n\nAdamuz'a bir sahra hastanesi kurulduğu, askeri acil yardım birliğinden 37 askerin gönderildiği, dışarıda kalan yolcuların nakil işlemlerinin devam ettiği, çevredeki vatandaşların battaniye, yiyecek yardımı yaptığı aktarıldı.\n\nÖte yandan, Başbakan Pedro Sanchez, yarınki programını iptal etti.\n\nSanchez, ABD merkezli sosyal paylaşım şirketi X'ten yaptığı paylaşımda da \"Adamuz'da raydan çıkan iki yüksek hızlı trenin karıştığı kazayı yakından takip ediyoruz. Hükümet, yolculara yardımcı olmak için diğer ilgili yetkililer ve acil servislerle birlikte çalışıyor.\" ifadelerini kullandı.\n\nMadrid'den Malaga'ya doğru giden trenin vagonlarının raydan çıkmasına neyin neden olduğu henüz bilinmiyor.",
+      "summary_tr": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi hayatını kaybetti, 100 kişi yaralandı. Yerel medyada yer alan haberlerde, Kurtuba'ya bağlı Adamuz beldesinde, Malaga'dan Madrid'e giden bir hızlı trenin üç vagonunun raydan çıktığı, bu sırada karşı hatta Huelva istikametine doğru giden bir trenin de raydan çıkan vagonlar nedeniyle manevra yapmak zorunda kaldığı ve bazı vagonlarının devrildiği belirtildi.\n\nİspanya resmi haber ajansı EFE'nin, soruşturmayı yürüten yetkililere dayanarak verdiği haberde ilk trende 317, ikinci trende 100 yolcunun olduğu kaydedildi.\n\nEFE, kazada ölenlerin sayısının 21 olduğunu, 30'u ağır olmak üzere 100 kişinin yaralandığını duyurdu.\n\nKurtuba'ya beş mobil yoğun bakım ünitesi, bir lojistik destek aracı ve dört acil kritik bakım ünitesi gönderildiği ifade edildi.\n\nAdamuz'a bir sahra hastanesi kurulduğu, askeri acil yardım birliğinden 37 askerin gönderildiği, dışarıda kalan yolcuların nakil işlemlerinin devam ettiği, çevredeki vatandaşların battaniye, yiyecek yardımı yaptığı aktarıldı.\n\nÖte yandan, Başbakan Pedro Sanchez, yarınki programını iptal etti.\n\nSanchez, ABD merkezli sosyal paylaşım şirketi X'ten yaptığı paylaşımda da \"Adamuz'da raydan çıkan iki yüksek hızlı trenin karıştığı kazayı yakından takip ediyoruz. Hükümet, yolculara yardımcı olmak için diğer ilgili yetkililer ve acil servislerle birlikte çalışıyor.\" ifadelerini kullandı.\n\nMadrid'den Malaga'ya doğru giden trenin vagonlarının raydan çıkmasına neyin neden olduğu henüz bilinmiyor.",
+      "long_summary": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi hayatını kaybetti, 100 kişi yaralandı. Yerel medyada yer alan haberlerde, Kurtuba'ya bağlı Adamuz beldesinde, Malaga'dan Madrid'e giden bir hızlı trenin üç vagonunun raydan çıktığı, bu sırada karşı hatta Huelva istikametine doğru giden bir trenin de raydan çıkan vagonlar nedeniyle manevra yapmak zorunda kaldığı ve bazı vagonlarının devrildiği belirtildi.\n\nİspanya resmi haber",
+      "long_summary_tr": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi hayatını kaybetti, 100 kişi yaralandı. Yerel medyada yer alan haberlerde, Kurtuba'ya bağlı Adamuz beldesinde, Malaga'dan Madrid'e giden bir hızlı trenin üç vagonunun raydan çıktığı, bu sırada karşı hatta Huelva istikametine doğru giden bir trenin de raydan çıkan vagonlar nedeniyle manevra yapmak zorunda kaldığı ve bazı vagonlarının devrildiği belirtildi.\n\nİspanya resmi haber",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/hizli-trenler-raydan-cikti-cok-sayida-olu-ve-yarali-var-1565207",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/hizli-trenler-raydan-cikti-cok-sayida-olu-ve-yarali-var-1768800005-71_large.webp",
+      "published_at": "2026-01-19T05:19:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İran'daki olaylarda ölenlerin sayısı 4 bine yaklaştı",
+      "title_tr": "İran'daki olaylarda ölenlerin sayısı 4 bine yaklaştı",
+      "summary": "ABD merkezli İran İnsan Hakları Aktivistleri Haber Ajansı (HRANA), İran'da ekonomik sorunlar nedeniyle başlayan eylemlerde hayatını kaybedenlerin sayısının 3 bin 919'a yükseldiğini duyurdu.HRANA'nın haberine göre, ülkenin birçok noktasındaki olaylar sonucunda 24 bin 669 kişi gözaltına alındı. Gösterilerde çıkan olaylarda 3 bin 919 kişi yaşamını yitirdi.\n\nHRANA, dünkü haberinde ölü sayısının 3 bin 308'e çıktığını duyurmuştu.\n\nİran'daki gösteriler\n\nİran'da 28 Aralık 2025'te ülkedeki yerel para biriminin döviz karşısındaki yüksek değer kaybı ve ekonomik sorunlar nedeniyle Tahran Büyük Çarşı'da esnafın başlattığı protestolar, birçok kente yayılmıştı.\n\nİran'ın başkenti Tahran'da 8 Ocak'ta şiddetlenen protestolar sırasında çıkan olaylar sonrasında ülke yönetimi, internet erişimini engellemişti. Son günlerde ise internet erişiminin kısmen ve sınırlı şekilde yeniden sağlandığı bildiriliyor.\n\nİran’da gösteriler sönümlenmiş olsa da ABD’nin Virginia eyaleti merkezli HRANA, daha fazla vakayı doğruladığını öne sürerek ölü ve gözaltı sayılarını güncellemeye devam ediyor. İranlı yetkililer ise gösterilerde çıkan olaylarda ölen ya da yaralananların toplam sayısına ilişkin şu ana kadar açıklama yapmazken terör örgütlerine mensup olduğu öne sürülen veya olayları provoke eden 3 bin kişinin gözaltına alındığını bildirmişti.\n\nİran lideri Ayetullah Ali Hamaney ise 17 Ocak'ta yaptığı açıklamada, gösteriler sırasında \"İsrail ve ABD ile bağlantılı kişilerin büyük hasara yol açtığını ve birkaç bin insanı öldürdüğünü\" söylemişti.",
+      "summary_tr": "ABD merkezli İran İnsan Hakları Aktivistleri Haber Ajansı (HRANA), İran'da ekonomik sorunlar nedeniyle başlayan eylemlerde hayatını kaybedenlerin sayısının 3 bin 919'a yükseldiğini duyurdu.HRANA'nın haberine göre, ülkenin birçok noktasındaki olaylar sonucunda 24 bin 669 kişi gözaltına alındı. Gösterilerde çıkan olaylarda 3 bin 919 kişi yaşamını yitirdi.\n\nHRANA, dünkü haberinde ölü sayısının 3 bin 308'e çıktığını duyurmuştu.\n\nİran'daki gösteriler\n\nİran'da 28 Aralık 2025'te ülkedeki yerel para biriminin döviz karşısındaki yüksek değer kaybı ve ekonomik sorunlar nedeniyle Tahran Büyük Çarşı'da esnafın başlattığı protestolar, birçok kente yayılmıştı.\n\nİran'ın başkenti Tahran'da 8 Ocak'ta şiddetlenen protestolar sırasında çıkan olaylar sonrasında ülke yönetimi, internet erişimini engellemişti. Son günlerde ise internet erişiminin kısmen ve sınırlı şekilde yeniden sağlandığı bildiriliyor.\n\nİran’da gösteriler sönümlenmiş olsa da ABD’nin Virginia eyaleti merkezli HRANA, daha fazla vakayı doğruladığını öne sürerek ölü ve gözaltı sayılarını güncellemeye devam ediyor. İranlı yetkililer ise gösterilerde çıkan olaylarda ölen ya da yaralananların toplam sayısına ilişkin şu ana kadar açıklama yapmazken terör örgütlerine mensup olduğu öne sürülen veya olayları provoke eden 3 bin kişinin gözaltına alındığını bildirmişti.\n\nİran lideri Ayetullah Ali Hamaney ise 17 Ocak'ta yaptığı açıklamada, gösteriler sırasında \"İsrail ve ABD ile bağlantılı kişilerin büyük hasara yol açtığını ve birkaç bin insanı öldürdüğünü\" söylemişti.",
+      "long_summary": "ABD merkezli İran İnsan Hakları Aktivistleri Haber Ajansı (HRANA), İran'da ekonomik sorunlar nedeniyle başlayan eylemlerde hayatını kaybedenlerin sayısının 3 bin 919'a yükseldiğini duyurdu.HRANA'nın haberine göre, ülkenin birçok noktasındaki olaylar sonucunda 24 bin 669 kişi gözaltına alındı. Gösterilerde çıkan olaylarda 3 bin 919 kişi yaşamını yitirdi.\n\nHRANA, dünkü haberinde ölü sayısının 3 bin 308'e çıktığını duyurmuştu.\n\nİran'daki gösteriler\n\nİran'da 28 Aralık 2025'te ülkedeki yerel para",
+      "long_summary_tr": "ABD merkezli İran İnsan Hakları Aktivistleri Haber Ajansı (HRANA), İran'da ekonomik sorunlar nedeniyle başlayan eylemlerde hayatını kaybedenlerin sayısının 3 bin 919'a yükseldiğini duyurdu.HRANA'nın haberine göre, ülkenin birçok noktasındaki olaylar sonucunda 24 bin 669 kişi gözaltına alındı. Gösterilerde çıkan olaylarda 3 bin 919 kişi yaşamını yitirdi.\n\nHRANA, dünkü haberinde ölü sayısının 3 bin 308'e çıktığını duyurmuştu.\n\nİran'daki gösteriler\n\nİran'da 28 Aralık 2025'te ülkedeki yerel para",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/iran-daki-olaylarda-olenlerin-sayisi-4-bine-yaklasti-1565205",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/iran-daki-olaylarda-olenlerin-sayisi-4-bine-yaklasti-1768799947-582_large.webp",
+      "published_at": "2026-01-19T05:18:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Oxfam: Milyarderlerin serveti rekor kırdı, küresel eşitsizlik derinleşti",
+      "title_tr": "Oxfam: Milyarderlerin serveti rekor kırdı, küresel eşitsizlik derinleşti",
+      "summary": "Oxfam’ın Dünya Ekonomik Forumu’nun açılışıyla eş zamanlı yayımladığı rapora göre, küresel milyarderlerin toplam serveti 2025’te yüzde 16 artarak 18,3 trilyon dolara ulaştı.",
+      "summary_tr": "Oxfam’ın Dünya Ekonomik Forumu’nun açılışıyla eş zamanlı yayımladığı rapora göre, küresel milyarderlerin toplam serveti 2025’te yüzde 16 artarak 18,3 trilyon dolara ulaştı.",
+      "long_summary": "Oxfam’ın Dünya Ekonomik Forumu’nun açılışıyla eş zamanlı yayımladığı rapora göre, küresel milyarderlerin toplam serveti 2025’te yüzde 16 artarak 18,3 trilyon dolara ulaştı.",
+      "long_summary_tr": "Oxfam’ın Dünya Ekonomik Forumu’nun açılışıyla eş zamanlı yayımladığı rapora göre, küresel milyarderlerin toplam serveti 2025’te yüzde 16 artarak 18,3 trilyon dolara ulaştı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/oxfam-milyarderlerin-serveti-rekor-kirdi-kuresel-esitsizlik-derinlesti-3766641",
+      "image": null,
+      "published_at": "2026-01-19T05:17:29+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Hindistan’ın Sun Pharma şirketi ABD merkezli Organon için 10 milyar dolarlık teklif değerlendiriyor",
+      "title_tr": "Hindistan’ın Sun Pharma şirketi ABD merkezli Organon için 10 milyar dolarlık teklif değerlendiriyor",
+      "summary": "Hindistan’ın Sun Pharma şirketi ABD merkezli Organon için 10 milyar dolarlık teklif değerlendiriyor",
+      "summary_tr": "Hindistan’ın Sun Pharma şirketi ABD merkezli Organon için 10 milyar dolarlık teklif değerlendiriyor",
+      "long_summary": "Hindistan’ın Sun Pharma şirketi ABD merkezli Organon için 10 milyar dolarlık teklif değerlendiriyor",
+      "long_summary_tr": "Hindistan’ın Sun Pharma şirketi ABD merkezli Organon için 10 milyar dolarlık teklif değerlendiriyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/hindistann-sun-pharma-sirketi-abd-merkezli-organon-icin-10-milyar-dolarlk-teklif-degerlendiriyor-3719150",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-19T05:16:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakır fiyatları küresel belirsizlikle yeniden yükselişte!",
+      "title_tr": "Bakır fiyatları küresel belirsizlikle yeniden yükselişte!",
+      "summary": "Bakır fiyatları, ABD Başkanı Donald Trump&#039;ın Grönland üzerinden gündeme getirdiği gümrük vergisi tehditlerinin doları zayıflatması ve Çin&#039;in ekonomik büyüme hedefini tutturmasının etkisiyle yeniden yükselişe geçti. Küresel piyasalarda artan belirsizlik yatırımcıları emtia piyasalarına yönlendirirken, bakır fiyatları Londra Metal Borsası&#039;nda yüzde 1,3 artarak ton başına 12 bin 965 dolara çıktı. Arz sıkıntısı, Çin kaynaklı güçlü alımlar ve yapay zeka ile yenilenebilir enerji yatırımlarının artırdığı talep, fiyatlardaki yukarı yönlü seyri destekliyor.",
+      "summary_tr": "Bakır fiyatları, ABD Başkanı Donald Trump&#039;ın Grönland üzerinden gündeme getirdiği gümrük vergisi tehditlerinin doları zayıflatması ve Çin&#039;in ekonomik büyüme hedefini tutturmasının etkisiyle yeniden yükselişe geçti. Küresel piyasalarda artan belirsizlik yatırımcıları emtia piyasalarına yönlendirirken, bakır fiyatları Londra Metal Borsası&#039;nda yüzde 1,3 artarak ton başına 12 bin 965 dolara çıktı. Arz sıkıntısı, Çin kaynaklı güçlü alımlar ve yapay zeka ile yenilenebilir enerji yatırımlarının artırdığı talep, fiyatlardaki yukarı yönlü seyri destekliyor.",
+      "long_summary": "Bakır fiyatları, ABD Başkanı Donald Trump&#039;ın Grönland üzerinden gündeme getirdiği gümrük vergisi tehditlerinin doları zayıflatması ve Çin&#039;in ekonomik büyüme hedefini tutturmasının etkisiyle yeniden yükselişe geçti. Küresel piyasalarda artan belirsizlik yatırımcıları emtia piyasalarına yönlendirirken, bakır fiyatları Londra Metal Borsası&#039;nda yüzde 1,3 artarak ton başına 12 bin 965 dolara çıktı. Arz sıkıntısı, Çin kaynaklı güçlü alımlar ve yapay zeka ile yenilenebilir enerji",
+      "long_summary_tr": "Bakır fiyatları, ABD Başkanı Donald Trump&#039;ın Grönland üzerinden gündeme getirdiği gümrük vergisi tehditlerinin doları zayıflatması ve Çin&#039;in ekonomik büyüme hedefini tutturmasının etkisiyle yeniden yükselişe geçti. Küresel piyasalarda artan belirsizlik yatırımcıları emtia piyasalarına yönlendirirken, bakır fiyatları Londra Metal Borsası&#039;nda yüzde 1,3 artarak ton başına 12 bin 965 dolara çıktı. Arz sıkıntısı, Çin kaynaklı güçlü alımlar ve yapay zeka ile yenilenebilir enerji",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/haberler/bakir-fiyatlari-kuresel-belirsizlikle-yeniden-yukseliste-haberi-811836",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/bakir-t5on_cover.jpg",
+      "published_at": "2026-01-19T05:14:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Durup dururken saldırdı: Yine genç yine bıçaklama!",
+      "title_tr": "Durup dururken saldırdı: Yine genç yine bıçaklama!",
+      "summary": "Türkiye, 15 yaşındaki Atlas'ın öldürülmesinin şokunu yaşarken, bu kez de Samsun'dan gelen haber gündem yarattı. İlkadım ilçesinde, bir fırının pastane bölümünde oturan 17 ve 19 yaşındaki iki genç, aynı masada oturdukları kimliği belirsiz bir kişinin bıçaklı saldırısına uğradı. Yaşanan dehşet anları ise saniye saniye kameralara yansıdı.Ahmet Minguzzi'nin ardından Türkiye, Atlas Çağlayan'ın 15 yaşındaki bir çocuk tarafından bıçaklanarak öldürülmesini şokunu yaşarken; bu kez Samsun'dan gelen haber endişelendirdi. İlkadım ilçesinde bir fırının pastane bölümünde meydana gelen bıçaklı saldırıda 2 genç yaralanırken, dehşet anları saniye saniye güvenlik kamerasına yansıdı.\n\nDURUP DURURKEN BIÇAKLA SALDIRDI\n\nOlay, Samsun'un İlkadım ilçesi Kalkancı Mahallesi'nde bulunan bir fırının pastane bölümünde meydana geldi. Edinilen bilgilere göre, pastanedeki gençlerle aynı masada oturan bir kişi, herhangi bir tartışma ya da uyarı olmaksızın aniden 2 gence bıçakla saldırdı.\n\n\n\nPASTANE SAVAŞ ALANINA DÖNDÜ\n\nSaldırı sırasında A.E.A. (17) ve B.K. (19), bıçak darbesi ve darp sonucu vücutlarının çeşitli yerlerinden yaralandı. Panik anlarının yaşandığı olayda çevrede bulunan bazı kişiler saldırgana müdahale etmeye çalışırken, pastane bir anda savaş alanına döndü.\n\nSAĞLIK DURUMLARI İYİ\n\nİhbar üzerine olay yerine çok sayıda polis ve sağlık ekibi sevk edildi. Yaralı gençler, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından ambulanslarla Samsun Şehir Hastanesi'ne kaldırılarak tedavi altına alındı. Yaralıların hayati tehlikelerinin bulunmadığı ve sağlık durumlarının iyi olduğu öğrenildi.\n\n\n\nPANİK ANLERI KAMERALARA YANSIDI\n\nSaldırıyı gerçekleştiren şüpheli ya da şüpheliler, olayın ardından hızla kaçarken, yaşanan dehşet anları iş yerinin güvenlik kamerası tarafından saniye saniye kaydedildi. Görüntülerde, saldırganın hiçbir sözlü tartışma olmadan gençlerin bulunduğu masaya yönelerek bıçakla saldırdığı anlar net şekilde yer aldı.\n\n\n\nGENİŞ ÇAPLI ARAMA BAŞLATILDI\n\nPolis ekipleri, güvenlik kamerası görüntülerini incelemeye alırken, kaçan şahsın kimliğini tespit edilerek yakalanması için geniş çaplı çalışma başlattı.Türkiye'nin henüz Atlas'ın öldürülmesinin yarattığı sarsıntıyı atlatamadığı bir dönemde yaşanan bu olay, kamuoyundaki endişeyi bir kez daha artırdı.",
+      "summary_tr": "Türkiye, 15 yaşındaki Atlas'ın öldürülmesinin şokunu yaşarken, bu kez de Samsun'dan gelen haber gündem yarattı. İlkadım ilçesinde, bir fırının pastane bölümünde oturan 17 ve 19 yaşındaki iki genç, aynı masada oturdukları kimliği belirsiz bir kişinin bıçaklı saldırısına uğradı. Yaşanan dehşet anları ise saniye saniye kameralara yansıdı.Ahmet Minguzzi'nin ardından Türkiye, Atlas Çağlayan'ın 15 yaşındaki bir çocuk tarafından bıçaklanarak öldürülmesini şokunu yaşarken; bu kez Samsun'dan gelen haber endişelendirdi. İlkadım ilçesinde bir fırının pastane bölümünde meydana gelen bıçaklı saldırıda 2 genç yaralanırken, dehşet anları saniye saniye güvenlik kamerasına yansıdı.\n\nDURUP DURURKEN BIÇAKLA SALDIRDI\n\nOlay, Samsun'un İlkadım ilçesi Kalkancı Mahallesi'nde bulunan bir fırının pastane bölümünde meydana geldi. Edinilen bilgilere göre, pastanedeki gençlerle aynı masada oturan bir kişi, herhangi bir tartışma ya da uyarı olmaksızın aniden 2 gence bıçakla saldırdı.\n\n\n\nPASTANE SAVAŞ ALANINA DÖNDÜ\n\nSaldırı sırasında A.E.A. (17) ve B.K. (19), bıçak darbesi ve darp sonucu vücutlarının çeşitli yerlerinden yaralandı. Panik anlarının yaşandığı olayda çevrede bulunan bazı kişiler saldırgana müdahale etmeye çalışırken, pastane bir anda savaş alanına döndü.\n\nSAĞLIK DURUMLARI İYİ\n\nİhbar üzerine olay yerine çok sayıda polis ve sağlık ekibi sevk edildi. Yaralı gençler, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından ambulanslarla Samsun Şehir Hastanesi'ne kaldırılarak tedavi altına alındı. Yaralıların hayati tehlikelerinin bulunmadığı ve sağlık durumlarının iyi olduğu öğrenildi.\n\n\n\nPANİK ANLERI KAMERALARA YANSIDI\n\nSaldırıyı gerçekleştiren şüpheli ya da şüpheliler, olayın ardından hızla kaçarken, yaşanan dehşet anları iş yerinin güvenlik kamerası tarafından saniye saniye kaydedildi. Görüntülerde, saldırganın hiçbir sözlü tartışma olmadan gençlerin bulunduğu masaya yönelerek bıçakla saldırdığı anlar net şekilde yer aldı.\n\n\n\nGENİŞ ÇAPLI ARAMA BAŞLATILDI\n\nPolis ekipleri, güvenlik kamerası görüntülerini incelemeye alırken, kaçan şahsın kimliğini tespit edilerek yakalanması için geniş çaplı çalışma başlattı.Türkiye'nin henüz Atlas'ın öldürülmesinin yarattığı sarsıntıyı atlatamadığı bir dönemde yaşanan bu olay, kamuoyundaki endişeyi bir kez daha artırdı.",
+      "long_summary": "Türkiye, 15 yaşındaki Atlas'ın öldürülmesinin şokunu yaşarken, bu kez de Samsun'dan gelen haber gündem yarattı. İlkadım ilçesinde, bir fırının pastane bölümünde oturan 17 ve 19 yaşındaki iki genç, aynı masada oturdukları kimliği belirsiz bir kişinin bıçaklı saldırısına uğradı. Yaşanan dehşet anları ise saniye saniye kameralara yansıdı.Ahmet Minguzzi'nin ardından Türkiye, Atlas Çağlayan'ın 15 yaşındaki bir çocuk tarafından bıçaklanarak öldürülmesini şokunu yaşarken; bu kez Samsun'dan gelen haber",
+      "long_summary_tr": "Türkiye, 15 yaşındaki Atlas'ın öldürülmesinin şokunu yaşarken, bu kez de Samsun'dan gelen haber gündem yarattı. İlkadım ilçesinde, bir fırının pastane bölümünde oturan 17 ve 19 yaşındaki iki genç, aynı masada oturdukları kimliği belirsiz bir kişinin bıçaklı saldırısına uğradı. Yaşanan dehşet anları ise saniye saniye kameralara yansıdı.Ahmet Minguzzi'nin ardından Türkiye, Atlas Çağlayan'ın 15 yaşındaki bir çocuk tarafından bıçaklanarak öldürülmesini şokunu yaşarken; bu kez Samsun'dan gelen haber",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/durup-dururken-saldirdi-yine-genc-yine-bicaklama-1565201",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/durup-dururken-saldirdi-yine-genc-yine-bicaklama-1768799712-303_large.webp",
+      "published_at": "2026-01-19T05:13:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa'da 20 araç yolda mahsur kaldı! Kar yağışı...",
+      "title_tr": "Bursa'da 20 araç yolda mahsur kaldı! Kar yağışı...",
+      "summary": "Bursa’nın İnegöl ilçesinde bugün aralıklarla devam eden kar yağışı nedeniyle Oylat Kaplıcaları yolu ulaşıma kapandı. 20 araç yolda mahsur kaldı.İnegöl merkez ile kırsal mahallelerinde bu sabah başlayan kar yağışı, aralıklarla gece de devam ederken, Oylat Kaplıcaları'na giden tatilciler, dönüş yolunda mahsur kaldı.\n\nVatandaşların ihbarı üzerine İnegöl Belediyesi ekipleri, ulaşımın sağlanabilmesi için kar küreme ve tuzlama çalışması başlattı.\n\nEkiplerin çalışmaları sürerken, yetkililer sürücülere zorunlu olmadıkça yola çıkmamaları ve kış lastiği bulunmayan araçlarla bölgeye gitmemeleri konusunda uyarılarda bulundu.",
+      "summary_tr": "Bursa’nın İnegöl ilçesinde bugün aralıklarla devam eden kar yağışı nedeniyle Oylat Kaplıcaları yolu ulaşıma kapandı. 20 araç yolda mahsur kaldı.İnegöl merkez ile kırsal mahallelerinde bu sabah başlayan kar yağışı, aralıklarla gece de devam ederken, Oylat Kaplıcaları'na giden tatilciler, dönüş yolunda mahsur kaldı.\n\nVatandaşların ihbarı üzerine İnegöl Belediyesi ekipleri, ulaşımın sağlanabilmesi için kar küreme ve tuzlama çalışması başlattı.\n\nEkiplerin çalışmaları sürerken, yetkililer sürücülere zorunlu olmadıkça yola çıkmamaları ve kış lastiği bulunmayan araçlarla bölgeye gitmemeleri konusunda uyarılarda bulundu.",
+      "long_summary": "Bursa’nın İnegöl ilçesinde bugün aralıklarla devam eden kar yağışı nedeniyle Oylat Kaplıcaları yolu ulaşıma kapandı. 20 araç yolda mahsur kaldı.İnegöl merkez ile kırsal mahallelerinde bu sabah başlayan kar yağışı, aralıklarla gece de devam ederken, Oylat Kaplıcaları'na giden tatilciler, dönüş yolunda mahsur kaldı.\n\nVatandaşların ihbarı üzerine İnegöl Belediyesi ekipleri, ulaşımın sağlanabilmesi için kar küreme ve tuzlama çalışması başlattı.\n\nEkiplerin çalışmaları sürerken, yetkililer sürücülere",
+      "long_summary_tr": "Bursa’nın İnegöl ilçesinde bugün aralıklarla devam eden kar yağışı nedeniyle Oylat Kaplıcaları yolu ulaşıma kapandı. 20 araç yolda mahsur kaldı.İnegöl merkez ile kırsal mahallelerinde bu sabah başlayan kar yağışı, aralıklarla gece de devam ederken, Oylat Kaplıcaları'na giden tatilciler, dönüş yolunda mahsur kaldı.\n\nVatandaşların ihbarı üzerine İnegöl Belediyesi ekipleri, ulaşımın sağlanabilmesi için kar küreme ve tuzlama çalışması başlattı.\n\nEkiplerin çalışmaları sürerken, yetkililer sürücülere",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-20-arac-yolda-mahsur-kaldi-kar-yagisi-1565199",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/bursa-da-20-arac-yolda-mahsur-kaldi-1768799513-227_large.webp",
+      "published_at": "2026-01-19T05:10:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Bessent: Yüksek Mahkeme’nin Trump’ın tarifelerini iptal etmesi çok düşük ihtimal",
+      "title_tr": "Bessent: Yüksek Mahkeme’nin Trump’ın tarifelerini iptal etmesi çok düşük ihtimal",
+      "summary": "ABD Hazine Bakanı Scott Bessent, Yüksek Mahkeme’nin Başkan Donald Trump’ın olağanüstü yetkilere dayanarak uyguladığı gümrük tarifelerini iptal etmesinin \"çok düşük bir ihtimal\" olduğunu söyledi.",
+      "summary_tr": "ABD Hazine Bakanı Scott Bessent, Yüksek Mahkeme’nin Başkan Donald Trump’ın olağanüstü yetkilere dayanarak uyguladığı gümrük tarifelerini iptal etmesinin \"çok düşük bir ihtimal\" olduğunu söyledi.",
+      "long_summary": "ABD Hazine Bakanı Scott Bessent, Yüksek Mahkeme’nin Başkan Donald Trump’ın olağanüstü yetkilere dayanarak uyguladığı gümrük tarifelerini iptal etmesinin \"çok düşük bir ihtimal\" olduğunu söyledi.",
+      "long_summary_tr": "ABD Hazine Bakanı Scott Bessent, Yüksek Mahkeme’nin Başkan Donald Trump’ın olağanüstü yetkilere dayanarak uyguladığı gümrük tarifelerini iptal etmesinin \"çok düşük bir ihtimal\" olduğunu söyledi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696dbc5a2663b328fe317b0d/PICNEWS/tr/bessent-yuksek-mahkemenin-trumpin-tarifelerini-iptal-etmesi-cok-dusuk-ihtimal-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768799315991.jpeg",
+      "published_at": "2026-01-19T05:08:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa'da şoförler Başkan Ahmet Çakır ile devam dedi",
+      "title_tr": "Bursa'da şoförler Başkan Ahmet Çakır ile devam dedi",
+      "summary": "Bursa Şoförler ve Otomobilciler Esnaf Odası’nın 27. Genel Kurul toplantısı gerçekleştirildi. Genel Kurul’da yapılan seçimde Bursa Şoförler ve Otomobilciler Esnaf Odası Başkanı Ahmet Çakır güven tazeledi ve ikinci dönem için üyelerden güvenoyu aldı.Merinos AKKM’de BESOB Başkanı Fahrettin Bilgit’in Divan Başkanlığında yapılan Genel Kurula, Bursa Büyükşehir Belediyesi Başkanvekili Mehmet Aydın Saldız, Osmangazi Belediye Başkanı Erkan Aydın, Büyükorhan Belediye Başkanı Kamil Turhan ve Nilüfer Belediyesi Başkan Yardımcısı Emre Karagöz ile konuk esnaf odası başkanları, esnaf kefalet kooperatifi başkanları, siyasi partilerin temsilcileri ve üyeler katıldı.\n\n\n\nGenel Kurul açılışında konuşan Bursa Şoförler ve Otomobilciler Esnaf Odası Başkanı Ahmet Çakır, “8 Ocak 2022’de göreve geldik ve o gün ne söylediysek bugün verdiğimiz bütün sözlerimizi tutmuş olarak, içimiz rahat başımız dik huzurunuzdayız” dedi.\n\n\n\n4 yıllık çalışmaları hakkında Genel Kurula bilgiler veren Başkan Ahmet Çakır, “Sadece söz değil icraat yaptık. Bu dönem kolay olmadı pandemiyi, ülke olarak asrın depremini, yangınları yaşadık ve ağır ekonomik koşulları yaşıyoruz.\n\nBu dönemde üyelerimizin durak güncellemelerini çözüme kavuşturduk, taksi plaka satışı konusunu yakından takip ettik, korsa taksi ile mücadeleyi trafik ekiplerimizle birlikte takip ettik ve bu konunun peşini bırakmıyoruz. Bursa Taksi’yi hayata geçirdik. Dolmuştan taksiye dönüşümlerde çok önemli ilerlemeler kaydettik. 22 yeni taksi durağı açılmasını sağladık.\n\n\n\nBütün bu çalışmalarımızda her zaman yanımızda olan Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey’e, İl Başkanlarımıza ve Belediye Meclis üyelerimize teşekkür ediyoruz” şeklinde konuştu.\n\n\n\nGenel Kurula katılan konukların selamlama konuşmalarının ardından gündemde yer alan maddelerin okunması, müzakeresi ve kabulü oylandı ve Ahmet Çakır ile Mustafa Akın olmak üzere iki adayın yarıştığı seçimlere geçildi.\n\n2 bin 300 üyesi bulunan Bursa Şoförler ve Otomobilciler Esnaf Odası’nın seçimleri sonucunda Ahmet Çakır 707, Mustafa Akın 496 oy aldı ve Ahmet Çakır yeniden Başkanlığa seçildi.\n\n\n\nBursa Şoförler ve Otomobilciler Esnaf Odası’nın yeni yönetim kurulu şu isimlerden oluştu:\n\nYönetim Kurulu Asıl Üyeler: Ahmet Çakır, Ertuğrul Tan, Tamer Kaya, Lütfü Günenç, Ersin Başar, Ziya Kızılkaya, Ali Okyan, Erol Zeybel, Alparslan Karaca, Özkan Musaoğlu, Murat Kızıldağ\n\nYönetim Kurulu Yedek Üyeler: Oktay Açar, Berkay Aşgın, Eren Ersoy, Cahide Çelik, Abdullah Yaman, Ayhan Koruk, Emir Soydaş, Serkan Yavuz, Ali Doğan, Orhan Erdoğan, Abdurrahman Altuntaş",
+      "summary_tr": "Bursa Şoförler ve Otomobilciler Esnaf Odası’nın 27. Genel Kurul toplantısı gerçekleştirildi. Genel Kurul’da yapılan seçimde Bursa Şoförler ve Otomobilciler Esnaf Odası Başkanı Ahmet Çakır güven tazeledi ve ikinci dönem için üyelerden güvenoyu aldı.Merinos AKKM’de BESOB Başkanı Fahrettin Bilgit’in Divan Başkanlığında yapılan Genel Kurula, Bursa Büyükşehir Belediyesi Başkanvekili Mehmet Aydın Saldız, Osmangazi Belediye Başkanı Erkan Aydın, Büyükorhan Belediye Başkanı Kamil Turhan ve Nilüfer Belediyesi Başkan Yardımcısı Emre Karagöz ile konuk esnaf odası başkanları, esnaf kefalet kooperatifi başkanları, siyasi partilerin temsilcileri ve üyeler katıldı.\n\n\n\nGenel Kurul açılışında konuşan Bursa Şoförler ve Otomobilciler Esnaf Odası Başkanı Ahmet Çakır, “8 Ocak 2022’de göreve geldik ve o gün ne söylediysek bugün verdiğimiz bütün sözlerimizi tutmuş olarak, içimiz rahat başımız dik huzurunuzdayız” dedi.\n\n\n\n4 yıllık çalışmaları hakkında Genel Kurula bilgiler veren Başkan Ahmet Çakır, “Sadece söz değil icraat yaptık. Bu dönem kolay olmadı pandemiyi, ülke olarak asrın depremini, yangınları yaşadık ve ağır ekonomik koşulları yaşıyoruz.\n\nBu dönemde üyelerimizin durak güncellemelerini çözüme kavuşturduk, taksi plaka satışı konusunu yakından takip ettik, korsa taksi ile mücadeleyi trafik ekiplerimizle birlikte takip ettik ve bu konunun peşini bırakmıyoruz. Bursa Taksi’yi hayata geçirdik. Dolmuştan taksiye dönüşümlerde çok önemli ilerlemeler kaydettik. 22 yeni taksi durağı açılmasını sağladık.\n\n\n\nBütün bu çalışmalarımızda her zaman yanımızda olan Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey’e, İl Başkanlarımıza ve Belediye Meclis üyelerimize teşekkür ediyoruz” şeklinde konuştu.\n\n\n\nGenel Kurula katılan konukların selamlama konuşmalarının ardından gündemde yer alan maddelerin okunması, müzakeresi ve kabulü oylandı ve Ahmet Çakır ile Mustafa Akın olmak üzere iki adayın yarıştığı seçimlere geçildi.\n\n2 bin 300 üyesi bulunan Bursa Şoförler ve Otomobilciler Esnaf Odası’nın seçimleri sonucunda Ahmet Çakır 707, Mustafa Akın 496 oy aldı ve Ahmet Çakır yeniden Başkanlığa seçildi.\n\n\n\nBursa Şoförler ve Otomobilciler Esnaf Odası’nın yeni yönetim kurulu şu isimlerden oluştu:\n\nYönetim Kurulu Asıl Üyeler: Ahmet Çakır, Ertuğrul Tan, Tamer Kaya, Lütfü Günenç, Ersin Başar, Ziya Kızılkaya, Ali Okyan, Erol Zeybel, Alparslan Karaca, Özkan Musaoğlu, Murat Kızıldağ\n\nYönetim Kurulu Yedek Üyeler: Oktay Açar, Berkay Aşgın, Eren Ersoy, Cahide Çelik, Abdullah Yaman, Ayhan Koruk, Emir Soydaş, Serkan Yavuz, Ali Doğan, Orhan Erdoğan, Abdurrahman Altuntaş",
+      "long_summary": "Bursa Şoförler ve Otomobilciler Esnaf Odası’nın 27. Genel Kurul toplantısı gerçekleştirildi. Genel Kurul’da yapılan seçimde Bursa Şoförler ve Otomobilciler Esnaf Odası Başkanı Ahmet Çakır güven tazeledi ve ikinci dönem için üyelerden güvenoyu aldı.Merinos AKKM’de BESOB Başkanı Fahrettin Bilgit’in Divan Başkanlığında yapılan Genel Kurula, Bursa Büyükşehir Belediyesi Başkanvekili Mehmet Aydın Saldız, Osmangazi Belediye Başkanı Erkan Aydın, Büyükorhan Belediye Başkanı Kamil Turhan ve Nilüfer",
+      "long_summary_tr": "Bursa Şoförler ve Otomobilciler Esnaf Odası’nın 27. Genel Kurul toplantısı gerçekleştirildi. Genel Kurul’da yapılan seçimde Bursa Şoförler ve Otomobilciler Esnaf Odası Başkanı Ahmet Çakır güven tazeledi ve ikinci dönem için üyelerden güvenoyu aldı.Merinos AKKM’de BESOB Başkanı Fahrettin Bilgit’in Divan Başkanlığında yapılan Genel Kurula, Bursa Büyükşehir Belediyesi Başkanvekili Mehmet Aydın Saldız, Osmangazi Belediye Başkanı Erkan Aydın, Büyükorhan Belediye Başkanı Kamil Turhan ve Nilüfer",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-soforler-baskan-ahmet-cakir-ile-devam-dedi-1565197",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/bursa-da-soforler-baskan-ahmet-cakir-ile-devam-dedi-1768799401-323_large.webp",
+      "published_at": "2026-01-19T05:08:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İYİ Parti Kurultayı'nda Bursa’dan 4 isim üst yönetime seçildi",
+      "title_tr": "İYİ Parti Kurultayı'nda Bursa’dan 4 isim üst yönetime seçildi",
+      "summary": "İYİ Parti’nin 4. Olağan Büyük Kurultayı’nda yapılan seçimler sonucunda, Bursa’dan dört isim parti yönetim organlarında görev aldı.Kurultayda oluşturulan 60 kişilik Genel İdare Kurulu (GİK) listesine İYİ Parti Bursa Milletvekilleri Hasan Toktaş ve Selçuk Türkoğlu ile önceki dönem Bursa Milletvekili Ahmet Erozan girdi.\n\nİznik geçmiş dönem İlçe Başkanlarından Avukat Mustafa Küçük ise Merkez Disiplin Kurulu (MDK) yedek listesinde yer aldı.\n\n\n\nİL BAŞKANI KAYA’DAN DEĞERLENDİRME\n\nİYİ Parti Bursa İl Başkanı İsmail Kaya, kurultay sonuçlarına ilişkin yaptığı açıklamada, Bursa’nın Genel Merkez üst yönetiminde temsil edilmesinin önemli olduğunu belirtti. Kaya, açıklamasında, Genel Başkan Müsavat Dervişoğlu’na ve kurultaya katılan delegelere teşekkür etti.\n\n\n\nKurultay sonrası, Bursa’dan seçilen isimlerin parti politikalarının belirlenmesinde ve kentin sorunlarının Genel Merkez düzeyinde gündeme taşınmasında rol üstlenmesi bekleniyor.",
+      "summary_tr": "İYİ Parti’nin 4. Olağan Büyük Kurultayı’nda yapılan seçimler sonucunda, Bursa’dan dört isim parti yönetim organlarında görev aldı.Kurultayda oluşturulan 60 kişilik Genel İdare Kurulu (GİK) listesine İYİ Parti Bursa Milletvekilleri Hasan Toktaş ve Selçuk Türkoğlu ile önceki dönem Bursa Milletvekili Ahmet Erozan girdi.\n\nİznik geçmiş dönem İlçe Başkanlarından Avukat Mustafa Küçük ise Merkez Disiplin Kurulu (MDK) yedek listesinde yer aldı.\n\n\n\nİL BAŞKANI KAYA’DAN DEĞERLENDİRME\n\nİYİ Parti Bursa İl Başkanı İsmail Kaya, kurultay sonuçlarına ilişkin yaptığı açıklamada, Bursa’nın Genel Merkez üst yönetiminde temsil edilmesinin önemli olduğunu belirtti. Kaya, açıklamasında, Genel Başkan Müsavat Dervişoğlu’na ve kurultaya katılan delegelere teşekkür etti.\n\n\n\nKurultay sonrası, Bursa’dan seçilen isimlerin parti politikalarının belirlenmesinde ve kentin sorunlarının Genel Merkez düzeyinde gündeme taşınmasında rol üstlenmesi bekleniyor.",
+      "long_summary": "İYİ Parti’nin 4. Olağan Büyük Kurultayı’nda yapılan seçimler sonucunda, Bursa’dan dört isim parti yönetim organlarında görev aldı.Kurultayda oluşturulan 60 kişilik Genel İdare Kurulu (GİK) listesine İYİ Parti Bursa Milletvekilleri Hasan Toktaş ve Selçuk Türkoğlu ile önceki dönem Bursa Milletvekili Ahmet Erozan girdi.\n\nİznik geçmiş dönem İlçe Başkanlarından Avukat Mustafa Küçük ise Merkez Disiplin Kurulu (MDK) yedek listesinde yer aldı.\n\n\n\nİL BAŞKANI KAYA’DAN DEĞERLENDİRME\n\nİYİ Parti Bursa İl",
+      "long_summary_tr": "İYİ Parti’nin 4. Olağan Büyük Kurultayı’nda yapılan seçimler sonucunda, Bursa’dan dört isim parti yönetim organlarında görev aldı.Kurultayda oluşturulan 60 kişilik Genel İdare Kurulu (GİK) listesine İYİ Parti Bursa Milletvekilleri Hasan Toktaş ve Selçuk Türkoğlu ile önceki dönem Bursa Milletvekili Ahmet Erozan girdi.\n\nİznik geçmiş dönem İlçe Başkanlarından Avukat Mustafa Küçük ise Merkez Disiplin Kurulu (MDK) yedek listesinde yer aldı.\n\n\n\nİL BAŞKANI KAYA’DAN DEĞERLENDİRME\n\nİYİ Parti Bursa İl",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/iyi-parti-kurultayi-nda-bursa-dan-4-isim-ust-yonetime-secildi-1565195",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/iyi-parti-kurultayi-nda-bursa-dan-4-isim-ust-yonetime-secildi-1768799244-472_large.webp",
+      "published_at": "2026-01-19T05:06:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Çin ekonomisi 2025'te yüzde 5 büyüdü",
+      "title_tr": "Çin ekonomisi 2025'te yüzde 5 büyüdü",
+      "summary": "Çin ekonomisinin 2025&#039;te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştığı bildirildi. Gayri Safi Yurt İçi Hasıla (GSYH) da ilk kez 140 trilyon yuanı (20 trilyon dolar) aştı.",
+      "summary_tr": "Çin ekonomisinin 2025&#039;te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştığı bildirildi. Gayri Safi Yurt İçi Hasıla (GSYH) da ilk kez 140 trilyon yuanı (20 trilyon dolar) aştı.",
+      "long_summary": "Çin ekonomisinin 2025&#039;te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştığı bildirildi. Gayri Safi Yurt İçi Hasıla (GSYH) da ilk kez 140 trilyon yuanı (20 trilyon dolar) aştı.",
+      "long_summary_tr": "Çin ekonomisinin 2025&#039;te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştığı bildirildi. Gayri Safi Yurt İçi Hasıla (GSYH) da ilk kez 140 trilyon yuanı (20 trilyon dolar) aştı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/cin-ekonomisi-2025te-yuzde-5-buyudu-haberi-811834",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/yeni-proje-2026-01-19t082540-0izc_cover.jpg",
+      "published_at": "2026-01-19T05:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Türkiye'nin taşıt ihracatı 2025’te yüzde 4 arttı, otomobil ihracatı geriledi",
+      "title_tr": "Türkiye'nin taşıt ihracatı 2025’te yüzde 4 arttı, otomobil ihracatı geriledi",
+      "summary": "OSD'nin Aralık ayı raporuna göre, Türkiye’de 2025 yılında toplam üretimin yüzde 75’ini oluşturan 1 milyon 57 bin 920 adet taşıt ihraç edildi. İhraç edilen araçların 599 bin 687 adedini otomobiller olu...",
+      "summary_tr": "OSD'nin Aralık ayı raporuna göre, Türkiye’de 2025 yılında toplam üretimin yüzde 75’ini oluşturan 1 milyon 57 bin 920 adet taşıt ihraç edildi. İhraç edilen araçların 599 bin 687 adedini otomobiller olu...",
+      "long_summary": "OSD'nin Aralık ayı raporuna göre, Türkiye’de 2025 yılında toplam üretimin yüzde 75’ini oluşturan 1 milyon 57 bin 920 adet taşıt ihraç edildi. İhraç edilen araçların 599 bin 687 adedini otomobiller olu...",
+      "long_summary_tr": "OSD'nin Aralık ayı raporuna göre, Türkiye’de 2025 yılında toplam üretimin yüzde 75’ini oluşturan 1 milyon 57 bin 920 adet taşıt ihraç edildi. İhraç edilen araçların 599 bin 687 adedini otomobiller olu...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696dbb3667ad3132ebdff7f3/PICNEWS/tr/turkiye-nin-tasit-ihracati-2025te-yuzde-4-artti-otomobil-ihracati-geriledi-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768799025756.jpeg",
+      "published_at": "2026-01-19T05:03:50+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa'da bu hafta hava nasıl olacak? Kar yağacak mı? Meteoroloji gün gün açıkladı... (19 Ocak 2026 Hava Durumu)",
+      "title_tr": "Bursa'da bu hafta hava nasıl olacak? Kar yağacak mı? Meteoroloji gün gün açıkladı... (19 Ocak 2026 Hava Durumu)",
+      "summary": "Meteoroloji Genel Müdürlüğü’ne göre, Bursa’da gün boyunca bulutlu havanın etkili olması ve hava sıcaklığının 6 dereceye kadar çıkması bekleniyor. Peki, bu hafta yağmur hangi günlerde görülecek? Kar yağacak mı? Güncel hava durumu tahminlerinin tüm detayları haberimizde.Meteoroloji Genel Müdürlüğü’nün son tahminlerine göre, Bursa’da gün boyunca bulutlu hava etkili olacak.\n\nHava sıcaklığının öğle saatlerinde 6 dereceye kadar yükselmesi, akşam saatlerinde 3 dereceye, gece saatlerinde ise 3 derece civarına kadar düşmesi bekleniyor.\n\nBURSA'DA 5 GÜNLÜK HAVA DURUMU TAHMİNİ\n\nMeteoroloji Genel Müdürlüğü’nün tahminlerine göre, Salı ve Çarşamba günleri havanın parçalı bulutlu, Perşembe ve Cuma günleri ise yağışlı geçmesi bekleniyor.\n\nÖnümüzdeki 5 gün boyunca hava sıcaklıklarının ortalama 11 derece civarında seyredeceği öngörülüyor.\n\nİŞTE BURSA'DAKİ HAVA DURUMU DETAYLARI:\n\nSALI: Bulutlu, sıcaklık 8 derece\n\nÇARŞAMBA: Parçalı bulutlu, sıcaklık 8 derece\n\nPERŞEMBE: Yağmurlu, sıcaklık 14 derece\n\nCUMA: Yağmurlu, sıcaklık 16 derece\n\nİŞTE BURSA İÇİN SAATLİK HAVA DURUMU TAHMİNİ (19 OCAK 2025)\n\n\n\nİŞTE BURSA İÇİN 5 GÜNLÜK HAVA DURUMU TAHMİNİ (19 OCAK 2025)",
+      "summary_tr": "Meteoroloji Genel Müdürlüğü’ne göre, Bursa’da gün boyunca bulutlu havanın etkili olması ve hava sıcaklığının 6 dereceye kadar çıkması bekleniyor. Peki, bu hafta yağmur hangi günlerde görülecek? Kar yağacak mı? Güncel hava durumu tahminlerinin tüm detayları haberimizde.Meteoroloji Genel Müdürlüğü’nün son tahminlerine göre, Bursa’da gün boyunca bulutlu hava etkili olacak.\n\nHava sıcaklığının öğle saatlerinde 6 dereceye kadar yükselmesi, akşam saatlerinde 3 dereceye, gece saatlerinde ise 3 derece civarına kadar düşmesi bekleniyor.\n\nBURSA'DA 5 GÜNLÜK HAVA DURUMU TAHMİNİ\n\nMeteoroloji Genel Müdürlüğü’nün tahminlerine göre, Salı ve Çarşamba günleri havanın parçalı bulutlu, Perşembe ve Cuma günleri ise yağışlı geçmesi bekleniyor.\n\nÖnümüzdeki 5 gün boyunca hava sıcaklıklarının ortalama 11 derece civarında seyredeceği öngörülüyor.\n\nİŞTE BURSA'DAKİ HAVA DURUMU DETAYLARI:\n\nSALI: Bulutlu, sıcaklık 8 derece\n\nÇARŞAMBA: Parçalı bulutlu, sıcaklık 8 derece\n\nPERŞEMBE: Yağmurlu, sıcaklık 14 derece\n\nCUMA: Yağmurlu, sıcaklık 16 derece\n\nİŞTE BURSA İÇİN SAATLİK HAVA DURUMU TAHMİNİ (19 OCAK 2025)\n\n\n\nİŞTE BURSA İÇİN 5 GÜNLÜK HAVA DURUMU TAHMİNİ (19 OCAK 2025)",
+      "long_summary": "Meteoroloji Genel Müdürlüğü’ne göre, Bursa’da gün boyunca bulutlu havanın etkili olması ve hava sıcaklığının 6 dereceye kadar çıkması bekleniyor. Peki, bu hafta yağmur hangi günlerde görülecek? Kar yağacak mı? Güncel hava durumu tahminlerinin tüm detayları haberimizde.Meteoroloji Genel Müdürlüğü’nün son tahminlerine göre, Bursa’da gün boyunca bulutlu hava etkili olacak.\n\nHava sıcaklığının öğle saatlerinde 6 dereceye kadar yükselmesi, akşam saatlerinde 3 dereceye, gece saatlerinde ise 3 derece",
+      "long_summary_tr": "Meteoroloji Genel Müdürlüğü’ne göre, Bursa’da gün boyunca bulutlu havanın etkili olması ve hava sıcaklığının 6 dereceye kadar çıkması bekleniyor. Peki, bu hafta yağmur hangi günlerde görülecek? Kar yağacak mı? Güncel hava durumu tahminlerinin tüm detayları haberimizde.Meteoroloji Genel Müdürlüğü’nün son tahminlerine göre, Bursa’da gün boyunca bulutlu hava etkili olacak.\n\nHava sıcaklığının öğle saatlerinde 6 dereceye kadar yükselmesi, akşam saatlerinde 3 dereceye, gece saatlerinde ise 3 derece",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bu-hafta-hava-nasil-olacak-kar-yagacak-mi-meteoroloji-gun-gun-acikladi-19-ocak-2026-hava-durumu-1565203",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/19/bursa-da-bu-hafta-hava-nasil-olacak-kar-yagacak-mi-meteoroloji-gun-gun-acikladi-19-ocak-2026-hava-durumu-1768799897-408_large.webp",
+      "published_at": "2026-01-19T05:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Trump'tan 'Danimarka Grönland'ı Rus tehdidinden korumuyor' paylaşımı",
+      "title_tr": "Trump'tan 'Danimarka Grönland'ı Rus tehdidinden korumuyor' paylaşımı",
+      "summary": "ABD Başkanı Donald Trump, Danimarka'nın Grönland'ı \"Rus tehdidinden korumak için hiçbir şey yapamadığını\" savunarak, \"Artık zamanı geldi ve bu yapılacak\" ifadelerini kullandı.",
+      "summary_tr": "ABD Başkanı Donald Trump, Danimarka'nın Grönland'ı \"Rus tehdidinden korumak için hiçbir şey yapamadığını\" savunarak, \"Artık zamanı geldi ve bu yapılacak\" ifadelerini kullandı.",
+      "long_summary": "ABD Başkanı Donald Trump, Danimarka'nın Grönland'ı \"Rus tehdidinden korumak için hiçbir şey yapamadığını\" savunarak, \"Artık zamanı geldi ve bu yapılacak\" ifadelerini kullandı.",
+      "long_summary_tr": "ABD Başkanı Donald Trump, Danimarka'nın Grönland'ı \"Rus tehdidinden korumak için hiçbir şey yapamadığını\" savunarak, \"Artık zamanı geldi ve bu yapılacak\" ifadelerini kullandı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/trump-tan-danimarka-gronland-i-rus-tehdidinden-korumuyor-paylasimi-3766640",
+      "image": null,
+      "published_at": "2026-01-19T05:01:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Bilgisayarınız Tehlikede: Windows’u Hemen Güncelleyin!",
+      "title_tr": "Bilgisayarınız Tehlikede: Windows’u Hemen Güncelleyin!",
+      "summary": "Microsoft, Ocak 2026 güvenlik güncellemesiyle ortaya çıkan ve kullanıcıları mağdur eden kritik hataları gidermek için acil bir onarım paketi yayınladı. Teknoloji devi, planlanmış takvimin dışına çıkarak sunduğu bu güncellemeyle, özellikle Windows 11 cihazlarda baş gösteren ciddi problemleri çözmeyi hedefliyor. Microsoft’tan Windows 11 Kapanma Sorunu İçin Acil Düzeltme Geldi Yayınlanan bu acil düzeltme, öncelikle Windows 11 […]",
+      "summary_tr": "Microsoft, Ocak 2026 güvenlik güncellemesiyle ortaya çıkan ve kullanıcıları mağdur eden kritik hataları gidermek için acil bir onarım paketi yayınladı. Teknoloji devi, planlanmış takvimin dışına çıkarak sunduğu bu güncellemeyle, özellikle Windows 11 cihazlarda baş gösteren ciddi problemleri çözmeyi hedefliyor. Microsoft’tan Windows 11 Kapanma Sorunu İçin Acil Düzeltme Geldi Yayınlanan bu acil düzeltme, öncelikle Windows 11 […]",
+      "long_summary": "Microsoft, Ocak 2026 güvenlik güncellemesiyle ortaya çıkan ve kullanıcıları mağdur eden kritik hataları gidermek için acil bir onarım paketi yayınladı. Teknoloji devi, planlanmış takvimin dışına çıkarak sunduğu bu güncellemeyle, özellikle Windows 11 cihazlarda baş gösteren ciddi problemleri çözmeyi hedefliyor. Microsoft’tan Windows 11 Kapanma Sorunu İçin Acil Düzeltme Geldi Yayınlanan bu acil düzeltme, öncelikle Windows 11 […]",
+      "long_summary_tr": "Microsoft, Ocak 2026 güvenlik güncellemesiyle ortaya çıkan ve kullanıcıları mağdur eden kritik hataları gidermek için acil bir onarım paketi yayınladı. Teknoloji devi, planlanmış takvimin dışına çıkarak sunduğu bu güncellemeyle, özellikle Windows 11 cihazlarda baş gösteren ciddi problemleri çözmeyi hedefliyor. Microsoft’tan Windows 11 Kapanma Sorunu İçin Acil Düzeltme Geldi Yayınlanan bu acil düzeltme, öncelikle Windows 11 […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/bilgisayariniz-tehlikede-windowsu-hemen-guncelleyin",
+      "image": null,
+      "published_at": "2026-01-19T05:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Primal Season 3, Episode 2 Review",
+      "title_tr": "Primal Season 3, Episode 2 Review",
+      "summary": "Review: Primal Season 3 continues to be at the top of its game with Episode 2, as it’s quickly become clear that the show has no interest in only giving us a zombified version of Spear walking around for the whole season.",
+      "summary_tr": "Review: Primal Season 3 continues to be at the top of its game with Episode 2, as it’s quickly become clear that the show has no interest in only giving us a zombified version of Spear walking around for the whole season.",
+      "long_summary": "Review: Primal Season 3 continues to be at the top of its game with Episode 2, as it’s quickly become clear that the show has no interest in only giving us a zombified version of Spear walking around for the whole season.",
+      "long_summary_tr": "Review: Primal Season 3 continues to be at the top of its game with Episode 2, as it’s quickly become clear that the show has no interest in only giving us a zombified version of Spear walking around for the whole season.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/primal-season-3-episode-2-review-recap",
+      "image": "https://assets-prd.ignimgs.com/2026/01/17/primal-season-3-episode-2-thumb-1768614779977.jpg",
+      "published_at": "2026-01-19T05:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Autocar",
+      "title": "We try Audi’s new tech innovations – with sideways consequences",
+      "title_tr": "We try Audi’s new tech innovations – with sideways consequences",
+      "summary": "Several Audi models are getting an upgrade this year. We head to Germany to test them out\n\nThe undeniable high pitched scream of rear tyres that are going full shopping trolley is filling the air of Audi’s test facility in Neuberg. \nWhich is really saying something, because Eurofighter Typhoons are testing at the local military base. And the shrill of fresh Hankooks delaminating is not coming from an R8, E-tron GT or RS3 but from an S5 Avant.\nBecause even Audi's estates are letting their hair down in 2026.. a bit, anyway. A new driving mode called Dynamic Plus is coming to the S5 and the S6 E-tron.\nIn typical Audi understated fashion, it’s a button on the screen within the Dynamic drive mode setting, but it makes a huge difference. I tried it in the S5 with its 3.0-litre V6 petrol engine, and it really changed the way the thing drove.\nAudi’s technical engineers described it to me as being a bit of a drift mode light. It’s very much aimed at the road, whereas that full-on smoke show mode of the RS3 is made for the track.\nFundamentally, Dynamic Plus mode is designed to make the car more rear-biased, allowing more torque to the rear axle and specifically the outside rear wheel to the corner you’re going around. At the same time, it knocks the stability control system (ESC) into Sport mode, which allows for a good chunk more slip.\nIt’s a peculiar set-up that takes a bit of getting used to. In something lightweight and rear-wheel-drive, there are a few ways to initiate a skid: Scandinavian flick, lift-off oversteer, simply mashing your right foot into the carpet. But with this you mostly do it through the steering rather than the accelerator.\nYou need to give it an aggressive bung into a corner to really initiate oversteer, and then it’s about keeping the throttle constant if you want to maintain a drifty arc.\nThere’s safe reliable understeer to fall back on if things go wrong, that is actually quite hard to correct. But the steering angle you can get on when you get it right, even with the ESC essentially on, is pretty amazing. And it’s the kind of thing that you can get your head around in 30 minutes or so.\nI never thought a regular S Audi estate would be able to be this rear-biased.\nAutomatic parking\n\nAudi's optional Park Assist Pro system is getting a new feature called Trained Parking.\nIt works a bit like a robot vacuum cleaner: you select a starting point on the car’s infotainment system, show it what to do by driving the route, select an end point and, voilà, it will have learned the route. \nIf you had a bit of a driveway and a garage, you could easily teach the car to park itself.\nIt can save five different parking manoeuvres, each up to 200 metres long. And yes, they can be performed consecutively, so you could theoretically get the car to self-park for 1000 metres if you so wished.\nAI upgrade\nI have experienced an earlier version of Audi’s ChatGPT integration. It involved an engineer asking Audi’s infotainment system (with ChatGPT baked in) how to make a cake. It then gave a detailed answer, albeit through a car stereo while I was driving – not exactly Mary Berry.\nThis second version makes a bit more sense. The large language model courtesy of OpenAI (ChatGPT’s parent company) now has access to the car’s manual. I asked it how to fill up the windscreen washer and it gave me a very complete answer - basically that the filler was in the frunk. It told me what to fill it with too. Vague destinations - such as “the Italian restaurant with a view of the Rhine” - can now be searched for via voice command too.\nExperience worlds\nAudi has created new “mood scenarios”, which are effectively modes you select via the infotainment system that use interior lighting, sound, massage functions and climate control settings to create a new “atmosphere” in the car.\nThe beat of the music being played is affected by speed and acceleration. There are “stings” - effectively drums or little breaks in the music when you go past certain speeds.\nThe engineers say that in the future, this feature could even be synced up with your Spotify library.\nIf the artwork of the currently playing song is displayed on the touchscreen, it changes the colours of the ambient lighting to match.\nIn-car gaming\n\nThe infotainment system now allows proper gaming. You can connect a controller via Bluetooth and play games accessed from the Audi app store.\nI had a go on a driving game called Asphalt Legend. It worked very well: there was no perceivable lag and the graphics on the screen looked great.\nImportantly, the front passenger can play games on their own touchscreen too – while the driver is driving. And the driver won’t be able to see it.\nThe passenger can now also pair Bluetooth headphones to this second screen.\nBraking\nAudi has a new regenerative braking system. There’s no official name for it, but the working title was ‘Recuperation to Stop’. Snappy.\nThis essentially improves the regenerative braking to the point where the electric cars can decelerate to a standstill without transitioning to conventional friction braking.\nThe upside? Slowing down is much more comfortable. The rocking back and forth experienced with heavy SUVs is minimised. I tried it on a Q6 E-tron with and without the system active, and it made a marked difference.",
+      "summary_tr": "Several Audi models are getting an upgrade this year. We head to Germany to test them out\n\nThe undeniable high pitched scream of rear tyres that are going full shopping trolley is filling the air of Audi’s test facility in Neuberg. \nWhich is really saying something, because Eurofighter Typhoons are testing at the local military base. And the shrill of fresh Hankooks delaminating is not coming from an R8, E-tron GT or RS3 but from an S5 Avant.\nBecause even Audi's estates are letting their hair down in 2026.. a bit, anyway. A new driving mode called Dynamic Plus is coming to the S5 and the S6 E-tron.\nIn typical Audi understated fashion, it’s a button on the screen within the Dynamic drive mode setting, but it makes a huge difference. I tried it in the S5 with its 3.0-litre V6 petrol engine, and it really changed the way the thing drove.\nAudi’s technical engineers described it to me as being a bit of a drift mode light. It’s very much aimed at the road, whereas that full-on smoke show mode of the RS3 is made for the track.\nFundamentally, Dynamic Plus mode is designed to make the car more rear-biased, allowing more torque to the rear axle and specifically the outside rear wheel to the corner you’re going around. At the same time, it knocks the stability control system (ESC) into Sport mode, which allows for a good chunk more slip.\nIt’s a peculiar set-up that takes a bit of getting used to. In something lightweight and rear-wheel-drive, there are a few ways to initiate a skid: Scandinavian flick, lift-off oversteer, simply mashing your right foot into the carpet. But with this you mostly do it through the steering rather than the accelerator.\nYou need to give it an aggressive bung into a corner to really initiate oversteer, and then it’s about keeping the throttle constant if you want to maintain a drifty arc.\nThere’s safe reliable understeer to fall back on if things go wrong, that is actually quite hard to correct. But the steering angle you can get on when you get it right, even with the ESC essentially on, is pretty amazing. And it’s the kind of thing that you can get your head around in 30 minutes or so.\nI never thought a regular S Audi estate would be able to be this rear-biased.\nAutomatic parking\n\nAudi's optional Park Assist Pro system is getting a new feature called Trained Parking.\nIt works a bit like a robot vacuum cleaner: you select a starting point on the car’s infotainment system, show it what to do by driving the route, select an end point and, voilà, it will have learned the route. \nIf you had a bit of a driveway and a garage, you could easily teach the car to park itself.\nIt can save five different parking manoeuvres, each up to 200 metres long. And yes, they can be performed consecutively, so you could theoretically get the car to self-park for 1000 metres if you so wished.\nAI upgrade\nI have experienced an earlier version of Audi’s ChatGPT integration. It involved an engineer asking Audi’s infotainment system (with ChatGPT baked in) how to make a cake. It then gave a detailed answer, albeit through a car stereo while I was driving – not exactly Mary Berry.\nThis second version makes a bit more sense. The large language model courtesy of OpenAI (ChatGPT’s parent company) now has access to the car’s manual. I asked it how to fill up the windscreen washer and it gave me a very complete answer - basically that the filler was in the frunk. It told me what to fill it with too. Vague destinations - such as “the Italian restaurant with a view of the Rhine” - can now be searched for via voice command too.\nExperience worlds\nAudi has created new “mood scenarios”, which are effectively modes you select via the infotainment system that use interior lighting, sound, massage functions and climate control settings to create a new “atmosphere” in the car.\nThe beat of the music being played is affected by speed and acceleration. There are “stings” - effectively drums or little breaks in the music when you go past certain speeds.\nThe engineers say that in the future, this feature could even be synced up with your Spotify library.\nIf the artwork of the currently playing song is displayed on the touchscreen, it changes the colours of the ambient lighting to match.\nIn-car gaming\n\nThe infotainment system now allows proper gaming. You can connect a controller via Bluetooth and play games accessed from the Audi app store.\nI had a go on a driving game called Asphalt Legend. It worked very well: there was no perceivable lag and the graphics on the screen looked great.\nImportantly, the front passenger can play games on their own touchscreen too – while the driver is driving. And the driver won’t be able to see it.\nThe passenger can now also pair Bluetooth headphones to this second screen.\nBraking\nAudi has a new regenerative braking system. There’s no official name for it, but the working title was ‘Recuperation to Stop’. Snappy.\nThis essentially improves the regenerative braking to the point where the electric cars can decelerate to a standstill without transitioning to conventional friction braking.\nThe upside? Slowing down is much more comfortable. The rocking back and forth experienced with heavy SUVs is minimised. I tried it on a Q6 E-tron with and without the system active, and it made a marked difference.",
+      "long_summary": "Several Audi models are getting an upgrade this year. We head to Germany to test them out\n\nThe undeniable high pitched scream of rear tyres that are going full shopping trolley is filling the air of Audi’s test facility in Neuberg. \nWhich is really saying something, because Eurofighter Typhoons are testing at the local military base. And the shrill of fresh Hankooks delaminating is not coming from an R8, E-tron GT or RS3 but from an S5 Avant.\nBecause even Audi's estates are letting their hair",
+      "long_summary_tr": "Several Audi models are getting an upgrade this year. We head to Germany to test them out\n\nThe undeniable high pitched scream of rear tyres that are going full shopping trolley is filling the air of Audi’s test facility in Neuberg. \nWhich is really saying something, because Eurofighter Typhoons are testing at the local military base. And the shrill of fresh Hankooks delaminating is not coming from an R8, E-tron GT or RS3 but from an S5 Avant.\nBecause even Audi's estates are letting their hair",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://www.autocar.co.uk/car-news/features/we-try-audi%E2%80%99s-new-tech-innovations-%E2%80%93-sideways-consequences",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/auditechday.jpg?itok=axnBy44F",
+      "published_at": "2026-01-19T05:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Autocar",
+      "title": "New 2027 Ford Bronco: CEO hints at name for crucial Kodiaq rival",
+      "title_tr": "New 2027 Ford Bronco: CEO hints at name for crucial Kodiaq rival",
+      "summary": "Ford's new SUV will be related to the Kuga and take visual cues from the legendary Bronco\n\n\nIndirect replacement for Focus will be a Spanish-built Kuga sibling with rugged design\n\nFord boss Jim Farley has given the strongest hint yet that a forthcoming new SUV for Europe will take the Bronco name, outlining global ambitions for the fabled off-roader.\nAs reported by Autocar, Ford is preparing to launch a chunky new SUV inspired by its iconic US-market 4x4 to serve as an indirect replacement for the Focus, which was last year retired after 27 years.\nThe new American-flavoured crossover will be produced in Valencia, Spain, alongside the closely related Kuga SUV.\nIt will arrive in 2027, six years after Ford revived the Bronco after a 25-year-break to serve as a Jeep Wrangler rival. \nSince its return, the Bronco has been a huge sales hit, spawning multiple variants such as the more road-focused Bronco Sport and even an unrelated China-specific Bronco that's offered with either an electric or range-extender (REx) powertrain.\nSpeaking at the Detroit motor show, Farley said \"the Bronco line-up is filling out globally, and I don't think the media has caught onto that yet\", suggesting that the US 4x4's name will also be used in Europe. He added: \"We have great plans globally for Bronco.”\nFord is planning to launch a string of REx and hybrid cars in the US market in the coming years, and Farley said that buyers “should expect a lot of exciting powertrains for Bronco”. However, he added that there are currently no plans to offer the Chinese-market Bronco New Energy in the US.\nFord's European Bronco: what we know\nFord's crucial new SUV is expected to arrive next year.\nIt could be the first new car launched by Ford under the leadership of recently appointed Europe boss Jim Baumbick, under whom the company said it will look to “develop products relevant for European customers and drive faster, more efficient execution”.\nThe new SUV is set to share the Kuga’s C2 platform and will likewise be offered with plug-in hybrid power, in line with Ford’s strategy to continue with combustion engines in Europe following lower than expected demand for EVs.\nNo pure-electric version is currently understood to be in the pipeline.\nHowever, the SUV will be extensively differentiated from the Kuga by way of a completely bespoke design treatment that takes heavy inspiration from Ford’s US line-up – with the long-running Bronco 4x4 cited as a chief influence.\nFord is leveraging its American heritage in the design of its new European-market models as part of a drive to emphasise its origins and better stand out from rivals new and old – a treatment first deployed on the Explorer electric SUV (below), which features a similarly blocky, straight-edged silhouette to its larger US-market namesake.\n\nThe new model – which is tipped to take the Bronco name – is likely to be a much more traditional ‘two-box’ SUV, compared with the Kuga, with upright proportions and a more rugged design that nods to the existing Bronco’s off-road ability. The US-market Bronco Sport gives a good idea of what to expect.\nFord is employing a similar tactic to JLR, Mercedes-Benz and Toyota in channelling the spirit of its halo 4x4 for a more mainstream family crossover. Those marques will respectively launch downsized versions of the Defender, G-Class and Land Cruiser over the next two years.\nThe new Bronco will be less premium-focused than the similarly conceived ‘Defender Sport’ and ‘Little G’, though, because it has a crucial role to play in Ford’s plan to rebuild its significantly diminished market share in Europe.\nAdding a new ICE-powered C-segment SUV will help Ford to compensate for the lacklustre commercial performance of the Capri and Explorer EVs. These two models have sold far slower than expected, prompting swingeing job cuts at the factory in Cologne, Germany, where they are built.\nTo that end, it will be sized and priced to do battle in Europe’s most popular car segment, facing off with some of the region’s biggest-selling models, including the Volkswagen Tiguan, Kia Sportage and Hyundai Tucson. Other natural rivals include the freshly launched Jeep Compass – another 4x4-inspired electrified family crossover – and the Skoda Kodiaq.",
+      "summary_tr": "Ford's new SUV will be related to the Kuga and take visual cues from the legendary Bronco\n\n\nIndirect replacement for Focus will be a Spanish-built Kuga sibling with rugged design\n\nFord boss Jim Farley has given the strongest hint yet that a forthcoming new SUV for Europe will take the Bronco name, outlining global ambitions for the fabled off-roader.\nAs reported by Autocar, Ford is preparing to launch a chunky new SUV inspired by its iconic US-market 4x4 to serve as an indirect replacement for the Focus, which was last year retired after 27 years.\nThe new American-flavoured crossover will be produced in Valencia, Spain, alongside the closely related Kuga SUV.\nIt will arrive in 2027, six years after Ford revived the Bronco after a 25-year-break to serve as a Jeep Wrangler rival. \nSince its return, the Bronco has been a huge sales hit, spawning multiple variants such as the more road-focused Bronco Sport and even an unrelated China-specific Bronco that's offered with either an electric or range-extender (REx) powertrain.\nSpeaking at the Detroit motor show, Farley said \"the Bronco line-up is filling out globally, and I don't think the media has caught onto that yet\", suggesting that the US 4x4's name will also be used in Europe. He added: \"We have great plans globally for Bronco.”\nFord is planning to launch a string of REx and hybrid cars in the US market in the coming years, and Farley said that buyers “should expect a lot of exciting powertrains for Bronco”. However, he added that there are currently no plans to offer the Chinese-market Bronco New Energy in the US.\nFord's European Bronco: what we know\nFord's crucial new SUV is expected to arrive next year.\nIt could be the first new car launched by Ford under the leadership of recently appointed Europe boss Jim Baumbick, under whom the company said it will look to “develop products relevant for European customers and drive faster, more efficient execution”.\nThe new SUV is set to share the Kuga’s C2 platform and will likewise be offered with plug-in hybrid power, in line with Ford’s strategy to continue with combustion engines in Europe following lower than expected demand for EVs.\nNo pure-electric version is currently understood to be in the pipeline.\nHowever, the SUV will be extensively differentiated from the Kuga by way of a completely bespoke design treatment that takes heavy inspiration from Ford’s US line-up – with the long-running Bronco 4x4 cited as a chief influence.\nFord is leveraging its American heritage in the design of its new European-market models as part of a drive to emphasise its origins and better stand out from rivals new and old – a treatment first deployed on the Explorer electric SUV (below), which features a similarly blocky, straight-edged silhouette to its larger US-market namesake.\n\nThe new model – which is tipped to take the Bronco name – is likely to be a much more traditional ‘two-box’ SUV, compared with the Kuga, with upright proportions and a more rugged design that nods to the existing Bronco’s off-road ability. The US-market Bronco Sport gives a good idea of what to expect.\nFord is employing a similar tactic to JLR, Mercedes-Benz and Toyota in channelling the spirit of its halo 4x4 for a more mainstream family crossover. Those marques will respectively launch downsized versions of the Defender, G-Class and Land Cruiser over the next two years.\nThe new Bronco will be less premium-focused than the similarly conceived ‘Defender Sport’ and ‘Little G’, though, because it has a crucial role to play in Ford’s plan to rebuild its significantly diminished market share in Europe.\nAdding a new ICE-powered C-segment SUV will help Ford to compensate for the lacklustre commercial performance of the Capri and Explorer EVs. These two models have sold far slower than expected, prompting swingeing job cuts at the factory in Cologne, Germany, where they are built.\nTo that end, it will be sized and priced to do battle in Europe’s most popular car segment, facing off with some of the region’s biggest-selling models, including the Volkswagen Tiguan, Kia Sportage and Hyundai Tucson. Other natural rivals include the freshly launched Jeep Compass – another 4x4-inspired electrified family crossover – and the Skoda Kodiaq.",
+      "long_summary": "Ford's new SUV will be related to the Kuga and take visual cues from the legendary Bronco\n\n\nIndirect replacement for Focus will be a Spanish-built Kuga sibling with rugged design\n\nFord boss Jim Farley has given the strongest hint yet that a forthcoming new SUV for Europe will take the Bronco name, outlining global ambitions for the fabled off-roader.\nAs reported by Autocar, Ford is preparing to launch a chunky new SUV inspired by its iconic US-market 4x4 to serve as an indirect replacement for",
+      "long_summary_tr": "Ford's new SUV will be related to the Kuga and take visual cues from the legendary Bronco\n\n\nIndirect replacement for Focus will be a Spanish-built Kuga sibling with rugged design\n\nFord boss Jim Farley has given the strongest hint yet that a forthcoming new SUV for Europe will take the Bronco name, outlining global ambitions for the fabled off-roader.\nAs reported by Autocar, Ford is preparing to launch a chunky new SUV inspired by its iconic US-market 4x4 to serve as an indirect replacement for",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-ford-bronco-ceo-hints-name-crucial-kodiaq-rival",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ford_suv_render_2025-webjpg.jpg?itok=54Egea8V",
+      "published_at": "2026-01-19T05:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "BlackRock'tan Rick Rieder, Fed başkanlığı yarışında öne çıktı",
+      "title_tr": "BlackRock'tan Rick Rieder, Fed başkanlığı yarışında öne çıktı",
+      "summary": "BlackRock'un küresel sabit getiriden sorumlu baş yatırım sorumlusu Rick Rieder'ın bir sonraki Federal Rezerv Başkanı adaylığında son dönemde ivme kazandığı belirtiliyor.",
+      "summary_tr": "BlackRock'un küresel sabit getiriden sorumlu baş yatırım sorumlusu Rick Rieder'ın bir sonraki Federal Rezerv Başkanı adaylığında son dönemde ivme kazandığı belirtiliyor.",
+      "long_summary": "BlackRock'un küresel sabit getiriden sorumlu baş yatırım sorumlusu Rick Rieder'ın bir sonraki Federal Rezerv Başkanı adaylığında son dönemde ivme kazandığı belirtiliyor.",
+      "long_summary_tr": "BlackRock'un küresel sabit getiriden sorumlu baş yatırım sorumlusu Rick Rieder'ın bir sonraki Federal Rezerv Başkanı adaylığında son dönemde ivme kazandığı belirtiliyor.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696dba1d2663b328fe317b02/PICNEWS/tr/blackrock-tan-rick-rieder-fed-baskanligi-yarisinda-one-cikti-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768798744717.jpeg",
+      "published_at": "2026-01-19T04:59:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Otomotiv üretimi 2025’te yüzde 4 arttı, otomobil üretimi geriledi",
+      "title_tr": "Otomotiv üretimi 2025’te yüzde 4 arttı, otomobil üretimi geriledi",
+      "summary": "Türkiye’de toplam otomotiv üretimi 2025 yılında bir önceki yıla göre yüzde 4 artarak 1 milyon 419 bin 464 adet oldu. Aynı dönemde otomobil üretimi ise yüzde 4 azalarak 872 bin 538 adet seviyesinde ger...",
+      "summary_tr": "Türkiye’de toplam otomotiv üretimi 2025 yılında bir önceki yıla göre yüzde 4 artarak 1 milyon 419 bin 464 adet oldu. Aynı dönemde otomobil üretimi ise yüzde 4 azalarak 872 bin 538 adet seviyesinde ger...",
+      "long_summary": "Türkiye’de toplam otomotiv üretimi 2025 yılında bir önceki yıla göre yüzde 4 artarak 1 milyon 419 bin 464 adet oldu. Aynı dönemde otomobil üretimi ise yüzde 4 azalarak 872 bin 538 adet seviyesinde ger...",
+      "long_summary_tr": "Türkiye’de toplam otomotiv üretimi 2025 yılında bir önceki yıla göre yüzde 4 artarak 1 milyon 419 bin 464 adet oldu. Aynı dönemde otomobil üretimi ise yüzde 4 azalarak 872 bin 538 adet seviyesinde ger...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696db9b02663b328fe317b01/PICNEWS/tr/otomotiv-uretimi-2025te-yuzde-4-artti-otomobil-uretimi-geriledi-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768798632876.jpeg",
+      "published_at": "2026-01-19T04:57:20+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "İstanbul’da kar etkisi: Trafik yoğunluğu yüzde 80’e ulaştı",
+      "title_tr": "İstanbul’da kar etkisi: Trafik yoğunluğu yüzde 80’e ulaştı",
+      "summary": "İstanbul’da kar yağışının etkisini sürdürdüğü haftanın ilk gününde trafik yoğunluğu yeniden yükseldi. Okulların yarıyıl tatilinde olmasına rağmen, sabah saatleri itibarıyla kent genelinde yoğunluk yüzde 80 seviyesine çıktı.",
+      "summary_tr": "İstanbul’da kar yağışının etkisini sürdürdüğü haftanın ilk gününde trafik yoğunluğu yeniden yükseldi. Okulların yarıyıl tatilinde olmasına rağmen, sabah saatleri itibarıyla kent genelinde yoğunluk yüzde 80 seviyesine çıktı.",
+      "long_summary": "İstanbul’da kar yağışının etkisini sürdürdüğü haftanın ilk gününde trafik yoğunluğu yeniden yükseldi. Okulların yarıyıl tatilinde olmasına rağmen, sabah saatleri itibarıyla kent genelinde yoğunluk yüzde 80 seviyesine çıktı.",
+      "long_summary_tr": "İstanbul’da kar yağışının etkisini sürdürdüğü haftanın ilk gününde trafik yoğunluğu yeniden yükseldi. Okulların yarıyıl tatilinde olmasına rağmen, sabah saatleri itibarıyla kent genelinde yoğunluk yüzde 80 seviyesine çıktı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/istanbulda-kar-etkisi-trafik-yogunlugu-yuzde-80e-ulasti-haberi-811832",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/istanbul-kar-trafik-wwfm_cover.jpg",
+      "published_at": "2026-01-19T04:56:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Resmi Gazete'de bugün (19 Ocak 2026 Resmi Gazete kararları)",
+      "title_tr": "Resmi Gazete'de bugün (19 Ocak 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 19 Ocak 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Peki, Resmi Gazete'de bugün neler var? İşte 19 Ocak 2026 tarihli ve 33142 Sayılı Resmi Gazete ayrıntıları.",
+      "summary_tr": "Resmi Gazete'de 19 Ocak 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Peki, Resmi Gazete'de bugün neler var? İşte 19 Ocak 2026 tarihli ve 33142 Sayılı Resmi Gazete ayrıntıları.",
+      "long_summary": "Resmi Gazete'de 19 Ocak 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Peki, Resmi Gazete'de bugün neler var? İşte 19 Ocak 2026 tarihli ve 33142 Sayılı Resmi Gazete ayrıntıları.",
+      "long_summary_tr": "Resmi Gazete'de 19 Ocak 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Peki, Resmi Gazete'de bugün neler var? İşte 19 Ocak 2026 tarihli ve 33142 Sayılı Resmi Gazete ayrıntıları.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/resmi-gazetede-bugun-19-ocak-2026-resmi-gazete-kararlari-1708053",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_d6a254b33abdc49866289-774765.jpg",
+      "published_at": "2026-01-19T04:54:21+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Bakır fiyatlarında artış",
+      "title_tr": "Bakır fiyatlarında artış",
+      "summary": "Londra Metal Borsası'nda bakır, Şanghay saatiyle 11.15 itibarıyla yüzde 1,3 artış göstererek ton başına 12 bin 965 dolara yükseldi.",
+      "summary_tr": "Londra Metal Borsası'nda bakır, Şanghay saatiyle 11.15 itibarıyla yüzde 1,3 artış göstererek ton başına 12 bin 965 dolara yükseldi.",
+      "long_summary": "Londra Metal Borsası'nda bakır, Şanghay saatiyle 11.15 itibarıyla yüzde 1,3 artış göstererek ton başına 12 bin 965 dolara yükseldi.",
+      "long_summary_tr": "Londra Metal Borsası'nda bakır, Şanghay saatiyle 11.15 itibarıyla yüzde 1,3 artış göstererek ton başına 12 bin 965 dolara yükseldi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/bakir-fiyatarinda-artis-3766639",
+      "image": null,
+      "published_at": "2026-01-19T04:47:41+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Trump’tan Grönland resti: Artık zamanı geldi, bu yapılacak",
+      "title_tr": "Trump’tan Grönland resti: Artık zamanı geldi, bu yapılacak",
+      "summary": "ABD Başkanı Donald Trump, Danimarka’nın Grönland’ı Rus tehdidine karşı koruyamadığını savunarak, “Artık zamanı geldi ve bu yapılacak” ifadelerini kullandı.",
+      "summary_tr": "ABD Başkanı Donald Trump, Danimarka’nın Grönland’ı Rus tehdidine karşı koruyamadığını savunarak, “Artık zamanı geldi ve bu yapılacak” ifadelerini kullandı.",
+      "long_summary": "ABD Başkanı Donald Trump, Danimarka’nın Grönland’ı Rus tehdidine karşı koruyamadığını savunarak, “Artık zamanı geldi ve bu yapılacak” ifadelerini kullandı.",
+      "long_summary_tr": "ABD Başkanı Donald Trump, Danimarka’nın Grönland’ı Rus tehdidine karşı koruyamadığını savunarak, “Artık zamanı geldi ve bu yapılacak” ifadelerini kullandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/trumptan-gronland-resti-artik-zamani-geldi-bu-yapilacak-haberi-811831",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/trump1-z9zb_cover.jpg",
+      "published_at": "2026-01-19T04:46:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "9 ile uyarı yapıldı. Kar daha da kuvvetli yağacak",
+      "title_tr": "9 ile uyarı yapıldı. Kar daha da kuvvetli yağacak",
+      "summary": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "summary_tr": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "long_summary": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "long_summary_tr": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/galeri/turkiye/9-ile-sari-kodlu-uyari-kar-daha-da-kuvvetli-yagacak-1708047",
+      "image": "https://images.ntv.com.tr/images/kar6-845271.jpg",
+      "published_at": "2026-01-19T04:44:55+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Rams win overtime thriller to join Patriots in NFL final four",
+      "title_tr": "Rams win overtime thriller to join Patriots in NFL final four",
+      "summary": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
+      "summary_tr": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
+      "long_summary": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
+      "long_summary_tr": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/american-football/articles/c5y294wl480o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1527/live/9e53b950-f4f4-11f0-b385-5f48925de19a.png",
+      "published_at": "2026-01-19T04:44:40+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Meteoroloji’den 6 bölge için yağış uyarısı: 9 ilde “sarı” kodlu kar alarmı",
+      "title_tr": "Meteoroloji’den 6 bölge için yağış uyarısı: 9 ilde “sarı” kodlu kar alarmı",
+      "summary": "Ege hariç yurt genelinde kar ve yağmur beklenirken, sıcaklıklar mevsim normallerinin altına indi. Meteoroloji, kuvvetli yağış, buzlanma ve fırtınaya karşı 9 il için “sarı” kodlu uyarı yayımladı.",
+      "summary_tr": "Ege hariç yurt genelinde kar ve yağmur beklenirken, sıcaklıklar mevsim normallerinin altına indi. Meteoroloji, kuvvetli yağış, buzlanma ve fırtınaya karşı 9 il için “sarı” kodlu uyarı yayımladı.",
+      "long_summary": "Ege hariç yurt genelinde kar ve yağmur beklenirken, sıcaklıklar mevsim normallerinin altına indi. Meteoroloji, kuvvetli yağış, buzlanma ve fırtınaya karşı 9 il için “sarı” kodlu uyarı yayımladı.",
+      "long_summary_tr": "Ege hariç yurt genelinde kar ve yağmur beklenirken, sıcaklıklar mevsim normallerinin altına indi. Meteoroloji, kuvvetli yağış, buzlanma ve fırtınaya karşı 9 il için “sarı” kodlu uyarı yayımladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/meteorolojiden-6-bolge-icin-yagis-uyarisi-9-ilde-sari-kodlu-kar-alarmi-haberi-811830",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/19/kar-yagisi1-kmev_cover.jpg",
+      "published_at": "2026-01-19T04:36:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Musk: Tesla, AI5 çipindeki ilerleme sonrası Dojo3 projesine yeniden başlıyor",
+      "title_tr": "Musk: Tesla, AI5 çipindeki ilerleme sonrası Dojo3 projesine yeniden başlıyor",
+      "summary": "Tesla Inc. Üst Yöneticisi Elon Musk, elektrikli otomobil üreticisinin AI5 çipinin tasarımında kaydedilen ilerlemenin ardından Dojo3 projesine yeniden başlanacağını açıkladı. Musk, X üzerinden yaptığı ...",
+      "summary_tr": "Tesla Inc. Üst Yöneticisi Elon Musk, elektrikli otomobil üreticisinin AI5 çipinin tasarımında kaydedilen ilerlemenin ardından Dojo3 projesine yeniden başlanacağını açıkladı. Musk, X üzerinden yaptığı ...",
+      "long_summary": "Tesla Inc. Üst Yöneticisi Elon Musk, elektrikli otomobil üreticisinin AI5 çipinin tasarımında kaydedilen ilerlemenin ardından Dojo3 projesine yeniden başlanacağını açıkladı. Musk, X üzerinden yaptığı ...",
+      "long_summary_tr": "Tesla Inc. Üst Yöneticisi Elon Musk, elektrikli otomobil üreticisinin AI5 çipinin tasarımında kaydedilen ilerlemenin ardından Dojo3 projesine yeniden başlanacağını açıkladı. Musk, X üzerinden yaptığı ...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696db3e667ad3132ebdff7ce/PICNEWS/tr/musk-tesla-ai5-cipindeki-ilerleme-sonrasi-dojo3-projesine-yeniden-basliyor-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768797146806.jpeg",
+      "published_at": "2026-01-19T04:32:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Akaryakıt fiyatlarında son durum! Benzin, motorin ve LPG'ye zam, indirim var mı? (19 Ocak 2026)",
+      "title_tr": "Akaryakıt fiyatlarında son durum! Benzin, motorin ve LPG'ye zam, indirim var mı? (19 Ocak 2026)",
+      "summary": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 19 Ocak 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "summary_tr": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 19 Ocak 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "long_summary": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 19 Ocak 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "long_summary_tr": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 19 Ocak 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/enerji/akaryakit-fiyatlarinda-son-durum-benzin-motorin-ve-lpgye-zam-indirim-var-mi-19-ocak-2026-haberi-811829",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/05/30/benzinde-zam-indirim-var-mi-zbtp_cover.png",
+      "published_at": "2026-01-19T04:29:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Trump: Rus tehdidinin Grönland’dan uzaklaştırılmasının artık zamanı geldi",
+      "title_tr": "Trump: Rus tehdidinin Grönland’dan uzaklaştırılmasının artık zamanı geldi",
+      "summary": "ABD Başkanı Donald Trump, Danimarka’nın Grönland çevresindeki “Rus tehdidini” ortadan kaldırmak konusunda başarısız olduğunu savunarak, \"Artık zamanı geldi ve bu yapılacak\"” dedi.",
+      "summary_tr": "ABD Başkanı Donald Trump, Danimarka’nın Grönland çevresindeki “Rus tehdidini” ortadan kaldırmak konusunda başarısız olduğunu savunarak, \"Artık zamanı geldi ve bu yapılacak\"” dedi.",
+      "long_summary": "ABD Başkanı Donald Trump, Danimarka’nın Grönland çevresindeki “Rus tehdidini” ortadan kaldırmak konusunda başarısız olduğunu savunarak, \"Artık zamanı geldi ve bu yapılacak\"” dedi.",
+      "long_summary_tr": "ABD Başkanı Donald Trump, Danimarka’nın Grönland çevresindeki “Rus tehdidini” ortadan kaldırmak konusunda başarısız olduğunu savunarak, \"Artık zamanı geldi ve bu yapılacak\"” dedi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/696db29d67ad3132ebdff7c5/PICNEWS/tr/trump-rus-tehdidinin-gronlanddan-uzaklastirilmasinin-artik-zamani-geldi-19-01-26/",
+      "image": "https://news-files.foreks.com/images/1768796823158.jpeg",
+      "published_at": "2026-01-19T04:27:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Dolar kaç TL oldu, Euro ne kadar? (19 Ocak Pazartesi Döviz Kurları)",
+      "title_tr": "Dolar kaç TL oldu, Euro ne kadar? (19 Ocak Pazartesi Döviz Kurları)",
+      "summary": "19 OCAK ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,14 liradan, euro 50,43 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "summary_tr": "19 OCAK ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,14 liradan, euro 50,43 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "long_summary": "19 OCAK ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,14 liradan, euro 50,43 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "long_summary_tr": "19 OCAK ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,14 liradan, euro 50,43 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-ocak-pazartesi-doviz-kurlari-haberi-811828",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/02/dolar-kac-tl-2-iwfp_cover.png",
+      "published_at": "2026-01-19T04:24:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "OSD Başkanı Eroldu: 2025 yılında ihracat tarihi zirveye taşındı",
+      "title_tr": "OSD Başkanı Eroldu: 2025 yılında ihracat tarihi zirveye taşındı",
+      "summary": "Otomotiv ana sanayi, geçen yılı yüzde 4 artışla 1,42 milyon adet satışla tamamlarken, ihracatını yüzde 12 artırarak 41,5 milyar dolarla tarihi zirveye taşıdı.",
+      "summary_tr": "Otomotiv ana sanayi, geçen yılı yüzde 4 artışla 1,42 milyon adet satışla tamamlarken, ihracatını yüzde 12 artırarak 41,5 milyar dolarla tarihi zirveye taşıdı.",
+      "long_summary": "Otomotiv ana sanayi, geçen yılı yüzde 4 artışla 1,42 milyon adet satışla tamamlarken, ihracatını yüzde 12 artırarak 41,5 milyar dolarla tarihi zirveye taşıdı.",
+      "long_summary_tr": "Otomotiv ana sanayi, geçen yılı yüzde 4 artışla 1,42 milyon adet satışla tamamlarken, ihracatını yüzde 12 artırarak 41,5 milyar dolarla tarihi zirveye taşıdı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/osd-2026-yilinda-uretim-ve-ihracatta-benzer-performans-ongoruldu-3766625",
+      "image": null,
+      "published_at": "2026-01-19T04:23:36+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (19 Ocak 2026)",
+      "title_tr": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (19 Ocak 2026)",
+      "summary": "Altın fiyatları canlı ve güncel rakamlar merak ediliyor. Jeopolitik risklerin küresel piyasalarda yeniden yükselmesi ve ABD’nin Grönland merkezli tarife tehditleri, yatırımcıların güvenli liman arayışını artırırken altın ve gümüş fiyatları rekor seviyelere çıktı. Peki, çeyrek altın fiyatları bugün ne kadar oldu? İşte 19 Ocak 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "summary_tr": "Altın fiyatları canlı ve güncel rakamlar merak ediliyor. Jeopolitik risklerin küresel piyasalarda yeniden yükselmesi ve ABD’nin Grönland merkezli tarife tehditleri, yatırımcıların güvenli liman arayışını artırırken altın ve gümüş fiyatları rekor seviyelere çıktı. Peki, çeyrek altın fiyatları bugün ne kadar oldu? İşte 19 Ocak 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "long_summary": "Altın fiyatları canlı ve güncel rakamlar merak ediliyor. Jeopolitik risklerin küresel piyasalarda yeniden yükselmesi ve ABD’nin Grönland merkezli tarife tehditleri, yatırımcıların güvenli liman arayışını artırırken altın ve gümüş fiyatları rekor seviyelere çıktı. Peki, çeyrek altın fiyatları bugün ne kadar oldu? İşte 19 Ocak 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "long_summary_tr": "Altın fiyatları canlı ve güncel rakamlar merak ediliyor. Jeopolitik risklerin küresel piyasalarda yeniden yükselmesi ve ABD’nin Grönland merkezli tarife tehditleri, yatırımcıların güvenli liman arayışını artırırken altın ve gümüş fiyatları rekor seviyelere çıktı. Peki, çeyrek altın fiyatları bugün ne kadar oldu? İşte 19 Ocak 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-19-ocak-2026-haberi-811827",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/03/gram-altin-kac-tl-oldu-rzrz_cover.jpg",
+      "published_at": "2026-01-19T04:17:00+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
@@ -90,28 +1058,6 @@
       "published_at": "2026-01-19T04:09:33+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Rams and Patriots reach Conference Championship games",
-      "title_tr": "Rams and Patriots reach Conference Championship games",
-      "summary": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
-      "summary_tr": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
-      "long_summary": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
-      "long_summary_tr": "The Los Angeles Rams secure a nail-biting win in Chicago to beat the Bears in the NFL play-offs and follow the New England Patriots into the Conference Championships.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/american-football/articles/c5y294wl480o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ef/live/d93f7c70-f4e5-11f0-b5f7-49f0357294ff.png",
-      "published_at": "2026-01-19T04:09:22+00:00"
-    },
-    {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
@@ -154,952 +1100,6 @@
       "url": "https://www.bloomberght.com/kuresel-piyasalarda-gronland-etkisi-3766636",
       "image": null,
       "published_at": "2026-01-19T04:01:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Baidu hisseleri Abu Dabi’deki robotaksi lansmanıyla yükseldi",
-      "title_tr": "Baidu hisseleri Abu Dabi’deki robotaksi lansmanıyla yükseldi",
-      "summary": "Baidu hisseleri Abu Dabi’deki robotaksi lansmanıyla yükseldi",
-      "summary_tr": "Baidu hisseleri Abu Dabi’deki robotaksi lansmanıyla yükseldi",
-      "long_summary": "Baidu hisseleri Abu Dabi’deki robotaksi lansmanıyla yükseldi",
-      "long_summary_tr": "Baidu hisseleri Abu Dabi’deki robotaksi lansmanıyla yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/baidu-hisseleri-abu-dabideki-robotaksi-lansmanyla-yukseldi-3719120",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T04:01:11+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Sequoia da Anthropic için 350 milyar dolarlık değerlemeyle fon turuna katılıyor",
-      "title_tr": "Sequoia da Anthropic için 350 milyar dolarlık değerlemeyle fon turuna katılıyor",
-      "summary": "Girişim sermayesi şirketi Sequoia, Singapur merkezli GIC ve ABD'li yatırımcı Coatue ile birlikte Anthropic için düzenlenen fon turuna katılıyor.",
-      "summary_tr": "Girişim sermayesi şirketi Sequoia, Singapur merkezli GIC ve ABD'li yatırımcı Coatue ile birlikte Anthropic için düzenlenen fon turuna katılıyor.",
-      "long_summary": "Girişim sermayesi şirketi Sequoia, Singapur merkezli GIC ve ABD'li yatırımcı Coatue ile birlikte Anthropic için düzenlenen fon turuna katılıyor.",
-      "long_summary_tr": "Girişim sermayesi şirketi Sequoia, Singapur merkezli GIC ve ABD'li yatırımcı Coatue ile birlikte Anthropic için düzenlenen fon turuna katılıyor.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696dac7c2663b328fe317ad6/PICNEWS/tr/sequoia-da-anthropic-icin-350-milyar-dolarlik-degerlemeyle-fon-turuna-katiliyor-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768780613074.jpeg",
-      "published_at": "2026-01-19T04:01:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Çin ekonomisi 2025 sonu itibarıyla karışık sinyaller verdi",
-      "title_tr": "Çin ekonomisi 2025 sonu itibarıyla karışık sinyaller verdi",
-      "summary": "Çin'in ekonomisi 2025'in sonunda çelişkili veriler sundu. Güçlü sanayi üretimi zayıf tüketici harcamaları ile dengelenirken, uzayan emlak sektörü durgunluğu büyüme üzerinde baskı oluşturmaya devam ett...",
-      "summary_tr": "Çin'in ekonomisi 2025'in sonunda çelişkili veriler sundu. Güçlü sanayi üretimi zayıf tüketici harcamaları ile dengelenirken, uzayan emlak sektörü durgunluğu büyüme üzerinde baskı oluşturmaya devam ett...",
-      "long_summary": "Çin'in ekonomisi 2025'in sonunda çelişkili veriler sundu. Güçlü sanayi üretimi zayıf tüketici harcamaları ile dengelenirken, uzayan emlak sektörü durgunluğu büyüme üzerinde baskı oluşturmaya devam ett...",
-      "long_summary_tr": "Çin'in ekonomisi 2025'in sonunda çelişkili veriler sundu. Güçlü sanayi üretimi zayıf tüketici harcamaları ile dengelenirken, uzayan emlak sektörü durgunluğu büyüme üzerinde baskı oluşturmaya devam ett...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da9762663b328fe317ad2/PICNEWS/tr/cin-ekonomisi-2025-sonu-itibariyla-karisik-sinyaller-verdi-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768794144326.jpeg",
-      "published_at": "2026-01-19T03:48:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "İspanya tren kazasında 21 can kaybı",
-      "title_tr": "İspanya tren kazasında 21 can kaybı",
-      "summary": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi yaşamını yitirdi.",
-      "summary_tr": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi yaşamını yitirdi.",
-      "long_summary": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi yaşamını yitirdi.",
-      "long_summary_tr": "İspanya'nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında iki hızlı trenin raydan çıkması sonucu 21 kişi yaşamını yitirdi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/ispanya-tren-kazasinda-21-can-kaybi-3766635",
-      "image": null,
-      "published_at": "2026-01-19T03:47:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Ukrayna: Rusya ile savaşın çözümü görüşmeleri Davos'ta devam edecek",
-      "title_tr": "Ukrayna: Rusya ile savaşın çözümü görüşmeleri Davos'ta devam edecek",
-      "summary": "Ukrayna'nın baş müzakerecisi Rustem Umerov, Rusya ile yaklaşık dört yıldır süren savaşın çözümüne ilişkin ABD yetkilileriyle yapılan görüşmelerin bu hafta İsviçre'nin Davos kasabasında başlayacak Düny...",
-      "summary_tr": "Ukrayna'nın baş müzakerecisi Rustem Umerov, Rusya ile yaklaşık dört yıldır süren savaşın çözümüne ilişkin ABD yetkilileriyle yapılan görüşmelerin bu hafta İsviçre'nin Davos kasabasında başlayacak Düny...",
-      "long_summary": "Ukrayna'nın baş müzakerecisi Rustem Umerov, Rusya ile yaklaşık dört yıldır süren savaşın çözümüne ilişkin ABD yetkilileriyle yapılan görüşmelerin bu hafta İsviçre'nin Davos kasabasında başlayacak Düny...",
-      "long_summary_tr": "Ukrayna'nın baş müzakerecisi Rustem Umerov, Rusya ile yaklaşık dört yıldır süren savaşın çözümüne ilişkin ABD yetkilileriyle yapılan görüşmelerin bu hafta İsviçre'nin Davos kasabasında başlayacak Düny...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da8a92663b328fe317ad0/PICNEWS/tr/ukrayna-rusya-ile-savasin-cozumu-gorusmeleri-davos-ta-devam-edecek-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768780325078.jpeg",
-      "published_at": "2026-01-19T03:44:41+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "A Knight of the Seven Kingdoms: Episode 1 Series Premiere Review",
-      "title_tr": "A Knight of the Seven Kingdoms: Episode 1 Series Premiere Review",
-      "summary": "A Knight of the Seven Kingdoms is off to a pleasant and promising start with its series premiere, introducing viewers to a pair of sympathetic, engaging characters in Dunk and Egg, and offering enough heart and humor to keep one invested in a Game of Thrones story without dragons.",
-      "summary_tr": "A Knight of the Seven Kingdoms is off to a pleasant and promising start with its series premiere, introducing viewers to a pair of sympathetic, engaging characters in Dunk and Egg, and offering enough heart and humor to keep one invested in a Game of Thrones story without dragons.",
-      "long_summary": "A Knight of the Seven Kingdoms is off to a pleasant and promising start with its series premiere, introducing viewers to a pair of sympathetic, engaging characters in Dunk and Egg, and offering enough heart and humor to keep one invested in a Game of Thrones story without dragons.",
-      "long_summary_tr": "A Knight of the Seven Kingdoms is off to a pleasant and promising start with its series premiere, introducing viewers to a pair of sympathetic, engaging characters in Dunk and Egg, and offering enough heart and humor to keep one invested in a Game of Thrones story without dragons.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/a-knight-of-the-seven-kingdoms-episode-1-series-premiere-review",
-      "image": "https://assets-prd.ignimgs.com/2026/01/16/aknightofthesevenkingdoms-review-ep1-blogroll-1768597000237.jpg",
-      "published_at": "2026-01-19T03:40:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Çin’de konut piyasasında durgunluk 2025’in son ayında da devam etti",
-      "title_tr": "Çin’de konut piyasasında durgunluk 2025’in son ayında da devam etti",
-      "summary": "Çin’in 70 büyük kentinde konut fiyatları Aralık ayında geçen yılın aynı dönemine göre %3,05 geriledi. Bu oran Kasım ayındaki %2,78’lik düşüşten daha yüksek oldu.",
-      "summary_tr": "Çin’in 70 büyük kentinde konut fiyatları Aralık ayında geçen yılın aynı dönemine göre %3,05 geriledi. Bu oran Kasım ayındaki %2,78’lik düşüşten daha yüksek oldu.",
-      "long_summary": "Çin’in 70 büyük kentinde konut fiyatları Aralık ayında geçen yılın aynı dönemine göre %3,05 geriledi. Bu oran Kasım ayındaki %2,78’lik düşüşten daha yüksek oldu.",
-      "long_summary_tr": "Çin’in 70 büyük kentinde konut fiyatları Aralık ayında geçen yılın aynı dönemine göre %3,05 geriledi. Bu oran Kasım ayındaki %2,78’lik düşüşten daha yüksek oldu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da7092663b328fe317acf/PICNEWS/tr/cinde-konut-piyasasinda-durgunluk-2025in-son-ayinda-da-devam-etti-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768793734456.jpeg",
-      "published_at": "2026-01-19T03:37:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "9 ile sarı kodlu uyarı. Kar daha da kuvvetli yağacak",
-      "title_tr": "9 ile sarı kodlu uyarı. Kar daha da kuvvetli yağacak",
-      "summary": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
-      "summary_tr": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
-      "long_summary": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
-      "long_summary_tr": "Rusya ve Ukrayna üzerinden gelen soğuk hava dalgası tüm Türkiye'de etkisini sürdürüyor. İstanbul'da kar yağışı bugün de aralıklarla devam edecek. 9 kente ise sarı kodlu kuvvetli kar yağışı uyarısı var.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/galeri/turkiye/9-ile-sari-kodlu-uyari-kar-daha-da-kuvvetli-yagacak-1708047",
-      "image": "https://images.ntv.com.tr/images/kar6-845271.jpg",
-      "published_at": "2026-01-19T03:37:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Portekiz'de cumhurbaşkanlığı seçimleri ikinci tura kaldı",
-      "title_tr": "Portekiz'de cumhurbaşkanlığı seçimleri ikinci tura kaldı",
-      "summary": "Portekiz'de yapılan cumhurbaşkanlığı seçimlerinin resmi sonuçlarına göre hiçbir aday mutlak çoğunluğu yakalayamadığı için 8 Şubat'ta ikinci tura gidelecek.",
-      "summary_tr": "Portekiz'de yapılan cumhurbaşkanlığı seçimlerinin resmi sonuçlarına göre hiçbir aday mutlak çoğunluğu yakalayamadığı için 8 Şubat'ta ikinci tura gidelecek.",
-      "long_summary": "Portekiz'de yapılan cumhurbaşkanlığı seçimlerinin resmi sonuçlarına göre hiçbir aday mutlak çoğunluğu yakalayamadığı için 8 Şubat'ta ikinci tura gidelecek.",
-      "long_summary_tr": "Portekiz'de yapılan cumhurbaşkanlığı seçimlerinin resmi sonuçlarına göre hiçbir aday mutlak çoğunluğu yakalayamadığı için 8 Şubat'ta ikinci tura gidelecek.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/portekiz-de-cumhurbaskanligi-secimleri-ikinci-tura-kaldi-3766634",
-      "image": null,
-      "published_at": "2026-01-19T03:36:19+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "ABD Kongresi’nde Trump’ın Grönland hamlesine itirazlar yükseliyor",
-      "title_tr": "ABD Kongresi’nde Trump’ın Grönland hamlesine itirazlar yükseliyor",
-      "summary": "ABD Senatosu İç Güvenlik Komitesi’nin, Başkan Donald Trump’ın askeri güç kullanma yetkisini sınırlayacak bir savaş yetkileri kararı ya da Grönland nedeniyle uygulanan gümrük vergilerini hedef alan bir...",
-      "summary_tr": "ABD Senatosu İç Güvenlik Komitesi’nin, Başkan Donald Trump’ın askeri güç kullanma yetkisini sınırlayacak bir savaş yetkileri kararı ya da Grönland nedeniyle uygulanan gümrük vergilerini hedef alan bir...",
-      "long_summary": "ABD Senatosu İç Güvenlik Komitesi’nin, Başkan Donald Trump’ın askeri güç kullanma yetkisini sınırlayacak bir savaş yetkileri kararı ya da Grönland nedeniyle uygulanan gümrük vergilerini hedef alan bir...",
-      "long_summary_tr": "ABD Senatosu İç Güvenlik Komitesi’nin, Başkan Donald Trump’ın askeri güç kullanma yetkisini sınırlayacak bir savaş yetkileri kararı ya da Grönland nedeniyle uygulanan gümrük vergilerini hedef alan bir...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da66f67ad3132ebdff7aa/PICNEWS/tr/abd-kongresinde-trumpin-gronland-hamlesine-itirazlar-yukseliyor-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768779953794.jpeg",
-      "published_at": "2026-01-19T03:35:11+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Eight dead, dozens missing in massive Pakistan mall fire",
-      "title_tr": "Eight dead, dozens missing in massive Pakistan mall fire",
-      "summary": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
-      "summary_tr": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
-      "long_summary": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
-      "long_summary_tr": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/e2575a30-f472-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-19T03:31:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "AB, Trump'ın Grönland tehdidine misilleme için 93 milyar euro'luk tarife hazırlığında",
-      "title_tr": "AB, Trump'ın Grönland tehdidine misilleme için 93 milyar euro'luk tarife hazırlığında",
-      "summary": "Avrupa Birliği başkentleri, ABD Başkanı Donald Trump’ın Grönland’ı kontrol altına alma kampanyasına karşı çıkan NATO müttefiklerine yönelik tehditlerine yanıt olarak, ABD’den 93 milyar euro tutarında ...",
-      "summary_tr": "Avrupa Birliği başkentleri, ABD Başkanı Donald Trump’ın Grönland’ı kontrol altına alma kampanyasına karşı çıkan NATO müttefiklerine yönelik tehditlerine yanıt olarak, ABD’den 93 milyar euro tutarında ...",
-      "long_summary": "Avrupa Birliği başkentleri, ABD Başkanı Donald Trump’ın Grönland’ı kontrol altına alma kampanyasına karşı çıkan NATO müttefiklerine yönelik tehditlerine yanıt olarak, ABD’den 93 milyar euro tutarında ...",
-      "long_summary_tr": "Avrupa Birliği başkentleri, ABD Başkanı Donald Trump’ın Grönland’ı kontrol altına alma kampanyasına karşı çıkan NATO müttefiklerine yönelik tehditlerine yanıt olarak, ABD’den 93 milyar euro tutarında ...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da56167ad3132ebdff7a9/PICNEWS/tr/ab-trump-in-gronland-tehdidine-misilleme-icin-93-milyar-euro-luk-tarife-hazirliginda-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768779382985.jpeg",
-      "published_at": "2026-01-19T03:30:41+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead",
-      "title_tr": "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead",
-      "summary": "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions.",
-      "summary_tr": "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions.",
-      "long_summary": "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions.",
-      "long_summary_tr": "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0d/live/14290d90-f493-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-19T03:30:31+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Çin ekonomisi 2025’te büyüme hedefini tutturdu",
-      "title_tr": "Çin ekonomisi 2025’te büyüme hedefini tutturdu",
-      "summary": "Çin ekonomisi, tarife kaynaklı küresel belirsizliklere rağmen 2025 yılında hükümetin büyüme hedefini yakaladı. Resmi verilere göre dünyanın ikinci büyük ekonomisi, 2025’te yıllık bazda yüzde 5,0 büyüy...",
-      "summary_tr": "Çin ekonomisi, tarife kaynaklı küresel belirsizliklere rağmen 2025 yılında hükümetin büyüme hedefini yakaladı. Resmi verilere göre dünyanın ikinci büyük ekonomisi, 2025’te yıllık bazda yüzde 5,0 büyüy...",
-      "long_summary": "Çin ekonomisi, tarife kaynaklı küresel belirsizliklere rağmen 2025 yılında hükümetin büyüme hedefini yakaladı. Resmi verilere göre dünyanın ikinci büyük ekonomisi, 2025’te yıllık bazda yüzde 5,0 büyüy...",
-      "long_summary_tr": "Çin ekonomisi, tarife kaynaklı küresel belirsizliklere rağmen 2025 yılında hükümetin büyüme hedefini yakaladı. Resmi verilere göre dünyanın ikinci büyük ekonomisi, 2025’te yıllık bazda yüzde 5,0 büyüy...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da4ef2663b328fe317ac1/PICNEWS/tr/cin-ekonomisi-2025te-buyume-hedefini-tutturdu-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768793314973.jpeg",
-      "published_at": "2026-01-19T03:28:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Cumhuriyetçi Kongre üyesinden Trump'ın Grönlandı tepkisi",
-      "title_tr": "Cumhuriyetçi Kongre üyesinden Trump'ın Grönlandı tepkisi",
-      "summary": "ABD'li Cumhuriyetçi Kongre üyesi Michael McCaul, Başkan Donald Trump'ın Grönland'i işgal etme ihtimali için \"NATO ile savaş\" anlamına geleceğini söyledi.",
-      "summary_tr": "ABD'li Cumhuriyetçi Kongre üyesi Michael McCaul, Başkan Donald Trump'ın Grönland'i işgal etme ihtimali için \"NATO ile savaş\" anlamına geleceğini söyledi.",
-      "long_summary": "ABD'li Cumhuriyetçi Kongre üyesi Michael McCaul, Başkan Donald Trump'ın Grönland'i işgal etme ihtimali için \"NATO ile savaş\" anlamına geleceğini söyledi.",
-      "long_summary_tr": "ABD'li Cumhuriyetçi Kongre üyesi Michael McCaul, Başkan Donald Trump'ın Grönland'i işgal etme ihtimali için \"NATO ile savaş\" anlamına geleceğini söyledi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/cumhuriyetci-kongre-uyesinden-trump-in-gronlandi-tepkisi-3766633",
-      "image": null,
-      "published_at": "2026-01-19T03:26:39+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Bessent, Trump'ın Grönland için 8 Avrupa ülkesine tarife uygulama kararını savundu",
-      "title_tr": "Bessent, Trump'ın Grönland için 8 Avrupa ülkesine tarife uygulama kararını savundu",
-      "summary": "ABD Hazine Bakanı Scott Bessent, Grönland nedeniyle sekiz Avrupa ülkesine getirilen yeni gümrük vergilerinin gerekçesinin “ulusal bir acil durumu önlemek” olduğunu söyledi. Bessent, kararın jeopolitik...",
-      "summary_tr": "ABD Hazine Bakanı Scott Bessent, Grönland nedeniyle sekiz Avrupa ülkesine getirilen yeni gümrük vergilerinin gerekçesinin “ulusal bir acil durumu önlemek” olduğunu söyledi. Bessent, kararın jeopolitik...",
-      "long_summary": "ABD Hazine Bakanı Scott Bessent, Grönland nedeniyle sekiz Avrupa ülkesine getirilen yeni gümrük vergilerinin gerekçesinin “ulusal bir acil durumu önlemek” olduğunu söyledi. Bessent, kararın jeopolitik...",
-      "long_summary_tr": "ABD Hazine Bakanı Scott Bessent, Grönland nedeniyle sekiz Avrupa ülkesine getirilen yeni gümrük vergilerinin gerekçesinin “ulusal bir acil durumu önlemek” olduğunu söyledi. Bessent, kararın jeopolitik...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da3f967ad3132ebdff7a2/PICNEWS/tr/bessent-trump-in-gronland-icin-8-avrupa-ulkesine-tarife-uygulama-kararini-savundu-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768779777120.jpeg",
-      "published_at": "2026-01-19T03:24:41+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Science Daily",
-      "title": "Silver just solved a major solid-state battery problem",
-      "title_tr": "Silver just solved a major solid-state battery problem",
-      "summary": "Solid-state batteries could store more energy and charge faster than today’s batteries, but they tend to crack and fail over time. Stanford researchers found that a nanoscale silver treatment can greatly strengthen the battery’s ceramic core. The silver helps seal tiny flaws and prevents lithium from causing further damage. This simple approach could help unlock next-generation batteries.",
-      "summary_tr": "Solid-state batteries could store more energy and charge faster than today’s batteries, but they tend to crack and fail over time. Stanford researchers found that a nanoscale silver treatment can greatly strengthen the battery’s ceramic core. The silver helps seal tiny flaws and prevents lithium from causing further damage. This simple approach could help unlock next-generation batteries.",
-      "long_summary": "Solid-state batteries could store more energy and charge faster than today’s batteries, but they tend to crack and fail over time. Stanford researchers found that a nanoscale silver treatment can greatly strengthen the battery’s ceramic core. The silver helps seal tiny flaws and prevents lithium from causing further damage. This simple approach could help unlock next-generation batteries.",
-      "long_summary_tr": "Solid-state batteries could store more energy and charge faster than today’s batteries, but they tend to crack and fail over time. Stanford researchers found that a nanoscale silver treatment can greatly strengthen the battery’s ceramic core. The silver helps seal tiny flaws and prevents lithium from causing further damage. This simple approach could help unlock next-generation batteries.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/01/260118064641.htm",
-      "image": null,
-      "published_at": "2026-01-19T03:23:20+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "AU Deals: How to Pay Low Caps for Fallout 76 and Then Visit Some Sick S02 TV Show Locations",
-      "title_tr": "AU Deals: How to Pay Low Caps for Fallout 76 and Then Visit Some Sick S02 TV Show Locations",
-      "summary": "AU Deals: How to Pay Low Caps for Fallout 76 and Then Visit Some Sick S02 TV Show Locations",
-      "summary_tr": "AU Deals: How to Pay Low Caps for Fallout 76 and Then Visit Some Sick S02 TV Show Locations",
-      "long_summary": "AU Deals: How to Pay Low Caps for Fallout 76 and Then Visit Some Sick S02 TV Show Locations",
-      "long_summary_tr": "AU Deals: How to Pay Low Caps for Fallout 76 and Then Visit Some Sick S02 TV Show Locations",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/au-deals-how-to-pay-low-caps-for-fallout-76-and-then-visit-some-sick-s02-tv-show-locations",
-      "image": "https://assets-prd.ignimgs.com/2026/01/19/fo76-1768792758646.jpg",
-      "published_at": "2026-01-19T03:20:19+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "AB, Trump’ın Grönland tarifelerine karşı misilleme hazırlıklarını hızlandırma konusunda anlaşmaya vardı",
-      "title_tr": "AB, Trump’ın Grönland tarifelerine karşı misilleme hazırlıklarını hızlandırma konusunda anlaşmaya vardı",
-      "summary": "Avrupa Birliği büyükelçileri, Pazar günü yaptıkları toplantıda ABD Başkanı Trump’ın Avrupa’daki müttefiklere yönelik gümrük vergisi tehdidine karşı ortak hareket etme konusunda geniş mutabakat sağladı...",
-      "summary_tr": "Avrupa Birliği büyükelçileri, Pazar günü yaptıkları toplantıda ABD Başkanı Trump’ın Avrupa’daki müttefiklere yönelik gümrük vergisi tehdidine karşı ortak hareket etme konusunda geniş mutabakat sağladı...",
-      "long_summary": "Avrupa Birliği büyükelçileri, Pazar günü yaptıkları toplantıda ABD Başkanı Trump’ın Avrupa’daki müttefiklere yönelik gümrük vergisi tehdidine karşı ortak hareket etme konusunda geniş mutabakat sağladı...",
-      "long_summary_tr": "Avrupa Birliği büyükelçileri, Pazar günü yaptıkları toplantıda ABD Başkanı Trump’ın Avrupa’daki müttefiklere yönelik gümrük vergisi tehdidine karşı ortak hareket etme konusunda geniş mutabakat sağladı...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da2e067ad3132ebdff79d/PICNEWS/tr/ab-trumpin-gronland-tarifelerine-karsi-misilleme-hazirliklarini-hizlandirma-konusunda-anlasmaya-vardi-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768779058207.jpeg",
-      "published_at": "2026-01-19T03:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Trump'ın Avrupa'ya ek tarife tehdidi altın ve gümüşe yeni rekorlar kırdırdı",
-      "title_tr": "Trump'ın Avrupa'ya ek tarife tehdidi altın ve gümüşe yeni rekorlar kırdırdı",
-      "summary": "Altın ve gümüş fiyatları, ABD’nin sekiz Avrupa ülkesine yönelik gümrük vergisi tehdidi ve küresel jeopolitik risklerle birlikte yatırımcıların güvenli liman talebini artırmasıyla yeni rekorlar kırdı.A...",
-      "summary_tr": "Altın ve gümüş fiyatları, ABD’nin sekiz Avrupa ülkesine yönelik gümrük vergisi tehdidi ve küresel jeopolitik risklerle birlikte yatırımcıların güvenli liman talebini artırmasıyla yeni rekorlar kırdı.A...",
-      "long_summary": "Altın ve gümüş fiyatları, ABD’nin sekiz Avrupa ülkesine yönelik gümrük vergisi tehdidi ve küresel jeopolitik risklerle birlikte yatırımcıların güvenli liman talebini artırmasıyla yeni rekorlar kırdı.A...",
-      "long_summary_tr": "Altın ve gümüş fiyatları, ABD’nin sekiz Avrupa ülkesine yönelik gümrük vergisi tehdidi ve küresel jeopolitik risklerle birlikte yatırımcıların güvenli liman talebini artırmasıyla yeni rekorlar kırdı.A...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da2912663b328fe317ab6/PICNEWS/tr/trump-in-avrupa-ya-ek-tarife-tehdidi-altin-ve-gumuse-yeni-rekorlar-kirdirdi-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768781589606.jpeg",
-      "published_at": "2026-01-19T03:18:41+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Alman sanayisi Trump'ın Grönland için tarife tehdidine sert tepki gösterdi",
-      "title_tr": "Alman sanayisi Trump'ın Grönland için tarife tehdidine sert tepki gösterdi",
-      "summary": "Alman sanayisi, ABD BaşkanıTrump'ın Danimarka'yı Grönland'ı satmaya zorlamak için tarife kullanma planına öfkeyle tepki gösterdi ve Avrupa'nın taleplerine boyun eğmemesi çağrısında bulundu.",
-      "summary_tr": "Alman sanayisi, ABD BaşkanıTrump'ın Danimarka'yı Grönland'ı satmaya zorlamak için tarife kullanma planına öfkeyle tepki gösterdi ve Avrupa'nın taleplerine boyun eğmemesi çağrısında bulundu.",
-      "long_summary": "Alman sanayisi, ABD BaşkanıTrump'ın Danimarka'yı Grönland'ı satmaya zorlamak için tarife kullanma planına öfkeyle tepki gösterdi ve Avrupa'nın taleplerine boyun eğmemesi çağrısında bulundu.",
-      "long_summary_tr": "Alman sanayisi, ABD BaşkanıTrump'ın Danimarka'yı Grönland'ı satmaya zorlamak için tarife kullanma planına öfkeyle tepki gösterdi ve Avrupa'nın taleplerine boyun eğmemesi çağrısında bulundu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da1b467ad3132ebdff796/PICNEWS/tr/alman-sanayisi-trump-in-gronland-icin-tarife-tehdidine-sert-tepki-gosterdi-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768778869257.jpeg",
-      "published_at": "2026-01-19T03:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Çin ekonomisi 2025'te yüzde 5 büyüdü",
-      "title_tr": "Çin ekonomisi 2025'te yüzde 5 büyüdü",
-      "summary": "Çin ekonomisinin 2025'te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştı.",
-      "summary_tr": "Çin ekonomisinin 2025'te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştı.",
-      "long_summary": "Çin ekonomisinin 2025'te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştı.",
-      "long_summary_tr": "Çin ekonomisinin 2025'te yüzde 5 büyüyerek yıllık büyüme hedefine ulaştı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/cin-ekonomisi-2025-te-yuzde-5-buyudu-3766632",
-      "image": null,
-      "published_at": "2026-01-19T03:14:55+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Greer: AB, Grönland gümrük vergisi meselesini ABD ticaret anlaşmasından ayrı düşünmeli",
-      "title_tr": "Greer: AB, Grönland gümrük vergisi meselesini ABD ticaret anlaşmasından ayrı düşünmeli",
-      "summary": "ABD Ticaret Temsilcisi Jamieson Greer, Başkan Donald Trump’ın Grönland konusundaki tutumu nedeniyle bazı Avrupa ülkelerine yönelik yeni gümrük vergisi tehditlerinin nasıl ele alınacağına Avrupa’nın ka...",
-      "summary_tr": "ABD Ticaret Temsilcisi Jamieson Greer, Başkan Donald Trump’ın Grönland konusundaki tutumu nedeniyle bazı Avrupa ülkelerine yönelik yeni gümrük vergisi tehditlerinin nasıl ele alınacağına Avrupa’nın ka...",
-      "long_summary": "ABD Ticaret Temsilcisi Jamieson Greer, Başkan Donald Trump’ın Grönland konusundaki tutumu nedeniyle bazı Avrupa ülkelerine yönelik yeni gümrük vergisi tehditlerinin nasıl ele alınacağına Avrupa’nın ka...",
-      "long_summary_tr": "ABD Ticaret Temsilcisi Jamieson Greer, Başkan Donald Trump’ın Grönland konusundaki tutumu nedeniyle bazı Avrupa ülkelerine yönelik yeni gümrük vergisi tehditlerinin nasıl ele alınacağına Avrupa’nın ka...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696da04c67ad3132ebdff793/PICNEWS/tr/greer-ab-gronland-gumruk-vergisi-meselesini-abd-ticaret-anlasmasindan-ayri-dusunmeli-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768778307373.jpeg",
-      "published_at": "2026-01-19T03:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Ekonomi ve siyaset gündemi -  19 Ocak 2026",
-      "title_tr": "Ekonomi ve siyaset gündemi -  19 Ocak 2026",
-      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "long_summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "long_summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-19-ocak-2026-3766631",
-      "image": null,
-      "published_at": "2026-01-19T03:07:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Trump, Grönland'ı almasına karşı çıkan Avrupa ülkelerine %10 gümrük vergisi uygulayacak",
-      "title_tr": "Trump, Grönland'ı almasına karşı çıkan Avrupa ülkelerine %10 gümrük vergisi uygulayacak",
-      "summary": "ABD Başkanı Donald Trump, Cumartesi günü yaptığı açıklamada, ABD’nin Grönland’ı satın almasına izin verilene kadar Avrupa’daki müttefik ülkelere yönelik artan gümrük vergileri uygulayacağını duyurdu.",
-      "summary_tr": "ABD Başkanı Donald Trump, Cumartesi günü yaptığı açıklamada, ABD’nin Grönland’ı satın almasına izin verilene kadar Avrupa’daki müttefik ülkelere yönelik artan gümrük vergileri uygulayacağını duyurdu.",
-      "long_summary": "ABD Başkanı Donald Trump, Cumartesi günü yaptığı açıklamada, ABD’nin Grönland’ı satın almasına izin verilene kadar Avrupa’daki müttefik ülkelere yönelik artan gümrük vergileri uygulayacağını duyurdu.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, Cumartesi günü yaptığı açıklamada, ABD’nin Grönland’ı satın almasına izin verilene kadar Avrupa’daki müttefik ülkelere yönelik artan gümrük vergileri uygulayacağını duyurdu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/696d9fd42663b328fe317aa7/PICNEWS/tr/trump-gronland-i-almasina-karsi-cikan-avrupa-ulkelerine-10-gumruk-vergisi-uygulayacak-19-01-26/",
-      "image": "https://news-files.foreks.com/images/1768778008308.jpeg",
-      "published_at": "2026-01-19T03:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Las Vegas Sphere yapımcısı Maryland’deki National Harbor’da daha küçük bir mekan planlıyor",
-      "title_tr": "Las Vegas Sphere yapımcısı Maryland’deki National Harbor’da daha küçük bir mekan planlıyor",
-      "summary": "Las Vegas Sphere yapımcısı Maryland’deki National Harbor’da daha küçük bir mekan planlıyor",
-      "summary_tr": "Las Vegas Sphere yapımcısı Maryland’deki National Harbor’da daha küçük bir mekan planlıyor",
-      "long_summary": "Las Vegas Sphere yapımcısı Maryland’deki National Harbor’da daha küçük bir mekan planlıyor",
-      "long_summary_tr": "Las Vegas Sphere yapımcısı Maryland’deki National Harbor’da daha küçük bir mekan planlıyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/las-vegas-sphere-yapmcs-marylanddeki-national-harborda-daha-kucuk-bir-mekan-planlyor-3719110",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T03:04:24+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Industry Season 4, Episode 2 Recap: Ghost of Christmas Past",
-      "title_tr": "Industry Season 4, Episode 2 Recap: Ghost of Christmas Past",
-      "summary": "Henry fights his demons while Yasmin tries to navigate life married to a man with depression.",
-      "summary_tr": "Henry fights his demons while Yasmin tries to navigate life married to a man with depression.",
-      "long_summary": "Henry fights his demons while Yasmin tries to navigate life married to a man with depression.",
-      "long_summary_tr": "Henry fights his demons while Yasmin tries to navigate life married to a man with depression.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a70027383/industry-season-4-episode-2-recap-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/76c0ff92-a9a9-4172-b70e-2ed9bffe8af8.jpg",
-      "published_at": "2026-01-19T03:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Asya borsaları Trump’ın Grönland tarifeleriyle sarsıldı; Çin GSYH’si hafif destek sağladı",
-      "title_tr": "Asya borsaları Trump’ın Grönland tarifeleriyle sarsıldı; Çin GSYH’si hafif destek sağladı",
-      "summary": "Asya borsaları Trump’ın Grönland tarifeleriyle sarsıldı; Çin GSYH’si hafif destek sağladı",
-      "summary_tr": "Asya borsaları Trump’ın Grönland tarifeleriyle sarsıldı; Çin GSYH’si hafif destek sağladı",
-      "long_summary": "Asya borsaları Trump’ın Grönland tarifeleriyle sarsıldı; Çin GSYH’si hafif destek sağladı",
-      "long_summary_tr": "Asya borsaları Trump’ın Grönland tarifeleriyle sarsıldı; Çin GSYH’si hafif destek sağladı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/asya-borsalar-trumpn-gronland-tarifeleriyle-sarsld-cin-gsyhsi-hafif-destek-saglad-3719109",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T02:48:53+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "At least 21 killed in Spain after crash involving high-speed trains",
-      "title_tr": "At least 21 killed in Spain after crash involving high-speed trains",
-      "summary": "The incident happened near the town of Adamuz, close to the city of Cordoba.",
-      "summary_tr": "The incident happened near the town of Adamuz, close to the city of Cordoba.",
-      "long_summary": "The incident happened near the town of Adamuz, close to the city of Cordoba.",
-      "long_summary_tr": "The incident happened near the town of Adamuz, close to the city of Cordoba.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0871/live/ced51930-f4b7-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-19T01:30:43+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Japon değer hisseleri istikrarlı erken seçim sonucundan faydalanabilir - Morgan Stanley",
-      "title_tr": "Japon değer hisseleri istikrarlı erken seçim sonucundan faydalanabilir - Morgan Stanley",
-      "summary": "Japon değer hisseleri istikrarlı erken seçim sonucundan faydalanabilir - Morgan Stanley",
-      "summary_tr": "Japon değer hisseleri istikrarlı erken seçim sonucundan faydalanabilir - Morgan Stanley",
-      "long_summary": "Japon değer hisseleri istikrarlı erken seçim sonucundan faydalanabilir - Morgan Stanley",
-      "long_summary_tr": "Japon değer hisseleri istikrarlı erken seçim sonucundan faydalanabilir - Morgan Stanley",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/japon-deger-hisseleri-istikrarl-erken-secim-sonucundan-faydalanabilir--morgan-stanley-3719101",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T01:26:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Fenerbahçe, Alanya'da hava muhalefetine takıldı",
-      "title_tr": "Fenerbahçe, Alanya'da hava muhalefetine takıldı",
-      "summary": "Deplasmanda Corendon Alanyaspor'u 3-2 mağlup eden Fenerbahçe, İstanbul'a dönüş yolculuğunu hava muhalefeti nedeniyle ertelemek zorunda kaldı. Alanya'daki otele geri dönen sarı-lacivertli kafilenin öğle saatlerinde yola çıkması bekleniyor.",
-      "summary_tr": "Deplasmanda Corendon Alanyaspor'u 3-2 mağlup eden Fenerbahçe, İstanbul'a dönüş yolculuğunu hava muhalefeti nedeniyle ertelemek zorunda kaldı. Alanya'daki otele geri dönen sarı-lacivertli kafilenin öğle saatlerinde yola çıkması bekleniyor.",
-      "long_summary": "Deplasmanda Corendon Alanyaspor'u 3-2 mağlup eden Fenerbahçe, İstanbul'a dönüş yolculuğunu hava muhalefeti nedeniyle ertelemek zorunda kaldı. Alanya'daki otele geri dönen sarı-lacivertli kafilenin öğle saatlerinde yola çıkması bekleniyor.",
-      "long_summary_tr": "Deplasmanda Corendon Alanyaspor'u 3-2 mağlup eden Fenerbahçe, İstanbul'a dönüş yolculuğunu hava muhalefeti nedeniyle ertelemek zorunda kaldı. Alanya'daki otele geri dönen sarı-lacivertli kafilenin öğle saatlerinde yola çıkması bekleniyor.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/fenerbahce-alanyada-hava-muhalefetine-takildi-1708042",
-      "image": "https://images.ntv.com.tr/images/fbbb-140527.jpg",
-      "published_at": "2026-01-19T01:18:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Musk, Tesla’nın Dojo3 süper bilgisayarı üzerindeki çalışmalara yeniden başlayacağını söyledi",
-      "title_tr": "Musk, Tesla’nın Dojo3 süper bilgisayarı üzerindeki çalışmalara yeniden başlayacağını söyledi",
-      "summary": "Musk, Tesla’nın Dojo3 süper bilgisayarı üzerindeki çalışmalara yeniden başlayacağını söyledi",
-      "summary_tr": "Musk, Tesla’nın Dojo3 süper bilgisayarı üzerindeki çalışmalara yeniden başlayacağını söyledi",
-      "long_summary": "Musk, Tesla’nın Dojo3 süper bilgisayarı üzerindeki çalışmalara yeniden başlayacağını söyledi",
-      "long_summary_tr": "Musk, Tesla’nın Dojo3 süper bilgisayarı üzerindeki çalışmalara yeniden başlayacağını söyledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/musk-teslann-dojo3-super-bilgisayar-uzerindeki-calsmalara-yeniden-baslayacagn-soyledi-3719099",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T01:16:45+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "My children were recruited in a trafficking scam. I joined a police hunt to find them",
-      "title_tr": "My children were recruited in a trafficking scam. I joined a police hunt to find them",
-      "summary": "BBC Africa Eye joins an anti-trafficking police unit in Sierra Leone helping a man look for his missing children.",
-      "summary_tr": "BBC Africa Eye joins an anti-trafficking police unit in Sierra Leone helping a man look for his missing children.",
-      "long_summary": "BBC Africa Eye joins an anti-trafficking police unit in Sierra Leone helping a man look for his missing children.",
-      "long_summary_tr": "BBC Africa Eye joins an anti-trafficking police unit in Sierra Leone helping a man look for his missing children.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cx2w9q28xjxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/496b/live/9095bc10-f246-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-19T01:12:12+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Factory explosion in China kills two, injures 84",
-      "title_tr": "Factory explosion in China kills two, injures 84",
-      "summary": "The blast caused noticeable tremors in the area and sent large plumes of smoke into the sky.",
-      "summary_tr": "The blast caused noticeable tremors in the area and sent large plumes of smoke into the sky.",
-      "long_summary": "The blast caused noticeable tremors in the area and sent large plumes of smoke into the sky.",
-      "long_summary_tr": "The blast caused noticeable tremors in the area and sent large plumes of smoke into the sky.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c5y2pg28lgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c099/live/7a1aea70-f4ce-11f0-bf08-15609b914c96.jpg",
-      "published_at": "2026-01-19T00:53:04+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "AU Deals: Games That Aged Brilliantly and Finally Cost What They Should",
-      "title_tr": "AU Deals: Games That Aged Brilliantly and Finally Cost What They Should",
-      "summary": "I did not plan to fall in love with my backlog again, but here we are. This batch of deals sent me digging through games I already adore, ones I bounced off years ago, and a few I absolutely paid too much for at launch. There is something deeply satisfying about seeing time, patches, and good discounts finally align.",
-      "summary_tr": "I did not plan to fall in love with my backlog again, but here we are. This batch of deals sent me digging through games I already adore, ones I bounced off years ago, and a few I absolutely paid too much for at launch. There is something deeply satisfying about seeing time, patches, and good discounts finally align.",
-      "long_summary": "I did not plan to fall in love with my backlog again, but here we are. This batch of deals sent me digging through games I already adore, ones I bounced off years ago, and a few I absolutely paid too much for at launch. There is something deeply satisfying about seeing time, patches, and good discounts finally align.",
-      "long_summary_tr": "I did not plan to fall in love with my backlog again, but here we are. This batch of deals sent me digging through games I already adore, ones I bounced off years ago, and a few I absolutely paid too much for at launch. There is something deeply satisfying about seeing time, patches, and good discounts finally align.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/au-deals-games-that-aged-brilliantly-and-finally-cost-what-they-should",
-      "image": "https://assets-prd.ignimgs.com/2026/01/19/jan-19-this-one-1768782568906.jpg",
-      "published_at": "2026-01-19T00:41:25+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Tesla tedarikçisi Syrah Resources grafit tedarik anlaşmasında daha fazla süre kazandı",
-      "title_tr": "Tesla tedarikçisi Syrah Resources grafit tedarik anlaşmasında daha fazla süre kazandı",
-      "summary": "Tesla tedarikçisi Syrah Resources grafit tedarik anlaşmasında daha fazla süre kazandı",
-      "summary_tr": "Tesla tedarikçisi Syrah Resources grafit tedarik anlaşmasında daha fazla süre kazandı",
-      "long_summary": "Tesla tedarikçisi Syrah Resources grafit tedarik anlaşmasında daha fazla süre kazandı",
-      "long_summary_tr": "Tesla tedarikçisi Syrah Resources grafit tedarik anlaşmasında daha fazla süre kazandı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/tesla-tedarikcisi-syrah-resources-grafit-tedarik-anlasmasnda-daha-fazla-sure-kazand-3719093",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T00:34:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Diaz will 'have nightmares' over 'Panenka' failure",
-      "title_tr": "Diaz will 'have nightmares' over 'Panenka' failure",
-      "summary": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
-      "summary_tr": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
-      "long_summary": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
-      "long_summary_tr": "Brahim Diaz had the chance to win Afcon for Morocco, but his choice to try a Panenka ended up costing his side dearly as Senegal hit back to win the game in extra time.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c6209g0jq0yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/f2362be0-f4c0-11f0-b992-d128a0103e53.png",
-      "published_at": "2026-01-19T00:20:58+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Trump Avrupa’ya Grönland üzerinden tarife tehdidinde bulundu, ABD hisse senedi vadeli işlemleri düştü",
-      "title_tr": "Trump Avrupa’ya Grönland üzerinden tarife tehdidinde bulundu, ABD hisse senedi vadeli işlemleri düştü",
-      "summary": "Trump Avrupa’ya Grönland üzerinden tarife tehdidinde bulundu, ABD hisse senedi vadeli işlemleri düştü",
-      "summary_tr": "Trump Avrupa’ya Grönland üzerinden tarife tehdidinde bulundu, ABD hisse senedi vadeli işlemleri düştü",
-      "long_summary": "Trump Avrupa’ya Grönland üzerinden tarife tehdidinde bulundu, ABD hisse senedi vadeli işlemleri düştü",
-      "long_summary_tr": "Trump Avrupa’ya Grönland üzerinden tarife tehdidinde bulundu, ABD hisse senedi vadeli işlemleri düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/trump-avrupaya-gronland-uzerinden-tarife-tehdidinde-bulundu-abd-hisse-senedi-vadeli-islemleri-dustu-3719092",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-19T00:20:12+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
-      "title_tr": "'Shameful' and 'terrible look' - the chaos that marred Senegal's Afcon triumph",
-      "summary": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play after the hosts are awarded a controversial stoppage time-penalty with the match 0-0.",
-      "summary_tr": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play after the hosts are awarded a controversial stoppage time-penalty with the match 0-0.",
-      "long_summary": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play after the hosts are awarded a controversial stoppage time-penalty with the match 0-0.",
-      "long_summary_tr": "Senegal beat Morocco to win the Africa Cup of Nations for a second time - but only after the final was overshadowed when they temporarily refuse to play after the hosts are awarded a controversial stoppage time-penalty with the match 0-0.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c70ljednyl6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbfd/live/a2879210-f4bf-11f0-b992-d128a0103e53.jpg",
-      "published_at": "2026-01-19T00:20:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "How cue 'from Father Christmas' helped Wilson win Masters",
-      "title_tr": "How cue 'from Father Christmas' helped Wilson win Masters",
-      "summary": "How Kyren Wilson went from being close to a \"mental breakdown\" during a match to winning the Masters in the space of six weeks.",
-      "summary_tr": "How Kyren Wilson went from being close to a \"mental breakdown\" during a match to winning the Masters in the space of six weeks.",
-      "long_summary": "How Kyren Wilson went from being close to a \"mental breakdown\" during a match to winning the Masters in the space of six weeks.",
-      "long_summary_tr": "How Kyren Wilson went from being close to a \"mental breakdown\" during a match to winning the Masters in the space of six weeks.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/snooker/articles/c1lzqden5zno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1089/live/f4c04310-f4c9-11f0-b5f7-49f0357294ff.jpg",
-      "published_at": "2026-01-19T00:13:01+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Will Frank and Glasner see the season out?",
-      "title_tr": "Will Frank and Glasner see the season out?",
-      "summary": "Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end of the season.",
-      "summary_tr": "Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end of the season.",
-      "long_summary": "Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end of the season.",
-      "long_summary_tr": "Match of the Day's Kelly Cates, Joe Hart and Ellen White discuss whether it is possible for Tottenham manager Thomas Frank and Crystal Palace boss Oliver Glasner to remain at their clubs until the end of the season.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/c5yxpgkgn53o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2024/live/fdef6b30-f4cb-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-19T00:12:34+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Everton disallowed goal frustrating but right decision - Hart",
-      "title_tr": "Everton disallowed goal frustrating but right decision - Hart",
-      "summary": "Match of the Day pundit Joe Hart says Everton players and fans are right to be \"frustrated\" by their disallowed goal against Aston Villa, it was the correct decision.",
-      "summary_tr": "Match of the Day pundit Joe Hart says Everton players and fans are right to be \"frustrated\" by their disallowed goal against Aston Villa, it was the correct decision.",
-      "long_summary": "Match of the Day pundit Joe Hart says Everton players and fans are right to be \"frustrated\" by their disallowed goal against Aston Villa, it was the correct decision.",
-      "long_summary_tr": "Match of the Day pundit Joe Hart says Everton players and fans are right to be \"frustrated\" by their disallowed goal against Aston Villa, it was the correct decision.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/cx20n7v7k4jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb7/live/afa68aa0-f4c4-11f0-a422-4ba8a094a8fa.jpg",
-      "published_at": "2026-01-19T00:00:50+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "'The finest in the world': Why the US is buying icebreakers from Finland",
-      "title_tr": "'The finest in the world': Why the US is buying icebreakers from Finland",
-      "summary": "The Nordic nation leads the way when it comes to both the design and construction of the vessels.",
-      "summary_tr": "The Nordic nation leads the way when it comes to both the design and construction of the vessels.",
-      "long_summary": "The Nordic nation leads the way when it comes to both the design and construction of the vessels.",
-      "long_summary_tr": "The Nordic nation leads the way when it comes to both the design and construction of the vessels.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c0q48d71ke8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f208/live/18b3c380-f12a-11f0-8813-c1dd7edee31e.jpg",
-      "published_at": "2026-01-19T00:00:19+00:00"
     }
   ]
 }
