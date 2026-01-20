@@ -1,27 +1,577 @@
 {
-  "updated_at": "2026-01-20T21:35:59.974383+00:00",
+  "updated_at": "2026-01-20T22:35:38.537665+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Fiyatlardaki artışlar, düğün takılarını değiştirdi: Altın bileziklerin yerini gümüş aldı",
+      "title_tr": "Fiyatlardaki artışlar, düğün takılarını değiştirdi: Altın bileziklerin yerini gümüş aldı",
+      "summary": "Gümüşteki yükseliş, yatırım ve takı tercihlerini de değiştirdi. Geleneksel altın bileziklerin yerini, gümüş bilezikler almaya başladı.",
+      "summary_tr": "Gümüşteki yükseliş, yatırım ve takı tercihlerini de değiştirdi. Geleneksel altın bileziklerin yerini, gümüş bilezikler almaya başladı.",
+      "long_summary": "Gümüşteki yükseliş, yatırım ve takı tercihlerini de değiştirdi. Geleneksel altın bileziklerin yerini, gümüş bilezikler almaya başladı.",
+      "long_summary_tr": "Gümüşteki yükseliş, yatırım ve takı tercihlerini de değiştirdi. Geleneksel altın bileziklerin yerini, gümüş bilezikler almaya başladı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/fiyatlardaki-artislar-dugun-takilarini-degistirdi-altin-bileziklerin-yerini-gumus-aldi-1708319",
+      "image": "https://images.ntv.com.tr/images/AW624771_03-155648.jpg",
+      "published_at": "2026-01-20T22:27:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Netflix'in geliri 2025'in son çeyreğinde yüzde 17,6 arttı",
+      "title_tr": "Netflix'in geliri 2025'in son çeyreğinde yüzde 17,6 arttı",
+      "summary": "Netflix'in geliri 2025'in son çeyreğinde yüzde 17,6 artışla 12,1 milyar dolara yükselirken, net kârı da yüzde 29,4 artarak 2,4 milyar dolar oldu.",
+      "summary_tr": "Netflix'in geliri 2025'in son çeyreğinde yüzde 17,6 artışla 12,1 milyar dolara yükselirken, net kârı da yüzde 29,4 artarak 2,4 milyar dolar oldu.",
+      "long_summary": "Netflix'in geliri 2025'in son çeyreğinde yüzde 17,6 artışla 12,1 milyar dolara yükselirken, net kârı da yüzde 29,4 artarak 2,4 milyar dolar oldu.",
+      "long_summary_tr": "Netflix'in geliri 2025'in son çeyreğinde yüzde 17,6 artışla 12,1 milyar dolara yükselirken, net kârı da yüzde 29,4 artarak 2,4 milyar dolar oldu.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/netflix-in-geliri-2025-in-son-ceyreginde-yuzde-17-6-artti-3766838",
+      "image": null,
+      "published_at": "2026-01-20T22:23:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Currenc hisseleri Nasdaq uyum bildirimi aldıktan sonra düştü",
+      "title_tr": "Currenc hisseleri Nasdaq uyum bildirimi aldıktan sonra düştü",
+      "summary": "Currenc hisseleri Nasdaq uyum bildirimi aldıktan sonra düştü",
+      "summary_tr": "Currenc hisseleri Nasdaq uyum bildirimi aldıktan sonra düştü",
+      "long_summary": "Currenc hisseleri Nasdaq uyum bildirimi aldıktan sonra düştü",
+      "long_summary_tr": "Currenc hisseleri Nasdaq uyum bildirimi aldıktan sonra düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/currenc-hisseleri-nasdaq-uyum-bildirimi-aldktan-sonra-dustu-93CH-3721887",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T22:17:47+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "Army’s next-gen tank has ‘Formula 1’ cockpit, top general says",
+      "title_tr": "Army’s next-gen tank has ‘Formula 1’ cockpit, top general says",
+      "summary": "The M1E3's “Formula One cockpit” contains a driver interface that “looks like an X-Box controller,” said Army Chief of Staff Gen. Randy George.",
+      "summary_tr": "The M1E3's “Formula One cockpit” contains a driver interface that “looks like an X-Box controller,” said Army Chief of Staff Gen. Randy George.",
+      "long_summary": "The M1E3's “Formula One cockpit” contains a driver interface that “looks like an X-Box controller,” said Army Chief of Staff Gen. Randy George.",
+      "long_summary_tr": "The M1E3's “Formula One cockpit” contains a driver interface that “looks like an X-Box controller,” said Army Chief of Staff Gen. Randy George.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/your-military/2026/01/20/armys-next-gen-tank-has-formula-1-cockpit-top-general-says/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Y4HJHJIVANAFZIRSHPXWIQUOWU.jpg",
+      "published_at": "2026-01-20T22:17:08+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Resmi Gazete'de bugün (21.01.2026)",
+      "title_tr": "Resmi Gazete'de bugün (21.01.2026)",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "long_summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "long_summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-21012026-3766837",
+      "image": null,
+      "published_at": "2026-01-20T22:13:41+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "New York borsası düşüşle kapandı",
+      "title_tr": "New York borsası düşüşle kapandı",
+      "summary": "New York borsası, ABD Başkanı Donald Trump&#039;ın Grönland konusunda bazı Avrupa ülkelerine gümrük vergileri uygulanacağını açıklamasının ardından artan risk algısıyla günü sert düşüşle tamamladı.",
+      "summary_tr": "New York borsası, ABD Başkanı Donald Trump&#039;ın Grönland konusunda bazı Avrupa ülkelerine gümrük vergileri uygulanacağını açıklamasının ardından artan risk algısıyla günü sert düşüşle tamamladı.",
+      "long_summary": "New York borsası, ABD Başkanı Donald Trump&#039;ın Grönland konusunda bazı Avrupa ülkelerine gümrük vergileri uygulanacağını açıklamasının ardından artan risk algısıyla günü sert düşüşle tamamladı.",
+      "long_summary_tr": "New York borsası, ABD Başkanı Donald Trump&#039;ın Grönland konusunda bazı Avrupa ülkelerine gümrük vergileri uygulanacağını açıklamasının ardından artan risk algısıyla günü sert düşüşle tamamladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-dususle-kapandi-haberi-812116",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/21/n1-nd0a_cover.jpg",
+      "published_at": "2026-01-20T22:10:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Suriye'de uçuş güvenliğini ASELSAN sağlayacak",
+      "title_tr": "Suriye'de uçuş güvenliğini ASELSAN sağlayacak",
+      "summary": "ASELSAN tarafından üretilen Hava Trafik Kontrol Radar Sistemi HTRS 100, Şam Uluslararası Havalimanı&#039;nda uçuş güvenliğine katkı sağlayacak.",
+      "summary_tr": "ASELSAN tarafından üretilen Hava Trafik Kontrol Radar Sistemi HTRS 100, Şam Uluslararası Havalimanı&#039;nda uçuş güvenliğine katkı sağlayacak.",
+      "long_summary": "ASELSAN tarafından üretilen Hava Trafik Kontrol Radar Sistemi HTRS 100, Şam Uluslararası Havalimanı&#039;nda uçuş güvenliğine katkı sağlayacak.",
+      "long_summary_tr": "ASELSAN tarafından üretilen Hava Trafik Kontrol Radar Sistemi HTRS 100, Şam Uluslararası Havalimanı&#039;nda uçuş güvenliğine katkı sağlayacak.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sirketler/suriyede-ucus-guvenligini-aselsan-saglayacak-haberi-812115",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/21/ss1-ntkv_cover.jpg",
+      "published_at": "2026-01-20T22:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "NVIDIA, Moody’s’de yapay zeka altyapısındaki hakimiyetiyle Aa1 statüsüne yükseldi",
+      "title_tr": "NVIDIA, Moody’s’de yapay zeka altyapısındaki hakimiyetiyle Aa1 statüsüne yükseldi",
+      "summary": "NVIDIA, Moody’s’de yapay zeka altyapısındaki hakimiyetiyle Aa1 statüsüne yükseldi",
+      "summary_tr": "NVIDIA, Moody’s’de yapay zeka altyapısındaki hakimiyetiyle Aa1 statüsüne yükseldi",
+      "long_summary": "NVIDIA, Moody’s’de yapay zeka altyapısındaki hakimiyetiyle Aa1 statüsüne yükseldi",
+      "long_summary_tr": "NVIDIA, Moody’s’de yapay zeka altyapısındaki hakimiyetiyle Aa1 statüsüne yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/nvidia-moodysde-yapay-zeka-altyapsndaki-hakimiyeti-sayesinde-aa1-statusune-yukseldi-3721876",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T22:00:46+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Jesus and Gyokeres give Arteta selection headache as Arsenal beat Inter",
+      "title_tr": "Jesus and Gyokeres give Arteta selection headache as Arsenal beat Inter",
+      "summary": "Arsenal celebrated their qualification to the Champions League last 16 in style as they beat Inter Milan courtesy of Gabriel Jesus and Viktor Gyokeres.",
+      "summary_tr": "Arsenal celebrated their qualification to the Champions League last 16 in style as they beat Inter Milan courtesy of Gabriel Jesus and Viktor Gyokeres.",
+      "long_summary": "Arsenal celebrated their qualification to the Champions League last 16 in style as they beat Inter Milan courtesy of Gabriel Jesus and Viktor Gyokeres.",
+      "long_summary_tr": "Arsenal celebrated their qualification to the Champions League last 16 in style as they beat Inter Milan courtesy of Gabriel Jesus and Viktor Gyokeres.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/inter-milan-vs-arsenal/report/548021",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-gabriel-jesus_7141002.jpg?20260120212453",
+      "published_at": "2026-01-20T22:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Netflix'ten güçlü performans: Gelir yüzde 17,6 yükseldi",
+      "title_tr": "Netflix'ten güçlü performans: Gelir yüzde 17,6 yükseldi",
+      "summary": "Küresel internet televizyon ağı Netflix&#039;in geliri, geçen yılın son çeyreğinde yüzde 17,6 artışla yaklaşık 12,1 milyar dolar oldu.",
+      "summary_tr": "Küresel internet televizyon ağı Netflix&#039;in geliri, geçen yılın son çeyreğinde yüzde 17,6 artışla yaklaşık 12,1 milyar dolar oldu.",
+      "long_summary": "Küresel internet televizyon ağı Netflix&#039;in geliri, geçen yılın son çeyreğinde yüzde 17,6 artışla yaklaşık 12,1 milyar dolar oldu.",
+      "long_summary_tr": "Küresel internet televizyon ağı Netflix&#039;in geliri, geçen yılın son çeyreğinde yüzde 17,6 artışla yaklaşık 12,1 milyar dolar oldu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sirketler/netflixten-guclu-performans-gelir-yuzde-176-yukseldi-haberi-812114",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/21/n1-s9jg_cover.jpg",
+      "published_at": "2026-01-20T22:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'Battered in Bodo' - is this more than just a blip for Man City?",
+      "title_tr": "'Battered in Bodo' - is this more than just a blip for Man City?",
+      "summary": "Manchester City suffered their very own \"hell of a beating\" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.",
+      "summary_tr": "Manchester City suffered their very own \"hell of a beating\" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.",
+      "long_summary": "Manchester City suffered their very own \"hell of a beating\" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.",
+      "long_summary_tr": "Manchester City suffered their very own \"hell of a beating\" moment in Norway on Tuesday - now Pep Guardiola and his players must turn around their fortunes in an increasingly trying January.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/articles/crkr76gkxr7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e939/live/21584f50-f644-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-20T21:59:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Kanada Başbakanı'ndan Davos'ta ABD'ye sert sözler: Kopuşun tam ortasındayız",
+      "title_tr": "Kanada Başbakanı'ndan Davos'ta ABD'ye sert sözler: Kopuşun tam ortasındayız",
+      "summary": "Kanada Başbakanı Mark Carney, Davos'taki Dünya Ekonomik Forumu'nda \"kurallara dayalı uluslararası düzen\" anlatısının bir kurgu olduğunu zaten bildiklerini ve ABD'nin işine geldiğinde kuralları kendisi için esnettiğini söyledi.",
+      "summary_tr": "Kanada Başbakanı Mark Carney, Davos'taki Dünya Ekonomik Forumu'nda \"kurallara dayalı uluslararası düzen\" anlatısının bir kurgu olduğunu zaten bildiklerini ve ABD'nin işine geldiğinde kuralları kendisi için esnettiğini söyledi.",
+      "long_summary": "Kanada Başbakanı Mark Carney, Davos'taki Dünya Ekonomik Forumu'nda \"kurallara dayalı uluslararası düzen\" anlatısının bir kurgu olduğunu zaten bildiklerini ve ABD'nin işine geldiğinde kuralları kendisi için esnettiğini söyledi.",
+      "long_summary_tr": "Kanada Başbakanı Mark Carney, Davos'taki Dünya Ekonomik Forumu'nda \"kurallara dayalı uluslararası düzen\" anlatısının bir kurgu olduğunu zaten bildiklerini ve ABD'nin işine geldiğinde kuralları kendisi için esnettiğini söyledi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/kanada-basbakani-ndan-davos-ta-tarihi-itiraf-3766836",
+      "image": null,
+      "published_at": "2026-01-20T21:58:32+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Patched-up Spurs relieve pressure on Frank with impressive Dortmund win",
+      "title_tr": "Patched-up Spurs relieve pressure on Frank with impressive Dortmund win",
+      "summary": "Patched-up Spurs' best 45 minutes of the season relieved some of the mounting pressure on Thomas Frank with a 2-0 win over 10-man Borussia Dortmund.",
+      "summary_tr": "Patched-up Spurs' best 45 minutes of the season relieved some of the mounting pressure on Thomas Frank with a 2-0 win over 10-man Borussia Dortmund.",
+      "long_summary": "Patched-up Spurs' best 45 minutes of the season relieved some of the mounting pressure on Thomas Frank with a 2-0 win over 10-man Borussia Dortmund.",
+      "long_summary_tr": "Patched-up Spurs' best 45 minutes of the season relieved some of the mounting pressure on Thomas Frank with a 2-0 win over 10-man Borussia Dortmund.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-borussia-dortmund/report/548026",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-cristian-romero-spurs_7140948.jpg?20260120203108",
+      "published_at": "2026-01-20T21:57:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Moody’s, kablo kesme baskısı nedeniyle Sinclair Television’ı Caa1’e düşürdü",
+      "title_tr": "Moody’s, kablo kesme baskısı nedeniyle Sinclair Television’ı Caa1’e düşürdü",
+      "summary": "Moody’s, kablo kesme baskısı nedeniyle Sinclair Television’ı Caa1’e düşürdü",
+      "summary_tr": "Moody’s, kablo kesme baskısı nedeniyle Sinclair Television’ı Caa1’e düşürdü",
+      "long_summary": "Moody’s, kablo kesme baskısı nedeniyle Sinclair Television’ı Caa1’e düşürdü",
+      "long_summary_tr": "Moody’s, kablo kesme baskısı nedeniyle Sinclair Television’ı Caa1’e düşürdü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/moodys-kablo-kesme-basks-nedeniyle-sinclair-television-caa1e-dusurdu-93CH-3721869",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:54:43+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Beyoğlu’nda 4 katlı iş yerinde yangın",
+      "title_tr": "Beyoğlu’nda 4 katlı iş yerinde yangın",
+      "summary": "Beyoğlu’nda akşam saatlerinde bir iş yerinin çatısında yangın çıktı. Çıkan yangın kısa sürede kontrol altına alınırken, ölen ya da yaralanan olmadı.",
+      "summary_tr": "Beyoğlu’nda akşam saatlerinde bir iş yerinin çatısında yangın çıktı. Çıkan yangın kısa sürede kontrol altına alınırken, ölen ya da yaralanan olmadı.",
+      "long_summary": "Beyoğlu’nda akşam saatlerinde bir iş yerinin çatısında yangın çıktı. Çıkan yangın kısa sürede kontrol altına alınırken, ölen ya da yaralanan olmadı.",
+      "long_summary_tr": "Beyoğlu’nda akşam saatlerinde bir iş yerinin çatısında yangın çıktı. Çıkan yangın kısa sürede kontrol altına alınırken, ölen ya da yaralanan olmadı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/beyoglunda-4-katli-is-yerinde-yangin-haberi-812113",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/21/yangin-frxj_cover.jpg",
+      "published_at": "2026-01-20T21:53:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Mesai sonrası hareketlenenler: Netflix, United Airlines, Zions Bancorp ve diğerleri",
+      "title_tr": "Mesai sonrası hareketlenenler: Netflix, United Airlines, Zions Bancorp ve diğerleri",
+      "summary": "Mesai sonrası hareketlenenler: Netflix, United Airlines, Zions Bancorp ve diğerleri",
+      "summary_tr": "Mesai sonrası hareketlenenler: Netflix, United Airlines, Zions Bancorp ve diğerleri",
+      "long_summary": "Mesai sonrası hareketlenenler: Netflix, United Airlines, Zions Bancorp ve diğerleri",
+      "long_summary_tr": "Mesai sonrası hareketlenenler: Netflix, United Airlines, Zions Bancorp ve diğerleri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/mesai-sonras-hareketlenenler-netflix-united-airlines-zions-bancorp-ve-digerleri-432SI-3721864",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEA9D0VD_M.jpg",
+      "published_at": "2026-01-20T21:49:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Kraft Heinz hisseleri, Berkshire’ın potansiyel hisse satışı başvurusu sonrası düştü",
+      "title_tr": "Kraft Heinz hisseleri, Berkshire’ın potansiyel hisse satışı başvurusu sonrası düştü",
+      "summary": "Kraft Heinz hisseleri, Berkshire’ın potansiyel hisse satışı başvurusu sonrası düştü",
+      "summary_tr": "Kraft Heinz hisseleri, Berkshire’ın potansiyel hisse satışı başvurusu sonrası düştü",
+      "long_summary": "Kraft Heinz hisseleri, Berkshire’ın potansiyel hisse satışı başvurusu sonrası düştü",
+      "long_summary_tr": "Kraft Heinz hisseleri, Berkshire’ın potansiyel hisse satışı başvurusu sonrası düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/kraft-heinz-hisseleri-berkshiren-potansiyel-hisse-sats-basvurusu-sonras-dustu-93CH-3721862",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:47:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Cohen hissesini %9,2’ye çıkardıktan sonra GameStop hisseleri yükseldi",
+      "title_tr": "Cohen hissesini %9,2’ye çıkardıktan sonra GameStop hisseleri yükseldi",
+      "summary": "Cohen hissesini %9,2’ye çıkardıktan sonra GameStop hisseleri yükseldi",
+      "summary_tr": "Cohen hissesini %9,2’ye çıkardıktan sonra GameStop hisseleri yükseldi",
+      "long_summary": "Cohen hissesini %9,2’ye çıkardıktan sonra GameStop hisseleri yükseldi",
+      "long_summary_tr": "Cohen hissesini %9,2’ye çıkardıktan sonra GameStop hisseleri yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/cohen-hissesini-92ye-ckardktan-sonra-gamestop-hisseleri-yukseldi-93CH-3721857",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:43:53+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Olenox Industries’a dönüşen Safe & Green Holdings hisseleri yükseldi",
+      "title_tr": "Olenox Industries’a dönüşen Safe & Green Holdings hisseleri yükseldi",
+      "summary": "Olenox Industries’a dönüşen Safe & Green Holdings hisseleri yükseldi",
+      "summary_tr": "Olenox Industries’a dönüşen Safe & Green Holdings hisseleri yükseldi",
+      "long_summary": "Olenox Industries’a dönüşen Safe & Green Holdings hisseleri yükseldi",
+      "long_summary_tr": "Olenox Industries’a dönüşen Safe & Green Holdings hisseleri yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/olenox-industriesa-donusen-safe--green-holdings-hisseleri-yukseldi-93CH-3721847",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:39:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Energy Fuels hisseleri, Australian Strategic Materials’i satın alma planını açıkladıktan sonra yükseldi",
+      "title_tr": "Energy Fuels hisseleri, Australian Strategic Materials’i satın alma planını açıkladıktan sonra yükseldi",
+      "summary": "Energy Fuels hisseleri, Australian Strategic Materials’i satın alma planını açıkladıktan sonra yükseldi",
+      "summary_tr": "Energy Fuels hisseleri, Australian Strategic Materials’i satın alma planını açıkladıktan sonra yükseldi",
+      "long_summary": "Energy Fuels hisseleri, Australian Strategic Materials’i satın alma planını açıkladıktan sonra yükseldi",
+      "long_summary_tr": "Energy Fuels hisseleri, Australian Strategic Materials’i satın alma planını açıkladıktan sonra yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/energy-fuels-hisseleri-australian-strategic-materialsi-satn-alma-plann-ackladktan-sonra-yukseldi-93CH-3721846",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:39:20+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Oyun / Dijital",
       "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "GameSpot",
-      "title": "Fallout Episode 6 Exclusive Clip Teases What's To Come Next",
-      "title_tr": "Fallout Episode 6 Exclusive Clip Teases What's To Come Next",
-      "summary": "Prime Video's Fallout TV series returns on January 21 with a new Season 2 episode, and GameSpot can now debut a new clip from it.The clip, \"Are You Going To Sell It?,\" shows Maximus (Aaron Moten) and Thaddeus (Johnny Pemberton) in the middle of the desert trying to figure out what to do with cold fusion after escaping the brotherhood. We won't spoil the exchange for you, but it's trademark Fallout stuff.The full episode drops at midnight PT / 3 AM ET on January 21.Continue Reading at GameSpot",
-      "summary_tr": "Prime Video's Fallout TV series returns on January 21 with a new Season 2 episode, and GameSpot can now debut a new clip from it.The clip, \"Are You Going To Sell It?,\" shows Maximus (Aaron Moten) and Thaddeus (Johnny Pemberton) in the middle of the desert trying to figure out what to do with cold fusion after escaping the brotherhood. We won't spoil the exchange for you, but it's trademark Fallout stuff.The full episode drops at midnight PT / 3 AM ET on January 21.Continue Reading at GameSpot",
-      "long_summary": "Prime Video's Fallout TV series returns on January 21 with a new Season 2 episode, and GameSpot can now debut a new clip from it.The clip, \"Are You Going To Sell It?,\" shows Maximus (Aaron Moten) and Thaddeus (Johnny Pemberton) in the middle of the desert trying to figure out what to do with cold fusion after escaping the brotherhood. We won't spoil the exchange for you, but it's trademark Fallout stuff.The full episode drops at midnight PT / 3 AM ET on January 21.Continue Reading at GameSpot",
-      "long_summary_tr": "Prime Video's Fallout TV series returns on January 21 with a new Season 2 episode, and GameSpot can now debut a new clip from it.The clip, \"Are You Going To Sell It?,\" shows Maximus (Aaron Moten) and Thaddeus (Johnny Pemberton) in the middle of the desert trying to figure out what to do with cold fusion after escaping the brotherhood. We won't spoil the exchange for you, but it's trademark Fallout stuff.The full episode drops at midnight PT / 3 AM ET on January 21.Continue Reading at GameSpot",
+      "source": "IGN",
+      "title": "The Powerful OMEN MAX 16 RTX 5080 Gaming Laptop Drops to $1,930 at HP Direct",
+      "title_tr": "The Powerful OMEN MAX 16 RTX 5080 Gaming Laptop Drops to $1,930 at HP Direct",
+      "summary": "The only RTX 5080 gaming laptop priced under $2,000 at the moment.",
+      "summary_tr": "The only RTX 5080 gaming laptop priced under $2,000 at the moment.",
+      "long_summary": "The only RTX 5080 gaming laptop priced under $2,000 at the moment.",
+      "long_summary_tr": "The only RTX 5080 gaming laptop priced under $2,000 at the moment.",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/fallout-episode-6-exclusive-clip-teases-whats-to-come-next/1100-6537517/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4638017-screenshot2026-01-20at3.46.11%E2%80%AFpm.png",
-      "published_at": "2026-01-20T21:30:00+00:00"
+      "url": "https://www.ign.com/articles/hp-omen-max-16-rtx-5080-gaming-laptop-deal-2026-1",
+      "image": "https://assets-prd.ignimgs.com/2026/01/20/hpomenmax-1768943107013.jpg",
+      "published_at": "2026-01-20T21:35:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Serve Robotics hisseleri hastane robot üreticisi Diligent’ı satın almasıyla yükseldi",
+      "title_tr": "Serve Robotics hisseleri hastane robot üreticisi Diligent’ı satın almasıyla yükseldi",
+      "summary": "Serve Robotics hisseleri hastane robot üreticisi Diligent’ı satın almasıyla yükseldi",
+      "summary_tr": "Serve Robotics hisseleri hastane robot üreticisi Diligent’ı satın almasıyla yükseldi",
+      "long_summary": "Serve Robotics hisseleri hastane robot üreticisi Diligent’ı satın almasıyla yükseldi",
+      "long_summary_tr": "Serve Robotics hisseleri hastane robot üreticisi Diligent’ı satın almasıyla yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/serve-robotics-hisseleri-hastane-robot-ureticisi-diligent-satn-almasyla-yukseldi-93CH-3721837",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:34:51+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Second lady Usha Vance announces she is pregnant with fourth child",
+      "title_tr": "Second lady Usha Vance announces she is pregnant with fourth child",
+      "summary": "Vance posted on social media that she is looking forward to welcoming a boy in late July.",
+      "summary_tr": "Vance posted on social media that she is looking forward to welcoming a boy in late July.",
+      "long_summary": "Vance posted on social media that she is looking forward to welcoming a boy in late July.",
+      "long_summary_tr": "Vance posted on social media that she is looking forward to welcoming a boy in late July.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/crkr7z7ky6po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0107/live/5e37d4b0-f64c-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-20T21:34:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Trump \"çok önemli\" diye duyurdu. \"Cumhurbaşkanı Erdoğan ile görüşeceğim\"",
+      "title_tr": "Trump \"çok önemli\" diye duyurdu. \"Cumhurbaşkanı Erdoğan ile görüşeceğim\"",
+      "summary": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
+      "summary_tr": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
+      "long_summary": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
+      "long_summary_tr": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/trumptan-daesli-mahkumlar-aciklamasi-dunyanin-en-kotu-teroristleriydi-onlari-yakaladik-1708302",
+      "image": "https://images.ntv.com.tr/images/AA-362731(2).jpg",
+      "published_at": "2026-01-20T21:32:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "İspanya’da bilanço ağırlaşıyor: Ölü sayısı 42’ye çıktı",
+      "title_tr": "İspanya’da bilanço ağırlaşıyor: Ölü sayısı 42’ye çıktı",
+      "summary": "İspanya&#039;nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında önceki gün meydana gelen iki hızlı trenin karıştığı kazada hayatını kaybedenlerin sayısı 42&#039;ye yükseldi.",
+      "summary_tr": "İspanya&#039;nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında önceki gün meydana gelen iki hızlı trenin karıştığı kazada hayatını kaybedenlerin sayısı 42&#039;ye yükseldi.",
+      "long_summary": "İspanya&#039;nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında önceki gün meydana gelen iki hızlı trenin karıştığı kazada hayatını kaybedenlerin sayısı 42&#039;ye yükseldi.",
+      "long_summary_tr": "İspanya&#039;nın güneyindeki Endülüs bölgesinin Kurtuba kenti yakınlarında önceki gün meydana gelen iki hızlı trenin karıştığı kazada hayatını kaybedenlerin sayısı 42&#039;ye yükseldi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/ispanyada-bilanco-agirlasiyor-olu-sayisi-42ye-cikti-haberi-812112",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/21/tr-vf9t_cover.jpg",
+      "published_at": "2026-01-20T21:32:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'Everything is going wrong' - Guardiola on Bodo/Glimt upset",
+      "title_tr": "'Everything is going wrong' - Guardiola on Bodo/Glimt upset",
+      "summary": "Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.",
+      "summary_tr": "Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.",
+      "long_summary": "Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.",
+      "long_summary_tr": "Pep Guardiola responds to his team's second defeat in four days as Manchester City lose at Bodo/Glimt in the Champions League.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/cz6y80exn3zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0151/live/e4032b20-f643-11f0-b5f7-49f0357294ff.jpg",
+      "published_at": "2026-01-20T21:30:24+00:00"
     },
     {
       "origin": "yabanci",
@@ -46,6 +596,28 @@
       "published_at": "2026-01-20T21:29:00+00:00"
     },
     {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Europe to suspend approval of US tariffs deal",
+      "title_tr": "Europe to suspend approval of US tariffs deal",
+      "summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
+      "summary_tr": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
+      "long_summary": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
+      "long_summary_tr": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e68/live/0c0102d0-f61e-11f0-a76f-d76034ae9e17.jpg",
+      "published_at": "2026-01-20T21:28:31+00:00"
+    },
+    {
       "origin": "turkiye",
       "category": "Ekonomi",
       "category_slug": "ekonomi",
@@ -68,26 +640,26 @@
       "published_at": "2026-01-20T21:27:00+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
       "is_local": false,
-      "source": "GameSpot",
-      "title": "Razer Boss Decries AI \"Slop\" But Is Still Bullish On AI In Games",
-      "title_tr": "Razer Boss Decries AI \"Slop\" But Is Still Bullish On AI In Games",
-      "summary": "During this year's CES, Razer declared that the \"future of gaming is AI,\" which led to a backlash on the company's social media channels. Razer CEO Min-Liang Tan hasn't backed down from his company's stance, but he has offered an explanation that clarifies where it stands on AI in game development.\"'What are we unhappy with?' When I say we, I mean us as gamers,\" Tan told The Verge. \"I think we're unhappy with generative AI slop, right? Just to put it out there. And that's something that I'm unhappy with. Like any gamer, when I play a game, I want to be engaged, I wanna be immersed, I wanna be able to be competitive. I don't want to be served character models with extra fingers and stuff like that, or shoddily written storylines, so on and so forth. I think for us, we're all aligned against gen AI slop that is just churned out from a couple of prompts and stuff like that.\"Tan went on to state that AI tools can be used to help developers fix bugs and complete games faster without resorting to using AI slop as content. He also noted that he's against AI \"replacing human creativity.\"Continue Reading at GameSpot",
-      "summary_tr": "During this year's CES, Razer declared that the \"future of gaming is AI,\" which led to a backlash on the company's social media channels. Razer CEO Min-Liang Tan hasn't backed down from his company's stance, but he has offered an explanation that clarifies where it stands on AI in game development.\"'What are we unhappy with?' When I say we, I mean us as gamers,\" Tan told The Verge. \"I think we're unhappy with generative AI slop, right? Just to put it out there. And that's something that I'm unhappy with. Like any gamer, when I play a game, I want to be engaged, I wanna be immersed, I wanna be able to be competitive. I don't want to be served character models with extra fingers and stuff like that, or shoddily written storylines, so on and so forth. I think for us, we're all aligned against gen AI slop that is just churned out from a couple of prompts and stuff like that.\"Tan went on to state that AI tools can be used to help developers fix bugs and complete games faster without resorting to using AI slop as content. He also noted that he's against AI \"replacing human creativity.\"Continue Reading at GameSpot",
-      "long_summary": "During this year's CES, Razer declared that the \"future of gaming is AI,\" which led to a backlash on the company's social media channels. Razer CEO Min-Liang Tan hasn't backed down from his company's stance, but he has offered an explanation that clarifies where it stands on AI in game development.\"'What are we unhappy with?' When I say we, I mean us as gamers,\" Tan told The Verge. \"I think we're unhappy with generative AI slop, right? Just to put it out there. And that's something that I'm",
-      "long_summary_tr": "During this year's CES, Razer declared that the \"future of gaming is AI,\" which led to a backlash on the company's social media channels. Razer CEO Min-Liang Tan hasn't backed down from his company's stance, but he has offered an explanation that clarifies where it stands on AI in game development.\"'What are we unhappy with?' When I say we, I mean us as gamers,\" Tan told The Verge. \"I think we're unhappy with generative AI slop, right? Just to put it out there. And that's something that I'm",
+      "source": "Investing TR",
+      "title": "BioAge hisseleri 75 milyon dolarlık halka arz duyurusunun ardından düştü",
+      "title_tr": "BioAge hisseleri 75 milyon dolarlık halka arz duyurusunun ardından düştü",
+      "summary": "BioAge hisseleri 75 milyon dolarlık halka arz duyurusunun ardından düştü",
+      "summary_tr": "BioAge hisseleri 75 milyon dolarlık halka arz duyurusunun ardından düştü",
+      "long_summary": "BioAge hisseleri 75 milyon dolarlık halka arz duyurusunun ardından düştü",
+      "long_summary_tr": "BioAge hisseleri 75 milyon dolarlık halka arz duyurusunun ardından düştü",
       "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/razer-boss-decries-ai-slop-but-is-still-bullish-on-ai-in-games/1100-6537518/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4638016-razergear.jpg",
-      "published_at": "2026-01-20T21:15:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/bioage-hisseleri-75-milyon-dolarlk-halka-arz-duyurusunun-ardndan-dustu-93CH-3721822",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-20T21:26:31+00:00"
     },
     {
       "origin": "turkiye",
@@ -176,28 +748,6 @@
       "url": "https://www.yalovagazetesi.com/vali-ustadan-hizli-baslangic",
       "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/01/haber/vali-ustadan-hizli-baslangic-3.jpg",
       "published_at": "2026-01-20T21:12:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Trump \"çok önemli\" diye duyurdu. \"Cumhurbaşkanı Erdoğan ile görüşeceğim\"",
-      "title_tr": "Trump \"çok önemli\" diye duyurdu. \"Cumhurbaşkanı Erdoğan ile görüşeceğim\"",
-      "summary": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
-      "summary_tr": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
-      "long_summary": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/trumptan-daesli-mahkumlar-aciklamasi-dunyanin-en-kotu-teroristleriydi-onlari-yakaladik-1708302",
-      "image": "https://images.ntv.com.tr/images/AA-362731(2).jpg",
-      "published_at": "2026-01-20T21:11:42+00:00"
     },
     {
       "origin": "turkiye",
@@ -354,28 +904,6 @@
       "published_at": "2026-01-20T21:07:00+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Everything is going wrong' - Pep responds to Champions League upset",
-      "title_tr": "'Everything is going wrong' - Pep responds to Champions League upset",
-      "summary": "'Everything is going wrong' - Pep responds to Champions League upset",
-      "summary_tr": "'Everything is going wrong' - Pep responds to Champions League upset",
-      "long_summary": "'Everything is going wrong' - Pep responds to Champions League upset",
-      "long_summary_tr": "'Everything is going wrong' - Pep responds to Champions League upset",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/programmes/p0mw417b?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mw43st.jpg",
-      "published_at": "2026-01-20T21:06:16+00:00"
-    },
-    {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
@@ -464,6 +992,28 @@
       "published_at": "2026-01-20T21:03:00+00:00"
     },
     {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Best Board Games That Channel the Spirit of Anime",
+      "title_tr": "The Best Board Games That Channel the Spirit of Anime",
+      "summary": "If you're an anime fan with an interest in board games, you'll definitely want to check these out, as they're some of the best available now.",
+      "summary_tr": "If you're an anime fan with an interest in board games, you'll definitely want to check these out, as they're some of the best available now.",
+      "long_summary": "If you're an anime fan with an interest in board games, you'll definitely want to check these out, as they're some of the best available now.",
+      "long_summary_tr": "If you're an anime fan with an interest in board games, you'll definitely want to check these out, as they're some of the best available now.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/best-anime-board-games",
+      "image": "https://assets-prd.ignimgs.com/2026/01/20/untitled-design-1768942951686.png",
+      "published_at": "2026-01-20T21:02:38+00:00"
+    },
+    {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
@@ -550,556 +1100,6 @@
       "url": "https://www.dunya.com/sirketler/luks-evye-pazari-her-yil-yuzde-20-buyuyor-haberi-812055",
       "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/hansgrohe-lwks_cover.jpg",
       "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Gezegenin su nabzı bozuldu",
-      "title_tr": "Gezegenin su nabzı bozuldu",
-      "summary": "NASA uydularından elde edilen verilerle yapılan yeni bir araştırma, El Niño ve La Niña’nın dünya genelinde selleri ve kuraklıkları senkronize ettiğini ortaya koydu. Çalışmaya göre, su krizleri artık yerel değil küresel bir örüntünün parçası ve son on yılda aşırı kuraklıklar aşırı yağışlardan daha yaygın hale geldi.",
-      "summary_tr": "NASA uydularından elde edilen verilerle yapılan yeni bir araştırma, El Niño ve La Niña’nın dünya genelinde selleri ve kuraklıkları senkronize ettiğini ortaya koydu. Çalışmaya göre, su krizleri artık yerel değil küresel bir örüntünün parçası ve son on yılda aşırı kuraklıklar aşırı yağışlardan daha yaygın hale geldi.",
-      "long_summary": "NASA uydularından elde edilen verilerle yapılan yeni bir araştırma, El Niño ve La Niña’nın dünya genelinde selleri ve kuraklıkları senkronize ettiğini ortaya koydu. Çalışmaya göre, su krizleri artık yerel değil küresel bir örüntünün parçası ve son on yılda aşırı kuraklıklar aşırı yağışlardan daha yaygın hale geldi.",
-      "long_summary_tr": "NASA uydularından elde edilen verilerle yapılan yeni bir araştırma, El Niño ve La Niña’nın dünya genelinde selleri ve kuraklıkları senkronize ettiğini ortaya koydu. Çalışmaya göre, su krizleri artık yerel değil küresel bir örüntünün parçası ve son on yılda aşırı kuraklıklar aşırı yağışlardan daha yaygın hale geldi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/surdurulebilir-dunya/gezegenin-su-nabzi-bozuldu-haberi-812057",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/05/04/okyanus-ymoc_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Sektörün güçlü oyuncusu Türkiye potansiyeliyle dikkat çekiyor",
-      "title_tr": "Sektörün güçlü oyuncusu Türkiye potansiyeliyle dikkat çekiyor",
-      "summary": "Küresel ölçekte 318 milyon ziyaretçi ve beş milyona yakın katılımcıyı bir araya getiren sektör, 150 milyar euroluk doğrudan harcama ve 87.5 milyar euroluk GSYİH etkisiyle adeta başlı başına bir ekonomi oluşturuyor. Stratejik konumuyla Türkiye, özellikle ihtisas fuarlarında Avrupa liginde üst sıralara tırmanırken, artık küresel rekabette yeni bir merkez olarak öne çıkıyor.",
-      "summary_tr": "Küresel ölçekte 318 milyon ziyaretçi ve beş milyona yakın katılımcıyı bir araya getiren sektör, 150 milyar euroluk doğrudan harcama ve 87.5 milyar euroluk GSYİH etkisiyle adeta başlı başına bir ekonomi oluşturuyor. Stratejik konumuyla Türkiye, özellikle ihtisas fuarlarında Avrupa liginde üst sıralara tırmanırken, artık küresel rekabette yeni bir merkez olarak öne çıkıyor.",
-      "long_summary": "Küresel ölçekte 318 milyon ziyaretçi ve beş milyona yakın katılımcıyı bir araya getiren sektör, 150 milyar euroluk doğrudan harcama ve 87.5 milyar euroluk GSYİH etkisiyle adeta başlı başına bir ekonomi oluşturuyor. Stratejik konumuyla Türkiye, özellikle ihtisas fuarlarında Avrupa liginde üst sıralara tırmanırken, artık küresel rekabette yeni bir merkez olarak öne çıkıyor.",
-      "long_summary_tr": "Küresel ölçekte 318 milyon ziyaretçi ve beş milyona yakın katılımcıyı bir araya getiren sektör, 150 milyar euroluk doğrudan harcama ve 87.5 milyar euroluk GSYİH etkisiyle adeta başlı başına bir ekonomi oluşturuyor. Stratejik konumuyla Türkiye, özellikle ihtisas fuarlarında Avrupa liginde üst sıralara tırmanırken, artık küresel rekabette yeni bir merkez olarak öne çıkıyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/sektorun-guclu-oyuncusu-turkiye-potansiyeliyle-dikkat-cekiyor-haberi-812058",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/kuresel-fuar-67dt_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Fuarlar İzmir ve ülke ekonomisine güç katıyor",
-      "title_tr": "Fuarlar İzmir ve ülke ekonomisine güç katıyor",
-      "summary": "İZFAŞ tarafından Fuar İz­mir ve Kültürpark’ta dü­zenlenen ulusal ve ulusla­rarası fuarlar; ihracattan is­tihdama, turizmden ticarete kadar pek çok alanda İzmir ve ülke ekonomisine katma değer sağlıyor.",
-      "summary_tr": "İZFAŞ tarafından Fuar İz­mir ve Kültürpark’ta dü­zenlenen ulusal ve ulusla­rarası fuarlar; ihracattan is­tihdama, turizmden ticarete kadar pek çok alanda İzmir ve ülke ekonomisine katma değer sağlıyor.",
-      "long_summary": "İZFAŞ tarafından Fuar İz­mir ve Kültürpark’ta dü­zenlenen ulusal ve ulusla­rarası fuarlar; ihracattan is­tihdama, turizmden ticarete kadar pek çok alanda İzmir ve ülke ekonomisine katma değer sağlıyor.",
-      "long_summary_tr": "İZFAŞ tarafından Fuar İz­mir ve Kültürpark’ta dü­zenlenen ulusal ve ulusla­rarası fuarlar; ihracattan is­tihdama, turizmden ticarete kadar pek çok alanda İzmir ve ülke ekonomisine katma değer sağlıyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/fuarlar-izmir-ve-ulke-ekonomisine-guc-katiyor-haberi-812059",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/fuar-l2fg_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "EMITT 2026'da en güncel turizm trendleri sergilenecek",
-      "title_tr": "EMITT 2026'da en güncel turizm trendleri sergilenecek",
-      "summary": "Turizm sektöründe bu yıl 29’uncu kez düzenlenecek olmasıyla köklü etkinlikler arasında yer alan EMITT – Doğu Akdeniz Uluslararası Turizm ve Seyahat Fuarı; nitelikli iş eşleşmeleri oluşturarak, ticari değerini artırma hedeflerinin yanı sıra yeni destinasyonları ve en güncel turizm trendlerini sektör profesyonelleriyle buluşturacak.",
-      "summary_tr": "Turizm sektöründe bu yıl 29’uncu kez düzenlenecek olmasıyla köklü etkinlikler arasında yer alan EMITT – Doğu Akdeniz Uluslararası Turizm ve Seyahat Fuarı; nitelikli iş eşleşmeleri oluşturarak, ticari değerini artırma hedeflerinin yanı sıra yeni destinasyonları ve en güncel turizm trendlerini sektör profesyonelleriyle buluşturacak.",
-      "long_summary": "Turizm sektöründe bu yıl 29’uncu kez düzenlenecek olmasıyla köklü etkinlikler arasında yer alan EMITT – Doğu Akdeniz Uluslararası Turizm ve Seyahat Fuarı; nitelikli iş eşleşmeleri oluşturarak, ticari değerini artırma hedeflerinin yanı sıra yeni destinasyonları ve en güncel turizm trendlerini sektör profesyonelleriyle buluşturacak.",
-      "long_summary_tr": "Turizm sektöründe bu yıl 29’uncu kez düzenlenecek olmasıyla köklü etkinlikler arasında yer alan EMITT – Doğu Akdeniz Uluslararası Turizm ve Seyahat Fuarı; nitelikli iş eşleşmeleri oluşturarak, ticari değerini artırma hedeflerinin yanı sıra yeni destinasyonları ve en güncel turizm trendlerini sektör profesyonelleriyle buluşturacak.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/emitt-2026da-en-guncel-turizm-trendleri-sergilenecek-haberi-812060",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/emit-cd8k_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İhracat odaklı kalkınma hedeflerine KFA Fuarcılık imzası",
-      "title_tr": "İhracat odaklı kalkınma hedeflerine KFA Fuarcılık imzası",
-      "summary": "BTSO iştiraki KFA Fuarcılık, 2025 yılı boyunca düzenlediği ulusal ve uluslararası fuarlar, alım heyeti organizasyonları ve yurt dışı iş gezileriyle Türkiye’nin ihracata dayalı büyüme hedeflerine güçlü katkılar sundu. Kısa sürede fuarcılık sektöründe önemli bir marka haline gelen KFA Fuarcılık, nitelikli organizasyonlarıyla Bursa iş dünyasının küresel rekabet gücünü artırırken firmalara yeni pazarlara erişim imkânı sağladı.",
-      "summary_tr": "BTSO iştiraki KFA Fuarcılık, 2025 yılı boyunca düzenlediği ulusal ve uluslararası fuarlar, alım heyeti organizasyonları ve yurt dışı iş gezileriyle Türkiye’nin ihracata dayalı büyüme hedeflerine güçlü katkılar sundu. Kısa sürede fuarcılık sektöründe önemli bir marka haline gelen KFA Fuarcılık, nitelikli organizasyonlarıyla Bursa iş dünyasının küresel rekabet gücünü artırırken firmalara yeni pazarlara erişim imkânı sağladı.",
-      "long_summary": "BTSO iştiraki KFA Fuarcılık, 2025 yılı boyunca düzenlediği ulusal ve uluslararası fuarlar, alım heyeti organizasyonları ve yurt dışı iş gezileriyle Türkiye’nin ihracata dayalı büyüme hedeflerine güçlü katkılar sundu. Kısa sürede fuarcılık sektöründe önemli bir marka haline gelen KFA Fuarcılık, nitelikli organizasyonlarıyla Bursa iş dünyasının küresel rekabet gücünü artırırken firmalara yeni pazarlara erişim imkânı sağladı.",
-      "long_summary_tr": "BTSO iştiraki KFA Fuarcılık, 2025 yılı boyunca düzenlediği ulusal ve uluslararası fuarlar, alım heyeti organizasyonları ve yurt dışı iş gezileriyle Türkiye’nin ihracata dayalı büyüme hedeflerine güçlü katkılar sundu. Kısa sürede fuarcılık sektöründe önemli bir marka haline gelen KFA Fuarcılık, nitelikli organizasyonlarıyla Bursa iş dünyasının küresel rekabet gücünü artırırken firmalara yeni pazarlara erişim imkânı sağladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/ihracat-odakli-kalkinma-hedeflerine-kfa-fuarcilik-imzasi-haberi-812062",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/bursa-fuar-7tpy_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Birikimler konuta gidince rekor nakitle geldi",
-      "title_tr": "Birikimler konuta gidince rekor nakitle geldi",
-      "summary": "Türkiye’de konut satışları bu yıl 1,7 milyon adede yaklaşarak rekor kırdı. Satışların yaklaşık yüzde 90’ı nakit gerçekleşirken, ipotekli satışların payı yüzde 14’te kaldı. Ekonomistler tabloyu “krediyle değil birikimle alım” olarak yorumlarken, yatırım araçlarından çıkanların yeniden konuta yöneldiğine de dikkat çekildi.",
-      "summary_tr": "Türkiye’de konut satışları bu yıl 1,7 milyon adede yaklaşarak rekor kırdı. Satışların yaklaşık yüzde 90’ı nakit gerçekleşirken, ipotekli satışların payı yüzde 14’te kaldı. Ekonomistler tabloyu “krediyle değil birikimle alım” olarak yorumlarken, yatırım araçlarından çıkanların yeniden konuta yöneldiğine de dikkat çekildi.",
-      "long_summary": "Türkiye’de konut satışları bu yıl 1,7 milyon adede yaklaşarak rekor kırdı. Satışların yaklaşık yüzde 90’ı nakit gerçekleşirken, ipotekli satışların payı yüzde 14’te kaldı. Ekonomistler tabloyu “krediyle değil birikimle alım” olarak yorumlarken, yatırım araçlarından çıkanların yeniden konuta yöneldiğine de dikkat çekildi.",
-      "long_summary_tr": "Türkiye’de konut satışları bu yıl 1,7 milyon adede yaklaşarak rekor kırdı. Satışların yaklaşık yüzde 90’ı nakit gerçekleşirken, ipotekli satışların payı yüzde 14’te kaldı. Ekonomistler tabloyu “krediyle değil birikimle alım” olarak yorumlarken, yatırım araçlarından çıkanların yeniden konuta yöneldiğine de dikkat çekildi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/emlak/birikimler-konuta-gidince-rekor-nakitle-geldi-haberi-812068",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/16/konut-fdc9_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "“Akaryakıt istasyonları şarj istasyonuna dönecek”",
-      "title_tr": "“Akaryakıt istasyonları şarj istasyonuna dönecek”",
-      "summary": "Öztürk Grup Yönetim Kurulu Başkanı ve OPET Yönetim Kurulu Üyesi Ufuk Öztürk, akaryakıt istasyonlarındaki dönüşüme dikkat çekti. Öztürk, elektrikli araçlarla birlikte istasyonların şarj ve perakende durağına dönüşeceğini bildirdi.",
-      "summary_tr": "Öztürk Grup Yönetim Kurulu Başkanı ve OPET Yönetim Kurulu Üyesi Ufuk Öztürk, akaryakıt istasyonlarındaki dönüşüme dikkat çekti. Öztürk, elektrikli araçlarla birlikte istasyonların şarj ve perakende durağına dönüşeceğini bildirdi.",
-      "long_summary": "Öztürk Grup Yönetim Kurulu Başkanı ve OPET Yönetim Kurulu Üyesi Ufuk Öztürk, akaryakıt istasyonlarındaki dönüşüme dikkat çekti. Öztürk, elektrikli araçlarla birlikte istasyonların şarj ve perakende durağına dönüşeceğini bildirdi.",
-      "long_summary_tr": "Öztürk Grup Yönetim Kurulu Başkanı ve OPET Yönetim Kurulu Üyesi Ufuk Öztürk, akaryakıt istasyonlarındaki dönüşüme dikkat çekti. Öztürk, elektrikli araçlarla birlikte istasyonların şarj ve perakende durağına dönüşeceğini bildirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/akaryakit-istasyonlari-sarj-istasyonuna-donecek-haberi-812072",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/akaryakit-fou8_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "18 proje için 6 milyon euro kaynak sağlanacak",
-      "title_tr": "18 proje için 6 milyon euro kaynak sağlanacak",
-      "summary": "Türkiye-AB İş Dünyası Diyaloğu II Projesi kapsamına 18 projeye 6 milyon euro kaynak sağlanacak. TOBB Başkanı Rifat Hisarcıklıoğlu, “Projeler, enerji verimliliği, yeşil ve dijital dönüşüm, gıda, turizm ile AB müktesebatı gibi güncel ve stratejik alanlara odaklanacak&quot; dedi.",
-      "summary_tr": "Türkiye-AB İş Dünyası Diyaloğu II Projesi kapsamına 18 projeye 6 milyon euro kaynak sağlanacak. TOBB Başkanı Rifat Hisarcıklıoğlu, “Projeler, enerji verimliliği, yeşil ve dijital dönüşüm, gıda, turizm ile AB müktesebatı gibi güncel ve stratejik alanlara odaklanacak&quot; dedi.",
-      "long_summary": "Türkiye-AB İş Dünyası Diyaloğu II Projesi kapsamına 18 projeye 6 milyon euro kaynak sağlanacak. TOBB Başkanı Rifat Hisarcıklıoğlu, “Projeler, enerji verimliliği, yeşil ve dijital dönüşüm, gıda, turizm ile AB müktesebatı gibi güncel ve stratejik alanlara odaklanacak&quot; dedi.",
-      "long_summary_tr": "Türkiye-AB İş Dünyası Diyaloğu II Projesi kapsamına 18 projeye 6 milyon euro kaynak sağlanacak. TOBB Başkanı Rifat Hisarcıklıoğlu, “Projeler, enerji verimliliği, yeşil ve dijital dönüşüm, gıda, turizm ile AB müktesebatı gibi güncel ve stratejik alanlara odaklanacak&quot; dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/is-dunyasi/18-proje-icin-6-milyon-euro-kaynak-saglanacak-haberi-812074",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/tobb-f9uv_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "TUSAF Başkanı Mesut Çakmak: Maliyet artışına katlanacağız, 4 ay daha una zam olmayacak",
-      "title_tr": "TUSAF Başkanı Mesut Çakmak: Maliyet artışına katlanacağız, 4 ay daha una zam olmayacak",
-      "summary": "TUSAF Başkanı Mesut Çakmak, 2025 yılı eylül ayından buyana un fiyatlarına zam yapmadıklarını hatırlatarak, “2026’da da enflasyonla mücadeleye katkı vermeyi sürdüreceğiz. Bu yılın ilk 4 ayında işçilik ve diğer maliyetlerdeki artışa rağmen un fiyatlarını artırmayı planlamıyoruz” dedi.",
-      "summary_tr": "TUSAF Başkanı Mesut Çakmak, 2025 yılı eylül ayından buyana un fiyatlarına zam yapmadıklarını hatırlatarak, “2026’da da enflasyonla mücadeleye katkı vermeyi sürdüreceğiz. Bu yılın ilk 4 ayında işçilik ve diğer maliyetlerdeki artışa rağmen un fiyatlarını artırmayı planlamıyoruz” dedi.",
-      "long_summary": "TUSAF Başkanı Mesut Çakmak, 2025 yılı eylül ayından buyana un fiyatlarına zam yapmadıklarını hatırlatarak, “2026’da da enflasyonla mücadeleye katkı vermeyi sürdüreceğiz. Bu yılın ilk 4 ayında işçilik ve diğer maliyetlerdeki artışa rağmen un fiyatlarını artırmayı planlamıyoruz” dedi.",
-      "long_summary_tr": "TUSAF Başkanı Mesut Çakmak, 2025 yılı eylül ayından buyana un fiyatlarına zam yapmadıklarını hatırlatarak, “2026’da da enflasyonla mücadeleye katkı vermeyi sürdüreceğiz. Bu yılın ilk 4 ayında işçilik ve diğer maliyetlerdeki artışa rağmen un fiyatlarını artırmayı planlamıyoruz” dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/tusaf-baskani-mesut-cakmak-maliyet-artisina-katlanacagiz-4-ay-daha-una-zam-olmayacak-haberi-812077",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/1-ix5l_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Bella Maison Amerikan rüyası’nı gerçekleştiriyor",
-      "title_tr": "Bella Maison Amerikan rüyası’nı gerçekleştiriyor",
-      "summary": "Ürünlerinin yüzde 95’ini Türkiye’den tedarik eden ve satışlarının yüzde 65’ini online kanallardan gerçekleştiren Bella Maison, Turquality desteğiyle ABD pazarına giriyor. CEO Muhammed Tan, “Hayalimiz gerçek oldu, Amerika sitemizi açtık. Global sahnede en büyüklerden biri olmaya gidiyoruz” dedi.",
-      "summary_tr": "Ürünlerinin yüzde 95’ini Türkiye’den tedarik eden ve satışlarının yüzde 65’ini online kanallardan gerçekleştiren Bella Maison, Turquality desteğiyle ABD pazarına giriyor. CEO Muhammed Tan, “Hayalimiz gerçek oldu, Amerika sitemizi açtık. Global sahnede en büyüklerden biri olmaya gidiyoruz” dedi.",
-      "long_summary": "Ürünlerinin yüzde 95’ini Türkiye’den tedarik eden ve satışlarının yüzde 65’ini online kanallardan gerçekleştiren Bella Maison, Turquality desteğiyle ABD pazarına giriyor. CEO Muhammed Tan, “Hayalimiz gerçek oldu, Amerika sitemizi açtık. Global sahnede en büyüklerden biri olmaya gidiyoruz” dedi.",
-      "long_summary_tr": "Ürünlerinin yüzde 95’ini Türkiye’den tedarik eden ve satışlarının yüzde 65’ini online kanallardan gerçekleştiren Bella Maison, Turquality desteğiyle ABD pazarına giriyor. CEO Muhammed Tan, “Hayalimiz gerçek oldu, Amerika sitemizi açtık. Global sahnede en büyüklerden biri olmaya gidiyoruz” dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/bella-maison-amerikan-ruyasini-gerceklestiriyor-haberi-812081",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/muhammed-tan-vpa0_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Selçuklu, 2025’i yatırımlarla kapattı 2026’da yeni projeler geliyor",
-      "title_tr": "Selçuklu, 2025’i yatırımlarla kapattı 2026’da yeni projeler geliyor",
-      "summary": "Konya’nın en büyük ilçe belediyelerinden Selçuklu Belediyesi, 2025 yılında temel belediyecilik hizmetleri ağırlıklı olmak üzere yatırım ve hizmet çalışmalarını sürdürdü. Belediye, 2026 yılında da devam edecek projelerle ilçede yaşam kalitesini artırmaya yönelik çalışmalarını sürdürmeyi hedefliyor.",
-      "summary_tr": "Konya’nın en büyük ilçe belediyelerinden Selçuklu Belediyesi, 2025 yılında temel belediyecilik hizmetleri ağırlıklı olmak üzere yatırım ve hizmet çalışmalarını sürdürdü. Belediye, 2026 yılında da devam edecek projelerle ilçede yaşam kalitesini artırmaya yönelik çalışmalarını sürdürmeyi hedefliyor.",
-      "long_summary": "Konya’nın en büyük ilçe belediyelerinden Selçuklu Belediyesi, 2025 yılında temel belediyecilik hizmetleri ağırlıklı olmak üzere yatırım ve hizmet çalışmalarını sürdürdü. Belediye, 2026 yılında da devam edecek projelerle ilçede yaşam kalitesini artırmaya yönelik çalışmalarını sürdürmeyi hedefliyor.",
-      "long_summary_tr": "Konya’nın en büyük ilçe belediyelerinden Selçuklu Belediyesi, 2025 yılında temel belediyecilik hizmetleri ağırlıklı olmak üzere yatırım ve hizmet çalışmalarını sürdürdü. Belediye, 2026 yılında da devam edecek projelerle ilçede yaşam kalitesini artırmaya yönelik çalışmalarını sürdürmeyi hedefliyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sehirler/selcuklu-2025i-yatirimlarla-kapatti-2026da-yeni-projeler-geliyor-haberi-812083",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/selcuklu-belediyesi-eium_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Gelinlik ve abiye sektörü İzmir’den dünyaya açılıyor",
-      "title_tr": "Gelinlik ve abiye sektörü İzmir’den dünyaya açılıyor",
-      "summary": "İzmir’de kapılarını açan uluslararası fuarda gelinlik, damatlık ve abiye giyim sektörünün küresel pazardaki büyümesi ve ihracat potansiyeli ele alındı. Sektör temsilcileri, tasarım ve katma değerin ihracatta belirleyici rol oynadığını vurguladı.",
-      "summary_tr": "İzmir’de kapılarını açan uluslararası fuarda gelinlik, damatlık ve abiye giyim sektörünün küresel pazardaki büyümesi ve ihracat potansiyeli ele alındı. Sektör temsilcileri, tasarım ve katma değerin ihracatta belirleyici rol oynadığını vurguladı.",
-      "long_summary": "İzmir’de kapılarını açan uluslararası fuarda gelinlik, damatlık ve abiye giyim sektörünün küresel pazardaki büyümesi ve ihracat potansiyeli ele alındı. Sektör temsilcileri, tasarım ve katma değerin ihracatta belirleyici rol oynadığını vurguladı.",
-      "long_summary_tr": "İzmir’de kapılarını açan uluslararası fuarda gelinlik, damatlık ve abiye giyim sektörünün küresel pazardaki büyümesi ve ihracat potansiyeli ele alındı. Sektör temsilcileri, tasarım ve katma değerin ihracatta belirleyici rol oynadığını vurguladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/gelinlik-ve-abiye-sektoru-izmirden-dunyaya-aciliyor-haberi-812084",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/if-wedding-nsqr_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Bebe-çocuk konfeksiyonu ihracata odaklandı",
-      "title_tr": "Bebe-çocuk konfeksiyonu ihracata odaklandı",
-      "summary": "Bursa Ticaret ve Sanayi Odası (BTSO) tarafından KFA Fuarcılık organizasyonunda, Bebe Çocuk Konfeksiyon Sektörü Sanayici ve İş Adamları Derneği (BEKSİAD) iş birliğiyle düzenlenen Junioshow Bursa Uluslararası Bebe, Çocuk Hazır Giyim ve Çocuk İhtiyaçları Fuarı, Merinos Atatürk Kongre ve Kültür Merkezi’nde kapılarını açtı. Bu yıl 21’incisi gerçekleştirilen fuar, 30’un üzerinde ülkeden 300’ü aşkın yabancı alım heyetini Bursa’da buluşturuyor.",
-      "summary_tr": "Bursa Ticaret ve Sanayi Odası (BTSO) tarafından KFA Fuarcılık organizasyonunda, Bebe Çocuk Konfeksiyon Sektörü Sanayici ve İş Adamları Derneği (BEKSİAD) iş birliğiyle düzenlenen Junioshow Bursa Uluslararası Bebe, Çocuk Hazır Giyim ve Çocuk İhtiyaçları Fuarı, Merinos Atatürk Kongre ve Kültür Merkezi’nde kapılarını açtı. Bu yıl 21’incisi gerçekleştirilen fuar, 30’un üzerinde ülkeden 300’ü aşkın yabancı alım heyetini Bursa’da buluşturuyor.",
-      "long_summary": "Bursa Ticaret ve Sanayi Odası (BTSO) tarafından KFA Fuarcılık organizasyonunda, Bebe Çocuk Konfeksiyon Sektörü Sanayici ve İş Adamları Derneği (BEKSİAD) iş birliğiyle düzenlenen Junioshow Bursa Uluslararası Bebe, Çocuk Hazır Giyim ve Çocuk İhtiyaçları Fuarı, Merinos Atatürk Kongre ve Kültür Merkezi’nde kapılarını açtı. Bu yıl 21’incisi gerçekleştirilen fuar, 30’un üzerinde ülkeden 300’ü aşkın yabancı alım heyetini Bursa’da buluşturuyor.",
-      "long_summary_tr": "Bursa Ticaret ve Sanayi Odası (BTSO) tarafından KFA Fuarcılık organizasyonunda, Bebe Çocuk Konfeksiyon Sektörü Sanayici ve İş Adamları Derneği (BEKSİAD) iş birliğiyle düzenlenen Junioshow Bursa Uluslararası Bebe, Çocuk Hazır Giyim ve Çocuk İhtiyaçları Fuarı, Merinos Atatürk Kongre ve Kültür Merkezi’nde kapılarını açtı. Bu yıl 21’incisi gerçekleştirilen fuar, 30’un üzerinde ülkeden 300’ü aşkın yabancı alım heyetini Bursa’da buluşturuyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/bebe-cocuk-konfeksiyonu-ihracata-odaklandi-haberi-812086",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/junioshow-2j4h_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Tosyalı Holding Fuat Tos­yalı: AB çelikte yanlış yapıyor Türkiye’ye kota kalkmalı",
-      "title_tr": "Tosyalı Holding Fuat Tos­yalı: AB çelikte yanlış yapıyor Türkiye’ye kota kalkmalı",
-      "summary": "Fuat Tosyalı, AB’nin çelik ithalatında Türkiye ve Cezayir’e uyguladığı kotanın Avrupa sanayisinin sürdürülebilirliğine zarar verdiğini söyledi. Tosyalı, düşük emisyonlu upstream üretim yapan bu ülkelere çelik ticaretinin serbest bırakılması gerektiğini vurguladı. Tosyalı ayrıca, Türkiye ekonomisinde enflasyon ve faizlerdeki düşüş eğiliminin öngörülebilirliği artırdığını kaydetti.",
-      "summary_tr": "Fuat Tosyalı, AB’nin çelik ithalatında Türkiye ve Cezayir’e uyguladığı kotanın Avrupa sanayisinin sürdürülebilirliğine zarar verdiğini söyledi. Tosyalı, düşük emisyonlu upstream üretim yapan bu ülkelere çelik ticaretinin serbest bırakılması gerektiğini vurguladı. Tosyalı ayrıca, Türkiye ekonomisinde enflasyon ve faizlerdeki düşüş eğiliminin öngörülebilirliği artırdığını kaydetti.",
-      "long_summary": "Fuat Tosyalı, AB’nin çelik ithalatında Türkiye ve Cezayir’e uyguladığı kotanın Avrupa sanayisinin sürdürülebilirliğine zarar verdiğini söyledi. Tosyalı, düşük emisyonlu upstream üretim yapan bu ülkelere çelik ticaretinin serbest bırakılması gerektiğini vurguladı. Tosyalı ayrıca, Türkiye ekonomisinde enflasyon ve faizlerdeki düşüş eğiliminin öngörülebilirliği artırdığını kaydetti.",
-      "long_summary_tr": "Fuat Tosyalı, AB’nin çelik ithalatında Türkiye ve Cezayir’e uyguladığı kotanın Avrupa sanayisinin sürdürülebilirliğine zarar verdiğini söyledi. Tosyalı, düşük emisyonlu upstream üretim yapan bu ülkelere çelik ticaretinin serbest bırakılması gerektiğini vurguladı. Tosyalı ayrıca, Türkiye ekonomisinde enflasyon ve faizlerdeki düşüş eğiliminin öngörülebilirliği artırdığını kaydetti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/tosyali-holding-fuat-tosyali-ab-celikte-yanlis-yapiyor-turkiyeye-kota-kalkmali-haberi-812091",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/fuat-tosyali-hli6_cover.jpg",
-      "published_at": "2026-01-20T21:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "I Spent Years Testing White T-Shirts, and These 9 Come Out on Top",
-      "title_tr": "I Spent Years Testing White T-Shirts, and These 9 Come Out on Top",
-      "summary": "All for the sake of womankind.",
-      "summary_tr": "All for the sake of womankind.",
-      "long_summary": "All for the sake of womankind.",
-      "long_summary_tr": "All for the sake of womankind.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/personal-style/g70061623/best-white-t-shirt-for-women/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2204539880-696fbde7260b5.jpg",
-      "published_at": "2026-01-20T20:57:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "WarrenAI’a Göre 2026’da İzlenmesi Gereken 5 Yatırım Bankası Hissesi",
-      "title_tr": "WarrenAI’a Göre 2026’da İzlenmesi Gereken 5 Yatırım Bankası Hissesi",
-      "summary": "WarrenAI’a Göre 2026’da İzlenmesi Gereken 5 Yatırım Bankası Hissesi",
-      "summary_tr": "WarrenAI’a Göre 2026’da İzlenmesi Gereken 5 Yatırım Bankası Hissesi",
-      "long_summary": "WarrenAI’a Göre 2026’da İzlenmesi Gereken 5 Yatırım Bankası Hissesi",
-      "long_summary_tr": "WarrenAI’a Göre 2026’da İzlenmesi Gereken 5 Yatırım Bankası Hissesi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/warrenaia-gore-2026da-izlenmesi-gereken-5-yatrm-bankas-hissesi-93CH-3721763",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-20T20:51:51+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Drones are shaping warfare in Europe; here’s how they’ll do the same in the Indo-Pacific",
-      "title_tr": "Drones are shaping warfare in Europe; here’s how they’ll do the same in the Indo-Pacific",
-      "summary": "[Sponsored] Unmanned systems are the focus of efforts to prepare for potential conflicts in the region.",
-      "summary_tr": "[Sponsored] Unmanned systems are the focus of efforts to prepare for potential conflicts in the region.",
-      "long_summary": "[Sponsored] Unmanned systems are the focus of efforts to prepare for potential conflicts in the region.",
-      "long_summary_tr": "[Sponsored] Unmanned systems are the focus of efforts to prepare for potential conflicts in the region.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/01/drones-are-shaping-warfare-in-europe-heres-how-theyll-do-the-same-in-the-indo-pacific/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/Red-Cat-1-new-1024x683.jpg",
-      "published_at": "2026-01-20T20:50:30+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Önce ABD'li senatör sonra örgüt elebaşı itiraf etti: İsrail ile iş birliği içindeyiz",
-      "title_tr": "Önce ABD'li senatör sonra örgüt elebaşı itiraf etti: İsrail ile iş birliği içindeyiz",
-      "summary": "ABD’li Senatör Lindsey Graham, terör örgütü PKK/PYD/SDG unsurlarını “İsrail’le güçlü şekilde hizalanmış müttefikler” olarak tanımlamıştı. Bu açıklamadan birkaç gün sonra SDG’nin siyasi elebaşlarından İlham Ahmed, İsrailli isimlerle temas halinde olduklarını itiraf etti. Ahmed, bu görüşmelerin desteğe dönüşmesi halinde kaynağı ne olursa olsun her türlü dış yardıma açık olduklarını söyledi. Açıklamalar, Suriye ordusunun terör örgütüne yönelik operasyonlarını artırmasının ardından geldi.ABD Başkanı Donald Trump’a en yakın isimlerden biri olarak bilinen Cumhuriyetçi Senatör Lindsey Graham, Suriye’deki gelişmelere ilişkin açıklamasında terör örgütü PKK/PYD/SDG unsurlarını “DEAŞ’la mücadelede ana güç” olarak nitelendirirken, bu yapıların yıllardır İsrail’le güçlü şekilde hizalanmış müttefikler olduğunu savundu.\n\nGraham’ın bu ifadeleri, örgüt ile İsrail arasındaki ilişkilere dair tartışmaları yeniden gündeme taşıdı.\n\nSDG ELEBAŞINDAN AÇIK İTİRAF\n\nGraham’ın açıklamalarından kısa süre sonra terör örgütü SDG cephesinden gelen sözler, İsrail ile temas iddialarını doğrular nitelikte oldu. SDG’nin üst düzey yöneticilerinden İlham Ahmed, gazetecilere yaptığı açıklamada İsrailli yetkililerle doğrudan temas kurulduğunu açıkça kabul etti.\n\nAhmed, “İsrail devleti tarafından bazı isimlerle bizim tarafımız arasında iletişimler var. Eğer bu görüşmeler destekle sonuçlanırsa, kaynağı ne olursa olsun bu desteğe açık oluruz.” ifadelerini kullandı.\n\nABD’Lİ YETKİLİDEN ÖRGÜT ELEBAŞI ABDİ'YE ELEŞTİRİ\n\nÖte yandan pazar günü Şam yönetimi ile terör örgütü SDG arasında yapılan görüşme öncesi toplantıda ABD’nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack'ın, SDG elebaşı Mazlum Abdi’ye, Suriye’de ortaya çıkan yeni siyasi tabloya rağmen örgütün hala Beşşar Esed döneminin şartlarına göre hareket ettiğini söylediği aktarıldı.",
-      "summary_tr": "ABD’li Senatör Lindsey Graham, terör örgütü PKK/PYD/SDG unsurlarını “İsrail’le güçlü şekilde hizalanmış müttefikler” olarak tanımlamıştı. Bu açıklamadan birkaç gün sonra SDG’nin siyasi elebaşlarından İlham Ahmed, İsrailli isimlerle temas halinde olduklarını itiraf etti. Ahmed, bu görüşmelerin desteğe dönüşmesi halinde kaynağı ne olursa olsun her türlü dış yardıma açık olduklarını söyledi. Açıklamalar, Suriye ordusunun terör örgütüne yönelik operasyonlarını artırmasının ardından geldi.ABD Başkanı Donald Trump’a en yakın isimlerden biri olarak bilinen Cumhuriyetçi Senatör Lindsey Graham, Suriye’deki gelişmelere ilişkin açıklamasında terör örgütü PKK/PYD/SDG unsurlarını “DEAŞ’la mücadelede ana güç” olarak nitelendirirken, bu yapıların yıllardır İsrail’le güçlü şekilde hizalanmış müttefikler olduğunu savundu.\n\nGraham’ın bu ifadeleri, örgüt ile İsrail arasındaki ilişkilere dair tartışmaları yeniden gündeme taşıdı.\n\nSDG ELEBAŞINDAN AÇIK İTİRAF\n\nGraham’ın açıklamalarından kısa süre sonra terör örgütü SDG cephesinden gelen sözler, İsrail ile temas iddialarını doğrular nitelikte oldu. SDG’nin üst düzey yöneticilerinden İlham Ahmed, gazetecilere yaptığı açıklamada İsrailli yetkililerle doğrudan temas kurulduğunu açıkça kabul etti.\n\nAhmed, “İsrail devleti tarafından bazı isimlerle bizim tarafımız arasında iletişimler var. Eğer bu görüşmeler destekle sonuçlanırsa, kaynağı ne olursa olsun bu desteğe açık oluruz.” ifadelerini kullandı.\n\nABD’Lİ YETKİLİDEN ÖRGÜT ELEBAŞI ABDİ'YE ELEŞTİRİ\n\nÖte yandan pazar günü Şam yönetimi ile terör örgütü SDG arasında yapılan görüşme öncesi toplantıda ABD’nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack'ın, SDG elebaşı Mazlum Abdi’ye, Suriye’de ortaya çıkan yeni siyasi tabloya rağmen örgütün hala Beşşar Esed döneminin şartlarına göre hareket ettiğini söylediği aktarıldı.",
-      "long_summary": "ABD’li Senatör Lindsey Graham, terör örgütü PKK/PYD/SDG unsurlarını “İsrail’le güçlü şekilde hizalanmış müttefikler” olarak tanımlamıştı. Bu açıklamadan birkaç gün sonra SDG’nin siyasi elebaşlarından İlham Ahmed, İsrailli isimlerle temas halinde olduklarını itiraf etti. Ahmed, bu görüşmelerin desteğe dönüşmesi halinde kaynağı ne olursa olsun her türlü dış yardıma açık olduklarını söyledi. Açıklamalar, Suriye ordusunun terör örgütüne yönelik operasyonlarını artırmasının ardından geldi.ABD",
-      "long_summary_tr": "ABD’li Senatör Lindsey Graham, terör örgütü PKK/PYD/SDG unsurlarını “İsrail’le güçlü şekilde hizalanmış müttefikler” olarak tanımlamıştı. Bu açıklamadan birkaç gün sonra SDG’nin siyasi elebaşlarından İlham Ahmed, İsrailli isimlerle temas halinde olduklarını itiraf etti. Ahmed, bu görüşmelerin desteğe dönüşmesi halinde kaynağı ne olursa olsun her türlü dış yardıma açık olduklarını söyledi. Açıklamalar, Suriye ordusunun terör örgütüne yönelik operasyonlarını artırmasının ardından geldi.ABD",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/once-abd-li-senator-sonra-orgut-elebasi-itiraf-etti-israil-ile-is-birligi-icindeyiz-1566051",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/21/once-abd-li-senator-sonra-orgut-elebasi-itiraf-etti-israil-ile-is-birligi-icindeyiz-1768943674-177_large.webp",
-      "published_at": "2026-01-20T20:46:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Google Deepmind/Ibrahim: İnsan ile yapay zeka ilişkisine yönelik riskler araştırma konularımız arasında",
-      "title_tr": "Google Deepmind/Ibrahim: İnsan ile yapay zeka ilişkisine yönelik riskler araştırma konularımız arasında",
-      "summary": "Davosta düzenlenen Dünya Ekonomik Forumu'na katılan Google Deepmind CEE'su Lila Ibrahim, insan-yapay zeka ilişkisi ve zihinsel sağlığının en baştan araştırma yaptıkları konular olduğunu ifade etti.",
-      "summary_tr": "Davosta düzenlenen Dünya Ekonomik Forumu'na katılan Google Deepmind CEE'su Lila Ibrahim, insan-yapay zeka ilişkisi ve zihinsel sağlığının en baştan araştırma yaptıkları konular olduğunu ifade etti.",
-      "long_summary": "Davosta düzenlenen Dünya Ekonomik Forumu'na katılan Google Deepmind CEE'su Lila Ibrahim, insan-yapay zeka ilişkisi ve zihinsel sağlığının en baştan araştırma yaptıkları konular olduğunu ifade etti.",
-      "long_summary_tr": "Davosta düzenlenen Dünya Ekonomik Forumu'na katılan Google Deepmind CEE'su Lila Ibrahim, insan-yapay zeka ilişkisi ve zihinsel sağlığının en baştan araştırma yaptıkları konular olduğunu ifade etti.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/google-deepmindibrahim-insan-ile-yapay-zeka-iliskisine-yonelik-riskler-arastirma-konularimiz-arasind-3766835",
-      "image": null,
-      "published_at": "2026-01-20T20:44:18+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Michael B. Jordan Swears by This $100 T-Shirt—and It’s the Perfect Valentine’s Day Gift",
-      "title_tr": "Michael B. Jordan Swears by This $100 T-Shirt—and It’s the Perfect Valentine’s Day Gift",
-      "summary": "Forget ties. This is the elevated wardrobe staple every man needs in his closet.",
-      "summary_tr": "Forget ties. This is the elevated wardrobe staple every man needs in his closet.",
-      "long_summary": "Forget ties. This is the elevated wardrobe staple every man needs in his closet.",
-      "long_summary_tr": "Forget ties. This is the elevated wardrobe staple every man needs in his closet.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a70061105/bleusalt-the-classic-t-lite-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/michael-b-jordan-hailey-bieber-and-kendall-jenner-attend-w-news-photo-1768931586.pjpeg",
-      "published_at": "2026-01-20T20:42:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Trump: Cumhurbaşkanı Erdoğan ile görüşeceğim",
-      "title_tr": "Trump: Cumhurbaşkanı Erdoğan ile görüşeceğim",
-      "summary": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.ABD Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğan ile telefon görüşmesi yapacak. Trump, Beyaz Saray'daki basın toplantısını bitirirken, \"Çok sevdiğim Cumhurbaşkanı Recep Tayyip Erdoğan ile bir görüşmem olacak\" dedi. Görüşmede Suriye'deki gelişmelerin ele alınması bekleniyor.   \n\nDonald Trump, Suriye'deki duruma ilişkin, \"Kürtlere çok büyük miktarda ödeme yapılmış, petrol ve birçok şey sağlanmıştı. Yaptıklarını kendileri için yapıyorlardı. Biz Kürtlerle iyi geçindik ve Kürtleri korumaya çalışıyoruz\" ifadelerini kullandı.\n\nTrump, Suriye Devlet Başkanı Ahmed Şara'ya yönelik ise, \"Suriye Devlet Başkanı çok sıkı çalışıyor, kendisi çok güçlü ve çetin birisi\" dedi.",
-      "summary_tr": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.ABD Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğan ile telefon görüşmesi yapacak. Trump, Beyaz Saray'daki basın toplantısını bitirirken, \"Çok sevdiğim Cumhurbaşkanı Recep Tayyip Erdoğan ile bir görüşmem olacak\" dedi. Görüşmede Suriye'deki gelişmelerin ele alınması bekleniyor.   \n\nDonald Trump, Suriye'deki duruma ilişkin, \"Kürtlere çok büyük miktarda ödeme yapılmış, petrol ve birçok şey sağlanmıştı. Yaptıklarını kendileri için yapıyorlardı. Biz Kürtlerle iyi geçindik ve Kürtleri korumaya çalışıyoruz\" ifadelerini kullandı.\n\nTrump, Suriye Devlet Başkanı Ahmed Şara'ya yönelik ise, \"Suriye Devlet Başkanı çok sıkı çalışıyor, kendisi çok güçlü ve çetin birisi\" dedi.",
-      "long_summary": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.ABD Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğan ile telefon görüşmesi yapacak. Trump, Beyaz Saray'daki basın toplantısını bitirirken, \"Çok sevdiğim Cumhurbaşkanı Recep Tayyip Erdoğan ile bir görüşmem olacak\" dedi. Görüşmede Suriye'deki gelişmelerin ele alınması bekleniyor.   \n\nDonald Trump, Suriye'deki duruma ilişkin, \"Kürtlere çok büyük miktarda ödeme yapılmış, petrol ve birçok şey",
-      "long_summary_tr": "ABD Başkanı Donald Trump, Cumhurbaşkanı Erdoğan ile önemli bir görüşme yapacağını duyurdu.ABD Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğan ile telefon görüşmesi yapacak. Trump, Beyaz Saray'daki basın toplantısını bitirirken, \"Çok sevdiğim Cumhurbaşkanı Recep Tayyip Erdoğan ile bir görüşmem olacak\" dedi. Görüşmede Suriye'deki gelişmelerin ele alınması bekleniyor.   \n\nDonald Trump, Suriye'deki duruma ilişkin, \"Kürtlere çok büyük miktarda ödeme yapılmış, petrol ve birçok şey",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/trump-cumhurbaskani-erdogan-ile-gorusecegim-1566049",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/21/trump-cumhurbaskani-erdogan-ile-gorusecegim-1768943591-30_large.webp",
-      "published_at": "2026-01-20T20:40:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Manchester City deplasmanda Bodo/Glimt'e yenildi",
-      "title_tr": "Manchester City deplasmanda Bodo/Glimt'e yenildi",
-      "summary": "İngiliz ekibi Manchester City, UEFA Şampiyonlar Ligi&#039;nde konuk olduğu Bodo/Glimt&#039;e 3-1 mağlup oldu.",
-      "summary_tr": "İngiliz ekibi Manchester City, UEFA Şampiyonlar Ligi&#039;nde konuk olduğu Bodo/Glimt&#039;e 3-1 mağlup oldu.",
-      "long_summary": "İngiliz ekibi Manchester City, UEFA Şampiyonlar Ligi&#039;nde konuk olduğu Bodo/Glimt&#039;e 3-1 mağlup oldu.",
-      "long_summary_tr": "İngiliz ekibi Manchester City, UEFA Şampiyonlar Ligi&#039;nde konuk olduğu Bodo/Glimt&#039;e 3-1 mağlup oldu.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/spor/manchester-city-deplasmanda-bodoglimte-yenildi-haberi-812110",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/manchester-city-dhvn_cover.jpg",
-      "published_at": "2026-01-20T20:35:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "UMEX opens with $240 million in contracts to EDGE Group",
-      "title_tr": "UMEX opens with $240 million in contracts to EDGE Group",
-      "summary": "EDGE announced contracts for research and develop of two new variants of its Scorpio small UAV, known as Scorpio S and Scorpio M, as well as a gyrocopter for logistics purposes.",
-      "summary_tr": "EDGE announced contracts for research and develop of two new variants of its Scorpio small UAV, known as Scorpio S and Scorpio M, as well as a gyrocopter for logistics purposes.",
-      "long_summary": "EDGE announced contracts for research and develop of two new variants of its Scorpio small UAV, known as Scorpio S and Scorpio M, as well as a gyrocopter for logistics purposes.",
-      "long_summary_tr": "EDGE announced contracts for research and develop of two new variants of its Scorpio small UAV, known as Scorpio S and Scorpio M, as well as a gyrocopter for logistics purposes.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/01/umex-opens-with-240-million-in-contracts-to-edge-group/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/PHOTO-2026-01-20-12-39-10-e1768939686664-1024x576.jpg",
-      "published_at": "2026-01-20T20:35:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Slot hints Salah will start for Liverpool in Marseille",
-      "title_tr": "Slot hints Salah will start for Liverpool in Marseille",
-      "summary": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's always been\".",
-      "summary_tr": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's always been\".",
-      "long_summary": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's always been\".",
-      "long_summary_tr": "Arne Slot suggests Mohamed Salah will return to the Liverpool starting line-up against Marseille in Wednesday's Champions League tie, insisting his relationship with the forward is \"as normal as it's always been\".",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c9wx7ykl098o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1702/live/6b4e0790-f639-11f0-a7bd-a712d1b3c2cf.jpg",
-      "published_at": "2026-01-20T20:34:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Malatya'da kafede silahlı kavga: 1 yaralı",
-      "title_tr": "Malatya'da kafede silahlı kavga: 1 yaralı",
-      "summary": "Malatya'da bir kafede çıkan silahlı ve bıçaklı kavgada 1 kişi yaralandı.Olay, saat 21.30 sıralarında Malatya-Elazığ karayolu üzerindeki Üniversite Kavşağı'na yakın bir bölgede bulunan kafede meydana geldi. Edinilen bilgilere göre, kafede bulunan A.Ç. ile V.G. arasında çıkan tartışma kısa sürede kavgaya dönüştü. Kavga sırasında V.G.'nin açtığı ateş sonucu A.Ç. yaralandı. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edilirken yaralı A.Ç Turgut Özal Tıp Merkezi'ne kaldırıldı. Olayın şüphelisi V.G., olayda kullanıldığı değerlendirilen 1 adet silah ve bıçakla birlikte yakalanarak gözaltına alındı.",
-      "summary_tr": "Malatya'da bir kafede çıkan silahlı ve bıçaklı kavgada 1 kişi yaralandı.Olay, saat 21.30 sıralarında Malatya-Elazığ karayolu üzerindeki Üniversite Kavşağı'na yakın bir bölgede bulunan kafede meydana geldi. Edinilen bilgilere göre, kafede bulunan A.Ç. ile V.G. arasında çıkan tartışma kısa sürede kavgaya dönüştü. Kavga sırasında V.G.'nin açtığı ateş sonucu A.Ç. yaralandı. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edilirken yaralı A.Ç Turgut Özal Tıp Merkezi'ne kaldırıldı. Olayın şüphelisi V.G., olayda kullanıldığı değerlendirilen 1 adet silah ve bıçakla birlikte yakalanarak gözaltına alındı.",
-      "long_summary": "Malatya'da bir kafede çıkan silahlı ve bıçaklı kavgada 1 kişi yaralandı.Olay, saat 21.30 sıralarında Malatya-Elazığ karayolu üzerindeki Üniversite Kavşağı'na yakın bir bölgede bulunan kafede meydana geldi. Edinilen bilgilere göre, kafede bulunan A.Ç. ile V.G. arasında çıkan tartışma kısa sürede kavgaya dönüştü. Kavga sırasında V.G.'nin açtığı ateş sonucu A.Ç. yaralandı. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edilirken yaralı A.Ç Turgut Özal Tıp Merkezi'ne kaldırıldı. Olayın",
-      "long_summary_tr": "Malatya'da bir kafede çıkan silahlı ve bıçaklı kavgada 1 kişi yaralandı.Olay, saat 21.30 sıralarında Malatya-Elazığ karayolu üzerindeki Üniversite Kavşağı'na yakın bir bölgede bulunan kafede meydana geldi. Edinilen bilgilere göre, kafede bulunan A.Ç. ile V.G. arasında çıkan tartışma kısa sürede kavgaya dönüştü. Kavga sırasında V.G.'nin açtığı ateş sonucu A.Ç. yaralandı. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edilirken yaralı A.Ç Turgut Özal Tıp Merkezi'ne kaldırıldı. Olayın",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/malatya-da-kafede-silahli-kavga-1-yarali-1566047",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/21/malatya-da-kafede-silahli-kavga-1-yarali-1768943211-338_large.webp",
-      "published_at": "2026-01-20T20:34:00+00:00"
     }
   ]
 }
