@@ -1,27 +1,709 @@
 {
-  "updated_at": "2026-01-23T14:41:30.486441+00:00",
+  "updated_at": "2026-01-23T15:43:25.845958+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Borsa günü rekor seviyeden tamamladı",
+      "title_tr": "Borsa günü rekor seviyeden tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,1 değer kazanarak 12.992,71 puanla rekor seviyeden tamamladı. BIST 100 endeksi, önceki kapanışa göre 141,22 puan artarken, toplam işlem hacmi 181,6 milyar lira oldu.",
+      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,1 değer kazanarak 12.992,71 puanla rekor seviyeden tamamladı. BIST 100 endeksi, önceki kapanışa göre 141,22 puan artarken, toplam işlem hacmi 181,6 milyar lira oldu.",
+      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,1 değer kazanarak 12.992,71 puanla rekor seviyeden tamamladı. BIST 100 endeksi, önceki kapanışa göre 141,22 puan artarken, toplam işlem hacmi 181,6 milyar lira oldu.",
+      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 1,1 değer kazanarak 12.992,71 puanla rekor seviyeden tamamladı. BIST 100 endeksi, önceki kapanışa göre 141,22 puan artarken, toplam işlem hacmi 181,6 milyar lira oldu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-rekor-seviyeden-tamamladi-haberi-812528",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/07/04/borsa-istanbul-deoi_cover.png",
+      "published_at": "2026-01-23T15:35:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "The High Frequency Wands That Instantly Stimulate Hair Growth, According to Reviewers",
+      "title_tr": "The High Frequency Wands That Instantly Stimulate Hair Growth, According to Reviewers",
+      "summary": "Thanks to these devices, having stronger hair is now a reality, not just a dream.",
+      "summary_tr": "Thanks to these devices, having stronger hair is now a reality, not just a dream.",
+      "long_summary": "Thanks to these devices, having stronger hair is now a reality, not just a dream.",
+      "long_summary_tr": "Thanks to these devices, having stronger hair is now a reality, not just a dream.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/beauty/hair/g65911211/high-frequency-wands-for-hair/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/untitled-design-8-69738ecc40d3b.jpg",
+      "published_at": "2026-01-23T15:27:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Silivri'de otomobil gişe ile otobüs arasına sıkıştı. Ölü ve yaralılar var",
+      "title_tr": "Silivri'de otomobil gişe ile otobüs arasına sıkıştı. Ölü ve yaralılar var",
+      "summary": "İstanbul Kuzey Marmara Otoyolu Kınalı mevkinde otomobil ve otobüs çarpıştı. Gişe ile otobüs arasına sıkışan araçta 2 kişi hayatını kaybetti.",
+      "summary_tr": "İstanbul Kuzey Marmara Otoyolu Kınalı mevkinde otomobil ve otobüs çarpıştı. Gişe ile otobüs arasına sıkışan araçta 2 kişi hayatını kaybetti.",
+      "long_summary": "İstanbul Kuzey Marmara Otoyolu Kınalı mevkinde otomobil ve otobüs çarpıştı. Gişe ile otobüs arasına sıkışan araçta 2 kişi hayatını kaybetti.",
+      "long_summary_tr": "İstanbul Kuzey Marmara Otoyolu Kınalı mevkinde otomobil ve otobüs çarpıştı. Gişe ile otobüs arasına sıkışan araçta 2 kişi hayatını kaybetti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/silivride-feci-kaza-otomobil-gise-ile-otobus-arasina-sikisti-2-olu-1708728",
+      "image": "https://images.ntv.com.tr/images/AW626930_01-617672.jpg",
+      "published_at": "2026-01-23T15:22:02+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "WBA/ Haverkamp: Şirketler taahhüt değil, gerçek performans göstermeli",
-      "title_tr": "WBA/ Haverkamp: Şirketler taahhüt değil, gerçek performans göstermeli",
-      "summary": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) temsilcisi Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
-      "summary_tr": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) temsilcisi Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
-      "long_summary": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) temsilcisi Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
-      "long_summary_tr": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) temsilcisi Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
+      "source": "Investing TR",
+      "title": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "title_tr": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "summary": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "summary_tr": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "long_summary": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "long_summary_tr": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/wba-haverkamp-sirketler-taahhut-degil-gercek-performans-gostermeli-3767291",
+      "url": "https://tr.investing.com/news/stock-market-news/piyasaya-bakis-borsa-haftann-son-islem-gununu-yukselisle-tamamlad-3727723",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB59082_M.jpg",
+      "published_at": "2026-01-23T15:20:30+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Citizens, Amazon rekabetinin artması nedeniyle Trade Desk’i düşürdü",
+      "title_tr": "Citizens, Amazon rekabetinin artması nedeniyle Trade Desk’i düşürdü",
+      "summary": "Citizens, Amazon rekabetinin artması nedeniyle Trade Desk’i düşürdü",
+      "summary_tr": "Citizens, Amazon rekabetinin artması nedeniyle Trade Desk’i düşürdü",
+      "long_summary": "Citizens, Amazon rekabetinin artması nedeniyle Trade Desk’i düşürdü",
+      "long_summary_tr": "Citizens, Amazon rekabetinin artması nedeniyle Trade Desk’i düşürdü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/citizens-artan-amazon-rekabeti-nedeniyle-trade-deski-dusurdu-3727721",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-23T15:19:44+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "title_tr": "PİYASAYA BAKIŞ- Borsa haftanın son işlem gününü yükselişle tamamladı",
+      "summary": "BIST 100 endeksi günü 141,22 puan artışla 12992,71 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 126,16 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi ...",
+      "summary_tr": "BIST 100 endeksi günü 141,22 puan artışla 12992,71 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 126,16 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi ...",
+      "long_summary": "BIST 100 endeksi günü 141,22 puan artışla 12992,71 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 126,16 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi ...",
+      "long_summary_tr": "BIST 100 endeksi günü 141,22 puan artışla 12992,71 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 126,16 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi ...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6973912a2663b328fe31a467/PICNEWS/tr/piyasaya-bakis-borsa-haftanin-son-islem-gununu-yukselisle-tamamladi-23-01-26/",
+      "image": "https://news-files.foreks.com/images/1766675566278.jpeg",
+      "published_at": "2026-01-23T15:18:02+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "Pentagon creates permanent PCS agency, eyes software overhaul to fix military moves",
+      "title_tr": "Pentagon creates permanent PCS agency, eyes software overhaul to fix military moves",
+      "summary": "“The services know this is something that takes bandwidth from them,” Army Maj. Gen. Lance Curtis told Breaking Defense.",
+      "summary_tr": "“The services know this is something that takes bandwidth from them,” Army Maj. Gen. Lance Curtis told Breaking Defense.",
+      "long_summary": "“The services know this is something that takes bandwidth from them,” Army Maj. Gen. Lance Curtis told Breaking Defense.",
+      "long_summary_tr": "“The services know this is something that takes bandwidth from them,” Army Maj. Gen. Lance Curtis told Breaking Defense.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/01/pentagon-creates-permanent-pcs-agency-eyes-software-overhaul-to-fix-military-moves/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/PCS-warehouse-e1768315847741.jpg",
+      "published_at": "2026-01-23T15:17:46+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Arsenal's Nwaneri joins Marseille on loan",
+      "title_tr": "Arsenal's Nwaneri joins Marseille on loan",
+      "summary": "Arsenal midfielder Ethan Nwaneri joins French club Marseille on loan for the remainder of the season.",
+      "summary_tr": "Arsenal midfielder Ethan Nwaneri joins French club Marseille on loan for the remainder of the season.",
+      "long_summary": "Arsenal midfielder Ethan Nwaneri joins French club Marseille on loan for the remainder of the season.",
+      "long_summary_tr": "Arsenal midfielder Ethan Nwaneri joins French club Marseille on loan for the remainder of the season.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/c1ev9p00z14o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6a6/live/ac201c20-f86b-11f0-866c-af678a99f29a.jpg",
+      "published_at": "2026-01-23T15:17:23+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "This one gene may explain most Alzheimer’s cases",
+      "title_tr": "This one gene may explain most Alzheimer’s cases",
+      "summary": "Alzheimer’s may be driven far more by genetics than previously thought, with one gene playing an outsized role. Researchers found that up to nine in ten cases could be linked to the APOE gene — even including a common version once considered neutral. The discovery reshapes how scientists think about risk and prevention. It also highlights a major opportunity for new treatments aimed at a single biological pathway.",
+      "summary_tr": "Alzheimer’s may be driven far more by genetics than previously thought, with one gene playing an outsized role. Researchers found that up to nine in ten cases could be linked to the APOE gene — even including a common version once considered neutral. The discovery reshapes how scientists think about risk and prevention. It also highlights a major opportunity for new treatments aimed at a single biological pathway.",
+      "long_summary": "Alzheimer’s may be driven far more by genetics than previously thought, with one gene playing an outsized role. Researchers found that up to nine in ten cases could be linked to the APOE gene — even including a common version once considered neutral. The discovery reshapes how scientists think about risk and prevention. It also highlights a major opportunity for new treatments aimed at a single biological pathway.",
+      "long_summary_tr": "Alzheimer’s may be driven far more by genetics than previously thought, with one gene playing an outsized role. Researchers found that up to nine in ten cases could be linked to the APOE gene — even including a common version once considered neutral. The discovery reshapes how scientists think about risk and prevention. It also highlights a major opportunity for new treatments aimed at a single biological pathway.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/01/260122073623.htm",
       "image": null,
-      "published_at": "2026-01-23T14:31:34+00:00"
+      "published_at": "2026-01-23T15:16:38+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Eating less ultraprocessed food supports healthier aging, new research shows",
+      "title_tr": "Eating less ultraprocessed food supports healthier aging, new research shows",
+      "summary": "Ultraprocessed food makes up about half the calories of a typical American diet.\nThe post Eating less ultraprocessed food supports healthier aging, new research shows appeared first on Popular Science.",
+      "summary_tr": "Ultraprocessed food makes up about half the calories of a typical American diet.\nThe post Eating less ultraprocessed food supports healthier aging, new research shows appeared first on Popular Science.",
+      "long_summary": "Ultraprocessed food makes up about half the calories of a typical American diet.\nThe post Eating less ultraprocessed food supports healthier aging, new research shows appeared first on Popular Science.",
+      "long_summary_tr": "Ultraprocessed food makes up about half the calories of a typical American diet.\nThe post Eating less ultraprocessed food supports healthier aging, new research shows appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/health/eating-less-ultraprocessed-food-supports-healthier-aging-new-research-shows/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/01/ultraprocessed_food.jpg?quality=85",
+      "published_at": "2026-01-23T15:16:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD'de tüketici güveni Ocak'ta beş ayın zirvesine çıktı",
+      "title_tr": "ABD'de tüketici güveni Ocak'ta beş ayın zirvesine çıktı",
+      "summary": "ABD'de tüketici güveni Ocak'ta beklentilerin üzerinde 56'4 seviyesine yükseldi.",
+      "summary_tr": "ABD'de tüketici güveni Ocak'ta beklentilerin üzerinde 56'4 seviyesine yükseldi.",
+      "long_summary": "ABD'de tüketici güveni Ocak'ta beklentilerin üzerinde 56'4 seviyesine yükseldi.",
+      "long_summary_tr": "ABD'de tüketici güveni Ocak'ta beklentilerin üzerinde 56'4 seviyesine yükseldi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-de-tuketici-guveni-ocak-ta-bes-ayin-zirvesine-cikti-3767299",
+      "image": null,
+      "published_at": "2026-01-23T15:13:43+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Reed leads Sullivan by one with McIlroy seven back",
+      "title_tr": "Reed leads Sullivan by one with McIlroy seven back",
+      "summary": "American Patrick Reed leads England's Andy Sullivan by one shot after round two of the Dubai Desert Classic, with Rory McIlroy seven off the pace after a second-round 69.",
+      "summary_tr": "American Patrick Reed leads England's Andy Sullivan by one shot after round two of the Dubai Desert Classic, with Rory McIlroy seven off the pace after a second-round 69.",
+      "long_summary": "American Patrick Reed leads England's Andy Sullivan by one shot after round two of the Dubai Desert Classic, with Rory McIlroy seven off the pace after a second-round 69.",
+      "long_summary_tr": "American Patrick Reed leads England's Andy Sullivan by one shot after round two of the Dubai Desert Classic, with Rory McIlroy seven off the pace after a second-round 69.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/golf/articles/cgezzl9w4y9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eabe/live/956165b0-f86c-11f0-b385-5f48925de19a.png",
+      "published_at": "2026-01-23T15:07:08+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Here's How The Office's Michael Scott and Dwight Schrute Look in Fortnite",
+      "title_tr": "Here's How The Office's Michael Scott and Dwight Schrute Look in Fortnite",
+      "summary": "Fortnite fans have gainded a first look at how The Office characters Michael Scott and Dwight Scrute will appear in the game, when they become available later tonight.",
+      "summary_tr": "Fortnite fans have gainded a first look at how The Office characters Michael Scott and Dwight Scrute will appear in the game, when they become available later tonight.",
+      "long_summary": "Fortnite fans have gainded a first look at how The Office characters Michael Scott and Dwight Scrute will appear in the game, when they become available later tonight.",
+      "long_summary_tr": "Fortnite fans have gainded a first look at how The Office characters Michael Scott and Dwight Scrute will appear in the game, when they become available later tonight.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/heres-how-the-offices-michael-scott-and-dwight-schrute-look-in-fortnite",
+      "image": "https://assets-prd.ignimgs.com/2023/01/09/the-office-1673297535514.jpg",
+      "published_at": "2026-01-23T15:05:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "TBMM, İmralı görüşmesinin tam tutanaklarını yayımladı",
+      "title_tr": "TBMM, İmralı görüşmesinin tam tutanaklarını yayımladı",
+      "summary": "Türkiye Büyük Millet Meclisi (TBMM), 24 Kasım 2025 tarihinde İmralı Adası’nda gerçekleştirilen görüşmeye ilişkin tam tutanakları kamuoyuyla paylaştı.",
+      "summary_tr": "Türkiye Büyük Millet Meclisi (TBMM), 24 Kasım 2025 tarihinde İmralı Adası’nda gerçekleştirilen görüşmeye ilişkin tam tutanakları kamuoyuyla paylaştı.",
+      "long_summary": "Türkiye Büyük Millet Meclisi (TBMM), 24 Kasım 2025 tarihinde İmralı Adası’nda gerçekleştirilen görüşmeye ilişkin tam tutanakları kamuoyuyla paylaştı.",
+      "long_summary_tr": "Türkiye Büyük Millet Meclisi (TBMM), 24 Kasım 2025 tarihinde İmralı Adası’nda gerçekleştirilen görüşmeye ilişkin tam tutanakları kamuoyuyla paylaştı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/tbmm-imrali-gorusmesinin-tam-tutanaklarini-yayimladi-haberi-812525",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/23/ocalan-ug2l-cover-2t3u-cover-h16w_cover.jpg",
+      "published_at": "2026-01-23T15:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Antalya'da seraları su bastı, hasar tespit çalışmaları sürüyor",
+      "title_tr": "Antalya'da seraları su bastı, hasar tespit çalışmaları sürüyor",
+      "summary": "Seracılık açısından Türkiye'nin önde gelen ilçeleri arasında yer alan Antalya'nın Kumluca, Serik ve Kaş ilçelerinde tarım alanları şiddetli yağış sonrası su baskını ile zarara uğradı.",
+      "summary_tr": "Seracılık açısından Türkiye'nin önde gelen ilçeleri arasında yer alan Antalya'nın Kumluca, Serik ve Kaş ilçelerinde tarım alanları şiddetli yağış sonrası su baskını ile zarara uğradı.",
+      "long_summary": "Seracılık açısından Türkiye'nin önde gelen ilçeleri arasında yer alan Antalya'nın Kumluca, Serik ve Kaş ilçelerinde tarım alanları şiddetli yağış sonrası su baskını ile zarara uğradı.",
+      "long_summary_tr": "Seracılık açısından Türkiye'nin önde gelen ilçeleri arasında yer alan Antalya'nın Kumluca, Serik ve Kaş ilçelerinde tarım alanları şiddetli yağış sonrası su baskını ile zarara uğradı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/antalya-da-seralari-su-basti-hasar-tespit-calismalari-suruyor-3767296",
+      "image": null,
+      "published_at": "2026-01-23T15:01:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Xiaomi 17 Ultra vs iPhone 17 Pro Karşılaştırma! En İyisi Hangisi?",
+      "title_tr": "Xiaomi 17 Ultra vs iPhone 17 Pro Karşılaştırma! En İyisi Hangisi?",
+      "summary": "Akıllı telefon dünyasının zirvesinde rekabet hiç bu kadar keskin olmamıştı. Bir yanda donanım sınırlarını zorlayan ve Leica iş birliğiyle fotoğrafçılıkta yeni bir sayfa açan Xiaomi, diğer yanda ise her zaman olduğu gibi stabilite ve rafine kullanıcı deneyimiyle öne çıkan Apple. Eğer bugünlerde bütçenizi en üst segment bir telefon için ayırdıysanız ve “Xiaomi 17 Ultra Leica […]",
+      "summary_tr": "Akıllı telefon dünyasının zirvesinde rekabet hiç bu kadar keskin olmamıştı. Bir yanda donanım sınırlarını zorlayan ve Leica iş birliğiyle fotoğrafçılıkta yeni bir sayfa açan Xiaomi, diğer yanda ise her zaman olduğu gibi stabilite ve rafine kullanıcı deneyimiyle öne çıkan Apple. Eğer bugünlerde bütçenizi en üst segment bir telefon için ayırdıysanız ve “Xiaomi 17 Ultra Leica […]",
+      "long_summary": "Akıllı telefon dünyasının zirvesinde rekabet hiç bu kadar keskin olmamıştı. Bir yanda donanım sınırlarını zorlayan ve Leica iş birliğiyle fotoğrafçılıkta yeni bir sayfa açan Xiaomi, diğer yanda ise her zaman olduğu gibi stabilite ve rafine kullanıcı deneyimiyle öne çıkan Apple. Eğer bugünlerde bütçenizi en üst segment bir telefon için ayırdıysanız ve “Xiaomi 17 Ultra Leica […]",
+      "long_summary_tr": "Akıllı telefon dünyasının zirvesinde rekabet hiç bu kadar keskin olmamıştı. Bir yanda donanım sınırlarını zorlayan ve Leica iş birliğiyle fotoğrafçılıkta yeni bir sayfa açan Xiaomi, diğer yanda ise her zaman olduğu gibi stabilite ve rafine kullanıcı deneyimiyle öne çıkan Apple. Eğer bugünlerde bütçenizi en üst segment bir telefon için ayırdıysanız ve “Xiaomi 17 Ultra Leica […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/xiaomi-17-ultra-vs-iphone-17-pro-karsilastirma-en-iyisi-hangisi",
+      "image": null,
+      "published_at": "2026-01-23T15:01:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Corsair’s Katar Pro XT Review: A Solid Wired Budget Mouse, but Its Exaggerated Egg Shape Feels Alien",
+      "title_tr": "Corsair’s Katar Pro XT Review: A Solid Wired Budget Mouse, but Its Exaggerated Egg Shape Feels Alien",
+      "summary": "Does Corsair's Katar Pro XT remain a worthy pick? This budget mouse is solidly built and has great clicks, but its shape isn't for everyone and other flaws lie under the surface.",
+      "summary_tr": "Does Corsair's Katar Pro XT remain a worthy pick? This budget mouse is solidly built and has great clicks, but its shape isn't for everyone and other flaws lie under the surface.",
+      "long_summary": "Does Corsair's Katar Pro XT remain a worthy pick? This budget mouse is solidly built and has great clicks, but its shape isn't for everyone and other flaws lie under the surface.",
+      "long_summary_tr": "Does Corsair's Katar Pro XT remain a worthy pick? This budget mouse is solidly built and has great clicks, but its shape isn't for everyone and other flaws lie under the surface.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/corsairs-katar-pro-xt-gaming-mouse-review",
+      "image": "https://assets-prd.ignimgs.com/2026/01/16/20260116-145100-1768576300684.jpg",
+      "published_at": "2026-01-23T15:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Singer'ın yeni Porsche 911 Turbo'su büyüleyici görünüyor",
+      "title_tr": "Singer'ın yeni Porsche 911 Turbo'su büyüleyici görünüyor",
+      "summary": "964, karbon fiber gövde ve kişiselleştirilmiş iç mekânıyla öne çıkıyor.",
+      "summary_tr": "964, karbon fiber gövde ve kişiselleştirilmiş iç mekânıyla öne çıkıyor.",
+      "long_summary": "964, karbon fiber gövde ve kişiselleştirilmiş iç mekânıyla öne çıkıyor.",
+      "long_summary_tr": "964, karbon fiber gövde ve kişiselleştirilmiş iç mekânıyla öne çıkıyor.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/785267/singer-porsche-911-sorcerer/",
+      "image": "https://cdn.motor1.com/images/mgl/P3MK3A/s3/sorcerer-la-porsche-911-by-singer.jpg",
+      "published_at": "2026-01-23T15:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
+      "title_tr": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
+      "summary": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
+      "summary_tr": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
+      "long_summary": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
+      "long_summary_tr": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-23T14:59:43+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?",
+      "title_tr": "Could trilateral talks yield a breakthrough in Ukraine-Russia war?",
+      "summary": "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022.",
+      "summary_tr": "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022.",
+      "long_summary": "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022.",
+      "long_summary_tr": "It's the first time representatives from Kyiv, Moscow and Washington have come together since the full-scale invasion of Ukraine in 2022.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/videos/c20dlr9kn37o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d410/live/613d6240-f86a-11f0-b385-5f48925de19a.jpg",
+      "published_at": "2026-01-23T14:54:36+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
+      "title_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
+      "summary": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
+      "summary_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
+      "long_summary": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
+      "long_summary_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/bist-100de-bugun-en-cok-hangi-hisseler-kazandrd-3727678",
+      "image": null,
+      "published_at": "2026-01-23T14:54:14+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "The bottled water everyone trusts may be the riskiest",
+      "title_tr": "The bottled water everyone trusts may be the riskiest",
+      "summary": "In Guatemala’s Western Highlands, researchers found that the drinking water people trust most may actually be the riskiest. Bottled water from refillable jugs—seen as the safest choice—was frequently contaminated with harmful bacteria, while protected municipal wells were the cleanest.",
+      "summary_tr": "In Guatemala’s Western Highlands, researchers found that the drinking water people trust most may actually be the riskiest. Bottled water from refillable jugs—seen as the safest choice—was frequently contaminated with harmful bacteria, while protected municipal wells were the cleanest.",
+      "long_summary": "In Guatemala’s Western Highlands, researchers found that the drinking water people trust most may actually be the riskiest. Bottled water from refillable jugs—seen as the safest choice—was frequently contaminated with harmful bacteria, while protected municipal wells were the cleanest.",
+      "long_summary_tr": "In Guatemala’s Western Highlands, researchers found that the drinking water people trust most may actually be the riskiest. Bottled water from refillable jugs—seen as the safest choice—was frequently contaminated with harmful bacteria, while protected municipal wells were the cleanest.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/01/260122074031.htm",
+      "image": null,
+      "published_at": "2026-01-23T14:53:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "ABD PMI verileri iş dünyasında büyümenin sürdüğüne işaret etti, istihdam yatay seyretti",
+      "title_tr": "ABD PMI verileri iş dünyasında büyümenin sürdüğüne işaret etti, istihdam yatay seyretti",
+      "summary": "S&P Global'in Flash PMI verilerine göre ABD'de iş faaliyeti büyümesi Ocak ayında artış gösterdi ancak ancak istihdam artışı zayıf kaldı.",
+      "summary_tr": "S&P Global'in Flash PMI verilerine göre ABD'de iş faaliyeti büyümesi Ocak ayında artış gösterdi ancak ancak istihdam artışı zayıf kaldı.",
+      "long_summary": "S&P Global'in Flash PMI verilerine göre ABD'de iş faaliyeti büyümesi Ocak ayında artış gösterdi ancak ancak istihdam artışı zayıf kaldı.",
+      "long_summary_tr": "S&P Global'in Flash PMI verilerine göre ABD'de iş faaliyeti büyümesi Ocak ayında artış gösterdi ancak ancak istihdam artışı zayıf kaldı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/69738ae62663b328fe31a3fc/PICNEWS/tr/abd-pmi-verileri-is-dunyasinda-buyumenin-surdugune-isaret-etti-istihdam-yatay-seyretti-23-01-26/",
+      "image": "https://news-files.foreks.com/images/1769179870108.jpeg",
+      "published_at": "2026-01-23T14:51:18+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "IndyCar champion Palou ordered to pay McLaren £9m for breach of contract",
+      "title_tr": "IndyCar champion Palou ordered to pay McLaren £9m for breach of contract",
+      "summary": "Four-time IndyCar champion Alex Palou on Friday was ordered to pay McLaren more than £9m in the breach of contract suit the team filed when the Spaniard backed out of two different deals with the racing team.",
+      "summary_tr": "Four-time IndyCar champion Alex Palou on Friday was ordered to pay McLaren more than £9m in the breach of contract suit the team filed when the Spaniard backed out of two different deals with the racing team.",
+      "long_summary": "Four-time IndyCar champion Alex Palou on Friday was ordered to pay McLaren more than £9m in the breach of contract suit the team filed when the Spaniard backed out of two different deals with the racing team.",
+      "long_summary_tr": "Four-time IndyCar champion Alex Palou on Friday was ordered to pay McLaren more than £9m in the breach of contract suit the team filed when the Spaniard backed out of two different deals with the racing team.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/f1/news/12040/13498077/alex-palou-four-time-indycar-champion-ordered-to-pay-mclaren-9m-after-breach-of-contract-trial-at-london-high-court",
+      "image": "https://e0.365dm.com/26/01/1920x1080/skysports-alex-palou-indycar_7143652.jpg?20260123144143",
+      "published_at": "2026-01-23T14:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Williams to miss first test because of car delays",
+      "title_tr": "Williams to miss first test because of car delays",
+      "summary": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
+      "summary_tr": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
+      "long_summary": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
+      "long_summary_tr": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/formula1/articles/c4g00gwvp9eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b65b/live/6f95bba0-f863-11f0-9796-05e6aeca39b2.jpg",
+      "published_at": "2026-01-23T14:45:58+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "title_tr": "'I didn't hear from my son for seven months': Inside Yemen's UAE-run secret prisons",
+      "summary": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+      "summary_tr": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+      "long_summary": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+      "long_summary_tr": "The BBC sees sites on former United Arab Emirates bases in Yemen where detainees say they were abused.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c3r117w55q4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a527/live/13dc10e0-f7c6-11f0-a422-4ba8a094a8fa.jpg",
+      "published_at": "2026-01-23T14:43:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "UBS, 2026’da küresel hisse senedi rallisinin genişleyeceğini öngörüyor",
+      "title_tr": "UBS, 2026’da küresel hisse senedi rallisinin genişleyeceğini öngörüyor",
+      "summary": "UBS, 2026’da küresel hisse senedi rallisinin genişleyeceğini öngörüyor",
+      "summary_tr": "UBS, 2026’da küresel hisse senedi rallisinin genişleyeceğini öngörüyor",
+      "long_summary": "UBS, 2026’da küresel hisse senedi rallisinin genişleyeceğini öngörüyor",
+      "long_summary_tr": "UBS, 2026’da küresel hisse senedi rallisinin genişleyeceğini öngörüyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/ubs-2026da-kuresel-hisse-senedi-rallisinin-genisleyecegini-ongoruyor-3727668",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-23T14:41:45+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Hamilton says 2026 rules 'huge challenge' as Ferrari reveal new car",
+      "title_tr": "Hamilton says 2026 rules 'huge challenge' as Ferrari reveal new car",
+      "summary": "Lewis Hamilton described the 2026 Formula 1 season as \"a huge challenge\" as Ferrari launched their new car.",
+      "summary_tr": "Lewis Hamilton described the 2026 Formula 1 season as \"a huge challenge\" as Ferrari launched their new car.",
+      "long_summary": "Lewis Hamilton described the 2026 Formula 1 season as \"a huge challenge\" as Ferrari launched their new car.",
+      "long_summary_tr": "Lewis Hamilton described the 2026 Formula 1 season as \"a huge challenge\" as Ferrari launched their new car.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/formula1/articles/cdx441qxeypo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e12b/live/eeb2f1b0-f867-11f0-9796-05e6aeca39b2.jpg",
+      "published_at": "2026-01-23T14:41:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Fatih Ürek sağlık durumu nasıl, iyileşti mi? Fatih Ürek öldü mü?",
+      "title_tr": "Fatih Ürek sağlık durumu nasıl, iyileşti mi? Fatih Ürek öldü mü?",
+      "summary": "Fatih Ürek ile ilgil her gelişme yakından takip ediliyor. Sevenleri şarkıcının sağlık durumunu her gün araştırıyor. Son açıklamaları kaçırmak istemeyen vatandaşlar &quot;Fatih Ürek sağlık durumu nasıl, iyileşti mi&quot; sorusuna cevap arıyor.",
+      "summary_tr": "Fatih Ürek ile ilgil her gelişme yakından takip ediliyor. Sevenleri şarkıcının sağlık durumunu her gün araştırıyor. Son açıklamaları kaçırmak istemeyen vatandaşlar &quot;Fatih Ürek sağlık durumu nasıl, iyileşti mi&quot; sorusuna cevap arıyor.",
+      "long_summary": "Fatih Ürek ile ilgil her gelişme yakından takip ediliyor. Sevenleri şarkıcının sağlık durumunu her gün araştırıyor. Son açıklamaları kaçırmak istemeyen vatandaşlar &quot;Fatih Ürek sağlık durumu nasıl, iyileşti mi&quot; sorusuna cevap arıyor.",
+      "long_summary_tr": "Fatih Ürek ile ilgil her gelişme yakından takip ediliyor. Sevenleri şarkıcının sağlık durumunu her gün araştırıyor. Son açıklamaları kaçırmak istemeyen vatandaşlar &quot;Fatih Ürek sağlık durumu nasıl, iyileşti mi&quot; sorusuna cevap arıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/fatih-urek-saglik-durumu-nasil-iyilesti-mi-fatih-urek-oldu-mu-haberi-812519",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/23/fatih-urek-rnvf_cover.png",
+      "published_at": "2026-01-23T14:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "Ukrainian leaders find lessons in Trump’s daring Venezuela raid",
+      "title_tr": "Ukrainian leaders find lessons in Trump’s daring Venezuela raid",
+      "summary": "Ukrainian President Volodymyr Zelenskyy dared the West to act against the Kremlin in his speech on Thursday at the World Economic Forum in Davos.",
+      "summary_tr": "Ukrainian President Volodymyr Zelenskyy dared the West to act against the Kremlin in his speech on Thursday at the World Economic Forum in Davos.",
+      "long_summary": "Ukrainian President Volodymyr Zelenskyy dared the West to act against the Kremlin in his speech on Thursday at the World Economic Forum in Davos.",
+      "long_summary_tr": "Ukrainian President Volodymyr Zelenskyy dared the West to act against the Kremlin in his speech on Thursday at the World Economic Forum in Davos.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/01/23/ukrainian-leaders-find-lessons-in-trumps-daring-venezuela-raid/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TAE42M2KHBFAVO2C2UWDGNWYRY.jpg",
+      "published_at": "2026-01-23T14:38:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Mizuho, daha yüksek aynı mağaza satış görünümü ve kâr marjı nedeniyle Darden’ı yükseltti",
+      "title_tr": "Mizuho, daha yüksek aynı mağaza satış görünümü ve kâr marjı nedeniyle Darden’ı yükseltti",
+      "summary": "Mizuho, daha yüksek aynı mağaza satış görünümü ve kâr marjı nedeniyle Darden’ı yükseltti",
+      "summary_tr": "Mizuho, daha yüksek aynı mağaza satış görünümü ve kâr marjı nedeniyle Darden’ı yükseltti",
+      "long_summary": "Mizuho, daha yüksek aynı mağaza satış görünümü ve kâr marjı nedeniyle Darden’ı yükseltti",
+      "long_summary_tr": "Mizuho, daha yüksek aynı mağaza satış görünümü ve kâr marjı nedeniyle Darden’ı yükseltti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/mizuho-daha-yuksek-ayn-magaza-sats-gorunumu-ve-kar-marj-nedeniyle-darden-yukseltti-3727663",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-23T14:38:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "2026 İçin 2 Küresel Havacılık Hissesi: Bernstein’ın En İyi Alım Tavsiyeleri",
+      "title_tr": "2026 İçin 2 Küresel Havacılık Hissesi: Bernstein’ın En İyi Alım Tavsiyeleri",
+      "summary": "2026 İçin 2 Küresel Havacılık Hissesi: Bernstein’ın En İyi Alım Tavsiyeleri",
+      "summary_tr": "2026 İçin 2 Küresel Havacılık Hissesi: Bernstein’ın En İyi Alım Tavsiyeleri",
+      "long_summary": "2026 İçin 2 Küresel Havacılık Hissesi: Bernstein’ın En İyi Alım Tavsiyeleri",
+      "long_summary_tr": "2026 İçin 2 Küresel Havacılık Hissesi: Bernstein’ın En İyi Alım Tavsiyeleri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/2026-icin-2-kuresel-havaclk-hissesi-bernsteinn-en-iyi-alm-tavsiyeleri-93CH-3727653",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-23T14:37:46+00:00"
     },
     {
       "origin": "yabanci",
@@ -43,7 +725,51 @@
       ],
       "url": "https://www.bbc.com/sport/football/articles/c20zzx6xw4vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f00/live/932021e0-f864-11f0-9796-05e6aeca39b2.jpg",
-      "published_at": "2026-01-23T14:27:53+00:00"
+      "published_at": "2026-01-23T14:37:14+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "WBA/ Haverkamp: Şirketler taahhüt değil, gerçek performans göstermeli",
+      "title_tr": "WBA/ Haverkamp: Şirketler taahhüt değil, gerçek performans göstermeli",
+      "summary": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) İcra Direktörü Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
+      "summary_tr": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) İcra Direktörü Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
+      "long_summary": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) İcra Direktörü Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
+      "long_summary_tr": "Bloomberg HT’nin Davos 2026 özel yayınları kapsamında World Benchmarking Alliance (WBA) İcra Direktörü Gerbrand Haverkamp, şirketlerin yalnızca beyanlarına değil, gerçek performanslarına bakılması gerektiğini vurguladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/wba-haverkamp-sirketler-taahhut-degil-gercek-performans-gostermeli-3767291",
+      "image": null,
+      "published_at": "2026-01-23T14:31:34+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Pokémon TCG: 151 Booster Bundles Are Back in Stock at Amazon and Under Market Price",
+      "title_tr": "Pokémon TCG: 151 Booster Bundles Are Back in Stock at Amazon and Under Market Price",
+      "summary": "Score a Pokémon TCG: 151 Booster Bundle at below market price at Amazon today, at least while stock lasts.",
+      "summary_tr": "Score a Pokémon TCG: 151 Booster Bundle at below market price at Amazon today, at least while stock lasts.",
+      "long_summary": "Score a Pokémon TCG: 151 Booster Bundle at below market price at Amazon today, at least while stock lasts.",
+      "long_summary_tr": "Score a Pokémon TCG: 151 Booster Bundle at below market price at Amazon today, at least while stock lasts.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/pokemon-tcg-151-booster-bundles-are-back-in-stock-at-amazon-and-under-market-price",
+      "image": "https://assets-prd.ignimgs.com/2026/01/23/pokemon-tcg-151-boosters-where-to-buy-best-deal-cheap-ign-2-1769178504222.png",
+      "published_at": "2026-01-23T14:30:28+00:00"
     },
     {
       "origin": "turkiye",
@@ -134,6 +860,28 @@
       "published_at": "2026-01-23T14:25:57+00:00"
     },
     {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Why Norrie exit underlines how Britain is punching below weight",
+      "title_tr": "Why Norrie exit underlines how Britain is punching below weight",
+      "summary": "Britain is one of the richest tennis nations in the world but once again its singles players have not reached the second week at a Grand Slam.",
+      "summary_tr": "Britain is one of the richest tennis nations in the world but once again its singles players have not reached the second week at a Grand Slam.",
+      "long_summary": "Britain is one of the richest tennis nations in the world but once again its singles players have not reached the second week at a Grand Slam.",
+      "long_summary_tr": "Britain is one of the richest tennis nations in the world but once again its singles players have not reached the second week at a Grand Slam.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/tennis/articles/c0kee020dk6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3d/live/6344ffa0-f84a-11f0-a468-83233a09c7a0.jpg",
+      "published_at": "2026-01-23T14:23:03+00:00"
+    },
+    {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
@@ -176,6 +924,28 @@
       "url": "https://www.ntv.com.tr/turkiye/imamoglunun-diploma-davasi-iptal-davasinin-reddine-karar-verildi-1708722",
       "image": "https://images.ntv.com.tr/images/000_34N6437-963376.jpg",
       "published_at": "2026-01-23T14:22:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Cyberpunk 2077 VR Modder Hit by Another DMCA Strike, Pauses Patreon, Pulls Access to All His Mods, and Declares He's 'Under Attack'",
+      "title_tr": "Cyberpunk 2077 VR Modder Hit by Another DMCA Strike, Pauses Patreon, Pulls Access to All His Mods, and Declares He's 'Under Attack'",
+      "summary": "The creator of the Cyberpunk 2077 VR mod CD Projekt recently hit with a DMCA strike has paused his Patreon page and pulled access to all his mods after receiving another strike from a different publisher.",
+      "summary_tr": "The creator of the Cyberpunk 2077 VR mod CD Projekt recently hit with a DMCA strike has paused his Patreon page and pulled access to all his mods after receiving another strike from a different publisher.",
+      "long_summary": "The creator of the Cyberpunk 2077 VR mod CD Projekt recently hit with a DMCA strike has paused his Patreon page and pulled access to all his mods after receiving another strike from a different publisher.",
+      "long_summary_tr": "The creator of the Cyberpunk 2077 VR mod CD Projekt recently hit with a DMCA strike has paused his Patreon page and pulled access to all his mods after receiving another strike from a different publisher.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/cyberpunk-2077-vr-modder-hit-by-another-dmca-strike-pauses-patreon-pulls-access-to-all-his-mods-and-declares-hes-under-attack",
+      "image": "https://assets-prd.ignimgs.com/2026/01/23/ss-b3685fcab4d6f60c9fd54ffe8757ccaaef803d9e-1920x1080-1769177791864.jpg",
+      "published_at": "2026-01-23T14:21:43+00:00"
     },
     {
       "origin": "turkiye",
@@ -240,7 +1010,7 @@
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
       "url": "https://www.dunya.com/gundem/son-dakika-ekrem-imamoglunun-diploma-iptali-icin-actigi-dava-reddedildi-haberi-812516",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/23/son-dakika-kirmizi-co9r-cover-wvhy_cover.jpg",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/23/ekrem-imamoglu-quup-cover-ruhz_cover.jpg",
       "published_at": "2026-01-23T14:18:00+00:00"
     },
     {
@@ -267,47 +1037,25 @@
     },
     {
       "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "BBC World",
-      "title": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-      "title_tr": "Trump's claim Nato troops avoided Afghanistan front line sparks outrage in UK",
-      "summary": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
-      "summary_tr": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
-      "long_summary": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
-      "long_summary_tr": "The US president says Nato troops stayed \"a little off the front lines\" - despite 457 UK military deaths in the conflict.",
+      "source": "Sky Sports",
+      "title": "'Thrown to the sharks' - Arsenal teenager Nwaneri completes Marseille loan",
+      "title_tr": "'Thrown to the sharks' - Arsenal teenager Nwaneri completes Marseille loan",
+      "summary": "Arsenal midfielder Ethan Nwaneri has completed a loan deal to Marseille until the end of the season.",
+      "summary_tr": "Arsenal midfielder Ethan Nwaneri has completed a loan deal to Marseille until the end of the season.",
+      "long_summary": "Arsenal midfielder Ethan Nwaneri has completed a loan deal to Marseille until the end of the season.",
+      "long_summary_tr": "Arsenal midfielder Ethan Nwaneri has completed a loan deal to Marseille until the end of the season.",
       "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/czr444j671vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35da/live/042f00b0-f840-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-23T14:12:35+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Sigma Lithium hisseleri 100.000 ton yüksek saflıkta lityum satışı sonrası yükseldi",
-      "title_tr": "Sigma Lithium hisseleri 100.000 ton yüksek saflıkta lityum satışı sonrası yükseldi",
-      "summary": "Sigma Lithium hisseleri 100.000 ton yüksek saflıkta lityum satışı sonrası yükseldi",
-      "summary_tr": "Sigma Lithium hisseleri 100.000 ton yüksek saflıkta lityum satışı sonrası yükseldi",
-      "long_summary": "Sigma Lithium hisseleri 100.000 ton yüksek saflıkta lityum satışı sonrası yükseldi",
-      "long_summary_tr": "Sigma Lithium hisseleri 100.000 ton yüksek saflıkta lityum satışı sonrası yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/sigma-lithium-hisseleri-100000-ton-yuksek-saflkta-lityum-sats-sonras-yukseldi-93CH-3727559",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-23T14:10:32+00:00"
+      "url": "https://www.skysports.com/football/news/12040/13498066/ethan-nwaneri-marseille-complete-loan-signing-of-arsenal-teenager-until-end-of-the-season",
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-nwaneri-arsenal_7143648.jpg?20260123143610",
+      "published_at": "2026-01-23T14:14:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -352,754 +1100,6 @@
       "url": "https://www.bbc.com/news/articles/c3edde1pwx8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/920c7380-f85a-11f0-933b-47b4ddaac6f0.jpg",
       "published_at": "2026-01-23T14:06:10+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "JPMorgan, P&G’yi beklenen satış artışı ve marj iyileşmesi nedeniyle yükseltti",
-      "title_tr": "JPMorgan, P&G’yi beklenen satış artışı ve marj iyileşmesi nedeniyle yükseltti",
-      "summary": "JPMorgan, P&G’yi beklenen satış artışı ve marj iyileşmesi nedeniyle yükseltti",
-      "summary_tr": "JPMorgan, P&G’yi beklenen satış artışı ve marj iyileşmesi nedeniyle yükseltti",
-      "long_summary": "JPMorgan, P&G’yi beklenen satış artışı ve marj iyileşmesi nedeniyle yükseltti",
-      "long_summary_tr": "JPMorgan, P&G’yi beklenen satış artışı ve marj iyileşmesi nedeniyle yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/jpmorgan-pgyi-beklenen-sats-arts-ve-marj-iyilesmesi-nedeniyle-yukseltti-3727546",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-23T14:05:45+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Surprise Super Mario Galaxy Movie Nintendo Direct Announced for This Weekend",
-      "title_tr": "Surprise Super Mario Galaxy Movie Nintendo Direct Announced for This Weekend",
-      "summary": "Here's hoping you didn't have anything else planned for your weekend, as Nintendo has announced a surprise Super Mario Galaxy Movie Nintendo Direct for this coming Sunday.",
-      "summary_tr": "Here's hoping you didn't have anything else planned for your weekend, as Nintendo has announced a surprise Super Mario Galaxy Movie Nintendo Direct for this coming Sunday.",
-      "long_summary": "Here's hoping you didn't have anything else planned for your weekend, as Nintendo has announced a surprise Super Mario Galaxy Movie Nintendo Direct for this coming Sunday.",
-      "long_summary_tr": "Here's hoping you didn't have anything else planned for your weekend, as Nintendo has announced a surprise Super Mario Galaxy Movie Nintendo Direct for this coming Sunday.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/surprise-super-mario-galaxy-movie-nintendo-direct-announced-for-this-weekend",
-      "image": "https://assets-prd.ignimgs.com/2025/11/12/ros-1762959730356.png",
-      "published_at": "2026-01-23T14:05:07+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Sanctuary Board Game Review",
-      "title_tr": "Sanctuary Board Game Review",
-      "summary": "Sanctuary offers a pleasing challenge with a couple of fresh ideas, and is worth your while if zoo management tickles your thematic fancy.",
-      "summary_tr": "Sanctuary offers a pleasing challenge with a couple of fresh ideas, and is worth your while if zoo management tickles your thematic fancy.",
-      "long_summary": "Sanctuary offers a pleasing challenge with a couple of fresh ideas, and is worth your while if zoo management tickles your thematic fancy.",
-      "long_summary_tr": "Sanctuary offers a pleasing challenge with a couple of fresh ideas, and is worth your while if zoo management tickles your thematic fancy.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/sanctuary-board-game-review",
-      "image": "https://assets-prd.ignimgs.com/2026/01/22/untitled-design-1769115558840.png",
-      "published_at": "2026-01-23T14:04:09+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "AB, ABD'ye yönelik tarifelerin uygulanmasını erteleyecek",
-      "title_tr": "AB, ABD'ye yönelik tarifelerin uygulanmasını erteleyecek",
-      "summary": "AB Komisyonu, bir hafta süren Atlantik ötesi gerilimlerin azalmasının ardından 7 Şubat'ta yürürlüğe girecek ABD mallarına yönelik tarifeleri engellemek için bir prosedür başlatmayı planlıyor.AB'nin yü...",
-      "summary_tr": "AB Komisyonu, bir hafta süren Atlantik ötesi gerilimlerin azalmasının ardından 7 Şubat'ta yürürlüğe girecek ABD mallarına yönelik tarifeleri engellemek için bir prosedür başlatmayı planlıyor.AB'nin yü...",
-      "long_summary": "AB Komisyonu, bir hafta süren Atlantik ötesi gerilimlerin azalmasının ardından 7 Şubat'ta yürürlüğe girecek ABD mallarına yönelik tarifeleri engellemek için bir prosedür başlatmayı planlıyor.AB'nin yü...",
-      "long_summary_tr": "AB Komisyonu, bir hafta süren Atlantik ötesi gerilimlerin azalmasının ardından 7 Şubat'ta yürürlüğe girecek ABD mallarına yönelik tarifeleri engellemek için bir prosedür başlatmayı planlıyor.AB'nin yü...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/69737fb867ad3132ebe0205f/PICNEWS/tr/ab-abd-ye-yonelik-tarifelerin-uygulanmasini-erteleyecek-23-01-26/",
-      "image": "https://news-files.foreks.com/images/1769177012204.jpeg",
-      "published_at": "2026-01-23T14:03:36+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "Tired? You may have social jetlag.",
-      "title_tr": "Tired? You may have social jetlag.",
-      "summary": "When life gets in the way of your body's ideal sleep schedule, things get messy.\nThe post Tired? You may have social jetlag. appeared first on Popular Science.",
-      "summary_tr": "When life gets in the way of your body's ideal sleep schedule, things get messy.\nThe post Tired? You may have social jetlag. appeared first on Popular Science.",
-      "long_summary": "When life gets in the way of your body's ideal sleep schedule, things get messy.\nThe post Tired? You may have social jetlag. appeared first on Popular Science.",
-      "long_summary_tr": "When life gets in the way of your body's ideal sleep schedule, things get messy.\nThe post Tired? You may have social jetlag. appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/health/what-is-social-jetlag/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/01/what-is-social-jetlag-reasons-I-might-be-tired.jpg?quality=85",
-      "published_at": "2026-01-23T14:01:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Man Utd keen to resume Mainoo contract talks",
-      "title_tr": "Man Utd keen to resume Mainoo contract talks",
-      "summary": "Manchester United are keen to resume talks with midfielder Kobbie Mainoo over a new contract that would bring him in line with his fellow senior squad members.",
-      "summary_tr": "Manchester United are keen to resume talks with midfielder Kobbie Mainoo over a new contract that would bring him in line with his fellow senior squad members.",
-      "long_summary": "Manchester United are keen to resume talks with midfielder Kobbie Mainoo over a new contract that would bring him in line with his fellow senior squad members.",
-      "long_summary_tr": "Manchester United are keen to resume talks with midfielder Kobbie Mainoo over a new contract that would bring him in line with his fellow senior squad members.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cpv77g0r0d2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cdd/live/e98f3c50-f83c-11f0-b385-5f48925de19a.jpg",
-      "published_at": "2026-01-23T14:00:28+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Williams to miss first test because of car delays",
-      "title_tr": "Williams to miss first test because of car delays",
-      "summary": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
-      "summary_tr": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
-      "long_summary": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
-      "long_summary_tr": "Williams will miss next week's first pre-season test in Barcelona following delays completing their new car.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/formula1/articles/c4g00gwvp9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b65b/live/6f95bba0-f863-11f0-9796-05e6aeca39b2.jpg",
-      "published_at": "2026-01-23T14:00:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Apple’ın Gizli Planı Ne?",
-      "title_tr": "Apple’ın Gizli Planı Ne?",
-      "summary": "Akıllı telefon fiyatları, özellikle NAND flash ve DRAM gibi temel bileşenlerdeki maliyet artışları nedeniyle küresel çapta yükselirken, Apple’dan tüketicileri sevindirecek bir haber gelebilir. Sektördeki genel kanının aksine, teknoloji devinin iPhone 17e fiyatı konusunda bir artışa gitmeyebileceği, hatta bir indirim yapabileceği konuşuluyor. Bu beklentinin arkasındaki en büyük neden ise Apple’ın tedarik zincirinde sağladığı iddia edilen önemli […]",
-      "summary_tr": "Akıllı telefon fiyatları, özellikle NAND flash ve DRAM gibi temel bileşenlerdeki maliyet artışları nedeniyle küresel çapta yükselirken, Apple’dan tüketicileri sevindirecek bir haber gelebilir. Sektördeki genel kanının aksine, teknoloji devinin iPhone 17e fiyatı konusunda bir artışa gitmeyebileceği, hatta bir indirim yapabileceği konuşuluyor. Bu beklentinin arkasındaki en büyük neden ise Apple’ın tedarik zincirinde sağladığı iddia edilen önemli […]",
-      "long_summary": "Akıllı telefon fiyatları, özellikle NAND flash ve DRAM gibi temel bileşenlerdeki maliyet artışları nedeniyle küresel çapta yükselirken, Apple’dan tüketicileri sevindirecek bir haber gelebilir. Sektördeki genel kanının aksine, teknoloji devinin iPhone 17e fiyatı konusunda bir artışa gitmeyebileceği, hatta bir indirim yapabileceği konuşuluyor. Bu beklentinin arkasındaki en büyük neden ise Apple’ın tedarik zincirinde sağladığı iddia edilen önemli […]",
-      "long_summary_tr": "Akıllı telefon fiyatları, özellikle NAND flash ve DRAM gibi temel bileşenlerdeki maliyet artışları nedeniyle küresel çapta yükselirken, Apple’dan tüketicileri sevindirecek bir haber gelebilir. Sektördeki genel kanının aksine, teknoloji devinin iPhone 17e fiyatı konusunda bir artışa gitmeyebileceği, hatta bir indirim yapabileceği konuşuluyor. Bu beklentinin arkasındaki en büyük neden ise Apple’ın tedarik zincirinde sağladığı iddia edilen önemli […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/applein-gizli-plani-ne",
-      "image": null,
-      "published_at": "2026-01-23T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Most Luxurious Facial Treatments Celebrities Are Booking Now",
-      "title_tr": "The Most Luxurious Facial Treatments Celebrities Are Booking Now",
-      "summary": "Meet skin care’s new guard.",
-      "summary_tr": "Meet skin care’s new guard.",
-      "long_summary": "Meet skin care’s new guard.",
-      "long_summary_tr": "Meet skin care’s new guard.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/beauty/makeup-skin-care/a70068260/most-popular-facialists-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/elm020126btyfacials-004-credit-emilio-madrid-6970f0b6b4742.jpg",
-      "published_at": "2026-01-23T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Army tests Next Gen C2 data layer for the first time",
-      "title_tr": "Army tests Next Gen C2 data layer for the first time",
-      "summary": "“Next Gen C2 is the vehicle, I think, that’s going to bring artificial intelligence and its capabilities to our commanders in the future,” Brig. Gen. Michael Kaloostian, director of the Command and Control Future Capability Directorate at Army Transformation and Training Command, said.",
-      "summary_tr": "“Next Gen C2 is the vehicle, I think, that’s going to bring artificial intelligence and its capabilities to our commanders in the future,” Brig. Gen. Michael Kaloostian, director of the Command and Control Future Capability Directorate at Army Transformation and Training Command, said.",
-      "long_summary": "“Next Gen C2 is the vehicle, I think, that’s going to bring artificial intelligence and its capabilities to our commanders in the future,” Brig. Gen. Michael Kaloostian, director of the Command and Control Future Capability Directorate at Army Transformation and Training Command, said.",
-      "long_summary_tr": "“Next Gen C2 is the vehicle, I think, that’s going to bring artificial intelligence and its capabilities to our commanders in the future,” Brig. Gen. Michael Kaloostian, director of the Command and Control Future Capability Directorate at Army Transformation and Training Command, said.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/01/army-tests-next-gen-c2-data-layer-for-the-first-time/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220524_AI_robot_hand_laptop_GettyImages-1202870693-scaled-e1666716055157-1024x576.jpg",
-      "published_at": "2026-01-23T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Can Anyone Stop The Beauty's Ryan Murphy?",
-      "title_tr": "Can Anyone Stop The Beauty's Ryan Murphy?",
-      "summary": "Can anyone stop Ryan Murphy? The multi-series producing powerhouse keeps making television like The Beauty… whether we like it or not.",
-      "summary_tr": "Can anyone stop Ryan Murphy? The multi-series producing powerhouse keeps making television like The Beauty… whether we like it or not.",
-      "long_summary": "Can anyone stop Ryan Murphy? The multi-series producing powerhouse keeps making television like The Beauty… whether we like it or not.",
-      "long_summary_tr": "Can anyone stop Ryan Murphy? The multi-series producing powerhouse keeps making television like The Beauty… whether we like it or not.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/can-anyone-stop-the-beauty-ryan-murphy",
-      "image": "https://assets-prd.ignimgs.com/2026/01/20/7d2a7d7d-f322-4787-a205-5191ae5074ce-1768947960002.png",
-      "published_at": "2026-01-23T14:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "UBS, yatırım talebinin sürmesiyle paladyum tahminini yükseltti",
-      "title_tr": "UBS, yatırım talebinin sürmesiyle paladyum tahminini yükseltti",
-      "summary": "UBS, yatırım talebinin sürmesiyle paladyum tahminini yükseltti",
-      "summary_tr": "UBS, yatırım talebinin sürmesiyle paladyum tahminini yükseltti",
-      "long_summary": "UBS, yatırım talebinin sürmesiyle paladyum tahminini yükseltti",
-      "long_summary_tr": "UBS, yatırım talebinin sürmesiyle paladyum tahminini yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/ubs-yatrm-talebinin-surmesiyle-paladyum-tahminini-yukseltti-3727521",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-23T13:56:39+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Aptera Motors hisseleri 9 milyon dolarlık halka arz fiyatlandırması sonrası düşüşte",
-      "title_tr": "Aptera Motors hisseleri 9 milyon dolarlık halka arz fiyatlandırması sonrası düşüşte",
-      "summary": "Aptera Motors hisseleri 9 milyon dolarlık halka arz fiyatlandırması sonrası düşüşte",
-      "summary_tr": "Aptera Motors hisseleri 9 milyon dolarlık halka arz fiyatlandırması sonrası düşüşte",
-      "long_summary": "Aptera Motors hisseleri 9 milyon dolarlık halka arz fiyatlandırması sonrası düşüşte",
-      "long_summary_tr": "Aptera Motors hisseleri 9 milyon dolarlık halka arz fiyatlandırması sonrası düşüşte",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/aptera-motors-hisseleri-9-milyon-dolarlk-halka-arz-fiyatlandrmas-sonras-dususte-93CH-3727514",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-23T13:52:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Instagram’da takip dönemi bitiyor! \"Arkadaşlar\" sistemi geliyor",
-      "title_tr": "Instagram’da takip dönemi bitiyor! \"Arkadaşlar\" sistemi geliyor",
-      "summary": "Instagram, takipçi-takip edilen düzenini değiştirecek “Arkadaşlar” özelliğini test etmeye hazırlanıyor. Yeni modelde yalnızca karşılıklı takip edilen kişiler arkadaş sayılacak.",
-      "summary_tr": "Instagram, takipçi-takip edilen düzenini değiştirecek “Arkadaşlar” özelliğini test etmeye hazırlanıyor. Yeni modelde yalnızca karşılıklı takip edilen kişiler arkadaş sayılacak.",
-      "long_summary": "Instagram, takipçi-takip edilen düzenini değiştirecek “Arkadaşlar” özelliğini test etmeye hazırlanıyor. Yeni modelde yalnızca karşılıklı takip edilen kişiler arkadaş sayılacak.",
-      "long_summary_tr": "Instagram, takipçi-takip edilen düzenini değiştirecek “Arkadaşlar” özelliğini test etmeye hazırlanıyor. Yeni modelde yalnızca karşılıklı takip edilen kişiler arkadaş sayılacak.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/foto-galeri/teknoloji/instagramda-takip-donemi-bitiyor-arkadaslar-sistemi-geliyor-galeri-812514",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/23/yeni-proje-2hgt_cover.jpg",
-      "published_at": "2026-01-23T13:52:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Diginex hisseleri Brezilya’nın Mato Grosso eyaletiyle çerçeve anlaşması imzaladıktan sonra yükseldi",
-      "title_tr": "Diginex hisseleri Brezilya’nın Mato Grosso eyaletiyle çerçeve anlaşması imzaladıktan sonra yükseldi",
-      "summary": "Diginex hisseleri Brezilya’nın Mato Grosso eyaletiyle çerçeve anlaşması imzaladıktan sonra yükseldi",
-      "summary_tr": "Diginex hisseleri Brezilya’nın Mato Grosso eyaletiyle çerçeve anlaşması imzaladıktan sonra yükseldi",
-      "long_summary": "Diginex hisseleri Brezilya’nın Mato Grosso eyaletiyle çerçeve anlaşması imzaladıktan sonra yükseldi",
-      "long_summary_tr": "Diginex hisseleri Brezilya’nın Mato Grosso eyaletiyle çerçeve anlaşması imzaladıktan sonra yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/diginex-hisseleri-brezilyann-mato-grosso-eyaletiyle-cerceve-anlasmas-imzaladktan-sonra-yukseldi-93CH-3727512",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-23T13:50:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "ABD'li tüketiciler gelir artışlarından daha fazla harcamaya devam ediyor",
-      "title_tr": "ABD'li tüketiciler gelir artışlarından daha fazla harcamaya devam ediyor",
-      "summary": "ABD'de gelir artışı tüketici harcamalarının gerisinde kalmaya devam ediyor. Bu da Amerikalıları tasarruflarını kullanmaya yönlendiriyor ve güçlü hanehalkı talebinin sürdürülebilirliği konusunda endişelerin ortaya çıkmasına neden oluyor.",
-      "summary_tr": "ABD'de gelir artışı tüketici harcamalarının gerisinde kalmaya devam ediyor. Bu da Amerikalıları tasarruflarını kullanmaya yönlendiriyor ve güçlü hanehalkı talebinin sürdürülebilirliği konusunda endişelerin ortaya çıkmasına neden oluyor.",
-      "long_summary": "ABD'de gelir artışı tüketici harcamalarının gerisinde kalmaya devam ediyor. Bu da Amerikalıları tasarruflarını kullanmaya yönlendiriyor ve güçlü hanehalkı talebinin sürdürülebilirliği konusunda endişelerin ortaya çıkmasına neden oluyor.",
-      "long_summary_tr": "ABD'de gelir artışı tüketici harcamalarının gerisinde kalmaya devam ediyor. Bu da Amerikalıları tasarruflarını kullanmaya yönlendiriyor ve güçlü hanehalkı talebinin sürdürülebilirliği konusunda endişelerin ortaya çıkmasına neden oluyor.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/abd-li-tuketiciler-gelir-artislarindan-daha-fazla-harcamaya-devam-ediyor-3767290",
-      "image": null,
-      "published_at": "2026-01-23T13:50:02+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Kepler, Avrupa medya hisselerinin değerlemeleri çok yıllık iskontoları gördükçe derecelendirmeleri yeniden düzenliyor",
-      "title_tr": "Kepler, Avrupa medya hisselerinin değerlemeleri çok yıllık iskontoları gördükçe derecelendirmeleri yeniden düzenliyor",
-      "summary": "Kepler, Avrupa medya hisselerinin değerlemeleri çok yıllık iskontoları gördükçe derecelendirmeleri yeniden düzenliyor",
-      "summary_tr": "Kepler, Avrupa medya hisselerinin değerlemeleri çok yıllık iskontoları gördükçe derecelendirmeleri yeniden düzenliyor",
-      "long_summary": "Kepler, Avrupa medya hisselerinin değerlemeleri çok yıllık iskontoları gördükçe derecelendirmeleri yeniden düzenliyor",
-      "long_summary_tr": "Kepler, Avrupa medya hisselerinin değerlemeleri çok yıllık iskontoları gördükçe derecelendirmeleri yeniden düzenliyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/kepler-avrupa-medya-hisselerinin-degerlemeleri-cok-yllk-iskontolar-gordukce-derecelendirmeleri-yeniden-duzenliyor-3727533",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-23T13:49:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "Bulgaria approves Naval Strike Missile buy amid Black Sea buildup",
-      "title_tr": "Bulgaria approves Naval Strike Missile buy amid Black Sea buildup",
-      "summary": "Given Bulgaria’s broad political consensus on the planned procurement, an upcoming parliament vote is expected to be a formality.",
-      "summary_tr": "Given Bulgaria’s broad political consensus on the planned procurement, an upcoming parliament vote is expected to be a formality.",
-      "long_summary": "Given Bulgaria’s broad political consensus on the planned procurement, an upcoming parliament vote is expected to be a formality.",
-      "long_summary_tr": "Given Bulgaria’s broad political consensus on the planned procurement, an upcoming parliament vote is expected to be a formality.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/global/europe/2026/01/23/bulgaria-approves-naval-strike-missile-buy-amid-black-sea-buildup/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UVR2C5MIVJASBOVG4QOEFNOUMY.jpg",
-      "published_at": "2026-01-23T13:45:06+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Saracens boss McCall to step down at end of season",
-      "title_tr": "Saracens boss McCall to step down at end of season",
-      "summary": "Saracens director of rugby Mark McCall will step down at the end of the season after 15 trophy-laden seasons in the role.",
-      "summary_tr": "Saracens director of rugby Mark McCall will step down at the end of the season after 15 trophy-laden seasons in the role.",
-      "long_summary": "Saracens director of rugby Mark McCall will step down at the end of the season after 15 trophy-laden seasons in the role.",
-      "long_summary_tr": "Saracens director of rugby Mark McCall will step down at the end of the season after 15 trophy-laden seasons in the role.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/ckgjjrdryneo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f4/live/9a52a6c0-f852-11f0-8ab6-81a112385ec5.jpg",
-      "published_at": "2026-01-23T13:43:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Citroen Anavatanından Sonra Türkiye Dedi!",
-      "title_tr": "Citroen Anavatanından Sonra Türkiye Dedi!",
-      "summary": "Türkiye otomotiv pazarı, global markalar için ne kadar stratejik bir öneme sahip olduğunu bir kez daha kanıtladı. Fransız otomotiv devi Citroen, ülkemizde kaydettiği olağanüstü satış rakamlarıyla tarihi bir başarıya imza attı. Yapılan resmi açıklamalara göre, Citroen Türkiye satışları, markanın anavatanı Fransa’nın hemen ardından gelerek globalde en büyük ikinci pazar konumuna yükseldi. Bu dikkat çekici başarı, […]",
-      "summary_tr": "Türkiye otomotiv pazarı, global markalar için ne kadar stratejik bir öneme sahip olduğunu bir kez daha kanıtladı. Fransız otomotiv devi Citroen, ülkemizde kaydettiği olağanüstü satış rakamlarıyla tarihi bir başarıya imza attı. Yapılan resmi açıklamalara göre, Citroen Türkiye satışları, markanın anavatanı Fransa’nın hemen ardından gelerek globalde en büyük ikinci pazar konumuna yükseldi. Bu dikkat çekici başarı, […]",
-      "long_summary": "Türkiye otomotiv pazarı, global markalar için ne kadar stratejik bir öneme sahip olduğunu bir kez daha kanıtladı. Fransız otomotiv devi Citroen, ülkemizde kaydettiği olağanüstü satış rakamlarıyla tarihi bir başarıya imza attı. Yapılan resmi açıklamalara göre, Citroen Türkiye satışları, markanın anavatanı Fransa’nın hemen ardından gelerek globalde en büyük ikinci pazar konumuna yükseldi. Bu dikkat çekici başarı, […]",
-      "long_summary_tr": "Türkiye otomotiv pazarı, global markalar için ne kadar stratejik bir öneme sahip olduğunu bir kez daha kanıtladı. Fransız otomotiv devi Citroen, ülkemizde kaydettiği olağanüstü satış rakamlarıyla tarihi bir başarıya imza attı. Yapılan resmi açıklamalara göre, Citroen Türkiye satışları, markanın anavatanı Fransa’nın hemen ardından gelerek globalde en büyük ikinci pazar konumuna yükseldi. Bu dikkat çekici başarı, […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/citroen-anavatanindan-sonra-turkiye-dedi",
-      "image": null,
-      "published_at": "2026-01-23T13:43:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Ramazan ve Kurban Bayramı ne zaman? İşte bayram tarihleri...",
-      "title_tr": "Ramazan ve Kurban Bayramı ne zaman? İşte bayram tarihleri...",
-      "summary": "Dini gün ve gecelerin takvimini öğrenmek isteyen milyonlarca vatandaş, bayram tarihlerini şimdiden araştırmaya başladı. Özellikle tatil planı yapacaklar için resmi günler büyük önem taşıyor. Bu sebeple her geçen gün &quot;Ramazan ve Kurban Bayramı ne zaman&quot; sorusu artıyor.",
-      "summary_tr": "Dini gün ve gecelerin takvimini öğrenmek isteyen milyonlarca vatandaş, bayram tarihlerini şimdiden araştırmaya başladı. Özellikle tatil planı yapacaklar için resmi günler büyük önem taşıyor. Bu sebeple her geçen gün &quot;Ramazan ve Kurban Bayramı ne zaman&quot; sorusu artıyor.",
-      "long_summary": "Dini gün ve gecelerin takvimini öğrenmek isteyen milyonlarca vatandaş, bayram tarihlerini şimdiden araştırmaya başladı. Özellikle tatil planı yapacaklar için resmi günler büyük önem taşıyor. Bu sebeple her geçen gün &quot;Ramazan ve Kurban Bayramı ne zaman&quot; sorusu artıyor.",
-      "long_summary_tr": "Dini gün ve gecelerin takvimini öğrenmek isteyen milyonlarca vatandaş, bayram tarihlerini şimdiden araştırmaya başladı. Özellikle tatil planı yapacaklar için resmi günler büyük önem taşıyor. Bu sebeple her geçen gün &quot;Ramazan ve Kurban Bayramı ne zaman&quot; sorusu artıyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/ramazan-ve-kurban-bayrami-ne-zaman-iste-bayram-tarihleri-haberi-812512",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/23/bayram-tarihleri-s68x_cover.png",
-      "published_at": "2026-01-23T13:40:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Wales' Williams retires from international rugby",
-      "title_tr": "Wales' Williams retires from international rugby",
-      "summary": "Wales and British and Irish Lions full-back Liam Williams retires from international rugby union.",
-      "summary_tr": "Wales and British and Irish Lions full-back Liam Williams retires from international rugby union.",
-      "long_summary": "Wales and British and Irish Lions full-back Liam Williams retires from international rugby union.",
-      "long_summary_tr": "Wales and British and Irish Lions full-back Liam Williams retires from international rugby union.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cz0pp0gnry0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85cf/live/4f4e9650-f85e-11f0-933b-47b4ddaac6f0.jpg",
-      "published_at": "2026-01-23T13:37:57+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Küresel çelik üretimi 2025'te düştü, Türkiye'nin üretimi arttı",
-      "title_tr": "Küresel çelik üretimi 2025'te düştü, Türkiye'nin üretimi arttı",
-      "summary": "Worldsteel tarafından yayımlanan rapora göre, küresel ham çelik üretimi 2025 Aralık ayında yüzde 3,7 azalarak 139,6 milyon ton, Ocak–Aralık 2025 döneminde ise üretim %2 düşüşle milyar 803,8 milyon ton...",
-      "summary_tr": "Worldsteel tarafından yayımlanan rapora göre, küresel ham çelik üretimi 2025 Aralık ayında yüzde 3,7 azalarak 139,6 milyon ton, Ocak–Aralık 2025 döneminde ise üretim %2 düşüşle milyar 803,8 milyon ton...",
-      "long_summary": "Worldsteel tarafından yayımlanan rapora göre, küresel ham çelik üretimi 2025 Aralık ayında yüzde 3,7 azalarak 139,6 milyon ton, Ocak–Aralık 2025 döneminde ise üretim %2 düşüşle milyar 803,8 milyon ton...",
-      "long_summary_tr": "Worldsteel tarafından yayımlanan rapora göre, küresel ham çelik üretimi 2025 Aralık ayında yüzde 3,7 azalarak 139,6 milyon ton, Ocak–Aralık 2025 döneminde ise üretim %2 düşüşle milyar 803,8 milyon ton...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6973791e2663b328fe31a350/PICNEWS/tr/kuresel-celik-uretimi-2025-te-dustu-turkiye-nin-uretimi-artti-23-01-26/",
-      "image": "https://news-files.foreks.com/images/1769175321173.jpeg",
-      "published_at": "2026-01-23T13:35:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "İngiltere Merkez Bankası'ndan faiz indirimi beklentisi azaldı",
-      "title_tr": "İngiltere Merkez Bankası'ndan faiz indirimi beklentisi azaldı",
-      "summary": "Para piyasalarında İngiltere Merkez Bankası'ndan faiz indirimine yönelik beklentiler, politika yapıcı Megan Greene'in şahin açıklamalarının ardından azaldı.",
-      "summary_tr": "Para piyasalarında İngiltere Merkez Bankası'ndan faiz indirimine yönelik beklentiler, politika yapıcı Megan Greene'in şahin açıklamalarının ardından azaldı.",
-      "long_summary": "Para piyasalarında İngiltere Merkez Bankası'ndan faiz indirimine yönelik beklentiler, politika yapıcı Megan Greene'in şahin açıklamalarının ardından azaldı.",
-      "long_summary_tr": "Para piyasalarında İngiltere Merkez Bankası'ndan faiz indirimine yönelik beklentiler, politika yapıcı Megan Greene'in şahin açıklamalarının ardından azaldı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/ingiltere-merkez-bankasi-ndan-faiz-indirimi-beklentisi-azaldi-3767289",
-      "image": null,
-      "published_at": "2026-01-23T13:32:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "DEM, siyasi parti turuna çıkıyor",
-      "title_tr": "DEM, siyasi parti turuna çıkıyor",
-      "summary": "DEM Parti Eş Genel Başkanları, Suriye'deki son durumla ilgili değerlendirme için siyasi parti turlarına başlıyor.",
-      "summary_tr": "DEM Parti Eş Genel Başkanları, Suriye'deki son durumla ilgili değerlendirme için siyasi parti turlarına başlıyor.",
-      "long_summary": "DEM Parti Eş Genel Başkanları, Suriye'deki son durumla ilgili değerlendirme için siyasi parti turlarına başlıyor.",
-      "long_summary_tr": "DEM Parti Eş Genel Başkanları, Suriye'deki son durumla ilgili değerlendirme için siyasi parti turlarına başlıyor.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/dem-siyasi-parti-turuna-cikiyor-1708718",
-      "image": "https://images.ntv.com.tr/images/1732794289385-chpdemgorusmeee-319291(2).jpg",
-      "published_at": "2026-01-23T13:29:57+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Erdoğan'ın 2025 faaliyetleri kitapta derlendi: \"Aşkınan Koşan Yorulmaz\"",
-      "title_tr": "Erdoğan'ın 2025 faaliyetleri kitapta derlendi: \"Aşkınan Koşan Yorulmaz\"",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın 2025 yılındaki faaliyetleri \"Aşkınan Koşan Yorulmaz\" adlı kitapta toplandı.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın 2025 yılındaki faaliyetleri \"Aşkınan Koşan Yorulmaz\" adlı kitapta toplandı.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın 2025 yılındaki faaliyetleri \"Aşkınan Koşan Yorulmaz\" adlı kitapta toplandı.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın 2025 yılındaki faaliyetleri \"Aşkınan Koşan Yorulmaz\" adlı kitapta toplandı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/erdoganin-2025-faaliyetleri-kitapta-derlendi-askinan-kosan-yorulmaz-1708719",
-      "image": "https://images.ntv.com.tr/images/thumbs_b_c_fde4ee9328ff4ecce64b6-545902.jpg",
-      "published_at": "2026-01-23T13:29:55+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Autocar",
-      "title": "The best hybrid cars: PHEVs and regular hybrids rated",
-      "title_tr": "The best hybrid cars: PHEVs and regular hybrids rated",
-      "summary": "Hybrids combine the convenience of fossil fuel with the appeal of zero-emissions running. Which do we recommend?\n\nIn just four years time, petrol and diesel cars will no longer be sold in the UK, but there’s a lifeline for those who aren’t yet ready to go fully electric: new hybrid cars will still be sold until 2035. \nThis is important, reader, because hybrids, be them self-charging or plug-in, are now the go-to choice for those who want to combine green emission ratings with low running costs and the ability to refuel in minutes at a pump. \nFor private buyers, hybrids offer a safety net: you can cruise around silently in urban areas while running solely on EV power, but then switch to the engine for longer journeys along the motorway.\nFor company car drivers, hybrids bring much lower benefit-in-kind (BIK) tax rates, helping drive down running costs further. \nThe technology surrounding hybrid and plug-in hybrid cars has matured significantly in just the last few years, with a handful of new PHEVs now promising an EV range of more than 80 miles.\nSelf-charging hybrids like the Honda Civic e:HEV have also risen in popularity, appealing to those who don’t have a driveway for charging, but still want 60+mpg. \nWe think the Volkswagen Golf eHybrid is the best hybrid money can buy. It’s a practical family hatchback that’s good to drive, easy to use and comes with a truly commendable all-electric range.",
-      "summary_tr": "Hybrids combine the convenience of fossil fuel with the appeal of zero-emissions running. Which do we recommend?\n\nIn just four years time, petrol and diesel cars will no longer be sold in the UK, but there’s a lifeline for those who aren’t yet ready to go fully electric: new hybrid cars will still be sold until 2035. \nThis is important, reader, because hybrids, be them self-charging or plug-in, are now the go-to choice for those who want to combine green emission ratings with low running costs and the ability to refuel in minutes at a pump. \nFor private buyers, hybrids offer a safety net: you can cruise around silently in urban areas while running solely on EV power, but then switch to the engine for longer journeys along the motorway.\nFor company car drivers, hybrids bring much lower benefit-in-kind (BIK) tax rates, helping drive down running costs further. \nThe technology surrounding hybrid and plug-in hybrid cars has matured significantly in just the last few years, with a handful of new PHEVs now promising an EV range of more than 80 miles.\nSelf-charging hybrids like the Honda Civic e:HEV have also risen in popularity, appealing to those who don’t have a driveway for charging, but still want 60+mpg. \nWe think the Volkswagen Golf eHybrid is the best hybrid money can buy. It’s a practical family hatchback that’s good to drive, easy to use and comes with a truly commendable all-electric range.",
-      "long_summary": "Hybrids combine the convenience of fossil fuel with the appeal of zero-emissions running. Which do we recommend?\n\nIn just four years time, petrol and diesel cars will no longer be sold in the UK, but there’s a lifeline for those who aren’t yet ready to go fully electric: new hybrid cars will still be sold until 2035. \nThis is important, reader, because hybrids, be them self-charging or plug-in, are now the go-to choice for those who want to combine green emission ratings with low running costs",
-      "long_summary_tr": "Hybrids combine the convenience of fossil fuel with the appeal of zero-emissions running. Which do we recommend?\n\nIn just four years time, petrol and diesel cars will no longer be sold in the UK, but there’s a lifeline for those who aren’t yet ready to go fully electric: new hybrid cars will still be sold until 2035. \nThis is important, reader, because hybrids, be them self-charging or plug-in, are now the go-to choice for those who want to combine green emission ratings with low running costs",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://www.autocar.co.uk/car-news/best-cars/best-hybrid-cars",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/best_hybrids_2026.jpg?itok=FjEoMwq_",
-      "published_at": "2026-01-23T13:29:19+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "'I Don't Like It. I Would Prefer That It Not Be Done' — Master Chief Actor Steve Downes Says Deceptive AI Reproductions of His Voice 'Cross a Line'",
-      "title_tr": "'I Don't Like It. I Would Prefer That It Not Be Done' — Master Chief Actor Steve Downes Says Deceptive AI Reproductions of His Voice 'Cross a Line'",
-      "summary": "Steve Downes, the actor behind Master chief’s iconic voice, has said deceptive AI reproductions of his voice “cross a line that gets into an area I am uncomfortable with” — and he wants it to stop.",
-      "summary_tr": "Steve Downes, the actor behind Master chief’s iconic voice, has said deceptive AI reproductions of his voice “cross a line that gets into an area I am uncomfortable with” — and he wants it to stop.",
-      "long_summary": "Steve Downes, the actor behind Master chief’s iconic voice, has said deceptive AI reproductions of his voice “cross a line that gets into an area I am uncomfortable with” — and he wants it to stop.",
-      "long_summary_tr": "Steve Downes, the actor behind Master chief’s iconic voice, has said deceptive AI reproductions of his voice “cross a line that gets into an area I am uncomfortable with” — and he wants it to stop.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/i-dont-like-it-i-would-prefer-that-it-not-be-done-master-chief-actor-steve-downes-says-deceptive-ai-reproductions-of-his-voice-cross-a-line",
-      "image": "https://assets-prd.ignimgs.com/2026/01/23/halo-main-1769174735055.jpg",
-      "published_at": "2026-01-23T13:27:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kahramanmaraş'ta bebeğe şiddet uygulayan hemşire için tutuklama kararı verildi",
-      "title_tr": "Kahramanmaraş'ta bebeğe şiddet uygulayan hemşire için tutuklama kararı verildi",
-      "summary": "Kahramanmaraş'ta 5 günlük bebeğe şiddet uyguladığı iddiasıyla yargılanan hemşire hakkında mahkeme tutuklama kararı verdi.Olay, iddiaya göre 26 Mayıs 2021 tarihinde Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi Yenidoğan Bakım Ünitesi'nde meydana geldi. Tedavi altındaki bir bebeğe yönelik şiddet uygulandığı iddiaları üzerine başlatılan adli süreçte, hemşire H.D.B. hakkında görüntülerin ortaya çıkmasının ardından soruşturma yürütüldü.\nKahramanmaraş 10. Asliye Ceza Mahkemesi'nde görülen duruşmaya taraf avukatları katıldı. Müşteki ailenin avukatı, sanık hakkındaki şikayetlerinin sürdüğünü yineledi.\n\nSanık avukatı ise bazı basın organlarında haberlerin yeniden servis edilmesinin yargı sürecini olumsuz etkilediğini ileri sürdü. Ayrıca sanığın sosyal medya üzerinden tehditler aldığını, bu nedenle adres değiştirmek zorunda kaldığını ifade etti.Ara kararını açıklayan mahkeme heyeti, sanık H.D.B. hakkında uygulanan adli kontrol tedbirinin yetersiz kaldığına hükmederek tutuklanmasına karar verdi. Duruşma, dosyadaki eksikliklerin giderilmesi amacıyla 19 Şubat tarihine ertelendi.",
-      "summary_tr": "Kahramanmaraş'ta 5 günlük bebeğe şiddet uyguladığı iddiasıyla yargılanan hemşire hakkında mahkeme tutuklama kararı verdi.Olay, iddiaya göre 26 Mayıs 2021 tarihinde Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi Yenidoğan Bakım Ünitesi'nde meydana geldi. Tedavi altındaki bir bebeğe yönelik şiddet uygulandığı iddiaları üzerine başlatılan adli süreçte, hemşire H.D.B. hakkında görüntülerin ortaya çıkmasının ardından soruşturma yürütüldü.\nKahramanmaraş 10. Asliye Ceza Mahkemesi'nde görülen duruşmaya taraf avukatları katıldı. Müşteki ailenin avukatı, sanık hakkındaki şikayetlerinin sürdüğünü yineledi.\n\nSanık avukatı ise bazı basın organlarında haberlerin yeniden servis edilmesinin yargı sürecini olumsuz etkilediğini ileri sürdü. Ayrıca sanığın sosyal medya üzerinden tehditler aldığını, bu nedenle adres değiştirmek zorunda kaldığını ifade etti.Ara kararını açıklayan mahkeme heyeti, sanık H.D.B. hakkında uygulanan adli kontrol tedbirinin yetersiz kaldığına hükmederek tutuklanmasına karar verdi. Duruşma, dosyadaki eksikliklerin giderilmesi amacıyla 19 Şubat tarihine ertelendi.",
-      "long_summary": "Kahramanmaraş'ta 5 günlük bebeğe şiddet uyguladığı iddiasıyla yargılanan hemşire hakkında mahkeme tutuklama kararı verdi.Olay, iddiaya göre 26 Mayıs 2021 tarihinde Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi Yenidoğan Bakım Ünitesi'nde meydana geldi. Tedavi altındaki bir bebeğe yönelik şiddet uygulandığı iddiaları üzerine başlatılan adli süreçte, hemşire H.D.B. hakkında görüntülerin ortaya çıkmasının ardından soruşturma yürütüldü.\nKahramanmaraş 10. Asliye Ceza",
-      "long_summary_tr": "Kahramanmaraş'ta 5 günlük bebeğe şiddet uyguladığı iddiasıyla yargılanan hemşire hakkında mahkeme tutuklama kararı verdi.Olay, iddiaya göre 26 Mayıs 2021 tarihinde Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi Yenidoğan Bakım Ünitesi'nde meydana geldi. Tedavi altındaki bir bebeğe yönelik şiddet uygulandığı iddiaları üzerine başlatılan adli süreçte, hemşire H.D.B. hakkında görüntülerin ortaya çıkmasının ardından soruşturma yürütüldü.\nKahramanmaraş 10. Asliye Ceza",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/kahramanmaras-ta-bebege-siddet-uygulayan-hemsire-icin-tutuklama-karari-verildi-1567297",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/23/kahramanmaras-ta-bebege-siddet-uygulayan-hemsire-icin-tutuklama-karari-verildi-1769178014-29_large.webp",
-      "published_at": "2026-01-23T13:26:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Macron'un gözlükleri olay oldu: Satışlar patladı, markanın hisseleri uçtu",
-      "title_tr": "Macron'un gözlükleri olay oldu: Satışlar patladı, markanın hisseleri uçtu",
-      "summary": "Güneş gözlükleri ile Davos&#039;a damga vuran Fransa Cumhurbaşkanı Emmanuel Macron, sosyal medyanın diline düşerken hem satışları hem de üretici şirketin hisselerini uçurdu. Macron&#039;un kullandığı gözlüklere yoğun talep yaşanırken, markanın piyasa değeri de yaklaşık 4,1 milyon dolara yükseldi.",
-      "summary_tr": "Güneş gözlükleri ile Davos&#039;a damga vuran Fransa Cumhurbaşkanı Emmanuel Macron, sosyal medyanın diline düşerken hem satışları hem de üretici şirketin hisselerini uçurdu. Macron&#039;un kullandığı gözlüklere yoğun talep yaşanırken, markanın piyasa değeri de yaklaşık 4,1 milyon dolara yükseldi.",
-      "long_summary": "Güneş gözlükleri ile Davos&#039;a damga vuran Fransa Cumhurbaşkanı Emmanuel Macron, sosyal medyanın diline düşerken hem satışları hem de üretici şirketin hisselerini uçurdu. Macron&#039;un kullandığı gözlüklere yoğun talep yaşanırken, markanın piyasa değeri de yaklaşık 4,1 milyon dolara yükseldi.",
-      "long_summary_tr": "Güneş gözlükleri ile Davos&#039;a damga vuran Fransa Cumhurbaşkanı Emmanuel Macron, sosyal medyanın diline düşerken hem satışları hem de üretici şirketin hisselerini uçurdu. Macron&#039;un kullandığı gözlüklere yoğun talep yaşanırken, markanın piyasa değeri de yaklaşık 4,1 milyon dolara yükseldi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/macronun-gozlukleri-olay-oldu-satislar-patladi-markanin-hisseleri-uctu-haberi-812513",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/21/macron-oejh_cover.jpg",
-      "published_at": "2026-01-23T13:25:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Düzce'de DEAŞ örgüt üyesi 2 şüpheli tutuklandı",
-      "title_tr": "Düzce'de DEAŞ örgüt üyesi 2 şüpheli tutuklandı",
-      "summary": "Düzce'de düzenlenen operasyonla DEAŞ Terör Örgütüne üye olmak ve finansman sağlamak suçlamasıyla göz altına alınan 3 şahıstan 2'si tutuklandı. 1 şahıs ise Adli Kontrol Şartıyla serbest bırakıldı.Düzce Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmalarda Düzce İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü ekipleri, Yalova'da ikamet eden Irak uyruklu S.O ve O.A.D.D ile Düzce'de ikamet eden O.F.K.K.K arasında yüksek meblağlarda para transferi olduğunu tespit edildi. Yalova ve Düzce'de düzenlenen eş zamanlı operasyonda 3 şahıs yakalanarak göz altına alındı. Evlerinde yapılan aramalarda ise örgüte ait doküman ve bazı malzemeler ele geçirildi. Şahıslar, emniyetteki işlemlerinin ardından Düzce Adliyesi'ne sevk edildiler. 3 şahıstan S.O ve O.A.D.D tutuklanırken, O.F.K.A.K adli kontrol şartıyla serbest bırakıldı.",
-      "summary_tr": "Düzce'de düzenlenen operasyonla DEAŞ Terör Örgütüne üye olmak ve finansman sağlamak suçlamasıyla göz altına alınan 3 şahıstan 2'si tutuklandı. 1 şahıs ise Adli Kontrol Şartıyla serbest bırakıldı.Düzce Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmalarda Düzce İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü ekipleri, Yalova'da ikamet eden Irak uyruklu S.O ve O.A.D.D ile Düzce'de ikamet eden O.F.K.K.K arasında yüksek meblağlarda para transferi olduğunu tespit edildi. Yalova ve Düzce'de düzenlenen eş zamanlı operasyonda 3 şahıs yakalanarak göz altına alındı. Evlerinde yapılan aramalarda ise örgüte ait doküman ve bazı malzemeler ele geçirildi. Şahıslar, emniyetteki işlemlerinin ardından Düzce Adliyesi'ne sevk edildiler. 3 şahıstan S.O ve O.A.D.D tutuklanırken, O.F.K.A.K adli kontrol şartıyla serbest bırakıldı.",
-      "long_summary": "Düzce'de düzenlenen operasyonla DEAŞ Terör Örgütüne üye olmak ve finansman sağlamak suçlamasıyla göz altına alınan 3 şahıstan 2'si tutuklandı. 1 şahıs ise Adli Kontrol Şartıyla serbest bırakıldı.Düzce Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmalarda Düzce İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü ekipleri, Yalova'da ikamet eden Irak uyruklu S.O ve O.A.D.D ile Düzce'de ikamet eden O.F.K.K.K arasında yüksek meblağlarda para transferi olduğunu tespit edildi. Yalova ve",
-      "long_summary_tr": "Düzce'de düzenlenen operasyonla DEAŞ Terör Örgütüne üye olmak ve finansman sağlamak suçlamasıyla göz altına alınan 3 şahıstan 2'si tutuklandı. 1 şahıs ise Adli Kontrol Şartıyla serbest bırakıldı.Düzce Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmalarda Düzce İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü ekipleri, Yalova'da ikamet eden Irak uyruklu S.O ve O.A.D.D ile Düzce'de ikamet eden O.F.K.K.K arasında yüksek meblağlarda para transferi olduğunu tespit edildi. Yalova ve",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/duzce-de-deas-orgut-uyesi-2-supheli-tutuklandi-1567295",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/23/duzce-de-deas-orgut-uyesi-2-supheli-tutuklandi-1769177600-173_large.webp",
-      "published_at": "2026-01-23T13:22:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Sudan Ucuz Fiyata 58 Saat Pil Ömrü ve ANC Sunan Kulaklık realme Buds Air8 Tanıtıldı",
-      "title_tr": "Sudan Ucuz Fiyata 58 Saat Pil Ömrü ve ANC Sunan Kulaklık realme Buds Air8 Tanıtıldı",
-      "summary": "realme, uygun fiyatlı yeni kablosuz kulaklığı Buds Air8'i tanıttı. Cihaz, yüksek pil ömrü ve ANC gibi özelliklere sahip.",
-      "summary_tr": "realme, uygun fiyatlı yeni kablosuz kulaklığı Buds Air8'i tanıttı. Cihaz, yüksek pil ömrü ve ANC gibi özelliklere sahip.",
-      "long_summary": "realme, uygun fiyatlı yeni kablosuz kulaklığı Buds Air8'i tanıttı. Cihaz, yüksek pil ömrü ve ANC gibi özelliklere sahip.",
-      "long_summary_tr": "realme, uygun fiyatlı yeni kablosuz kulaklığı Buds Air8'i tanıttı. Cihaz, yüksek pil ömrü ve ANC gibi özelliklere sahip.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/realme-buds-air8-tanitildi-ozellikleri-fiyati-h211330.html",
-      "image": "https://imgrosetta.webtekno.com/file/646485/646485-640xauto.jpg",
-      "published_at": "2026-01-23T13:20:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "869 TL Değerindeki Avatar: Frontiers of Pandora, Bu Hafta Sonu Ücretsiz (Oynamak İsteyenler Kaçırmasın)",
-      "title_tr": "869 TL Değerindeki Avatar: Frontiers of Pandora, Bu Hafta Sonu Ücretsiz (Oynamak İsteyenler Kaçırmasın)",
-      "summary": "Ubisoft'un Avatar evreninde geçen sevilen oyunu Avatar: Frontiers of Pandora, bu hafta sonu boyunca ücretsiz olarak oynanabilir olacak.",
-      "summary_tr": "Ubisoft'un Avatar evreninde geçen sevilen oyunu Avatar: Frontiers of Pandora, bu hafta sonu boyunca ücretsiz olarak oynanabilir olacak.",
-      "long_summary": "Ubisoft'un Avatar evreninde geçen sevilen oyunu Avatar: Frontiers of Pandora, bu hafta sonu boyunca ücretsiz olarak oynanabilir olacak.",
-      "long_summary_tr": "Ubisoft'un Avatar evreninde geçen sevilen oyunu Avatar: Frontiers of Pandora, bu hafta sonu boyunca ücretsiz olarak oynanabilir olacak.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/avatar-frontiers-of-pandora-hafta-sonu-ucretsiz-h211335.html",
-      "image": "https://imgrosetta.webtekno.com/file/646492/646492-640xauto.jpg",
-      "published_at": "2026-01-23T13:20:24+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Dünyanın İlk Lüks İnsansı Robotu Tanıtıldı (Yetenekleri Değil Tasarımı Lüks)",
-      "title_tr": "Dünyanın İlk Lüks İnsansı Robotu Tanıtıldı (Yetenekleri Değil Tasarımı Lüks)",
-      "summary": "Caviar, Unitree G1'in insansı robotunu kullanarak Aladdin adını verdiği lüks ve değerli taşlarla süslenmiş yeni bir konsept robot duyurdu.",
-      "summary_tr": "Caviar, Unitree G1'in insansı robotunu kullanarak Aladdin adını verdiği lüks ve değerli taşlarla süslenmiş yeni bir konsept robot duyurdu.",
-      "long_summary": "Caviar, Unitree G1'in insansı robotunu kullanarak Aladdin adını verdiği lüks ve değerli taşlarla süslenmiş yeni bir konsept robot duyurdu.",
-      "long_summary_tr": "Caviar, Unitree G1'in insansı robotunu kullanarak Aladdin adını verdiği lüks ve değerli taşlarla süslenmiş yeni bir konsept robot duyurdu.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/dunyanin-ilk-luks-insansi-robotu-tanitildi-h211291.html",
-      "image": "https://imgrosetta.webtekno.com/file/646398/646398-640xauto.jpg",
-      "published_at": "2026-01-23T13:19:59+00:00"
     }
   ]
 }
