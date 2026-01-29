@@ -1,18 +1,414 @@
 {
-  "updated_at": "2026-01-29T15:48:31.437578+00:00",
+  "updated_at": "2026-01-29T16:58:46.638189+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "EU adds Iran's Revolutionary Guards to terrorist list",
+      "title_tr": "EU adds Iran's Revolutionary Guards to terrorist list",
+      "summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
+      "summary_tr": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
+      "long_summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
+      "long_summary_tr": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4cd/live/067d2ae0-fd2c-11f0-a8b8-bdd2c5f9bcad.jpg",
+      "published_at": "2026-01-29T16:49:20+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Raducanu splits with coach after Australian Open exit",
+      "title_tr": "Raducanu splits with coach after Australian Open exit",
+      "summary": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "summary_tr": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "long_summary": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "long_summary_tr": "British number one Emma Raducanu splits with coach Francis Roig after her exit from the Australian Open.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/tennis/articles/cx2l3e18jrzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfdf/live/dc309620-fd2e-11f0-890b-55ca0a00c59d.jpg",
+      "published_at": "2026-01-29T16:48:36+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Microsoft hisselerinde son altı yılın en sert düşüşü yaşandı",
+      "title_tr": "Microsoft hisselerinde son altı yılın en sert düşüşü yaşandı",
+      "summary": "Microsoft hisseleri, gün içinde yüzde 12'ye varan düşüşle Mart 2020'den bu yana en sert günlük kaybını kaydetti.",
+      "summary_tr": "Microsoft hisseleri, gün içinde yüzde 12'ye varan düşüşle Mart 2020'den bu yana en sert günlük kaybını kaydetti.",
+      "long_summary": "Microsoft hisseleri, gün içinde yüzde 12'ye varan düşüşle Mart 2020'den bu yana en sert günlük kaybını kaydetti.",
+      "long_summary_tr": "Microsoft hisseleri, gün içinde yüzde 12'ye varan düşüşle Mart 2020'den bu yana en sert günlük kaybını kaydetti.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/microsoft-hisselerinde-son-alti-yilin-en-sert-dususu-yasandi-3767749",
+      "image": null,
+      "published_at": "2026-01-29T16:46:27+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Norveç Varlık Fonu 2025’te 247 milyar dolar kâr açıkladı",
+      "title_tr": "Norveç Varlık Fonu 2025’te 247 milyar dolar kâr açıkladı",
+      "summary": "Norveç’in petrol ve doğal gaz gelirleriyle oluşturulan varlık fonu, geçen yıl teknoloji ve finans ağırlıklı yatırımlarının etkisiyle yüzde 15,1 getiri sağlarken, fonun toplam piyasa değeri 2,2 trilyon dolara yükseldi.",
+      "summary_tr": "Norveç’in petrol ve doğal gaz gelirleriyle oluşturulan varlık fonu, geçen yıl teknoloji ve finans ağırlıklı yatırımlarının etkisiyle yüzde 15,1 getiri sağlarken, fonun toplam piyasa değeri 2,2 trilyon dolara yükseldi.",
+      "long_summary": "Norveç’in petrol ve doğal gaz gelirleriyle oluşturulan varlık fonu, geçen yıl teknoloji ve finans ağırlıklı yatırımlarının etkisiyle yüzde 15,1 getiri sağlarken, fonun toplam piyasa değeri 2,2 trilyon dolara yükseldi.",
+      "long_summary_tr": "Norveç’in petrol ve doğal gaz gelirleriyle oluşturulan varlık fonu, geçen yıl teknoloji ve finans ağırlıklı yatırımlarının etkisiyle yüzde 15,1 getiri sağlarken, fonun toplam piyasa değeri 2,2 trilyon dolara yükseldi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/norvec-varlik-fonu-2025te-247-milyar-dolar-kar-acikladi-haberi-813277",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/08/12/norvec-varlik-fonu-b8nd_cover.jpg",
+      "published_at": "2026-01-29T16:45:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "LG Electronics, Moody’s tarafından gelişen metrikleri nedeniyle Baa1’e yükseltildi",
+      "title_tr": "LG Electronics, Moody’s tarafından gelişen metrikleri nedeniyle Baa1’e yükseltildi",
+      "summary": "LG Electronics, Moody’s tarafından gelişen metrikleri nedeniyle Baa1’e yükseltildi",
+      "summary_tr": "LG Electronics, Moody’s tarafından gelişen metrikleri nedeniyle Baa1’e yükseltildi",
+      "long_summary": "LG Electronics, Moody’s tarafından gelişen metrikleri nedeniyle Baa1’e yükseltildi",
+      "long_summary_tr": "LG Electronics, Moody’s tarafından gelişen metrikleri nedeniyle Baa1’e yükseltildi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/lg-electronics-moodys-tarafndan-gelisen-metrikleri-nedeniyle-baa1e-yukseltildi-93CH-3736774",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T16:44:08+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Barclays, gelişmiş performans nedeniyle Zillow’u yükseltti",
+      "title_tr": "Barclays, gelişmiş performans nedeniyle Zillow’u yükseltti",
+      "summary": "Barclays, gelişmiş performans nedeniyle Zillow’u yükseltti",
+      "summary_tr": "Barclays, gelişmiş performans nedeniyle Zillow’u yükseltti",
+      "long_summary": "Barclays, gelişmiş performans nedeniyle Zillow’u yükseltti",
+      "long_summary_tr": "Barclays, gelişmiş performans nedeniyle Zillow’u yükseltti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/barclays-gelismis-performans-nedeniyle-zillowu-yukseltti-3736768",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T16:37:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Altın ve gümüşte sert düşüş",
+      "title_tr": "Altın ve gümüşte sert düşüş",
+      "summary": "Altın fiyatlarında Ekim ayından bu yana en sert günlük düşüş görülürken, gümüş fiyatları yüzde 8,1'e kadar azalış görüldü.",
+      "summary_tr": "Altın fiyatlarında Ekim ayından bu yana en sert günlük düşüş görülürken, gümüş fiyatları yüzde 8,1'e kadar azalış görüldü.",
+      "long_summary": "Altın fiyatlarında Ekim ayından bu yana en sert günlük düşüş görülürken, gümüş fiyatları yüzde 8,1'e kadar azalış görüldü.",
+      "long_summary_tr": "Altın fiyatlarında Ekim ayından bu yana en sert günlük düşüş görülürken, gümüş fiyatları yüzde 8,1'e kadar azalış görüldü.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/altin-ve-gumuste-sert-dusus-3767748",
+      "image": null,
+      "published_at": "2026-01-29T16:36:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Kripto fiyatlarının düşüşüyle Bitcoin madencileri sert değer kaybetti",
+      "title_tr": "Kripto fiyatlarının düşüşüyle Bitcoin madencileri sert değer kaybetti",
+      "summary": "Kripto fiyatlarının düşüşüyle Bitcoin madencileri sert değer kaybetti",
+      "summary_tr": "Kripto fiyatlarının düşüşüyle Bitcoin madencileri sert değer kaybetti",
+      "long_summary": "Kripto fiyatlarının düşüşüyle Bitcoin madencileri sert değer kaybetti",
+      "long_summary_tr": "Kripto fiyatlarının düşüşüyle Bitcoin madencileri sert değer kaybetti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/kripto-fiyatlarnn-dususuyle-bitcoin-madencileri-sert-deger-kaybetti-93CH-3736758",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T16:36:11+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Gündem",
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "Özbekistan Cumhurbaşkanı Mirziyoyev Ankara'da",
-      "title_tr": "Özbekistan Cumhurbaşkanı Mirziyoyev Ankara'da",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi.",
+      "title": "Özlem Çerçioğlu'ndan Özgür Özel hakkında suç duyurusu",
+      "title_tr": "Özlem Çerçioğlu'ndan Özgür Özel hakkında suç duyurusu",
+      "summary": "Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, CHP lideri Özgür Özel hakkında suç duyurusunda bulundu.",
+      "summary_tr": "Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, CHP lideri Özgür Özel hakkında suç duyurusunda bulundu.",
+      "long_summary": "Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, CHP lideri Özgür Özel hakkında suç duyurusunda bulundu.",
+      "long_summary_tr": "Aydın Büyükşehir Belediye Başkanı Özlem Çerçioğlu, CHP lideri Özgür Özel hakkında suç duyurusunda bulundu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/ozlem-cercioglundan-ozgur-ozel-hakkinda-suc-duyurusu-1709627",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_8219651df7ff8f3ace6c568b9500b8c0-951431.jpg",
+      "published_at": "2026-01-29T16:30:35+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Chanel Casts Laufey and Her Identical Twin Sister for Its Coco Crush Social Media Takeover",
+      "title_tr": "Chanel Casts Laufey and Her Identical Twin Sister for Its Coco Crush Social Media Takeover",
+      "summary": "Plus, Athena Calderone, Devon Lee Carlson, and more of their plus-ones.",
+      "summary_tr": "Plus, Athena Calderone, Devon Lee Carlson, and more of their plus-ones.",
+      "long_summary": "Plus, Athena Calderone, Devon Lee Carlson, and more of their plus-ones.",
+      "long_summary_tr": "Plus, Athena Calderone, Devon Lee Carlson, and more of their plus-ones.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/a70188616/chanel-coco-crush-social-media-project/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/12c81ae3-e8ee-47d9-9517-f64a71bbb1d1.jpeg",
+      "published_at": "2026-01-29T16:30:25+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Thirteen clubs punished for match-fixing in China",
+      "title_tr": "Thirteen clubs punished for match-fixing in China",
+      "summary": "Nine teams will start the upcoming Chinese Super League season on minus points after clubs were sanctioned following an investigation.",
+      "summary_tr": "Nine teams will start the upcoming Chinese Super League season on minus points after clubs were sanctioned following an investigation.",
+      "long_summary": "Nine teams will start the upcoming Chinese Super League season on minus points after clubs were sanctioned following an investigation.",
+      "long_summary_tr": "Nine teams will start the upcoming Chinese Super League season on minus points after clubs were sanctioned following an investigation.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cwyr0gvqly1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4651/live/84886370-fd2a-11f0-890b-55ca0a00c59d.jpg",
+      "published_at": "2026-01-29T16:28:23+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Mısır Çarşısı girişinde silahlı saldırı: Vurup başında bekledi",
+      "title_tr": "Mısır Çarşısı girişinde silahlı saldırı: Vurup başında bekledi",
+      "summary": "İstanbul'un en kalabalık noktalarından Mısır Çarşısı girişinde hareketli anlar yaşandı. Eli silahlı bir kişi, alacak verecek meselesi nedeniyle bir iş yeri sahibini vurdu. Vurduğu adamın başında silahla bekleyen saldırgan, gözaltına alındı. Yaralı iş yeri sahibi hastanede hayatını kaybetti.",
+      "summary_tr": "İstanbul'un en kalabalık noktalarından Mısır Çarşısı girişinde hareketli anlar yaşandı. Eli silahlı bir kişi, alacak verecek meselesi nedeniyle bir iş yeri sahibini vurdu. Vurduğu adamın başında silahla bekleyen saldırgan, gözaltına alındı. Yaralı iş yeri sahibi hastanede hayatını kaybetti.",
+      "long_summary": "İstanbul'un en kalabalık noktalarından Mısır Çarşısı girişinde hareketli anlar yaşandı. Eli silahlı bir kişi, alacak verecek meselesi nedeniyle bir iş yeri sahibini vurdu. Vurduğu adamın başında silahla bekleyen saldırgan, gözaltına alındı. Yaralı iş yeri sahibi hastanede hayatını kaybetti.",
+      "long_summary_tr": "İstanbul'un en kalabalık noktalarından Mısır Çarşısı girişinde hareketli anlar yaşandı. Eli silahlı bir kişi, alacak verecek meselesi nedeniyle bir iş yeri sahibini vurdu. Vurduğu adamın başında silahla bekleyen saldırgan, gözaltına alındı. Yaralı iş yeri sahibi hastanede hayatını kaybetti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/galeri/turkiye/misir-carsisi-girisinde-silahli-saldiri-vurup-basinda-bekledi-1709605",
+      "image": "https://images.ntv.com.tr/images/mısır-çarşısı-silah-sesleri-338440.jpg",
+      "published_at": "2026-01-29T16:25:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
+      "title_tr": "'I can breathe again' says Israeli hostage held for nearly 500 days in Gaza",
+      "summary": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
+      "summary_tr": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
+      "long_summary": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
+      "long_summary_tr": "In his first international interview, Sasha Troufanov tells the BBC how he thought he would die in captivity after he was taken hostage on 7 October 2023.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c8rm20gm364o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0218/live/0eee8cd0-fd24-11f0-b988-cf853dfdf506.jpg",
+      "published_at": "2026-01-29T16:25:40+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Kağıthane'de cezaevi nakil aracı devrildi. 2'si ağır 19 yaralı",
+      "title_tr": "Kağıthane'de cezaevi nakil aracı devrildi. 2'si ağır 19 yaralı",
+      "summary": "Kağıthane’de sürücüsünün direksiyon hakimiyetini kaybettiği cezaevi nakil aracı yola devrildi. Aralarında mahkumların da bulunduğu 19 kişi yaralanırken 2 jandarma personelinin durumunun ağır olduğu öğrenildi.",
+      "summary_tr": "Kağıthane’de sürücüsünün direksiyon hakimiyetini kaybettiği cezaevi nakil aracı yola devrildi. Aralarında mahkumların da bulunduğu 19 kişi yaralanırken 2 jandarma personelinin durumunun ağır olduğu öğrenildi.",
+      "long_summary": "Kağıthane’de sürücüsünün direksiyon hakimiyetini kaybettiği cezaevi nakil aracı yola devrildi. Aralarında mahkumların da bulunduğu 19 kişi yaralanırken 2 jandarma personelinin durumunun ağır olduğu öğrenildi.",
+      "long_summary_tr": "Kağıthane’de sürücüsünün direksiyon hakimiyetini kaybettiği cezaevi nakil aracı yola devrildi. Aralarında mahkumların da bulunduğu 19 kişi yaralanırken 2 jandarma personelinin durumunun ağır olduğu öğrenildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/kagithanede-cezaevi-nakil-araci-devrildi-2si-agir-19-yarali-1709619",
+      "image": "https://images.ntv.com.tr/images/jandarma-518144.jpg",
+      "published_at": "2026-01-29T16:23:28+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Charli XCX Wore a Dramatic Sheer Vivienne Westwood Ball Gown to the Wuthering Heights Premiere",
+      "title_tr": "Charli XCX Wore a Dramatic Sheer Vivienne Westwood Ball Gown to the Wuthering Heights Premiere",
+      "summary": "Charli XCX Wore a Dramatic Sheer Vivienne Westwood Ball Gown to the Wuthering Heights Premiere",
+      "summary_tr": "Charli XCX Wore a Dramatic Sheer Vivienne Westwood Ball Gown to the Wuthering Heights Premiere",
+      "long_summary": "Charli XCX Wore a Dramatic Sheer Vivienne Westwood Ball Gown to the Wuthering Heights Premiere",
+      "long_summary_tr": "Charli XCX Wore a Dramatic Sheer Vivienne Westwood Ball Gown to the Wuthering Heights Premiere",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a70187416/charli-xcx-dress-wuthering-heights-premiere/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7c2ee256-6d3d-46d9-9631-24fcb8623cd9.jpeg",
+      "published_at": "2026-01-29T16:17:30+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Margot Robbie Reveals the Dark Symbolism Behind Her Wuthering Heights Premiere Gown",
+      "title_tr": "Margot Robbie Reveals the Dark Symbolism Behind Her Wuthering Heights Premiere Gown",
+      "summary": "She accessorized with Elizabeth Taylor’s famous Taj Mahal necklace, which has its own dramatic backstory.",
+      "summary_tr": "She accessorized with Elizabeth Taylor’s famous Taj Mahal necklace, which has its own dramatic backstory.",
+      "long_summary": "She accessorized with Elizabeth Taylor’s famous Taj Mahal necklace, which has its own dramatic backstory.",
+      "long_summary_tr": "She accessorized with Elizabeth Taylor’s famous Taj Mahal necklace, which has its own dramatic backstory.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a70187743/margot-robbie-wuthering-heights-premiere-dress-necklace-symbolism-explained/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cb318a09-d161-458a-9ac8-71f3c6289365.jpeg",
+      "published_at": "2026-01-29T16:15:01+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "World Cup-winning head coach Mitchell signs new deal with Red Roses",
+      "title_tr": "World Cup-winning head coach Mitchell signs new deal with Red Roses",
+      "summary": "England's World Cup winning head coach John Mitchell has signed a long-term deal with the Red Roses.",
+      "summary_tr": "England's World Cup winning head coach John Mitchell has signed a long-term deal with the Red Roses.",
+      "long_summary": "England's World Cup winning head coach John Mitchell has signed a long-term deal with the Red Roses.",
+      "long_summary_tr": "England's World Cup winning head coach John Mitchell has signed a long-term deal with the Red Roses.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/rugby-union/news/12040/13500703/england-womens-world-cup-winning-head-coach-john-mitchell-signs-new-long-term-deal-with-red-roses",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-john-mitchell-rugby_7052540.jpg?20251027101148",
+      "published_at": "2026-01-29T16:13:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Türkiye-Özbekistan arasında yeni dönem: Kritik işbirliği anlaşmaları imzalandı",
+      "title_tr": "Türkiye-Özbekistan arasında yeni dönem: Kritik işbirliği anlaşmaları imzalandı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye&#039;yi ziyaret eden Özbekistan Cumhurbaşkanı Şevket Mirziyoyev&#039;i Cumhurbaşkanlığı Külliyesi&#039;nde resmi törenle karşıladı. Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türkiye&#039;nin küresel ölçekte giderek daha fazla etki kazandığını belirterek, &quot;Ülkeniz kelimenin tam anlamıyla dünyanın yeni jeopolitik güç merkezlerinden biri haline geliyor.&quot; dedi. Türkiye ile Özbekistan arasında kritik işbirliği anlaşmaları imzalandı.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye&#039;yi ziyaret eden Özbekistan Cumhurbaşkanı Şevket Mirziyoyev&#039;i Cumhurbaşkanlığı Külliyesi&#039;nde resmi törenle karşıladı. Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türkiye&#039;nin küresel ölçekte giderek daha fazla etki kazandığını belirterek, &quot;Ülkeniz kelimenin tam anlamıyla dünyanın yeni jeopolitik güç merkezlerinden biri haline geliyor.&quot; dedi. Türkiye ile Özbekistan arasında kritik işbirliği anlaşmaları imzalandı.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye&#039;yi ziyaret eden Özbekistan Cumhurbaşkanı Şevket Mirziyoyev&#039;i Cumhurbaşkanlığı Külliyesi&#039;nde resmi törenle karşıladı. Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türkiye&#039;nin küresel ölçekte giderek daha fazla etki kazandığını belirterek, &quot;Ülkeniz kelimenin tam anlamıyla dünyanın yeni jeopolitik güç merkezlerinden biri haline geliyor.&quot; dedi. Türkiye ile Özbekistan arasında kritik işbirliği anlaşmaları imzalandı.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye&#039;yi ziyaret eden Özbekistan Cumhurbaşkanı Şevket Mirziyoyev&#039;i Cumhurbaşkanlığı Külliyesi&#039;nde resmi törenle karşıladı. Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türkiye&#039;nin küresel ölçekte giderek daha fazla etki kazandığını belirterek, &quot;Ülkeniz kelimenin tam anlamıyla dünyanın yeni jeopolitik güç merkezlerinden biri haline geliyor.&quot; dedi. Türkiye ile Özbekistan arasında kritik işbirliği anlaşmaları imzalandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/turkiye-ozbekistan-arasinda-yeni-donem-kritik-isbirligi-anlasmalari-imzalandi-haberi-813274",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/29/ozbek-ulhe_cover.jpg",
+      "published_at": "2026-01-29T16:13:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Özbekistan Cumhurbaşkanı Mirziyoyev Ankara'da. Erdoğan: \"Bu asra Türk dünyasının mührünü vuracağız\"",
+      "title_tr": "Özbekistan Cumhurbaşkanı Mirziyoyev Ankara'da. Erdoğan: \"Bu asra Türk dünyasının mührünü vuracağız\"",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi. Özbekistan'ın 6 Şubat depreminde Türkiye'ye yardıma koşan ilk ülkelerden biri olduğunu söyleyen Erdoğan, \"Yürek yüreğe verdiğimiz müddetçe Allah'ın izniyle içinde bulunduğumuz asra Türk dünyasının mührünü vuracağımızdan eminiz\" dedi.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi. Özbekistan'ın 6 Şubat depreminde Türkiye'ye yardıma koşan ilk ülkelerden biri olduğunu söyleyen Erdoğan, \"Yürek yüreğe verdiğimiz müddetçe Allah'ın izniyle içinde bulunduğumuz asra Türk dünyasının mührünü vuracağımızdan eminiz\" dedi.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi. Özbekistan'ın 6 Şubat depreminde Türkiye'ye yardıma koşan ilk ülkelerden biri olduğunu söyleyen Erdoğan, \"Yürek yüreğe verdiğimiz müddetçe Allah'ın izniyle içinde bulunduğumuz asra Türk dünyasının mührünü vuracağımızdan eminiz\" dedi.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'i Beştepe'de resmi törenle karşıladı. İki lider heyetler arası görüşmelerin ardından ortak basın toplantısı düzenledi. Özbekistan'ın 6 Şubat depreminde Türkiye'ye yardıma koşan ilk ülkelerden biri olduğunu söyleyen Erdoğan, \"Yürek yüreğe verdiğimiz müddetçe Allah'ın izniyle içinde bulunduğumuz asra Türk dünyasının mührünü vuracağımızdan eminiz\" dedi.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
@@ -21,7 +417,7 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/ozbekistan-cumhurbaskani-mirziyoyev-ankarada-1709613",
       "image": "https://images.ntv.com.tr/images/erdoğanvemirziyoyev-435094(3).jpg",
-      "published_at": "2026-01-29T15:40:58+00:00"
+      "published_at": "2026-01-29T16:12:31+00:00"
     },
     {
       "origin": "turkiye",
@@ -43,7 +439,557 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/kan-donduran-cinayet-anneannesini-gezmeye-diye-cikarip-bastonla-oldurdu-1709626",
       "image": "https://images.ntv.com.tr/images/AW630713_01-212903(2).jpg",
-      "published_at": "2026-01-29T15:39:31+00:00"
+      "published_at": "2026-01-29T16:08:56+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Run Your Own Greasy Fast Food Empire In This Week's Epic Games Store Freebie",
+      "title_tr": "Run Your Own Greasy Fast Food Empire In This Week's Epic Games Store Freebie",
+      "summary": "The Epic Games Store continues to give away a free game each week, and this week is another nice find with a price that can't be beaten. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the free games is create a free Epic account and enable two-factor authentication. You have a week to add the freebies to your library before the new one(s) take their place. At this point, Epic has given away hundreds of free games, and there's no sign that the program will stop any time soon. The company has also extended its freebies to Android devices, and you can claim a free game every week here as well. We keep this article up to date weekly to highlight both the current free games and next week's offerings.If you're looking for more freebies, you can check out our list of the 25 best free PC games to play right now, or for more options, the 25 best free games to play on multiple platforms.Current free game at Epic Continue Reading at GameSpot",
+      "summary_tr": "The Epic Games Store continues to give away a free game each week, and this week is another nice find with a price that can't be beaten. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the free games is create a free Epic account and enable two-factor authentication. You have a week to add the freebies to your library before the new one(s) take their place. At this point, Epic has given away hundreds of free games, and there's no sign that the program will stop any time soon. The company has also extended its freebies to Android devices, and you can claim a free game every week here as well. We keep this article up to date weekly to highlight both the current free games and next week's offerings.If you're looking for more freebies, you can check out our list of the 25 best free PC games to play right now, or for more options, the 25 best free games to play on multiple platforms.Current free game at Epic Continue Reading at GameSpot",
+      "long_summary": "The Epic Games Store continues to give away a free game each week, and this week is another nice find with a price that can't be beaten. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the free games is create a free Epic account and enable two-factor authentication. You have a week to add the freebies to your library before the new one(s) take their place. At this point, Epic has given away",
+      "long_summary_tr": "The Epic Games Store continues to give away a free game each week, and this week is another nice find with a price that can't be beaten. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at least one free PC game (and sometimes even as many as two or three). All you need to do to claim the free games is create a free Epic account and enable two-factor authentication. You have a week to add the freebies to your library before the new one(s) take their place. At this point, Epic has given away",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4642825-dnfc.jpg",
+      "published_at": "2026-01-29T16:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "Tesla'nın İnsansı Robotu Optimus'un Seri Üretime Ne Zaman Başlayacağı ve Ne Zaman Satışa Çıkacağı Açıklandı",
+      "title_tr": "Tesla'nın İnsansı Robotu Optimus'un Seri Üretime Ne Zaman Başlayacağı ve Ne Zaman Satışa Çıkacağı Açıklandı",
+      "summary": "Tesla, kazanç toplantısında Optimus robotunun ne zaman seri üretime hazır olacağını açıkladı. Robotun geniş çapta satışa çıkış tarihiyle ilgili bilgiler de paylaşıldı.",
+      "summary_tr": "Tesla, kazanç toplantısında Optimus robotunun ne zaman seri üretime hazır olacağını açıkladı. Robotun geniş çapta satışa çıkış tarihiyle ilgili bilgiler de paylaşıldı.",
+      "long_summary": "Tesla, kazanç toplantısında Optimus robotunun ne zaman seri üretime hazır olacağını açıkladı. Robotun geniş çapta satışa çıkış tarihiyle ilgili bilgiler de paylaşıldı.",
+      "long_summary_tr": "Tesla, kazanç toplantısında Optimus robotunun ne zaman seri üretime hazır olacağını açıkladı. Robotun geniş çapta satışa çıkış tarihiyle ilgili bilgiler de paylaşıldı.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/tesla-optimus-ne-zaman-satisa-cikacak-ne-zaman-seri-uretime-gececek-h211656.html",
+      "image": "https://imgrosetta.webtekno.com/file/647244/647244-640xauto.jpg",
+      "published_at": "2026-01-29T16:05:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "BTIG, DriveTime iddialarına karşı Carvana hissesini savundu",
+      "title_tr": "BTIG, DriveTime iddialarına karşı Carvana hissesini savundu",
+      "summary": "BTIG, DriveTime iddialarına karşı Carvana hissesini savundu",
+      "summary_tr": "BTIG, DriveTime iddialarına karşı Carvana hissesini savundu",
+      "long_summary": "BTIG, DriveTime iddialarına karşı Carvana hissesini savundu",
+      "long_summary_tr": "BTIG, DriveTime iddialarına karşı Carvana hissesini savundu",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/btig-drivetime-iddialarna-kars-carvana-hissesini-savundu-3736700",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T16:03:54+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Boss Mitchell extends England contract as Scarratt joins coaching staff",
+      "title_tr": "Boss Mitchell extends England contract as Scarratt joins coaching staff",
+      "summary": "John Mitchell will continue as Red Roses head coach through to the next Women's Rugby World Cup in 2029 and Emily Scarratt joins the coaching staff.",
+      "summary_tr": "John Mitchell will continue as Red Roses head coach through to the next Women's Rugby World Cup in 2029 and Emily Scarratt joins the coaching staff.",
+      "long_summary": "John Mitchell will continue as Red Roses head coach through to the next Women's Rugby World Cup in 2029 and Emily Scarratt joins the coaching staff.",
+      "long_summary_tr": "John Mitchell will continue as Red Roses head coach through to the next Women's Rugby World Cup in 2029 and Emily Scarratt joins the coaching staff.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-union/articles/clymed18g4go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fda/live/4af61070-fd26-11f0-a8b8-bdd2c5f9bcad.jpg",
+      "published_at": "2026-01-29T16:01:21+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "A Decade After Nintendo's Same Sex Relationship Controversy, Tomodachi Life Finally Delivers on Promise to Make Series More Inclusive",
+      "title_tr": "A Decade After Nintendo's Same Sex Relationship Controversy, Tomodachi Life Finally Delivers on Promise to Make Series More Inclusive",
+      "summary": "Nintendo has confirmed it will feature a diverse range of options for your character's gender, voice and dating preferences in upcoming Switch social sim Tomodachi Life: Living the Dream, after a previous backlash to the series a decade ago.",
+      "summary_tr": "Nintendo has confirmed it will feature a diverse range of options for your character's gender, voice and dating preferences in upcoming Switch social sim Tomodachi Life: Living the Dream, after a previous backlash to the series a decade ago.",
+      "long_summary": "Nintendo has confirmed it will feature a diverse range of options for your character's gender, voice and dating preferences in upcoming Switch social sim Tomodachi Life: Living the Dream, after a previous backlash to the series a decade ago.",
+      "long_summary_tr": "Nintendo has confirmed it will feature a diverse range of options for your character's gender, voice and dating preferences in upcoming Switch social sim Tomodachi Life: Living the Dream, after a previous backlash to the series a decade ago.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/a-decade-after-nintendos-same-sex-relationship-controversy-tomodachi-life-finally-delivers-on-promise-to-make-series-more-inclusive",
+      "image": "https://assets-prd.ignimgs.com/2026/01/29/1-tomodachi-life-living-the-dream-direct-29012026-00-43-58-1769698087316.png",
+      "published_at": "2026-01-29T16:01:06+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Assefa targets London repeat & Sawe eyes course record",
+      "title_tr": "Assefa targets London repeat & Sawe eyes course record",
+      "summary": "Reigning champions Tigst Assefa and Sebastian Sawe will target record-breaking London Marathon victories in April.",
+      "summary_tr": "Reigning champions Tigst Assefa and Sebastian Sawe will target record-breaking London Marathon victories in April.",
+      "long_summary": "Reigning champions Tigst Assefa and Sebastian Sawe will target record-breaking London Marathon victories in April.",
+      "long_summary_tr": "Reigning champions Tigst Assefa and Sebastian Sawe will target record-breaking London Marathon victories in April.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/athletics/articles/c07x232v2jxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0679/live/cb819b10-fc4f-11f0-9aca-0d1869acdee8.jpg",
+      "published_at": "2026-01-29T16:00:58+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "France moves to abolish concept of marital duty to have sex",
+      "title_tr": "France moves to abolish concept of marital duty to have sex",
+      "summary": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
+      "summary_tr": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
+      "long_summary": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
+      "long_summary_tr": "The proposed bill would enshrine in law the end of so-called \"conjugal rights\" – the notion that marriage means a duty to have sex.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cgjwxdz45ywo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7701/live/9317e120-fd1d-11f0-8de9-b9e0f3a8919a.jpg",
+      "published_at": "2026-01-29T16:00:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
+      "title_tr": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
+      "summary": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "summary_tr": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "long_summary": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "long_summary_tr": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d523/live/e9300230-fc56-11f0-8617-9b1f1bfe5268.jpg",
+      "published_at": "2026-01-29T16:00:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "Çok Ucuza 7200 mAh Batarya Sunacak vivo Y31d Tanıtıldı",
+      "title_tr": "Çok Ucuza 7200 mAh Batarya Sunacak vivo Y31d Tanıtıldı",
+      "summary": "vivo, uygun fiyatlı Y serisi telefonlarına bir yenisini daha ekledi. Y31d isimli cihaz 7200 mAh batarya gibi dikkat çeken özelliklere sahip.",
+      "summary_tr": "vivo, uygun fiyatlı Y serisi telefonlarına bir yenisini daha ekledi. Y31d isimli cihaz 7200 mAh batarya gibi dikkat çeken özelliklere sahip.",
+      "long_summary": "vivo, uygun fiyatlı Y serisi telefonlarına bir yenisini daha ekledi. Y31d isimli cihaz 7200 mAh batarya gibi dikkat çeken özelliklere sahip.",
+      "long_summary_tr": "vivo, uygun fiyatlı Y serisi telefonlarına bir yenisini daha ekledi. Y31d isimli cihaz 7200 mAh batarya gibi dikkat çeken özelliklere sahip.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/vivo-y31d-tanitildi-ozellikleri-h211641.html",
+      "image": "https://imgrosetta.webtekno.com/file/647217/647217-640xauto.jpg",
+      "published_at": "2026-01-29T16:00:02+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Raducanu splits from coach Roig after just six months",
+      "title_tr": "Raducanu splits from coach Roig after just six months",
+      "summary": "Emma Raducanu has split from coach Francis Roig after just six months working with the Spaniard.",
+      "summary_tr": "Emma Raducanu has split from coach Francis Roig after just six months working with the Spaniard.",
+      "long_summary": "Emma Raducanu has split from coach Francis Roig after just six months working with the Spaniard.",
+      "long_summary_tr": "Emma Raducanu has split from coach Francis Roig after just six months working with the Spaniard.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/tennis/news/12040/13500699/emma-raducanu-british-no-1-splits-from-coach-francis-roig-after-just-six-months",
+      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-emma-raducanu-tennis_7141222.jpg?20260121124152",
+      "published_at": "2026-01-29T16:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Popüler Yapay Zeka Aracındaki Dev Risk!",
+      "title_tr": "Popüler Yapay Zeka Aracındaki Dev Risk!",
+      "summary": "Moltbot adlı açık kaynaklı yapay zeka ajanı, GitHub tarihinin en hızlı büyüyen projelerinden biri haline geldi. Bu proje sadece birkaç hafta içinde 85.000 yıldız barajını aştı. Ancak bu büyük ilginin arka planında ciddi güvenlik endişeleri yatıyor. Güvenlik araştırmacıları, uygulamanın sürekli açık tasarımı ve sistem yöneticisi düzeyindeki erişim yetkisinin tehlikeli olduğuna dikkat çekiyor. Hatta bu açıkların […]",
+      "summary_tr": "Moltbot adlı açık kaynaklı yapay zeka ajanı, GitHub tarihinin en hızlı büyüyen projelerinden biri haline geldi. Bu proje sadece birkaç hafta içinde 85.000 yıldız barajını aştı. Ancak bu büyük ilginin arka planında ciddi güvenlik endişeleri yatıyor. Güvenlik araştırmacıları, uygulamanın sürekli açık tasarımı ve sistem yöneticisi düzeyindeki erişim yetkisinin tehlikeli olduğuna dikkat çekiyor. Hatta bu açıkların […]",
+      "long_summary": "Moltbot adlı açık kaynaklı yapay zeka ajanı, GitHub tarihinin en hızlı büyüyen projelerinden biri haline geldi. Bu proje sadece birkaç hafta içinde 85.000 yıldız barajını aştı. Ancak bu büyük ilginin arka planında ciddi güvenlik endişeleri yatıyor. Güvenlik araştırmacıları, uygulamanın sürekli açık tasarımı ve sistem yöneticisi düzeyindeki erişim yetkisinin tehlikeli olduğuna dikkat çekiyor. Hatta bu açıkların […]",
+      "long_summary_tr": "Moltbot adlı açık kaynaklı yapay zeka ajanı, GitHub tarihinin en hızlı büyüyen projelerinden biri haline geldi. Bu proje sadece birkaç hafta içinde 85.000 yıldız barajını aştı. Ancak bu büyük ilginin arka planında ciddi güvenlik endişeleri yatıyor. Güvenlik araştırmacıları, uygulamanın sürekli açık tasarımı ve sistem yöneticisi düzeyindeki erişim yetkisinin tehlikeli olduğuna dikkat çekiyor. Hatta bu açıkların […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/populer-yapay-zeka-aracindaki-dev-risk",
+      "image": null,
+      "published_at": "2026-01-29T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Svalbard polar bears are doing surprisingly well (for now)",
+      "title_tr": "Svalbard polar bears are doing surprisingly well (for now)",
+      "summary": "In the face of sea ice loss, some of the bears on the Norwegian archipelago are gaining weight.\nThe post Svalbard polar bears are doing surprisingly well (for now) appeared first on Popular Science.",
+      "summary_tr": "In the face of sea ice loss, some of the bears on the Norwegian archipelago are gaining weight.\nThe post Svalbard polar bears are doing surprisingly well (for now) appeared first on Popular Science.",
+      "long_summary": "In the face of sea ice loss, some of the bears on the Norwegian archipelago are gaining weight.\nThe post Svalbard polar bears are doing surprisingly well (for now) appeared first on Popular Science.",
+      "long_summary_tr": "In the face of sea ice loss, some of the bears on the Norwegian archipelago are gaining weight.\nThe post Svalbard polar bears are doing surprisingly well (for now) appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/environment/polar-bears-svalbard-norway/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/01/polar-bear-cubs-svalbard.png?quality=85",
+      "published_at": "2026-01-29T16:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Stellantis 2025 yılını güçlü bitirdi",
+      "title_tr": "Stellantis 2025 yılını güçlü bitirdi",
+      "summary": "Toplam satışlar 2.4 milyonu aştı.",
+      "summary_tr": "Toplam satışlar 2.4 milyonu aştı.",
+      "long_summary": "Toplam satışlar 2.4 milyonu aştı.",
+      "long_summary_tr": "Toplam satışlar 2.4 milyonu aştı.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/785837/stellantis-2025-verileri-resmi/",
+      "image": "https://cdn.motor1.com/images/mgl/OVAey/s3/stellantis-logo.jpg",
+      "published_at": "2026-01-29T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "Norway picks Hanwha to supply rocket artillery in $2 billion deal",
+      "title_tr": "Norway picks Hanwha to supply rocket artillery in $2 billion deal",
+      "summary": "None of the other commercial bidders could deliver a comparable range, Norway said.",
+      "summary_tr": "None of the other commercial bidders could deliver a comparable range, Norway said.",
+      "long_summary": "None of the other commercial bidders could deliver a comparable range, Norway said.",
+      "long_summary_tr": "None of the other commercial bidders could deliver a comparable range, Norway said.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/01/29/norway-picks-hanwha-to-supply-rocket-artillery-in-2-billion-deal/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LOCPFR34MRCPZDFTSE7VZXQW7M.JPG",
+      "published_at": "2026-01-29T15:55:33+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Altın madenciliği hisseleri değerli metal fiyatlarının gerilemesiyle düştü",
+      "title_tr": "Altın madenciliği hisseleri değerli metal fiyatlarının gerilemesiyle düştü",
+      "summary": "Altın madenciliği hisseleri değerli metal fiyatlarının gerilemesiyle düştü",
+      "summary_tr": "Altın madenciliği hisseleri değerli metal fiyatlarının gerilemesiyle düştü",
+      "long_summary": "Altın madenciliği hisseleri değerli metal fiyatlarının gerilemesiyle düştü",
+      "long_summary_tr": "Altın madenciliği hisseleri değerli metal fiyatlarının gerilemesiyle düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/altn-madenciligi-hisseleri-degerli-metal-fiyatlarnn-gerilemesiyle-dustu-93CH-3736672",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T15:54:34+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Fable Reboot Has No Multiplayer, Not Coming To Switch 2",
+      "title_tr": "Fable Reboot Has No Multiplayer, Not Coming To Switch 2",
+      "summary": "Playground Games has published a new FAQ for the upcoming Fable reboot that answers a series of key questions about the RPG, including whether or not there will be multiplayer and if it's coming to Switch.While many games are adopting multiplayer modes and features, the new Fable reboot is not. The FAQ confirms that the game is a \"single-player open-world action-RPG\" with no multiplayer.The FAQ also outlines the game's platforms, including Xbox Series X|S, PlayStation 5, and \"Game Pass.\" There was no specific mention of PC, but that's probably covered by Game Pass. The game already has a Steam page. The FAQ also does not mention Switch 2 as a supported platform. Recently, a report said a Switch 2 version is not in development but could be considered for later on. Continue Reading at GameSpot",
+      "summary_tr": "Playground Games has published a new FAQ for the upcoming Fable reboot that answers a series of key questions about the RPG, including whether or not there will be multiplayer and if it's coming to Switch.While many games are adopting multiplayer modes and features, the new Fable reboot is not. The FAQ confirms that the game is a \"single-player open-world action-RPG\" with no multiplayer.The FAQ also outlines the game's platforms, including Xbox Series X|S, PlayStation 5, and \"Game Pass.\" There was no specific mention of PC, but that's probably covered by Game Pass. The game already has a Steam page. The FAQ also does not mention Switch 2 as a supported platform. Recently, a report said a Switch 2 version is not in development but could be considered for later on. Continue Reading at GameSpot",
+      "long_summary": "Playground Games has published a new FAQ for the upcoming Fable reboot that answers a series of key questions about the RPG, including whether or not there will be multiplayer and if it's coming to Switch.While many games are adopting multiplayer modes and features, the new Fable reboot is not. The FAQ confirms that the game is a \"single-player open-world action-RPG\" with no multiplayer.The FAQ also outlines the game's platforms, including Xbox Series X|S, PlayStation 5, and \"Game Pass.\" There",
+      "long_summary_tr": "Playground Games has published a new FAQ for the upcoming Fable reboot that answers a series of key questions about the RPG, including whether or not there will be multiplayer and if it's coming to Switch.While many games are adopting multiplayer modes and features, the new Fable reboot is not. The FAQ confirms that the game is a \"single-player open-world action-RPG\" with no multiplayer.The FAQ also outlines the game's platforms, including Xbox Series X|S, PlayStation 5, and \"Game Pass.\" There",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/fable-reboot-has-no-multiplayer-not-coming-to-switch-2/1100-6537768/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4642848-screenshot2026-01-29at11.15.03%E2%80%AFam.png",
+      "published_at": "2026-01-29T15:54:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Borsa İstanbul'dan yeni rekor! Tüm zamanların en yüksek işlem hacmine ulaştı",
+      "title_tr": "Borsa İstanbul'dan yeni rekor! Tüm zamanların en yüksek işlem hacmine ulaştı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 3,16 değer kazanarak 13.831,09 puanla rekor seviyeden tamamlarken, 302,5 milyar lira ile tüm zamanların en yüksek işlem hacmine ulaştı.",
+      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 3,16 değer kazanarak 13.831,09 puanla rekor seviyeden tamamlarken, 302,5 milyar lira ile tüm zamanların en yüksek işlem hacmine ulaştı.",
+      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 3,16 değer kazanarak 13.831,09 puanla rekor seviyeden tamamlarken, 302,5 milyar lira ile tüm zamanların en yüksek işlem hacmine ulaştı.",
+      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 3,16 değer kazanarak 13.831,09 puanla rekor seviyeden tamamlarken, 302,5 milyar lira ile tüm zamanların en yüksek işlem hacmine ulaştı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/haberler/borsa-istanbuldan-yeni-rekor-tum-zamanlarin-en-yuksek-islem-hacmine-ulasti-haberi-813266",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/29/borsa-tvix_cover.jpg",
+      "published_at": "2026-01-29T15:50:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "KeyBanc’ın 2026 için En İyi Tüketici Hisseleri Hangileri",
+      "title_tr": "KeyBanc’ın 2026 için En İyi Tüketici Hisseleri Hangileri",
+      "summary": "KeyBanc’ın 2026 için En İyi Tüketici Hisseleri Hangileri",
+      "summary_tr": "KeyBanc’ın 2026 için En İyi Tüketici Hisseleri Hangileri",
+      "long_summary": "KeyBanc’ın 2026 için En İyi Tüketici Hisseleri Hangileri",
+      "long_summary_tr": "KeyBanc’ın 2026 için En İyi Tüketici Hisseleri Hangileri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/keybancn-2026-icin-en-iyi-tuketici-hisseleri-hangileri-93CH-3736656",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T15:49:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Marathon-Themed PS5 DualShock Controller and Pulse Elite Headset Are Up for Preorder",
+      "title_tr": "Marathon-Themed PS5 DualShock Controller and Pulse Elite Headset Are Up for Preorder",
+      "summary": "Everything you need to know to preorder the Marathon Limited Edition PS5 controller and headset, out March 5.",
+      "summary_tr": "Everything you need to know to preorder the Marathon Limited Edition PS5 controller and headset, out March 5.",
+      "long_summary": "Everything you need to know to preorder the Marathon Limited Edition PS5 controller and headset, out March 5.",
+      "long_summary_tr": "Everything you need to know to preorder the Marathon Limited Edition PS5 controller and headset, out March 5.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/where-to-buy-marathon-ps5-dualshock-controller-pulse-elite-headset",
+      "image": "https://assets-prd.ignimgs.com/2026/01/29/marathon-controller-ps5-1769701472494.png",
+      "published_at": "2026-01-29T15:48:17+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Wales lock Davies called into Six Nations squad",
+      "title_tr": "Wales lock Davies called into Six Nations squad",
+      "summary": "Four-cap Rhys Davies becomes the eighth Ospreys player in Steve Tandy's Wales Six Nations squad.",
+      "summary_tr": "Four-cap Rhys Davies becomes the eighth Ospreys player in Steve Tandy's Wales Six Nations squad.",
+      "long_summary": "Four-cap Rhys Davies becomes the eighth Ospreys player in Steve Tandy's Wales Six Nations squad.",
+      "long_summary_tr": "Four-cap Rhys Davies becomes the eighth Ospreys player in Steve Tandy's Wales Six Nations squad.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cvgp4q1z87po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c81/live/b0f842d0-fd26-11f0-890b-55ca0a00c59d.jpg",
+      "published_at": "2026-01-29T15:47:50+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Edirne'de sağanak etkili oldu, yollar göle döndü",
+      "title_tr": "Edirne'de sağanak etkili oldu, yollar göle döndü",
+      "summary": "Edirne'de etkili olan sağanak yağışın ardından bazı caddeler göle döndü. Köprü altında otomobilde mahsur kalan vatandaşlar itfaiye ekiplerince kurtarıldı.,Edirne'de etkili olan sağanak yağış sonrası kent genelinde olumsuzluklar yaşandı. Birçok cadde ve yol oluşan yoğun su birikintisi nedeniyle yol çift yönlü olarak trafiğe kapatıldı.\nYağışın etkisini artırmasıyla birlikte hızlı tren köprüsü altında bir otomobil su birikintisi içerisinde kaldı. Araçta mahsur kalan vatandaşların ihbarı üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. İtfaiye ekipleri tarafından araçtan çıkarılan vatandaşlar güvenli alana alınırken, olayda yaralanan olmadı.\n\nOTOMOBİLLER BOZULDU\n\nBazı otomobiller de yağış sonrası biriken yoğun su sebebiyle arızalandı. Polis ekipleri bölgede güvenlik önlemleri alırken, ekipler suyun tahliyesi ve yoların ve caddelerin yeniden trafiğe açılması için çalışma başlattı.\nÖte yandan, bazı evleri de su basarken, vatandaşlar mağdur olduklarını belirtti.\n\nMOTOSİKLETLERE YASAK GETİRİLDİ\n\nEdirne Valiliği, yaşanan olumsuzluklar sonrası trafik seyir ve can güvenliğini sağlamak amacıyla alınan karar doğrultusunda, motosiklet, elektrikli scooter, motorlu bisikletler ile moto kuryelerin trafiğe çıkışları yasaklandı.\nYetkililer, sürücüleri yağışlı havalarda dikkatli olmaları konusunda uyardı.",
+      "summary_tr": "Edirne'de etkili olan sağanak yağışın ardından bazı caddeler göle döndü. Köprü altında otomobilde mahsur kalan vatandaşlar itfaiye ekiplerince kurtarıldı.,Edirne'de etkili olan sağanak yağış sonrası kent genelinde olumsuzluklar yaşandı. Birçok cadde ve yol oluşan yoğun su birikintisi nedeniyle yol çift yönlü olarak trafiğe kapatıldı.\nYağışın etkisini artırmasıyla birlikte hızlı tren köprüsü altında bir otomobil su birikintisi içerisinde kaldı. Araçta mahsur kalan vatandaşların ihbarı üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. İtfaiye ekipleri tarafından araçtan çıkarılan vatandaşlar güvenli alana alınırken, olayda yaralanan olmadı.\n\nOTOMOBİLLER BOZULDU\n\nBazı otomobiller de yağış sonrası biriken yoğun su sebebiyle arızalandı. Polis ekipleri bölgede güvenlik önlemleri alırken, ekipler suyun tahliyesi ve yoların ve caddelerin yeniden trafiğe açılması için çalışma başlattı.\nÖte yandan, bazı evleri de su basarken, vatandaşlar mağdur olduklarını belirtti.\n\nMOTOSİKLETLERE YASAK GETİRİLDİ\n\nEdirne Valiliği, yaşanan olumsuzluklar sonrası trafik seyir ve can güvenliğini sağlamak amacıyla alınan karar doğrultusunda, motosiklet, elektrikli scooter, motorlu bisikletler ile moto kuryelerin trafiğe çıkışları yasaklandı.\nYetkililer, sürücüleri yağışlı havalarda dikkatli olmaları konusunda uyardı.",
+      "long_summary": "Edirne'de etkili olan sağanak yağışın ardından bazı caddeler göle döndü. Köprü altında otomobilde mahsur kalan vatandaşlar itfaiye ekiplerince kurtarıldı.,Edirne'de etkili olan sağanak yağış sonrası kent genelinde olumsuzluklar yaşandı. Birçok cadde ve yol oluşan yoğun su birikintisi nedeniyle yol çift yönlü olarak trafiğe kapatıldı.\nYağışın etkisini artırmasıyla birlikte hızlı tren köprüsü altında bir otomobil su birikintisi içerisinde kaldı. Araçta mahsur kalan vatandaşların ihbarı üzerine",
+      "long_summary_tr": "Edirne'de etkili olan sağanak yağışın ardından bazı caddeler göle döndü. Köprü altında otomobilde mahsur kalan vatandaşlar itfaiye ekiplerince kurtarıldı.,Edirne'de etkili olan sağanak yağış sonrası kent genelinde olumsuzluklar yaşandı. Birçok cadde ve yol oluşan yoğun su birikintisi nedeniyle yol çift yönlü olarak trafiğe kapatıldı.\nYağışın etkisini artırmasıyla birlikte hızlı tren köprüsü altında bir otomobil su birikintisi içerisinde kaldı. Araçta mahsur kalan vatandaşların ihbarı üzerine",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/edirne-de-saganak-etkili-oldu-yollar-gole-dondu-1569947",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/edirne-de-saganak-etkili-oldu-yollar-gole-dondu-1769704715-789_large.webp",
+      "published_at": "2026-01-29T15:41:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Konya'da dondurma deposunda amonyak gazı sızıntısı: 1 işçi hastaneye kaldırıldı",
+      "title_tr": "Konya'da dondurma deposunda amonyak gazı sızıntısı: 1 işçi hastaneye kaldırıldı",
+      "summary": "Konya'da dondurma dolaplarının bulunduğu depoda amonyak tankına bağlı borulardan gaz sızıntısı oldu. Gazdan etkilenen 1 işçi hastaneye kaldırılarak tedavi altına alındı.Olay, saat 15.30 sıralarında merkez Karatay ilçesi Fevzi Çakmak Mahallesi 10644. Sokak üzerinde bulunan depoda meydana geldi. Edinilen bilgiye göre, dondurma dolaplarının bulunduğu depoda işçilerin çalıştığı sırada amonyak tankına bağlı borulardan gaz sızıntısı meydana geldi. Gaz kokusu çevreyi sararken, sızan gazdan 1 işçi etkilendi. 112 Acil Çağrı Merkezi'ne yapılan ihbar üzerine adrese, polis, itfaiye, sağlık, AFAD ve UMKE ekipleri sevk edildi. Kısa sürede olay yerine gelen ekipler gerekli önlemleri alarak müdahalede bulundu. Sızan gazdan etkilenen işçi ambulansla hastaneye sevk edilerek tedavi altına alındı.\n\nFabrikadaki amonyak tankı kapatılarak gaz itfaiye ekiplerince verilen hava ile tahliye edilirken, işlem sonrası ekipler tarafından gaz ölçümleri yapıldığı belirtildi.",
+      "summary_tr": "Konya'da dondurma dolaplarının bulunduğu depoda amonyak tankına bağlı borulardan gaz sızıntısı oldu. Gazdan etkilenen 1 işçi hastaneye kaldırılarak tedavi altına alındı.Olay, saat 15.30 sıralarında merkez Karatay ilçesi Fevzi Çakmak Mahallesi 10644. Sokak üzerinde bulunan depoda meydana geldi. Edinilen bilgiye göre, dondurma dolaplarının bulunduğu depoda işçilerin çalıştığı sırada amonyak tankına bağlı borulardan gaz sızıntısı meydana geldi. Gaz kokusu çevreyi sararken, sızan gazdan 1 işçi etkilendi. 112 Acil Çağrı Merkezi'ne yapılan ihbar üzerine adrese, polis, itfaiye, sağlık, AFAD ve UMKE ekipleri sevk edildi. Kısa sürede olay yerine gelen ekipler gerekli önlemleri alarak müdahalede bulundu. Sızan gazdan etkilenen işçi ambulansla hastaneye sevk edilerek tedavi altına alındı.\n\nFabrikadaki amonyak tankı kapatılarak gaz itfaiye ekiplerince verilen hava ile tahliye edilirken, işlem sonrası ekipler tarafından gaz ölçümleri yapıldığı belirtildi.",
+      "long_summary": "Konya'da dondurma dolaplarının bulunduğu depoda amonyak tankına bağlı borulardan gaz sızıntısı oldu. Gazdan etkilenen 1 işçi hastaneye kaldırılarak tedavi altına alındı.Olay, saat 15.30 sıralarında merkez Karatay ilçesi Fevzi Çakmak Mahallesi 10644. Sokak üzerinde bulunan depoda meydana geldi. Edinilen bilgiye göre, dondurma dolaplarının bulunduğu depoda işçilerin çalıştığı sırada amonyak tankına bağlı borulardan gaz sızıntısı meydana geldi. Gaz kokusu çevreyi sararken, sızan gazdan 1 işçi",
+      "long_summary_tr": "Konya'da dondurma dolaplarının bulunduğu depoda amonyak tankına bağlı borulardan gaz sızıntısı oldu. Gazdan etkilenen 1 işçi hastaneye kaldırılarak tedavi altına alındı.Olay, saat 15.30 sıralarında merkez Karatay ilçesi Fevzi Çakmak Mahallesi 10644. Sokak üzerinde bulunan depoda meydana geldi. Edinilen bilgiye göre, dondurma dolaplarının bulunduğu depoda işçilerin çalıştığı sırada amonyak tankına bağlı borulardan gaz sızıntısı meydana geldi. Gaz kokusu çevreyi sararken, sızan gazdan 1 işçi",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/konya-da-dondurma-deposunda-amonyak-gazi-sizintisi-1-isci-hastaneye-kaldirildi-1569945",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/konya-da-dondurma-deposunda-amonyak-gazi-sizintisi-1-isci-hastaneye-kaldirildi-1769703705-944_large.webp",
+      "published_at": "2026-01-29T15:37:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Tesla’nın güneş enerjisi hamlesi riski ile First Solar %13 düştü",
+      "title_tr": "Tesla’nın güneş enerjisi hamlesi riski ile First Solar %13 düştü",
+      "summary": "Tesla’nın güneş enerjisi hamlesi riski ile First Solar %13 düştü",
+      "summary_tr": "Tesla’nın güneş enerjisi hamlesi riski ile First Solar %13 düştü",
+      "long_summary": "Tesla’nın güneş enerjisi hamlesi riski ile First Solar %13 düştü",
+      "long_summary_tr": "Tesla’nın güneş enerjisi hamlesi riski ile First Solar %13 düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/teslann-gunes-enerjisi-hamlesi-riski-ile-first-solar-13-dustu-3736621",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T15:36:12+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Edirne Keşan’da çatı yangını",
+      "title_tr": "Edirne Keşan’da çatı yangını",
+      "summary": "Edirne’nin Keşan ilçesinde, bir evin çatısında çıkan yangın itfaiye ekipleri tarafından söndürüldü.,Alınan bilgiye göre, Yörük Mahallesi Huzur Sokak üzerinde bulunan tek bir evin çatısında henüz belirlenemeyen bir sebeple yangın çıktı. Alevleri fark edenlerin ihbarı üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesi ile kontrol altına alınan yangın söndürüldü. Olayla ilgili inceleme başlatıldı.",
+      "summary_tr": "Edirne’nin Keşan ilçesinde, bir evin çatısında çıkan yangın itfaiye ekipleri tarafından söndürüldü.,Alınan bilgiye göre, Yörük Mahallesi Huzur Sokak üzerinde bulunan tek bir evin çatısında henüz belirlenemeyen bir sebeple yangın çıktı. Alevleri fark edenlerin ihbarı üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesi ile kontrol altına alınan yangın söndürüldü. Olayla ilgili inceleme başlatıldı.",
+      "long_summary": "Edirne’nin Keşan ilçesinde, bir evin çatısında çıkan yangın itfaiye ekipleri tarafından söndürüldü.,Alınan bilgiye göre, Yörük Mahallesi Huzur Sokak üzerinde bulunan tek bir evin çatısında henüz belirlenemeyen bir sebeple yangın çıktı. Alevleri fark edenlerin ihbarı üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesi ile kontrol altına alınan yangın söndürüldü. Olayla ilgili inceleme başlatıldı.",
+      "long_summary_tr": "Edirne’nin Keşan ilçesinde, bir evin çatısında çıkan yangın itfaiye ekipleri tarafından söndürüldü.,Alınan bilgiye göre, Yörük Mahallesi Huzur Sokak üzerinde bulunan tek bir evin çatısında henüz belirlenemeyen bir sebeple yangın çıktı. Alevleri fark edenlerin ihbarı üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesi ile kontrol altına alınan yangın söndürüldü. Olayla ilgili inceleme başlatıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/edirne-kesan-da-cati-yangini-1569943",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/edirne-kesan-da-cati-yangini-1769703663-612_large.webp",
+      "published_at": "2026-01-29T15:34:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Oracle hisseleri, yapay zeka heyecanı azalırken zirveden %50 düştü",
+      "title_tr": "Oracle hisseleri, yapay zeka heyecanı azalırken zirveden %50 düştü",
+      "summary": "Oracle hisseleri, yapay zeka heyecanı azalırken zirveden %50 düştü",
+      "summary_tr": "Oracle hisseleri, yapay zeka heyecanı azalırken zirveden %50 düştü",
+      "long_summary": "Oracle hisseleri, yapay zeka heyecanı azalırken zirveden %50 düştü",
+      "long_summary_tr": "Oracle hisseleri, yapay zeka heyecanı azalırken zirveden %50 düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/oracle-hisseleri-yapay-zeka-heyecan-azalrken-zirveden-50-dustu-93CH-3736598",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-01-29T15:31:11+00:00"
     },
     {
       "origin": "turkiye",
@@ -69,47 +1015,69 @@
     },
     {
       "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "AB, İran Devrim Muhafızları Ordusunu terör listesine aldı",
-      "title_tr": "AB, İran Devrim Muhafızları Ordusunu terör listesine aldı",
-      "summary": "Avrupa Birliği (AB), İran Devrim Muhafızları Ordusunu terör listesine aldığını duyurdu.",
-      "summary_tr": "Avrupa Birliği (AB), İran Devrim Muhafızları Ordusunu terör listesine aldığını duyurdu.",
-      "long_summary": "Avrupa Birliği (AB), İran Devrim Muhafızları Ordusunu terör listesine aldığını duyurdu.",
-      "long_summary_tr": "Avrupa Birliği (AB), İran Devrim Muhafızları Ordusunu terör listesine aldığını duyurdu.",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Kırıkkale’de FETÖ hükümlüsü yakalandı",
+      "title_tr": "Kırıkkale’de FETÖ hükümlüsü yakalandı",
+      "summary": "Kırıkkale’de, FETÖ'ye üye olma suçundan aranan ve 6 yıl 3 ay kesinleşmiş hapis cezası bulunan ihraç komiser yardımcısı, jandarma ekiplerince yakalanarak cezaevine gönderildi.Kırıkkale Cumhuriyet Başsavcılığı talimatıyla İl Jandarma Komutanlığı ekiplerince yapılan operasyonda, FETÖ'ye üye olma suçundan aranan meslekten ihraç komiser yardımcısı N.E. gözaltına alındı. Hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan hükümlü, sağlık kontrolünün ardından adliyeye sevk edildi. Hükümlü şahıs, ifade işlemlerinin ardından Keskin Ceza İnfaz Kurumuna teslim edildi.",
+      "summary_tr": "Kırıkkale’de, FETÖ'ye üye olma suçundan aranan ve 6 yıl 3 ay kesinleşmiş hapis cezası bulunan ihraç komiser yardımcısı, jandarma ekiplerince yakalanarak cezaevine gönderildi.Kırıkkale Cumhuriyet Başsavcılığı talimatıyla İl Jandarma Komutanlığı ekiplerince yapılan operasyonda, FETÖ'ye üye olma suçundan aranan meslekten ihraç komiser yardımcısı N.E. gözaltına alındı. Hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan hükümlü, sağlık kontrolünün ardından adliyeye sevk edildi. Hükümlü şahıs, ifade işlemlerinin ardından Keskin Ceza İnfaz Kurumuna teslim edildi.",
+      "long_summary": "Kırıkkale’de, FETÖ'ye üye olma suçundan aranan ve 6 yıl 3 ay kesinleşmiş hapis cezası bulunan ihraç komiser yardımcısı, jandarma ekiplerince yakalanarak cezaevine gönderildi.Kırıkkale Cumhuriyet Başsavcılığı talimatıyla İl Jandarma Komutanlığı ekiplerince yapılan operasyonda, FETÖ'ye üye olma suçundan aranan meslekten ihraç komiser yardımcısı N.E. gözaltına alındı. Hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan hükümlü, sağlık kontrolünün ardından adliyeye sevk edildi. Hükümlü şahıs,",
+      "long_summary_tr": "Kırıkkale’de, FETÖ'ye üye olma suçundan aranan ve 6 yıl 3 ay kesinleşmiş hapis cezası bulunan ihraç komiser yardımcısı, jandarma ekiplerince yakalanarak cezaevine gönderildi.Kırıkkale Cumhuriyet Başsavcılığı talimatıyla İl Jandarma Komutanlığı ekiplerince yapılan operasyonda, FETÖ'ye üye olma suçundan aranan meslekten ihraç komiser yardımcısı N.E. gözaltına alındı. Hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan hükümlü, sağlık kontrolünün ardından adliyeye sevk edildi. Hükümlü şahıs,",
       "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.dunya.com/dunya/ab-iran-devrim-muhafizlari-ordusunu-teror-listesine-aldi-haberi-813264",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/29/iran-skhm_cover.jpg",
-      "published_at": "2026-01-29T15:24:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/kirikkale-de-feto-hukumlusu-yakalandi-1569941",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/kirikkale-de-feto-hukumlusu-yakalandi-1769703623-354_large.webp",
+      "published_at": "2026-01-29T15:29:00+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "ABD'de fabrika siparişleri beklentileri aştı",
-      "title_tr": "ABD'de fabrika siparişleri beklentileri aştı",
-      "summary": "ABD'de fabrika siparişleri Kasım'da ayında yüzde 2,7, dayanıklı mal siparişleri ise yüzde 5,3 artış gösterdi.",
-      "summary_tr": "ABD'de fabrika siparişleri Kasım'da ayında yüzde 2,7, dayanıklı mal siparişleri ise yüzde 5,3 artış gösterdi.",
-      "long_summary": "ABD'de fabrika siparişleri Kasım'da ayında yüzde 2,7, dayanıklı mal siparişleri ise yüzde 5,3 artış gösterdi.",
-      "long_summary_tr": "ABD'de fabrika siparişleri Kasım'da ayında yüzde 2,7, dayanıklı mal siparişleri ise yüzde 5,3 artış gösterdi.",
+      "source": "GameSpot",
+      "title": "Tomodachi Life: Living The Dream Lets You Have A Love Square With A Clown Because Why Not?",
+      "title_tr": "Tomodachi Life: Living The Dream Lets You Have A Love Square With A Clown Because Why Not?",
+      "summary": "Nintendo dropped a 22-minute Direct presentation for the upcoming social-life sim Tomodachi Life: Living the Dream, which revealed all kinds of fun and fascinating features for the Switch-exclusive. Tucked in the broadcast was an interesting dilemma, and if you blinked, you might've missed it, but let me point it out for all to see: You can not only fall in love with a clown, but you can get involved in a love square with said clown because, well ... everyone loves clowns, right?Yes, the forthcoming Living the Dream, the latest entry in the Tomodachi franchise following 2014's Tomodachi Life, allows you to go on dates with a clown named Hugh Morris. One of the main Miis in the trailer, Angie, admits to us that she \"can't hold back\" her feelings for the clown and \"needs to tell him\" how she feels. The player encourages Angie, suggesting she \"go for it.\" Which she does! She invites Hugh on a Ferris wheel date, where she confesses her feelings \"the old-fashioned way.\" That is, stuttering through rosy cheeks and nervous breaths.Morris, oblivious, says he's \"totally in love with the view\" from inside the Ferris wheel, too. Angie clarifies what she meant, blurting out that she's \"in love\" with him and asks to go on a real date. As hearts pound in the background, a Mii named Jess somehow enters the Ferris wheel and professes that the one who \"truly loves\" Morris is them.Continue Reading at GameSpot",
+      "summary_tr": "Nintendo dropped a 22-minute Direct presentation for the upcoming social-life sim Tomodachi Life: Living the Dream, which revealed all kinds of fun and fascinating features for the Switch-exclusive. Tucked in the broadcast was an interesting dilemma, and if you blinked, you might've missed it, but let me point it out for all to see: You can not only fall in love with a clown, but you can get involved in a love square with said clown because, well ... everyone loves clowns, right?Yes, the forthcoming Living the Dream, the latest entry in the Tomodachi franchise following 2014's Tomodachi Life, allows you to go on dates with a clown named Hugh Morris. One of the main Miis in the trailer, Angie, admits to us that she \"can't hold back\" her feelings for the clown and \"needs to tell him\" how she feels. The player encourages Angie, suggesting she \"go for it.\" Which she does! She invites Hugh on a Ferris wheel date, where she confesses her feelings \"the old-fashioned way.\" That is, stuttering through rosy cheeks and nervous breaths.Morris, oblivious, says he's \"totally in love with the view\" from inside the Ferris wheel, too. Angie clarifies what she meant, blurting out that she's \"in love\" with him and asks to go on a real date. As hearts pound in the background, a Mii named Jess somehow enters the Ferris wheel and professes that the one who \"truly loves\" Morris is them.Continue Reading at GameSpot",
+      "long_summary": "Nintendo dropped a 22-minute Direct presentation for the upcoming social-life sim Tomodachi Life: Living the Dream, which revealed all kinds of fun and fascinating features for the Switch-exclusive. Tucked in the broadcast was an interesting dilemma, and if you blinked, you might've missed it, but let me point it out for all to see: You can not only fall in love with a clown, but you can get involved in a love square with said clown because, well ... everyone loves clowns, right?Yes, the",
+      "long_summary_tr": "Nintendo dropped a 22-minute Direct presentation for the upcoming social-life sim Tomodachi Life: Living the Dream, which revealed all kinds of fun and fascinating features for the Switch-exclusive. Tucked in the broadcast was an interesting dilemma, and if you blinked, you might've missed it, but let me point it out for all to see: You can not only fall in love with a clown, but you can get involved in a love square with said clown because, well ... everyone loves clowns, right?Yes, the",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.bloomberght.com/abd-de-fabrika-siparisleri-beklentileri-asti-3767741",
-      "image": null,
-      "published_at": "2026-01-29T15:24:00+00:00"
+      "url": "https://www.gamespot.com/articles/tomodachi-life-living-the-dream-lets-you-have-a-love-square-with-a-clown-because-why-not/1100-6537767/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15789366/4642823-tlimage.jpg",
+      "published_at": "2026-01-29T15:29:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Tomodachi Life: Living The Dream Adds Same-Sex Relationships And Non-Binary Miis",
+      "title_tr": "Tomodachi Life: Living The Dream Adds Same-Sex Relationships And Non-Binary Miis",
+      "summary": "More than 10 years after vowing to make a \"more inclusive\" Tomodachi Life game, Nintendo has made good on that promise, revealing in a Nintendo Direct that Tomodachi Life: Living the Dream will add not only same-sex romances, but the option to make non-binary Mii characters.The 22-minute Direct for the Switch game demonstrated the character creation process for Miis, which includes three gender options: Male, Female, and Non-Binary. Additionally, players can pick any (or none) of the three options for their character's dating preferences.When the previous entry in the wacky Tomodachi Life series, released in 2013 for Nintendo 3DS, lacked the option for same-sex relationships, a social media campaign called Miiquality called on Nintendo to include the option in the game. Nintendo of America responded with a rather cold statement, saying that the game \"was intended to be a whimsical and quirky game\" that was \"absolutely not trying to provide social commentary.\"Continue Reading at GameSpot",
+      "summary_tr": "More than 10 years after vowing to make a \"more inclusive\" Tomodachi Life game, Nintendo has made good on that promise, revealing in a Nintendo Direct that Tomodachi Life: Living the Dream will add not only same-sex romances, but the option to make non-binary Mii characters.The 22-minute Direct for the Switch game demonstrated the character creation process for Miis, which includes three gender options: Male, Female, and Non-Binary. Additionally, players can pick any (or none) of the three options for their character's dating preferences.When the previous entry in the wacky Tomodachi Life series, released in 2013 for Nintendo 3DS, lacked the option for same-sex relationships, a social media campaign called Miiquality called on Nintendo to include the option in the game. Nintendo of America responded with a rather cold statement, saying that the game \"was intended to be a whimsical and quirky game\" that was \"absolutely not trying to provide social commentary.\"Continue Reading at GameSpot",
+      "long_summary": "More than 10 years after vowing to make a \"more inclusive\" Tomodachi Life game, Nintendo has made good on that promise, revealing in a Nintendo Direct that Tomodachi Life: Living the Dream will add not only same-sex romances, but the option to make non-binary Mii characters.The 22-minute Direct for the Switch game demonstrated the character creation process for Miis, which includes three gender options: Male, Female, and Non-Binary. Additionally, players can pick any (or none) of the three",
+      "long_summary_tr": "More than 10 years after vowing to make a \"more inclusive\" Tomodachi Life game, Nintendo has made good on that promise, revealing in a Nintendo Direct that Tomodachi Life: Living the Dream will add not only same-sex romances, but the option to make non-binary Mii characters.The 22-minute Direct for the Switch game demonstrated the character creation process for Miis, which includes three gender options: Male, Female, and Non-Binary. Additionally, players can pick any (or none) of the three",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/tomodachi-life-living-the-dream-adds-same-sex-relationships-and-non-binary-miis/1100-6537765/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4642826-nintendoswitch_tomodachilifelivingthedream_scrn_09.png",
+      "published_at": "2026-01-29T15:29:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -117,989 +1085,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Brighton latest: No desire to sell Ayari as Forest bid rejected",
-      "title_tr": "Brighton latest: No desire to sell Ayari as Forest bid rejected",
-      "summary": "Brighton latest: No desire to sell Ayari as Forest bid rejected",
-      "summary_tr": "Brighton latest: No desire to sell Ayari as Forest bid rejected",
-      "long_summary": "Brighton latest: No desire to sell Ayari as Forest bid rejected",
-      "long_summary_tr": "Brighton latest: No desire to sell Ayari as Forest bid rejected",
+      "title": "Brentford latest: Andrews provides Ajer, Damsgaard injury updates",
+      "title_tr": "Brentford latest: Andrews provides Ajer, Damsgaard injury updates",
+      "summary": "Brentford latest: Andrews provides Ajer, Damsgaard injury updates",
+      "summary_tr": "Brentford latest: Andrews provides Ajer, Damsgaard injury updates",
+      "long_summary": "Brentford latest: Andrews provides Ajer, Damsgaard injury updates",
+      "long_summary_tr": "Brentford latest: Andrews provides Ajer, Damsgaard injury updates",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-brighton-news-club_7039246.jpg?20251002155936",
-      "published_at": "2026-01-29T15:23:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Aston Villa latest: Palace agree deal with Villa for Guessand",
-      "title_tr": "Aston Villa latest: Palace agree deal with Villa for Guessand",
-      "summary": "Aston Villa latest: Palace agree deal with Villa for Guessand",
-      "summary_tr": "Aston Villa latest: Palace agree deal with Villa for Guessand",
-      "long_summary": "Aston Villa latest: Palace agree deal with Villa for Guessand",
-      "long_summary_tr": "Aston Villa latest: Palace agree deal with Villa for Guessand",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image": "https://e2.365dm.com/26/01/1920x1080/skysports-premier-league-aston-villa_7128166.jpg?20260106150826",
-      "published_at": "2026-01-29T15:22:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Trump’ın ekonomi üzerinde yarattığı bir başka ’yüksek tempolu’ etki",
-      "title_tr": "Trump’ın ekonomi üzerinde yarattığı bir başka ’yüksek tempolu’ etki",
-      "summary": "Trump’ın ekonomi üzerinde yarattığı bir başka ’yüksek tempolu’ etki",
-      "summary_tr": "Trump’ın ekonomi üzerinde yarattığı bir başka ’yüksek tempolu’ etki",
-      "long_summary": "Trump’ın ekonomi üzerinde yarattığı bir başka ’yüksek tempolu’ etki",
-      "long_summary_tr": "Trump’ın ekonomi üzerinde yarattığı bir başka ’yüksek tempolu’ etki",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/trumpn-ekonomi-uzerinde-yarattg-bir-baska-yuksek-tempolu-etki-3736579",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T15:21:12+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Forest latest: Bid for Ayari rejected by Brighton",
-      "title_tr": "Forest latest: Bid for Ayari rejected by Brighton",
-      "summary": "Forest latest: Bid for Ayari rejected by Brighton",
-      "summary_tr": "Forest latest: Bid for Ayari rejected by Brighton",
-      "long_summary": "Forest latest: Bid for Ayari rejected by Brighton",
-      "long_summary_tr": "Forest latest: Bid for Ayari rejected by Brighton",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image": "https://e2.365dm.com/25/12/1920x1080/skysports-nottingham-forest_7122325.jpg?20251230173343",
-      "published_at": "2026-01-29T15:21:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "ByteDance ve Alibaba Çin Yeni Yılı için yeni yapay zeka modellerini piyasaya sürecek",
-      "title_tr": "ByteDance ve Alibaba Çin Yeni Yılı için yeni yapay zeka modellerini piyasaya sürecek",
-      "summary": "ByteDance ve Alibaba Çin Yeni Yılı için yeni yapay zeka modellerini piyasaya sürecek",
-      "summary_tr": "ByteDance ve Alibaba Çin Yeni Yılı için yeni yapay zeka modellerini piyasaya sürecek",
-      "long_summary": "ByteDance ve Alibaba Çin Yeni Yılı için yeni yapay zeka modellerini piyasaya sürecek",
-      "long_summary_tr": "ByteDance ve Alibaba Çin Yeni Yılı için yeni yapay zeka modellerini piyasaya sürecek",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bytedance-ve-alibaba-cin-yeni-yl-icin-yeni-yapay-zeka-modellerini-piyasaya-surecek-3736577",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T15:20:27+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "PİYASAYA BAKIŞ- Borsa günü yeni rekor kapanışla tamamladı",
-      "title_tr": "PİYASAYA BAKIŞ- Borsa günü yeni rekor kapanışla tamamladı",
-      "summary": "BIST 100 endeksi günü 423,65 puan artışla 13831,09 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 200,0 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi k...",
-      "summary_tr": "BIST 100 endeksi günü 423,65 puan artışla 13831,09 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 200,0 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi k...",
-      "long_summary": "BIST 100 endeksi günü 423,65 puan artışla 13831,09 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 200,0 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi k...",
-      "long_summary_tr": "BIST 100 endeksi günü 423,65 puan artışla 13831,09 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü 200,0 puan artışla kapatması bekleniyordu.ForInvest Haber'in BIST100 endeksi k...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/697b7a3a67ad3132ebe05194/PICNEWS/tr/piyasaya-bakis-borsa-gunu-yeni-rekor-kapanisla-tamamladi-29-01-26/",
-      "image": "https://news-files.foreks.com/images/1769699893280.jpeg",
-      "published_at": "2026-01-29T15:18:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "PicPay hisse başına 19 dolar fiyatla halka arz edildi",
-      "title_tr": "PicPay hisse başına 19 dolar fiyatla halka arz edildi",
-      "summary": "PicPay hisse başına 19 dolar fiyatla halka arz edildi",
-      "summary_tr": "PicPay hisse başına 19 dolar fiyatla halka arz edildi",
-      "long_summary": "PicPay hisse başına 19 dolar fiyatla halka arz edildi",
-      "long_summary_tr": "PicPay hisse başına 19 dolar fiyatla halka arz edildi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/picpay-hisse-basna-19-dolar-fiyatla-halka-arz-edildi-432SI-3736552",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg",
-      "published_at": "2026-01-29T15:17:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "\"Lavaboya gidiyorum\" demişti. 11 yaşındaki kayıp çocuk başka kentte kameraya yakalandı",
-      "title_tr": "\"Lavaboya gidiyorum\" demişti. 11 yaşındaki kayıp çocuk başka kentte kameraya yakalandı",
-      "summary": "Antalya'nın Aksu ilçesinde lavaboya gideceğini söyleyerek evden ayrılan ve 3 gündür haber alınamayan 11 yaşındaki çocuk Adana'da bulundu.",
-      "summary_tr": "Antalya'nın Aksu ilçesinde lavaboya gideceğini söyleyerek evden ayrılan ve 3 gündür haber alınamayan 11 yaşındaki çocuk Adana'da bulundu.",
-      "long_summary": "Antalya'nın Aksu ilçesinde lavaboya gideceğini söyleyerek evden ayrılan ve 3 gündür haber alınamayan 11 yaşındaki çocuk Adana'da bulundu.",
-      "long_summary_tr": "Antalya'nın Aksu ilçesinde lavaboya gideceğini söyleyerek evden ayrılan ve 3 gündür haber alınamayan 11 yaşındaki çocuk Adana'da bulundu.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/lavaboya-gidiyorum-demisti-11-yasindaki-kayip-cocuk-baska-kentte-kameraya-yakalandi-1709621",
-      "image": "https://images.ntv.com.tr/images/cocuk-551494.jpg",
-      "published_at": "2026-01-29T15:14:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "ESS Tech hisseleri 15 milyon dolarlık hisse arzı açıklamasının ardından düştü",
-      "title_tr": "ESS Tech hisseleri 15 milyon dolarlık hisse arzı açıklamasının ardından düştü",
-      "summary": "ESS Tech hisseleri 15 milyon dolarlık hisse arzı açıklamasının ardından düştü",
-      "summary_tr": "ESS Tech hisseleri 15 milyon dolarlık hisse arzı açıklamasının ardından düştü",
-      "long_summary": "ESS Tech hisseleri 15 milyon dolarlık hisse arzı açıklamasının ardından düştü",
-      "long_summary_tr": "ESS Tech hisseleri 15 milyon dolarlık hisse arzı açıklamasının ardından düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/ess-tech-hisseleri-15-milyon-dolarlk-hisse-arz-acklamasnn-ardndan-dustu-93CH-3736548",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T15:14:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "title_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/a68046559/best-spring-summer-2026-campaigns/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ce054e69-eae1-4405-b9f6-9b80b0270a96.jpg",
-      "published_at": "2026-01-29T15:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Her Eve Lazım mı? Eve 3D Printer Aldım!",
-      "title_tr": "Her Eve Lazım mı? Eve 3D Printer Aldım!",
-      "summary": "Bu videomuzda hayatımda ilk kez bir 3D yazıcı kullanmanın heyecanını ve bu süreçte yaşadığımız tüm detayları sizlerle paylaşıyorum. Bambu Lab P2S Combo modelini kutusundan çıkarıp kurulumunu gerçekleştirirken, aslında bu dünyanın ne kadar merak uyandırıcı ama bir o kadar da bilinmezlerle dolu olduğunu beraber keşfediyoruz. Özellikle çocuklar için hayal ettikleri nesneleri somut bir hale getirebilme fikri, […]",
-      "summary_tr": "Bu videomuzda hayatımda ilk kez bir 3D yazıcı kullanmanın heyecanını ve bu süreçte yaşadığımız tüm detayları sizlerle paylaşıyorum. Bambu Lab P2S Combo modelini kutusundan çıkarıp kurulumunu gerçekleştirirken, aslında bu dünyanın ne kadar merak uyandırıcı ama bir o kadar da bilinmezlerle dolu olduğunu beraber keşfediyoruz. Özellikle çocuklar için hayal ettikleri nesneleri somut bir hale getirebilme fikri, […]",
-      "long_summary": "Bu videomuzda hayatımda ilk kez bir 3D yazıcı kullanmanın heyecanını ve bu süreçte yaşadığımız tüm detayları sizlerle paylaşıyorum. Bambu Lab P2S Combo modelini kutusundan çıkarıp kurulumunu gerçekleştirirken, aslında bu dünyanın ne kadar merak uyandırıcı ama bir o kadar da bilinmezlerle dolu olduğunu beraber keşfediyoruz. Özellikle çocuklar için hayal ettikleri nesneleri somut bir hale getirebilme fikri, […]",
-      "long_summary_tr": "Bu videomuzda hayatımda ilk kez bir 3D yazıcı kullanmanın heyecanını ve bu süreçte yaşadığımız tüm detayları sizlerle paylaşıyorum. Bambu Lab P2S Combo modelini kutusundan çıkarıp kurulumunu gerçekleştirirken, aslında bu dünyanın ne kadar merak uyandırıcı ama bir o kadar da bilinmezlerle dolu olduğunu beraber keşfediyoruz. Özellikle çocuklar için hayal ettikleri nesneleri somut bir hale getirebilme fikri, […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/her-eve-lazim-mi-eve-3d-printer-aldim",
-      "image": null,
-      "published_at": "2026-01-29T15:11:31+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Hytale Now Has Call Of Duty Mods, Meaning You Can Get Fragged On Black Ops 2's Hijacked",
-      "title_tr": "Hytale Now Has Call Of Duty Mods, Meaning You Can Get Fragged On Black Ops 2's Hijacked",
-      "summary": "Not even a month after launching, Hytale players have already created Call of Duty mods for the Minecraft-like game. New clips popping up on social media showcase people lighting up opponents with a variety of guns on the iconic Black Ops 2 map, Hijacked. Hytale partner EpicNNG and content creator Dave Kratzy posted short videos on X showing off the action, with the server apparently being found at Everlands.net.The Call of Duty mod may not feature ADS or killstreaks (at least not yet), but the gameplay looks rather faithful in the blocky transition. The Hijacked map also returned for last year's Black Ops 7, the latest Call of Duty entry in the long-running franchise. Developer Hypixel has ensured that Hytale supports mods, as the team's background includes working on one of the most popular Minecraft servers.Hytale servers are evolving rapidly... pic.twitter.com/LIcYYHWACU  — Dave Kratzy (@Krtzyy) January 27, 2026              Last week, a Hytale update brought dinosaurs and easier storage upgrades to the game. The patch also included a laundry list of bug fixes. So far, Hytale is only available to download on the game's official website. As such, Hytale isn't on Steam currently and may never arrive on Valve's PC storefront.Continue Reading at GameSpot",
-      "summary_tr": "Not even a month after launching, Hytale players have already created Call of Duty mods for the Minecraft-like game. New clips popping up on social media showcase people lighting up opponents with a variety of guns on the iconic Black Ops 2 map, Hijacked. Hytale partner EpicNNG and content creator Dave Kratzy posted short videos on X showing off the action, with the server apparently being found at Everlands.net.The Call of Duty mod may not feature ADS or killstreaks (at least not yet), but the gameplay looks rather faithful in the blocky transition. The Hijacked map also returned for last year's Black Ops 7, the latest Call of Duty entry in the long-running franchise. Developer Hypixel has ensured that Hytale supports mods, as the team's background includes working on one of the most popular Minecraft servers.Hytale servers are evolving rapidly... pic.twitter.com/LIcYYHWACU  — Dave Kratzy (@Krtzyy) January 27, 2026              Last week, a Hytale update brought dinosaurs and easier storage upgrades to the game. The patch also included a laundry list of bug fixes. So far, Hytale is only available to download on the game's official website. As such, Hytale isn't on Steam currently and may never arrive on Valve's PC storefront.Continue Reading at GameSpot",
-      "long_summary": "Not even a month after launching, Hytale players have already created Call of Duty mods for the Minecraft-like game. New clips popping up on social media showcase people lighting up opponents with a variety of guns on the iconic Black Ops 2 map, Hijacked. Hytale partner EpicNNG and content creator Dave Kratzy posted short videos on X showing off the action, with the server apparently being found at Everlands.net.The Call of Duty mod may not feature ADS or killstreaks (at least not yet), but the",
-      "long_summary_tr": "Not even a month after launching, Hytale players have already created Call of Duty mods for the Minecraft-like game. New clips popping up on social media showcase people lighting up opponents with a variety of guns on the iconic Black Ops 2 map, Hijacked. Hytale partner EpicNNG and content creator Dave Kratzy posted short videos on X showing off the action, with the server apparently being found at Everlands.net.The Call of Duty mod may not feature ADS or killstreaks (at least not yet), but the",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/hytale-now-has-call-of-duty-mods-meaning-you-can-get-fragged-on-black-ops-2s-hijacked/1100-6537762/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4642821-4635247-hytale.jpg",
-      "published_at": "2026-01-29T15:11:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "EU adds Iran's Revolutionary Guards to terrorist list",
-      "title_tr": "EU adds Iran's Revolutionary Guards to terrorist list",
-      "summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
-      "summary_tr": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
-      "long_summary": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
-      "long_summary_tr": "EU foreign policy chief Kaja Kallas says the move is a response to Tehran's deadly crackdown on protesters.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c20gypw8enjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae9/live/74d9f820-fcfe-11f0-a871-2dc7e156bd40.jpg",
-      "published_at": "2026-01-29T15:07:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Hatay Dörtyol’da çatı yangını",
-      "title_tr": "Hatay Dörtyol’da çatı yangını",
-      "summary": "Hatay’da müstakil evin çatı kısmında çıkan yangın büyümeden söndürüldü.Yangın; Dörtyol ilçesi Yeşilköy Mahallesi’nde bulunan müstakil evin çatısında yaşandı. İhbar üzerine bölgeye itfaiye ekibi sevk edildi. Alevler, itfaiye ekiplerinin hızlı müdahalesiyle kontrol altına alındı. Yangında evin çatı kısmında hasar oluştu.",
-      "summary_tr": "Hatay’da müstakil evin çatı kısmında çıkan yangın büyümeden söndürüldü.Yangın; Dörtyol ilçesi Yeşilköy Mahallesi’nde bulunan müstakil evin çatısında yaşandı. İhbar üzerine bölgeye itfaiye ekibi sevk edildi. Alevler, itfaiye ekiplerinin hızlı müdahalesiyle kontrol altına alındı. Yangında evin çatı kısmında hasar oluştu.",
-      "long_summary": "Hatay’da müstakil evin çatı kısmında çıkan yangın büyümeden söndürüldü.Yangın; Dörtyol ilçesi Yeşilköy Mahallesi’nde bulunan müstakil evin çatısında yaşandı. İhbar üzerine bölgeye itfaiye ekibi sevk edildi. Alevler, itfaiye ekiplerinin hızlı müdahalesiyle kontrol altına alındı. Yangında evin çatı kısmında hasar oluştu.",
-      "long_summary_tr": "Hatay’da müstakil evin çatı kısmında çıkan yangın büyümeden söndürüldü.Yangın; Dörtyol ilçesi Yeşilköy Mahallesi’nde bulunan müstakil evin çatısında yaşandı. İhbar üzerine bölgeye itfaiye ekibi sevk edildi. Alevler, itfaiye ekiplerinin hızlı müdahalesiyle kontrol altına alındı. Yangında evin çatı kısmında hasar oluştu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/hatay-dortyol-da-cati-yangini-1569931",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/hatay-dortyol-da-cati-yangini-1769701085-212_large.webp",
-      "published_at": "2026-01-29T15:01:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "New York borsası karışık seyirle açıldı",
-      "title_tr": "New York borsası karışık seyirle açıldı",
-      "summary": "New York borsası, güne karışık seyirle başladı. Açılışta Dow Jones endeksi yüzde 0,12 artarak 49.075,38 puana ulaştı.",
-      "summary_tr": "New York borsası, güne karışık seyirle başladı. Açılışta Dow Jones endeksi yüzde 0,12 artarak 49.075,38 puana ulaştı.",
-      "long_summary": "New York borsası, güne karışık seyirle başladı. Açılışta Dow Jones endeksi yüzde 0,12 artarak 49.075,38 puana ulaştı.",
-      "long_summary_tr": "New York borsası, güne karışık seyirle başladı. Açılışta Dow Jones endeksi yüzde 0,12 artarak 49.075,38 puana ulaştı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-karisik-seyirle-acildi-haberi-813257",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2024/06/18/new-york-borsasi-sy2u-cover-h9mg-co-xysg_cover.jpg",
-      "published_at": "2026-01-29T15:01:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "OpenText hisseleri Ayman Antoun’un gelecek CEO olarak atanmasının ardından düştü",
-      "title_tr": "OpenText hisseleri Ayman Antoun’un gelecek CEO olarak atanmasının ardından düştü",
-      "summary": "OpenText hisseleri Ayman Antoun’un gelecek CEO olarak atanmasının ardından düştü",
-      "summary_tr": "OpenText hisseleri Ayman Antoun’un gelecek CEO olarak atanmasının ardından düştü",
-      "long_summary": "OpenText hisseleri Ayman Antoun’un gelecek CEO olarak atanmasının ardından düştü",
-      "long_summary_tr": "OpenText hisseleri Ayman Antoun’un gelecek CEO olarak atanmasının ardından düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/opentext-hisseleri-ayman-antounun-gelecek-ceo-olarak-atanmasnn-ardndan-dustu-93CH-3736486",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T15:00:46+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD’de tarım dışı iş gücü verimliliği yükseldi",
-      "title_tr": "ABD’de tarım dışı iş gücü verimliliği yükseldi",
-      "summary": "ABD&#039;de tarım dışı iş gücü verimliliği, geçen yılın üçüncü çeyreğinde yüzde 4,9 artış kaydetti.",
-      "summary_tr": "ABD&#039;de tarım dışı iş gücü verimliliği, geçen yılın üçüncü çeyreğinde yüzde 4,9 artış kaydetti.",
-      "long_summary": "ABD&#039;de tarım dışı iş gücü verimliliği, geçen yılın üçüncü çeyreğinde yüzde 4,9 artış kaydetti.",
-      "long_summary_tr": "ABD&#039;de tarım dışı iş gücü verimliliği, geçen yılın üçüncü çeyreğinde yüzde 4,9 artış kaydetti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/abdde-tarim-disi-is-gucu-verimliligi-yukseldi-haberi-813258",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/29/aa1-sw20_cover.jpg",
-      "published_at": "2026-01-29T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Phasmophobia Will Finally Haunt Players With Its 1.0 Launch This Year",
-      "title_tr": "Phasmophobia Will Finally Haunt Players With Its 1.0 Launch This Year",
-      "summary": "Phasmophobia is set to have its scariest year yet, with the game's 1.0 update slated to arrive in 2026 alongside new maps, a major overhaul of character models and animations, a Switch 2 release, and more \"spooktacular surprises.\"As revealed in developer Kinetic Games 2026 Phasmophobia roadmap, the 1.0 update will feature what the developer had previously described as \"Horror 2.0\"--a collection of major changes to the core ghost-hunting part of the game and that is now included as part of the 1.0 update. Those changes range from new ghost models and visuals to additional ghost events and hallucinations.2026 roadmapThe roadmap is unfortunately lacking when it comes to specific dates or release windows. Kinetic Games didn't state when the 1.0 update will be arriving, but it did announce another major update is set to be released in the first quarter of the year--the player-character update. After the update, players will be able to customize their hunter with free cosmetics, and the game's character models themselves will be improved with new animations.Continue Reading at GameSpot",
-      "summary_tr": "Phasmophobia is set to have its scariest year yet, with the game's 1.0 update slated to arrive in 2026 alongside new maps, a major overhaul of character models and animations, a Switch 2 release, and more \"spooktacular surprises.\"As revealed in developer Kinetic Games 2026 Phasmophobia roadmap, the 1.0 update will feature what the developer had previously described as \"Horror 2.0\"--a collection of major changes to the core ghost-hunting part of the game and that is now included as part of the 1.0 update. Those changes range from new ghost models and visuals to additional ghost events and hallucinations.2026 roadmapThe roadmap is unfortunately lacking when it comes to specific dates or release windows. Kinetic Games didn't state when the 1.0 update will be arriving, but it did announce another major update is set to be released in the first quarter of the year--the player-character update. After the update, players will be able to customize their hunter with free cosmetics, and the game's character models themselves will be improved with new animations.Continue Reading at GameSpot",
-      "long_summary": "Phasmophobia is set to have its scariest year yet, with the game's 1.0 update slated to arrive in 2026 alongside new maps, a major overhaul of character models and animations, a Switch 2 release, and more \"spooktacular surprises.\"As revealed in developer Kinetic Games 2026 Phasmophobia roadmap, the 1.0 update will feature what the developer had previously described as \"Horror 2.0\"--a collection of major changes to the core ghost-hunting part of the game and that is now included as part of the",
-      "long_summary_tr": "Phasmophobia is set to have its scariest year yet, with the game's 1.0 update slated to arrive in 2026 alongside new maps, a major overhaul of character models and animations, a Switch 2 release, and more \"spooktacular surprises.\"As revealed in developer Kinetic Games 2026 Phasmophobia roadmap, the 1.0 update will feature what the developer had previously described as \"Horror 2.0\"--a collection of major changes to the core ghost-hunting part of the game and that is now included as part of the",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/phasmophobia-will-finally-haunt-players-with-its-1-0-launch-this-year/1100-6537750/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4642635-phasmophobia20261.0release.jpg",
-      "published_at": "2026-01-29T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Huntdown: Overtime Looks Like An '80s Action Movie In Video Game Form",
-      "title_tr": "Huntdown: Overtime Looks Like An '80s Action Movie In Video Game Form",
-      "summary": "Easy Trigger Games and Coffee Stain Publishing have announced Huntdown: Overtime, a roguelite prequel to their 2020 run-and-gun action game Huntdown.The game directly follows the origins of John Sawyer, one of the playable characters in Huntdown, as he's transformed into a cyborg bounty hunter. Players fight through the game's cyberpunk criminal underworld in procedurally generated runs, and upgrade John Sawyer with new cybernetics after each death.          That reveal trailer and the game at large are intentionally going for a tone that Art Director Tommy Gustafsson says is inspired by \"the badass spirits of '80s cinema,\" according to a press release. It doesn't seem like Huntdown: Overtime will take itself too seriously, and definitely stands out from its predecessor and other Coffee Stain Publishing games quite a bit.Continue Reading at GameSpot",
-      "summary_tr": "Easy Trigger Games and Coffee Stain Publishing have announced Huntdown: Overtime, a roguelite prequel to their 2020 run-and-gun action game Huntdown.The game directly follows the origins of John Sawyer, one of the playable characters in Huntdown, as he's transformed into a cyborg bounty hunter. Players fight through the game's cyberpunk criminal underworld in procedurally generated runs, and upgrade John Sawyer with new cybernetics after each death.          That reveal trailer and the game at large are intentionally going for a tone that Art Director Tommy Gustafsson says is inspired by \"the badass spirits of '80s cinema,\" according to a press release. It doesn't seem like Huntdown: Overtime will take itself too seriously, and definitely stands out from its predecessor and other Coffee Stain Publishing games quite a bit.Continue Reading at GameSpot",
-      "long_summary": "Easy Trigger Games and Coffee Stain Publishing have announced Huntdown: Overtime, a roguelite prequel to their 2020 run-and-gun action game Huntdown.The game directly follows the origins of John Sawyer, one of the playable characters in Huntdown, as he's transformed into a cyborg bounty hunter. Players fight through the game's cyberpunk criminal underworld in procedurally generated runs, and upgrade John Sawyer with new cybernetics after each death.          That reveal trailer and the game at",
-      "long_summary_tr": "Easy Trigger Games and Coffee Stain Publishing have announced Huntdown: Overtime, a roguelite prequel to their 2020 run-and-gun action game Huntdown.The game directly follows the origins of John Sawyer, one of the playable characters in Huntdown, as he's transformed into a cyborg bounty hunter. Players fight through the game's cyberpunk criminal underworld in procedurally generated runs, and upgrade John Sawyer with new cybernetics after each death.          That reveal trailer and the game at",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/huntdown-overtime-looks-like-an-80s-action-movie-in-video-game-form/1100-6537740/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1849/18498836/4642265-hdo-4k.jpg",
-      "published_at": "2026-01-29T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Audi, PHEV RS5'in bu sene geleceğini doğruladı",
-      "title_tr": "Audi, PHEV RS5'in bu sene geleceğini doğruladı",
-      "summary": "V6 yaşıyor.",
-      "summary_tr": "V6 yaşıyor.",
-      "long_summary": "V6 yaşıyor.",
-      "long_summary_tr": "V6 yaşıyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/785834/audi-phev-rs5-dogrulama/",
-      "image": "https://cdn.motor1.com/images/mgl/AknZ76/s3/audi-rs5-2026.jpg",
-      "published_at": "2026-01-29T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Gasp ettikleri telefonla dudak dolgusu yaptılar",
-      "title_tr": "Gasp ettikleri telefonla dudak dolgusu yaptılar",
-      "summary": "Samsun'da 17 yaşındaki bir kızın cep telefonunu gasp edip satan iki kadın şüphelinin bir güzellik merkezinde dudak dolgusu yaptırdıkları ortaya çıktı.",
-      "summary_tr": "Samsun'da 17 yaşındaki bir kızın cep telefonunu gasp edip satan iki kadın şüphelinin bir güzellik merkezinde dudak dolgusu yaptırdıkları ortaya çıktı.",
-      "long_summary": "Samsun'da 17 yaşındaki bir kızın cep telefonunu gasp edip satan iki kadın şüphelinin bir güzellik merkezinde dudak dolgusu yaptırdıkları ortaya çıktı.",
-      "long_summary_tr": "Samsun'da 17 yaşındaki bir kızın cep telefonunu gasp edip satan iki kadın şüphelinin bir güzellik merkezinde dudak dolgusu yaptırdıkları ortaya çıktı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/gasp-ettikleri-telefonla-dudak-dolgusu-yaptilar-1709622",
-      "image": "https://images.ntv.com.tr/images/AW630760_05-244911.jpg",
-      "published_at": "2026-01-29T14:59:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Carvana hisseleri, analistlerin kısa rapor sonrası şirketi savunmasıyla yükseldi",
-      "title_tr": "Carvana hisseleri, analistlerin kısa rapor sonrası şirketi savunmasıyla yükseldi",
-      "summary": "Carvana hisseleri, analistlerin kısa rapor sonrası şirketi savunmasıyla yükseldi",
-      "summary_tr": "Carvana hisseleri, analistlerin kısa rapor sonrası şirketi savunmasıyla yükseldi",
-      "long_summary": "Carvana hisseleri, analistlerin kısa rapor sonrası şirketi savunmasıyla yükseldi",
-      "long_summary_tr": "Carvana hisseleri, analistlerin kısa rapor sonrası şirketi savunmasıyla yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/carvana-hisseleri-analistlerin-ksa-rapor-sonras-sirketi-savunmasyla-yukseldi-3736490",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T14:58:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Olenox hisseleri CPE Gathering’i satın alma planını açıkladıktan sonra düştü",
-      "title_tr": "Olenox hisseleri CPE Gathering’i satın alma planını açıkladıktan sonra düştü",
-      "summary": "Olenox hisseleri CPE Gathering’i satın alma planını açıkladıktan sonra düştü",
-      "summary_tr": "Olenox hisseleri CPE Gathering’i satın alma planını açıkladıktan sonra düştü",
-      "long_summary": "Olenox hisseleri CPE Gathering’i satın alma planını açıkladıktan sonra düştü",
-      "long_summary_tr": "Olenox hisseleri CPE Gathering’i satın alma planını açıkladıktan sonra düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/olenox-hisseleri-cpe-gatheringi-satn-alma-plann-ackladktan-sonra-dustu-93CH-3736471",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T14:58:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Kasko ve sağlıkta fiyat artırmayacak",
-      "title_tr": "Kasko ve sağlıkta fiyat artırmayacak",
-      "summary": "Türkiye Sigorta Genel Müdürü Taha Çakmak, enflasyon altında fiyat politikası izlediklerini söyledi. Çakmak, “2026 yılının ilk çeyreğinde bireysel kasko ve sağlık ürünlerinde 2025 fiyatlarıyla devam edilecek” dedi.",
-      "summary_tr": "Türkiye Sigorta Genel Müdürü Taha Çakmak, enflasyon altında fiyat politikası izlediklerini söyledi. Çakmak, “2026 yılının ilk çeyreğinde bireysel kasko ve sağlık ürünlerinde 2025 fiyatlarıyla devam edilecek” dedi.",
-      "long_summary": "Türkiye Sigorta Genel Müdürü Taha Çakmak, enflasyon altında fiyat politikası izlediklerini söyledi. Çakmak, “2026 yılının ilk çeyreğinde bireysel kasko ve sağlık ürünlerinde 2025 fiyatlarıyla devam edilecek” dedi.",
-      "long_summary_tr": "Türkiye Sigorta Genel Müdürü Taha Çakmak, enflasyon altında fiyat politikası izlediklerini söyledi. Çakmak, “2026 yılının ilk çeyreğinde bireysel kasko ve sağlık ürünlerinde 2025 fiyatlarıyla devam edilecek” dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/kasko-ve-saglikta-fiyat-artirmayacak-haberi-813256",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/29/taha-cakmak-gm8k_cover.jpg",
-      "published_at": "2026-01-29T14:58:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İlk cemre ne zaman, nereye düşüyor?",
-      "title_tr": "İlk cemre ne zaman, nereye düşüyor?",
-      "summary": "Kışın sonuna yaklaşıldıkça cemre tarihleri yeniden gündeme geldi. Baharın ilk işareti olarak kabul edilen ilk cemre için geri sayım başladı. Vatandaşlar net tarihi öğrenmeye çalışırken sıklıkla &quot;İlk cemre ne zaman, nereye düşüyor&quot; sorusuna cevap aranıyor.",
-      "summary_tr": "Kışın sonuna yaklaşıldıkça cemre tarihleri yeniden gündeme geldi. Baharın ilk işareti olarak kabul edilen ilk cemre için geri sayım başladı. Vatandaşlar net tarihi öğrenmeye çalışırken sıklıkla &quot;İlk cemre ne zaman, nereye düşüyor&quot; sorusuna cevap aranıyor.",
-      "long_summary": "Kışın sonuna yaklaşıldıkça cemre tarihleri yeniden gündeme geldi. Baharın ilk işareti olarak kabul edilen ilk cemre için geri sayım başladı. Vatandaşlar net tarihi öğrenmeye çalışırken sıklıkla &quot;İlk cemre ne zaman, nereye düşüyor&quot; sorusuna cevap aranıyor.",
-      "long_summary_tr": "Kışın sonuna yaklaşıldıkça cemre tarihleri yeniden gündeme geldi. Baharın ilk işareti olarak kabul edilen ilk cemre için geri sayım başladı. Vatandaşlar net tarihi öğrenmeye çalışırken sıklıkla &quot;İlk cemre ne zaman, nereye düşüyor&quot; sorusuna cevap aranıyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/ilk-cemre-ne-zaman-nereye-dusuyor-haberi-813255",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/29/ilk-cemre-w40m_cover.png",
-      "published_at": "2026-01-29T14:57:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursa’daki tır kazasında hayatını kaybeden sürücü toprağa verildi",
-      "title_tr": "Bursa’daki tır kazasında hayatını kaybeden sürücü toprağa verildi",
-      "summary": "Bursa’nın İnegöl ilçesinde devrilen talaş yüklü tırın altında kalarak hayatını kaybeden sürücü, gözyaşları arasında son yolculuğuna uğurlandı.Kaza, dün saat 22.00 sıralarında İnegöl Mobilya İhtisas Organize Sanayi Bölgesi yolu üzerinde meydana geldi. Mobilya İhtisas Organize Sanayi Bölgesi’nde faaliyet gösteren bir orman ürünleri fabrikasından yüklediği talaşı ilçe merkezine taşıyan Emrah Aydın (29) yönetimindeki 16 AUC 722 plakalı tır, yokuş aşağı virajlı yolda sürücüsünün kontrolünden çıktı. Yağmur suyu kanalına düşen tır, karşı yöne devrildi. Kaza sırasında araçtan fırlayan sürücü, dorsenin altında kalarak sıkıştı. Yolun ulaşıma kapanmasıyla bölgede uzun araç kuyrukları oluştu. İhbar üzerine olay yerine 112 Acil Sağlık, jandarma ve itfaiye arama kurtarma ekipleri sevk edildi. Ekiplerin yaklaşık 30 dakika süren çalışması sonucu sıkıştığı yerden çıkarılan ağır yaralı sürücü, ambulansla İnegöl Devlet Hastanesine kaldırıldı. Aydın, burada yapılan tüm müdahalelere rağmen kurtarılamadı.\n\n\n\nGÖZYAŞLARI ARASINDA DEFNEDİLDİ\n\nEmrah Aydın'ın kısa süre önce eşinden ayrıldığı ve 2 çocuk babası olduğu öğrenildi. Aydın’ın cenazesi, Fatih Mahallesi’ndeki Fetih 1453 Camii’nde ikindi namazını müteakip kılınan cenaze namazının ardından Kent Mezarlığı’nda toprağa verildi. Cenazeye ailesi, yakınları ve çok sayıda vatandaş katıldı.",
-      "summary_tr": "Bursa’nın İnegöl ilçesinde devrilen talaş yüklü tırın altında kalarak hayatını kaybeden sürücü, gözyaşları arasında son yolculuğuna uğurlandı.Kaza, dün saat 22.00 sıralarında İnegöl Mobilya İhtisas Organize Sanayi Bölgesi yolu üzerinde meydana geldi. Mobilya İhtisas Organize Sanayi Bölgesi’nde faaliyet gösteren bir orman ürünleri fabrikasından yüklediği talaşı ilçe merkezine taşıyan Emrah Aydın (29) yönetimindeki 16 AUC 722 plakalı tır, yokuş aşağı virajlı yolda sürücüsünün kontrolünden çıktı. Yağmur suyu kanalına düşen tır, karşı yöne devrildi. Kaza sırasında araçtan fırlayan sürücü, dorsenin altında kalarak sıkıştı. Yolun ulaşıma kapanmasıyla bölgede uzun araç kuyrukları oluştu. İhbar üzerine olay yerine 112 Acil Sağlık, jandarma ve itfaiye arama kurtarma ekipleri sevk edildi. Ekiplerin yaklaşık 30 dakika süren çalışması sonucu sıkıştığı yerden çıkarılan ağır yaralı sürücü, ambulansla İnegöl Devlet Hastanesine kaldırıldı. Aydın, burada yapılan tüm müdahalelere rağmen kurtarılamadı.\n\n\n\nGÖZYAŞLARI ARASINDA DEFNEDİLDİ\n\nEmrah Aydın'ın kısa süre önce eşinden ayrıldığı ve 2 çocuk babası olduğu öğrenildi. Aydın’ın cenazesi, Fatih Mahallesi’ndeki Fetih 1453 Camii’nde ikindi namazını müteakip kılınan cenaze namazının ardından Kent Mezarlığı’nda toprağa verildi. Cenazeye ailesi, yakınları ve çok sayıda vatandaş katıldı.",
-      "long_summary": "Bursa’nın İnegöl ilçesinde devrilen talaş yüklü tırın altında kalarak hayatını kaybeden sürücü, gözyaşları arasında son yolculuğuna uğurlandı.Kaza, dün saat 22.00 sıralarında İnegöl Mobilya İhtisas Organize Sanayi Bölgesi yolu üzerinde meydana geldi. Mobilya İhtisas Organize Sanayi Bölgesi’nde faaliyet gösteren bir orman ürünleri fabrikasından yüklediği talaşı ilçe merkezine taşıyan Emrah Aydın (29) yönetimindeki 16 AUC 722 plakalı tır, yokuş aşağı virajlı yolda sürücüsünün kontrolünden çıktı.",
-      "long_summary_tr": "Bursa’nın İnegöl ilçesinde devrilen talaş yüklü tırın altında kalarak hayatını kaybeden sürücü, gözyaşları arasında son yolculuğuna uğurlandı.Kaza, dün saat 22.00 sıralarında İnegöl Mobilya İhtisas Organize Sanayi Bölgesi yolu üzerinde meydana geldi. Mobilya İhtisas Organize Sanayi Bölgesi’nde faaliyet gösteren bir orman ürünleri fabrikasından yüklediği talaşı ilçe merkezine taşıyan Emrah Aydın (29) yönetimindeki 16 AUC 722 plakalı tır, yokuş aşağı virajlı yolda sürücüsünün kontrolünden çıktı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/bursa-daki-tir-kazasinda-hayatini-kaybeden-surucu-topraga-verildi-1569929",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/bursa-daki-tir-kazasinda-hayatini-kaybeden-surucu-topraga-verildi-1769700950-137_large.webp",
-      "published_at": "2026-01-29T14:56:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Heavy gunfire and blasts heard near airport in Niger's capital",
-      "title_tr": "Heavy gunfire and blasts heard near airport in Niger's capital",
-      "summary": "The airport houses an air force base and is about 10km (six miles) from the presidential place.",
-      "summary_tr": "The airport houses an air force base and is about 10km (six miles) from the presidential place.",
-      "long_summary": "The airport houses an air force base and is about 10km (six miles) from the presidential place.",
-      "long_summary_tr": "The airport houses an air force base and is about 10km (six miles) from the presidential place.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/252c/live/b6de6170-fcdb-11f0-9c97-69939b61e7c7.jpg",
-      "published_at": "2026-01-29T14:55:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "US Senator Amy Klobuchar announces bid for Minnesota governor",
-      "title_tr": "US Senator Amy Klobuchar announces bid for Minnesota governor",
-      "summary": "She fills the void for Democrats after current Governor Tim Walz ended his re-election campaign early.",
-      "summary_tr": "She fills the void for Democrats after current Governor Tim Walz ended his re-election campaign early.",
-      "long_summary": "She fills the void for Democrats after current Governor Tim Walz ended his re-election campaign early.",
-      "long_summary_tr": "She fills the void for Democrats after current Governor Tim Walz ended his re-election campaign early.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cq8413k1xvno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c1b/live/8ac85580-fd19-11f0-833e-6bf0186607ca.jpg",
-      "published_at": "2026-01-29T14:55:35+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "America can strike anywhere — but can it stay anywhere?",
-      "title_tr": "America can strike anywhere — but can it stay anywhere?",
-      "summary": "Perhaps most troubling, the National Defense Strategy ties its framework explicitly to “President Trump’s vision,” mentioning him 47 times across 24 pages.",
-      "summary_tr": "Perhaps most troubling, the National Defense Strategy ties its framework explicitly to “President Trump’s vision,” mentioning him 47 times across 24 pages.",
-      "long_summary": "Perhaps most troubling, the National Defense Strategy ties its framework explicitly to “President Trump’s vision,” mentioning him 47 times across 24 pages.",
-      "long_summary_tr": "Perhaps most troubling, the National Defense Strategy ties its framework explicitly to “President Trump’s vision,” mentioning him 47 times across 24 pages.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/opinion/2026/01/29/america-can-strike-anywhere-but-can-it-stay-anywhere/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KJBTDAUX2NB35FMR6MS5YJ6ALI.jpg",
-      "published_at": "2026-01-29T14:55:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "1.040 TL Değerindeki Fallout 76, Bir Hafta Boyunca Ücretsiz! (Fırsatı Kaçırmayın)",
-      "title_tr": "1.040 TL Değerindeki Fallout 76, Bir Hafta Boyunca Ücretsiz! (Fırsatı Kaçırmayın)",
-      "summary": "Bethesda'nın sevilen serisinin son oyunu Fallout 76, bir hafta boyunca özel ücretsiz bir şekilde oynanabilecek. Bu süreçte oyun da ciddi indirime girmiş durumda.",
-      "summary_tr": "Bethesda'nın sevilen serisinin son oyunu Fallout 76, bir hafta boyunca özel ücretsiz bir şekilde oynanabilecek. Bu süreçte oyun da ciddi indirime girmiş durumda.",
-      "long_summary": "Bethesda'nın sevilen serisinin son oyunu Fallout 76, bir hafta boyunca özel ücretsiz bir şekilde oynanabilecek. Bu süreçte oyun da ciddi indirime girmiş durumda.",
-      "long_summary_tr": "Bethesda'nın sevilen serisinin son oyunu Fallout 76, bir hafta boyunca özel ücretsiz bir şekilde oynanabilecek. Bu süreçte oyun da ciddi indirime girmiş durumda.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/fallout-76-bu-hafta-sonu-ucretsiz-h211666.html",
-      "image": "https://imgrosetta.webtekno.com/file/647277/647277-640xauto.jpg",
-      "published_at": "2026-01-29T14:53:43+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Satellogic hisseleri Arnavutluk’un uydu izleme sözleşmesini uzatmasının ardından yükseldi",
-      "title_tr": "Satellogic hisseleri Arnavutluk’un uydu izleme sözleşmesini uzatmasının ardından yükseldi",
-      "summary": "Satellogic hisseleri Arnavutluk’un uydu izleme sözleşmesini uzatmasının ardından yükseldi",
-      "summary_tr": "Satellogic hisseleri Arnavutluk’un uydu izleme sözleşmesini uzatmasının ardından yükseldi",
-      "long_summary": "Satellogic hisseleri Arnavutluk’un uydu izleme sözleşmesini uzatmasının ardından yükseldi",
-      "long_summary_tr": "Satellogic hisseleri Arnavutluk’un uydu izleme sözleşmesini uzatmasının ardından yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/satellogic-hisseleri-arnavutlukun-uydu-izleme-sozlesmesini-uzatmasnn-ardndan-yukseldi-93CH-3736446",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T14:53:31+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Lowental Hybrid to provide Israel’s Elbit with propulsion systems for tactical UAVs",
-      "title_tr": "Lowental Hybrid to provide Israel’s Elbit with propulsion systems for tactical UAVs",
-      "summary": "“This achievement reflects how close cooperation between innovative startups and established defense leaders can accelerate meaningful progress in the UAV domain,” CEO of Lowental Hybrid Doron Fridman told Breaking Defense.",
-      "summary_tr": "“This achievement reflects how close cooperation between innovative startups and established defense leaders can accelerate meaningful progress in the UAV domain,” CEO of Lowental Hybrid Doron Fridman told Breaking Defense.",
-      "long_summary": "“This achievement reflects how close cooperation between innovative startups and established defense leaders can accelerate meaningful progress in the UAV domain,” CEO of Lowental Hybrid Doron Fridman told Breaking Defense.",
-      "long_summary_tr": "“This achievement reflects how close cooperation between innovative startups and established defense leaders can accelerate meaningful progress in the UAV domain,” CEO of Lowental Hybrid Doron Fridman told Breaking Defense.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/01/lowental-hybrid-to-provide-israels-elbit-systems-with-propulsion-systems-for-tactical-uavs/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/LH-01-Lowental-Hybrid-Propulsion-System-2-scaled-e1769633107446-1024x577.jpeg",
-      "published_at": "2026-01-29T14:53:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Innodata hisseleri Palantir veri mühendisliği anlaşmasıyla yükseldi",
-      "title_tr": "Innodata hisseleri Palantir veri mühendisliği anlaşmasıyla yükseldi",
-      "summary": "Innodata hisseleri Palantir veri mühendisliği anlaşmasıyla yükseldi",
-      "summary_tr": "Innodata hisseleri Palantir veri mühendisliği anlaşmasıyla yükseldi",
-      "long_summary": "Innodata hisseleri Palantir veri mühendisliği anlaşmasıyla yükseldi",
-      "long_summary_tr": "Innodata hisseleri Palantir veri mühendisliği anlaşmasıyla yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/innodata-hisseleri-palantir-veri-muhendisligi-anlasmasyla-yukseldi-93CH-3736433",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T14:51:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bitlis’te iki tır çarpıştı",
-      "title_tr": "Bitlis’te iki tır çarpıştı",
-      "summary": "Bitlis’te iki tırın çarpışması sonucu maddi hasarlı kaza meydana geldi.Kaza, öğle saatlerinde Bitlis-Tatvan kara yolu üzerindeki Rahva mevkiinde bulunan trafik ışıklarında yaşandı. Sürücüsü henüz öğrenilemeyen 33 ADC 933 plakalı tır, ışıklarda bekleyen ve sürücüsü ile plakası belirlenemeyen başka bir tıra arkadan çarptı. Kazada şans eseri yaralanan olmazken, her iki araçta da maddi hasar oluştu. İhbar üzerine olay yerine sevk edilen polis ekipleri, kazayla ilgili inceleme başlattı.",
-      "summary_tr": "Bitlis’te iki tırın çarpışması sonucu maddi hasarlı kaza meydana geldi.Kaza, öğle saatlerinde Bitlis-Tatvan kara yolu üzerindeki Rahva mevkiinde bulunan trafik ışıklarında yaşandı. Sürücüsü henüz öğrenilemeyen 33 ADC 933 plakalı tır, ışıklarda bekleyen ve sürücüsü ile plakası belirlenemeyen başka bir tıra arkadan çarptı. Kazada şans eseri yaralanan olmazken, her iki araçta da maddi hasar oluştu. İhbar üzerine olay yerine sevk edilen polis ekipleri, kazayla ilgili inceleme başlattı.",
-      "long_summary": "Bitlis’te iki tırın çarpışması sonucu maddi hasarlı kaza meydana geldi.Kaza, öğle saatlerinde Bitlis-Tatvan kara yolu üzerindeki Rahva mevkiinde bulunan trafik ışıklarında yaşandı. Sürücüsü henüz öğrenilemeyen 33 ADC 933 plakalı tır, ışıklarda bekleyen ve sürücüsü ile plakası belirlenemeyen başka bir tıra arkadan çarptı. Kazada şans eseri yaralanan olmazken, her iki araçta da maddi hasar oluştu. İhbar üzerine olay yerine sevk edilen polis ekipleri, kazayla ilgili inceleme başlattı.",
-      "long_summary_tr": "Bitlis’te iki tırın çarpışması sonucu maddi hasarlı kaza meydana geldi.Kaza, öğle saatlerinde Bitlis-Tatvan kara yolu üzerindeki Rahva mevkiinde bulunan trafik ışıklarında yaşandı. Sürücüsü henüz öğrenilemeyen 33 ADC 933 plakalı tır, ışıklarda bekleyen ve sürücüsü ile plakası belirlenemeyen başka bir tıra arkadan çarptı. Kazada şans eseri yaralanan olmazken, her iki araçta da maddi hasar oluştu. İhbar üzerine olay yerine sevk edilen polis ekipleri, kazayla ilgili inceleme başlattı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/bitlis-te-iki-tir-carpisti-1569927",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/bitlis-te-iki-tir-carpisti-1769700718-232_large.webp",
-      "published_at": "2026-01-29T14:51:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "JPM, Barrick Mining’i Ağırlık Verin olarak başlatıyor, Agnico Eagle’a karşı değerleme farkını işaret ediyor",
-      "title_tr": "JPM, Barrick Mining’i Ağırlık Verin olarak başlatıyor, Agnico Eagle’a karşı değerleme farkını işaret ediyor",
-      "summary": "JPM, Barrick Mining’i Ağırlık Verin olarak başlatıyor, Agnico Eagle’a karşı değerleme farkını işaret ediyor",
-      "summary_tr": "JPM, Barrick Mining’i Ağırlık Verin olarak başlatıyor, Agnico Eagle’a karşı değerleme farkını işaret ediyor",
-      "long_summary": "JPM, Barrick Mining’i Ağırlık Verin olarak başlatıyor, Agnico Eagle’a karşı değerleme farkını işaret ediyor",
-      "long_summary_tr": "JPM, Barrick Mining’i Ağırlık Verin olarak başlatıyor, Agnico Eagle’a karşı değerleme farkını işaret ediyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/jpm-barrick-miningi-agrlk-verin-olarak-baslatyor-agnico-eaglea-kars-degerleme-farkn-isaret-ediyor-3736463",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-01-29T14:48:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Aydın Söke'de dolandırıcılık suçundan aranan hükümlü yakalandı",
-      "title_tr": "Aydın Söke'de dolandırıcılık suçundan aranan hükümlü yakalandı",
-      "summary": "Aydın'ın Söke ilçesinde dolandırıcılık suçundan hakkında 5 yıl kesinleşmiş hapis cezası bulunan bir hükümlü jandarma ekipleri, tarafından yakalandı.Aydın İl Jandarma Komutanlığı Söke İlçe Jandarma Komutanlığı ekipleri tarafından aranan şahısların yakalanmasına yönelik yürütülen çalışmalar aralıksız sürüyor. Edinilen bilgiye göre, Söke İlçe Jandarma Komutanlığı ekipleri tarafından gerçekleştirilen çalışmada, dolandırıcılık suçundan aranan K.A. (56) isimli şahıs yakalanarak gözaltına alındı. Jandarmadaki işlemleri tamamlanan hükümlü, Kapalı Ceza İnfaz Kurumuna teslim edildi.",
-      "summary_tr": "Aydın'ın Söke ilçesinde dolandırıcılık suçundan hakkında 5 yıl kesinleşmiş hapis cezası bulunan bir hükümlü jandarma ekipleri, tarafından yakalandı.Aydın İl Jandarma Komutanlığı Söke İlçe Jandarma Komutanlığı ekipleri tarafından aranan şahısların yakalanmasına yönelik yürütülen çalışmalar aralıksız sürüyor. Edinilen bilgiye göre, Söke İlçe Jandarma Komutanlığı ekipleri tarafından gerçekleştirilen çalışmada, dolandırıcılık suçundan aranan K.A. (56) isimli şahıs yakalanarak gözaltına alındı. Jandarmadaki işlemleri tamamlanan hükümlü, Kapalı Ceza İnfaz Kurumuna teslim edildi.",
-      "long_summary": "Aydın'ın Söke ilçesinde dolandırıcılık suçundan hakkında 5 yıl kesinleşmiş hapis cezası bulunan bir hükümlü jandarma ekipleri, tarafından yakalandı.Aydın İl Jandarma Komutanlığı Söke İlçe Jandarma Komutanlığı ekipleri tarafından aranan şahısların yakalanmasına yönelik yürütülen çalışmalar aralıksız sürüyor. Edinilen bilgiye göre, Söke İlçe Jandarma Komutanlığı ekipleri tarafından gerçekleştirilen çalışmada, dolandırıcılık suçundan aranan K.A. (56) isimli şahıs yakalanarak gözaltına alındı.",
-      "long_summary_tr": "Aydın'ın Söke ilçesinde dolandırıcılık suçundan hakkında 5 yıl kesinleşmiş hapis cezası bulunan bir hükümlü jandarma ekipleri, tarafından yakalandı.Aydın İl Jandarma Komutanlığı Söke İlçe Jandarma Komutanlığı ekipleri tarafından aranan şahısların yakalanmasına yönelik yürütülen çalışmalar aralıksız sürüyor. Edinilen bilgiye göre, Söke İlçe Jandarma Komutanlığı ekipleri tarafından gerçekleştirilen çalışmada, dolandırıcılık suçundan aranan K.A. (56) isimli şahıs yakalanarak gözaltına alındı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/aydin-soke-de-dolandiricilik-sucundan-aranan-hukumlu-yakalandi-1569925",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/aydin-soke-de-dolandiricilik-sucundan-aranan-hukumlu-yakalandi-1769700676-649_large.webp",
-      "published_at": "2026-01-29T14:47:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Return To Silent Hill Director Wanted A Longer Film, Hopes Fans See It Someday",
-      "title_tr": "Return To Silent Hill Director Wanted A Longer Film, Hopes Fans See It Someday",
-      "summary": "Return to Silent Hill director Christophe Gans has confirmed that an alternate, longer cut of the film exists, but there's no guarantee this version will see the light of day.That's according to a fan who attended the Return to Silent Hill premiere and a Q&A session with Gans (via Reddit), who says the filmmaker originally submitted a longer version of the movie. Gans described this cut as longer and allowing the story more room to breathe, but he was instructed by his producers to trim the movie down to two hours. This version also gave a key character from Silent Hill 2--the game the movie is adapted from--more screen time and a death scene.According to the fan, \"Gans said he struggled to find the right place for it in the edit,\" and it's unclear if the scene will appear in a potential director's cut version of Return to Silent Hill. The film has gotten off to a poor start at the box office, grossing just $3.2 million from US theaters. This pales in comparison to the opening US weekends for 2006's Silent Hill ($20.2 million) and Silent Hill: Revelation ($8 million), and reviews have not been kind.Continue Reading at GameSpot",
-      "summary_tr": "Return to Silent Hill director Christophe Gans has confirmed that an alternate, longer cut of the film exists, but there's no guarantee this version will see the light of day.That's according to a fan who attended the Return to Silent Hill premiere and a Q&A session with Gans (via Reddit), who says the filmmaker originally submitted a longer version of the movie. Gans described this cut as longer and allowing the story more room to breathe, but he was instructed by his producers to trim the movie down to two hours. This version also gave a key character from Silent Hill 2--the game the movie is adapted from--more screen time and a death scene.According to the fan, \"Gans said he struggled to find the right place for it in the edit,\" and it's unclear if the scene will appear in a potential director's cut version of Return to Silent Hill. The film has gotten off to a poor start at the box office, grossing just $3.2 million from US theaters. This pales in comparison to the opening US weekends for 2006's Silent Hill ($20.2 million) and Silent Hill: Revelation ($8 million), and reviews have not been kind.Continue Reading at GameSpot",
-      "long_summary": "Return to Silent Hill director Christophe Gans has confirmed that an alternate, longer cut of the film exists, but there's no guarantee this version will see the light of day.That's according to a fan who attended the Return to Silent Hill premiere and a Q&A session with Gans (via Reddit), who says the filmmaker originally submitted a longer version of the movie. Gans described this cut as longer and allowing the story more room to breathe, but he was instructed by his producers to trim the",
-      "long_summary_tr": "Return to Silent Hill director Christophe Gans has confirmed that an alternate, longer cut of the film exists, but there's no guarantee this version will see the light of day.That's according to a fan who attended the Return to Silent Hill premiere and a Q&A session with Gans (via Reddit), who says the filmmaker originally submitted a longer version of the movie. Gans described this cut as longer and allowing the story more room to breathe, but he was instructed by his producers to trim the",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/return-to-silent-hill-director-wanted-a-longer-film-hopes-fans-see-it-someday/1100-6537760/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4642806-silent-hill.jpg",
-      "published_at": "2026-01-29T14:45:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Samsun'da gümüşçünün vitrin camını kırıp altın zannettiği bilezikleri çaldı",
-      "title_tr": "Samsun'da gümüşçünün vitrin camını kırıp altın zannettiği bilezikleri çaldı",
-      "summary": "Samsun’da bir gümüşçünün vitrin camını kırarak, altın zannettiği 3 bileziği çalan şahıs yakalanarak tutuklandı.Olay, İlkadım ilçesi Kale Mahallesi’nde bulunan bir gümüşçüde sabaha karşı meydana geldi. Edinilen bilgiye göre, kimliği belirsiz bir şahıs demirle vitrinin camını kırıp, altın sandığı 3 adet altın kaplama bileziği alarak kaçtı. İş yeri sahibi hırsızlık olayını polise bildirdi. İhbar üzerine Samsun Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Hırsızlık Büro Amirliği ekiplerince yapılan çalışmalarda, hırsızlık olayını D.O.‘nun (19) gerçekleştirdiği tespit edildi. Gözaltına alınan şüpheli, emniyetteki işlemlerinin ardından bugün Samsun Adliyesine sevk edildi. Nöbetçi mahkemeye çıkarılan zanlı, tutuklanarak Samsun T Tipi Kapalı Cezaevi’ne gönderildi.",
-      "summary_tr": "Samsun’da bir gümüşçünün vitrin camını kırarak, altın zannettiği 3 bileziği çalan şahıs yakalanarak tutuklandı.Olay, İlkadım ilçesi Kale Mahallesi’nde bulunan bir gümüşçüde sabaha karşı meydana geldi. Edinilen bilgiye göre, kimliği belirsiz bir şahıs demirle vitrinin camını kırıp, altın sandığı 3 adet altın kaplama bileziği alarak kaçtı. İş yeri sahibi hırsızlık olayını polise bildirdi. İhbar üzerine Samsun Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Hırsızlık Büro Amirliği ekiplerince yapılan çalışmalarda, hırsızlık olayını D.O.‘nun (19) gerçekleştirdiği tespit edildi. Gözaltına alınan şüpheli, emniyetteki işlemlerinin ardından bugün Samsun Adliyesine sevk edildi. Nöbetçi mahkemeye çıkarılan zanlı, tutuklanarak Samsun T Tipi Kapalı Cezaevi’ne gönderildi.",
-      "long_summary": "Samsun’da bir gümüşçünün vitrin camını kırarak, altın zannettiği 3 bileziği çalan şahıs yakalanarak tutuklandı.Olay, İlkadım ilçesi Kale Mahallesi’nde bulunan bir gümüşçüde sabaha karşı meydana geldi. Edinilen bilgiye göre, kimliği belirsiz bir şahıs demirle vitrinin camını kırıp, altın sandığı 3 adet altın kaplama bileziği alarak kaçtı. İş yeri sahibi hırsızlık olayını polise bildirdi. İhbar üzerine Samsun Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Hırsızlık Büro Amirliği ekiplerince yapılan",
-      "long_summary_tr": "Samsun’da bir gümüşçünün vitrin camını kırarak, altın zannettiği 3 bileziği çalan şahıs yakalanarak tutuklandı.Olay, İlkadım ilçesi Kale Mahallesi’nde bulunan bir gümüşçüde sabaha karşı meydana geldi. Edinilen bilgiye göre, kimliği belirsiz bir şahıs demirle vitrinin camını kırıp, altın sandığı 3 adet altın kaplama bileziği alarak kaçtı. İş yeri sahibi hırsızlık olayını polise bildirdi. İhbar üzerine Samsun Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Hırsızlık Büro Amirliği ekiplerince yapılan",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/samsun-da-gumuscunun-vitrin-camini-kirip-altin-zannettigi-bilezikleri-caldi-1569923",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/01/29/samsun-da-gumuscunun-vitrin-camini-kirip-altin-zannettigi-bilezikleri-caldi-1769700401-629_large.webp",
-      "published_at": "2026-01-29T14:43:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Yabancılar geçen hafta 1,3 milyar dolarlık tahvil aldı",
-      "title_tr": "Yabancılar geçen hafta 1,3 milyar dolarlık tahvil aldı",
-      "summary": "Yabancılar geçen hafta 1,3 milyar dolarlık tahvil aldı",
-      "summary_tr": "Yabancılar geçen hafta 1,3 milyar dolarlık tahvil aldı",
-      "long_summary": "Yabancılar geçen hafta 1,3 milyar dolarlık tahvil aldı",
-      "long_summary_tr": "Yabancılar geçen hafta 1,3 milyar dolarlık tahvil aldı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/yabancilar-gecen-hafta-1-3-milyar-dolarlik-tahvil-aldi-3767735",
-      "image": null,
-      "published_at": "2026-01-29T14:40:31+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Yabancılar geçen hafta 491 milyon dolarlık hisse aldı",
-      "title_tr": "Yabancılar geçen hafta 491 milyon dolarlık hisse aldı",
-      "summary": "Yabancılar geçen hafta 491 milyon dolarlık hisse aldı",
-      "summary_tr": "Yabancılar geçen hafta 491 milyon dolarlık hisse aldı",
-      "long_summary": "Yabancılar geçen hafta 491 milyon dolarlık hisse aldı",
-      "long_summary_tr": "Yabancılar geçen hafta 491 milyon dolarlık hisse aldı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/yabancilar-gecen-hafta-491-milyon-dolarlik-hisse-aldi-3767734",
-      "image": null,
-      "published_at": "2026-01-29T14:40:29+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "TCMB'nin altın rezervi 129,4 milyar dolara ulaştı",
-      "title_tr": "TCMB'nin altın rezervi 129,4 milyar dolara ulaştı",
-      "summary": "TCMB'nin altın rezervi 129,4 milyar dolara ulaştı",
-      "summary_tr": "TCMB'nin altın rezervi 129,4 milyar dolara ulaştı",
-      "long_summary": "TCMB'nin altın rezervi 129,4 milyar dolara ulaştı",
-      "long_summary_tr": "TCMB'nin altın rezervi 129,4 milyar dolara ulaştı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/tcmb-nin-altin-rezervi-129-4-milyar-dolara-ulasti-3767733",
-      "image": null,
-      "published_at": "2026-01-29T14:40:27+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Rezervlerde rekor yükseliş sürüyor",
-      "title_tr": "Rezervlerde rekor yükseliş sürüyor",
-      "summary": "Rezervlerde rekor yükseliş sürüyor",
-      "summary_tr": "Rezervlerde rekor yükseliş sürüyor",
-      "long_summary": "Rezervlerde rekor yükseliş sürüyor",
-      "long_summary_tr": "Rezervlerde rekor yükseliş sürüyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/rezervlerde-rekor-yukselis-suruyor-3767732",
-      "image": null,
-      "published_at": "2026-01-29T14:40:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Doların küresel rezervlerdeki payı geriliyor",
-      "title_tr": "Doların küresel rezervlerdeki payı geriliyor",
-      "summary": "Doların küresel rezervlerdeki payı geriliyor",
-      "summary_tr": "Doların küresel rezervlerdeki payı geriliyor",
-      "long_summary": "Doların küresel rezervlerdeki payı geriliyor",
-      "long_summary_tr": "Doların küresel rezervlerdeki payı geriliyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/dolarin-kuresel-rezervlerdeki-payi-geriliyor-3767731",
-      "image": null,
-      "published_at": "2026-01-29T14:40:25+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Döviz mevduatları geçen hafta 1,8 milyar dolar arttı",
-      "title_tr": "Döviz mevduatları geçen hafta 1,8 milyar dolar arttı",
-      "summary": "Döviz mevduatları geçen hafta 1,8 milyar dolar arttı",
-      "summary_tr": "Döviz mevduatları geçen hafta 1,8 milyar dolar arttı",
-      "long_summary": "Döviz mevduatları geçen hafta 1,8 milyar dolar arttı",
-      "long_summary_tr": "Döviz mevduatları geçen hafta 1,8 milyar dolar arttı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/doviz-mevduatlari-gecen-hafta-1-8-milyar-dolar-artti-3767730",
-      "image": null,
-      "published_at": "2026-01-29T14:40:24+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "KKM toplamı 3,2 milyar TL'ye geriledi",
-      "title_tr": "KKM toplamı 3,2 milyar TL'ye geriledi",
-      "summary": "KKM toplamı 3,2 milyar TL'ye geriledi",
-      "summary_tr": "KKM toplamı 3,2 milyar TL'ye geriledi",
-      "long_summary": "KKM toplamı 3,2 milyar TL'ye geriledi",
-      "long_summary_tr": "KKM toplamı 3,2 milyar TL'ye geriledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/kkm-toplami-3-2-milyar-tl-ye-geriledi-3767729",
-      "image": null,
-      "published_at": "2026-01-29T14:40:24+00:00"
+      "url": "https://www.skysports.com/football/live-blog/12040/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-brentford-news-club_7039245.jpg?20251002155849",
+      "published_at": "2026-01-29T15:27:00+00:00"
     }
   ]
 }
