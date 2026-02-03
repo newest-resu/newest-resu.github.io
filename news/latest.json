@@ -1,49 +1,93 @@
 {
-  "updated_at": "2026-02-03T19:09:59.123381+00:00",
+  "updated_at": "2026-02-03T20:52:14.210781+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Spain announces plans to ban social media for under-16s",
+      "title_tr": "Spain announces plans to ban social media for under-16s",
+      "summary": "Prime Minister Pedro Sánchez says the move will protect children from the \"digital Wild West\".",
+      "summary_tr": "Prime Minister Pedro Sánchez says the move will protect children from the \"digital Wild West\".",
+      "long_summary": "Prime Minister Pedro Sánchez says the move will protect children from the \"digital Wild West\".",
+      "long_summary_tr": "Prime Minister Pedro Sánchez says the move will protect children from the \"digital Wild West\".",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c5y2nddvmryo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2967/live/4c998620-012a-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-03T20:32:33+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Everything We Know About BTS’s New Concert Film and Documentary",
+      "title_tr": "Everything We Know About BTS’s New Concert Film and Documentary",
+      "summary": "Everything We Know About BTS’s New Concert Film and Documentary",
+      "summary_tr": "Everything We Know About BTS’s New Concert Film and Documentary",
+      "long_summary": "Everything We Know About BTS’s New Concert Film and Documentary",
+      "long_summary_tr": "Everything We Know About BTS’s New Concert Film and Documentary",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/music/a70236848/bts-concert-film-documentary-news-date-details/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/jimin-jungkook-suga-j-hope-and-v-of-bts-perform-onstage-news-photo-1770148679.pjpeg",
+      "published_at": "2026-02-03T20:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Nvidia CEO’su OpenAI’a yatırım planının yolunda olduğunu söyledi",
+      "title_tr": "Nvidia CEO’su OpenAI’a yatırım planının yolunda olduğunu söyledi",
+      "summary": "Nvidia CEO’su OpenAI’a yatırım planının yolunda olduğunu söyledi",
+      "summary_tr": "Nvidia CEO’su OpenAI’a yatırım planının yolunda olduğunu söyledi",
+      "long_summary": "Nvidia CEO’su OpenAI’a yatırım planının yolunda olduğunu söyledi",
+      "long_summary_tr": "Nvidia CEO’su OpenAI’a yatırım planının yolunda olduğunu söyledi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/nvidia-ceosu-openaia-yatrm-plannn-yolunda-oldugunu-soyledi-93CH-3743928",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-03T20:27:32+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Savunma / Askeri",
       "category_slug": "savunma_askeri",
       "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Army seeks to award self-propelled howitzer contract by July, prototype request coming soon",
-      "title_tr": "Army seeks to award self-propelled howitzer contract by July, prototype request coming soon",
-      "summary": "The race to get the new combat vehicle was originally planned to kick off about a year ago, but was pushed off due to the Army Transformation Initiative.",
-      "summary_tr": "The race to get the new combat vehicle was originally planned to kick off about a year ago, but was pushed off due to the Army Transformation Initiative.",
-      "long_summary": "The race to get the new combat vehicle was originally planned to kick off about a year ago, but was pushed off due to the Army Transformation Initiative.",
-      "long_summary_tr": "The race to get the new combat vehicle was originally planned to kick off about a year ago, but was pushed off due to the Army Transformation Initiative.",
+      "source": "Defense News",
+      "title": "Pentagon taps 25 firms for small, cheap attack drone competition",
+      "title_tr": "Pentagon taps 25 firms for small, cheap attack drone competition",
+      "summary": "The Pentagon eventually wants to field swarms of low-cost, one-way attack drones that cost just a few thousand dollars apiece.",
+      "summary_tr": "The Pentagon eventually wants to field swarms of low-cost, one-way attack drones that cost just a few thousand dollars apiece.",
+      "long_summary": "The Pentagon eventually wants to field swarms of low-cost, one-way attack drones that cost just a few thousand dollars apiece.",
+      "long_summary_tr": "The Pentagon eventually wants to field swarms of low-cost, one-way attack drones that cost just a few thousand dollars apiece.",
       "why_important": [
         "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
         "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://breakingdefense.com/2026/02/army-seeks-to-award-self-propelled-howitzer-contract-by-july-prototype-request-coming-soon/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/260203_DVIDS_paladin_howitzer_9460373-e1770144363577-1024x577.jpg",
-      "published_at": "2026-02-03T19:02:41+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD, Umman Denizi'nde İran İHA'sını Düşürdü",
-      "title_tr": "ABD, Umman Denizi'nde İran İHA'sını Düşürdü",
-      "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Umman Denizi&#039;nde görev yapan USS Abraham Lincoln uçak gemisine yaklaşan İran’a ait bir insansız hava aracının (İHA) düşürüldüğünü duyurdu.",
-      "summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Umman Denizi&#039;nde görev yapan USS Abraham Lincoln uçak gemisine yaklaşan İran’a ait bir insansız hava aracının (İHA) düşürüldüğünü duyurdu.",
-      "long_summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Umman Denizi&#039;nde görev yapan USS Abraham Lincoln uçak gemisine yaklaşan İran’a ait bir insansız hava aracının (İHA) düşürüldüğünü duyurdu.",
-      "long_summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), Umman Denizi&#039;nde görev yapan USS Abraham Lincoln uçak gemisine yaklaşan İran’a ait bir insansız hava aracının (İHA) düşürüldüğünü duyurdu.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/abd-umman-denizinde-iran-ihasini-dusurdu-haberi-813825",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/fuze-aiin_cover.jpg",
-      "published_at": "2026-02-03T18:54:00+00:00"
+      "url": "https://www.defensenews.com/air/2026/02/03/pentagon-taps-25-firms-for-small-cheap-attack-drone-competition/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NO7IHVL5SJAHVBELYC44SL3X6M.jpg",
+      "published_at": "2026-02-03T20:25:11+00:00"
     },
     {
       "origin": "yabanci",
@@ -51,8 +95,8 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "LIV get world ranking points amid 'changing landscape'",
-      "title_tr": "LIV get world ranking points amid 'changing landscape'",
+      "title": "LIV hits out despite getting world ranking points",
+      "title_tr": "LIV hits out despite getting world ranking points",
       "summary": "The top 10 finishers at an event will be awarded points because the Official World Golf Rankings \"recognises a number of areas where LIV does not meet the eligibility standards\".",
       "summary_tr": "The top 10 finishers at an event will be awarded points because the Official World Golf Rankings \"recognises a number of areas where LIV does not meet the eligibility standards\".",
       "long_summary": "The top 10 finishers at an event will be awarded points because the Official World Golf Rankings \"recognises a number of areas where LIV does not meet the eligibility standards\".",
@@ -65,425 +109,7 @@
       ],
       "url": "https://www.bbc.com/sport/golf/articles/c338x533zyeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f8/live/ccecfcd0-012f-11f1-b7e1-afb6d0884c18.png",
-      "published_at": "2026-02-03T18:52:09+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Sony Files Patent For Generative-AI Podcast Starring Game Characters",
-      "title_tr": "Sony Files Patent For Generative-AI Podcast Starring Game Characters",
-      "summary": "Putting AI elements in games has already become a bigger part of the industry, and now Sony wants AI to talk about games as well. Sony has filed a patent for a generative AI podcast that would be starring its video game characters.The complete patent listing for Sony's LLM-based generative podcast for gamers puts forth some ambitious ideas even though it doesn't settle every issue that may arise from them. According to the listing, Sony sees these podcasts as a way to reach individual gamers with news tailored to their tastes that comes in the form of an audio or video podcast hosted by the main character or characters of a game recently played on the console.Deepfake voices will sidestep the need for actors, as the LLM creates banter and a news-like program that delivers tips, gaming news, and more games of interest to the player in question. The patent doesn't state if the generative podcast would be limited to Sony's proprietary characters or if it would extend to characters from third-party games.Continue Reading at GameSpot",
-      "summary_tr": "Putting AI elements in games has already become a bigger part of the industry, and now Sony wants AI to talk about games as well. Sony has filed a patent for a generative AI podcast that would be starring its video game characters.The complete patent listing for Sony's LLM-based generative podcast for gamers puts forth some ambitious ideas even though it doesn't settle every issue that may arise from them. According to the listing, Sony sees these podcasts as a way to reach individual gamers with news tailored to their tastes that comes in the form of an audio or video podcast hosted by the main character or characters of a game recently played on the console.Deepfake voices will sidestep the need for actors, as the LLM creates banter and a news-like program that delivers tips, gaming news, and more games of interest to the player in question. The patent doesn't state if the generative podcast would be limited to Sony's proprietary characters or if it would extend to characters from third-party games.Continue Reading at GameSpot",
-      "long_summary": "Putting AI elements in games has already become a bigger part of the industry, and now Sony wants AI to talk about games as well. Sony has filed a patent for a generative AI podcast that would be starring its video game characters.The complete patent listing for Sony's LLM-based generative podcast for gamers puts forth some ambitious ideas even though it doesn't settle every issue that may arise from them. According to the listing, Sony sees these podcasts as a way to reach individual gamers",
-      "long_summary_tr": "Putting AI elements in games has already become a bigger part of the industry, and now Sony wants AI to talk about games as well. Sony has filed a patent for a generative AI podcast that would be starring its video game characters.The complete patent listing for Sony's LLM-based generative podcast for gamers puts forth some ambitious ideas even though it doesn't settle every issue that may arise from them. According to the listing, Sony sees these podcasts as a way to reach individual gamers",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/sony-files-patent-for-generative-ai-podcast-starring-game-characters/1100-6537882/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4645230-playstationstudios.jpg",
-      "published_at": "2026-02-03T18:46:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "US says it shot down Iranian drone flying towards aircraft carrier",
-      "title_tr": "US says it shot down Iranian drone flying towards aircraft carrier",
-      "summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
-      "summary_tr": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
-      "long_summary": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
-      "long_summary_tr": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee7b/live/4ad86aa0-0129-11f1-9f22-c9b288f3a22b.jpg",
-      "published_at": "2026-02-03T18:45:14+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "LIV Golf criticises 'unprecedented' ruling to limit world ranking points to top 10",
-      "title_tr": "LIV Golf criticises 'unprecedented' ruling to limit world ranking points to top 10",
-      "summary": "LIV Golf has criticised what it says is an \"unprecedented\" ruling by Official World Golf Ranking to award ranking points only to the top 10 finishers at the series' events in 2026.",
-      "summary_tr": "LIV Golf has criticised what it says is an \"unprecedented\" ruling by Official World Golf Ranking to award ranking points only to the top 10 finishers at the series' events in 2026.",
-      "long_summary": "LIV Golf has criticised what it says is an \"unprecedented\" ruling by Official World Golf Ranking to award ranking points only to the top 10 finishers at the series' events in 2026.",
-      "long_summary_tr": "LIV Golf has criticised what it says is an \"unprecedented\" ruling by Official World Golf Ranking to award ranking points only to the top 10 finishers at the series' events in 2026.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/golf/news/12040/13502860/liv-golf-criticises-official-world-golf-ranking-decision-to-award-ranking-points-only-to-top-10-finishers-at-2026-events",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-jon-rahm-tyrrell_7154756.jpg?20260203190243",
-      "published_at": "2026-02-03T18:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Molly Gordon on Directing Her Next Film, Her Dream Broadway Role, and Her New Theory Campaign",
-      "title_tr": "Molly Gordon on Directing Her Next Film, Her Dream Broadway Role, and Her New Theory Campaign",
-      "summary": "ELLE caught up with the actress, director, and screenwriter about her personal style and upcoming movie, Peaked.",
-      "summary_tr": "ELLE caught up with the actress, director, and screenwriter about her personal style and upcoming movie, Peaked.",
-      "long_summary": "ELLE caught up with the actress, director, and screenwriter about her personal style and upcoming movie, Peaked.",
-      "long_summary_tr": "ELLE caught up with the actress, director, and screenwriter about her personal style and upcoming movie, Peaked.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a70227089/molly-gordon-theory-campaign-interview-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b26e1197-ff2a-4a49-bc98-7bdc433cac9b.jpg",
-      "published_at": "2026-02-03T18:42:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Türkiye ile Suudi Arabistan arasında enerji anlaşması",
-      "title_tr": "Türkiye ile Suudi Arabistan arasında enerji anlaşması",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye ile Suudi Arabistan arasında imzalanan anlaşma kapsamında Sivas ve Karaman'da toplam 2 bin megavat kapasiteli güneş enerjisi santrali kurulacağını söyledi.",
-      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye ile Suudi Arabistan arasında imzalanan anlaşma kapsamında Sivas ve Karaman'da toplam 2 bin megavat kapasiteli güneş enerjisi santrali kurulacağını söyledi.",
-      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye ile Suudi Arabistan arasında imzalanan anlaşma kapsamında Sivas ve Karaman'da toplam 2 bin megavat kapasiteli güneş enerjisi santrali kurulacağını söyledi.",
-      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye ile Suudi Arabistan arasında imzalanan anlaşma kapsamında Sivas ve Karaman'da toplam 2 bin megavat kapasiteli güneş enerjisi santrali kurulacağını söyledi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/turkiye-ile-suudi-arabistan-arasinda-enerji-anlasmasi-3768168",
-      "image": null,
-      "published_at": "2026-02-03T18:41:09+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "England sweep Sri Lanka series in low-scoring thriller",
-      "title_tr": "England sweep Sri Lanka series in low-scoring thriller",
-      "summary": "England successfully defend a target of 129 to win by 12 runs against Sri Lanka in an enthralling contest, completing a 3-0 T20 series sweep.",
-      "summary_tr": "England successfully defend a target of 129 to win by 12 runs against Sri Lanka in an enthralling contest, completing a 3-0 T20 series sweep.",
-      "long_summary": "England successfully defend a target of 129 to win by 12 runs against Sri Lanka in an enthralling contest, completing a 3-0 T20 series sweep.",
-      "long_summary_tr": "England successfully defend a target of 129 to win by 12 runs against Sri Lanka in an enthralling contest, completing a 3-0 T20 series sweep.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/c87rzy9e70vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4457/live/4ae582a0-012c-11f1-9f22-c9b288f3a22b.jpg",
-      "published_at": "2026-02-03T18:37:20+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Santander, ABD genişleme hamlesinde Webster Bank’ı 12,2 milyar dolara satın alıyor",
-      "title_tr": "Santander, ABD genişleme hamlesinde Webster Bank’ı 12,2 milyar dolara satın alıyor",
-      "summary": "Santander, ABD genişleme hamlesinde Webster Bank’ı 12,2 milyar dolara satın alıyor",
-      "summary_tr": "Santander, ABD genişleme hamlesinde Webster Bank’ı 12,2 milyar dolara satın alıyor",
-      "long_summary": "Santander, ABD genişleme hamlesinde Webster Bank’ı 12,2 milyar dolara satın alıyor",
-      "long_summary_tr": "Santander, ABD genişleme hamlesinde Webster Bank’ı 12,2 milyar dolara satın alıyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/santander-abd-genisleme-hamlesinde-webster-bank-122-milyar-dolara-satn-alyor-3743828",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:33:41+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Wolfe Research’e Göre En İyi Petrol Arama ve Üretim Hisseleri",
-      "title_tr": "Wolfe Research’e Göre En İyi Petrol Arama ve Üretim Hisseleri",
-      "summary": "Wolfe Research’e Göre En İyi Petrol Arama ve Üretim Hisseleri",
-      "summary_tr": "Wolfe Research’e Göre En İyi Petrol Arama ve Üretim Hisseleri",
-      "long_summary": "Wolfe Research’e Göre En İyi Petrol Arama ve Üretim Hisseleri",
-      "long_summary_tr": "Wolfe Research’e Göre En İyi Petrol Arama ve Üretim Hisseleri",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/wolfe-researche-gore-en-iyi-petrol-arama-ve-uretim-hisseleri-93CH-3743819",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:32:47+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Baningime returns for Hearts at St Mirren LIVE! & highlights",
-      "title_tr": "Baningime returns for Hearts at St Mirren LIVE! & highlights",
-      "summary": "Baningime returns for Hearts at St Mirren LIVE! & highlights",
-      "summary_tr": "Baningime returns for Hearts at St Mirren LIVE! & highlights",
-      "long_summary": "Baningime returns for Hearts at St Mirren LIVE! & highlights",
-      "long_summary_tr": "Baningime returns for Hearts at St Mirren LIVE! & highlights",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13502796/x",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-scottish-premiership_7152992.jpg?20260202084443",
-      "published_at": "2026-02-03T18:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "This Hailey Bieber-Approved Activewear Brand Is the Internet's Best-Kept Secret",
-      "title_tr": "This Hailey Bieber-Approved Activewear Brand Is the Internet's Best-Kept Secret",
-      "summary": "Shop every piece now before word gets out.",
-      "summary_tr": "Shop every piece now before word gets out.",
-      "long_summary": "Shop every piece now before word gets out.",
-      "long_summary_tr": "Shop every piece now before word gets out.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a70060569/hailey-bieber-form-activewear-favorites/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/hailey-bieber-is-seen-on-august-30-2025-in-los-angeles-news-photo-1770142430.pjpeg",
-      "published_at": "2026-02-03T18:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Avrupa buğdayı, euronun güçlenmesiyle iki aylık zirveden geriledi",
-      "title_tr": "Avrupa buğdayı, euronun güçlenmesiyle iki aylık zirveden geriledi",
-      "summary": "Avrupa buğdayı, euronun güçlenmesiyle iki aylık zirveden geriledi",
-      "summary_tr": "Avrupa buğdayı, euronun güçlenmesiyle iki aylık zirveden geriledi",
-      "long_summary": "Avrupa buğdayı, euronun güçlenmesiyle iki aylık zirveden geriledi",
-      "long_summary_tr": "Avrupa buğdayı, euronun güçlenmesiyle iki aylık zirveden geriledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/avrupa-bugday-euronun-guclenmesiyle-iki-aylk-zirveden-geriledi-93CH-3743813",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:26:46+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Pentagon picks 25 vendors to show off one-way attack drones in the Gauntlet competition",
-      "title_tr": "Pentagon picks 25 vendors to show off one-way attack drones in the Gauntlet competition",
-      "summary": "After military operators fly the drones, the department plans to award deals totaling $150 million.",
-      "summary_tr": "After military operators fly the drones, the department plans to award deals totaling $150 million.",
-      "long_summary": "After military operators fly the drones, the department plans to award deals totaling $150 million.",
-      "long_summary_tr": "After military operators fly the drones, the department plans to award deals totaling $150 million.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/02/pentagon-picks-25-vendors-to-show-off-one-way-attack-drones-in-the-gauntlet-competition/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/FPV-e1752070541354-1024x577.jpg",
-      "published_at": "2026-02-03T18:21:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Intel CEO’su GPU üretim planlarını açıkladı, baş mimarı işe aldı",
-      "title_tr": "Intel CEO’su GPU üretim planlarını açıkladı, baş mimarı işe aldı",
-      "summary": "Intel CEO’su GPU üretim planlarını açıkladı, baş mimarı işe aldı",
-      "summary_tr": "Intel CEO’su GPU üretim planlarını açıkladı, baş mimarı işe aldı",
-      "long_summary": "Intel CEO’su GPU üretim planlarını açıkladı, baş mimarı işe aldı",
-      "long_summary_tr": "Intel CEO’su GPU üretim planlarını açıkladı, baş mimarı işe aldı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/intel-ceosu-gpu-uretim-planlarn-acklad-bas-mimar-ise-ald-93CH-3743803",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:20:05+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Suudi şirketler Türkiye’de 5.000 MW gücünde güneş ve rüzgâr santralleri inşa edecek",
-      "title_tr": "Suudi şirketler Türkiye’de 5.000 MW gücünde güneş ve rüzgâr santralleri inşa edecek",
-      "summary": "Suudi şirketler Türkiye’de toplamda 5.000 MW gücünde güneş ve rüzgâr santralleri inşa edecek.Enerji Bakanı Alpaslan Bayraktar'ın açıklaması şöyle:Suudi Arabistan’ın başkenti Riyad’da Suudi mevkidaşım ...",
-      "summary_tr": "Suudi şirketler Türkiye’de toplamda 5.000 MW gücünde güneş ve rüzgâr santralleri inşa edecek.Enerji Bakanı Alpaslan Bayraktar'ın açıklaması şöyle:Suudi Arabistan’ın başkenti Riyad’da Suudi mevkidaşım ...",
-      "long_summary": "Suudi şirketler Türkiye’de toplamda 5.000 MW gücünde güneş ve rüzgâr santralleri inşa edecek.Enerji Bakanı Alpaslan Bayraktar'ın açıklaması şöyle:Suudi Arabistan’ın başkenti Riyad’da Suudi mevkidaşım ...",
-      "long_summary_tr": "Suudi şirketler Türkiye’de toplamda 5.000 MW gücünde güneş ve rüzgâr santralleri inşa edecek.Enerji Bakanı Alpaslan Bayraktar'ın açıklaması şöyle:Suudi Arabistan’ın başkenti Riyad’da Suudi mevkidaşım ...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/suudi-sirketler-turkiyede-5000-mw-gucunde-gunes-ve-ruzgar-santralleri-insa-edecek-03-02-26?haber_id=69823c262663b328fe320139〈=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1770142742310.jpeg",
-      "published_at": "2026-02-03T18:19:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Apple Kodlama Dünyasında Kartları Yeniden Dağıtıyor",
-      "title_tr": "Apple Kodlama Dünyasında Kartları Yeniden Dağıtıyor",
-      "summary": "Apple, geliştiricilerin hayatını kolaylaştıracak önemli bir adımla Xcode 26.3 sürümünü duyurdu. Bu yeni güncellemeyle birlikte Apple, ajan tabanlı kodlama (agentic coding) desteğini ekosisteme dahil ediyor. Artık geliştiriciler, uygulama oluşturma süreçlerinde Anthropic’in Claude ve OpenAI’ın Codex gibi güçlü yapay zeka araçlarını doğrudan Xcode arayüzü içerisinden kullanabilecekler. Yapay Zekalara Özel Sosyal Medya Felakete Neden Oldu! Popüler yapay […]",
-      "summary_tr": "Apple, geliştiricilerin hayatını kolaylaştıracak önemli bir adımla Xcode 26.3 sürümünü duyurdu. Bu yeni güncellemeyle birlikte Apple, ajan tabanlı kodlama (agentic coding) desteğini ekosisteme dahil ediyor. Artık geliştiriciler, uygulama oluşturma süreçlerinde Anthropic’in Claude ve OpenAI’ın Codex gibi güçlü yapay zeka araçlarını doğrudan Xcode arayüzü içerisinden kullanabilecekler. Yapay Zekalara Özel Sosyal Medya Felakete Neden Oldu! Popüler yapay […]",
-      "long_summary": "Apple, geliştiricilerin hayatını kolaylaştıracak önemli bir adımla Xcode 26.3 sürümünü duyurdu. Bu yeni güncellemeyle birlikte Apple, ajan tabanlı kodlama (agentic coding) desteğini ekosisteme dahil ediyor. Artık geliştiriciler, uygulama oluşturma süreçlerinde Anthropic’in Claude ve OpenAI’ın Codex gibi güçlü yapay zeka araçlarını doğrudan Xcode arayüzü içerisinden kullanabilecekler. Yapay Zekalara Özel Sosyal Medya Felakete Neden Oldu! Popüler yapay […]",
-      "long_summary_tr": "Apple, geliştiricilerin hayatını kolaylaştıracak önemli bir adımla Xcode 26.3 sürümünü duyurdu. Bu yeni güncellemeyle birlikte Apple, ajan tabanlı kodlama (agentic coding) desteğini ekosisteme dahil ediyor. Artık geliştiriciler, uygulama oluşturma süreçlerinde Anthropic’in Claude ve OpenAI’ın Codex gibi güçlü yapay zeka araçlarını doğrudan Xcode arayüzü içerisinden kullanabilecekler. Yapay Zekalara Özel Sosyal Medya Felakete Neden Oldu! Popüler yapay […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/appledan-uygulama-gelistirmede-devrim-niteliginde-yenilik",
-      "image": null,
-      "published_at": "2026-02-03T18:17:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Scandi Girls Have Spoken: The Pillbox Hat Is the Must-Have Accessory of 2026",
-      "title_tr": "Scandi Girls Have Spoken: The Pillbox Hat Is the Must-Have Accessory of 2026",
-      "summary": "I have a feeling it will be everywhere at New York Fashion Week, too.",
-      "summary_tr": "I have a feeling it will be everywhere at New York Fashion Week, too.",
-      "long_summary": "I have a feeling it will be everywhere at New York Fashion Week, too.",
-      "long_summary_tr": "I have a feeling it will be everywhere at New York Fashion Week, too.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a70235373/pillbox-hat-trend/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/copenhagen-str-f26-0087-6982250021d90.jpg",
-      "published_at": "2026-02-03T18:17:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Clintons agree to testify in House Epstein probe",
-      "title_tr": "Clintons agree to testify in House Epstein probe",
-      "summary": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee.",
-      "summary_tr": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee.",
-      "long_summary": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee.",
-      "long_summary_tr": "The couple will appear on two separate days in late February for a deposition after coming to an agreement with the House oversight committee.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c14r685mne4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8334/live/3e863430-00b1-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-03T18:16:19+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Save 20% Off the Sonos Era 100 Smart Speaker",
-      "title_tr": "Save 20% Off the Sonos Era 100 Smart Speaker",
-      "summary": "Sonos' most popular and versatile speaker.",
-      "summary_tr": "Sonos' most popular and versatile speaker.",
-      "long_summary": "Sonos' most popular and versatile speaker.",
-      "long_summary_tr": "Sonos' most popular and versatile speaker.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/save-20-off-the-sonos-era-100-smart-speaker",
-      "image": "https://assets-prd.ignimgs.com/2026/02/03/sonosera100-1770140459596.jpg",
-      "published_at": "2026-02-03T18:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Bank of America, Wall Street borç dalgası ortasında tahvil satışına başladı",
-      "title_tr": "Bank of America, Wall Street borç dalgası ortasında tahvil satışına başladı",
-      "summary": "Bank of America, Wall Street borç dalgası ortasında tahvil satışına başladı",
-      "summary_tr": "Bank of America, Wall Street borç dalgası ortasında tahvil satışına başladı",
-      "long_summary": "Bank of America, Wall Street borç dalgası ortasında tahvil satışına başladı",
-      "long_summary_tr": "Bank of America, Wall Street borç dalgası ortasında tahvil satışına başladı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bank-of-america-wall-street-borc-dalgas-ortasnda-tahvil-satsna-baslad-93CH-3743791",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:14:22+00:00"
+      "published_at": "2026-02-03T20:24:45+00:00"
     },
     {
       "origin": "turkiye",
@@ -491,131 +117,21 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Avrupa borsaları karışık seyirle kapandı",
-      "title_tr": "Avrupa borsaları karışık seyirle kapandı",
-      "summary": "Avrupa borsaları, günü karışık seyirle tamamladı. Kapanışta gösterge endeksi Stoxx Europe 600 yüzde 0,1 artışla 617.93 puana çıktı.",
-      "summary_tr": "Avrupa borsaları, günü karışık seyirle tamamladı. Kapanışta gösterge endeksi Stoxx Europe 600 yüzde 0,1 artışla 617.93 puana çıktı.",
-      "long_summary": "Avrupa borsaları, günü karışık seyirle tamamladı. Kapanışta gösterge endeksi Stoxx Europe 600 yüzde 0,1 artışla 617.93 puana çıktı.",
-      "long_summary_tr": "Avrupa borsaları, günü karışık seyirle tamamladı. Kapanışta gösterge endeksi Stoxx Europe 600 yüzde 0,1 artışla 617.93 puana çıktı.",
+      "title": "Oyuncu Ufuk Özkan'a organ nakli başarıyla gerçekleştirildi",
+      "title_tr": "Oyuncu Ufuk Özkan'a organ nakli başarıyla gerçekleştirildi",
+      "summary": "Uzun süredir karaciğer yetmezliği nedeniyle tedavi gören oyuncu Ufuk Özkan&#039;a organ nakli yapıldı.",
+      "summary_tr": "Uzun süredir karaciğer yetmezliği nedeniyle tedavi gören oyuncu Ufuk Özkan&#039;a organ nakli yapıldı.",
+      "long_summary": "Uzun süredir karaciğer yetmezliği nedeniyle tedavi gören oyuncu Ufuk Özkan&#039;a organ nakli yapıldı.",
+      "long_summary_tr": "Uzun süredir karaciğer yetmezliği nedeniyle tedavi gören oyuncu Ufuk Özkan&#039;a organ nakli yapıldı.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/finans/borsa/avrupa-borsalari-karisik-seyirle-kapandi-haberi-813824",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2024/10/22/avrupa-borsalari-2-00qc_cover.jpg",
-      "published_at": "2026-02-03T18:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "\"2026 halka arzın yılı olmalı,\" diyor Blackstone’un Gray’i",
-      "title_tr": "\"2026 halka arzın yılı olmalı,\" diyor Blackstone’un Gray’i",
-      "summary": "\"2026 halka arzın yılı olmalı,\" diyor Blackstone’un Gray’i",
-      "summary_tr": "\"2026 halka arzın yılı olmalı,\" diyor Blackstone’un Gray’i",
-      "long_summary": "\"2026 halka arzın yılı olmalı,\" diyor Blackstone’un Gray’i",
-      "long_summary_tr": "\"2026 halka arzın yılı olmalı,\" diyor Blackstone’un Gray’i",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/2026-halka-arzn-yl-olmal-diyor-blackstoneun-grayi-3743779",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:07:36+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Novo Nordisk hisseleri zayıf 2026 satış görünümü nedeniyle düşüşte",
-      "title_tr": "Novo Nordisk hisseleri zayıf 2026 satış görünümü nedeniyle düşüşte",
-      "summary": "Novo Nordisk hisseleri zayıf 2026 satış görünümü nedeniyle düşüşte",
-      "summary_tr": "Novo Nordisk hisseleri zayıf 2026 satış görünümü nedeniyle düşüşte",
-      "long_summary": "Novo Nordisk hisseleri zayıf 2026 satış görünümü nedeniyle düşüşte",
-      "long_summary_tr": "Novo Nordisk hisseleri zayıf 2026 satış görünümü nedeniyle düşüşte",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/novo-nordisk-hisseleri-zayf-2026-sats-gorunumu-nedeniyle-dususte-93CH-3743773",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:03:11+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "A Streaming Guide to The Secret Agent",
-      "title_tr": "A Streaming Guide to The Secret Agent",
-      "summary": "A Streaming Guide to The Secret Agent",
-      "summary_tr": "A Streaming Guide to The Secret Agent",
-      "long_summary": "A Streaming Guide to The Secret Agent",
-      "long_summary_tr": "A Streaming Guide to The Secret Agent",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a70082746/how-to-watch-the-secret-agent-streaming/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ecfb238b-e302-4a4b-9d99-1ed54dbaf730.jpeg",
-      "published_at": "2026-02-03T18:03:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Novo Nordisk hisseleri zayıf 2026 satış beklentisiyle sert düştü",
-      "title_tr": "Novo Nordisk hisseleri zayıf 2026 satış beklentisiyle sert düştü",
-      "summary": "Novo Nordisk hisseleri zayıf 2026 satış beklentisiyle sert düştü",
-      "summary_tr": "Novo Nordisk hisseleri zayıf 2026 satış beklentisiyle sert düştü",
-      "long_summary": "Novo Nordisk hisseleri zayıf 2026 satış beklentisiyle sert düştü",
-      "long_summary_tr": "Novo Nordisk hisseleri zayıf 2026 satış beklentisiyle sert düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/novo-nordisk-hisseleri-zayf-2026-sats-beklentisiyle-sert-dustu-93CH-3743772",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:02:59+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "S&P, Poste Italiane’nin görünümünü pozitife yükseltti, BBB+ notunu teyit etti",
-      "title_tr": "S&P, Poste Italiane’nin görünümünü pozitife yükseltti, BBB+ notunu teyit etti",
-      "summary": "S&P, Poste Italiane’nin görünümünü pozitife yükseltti, BBB+ notunu teyit etti",
-      "summary_tr": "S&P, Poste Italiane’nin görünümünü pozitife yükseltti, BBB+ notunu teyit etti",
-      "long_summary": "S&P, Poste Italiane’nin görünümünü pozitife yükseltti, BBB+ notunu teyit etti",
-      "long_summary_tr": "S&P, Poste Italiane’nin görünümünü pozitife yükseltti, BBB+ notunu teyit etti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/sp-poste-italianenin-gorunumunu-pozitife-yukseltti-bbb-notunu-teyit-etti-93CH-3743770",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T18:02:39+00:00"
+      "url": "https://www.dunya.com/gundem/oyuncu-ufuk-ozkana-organ-nakli-basariyla-gerceklestirildi-haberi-813833",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/ufuk-7ql1_cover.jpg",
+      "published_at": "2026-02-03T20:24:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -623,43 +139,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Arsenal sign goalkeeper Votikova on loan",
-      "title_tr": "Arsenal sign goalkeeper Votikova on loan",
-      "summary": "Arsenal have signed goalkeeper Barbora Votikova on loan for the rest of the 2025-26 season from Slavia Prague.",
-      "summary_tr": "Arsenal have signed goalkeeper Barbora Votikova on loan for the rest of the 2025-26 season from Slavia Prague.",
-      "long_summary": "Arsenal have signed goalkeeper Barbora Votikova on loan for the rest of the 2025-26 season from Slavia Prague.",
-      "long_summary_tr": "Arsenal have signed goalkeeper Barbora Votikova on loan for the rest of the 2025-26 season from Slavia Prague.",
+      "title": "Finucane and Morris win European golds in Turkey",
+      "title_tr": "Finucane and Morris win European golds in Turkey",
+      "summary": "Great Britain's Emma Finucane and Anna Morris win gold medals at the UEC Track Elite European Championships in Turkey.",
+      "summary_tr": "Great Britain's Emma Finucane and Anna Morris win gold medals at the UEC Track Elite European Championships in Turkey.",
+      "long_summary": "Great Britain's Emma Finucane and Anna Morris win gold medals at the UEC Track Elite European Championships in Turkey.",
+      "long_summary_tr": "Great Britain's Emma Finucane and Anna Morris win gold medals at the UEC Track Elite European Championships in Turkey.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/football/articles/c93vzdpk031o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3641/live/01375880-0128-11f1-9f22-c9b288f3a22b.jpg",
-      "published_at": "2026-02-03T18:02:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Boeing abandons Indonesia F-15 bid",
-      "title_tr": "Boeing abandons Indonesia F-15 bid",
-      "summary": "Jakarta signed on to buy up to 24 of the fighters in 2023, but never finalized a deal.",
-      "summary_tr": "Jakarta signed on to buy up to 24 of the fighters in 2023, but never finalized a deal.",
-      "long_summary": "Jakarta signed on to buy up to 24 of the fighters in 2023, but never finalized a deal.",
-      "long_summary_tr": "Jakarta signed on to buy up to 24 of the fighters in 2023, but never finalized a deal.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/02/boeing-abandons-indonesia-f-15-bid/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/9187428-scaled-e1758821024749-1024x576.jpg",
-      "published_at": "2026-02-03T18:02:00+00:00"
+      "url": "https://www.bbc.com/sport/cycling/articles/c74wpxdvjgdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c346/live/4290a530-013b-11f1-8fc4-ab014587914b.jpg",
+      "published_at": "2026-02-03T20:22:03+00:00"
     },
     {
       "origin": "yabanci",
@@ -667,197 +161,21 @@
       "category_slug": "dunya",
       "is_local": false,
       "source": "BBC World",
-      "title": "France teacher fighting for life after knife attack by pupil",
-      "title_tr": "France teacher fighting for life after knife attack by pupil",
-      "summary": "A 14-year-old has been arrested on suspicion of attempted murder after a stabbing in a classroom on Tuesday.",
-      "summary_tr": "A 14-year-old has been arrested on suspicion of attempted murder after a stabbing in a classroom on Tuesday.",
-      "long_summary": "A 14-year-old has been arrested on suspicion of attempted murder after a stabbing in a classroom on Tuesday.",
-      "long_summary_tr": "A 14-year-old has been arrested on suspicion of attempted murder after a stabbing in a classroom on Tuesday.",
+      "title": "Trump says Republicans 'should take over the voting' and 'nationalise' US elections",
+      "title_tr": "Trump says Republicans 'should take over the voting' and 'nationalise' US elections",
+      "summary": "American elections are primarily run by state law, and voting is administered by local officials across the country.",
+      "summary_tr": "American elections are primarily run by state law, and voting is administered by local officials across the country.",
+      "long_summary": "American elections are primarily run by state law, and voting is administered by local officials across the country.",
+      "long_summary_tr": "American elections are primarily run by state law, and voting is administered by local officials across the country.",
       "why_important": [
         "Uluslararası dengeleri ilgilendirmesi"
       ],
       "possible_impacts": [
         "Uluslararası ilişkilerde dengeler değişebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/c7v0p818g91o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244c/live/e31e0850-0125-11f1-b7e1-afb6d0884c18.jpg",
-      "published_at": "2026-02-03T18:00:19+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Riyad'da kritik zirve: Türkiye ve Suudi Arabistan'dan yeni iş birlikleri",
-      "title_tr": "Riyad'da kritik zirve: Türkiye ve Suudi Arabistan'dan yeni iş birlikleri",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile Riyad’da bir araya geldi. Görüşmede ikili ilişkilerden bölgesel krizlere, enerji ve savunma sanayiinden yatırımlara kadar birçok başlık ele alındı.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile Riyad’da bir araya geldi. Görüşmede ikili ilişkilerden bölgesel krizlere, enerji ve savunma sanayiinden yatırımlara kadar birçok başlık ele alındı.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile Riyad’da bir araya geldi. Görüşmede ikili ilişkilerden bölgesel krizlere, enerji ve savunma sanayiinden yatırımlara kadar birçok başlık ele alındı.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile Riyad’da bir araya geldi. Görüşmede ikili ilişkilerden bölgesel krizlere, enerji ve savunma sanayiinden yatırımlara kadar birçok başlık ele alındı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/riyadda-kritik-zirve-turkiye-ve-suudi-arabistandan-yeni-is-birlikleri-haberi-813822",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/d1-t8lk_cover.jpg",
-      "published_at": "2026-02-03T17:56:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "ABD İran'a ait bir İHA'yı düşürdü",
-      "title_tr": "ABD İran'a ait bir İHA'yı düşürdü",
-      "summary": "ABD Merkez Komutanlığı, USS Abraham Lincoln uçak gemisine agresif şekilde yaklaşan İran'a ait bir insansız hava aracının meşru müdafaa kapsamında düşürüldüğünü açıkladı.",
-      "summary_tr": "ABD Merkez Komutanlığı, USS Abraham Lincoln uçak gemisine agresif şekilde yaklaşan İran'a ait bir insansız hava aracının meşru müdafaa kapsamında düşürüldüğünü açıkladı.",
-      "long_summary": "ABD Merkez Komutanlığı, USS Abraham Lincoln uçak gemisine agresif şekilde yaklaşan İran'a ait bir insansız hava aracının meşru müdafaa kapsamında düşürüldüğünü açıkladı.",
-      "long_summary_tr": "ABD Merkez Komutanlığı, USS Abraham Lincoln uçak gemisine agresif şekilde yaklaşan İran'a ait bir insansız hava aracının meşru müdafaa kapsamında düşürüldüğünü açıkladı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/abd-iran-a-ait-bir-iha-yi-dusurdu-3768163",
-      "image": null,
-      "published_at": "2026-02-03T17:55:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Türkiye ve Suudi Arabistan arasında 2 milyar dolarlık anlaşma: İki büyük güneş enerji santrali yapılacak",
-      "title_tr": "Türkiye ve Suudi Arabistan arasında 2 milyar dolarlık anlaşma: İki büyük güneş enerji santrali yapılacak",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan ile 2 bin megavatlık güneş enerjisi projelerini kapsayan 2 milyar dolarlık enerji yatırımı anlaşmasının imzalandığını açıkladı. Bu kapsamda Suudi Arabistan merkezli ACWA Enerji Şirketi Türkiye’de iki büyük ölçekli güneş santrali kuracak.",
-      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan ile 2 bin megavatlık güneş enerjisi projelerini kapsayan 2 milyar dolarlık enerji yatırımı anlaşmasının imzalandığını açıkladı. Bu kapsamda Suudi Arabistan merkezli ACWA Enerji Şirketi Türkiye’de iki büyük ölçekli güneş santrali kuracak.",
-      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan ile 2 bin megavatlık güneş enerjisi projelerini kapsayan 2 milyar dolarlık enerji yatırımı anlaşmasının imzalandığını açıkladı. Bu kapsamda Suudi Arabistan merkezli ACWA Enerji Şirketi Türkiye’de iki büyük ölçekli güneş santrali kuracak.",
-      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Suudi Arabistan ile 2 bin megavatlık güneş enerjisi projelerini kapsayan 2 milyar dolarlık enerji yatırımı anlaşmasının imzalandığını açıkladı. Bu kapsamda Suudi Arabistan merkezli ACWA Enerji Şirketi Türkiye’de iki büyük ölçekli güneş santrali kuracak.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/enerji/turkiye-ve-suudi-arabistan-arasinda-2-milyar-dolarlik-anlasma-iki-buyuk-gunes-enerji-santrali-yapilacak-haberi-813823",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/bayraktar-nqdw_cover.jpg",
-      "published_at": "2026-02-03T17:52:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Kratos ve Red Cat hisseleri Savunma Bakanlığı’nın drone programına seçilmesiyle yükseldi",
-      "title_tr": "Kratos ve Red Cat hisseleri Savunma Bakanlığı’nın drone programına seçilmesiyle yükseldi",
-      "summary": "Kratos ve Red Cat hisseleri Savunma Bakanlığı’nın drone programına seçilmesiyle yükseldi",
-      "summary_tr": "Kratos ve Red Cat hisseleri Savunma Bakanlığı’nın drone programına seçilmesiyle yükseldi",
-      "long_summary": "Kratos ve Red Cat hisseleri Savunma Bakanlığı’nın drone programına seçilmesiyle yükseldi",
-      "long_summary_tr": "Kratos ve Red Cat hisseleri Savunma Bakanlığı’nın drone programına seçilmesiyle yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/kratos-ve-red-cat-hisseleri-savunma-bakanlgnn-drone-programna-secilmesiyle-yukseldi-93CH-3743761",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-03T17:51:14+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Hızlı ve Öfkeli serisinin son filmi 17 Mart'ta vizyona giriyor",
-      "title_tr": "Hızlı ve Öfkeli serisinin son filmi 17 Mart'ta vizyona giriyor",
-      "summary": "Film, \"Fast Forever\" olarak adlandırılıyor.",
-      "summary_tr": "Film, \"Fast Forever\" olarak adlandırılıyor.",
-      "long_summary": "Film, \"Fast Forever\" olarak adlandırılıyor.",
-      "long_summary_tr": "Film, \"Fast Forever\" olarak adlandırılıyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/786288/hizli-ofkeli-serisi-son-film/",
-      "image": "https://cdn.motor1.com/images/mgl/8eRYW/s3/2018-dodge-charger-inside.jpg",
-      "published_at": "2026-02-03T17:36:27+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "All About Halle Berry’s Boyfriend, Van Hunt",
-      "title_tr": "All About Halle Berry’s Boyfriend, Van Hunt",
-      "summary": "All About Halle Berry’s Boyfriend, Van Hunt",
-      "summary_tr": "All About Halle Berry’s Boyfriend, Van Hunt",
-      "long_summary": "All About Halle Berry’s Boyfriend, Van Hunt",
-      "long_summary_tr": "All About Halle Berry’s Boyfriend, Van Hunt",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a36440649/who-is-van-hunt-halle-berry-musician-boyfriend/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d100ba22-2230-4814-8410-456213612330.jpeg",
-      "published_at": "2026-02-03T17:36:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Stockdale 'back to what he's good at' - Farrell",
-      "title_tr": "Stockdale 'back to what he's good at' - Farrell",
-      "summary": "Ireland head coach Andy Farrell says Jacob Stockdale \"deserves\" to start against France in the Six Nations opener in Paris on Thursday night.",
-      "summary_tr": "Ireland head coach Andy Farrell says Jacob Stockdale \"deserves\" to start against France in the Six Nations opener in Paris on Thursday night.",
-      "long_summary": "Ireland head coach Andy Farrell says Jacob Stockdale \"deserves\" to start against France in the Six Nations opener in Paris on Thursday night.",
-      "long_summary_tr": "Ireland head coach Andy Farrell says Jacob Stockdale \"deserves\" to start against France in the Six Nations opener in Paris on Thursday night.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cddg8zz3y93o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54dd/live/cd4e3170-00f4-11f1-900a-0d91b55e4ab5.jpg",
-      "published_at": "2026-02-03T17:35:37+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "O'Neill 'delighted' Engels bid rejected as Oxlade-Chamberlain talks revealed",
-      "title_tr": "O'Neill 'delighted' Engels bid rejected as Oxlade-Chamberlain talks revealed",
-      "summary": "Martin O'Neill revealed the Celtic board alone turned down the \"really tempting\" bid of up to £25m for Arne Engels, as he admitted speaking to out-of-contract Alex Oxlade-Chamberlain.",
-      "summary_tr": "Martin O'Neill revealed the Celtic board alone turned down the \"really tempting\" bid of up to £25m for Arne Engels, as he admitted speaking to out-of-contract Alex Oxlade-Chamberlain.",
-      "long_summary": "Martin O'Neill revealed the Celtic board alone turned down the \"really tempting\" bid of up to £25m for Arne Engels, as he admitted speaking to out-of-contract Alex Oxlade-Chamberlain.",
-      "long_summary_tr": "Martin O'Neill revealed the Celtic board alone turned down the \"really tempting\" bid of up to £25m for Arne Engels, as he admitted speaking to out-of-contract Alex Oxlade-Chamberlain.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13502830/celtic-boss-martin-oneill-delighted-a-25m-bid-for-arne-engels-was-rejected-as-he-reveals-alex-oxlade-chamberlain-talks",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-football-arne-engels_7153501.jpg?20260202155722",
-      "published_at": "2026-02-03T17:35:00+00:00"
+      "url": "https://www.bbc.com/news/articles/c0mke841zj0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e760/live/8eee1e30-00fa-11f1-8373-25a35d9e886f.jpg",
+      "published_at": "2026-02-03T20:20:40+00:00"
     },
     {
       "origin": "yabanci",
@@ -865,175 +183,43 @@
       "category_slug": "bilim",
       "is_local": false,
       "source": "Popular Science",
-      "title": "Watch an albatross give its brand-new chick a very careful cleanup",
-      "title_tr": "Watch an albatross give its brand-new chick a very careful cleanup",
-      "summary": "The massive seabirds’ powerful beaks can be surprisingly gentle when preening their babies.\nThe post Watch an albatross give its brand-new chick a very careful cleanup appeared first on Popular Science.",
-      "summary_tr": "The massive seabirds’ powerful beaks can be surprisingly gentle when preening their babies.\nThe post Watch an albatross give its brand-new chick a very careful cleanup appeared first on Popular Science.",
-      "long_summary": "The massive seabirds’ powerful beaks can be surprisingly gentle when preening their babies.\nThe post Watch an albatross give its brand-new chick a very careful cleanup appeared first on Popular Science.",
-      "long_summary_tr": "The massive seabirds’ powerful beaks can be surprisingly gentle when preening their babies.\nThe post Watch an albatross give its brand-new chick a very careful cleanup appeared first on Popular Science.",
+      "title": "This pipe organ is playing a single, nonstop song until 2640",
+      "title_tr": "This pipe organ is playing a single, nonstop song until 2640",
+      "summary": "The avant-garde composition ‘ORGAN²/ASLSP’ is being stretched to its limits.\nThe post This pipe organ is playing a single, nonstop song until 2640 appeared first on Popular Science.",
+      "summary_tr": "The avant-garde composition ‘ORGAN²/ASLSP’ is being stretched to its limits.\nThe post This pipe organ is playing a single, nonstop song until 2640 appeared first on Popular Science.",
+      "long_summary": "The avant-garde composition ‘ORGAN²/ASLSP’ is being stretched to its limits.\nThe post This pipe organ is playing a single, nonstop song until 2640 appeared first on Popular Science.",
+      "long_summary_tr": "The avant-garde composition ‘ORGAN²/ASLSP’ is being stretched to its limits.\nThe post This pipe organ is playing a single, nonstop song until 2640 appeared first on Popular Science.",
       "why_important": [
         "Teknolojik ve akademik gelişmelere katkı sağlaması"
       ],
       "possible_impacts": [
         "Yeni keşifler farklı alanlara yön verebilir"
       ],
-      "url": "https://www.popsci.com/environment/albatross-chick-video/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/albatross-preening.png?quality=85",
-      "published_at": "2026-02-03T17:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "What to watch: Trump vs. Canada, Saudi F-35s, new naval tech",
-      "title_tr": "What to watch: Trump vs. Canada, Saudi F-35s, new naval tech",
-      "summary": "New on The Weekly Break Out: Trump’s spat with Canada could threaten US military aircraft, and we continue on the global defense expo circuit.",
-      "summary_tr": "New on The Weekly Break Out: Trump’s spat with Canada could threaten US military aircraft, and we continue on the global defense expo circuit.",
-      "long_summary": "New on The Weekly Break Out: Trump’s spat with Canada could threaten US military aircraft, and we continue on the global defense expo circuit.",
-      "long_summary_tr": "New on The Weekly Break Out: Trump’s spat with Canada could threaten US military aircraft, and we continue on the global defense expo circuit.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/02/what-to-watch-trump-vs-canada-saudi-f-35s-new-naval-tech/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/tbo205-play-1024x576.png",
-      "published_at": "2026-02-03T17:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Zelenskiy ve NATO Genel Sekreteri Rutte'den Rusya'ya sert mesaj",
-      "title_tr": "Zelenskiy ve NATO Genel Sekreteri Rutte'den Rusya'ya sert mesaj",
-      "summary": "Zelenskiy, yaptığı basın açıklamasında Rusya'nın ülkesinin enerji altyapısına yönelik hava saldırılarıyla bir haftalık enerji ateşkesi ihlal ettiğini belirterek, Rusya'nın bu savaşta bir kez daha ABD'nin çabalarını hiçe saydığını belirtti.",
-      "summary_tr": "Zelenskiy, yaptığı basın açıklamasında Rusya'nın ülkesinin enerji altyapısına yönelik hava saldırılarıyla bir haftalık enerji ateşkesi ihlal ettiğini belirterek, Rusya'nın bu savaşta bir kez daha ABD'nin çabalarını hiçe saydığını belirtti.",
-      "long_summary": "Zelenskiy, yaptığı basın açıklamasında Rusya'nın ülkesinin enerji altyapısına yönelik hava saldırılarıyla bir haftalık enerji ateşkesi ihlal ettiğini belirterek, Rusya'nın bu savaşta bir kez daha ABD'nin çabalarını hiçe saydığını belirtti.",
-      "long_summary_tr": "Zelenskiy, yaptığı basın açıklamasında Rusya'nın ülkesinin enerji altyapısına yönelik hava saldırılarıyla bir haftalık enerji ateşkesi ihlal ettiğini belirterek, Rusya'nın bu savaşta bir kez daha ABD'nin çabalarını hiçe saydığını belirtti.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/zelenskiy-ve-nato-genel-sekreteri-rutte-den-rusya-ya-sert-mesaj-3768162",
-      "image": null,
-      "published_at": "2026-02-03T17:27:16+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Williams to depart Warrington at end of season",
-      "title_tr": "Williams to depart Warrington at end of season",
-      "summary": "Warrington Wolves have confirmed that captain George Williams will leave when his contract expires at the end of the 2026 season.",
-      "summary_tr": "Warrington Wolves have confirmed that captain George Williams will leave when his contract expires at the end of the 2026 season.",
-      "long_summary": "Warrington Wolves have confirmed that captain George Williams will leave when his contract expires at the end of the 2026 season.",
-      "long_summary_tr": "Warrington Wolves have confirmed that captain George Williams will leave when his contract expires at the end of the 2026 season.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-league/news/12040/13502844/warrington-captain-george-williams-to-depart-wolves-for-nrl-at-end-of-2026-super-league-season",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-williams-superleague_7154699.jpg?20260203171149",
-      "published_at": "2026-02-03T17:25:00+00:00"
+      "url": "https://www.popsci.com/technology/pipe-organ-one-song-2640/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/02/John-Cage-Organ.jpg?quality=85",
+      "published_at": "2026-02-03T20:20:40+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Oyun / Dijital",
       "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "IGN",
-      "title": "The HP OMEN 45L Gaming PC with RTX 5090 GPU and DDR5-6000MHz RAM Drops to $3,460",
-      "title_tr": "The HP OMEN 45L Gaming PC with RTX 5090 GPU and DDR5-6000MHz RAM Drops to $3,460",
-      "summary": "Not a typo.",
-      "summary_tr": "Not a typo.",
-      "long_summary": "Not a typo.",
-      "long_summary_tr": "Not a typo.",
+      "source": "GameSpot",
+      "title": "MLB The Show 26 Takes Players From College To The Hall Of Fame",
+      "title_tr": "MLB The Show 26 Takes Players From College To The Hall Of Fame",
+      "summary": "Getting into the Baseball Hall of Fame is an impossible dream for most professional players, but that journey will be part of a new addition to MLB The Show 26. This year, the game will let players track their character through college and into the Major Leagues. And if they finish Road To The Show: Road to Cooperstown, then a spot in the Hall of Fame awaits.          The number of the college teams is increasing this year from 11 to 19, with University of Arkansas, University of Florida, Stanford University, and University of Michigan among the schools lending their names, logos, and roster to the game. MLB The Show 26 is also adding the College World Series format and bracket.Diamond Dynasty is back the game as well, with the World Baseball Classic. Through this mode, baseball goes international with stops in the Tokyo Dome and Estadio Hiram Bithorn. Over 500 new gameplay animations have been added, as well as new hitting and pitching interfaces. Fresh rewards and challenges will also be offered through the game's live-service updates.Continue Reading at GameSpot",
+      "summary_tr": "Getting into the Baseball Hall of Fame is an impossible dream for most professional players, but that journey will be part of a new addition to MLB The Show 26. This year, the game will let players track their character through college and into the Major Leagues. And if they finish Road To The Show: Road to Cooperstown, then a spot in the Hall of Fame awaits.          The number of the college teams is increasing this year from 11 to 19, with University of Arkansas, University of Florida, Stanford University, and University of Michigan among the schools lending their names, logos, and roster to the game. MLB The Show 26 is also adding the College World Series format and bracket.Diamond Dynasty is back the game as well, with the World Baseball Classic. Through this mode, baseball goes international with stops in the Tokyo Dome and Estadio Hiram Bithorn. Over 500 new gameplay animations have been added, as well as new hitting and pitching interfaces. Fresh rewards and challenges will also be offered through the game's live-service updates.Continue Reading at GameSpot",
+      "long_summary": "Getting into the Baseball Hall of Fame is an impossible dream for most professional players, but that journey will be part of a new addition to MLB The Show 26. This year, the game will let players track their character through college and into the Major Leagues. And if they finish Road To The Show: Road to Cooperstown, then a spot in the Hall of Fame awaits.          The number of the college teams is increasing this year from 11 to 19, with University of Arkansas, University of Florida,",
+      "long_summary_tr": "Getting into the Baseball Hall of Fame is an impossible dream for most professional players, but that journey will be part of a new addition to MLB The Show 26. This year, the game will let players track their character through college and into the Major Leagues. And if they finish Road To The Show: Road to Cooperstown, then a spot in the Hall of Fame awaits.          The number of the college teams is increasing this year from 11 to 19, with University of Arkansas, University of Florida,",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.ign.com/articles/hp-omen-45l-rtx-5090-gaming-pc-deal-2026-lowest-price-ever",
-      "image": "https://assets-prd.ignimgs.com/2026/02/03/hpomen45l3-1770138845134.jpg",
-      "published_at": "2026-02-03T17:25:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Gaziantep'te karşıya geçmek isterken otomobilin çarptığı kadın ağır yaralandı",
-      "title_tr": "Gaziantep'te karşıya geçmek isterken otomobilin çarptığı kadın ağır yaralandı",
-      "summary": "Gaziantep’te yolun karşısına geçmek isterken otomobilin çarptığı kadın ağır yaralandı.Kaza, Şehitkamil ilçesi Alpaslan Mahallesi Araban Yolu Caddesi Beykent kavşağında meydana geldi. İddiaya göre, sürücüsü öğrenilemeyen 27 D 7416 plakalı otomobil, yolun karşısına geçmeye çalışan Zeliha Y.’ye çarptı. Kaza sonrası metrelerce savrulan Zeliha Y. ağır yaralandı. Çevredeki vatandaşların 112 Acil Çağrı Merkezi’ne ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Olay yerine gelen sağlık ekipleri tarafından ilk müdahalesi yapılan ve durumu ağır olan yaralı kadın, Şehitkamil Devlet Hastanesi’ne kaldırıldı.\n\n\n\nKaza ile ilgili soruşturma başlatıldı.",
-      "summary_tr": "Gaziantep’te yolun karşısına geçmek isterken otomobilin çarptığı kadın ağır yaralandı.Kaza, Şehitkamil ilçesi Alpaslan Mahallesi Araban Yolu Caddesi Beykent kavşağında meydana geldi. İddiaya göre, sürücüsü öğrenilemeyen 27 D 7416 plakalı otomobil, yolun karşısına geçmeye çalışan Zeliha Y.’ye çarptı. Kaza sonrası metrelerce savrulan Zeliha Y. ağır yaralandı. Çevredeki vatandaşların 112 Acil Çağrı Merkezi’ne ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Olay yerine gelen sağlık ekipleri tarafından ilk müdahalesi yapılan ve durumu ağır olan yaralı kadın, Şehitkamil Devlet Hastanesi’ne kaldırıldı.\n\n\n\nKaza ile ilgili soruşturma başlatıldı.",
-      "long_summary": "Gaziantep’te yolun karşısına geçmek isterken otomobilin çarptığı kadın ağır yaralandı.Kaza, Şehitkamil ilçesi Alpaslan Mahallesi Araban Yolu Caddesi Beykent kavşağında meydana geldi. İddiaya göre, sürücüsü öğrenilemeyen 27 D 7416 plakalı otomobil, yolun karşısına geçmeye çalışan Zeliha Y.’ye çarptı. Kaza sonrası metrelerce savrulan Zeliha Y. ağır yaralandı. Çevredeki vatandaşların 112 Acil Çağrı Merkezi’ne ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Olay yerine gelen sağlık",
-      "long_summary_tr": "Gaziantep’te yolun karşısına geçmek isterken otomobilin çarptığı kadın ağır yaralandı.Kaza, Şehitkamil ilçesi Alpaslan Mahallesi Araban Yolu Caddesi Beykent kavşağında meydana geldi. İddiaya göre, sürücüsü öğrenilemeyen 27 D 7416 plakalı otomobil, yolun karşısına geçmeye çalışan Zeliha Y.’ye çarptı. Kaza sonrası metrelerce savrulan Zeliha Y. ağır yaralandı. Çevredeki vatandaşların 112 Acil Çağrı Merkezi’ne ihbarı üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Olay yerine gelen sağlık",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/gaziantep-te-karsiya-gecmek-isterken-otomobilin-carptigi-kadin-agir-yaralandi-1572069",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/gaziantep-te-karsiya-gecmek-isterken-otomobilin-carptigi-kadin-agir-yaralandi-1770144775-990_large.webp",
-      "published_at": "2026-02-03T17:23:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Has the January transfer window always felt flat?",
-      "title_tr": "Has the January transfer window always felt flat?",
-      "summary": "With just seven Premier League deals done on transfer deadline day, has the winter transfer window become a damp squib?",
-      "summary_tr": "With just seven Premier League deals done on transfer deadline day, has the winter transfer window become a damp squib?",
-      "long_summary": "With just seven Premier League deals done on transfer deadline day, has the winter transfer window become a damp squib?",
-      "long_summary_tr": "With just seven Premier League deals done on transfer deadline day, has the winter transfer window become a damp squib?",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cp82g9gdg0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45bf/live/9f1a3410-011d-11f1-a88f-113f60a613fb.jpg",
-      "published_at": "2026-02-03T17:21:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Son dakika: İran, İstanbul’daki görüşmenin Umman’a taşınmasını istedi",
-      "title_tr": "Son dakika: İran, İstanbul’daki görüşmenin Umman’a taşınmasını istedi",
-      "summary": "Son dakika haberine göre ABD basını, İran’ın ABD’li yetkililerle İstanbul’da yapılması planlanan görüşmenin Umman’a taşınmasını istediğini ve başka ülkelerin katılımını istemediğini iddia etti.",
-      "summary_tr": "Son dakika haberine göre ABD basını, İran’ın ABD’li yetkililerle İstanbul’da yapılması planlanan görüşmenin Umman’a taşınmasını istediğini ve başka ülkelerin katılımını istemediğini iddia etti.",
-      "long_summary": "Son dakika haberine göre ABD basını, İran’ın ABD’li yetkililerle İstanbul’da yapılması planlanan görüşmenin Umman’a taşınmasını istediğini ve başka ülkelerin katılımını istemediğini iddia etti.",
-      "long_summary_tr": "Son dakika haberine göre ABD basını, İran’ın ABD’li yetkililerle İstanbul’da yapılması planlanan görüşmenin Umman’a taşınmasını istediğini ve başka ülkelerin katılımını istemediğini iddia etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/son-dakika-iran-istanbuldaki-gorusmenin-ummana-tasinmasini-istedi-haberi-813821",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/abd-cocz_cover.jpg",
-      "published_at": "2026-02-03T17:20:00+00:00"
+      "url": "https://www.gamespot.com/articles/mlb-the-show-26-takes-players-from-college-to-the-hall-of-fame/1100-6537891/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4645339-mlbtheshow26player.jpg",
+      "published_at": "2026-02-03T20:17:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -1041,43 +227,175 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "The Best Films We Saw at the 2026 Sundance Film Festival",
-      "title_tr": "The Best Films We Saw at the 2026 Sundance Film Festival",
-      "summary": "Look out for these indie releases this year.",
-      "summary_tr": "Look out for these indie releases this year.",
-      "long_summary": "Look out for these indie releases this year.",
-      "long_summary_tr": "Look out for these indie releases this year.",
+      "title": "The Drop-Waist Dress Is the Only Trend That Matters This Year",
+      "title_tr": "The Drop-Waist Dress Is the Only Trend That Matters This Year",
+      "summary": "It’s perfect for every occasion.",
+      "summary_tr": "It’s perfect for every occasion.",
+      "long_summary": "It’s perfect for every occasion.",
+      "long_summary_tr": "It’s perfect for every occasion.",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/culture/movies-tv/a70222278/best-movies-sundance-film-festival-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/21293838-9774-43ee-b96e-5595fbc7ffab.jpg",
-      "published_at": "2026-02-03T17:19:53+00:00"
+      "url": "https://www.elle.com/fashion/shopping/a64315837/best-drop-waist-dresses/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/guest-wears-long-dark-brown-hair-worn-loose-with-a-center-news-photo-1770069317.pjpeg",
+      "published_at": "2026-02-03T20:12:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Two Towers Trick-Taking Game Review",
+      "title_tr": "The Two Towers Trick-Taking Game Review",
+      "summary": "The Two Towers: The Trick Taking Game delivers a wonderful cooperative experience for fans of both the Lord of the Rings and the trick taking genre – whether you've played the first game or not.",
+      "summary_tr": "The Two Towers: The Trick Taking Game delivers a wonderful cooperative experience for fans of both the Lord of the Rings and the trick taking genre – whether you've played the first game or not.",
+      "long_summary": "The Two Towers: The Trick Taking Game delivers a wonderful cooperative experience for fans of both the Lord of the Rings and the trick taking genre – whether you've played the first game or not.",
+      "long_summary_tr": "The Two Towers: The Trick Taking Game delivers a wonderful cooperative experience for fans of both the Lord of the Rings and the trick taking genre – whether you've played the first game or not.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/the-two-towers-trick-taking-game-review",
+      "image": "https://assets-prd.ignimgs.com/2026/02/01/twotowerstrick-review-thumb-1769956565913.jpg",
+      "published_at": "2026-02-03T20:07:33+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Şırnak’ta dev kayalar köye düştü, 30 hayvan telef oldu",
-      "title_tr": "Şırnak’ta dev kayalar köye düştü, 30 hayvan telef oldu",
-      "summary": "Şırnak’ın Beytüşşebap ilçesine bağlı Ayvalık köyünde şiddetli sağanağın ardından dağdan kopan dev kaya parçaları köy yerleşim alanına kadar indi. Merada bulunan 30 küçükbaş hayvan telef oldu.Beytüşşebap ilçesine bağlı Ayvalık köyünde aşırı kar yağışının ardından etkili olan şiddetli sağanak, büyük bir felakete yol açtı. İki ayrı noktaya düşen dev kayalar, merada bulunan 30 küçükbaş hayvanın telef olmasına neden oldu. Olayda can kaybı yaşanmazken, büyük panik yaşayan köy halkı korku dolu anlar yaşadı.\n\nYaşanan risk nedeniyle yetkililer harekete geçti. Muhtemel kaya düşmelerine karşı tedbir amacıyla köyde bulunan 15 ev tahliye edildi. AFAD, jandarma ve ilgili kurum ekipleri bölgede inceleme başlatırken, tehlike arz eden alanlar güvenlik şeridiyle kapatıldı.\n\nYetkililer, bölgede hava şartlarının normale dönmesine kadar vatandaşların dikkatli olması yönünde uyarıda bulunurken, köydeki durumun yakından takip edildiği bildirildi. Doğa olaylarının sıkça yaşandığı bölgede, yeni risklere karşı ek önlemlerin alınacağı öğrenildi.",
-      "summary_tr": "Şırnak’ın Beytüşşebap ilçesine bağlı Ayvalık köyünde şiddetli sağanağın ardından dağdan kopan dev kaya parçaları köy yerleşim alanına kadar indi. Merada bulunan 30 küçükbaş hayvan telef oldu.Beytüşşebap ilçesine bağlı Ayvalık köyünde aşırı kar yağışının ardından etkili olan şiddetli sağanak, büyük bir felakete yol açtı. İki ayrı noktaya düşen dev kayalar, merada bulunan 30 küçükbaş hayvanın telef olmasına neden oldu. Olayda can kaybı yaşanmazken, büyük panik yaşayan köy halkı korku dolu anlar yaşadı.\n\nYaşanan risk nedeniyle yetkililer harekete geçti. Muhtemel kaya düşmelerine karşı tedbir amacıyla köyde bulunan 15 ev tahliye edildi. AFAD, jandarma ve ilgili kurum ekipleri bölgede inceleme başlatırken, tehlike arz eden alanlar güvenlik şeridiyle kapatıldı.\n\nYetkililer, bölgede hava şartlarının normale dönmesine kadar vatandaşların dikkatli olması yönünde uyarıda bulunurken, köydeki durumun yakından takip edildiği bildirildi. Doğa olaylarının sıkça yaşandığı bölgede, yeni risklere karşı ek önlemlerin alınacağı öğrenildi.",
-      "long_summary": "Şırnak’ın Beytüşşebap ilçesine bağlı Ayvalık köyünde şiddetli sağanağın ardından dağdan kopan dev kaya parçaları köy yerleşim alanına kadar indi. Merada bulunan 30 küçükbaş hayvan telef oldu.Beytüşşebap ilçesine bağlı Ayvalık köyünde aşırı kar yağışının ardından etkili olan şiddetli sağanak, büyük bir felakete yol açtı. İki ayrı noktaya düşen dev kayalar, merada bulunan 30 küçükbaş hayvanın telef olmasına neden oldu. Olayda can kaybı yaşanmazken, büyük panik yaşayan köy halkı korku dolu anlar",
-      "long_summary_tr": "Şırnak’ın Beytüşşebap ilçesine bağlı Ayvalık köyünde şiddetli sağanağın ardından dağdan kopan dev kaya parçaları köy yerleşim alanına kadar indi. Merada bulunan 30 küçükbaş hayvan telef oldu.Beytüşşebap ilçesine bağlı Ayvalık köyünde aşırı kar yağışının ardından etkili olan şiddetli sağanak, büyük bir felakete yol açtı. İki ayrı noktaya düşen dev kayalar, merada bulunan 30 küçükbaş hayvanın telef olmasına neden oldu. Olayda can kaybı yaşanmazken, büyük panik yaşayan köy halkı korku dolu anlar",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "WarrenAI’nin 2026’da İzlenmesi Gereken En İyi Çin Elektrikli Araç Hisseleri",
+      "title_tr": "WarrenAI’nin 2026’da İzlenmesi Gereken En İyi Çin Elektrikli Araç Hisseleri",
+      "summary": "WarrenAI’nin 2026’da İzlenmesi Gereken En İyi Çin Elektrikli Araç Hisseleri",
+      "summary_tr": "WarrenAI’nin 2026’da İzlenmesi Gereken En İyi Çin Elektrikli Araç Hisseleri",
+      "long_summary": "WarrenAI’nin 2026’da İzlenmesi Gereken En İyi Çin Elektrikli Araç Hisseleri",
+      "long_summary_tr": "WarrenAI’nin 2026’da İzlenmesi Gereken En İyi Çin Elektrikli Araç Hisseleri",
       "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/sirnak-ta-dev-kayalar-koye-dustu-30-hayvan-telef-oldu-1572067",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/sirnak-ta-dev-kayalar-koye-dustu-30-hayvan-telef-oldu-1770144717-701_large.webp",
-      "published_at": "2026-02-03T17:19:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/warrenainin-2026da-izlenmesi-gereken-en-iyi-cin-elektrikli-arac-hisseleri-93CH-3743913",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-03T20:06:31+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Beyaz Saray: İran ile görüşmeler bu hafta sonuna doğru yapılacak",
+      "title_tr": "Beyaz Saray: İran ile görüşmeler bu hafta sonuna doğru yapılacak",
+      "summary": "Beyaz Saray Sözcüsü Karoline Leavitt, Başkan Donald Trump'ın \"önce diplomasi\" yaklaşımını benimsediğini ve Özel Temsilci Steve Witkoff'un bu haftanın sonuna doğru İranlı yetkililerle bir araya geleceğini açıkladı.",
+      "summary_tr": "Beyaz Saray Sözcüsü Karoline Leavitt, Başkan Donald Trump'ın \"önce diplomasi\" yaklaşımını benimsediğini ve Özel Temsilci Steve Witkoff'un bu haftanın sonuna doğru İranlı yetkililerle bir araya geleceğini açıkladı.",
+      "long_summary": "Beyaz Saray Sözcüsü Karoline Leavitt, Başkan Donald Trump'ın \"önce diplomasi\" yaklaşımını benimsediğini ve Özel Temsilci Steve Witkoff'un bu haftanın sonuna doğru İranlı yetkililerle bir araya geleceğini açıkladı.",
+      "long_summary_tr": "Beyaz Saray Sözcüsü Karoline Leavitt, Başkan Donald Trump'ın \"önce diplomasi\" yaklaşımını benimsediğini ve Özel Temsilci Steve Witkoff'un bu haftanın sonuna doğru İranlı yetkililerle bir araya geleceğini açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/beyaz-saray-iran-ile-gorusmeler-bu-hafta-sonuna-dogru-yapilacak-3768173",
+      "image": null,
+      "published_at": "2026-02-03T20:05:33+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Chappell Roan is Joining Fortnite, and Here's How She Looks",
+      "title_tr": "Chappell Roan is Joining Fortnite, and Here's How She Looks",
+      "summary": "Fresh from her appearance at the Grammys, Pink Pony Club singer Chappell Roan is hot to go in Fortnite this week.",
+      "summary_tr": "Fresh from her appearance at the Grammys, Pink Pony Club singer Chappell Roan is hot to go in Fortnite this week.",
+      "long_summary": "Fresh from her appearance at the Grammys, Pink Pony Club singer Chappell Roan is hot to go in Fortnite this week.",
+      "long_summary_tr": "Fresh from her appearance at the Grammys, Pink Pony Club singer Chappell Roan is hot to go in Fortnite this week.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/chappell-roan-is-joining-fortnite-and-heres-how-she-looks",
+      "image": "https://assets-prd.ignimgs.com/2026/02/03/fnxchappellroan-keyart-1920x1080-1770124122222.jpg",
+      "published_at": "2026-02-03T20:02:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Cumhurbaşkanı Erdoğan: Türkiye, İran ile ABD arasında arabuluculuğa hazır",
+      "title_tr": "Cumhurbaşkanı Erdoğan: Türkiye, İran ile ABD arasında arabuluculuğa hazır",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır\" ifadelerini kullanarak, \"Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız\" dedi.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır\" ifadelerini kullanarak, \"Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız\" dedi.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır\" ifadelerini kullanarak, \"Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız\" dedi.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır\" ifadelerini kullanarak, \"Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız\" dedi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-turkiye-iran-ile-abd-arasinda-kolaylastirici-rol-ustlenmeye-hazir-1710335",
+      "image": "https://images.ntv.com.tr/images/Erdoğan-478466.jpg",
+      "published_at": "2026-02-03T20:00:06+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Audi, isimlendirme stratejisini değiştirdiği için pişman",
+      "title_tr": "Audi, isimlendirme stratejisini değiştirdiği için pişman",
+      "summary": "Neyse ki hata şimdiden düzeltildi.",
+      "summary_tr": "Neyse ki hata şimdiden düzeltildi.",
+      "long_summary": "Neyse ki hata şimdiden düzeltildi.",
+      "long_summary_tr": "Neyse ki hata şimdiden düzeltildi.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/786295/audi-isim-stratejisi-pisman/",
+      "image": "https://cdn.motor1.com/images/mgl/Oo096X/s3/audi-a4-1994-im-fahrbericht.jpg",
+      "published_at": "2026-02-03T20:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD, Rusya ve Ukrayna Abu Dabi'de yeniden masaya oturacak",
+      "title_tr": "ABD, Rusya ve Ukrayna Abu Dabi'de yeniden masaya oturacak",
+      "summary": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi'de üçlü bir görüşmede bir araya gelerek Rusya-Ukrayna barış anlaşmasına yönelik ileri düzey görüşmeler yapacağını açıkladı.",
+      "summary_tr": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi'de üçlü bir görüşmede bir araya gelerek Rusya-Ukrayna barış anlaşmasına yönelik ileri düzey görüşmeler yapacağını açıkladı.",
+      "long_summary": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi'de üçlü bir görüşmede bir araya gelerek Rusya-Ukrayna barış anlaşmasına yönelik ileri düzey görüşmeler yapacağını açıkladı.",
+      "long_summary_tr": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi'de üçlü bir görüşmede bir araya gelerek Rusya-Ukrayna barış anlaşmasına yönelik ileri düzey görüşmeler yapacağını açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-rusya-ve-ukrayna-abu-dabi-de-yeniden-masaya-oturacak-3768172",
+      "image": null,
+      "published_at": "2026-02-03T19:56:57+00:00"
     },
     {
       "origin": "turkiye",
@@ -1085,21 +403,703 @@
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "ShiftDelete",
-      "title": "En İyisi O mu? Honor Magic 8 Pro İnceleme!",
-      "title_tr": "En İyisi O mu? Honor Magic 8 Pro İnceleme!",
-      "summary": "Bugün masamızda öyle her gün karşımıza çıkmayan, “amiral gemisi” tabirinin içini tam manasıyla dolduran bir canavar var: Honor Magic 8 Pro. Türkiye pazarında resmi olarak satışa sunulan ilk Snapdragon 8 Elite Gen 5 işlemcili telefon olmasıyla zaten tüm bakışları üzerine topluyor. Gelin, bu performans canavarı neler sunuyor, kağıt üzerindeki veriler günlük kullanımda neye dönüşüyor, yakından […]",
-      "summary_tr": "Bugün masamızda öyle her gün karşımıza çıkmayan, “amiral gemisi” tabirinin içini tam manasıyla dolduran bir canavar var: Honor Magic 8 Pro. Türkiye pazarında resmi olarak satışa sunulan ilk Snapdragon 8 Elite Gen 5 işlemcili telefon olmasıyla zaten tüm bakışları üzerine topluyor. Gelin, bu performans canavarı neler sunuyor, kağıt üzerindeki veriler günlük kullanımda neye dönüşüyor, yakından […]",
-      "long_summary": "Bugün masamızda öyle her gün karşımıza çıkmayan, “amiral gemisi” tabirinin içini tam manasıyla dolduran bir canavar var: Honor Magic 8 Pro. Türkiye pazarında resmi olarak satışa sunulan ilk Snapdragon 8 Elite Gen 5 işlemcili telefon olmasıyla zaten tüm bakışları üzerine topluyor. Gelin, bu performans canavarı neler sunuyor, kağıt üzerindeki veriler günlük kullanımda neye dönüşüyor, yakından […]",
-      "long_summary_tr": "Bugün masamızda öyle her gün karşımıza çıkmayan, “amiral gemisi” tabirinin içini tam manasıyla dolduran bir canavar var: Honor Magic 8 Pro. Türkiye pazarında resmi olarak satışa sunulan ilk Snapdragon 8 Elite Gen 5 işlemcili telefon olmasıyla zaten tüm bakışları üzerine topluyor. Gelin, bu performans canavarı neler sunuyor, kağıt üzerindeki veriler günlük kullanımda neye dönüşüyor, yakından […]",
+      "title": "İstanbul’da Otopilottaki Tesla Kaza Yaptı: Cevap Şaşırttı!",
+      "title_tr": "İstanbul’da Otopilottaki Tesla Kaza Yaptı: Cevap Şaşırttı!",
+      "summary": "İstanbul’da meydana gelen son trafik kazası, elektrikli otomobil devi Tesla’nın otopilot sistemini ve güvenlik protokollerini bir kez daha tartışma konusu haline getirdi. Sosyal medyada hızla yayılan görüntüler ve sürücünün iddiaları, otonom sürüş teknolojilerine ne kadar güvenilebileceği sorusunu yeniden gündeme taşıdı. Sürücünün aktardığı bilgilere göre, otopilot devredeyken seyir halinde olan araç, sistemden aniden çıkarak kontrolü kaybetti. […]",
+      "summary_tr": "İstanbul’da meydana gelen son trafik kazası, elektrikli otomobil devi Tesla’nın otopilot sistemini ve güvenlik protokollerini bir kez daha tartışma konusu haline getirdi. Sosyal medyada hızla yayılan görüntüler ve sürücünün iddiaları, otonom sürüş teknolojilerine ne kadar güvenilebileceği sorusunu yeniden gündeme taşıdı. Sürücünün aktardığı bilgilere göre, otopilot devredeyken seyir halinde olan araç, sistemden aniden çıkarak kontrolü kaybetti. […]",
+      "long_summary": "İstanbul’da meydana gelen son trafik kazası, elektrikli otomobil devi Tesla’nın otopilot sistemini ve güvenlik protokollerini bir kez daha tartışma konusu haline getirdi. Sosyal medyada hızla yayılan görüntüler ve sürücünün iddiaları, otonom sürüş teknolojilerine ne kadar güvenilebileceği sorusunu yeniden gündeme taşıdı. Sürücünün aktardığı bilgilere göre, otopilot devredeyken seyir halinde olan araç, sistemden aniden çıkarak kontrolü kaybetti. […]",
+      "long_summary_tr": "İstanbul’da meydana gelen son trafik kazası, elektrikli otomobil devi Tesla’nın otopilot sistemini ve güvenlik protokollerini bir kez daha tartışma konusu haline getirdi. Sosyal medyada hızla yayılan görüntüler ve sürücünün iddiaları, otonom sürüş teknolojilerine ne kadar güvenilebileceği sorusunu yeniden gündeme taşıdı. Sürücünün aktardığı bilgilere göre, otopilot devredeyken seyir halinde olan araç, sistemden aniden çıkarak kontrolü kaybetti. […]",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://shiftdelete.net/en-iyisi-o-mu-honor-magic-8-pro-inceleme",
+      "url": "https://shiftdelete.net/istanbulda-otopilottaki-tesla-kaza-yapti-cevap-sasirtti",
       "image": null,
-      "published_at": "2026-02-03T17:18:45+00:00"
+      "published_at": "2026-02-03T19:56:22+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly killed",
+      "title_tr": "Saif al-Islam Gaddafi, son of ex-Libyan leader, reportedly killed",
+      "summary": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media.",
+      "summary_tr": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media.",
+      "long_summary": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media.",
+      "long_summary_tr": "The 53-year-old, who was once widely seen as the second most powerful person in Libya, was killed on Tuesday according to Libyan media.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cp37g4xgkxdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a17/live/cfe00bd0-0134-11f1-a8b8-bdd2c5f9bcad.jpg",
+      "published_at": "2026-02-03T19:47:20+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Libya basını: Muammer Kaddafi'nin büyük oğlu Seyfülislam Kaddafi öldürüldü",
+      "title_tr": "Libya basını: Muammer Kaddafi'nin büyük oğlu Seyfülislam Kaddafi öldürüldü",
+      "summary": "Libya medyası, devrik lider Muammer Kaddafi&#039;nin büyük oğlu Seyfülislam Kaddafi&#039;nin öldürüldüğünü iddia etti.",
+      "summary_tr": "Libya medyası, devrik lider Muammer Kaddafi&#039;nin büyük oğlu Seyfülislam Kaddafi&#039;nin öldürüldüğünü iddia etti.",
+      "long_summary": "Libya medyası, devrik lider Muammer Kaddafi&#039;nin büyük oğlu Seyfülislam Kaddafi&#039;nin öldürüldüğünü iddia etti.",
+      "long_summary_tr": "Libya medyası, devrik lider Muammer Kaddafi&#039;nin büyük oğlu Seyfülislam Kaddafi&#039;nin öldürüldüğünü iddia etti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/libya-basini-muammer-kaddafinin-buyuk-oglu-seyfulislam-kaddafi-olduruldu-haberi-813832",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/muammer-kaddafi-jfaa_cover.jpg",
+      "published_at": "2026-02-03T19:44:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Balıkesir'de AK Parti binasına saldırı",
+      "title_tr": "Balıkesir'de AK Parti binasına saldırı",
+      "summary": "Balıkesir'de AK Parti Marmara İlçe Başkanlığı binasına saldırı yapıldı. İl Başkanı Mehmet Aydemir açıklama yaptı.AK Parti binasına Balıkesir'de saldırı yapıldı. AK Parti Marmara İlçe Başkanlığı binasına kimliği belirsiz kişiler taş fıldırttı.\n\nAK Parti Balıkesir İl Başkanı Mehmet Aydemir, yaptığı açıklamada, taşlı saldırının yalnızca bir binaya değil, demokrasiye, siyasetin meşru zeminine ve millet iradesine yapıldığını belirtti.\n\nSaldırının, fikri olmayanın şiddete başvurduğunu, tahammülsüzlüğün ve provokasyonun hangi noktaya vardığını açıkça gösterdiğini aktaran Aydemir, şunları kaydetti:\n\n\"Biz siyasetimizi milletle, sandıkla ve hizmetle yaparız. Taşla, tehditle ve zorbalıkla mesaj vermeye çalışanlar bilmelidir ki AK Parti teşkilatları, hiçbir şiddete boyun eğmez. Bu saldırının failleri, hukuk önünde mutlaka hesap verecektir. Türkiye'de siyaseti şiddetle dizayn etmeye kalkışanlara asla müsaade edilmeyecektir. Demokrasiye uzanan her elin karşısında hukuk, devlet aklı ve AK Parti’nin kararlı duruşu vardır. Geçmiş olsun Marmara İlçe Teşkilatımız. Bu dava, saldırılarla değil, inançla ve milletle yoluna devam eder.\"\n\nŞüphelinin yakalanmasına yönelik çalışmaların sürdüğü bildirildi.",
+      "summary_tr": "Balıkesir'de AK Parti Marmara İlçe Başkanlığı binasına saldırı yapıldı. İl Başkanı Mehmet Aydemir açıklama yaptı.AK Parti binasına Balıkesir'de saldırı yapıldı. AK Parti Marmara İlçe Başkanlığı binasına kimliği belirsiz kişiler taş fıldırttı.\n\nAK Parti Balıkesir İl Başkanı Mehmet Aydemir, yaptığı açıklamada, taşlı saldırının yalnızca bir binaya değil, demokrasiye, siyasetin meşru zeminine ve millet iradesine yapıldığını belirtti.\n\nSaldırının, fikri olmayanın şiddete başvurduğunu, tahammülsüzlüğün ve provokasyonun hangi noktaya vardığını açıkça gösterdiğini aktaran Aydemir, şunları kaydetti:\n\n\"Biz siyasetimizi milletle, sandıkla ve hizmetle yaparız. Taşla, tehditle ve zorbalıkla mesaj vermeye çalışanlar bilmelidir ki AK Parti teşkilatları, hiçbir şiddete boyun eğmez. Bu saldırının failleri, hukuk önünde mutlaka hesap verecektir. Türkiye'de siyaseti şiddetle dizayn etmeye kalkışanlara asla müsaade edilmeyecektir. Demokrasiye uzanan her elin karşısında hukuk, devlet aklı ve AK Parti’nin kararlı duruşu vardır. Geçmiş olsun Marmara İlçe Teşkilatımız. Bu dava, saldırılarla değil, inançla ve milletle yoluna devam eder.\"\n\nŞüphelinin yakalanmasına yönelik çalışmaların sürdüğü bildirildi.",
+      "long_summary": "Balıkesir'de AK Parti Marmara İlçe Başkanlığı binasına saldırı yapıldı. İl Başkanı Mehmet Aydemir açıklama yaptı.AK Parti binasına Balıkesir'de saldırı yapıldı. AK Parti Marmara İlçe Başkanlığı binasına kimliği belirsiz kişiler taş fıldırttı.\n\nAK Parti Balıkesir İl Başkanı Mehmet Aydemir, yaptığı açıklamada, taşlı saldırının yalnızca bir binaya değil, demokrasiye, siyasetin meşru zeminine ve millet iradesine yapıldığını belirtti.\n\nSaldırının, fikri olmayanın şiddete başvurduğunu,",
+      "long_summary_tr": "Balıkesir'de AK Parti Marmara İlçe Başkanlığı binasına saldırı yapıldı. İl Başkanı Mehmet Aydemir açıklama yaptı.AK Parti binasına Balıkesir'de saldırı yapıldı. AK Parti Marmara İlçe Başkanlığı binasına kimliği belirsiz kişiler taş fıldırttı.\n\nAK Parti Balıkesir İl Başkanı Mehmet Aydemir, yaptığı açıklamada, taşlı saldırının yalnızca bir binaya değil, demokrasiye, siyasetin meşru zeminine ve millet iradesine yapıldığını belirtti.\n\nSaldırının, fikri olmayanın şiddete başvurduğunu,",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/balikesir-de-ak-parti-binasina-saldiri-1572131",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/balikesir-de-ak-parti-binasina-saldiri-1770151313-703_large.webp",
+      "published_at": "2026-02-03T19:43:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Süper Lig'den 9 kulüp PFDK'ye sevk edildi",
+      "title_tr": "Süper Lig'den 9 kulüp PFDK'ye sevk edildi",
+      "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig&#039;den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+      "summary_tr": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig&#039;den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+      "long_summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig&#039;den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+      "long_summary_tr": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig&#039;den 9 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/super-ligden-9-kulup-pfdkye-sevk-edildi-haberi-813831",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/01/09/pfdk-kararlari-jgmd-cover-v0gb_cover.jpg",
+      "published_at": "2026-02-03T19:43:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Arknights: Endfield Review",
+      "title_tr": "Arknights: Endfield Review",
+      "summary": "A sci-fi gacha game with a factory automation twist.",
+      "summary_tr": "A sci-fi gacha game with a factory automation twist.",
+      "long_summary": "A sci-fi gacha game with a factory automation twist.",
+      "long_summary_tr": "A sci-fi gacha game with a factory automation twist.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/arknights-endfield-review",
+      "image": "https://assets-prd.ignimgs.com/2026/01/21/arknights-blogroll-1768954511788.jpg",
+      "published_at": "2026-02-03T19:40:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Epstein'in kan donduran mesajı ortaya çıktı: 'O şehrin sakinlerini yok edeceksin'",
+      "title_tr": "Epstein'in kan donduran mesajı ortaya çıktı: 'O şehrin sakinlerini yok edeceksin'",
+      "summary": "Epstein skandalında ortaya çıkan belgeler kan dondurmaya devam ediyor. Eski Ahid'den pasajlar kullanılarak oluşturduğu bir mesajında şiddet içerikli, kadınları yaşlıları öldürmeye çağıran ve bir şehirde yaşayanları yok etmeyi söyleyen bölümler yer alıyor.Siyasiler ve ünlü isimlerle kurdukları kirli ağın ortaya çıktığı Jeffrey Epstein'e ilişkin açıklanan yeni belgelerde dünyayı sarsan detaylar ortaya çıktı. Epstein'in yazışmalarında bu defa Yahudilerin kutsal metinlerinden bazı pasajları kullanarak şiddet çağrısı yaptığı belirlendi.\n\nESKİ AHİD'DEN ŞİDDET İÇERİKLİ MESAJLAR\n\nABD Adalet Bakan Yardımcısı Todd Blanche'ın, Epstein'e yönelik soruşturma kapsamında 3 milyondan fazla yeni dosyanın kamuoyuyla paylaşıldığını bildirmesinin ardından Epstein'in yazışmalarında dikkati çeken yeni detaylar beliriyor.\n\nEpstein'in, 6 Nisan 2014'te gönderdiği e-postada, Yahudilerin kutsal metinlerinden oluşan Eski Ahid'den bir alıntı seçkisi yaptığı görülüyor.\n\nKATLİAM ÇAĞRISI\n\nHangi amaçla yazdığı ve nasıl bir mesaj vermek istediğine ilişkin detayın bulunmadığı, ABD Adalet Bakanlığının da belge üzerinde yer alan \"gönderilen\" kişi kısmını sansürlediği mesajın tam metni şu şekilde:\n\nHezekiel 9:6 \"Yaşlıyı, genci, genç kızı, kadını, çocukları öldürün...\"\n\nYeşaya 13:16 \"Yavruları gözleri önünde parçalanacak. Evleri yağmalanacak. Kadınlarının ırzına geçilecek.\"\n\nTesniye 13:15 \"O şehrin sakinlerini kılıçla vurup tamamen yok edeceksin...\"\n\nLevililer 20:9 \"Babasına veya annesine lanet eden herkes mutlaka öldürülecektir...\"\n\nMısır'dan Çıkış 32:27 \"...İsrail'in Tanrısı RAB diyor ki, ‘Herkes kılıcını kuşansın. Ordugahta kapı kapı dolaşarak kardeşini, komşusunu, yakınını öldürsün.\"\n\nTesniye 21:10-12 \"Düşmanlarınızla savaşmaya çıktığınızda ve Tanrınız RAB onları elinize teslim ettiğinde, tutsaklar alır ve aralarında sevdiğiniz güzel bir kadın görürseniz, onu kendinize eş olarak alabilirsiniz. Onu evinize götürün. Başını tıraş etsin, tırnaklarını kessin.\"\n\nMısır'dan Çıkış 31:15 \"...Şabat Günü çalışan herkes kesinlikle öldürülmelidir.\"\n\nTesniye 21:21 \"Ve şehrinin bütün adamları onu taşla taşlayacaklar ve ölecek...\"\n\nJEFFREY EPSTEİN OLAYI\n\nEn küçüğü 14 olmak üzere 18 yaş altındaki onlarca kız çocuğuna cinsel istismarda bulunmak ve fuhuş ağı oluşturmak suçlamasıyla yargılanan Epstein, tutuklu olduğu New York Manhattan Metropolitan Merkez Hapishanesi'ndeki hücresinde 10 Ağustos 2019'da ölü bulunmuştu.\n\nAçıklanan Epstein dava dosyalarında Prens Andrew, ABD Başkanı Donald Trump, eski ABD Başkanı Bill Clinton, eski İsrail Başbakanı Ehud Barak, eski ABD Başkan Yardımcısı Al Gore, aktör Kevin Spacey, şarkıcı Michael Jackson, illüzyonist David Copperfield, avukat Alan Dershowitz ve eski New Mexico Valisi Bill Richardson gibi ünlü isimler yer almıştı.\n\nABD Federal Soruşturma Bürosu (FBI) da ABD Adalet Bakanlığı ile yaptığı inceleme sonucunda ünlü isimlerden oluşan \"müşteri listesi\"nin tutulduğuna dair herhangi bir kanıta ulaşılamadığını, aralarında hükümet yetkilileri, ünlüler ve iş insanlarının da bulunduğu kişilerin suçuna ortak olduğu gerekçesiyle örtbas amacıyla öldürüldüğü öne sürülen Epstein'in ise aslında hücresinde intihar ettiği sonucuna varıldığını açıklamıştı.",
+      "summary_tr": "Epstein skandalında ortaya çıkan belgeler kan dondurmaya devam ediyor. Eski Ahid'den pasajlar kullanılarak oluşturduğu bir mesajında şiddet içerikli, kadınları yaşlıları öldürmeye çağıran ve bir şehirde yaşayanları yok etmeyi söyleyen bölümler yer alıyor.Siyasiler ve ünlü isimlerle kurdukları kirli ağın ortaya çıktığı Jeffrey Epstein'e ilişkin açıklanan yeni belgelerde dünyayı sarsan detaylar ortaya çıktı. Epstein'in yazışmalarında bu defa Yahudilerin kutsal metinlerinden bazı pasajları kullanarak şiddet çağrısı yaptığı belirlendi.\n\nESKİ AHİD'DEN ŞİDDET İÇERİKLİ MESAJLAR\n\nABD Adalet Bakan Yardımcısı Todd Blanche'ın, Epstein'e yönelik soruşturma kapsamında 3 milyondan fazla yeni dosyanın kamuoyuyla paylaşıldığını bildirmesinin ardından Epstein'in yazışmalarında dikkati çeken yeni detaylar beliriyor.\n\nEpstein'in, 6 Nisan 2014'te gönderdiği e-postada, Yahudilerin kutsal metinlerinden oluşan Eski Ahid'den bir alıntı seçkisi yaptığı görülüyor.\n\nKATLİAM ÇAĞRISI\n\nHangi amaçla yazdığı ve nasıl bir mesaj vermek istediğine ilişkin detayın bulunmadığı, ABD Adalet Bakanlığının da belge üzerinde yer alan \"gönderilen\" kişi kısmını sansürlediği mesajın tam metni şu şekilde:\n\nHezekiel 9:6 \"Yaşlıyı, genci, genç kızı, kadını, çocukları öldürün...\"\n\nYeşaya 13:16 \"Yavruları gözleri önünde parçalanacak. Evleri yağmalanacak. Kadınlarının ırzına geçilecek.\"\n\nTesniye 13:15 \"O şehrin sakinlerini kılıçla vurup tamamen yok edeceksin...\"\n\nLevililer 20:9 \"Babasına veya annesine lanet eden herkes mutlaka öldürülecektir...\"\n\nMısır'dan Çıkış 32:27 \"...İsrail'in Tanrısı RAB diyor ki, ‘Herkes kılıcını kuşansın. Ordugahta kapı kapı dolaşarak kardeşini, komşusunu, yakınını öldürsün.\"\n\nTesniye 21:10-12 \"Düşmanlarınızla savaşmaya çıktığınızda ve Tanrınız RAB onları elinize teslim ettiğinde, tutsaklar alır ve aralarında sevdiğiniz güzel bir kadın görürseniz, onu kendinize eş olarak alabilirsiniz. Onu evinize götürün. Başını tıraş etsin, tırnaklarını kessin.\"\n\nMısır'dan Çıkış 31:15 \"...Şabat Günü çalışan herkes kesinlikle öldürülmelidir.\"\n\nTesniye 21:21 \"Ve şehrinin bütün adamları onu taşla taşlayacaklar ve ölecek...\"\n\nJEFFREY EPSTEİN OLAYI\n\nEn küçüğü 14 olmak üzere 18 yaş altındaki onlarca kız çocuğuna cinsel istismarda bulunmak ve fuhuş ağı oluşturmak suçlamasıyla yargılanan Epstein, tutuklu olduğu New York Manhattan Metropolitan Merkez Hapishanesi'ndeki hücresinde 10 Ağustos 2019'da ölü bulunmuştu.\n\nAçıklanan Epstein dava dosyalarında Prens Andrew, ABD Başkanı Donald Trump, eski ABD Başkanı Bill Clinton, eski İsrail Başbakanı Ehud Barak, eski ABD Başkan Yardımcısı Al Gore, aktör Kevin Spacey, şarkıcı Michael Jackson, illüzyonist David Copperfield, avukat Alan Dershowitz ve eski New Mexico Valisi Bill Richardson gibi ünlü isimler yer almıştı.\n\nABD Federal Soruşturma Bürosu (FBI) da ABD Adalet Bakanlığı ile yaptığı inceleme sonucunda ünlü isimlerden oluşan \"müşteri listesi\"nin tutulduğuna dair herhangi bir kanıta ulaşılamadığını, aralarında hükümet yetkilileri, ünlüler ve iş insanlarının da bulunduğu kişilerin suçuna ortak olduğu gerekçesiyle örtbas amacıyla öldürüldüğü öne sürülen Epstein'in ise aslında hücresinde intihar ettiği sonucuna varıldığını açıklamıştı.",
+      "long_summary": "Epstein skandalında ortaya çıkan belgeler kan dondurmaya devam ediyor. Eski Ahid'den pasajlar kullanılarak oluşturduğu bir mesajında şiddet içerikli, kadınları yaşlıları öldürmeye çağıran ve bir şehirde yaşayanları yok etmeyi söyleyen bölümler yer alıyor.Siyasiler ve ünlü isimlerle kurdukları kirli ağın ortaya çıktığı Jeffrey Epstein'e ilişkin açıklanan yeni belgelerde dünyayı sarsan detaylar ortaya çıktı. Epstein'in yazışmalarında bu defa Yahudilerin kutsal metinlerinden bazı pasajları",
+      "long_summary_tr": "Epstein skandalında ortaya çıkan belgeler kan dondurmaya devam ediyor. Eski Ahid'den pasajlar kullanılarak oluşturduğu bir mesajında şiddet içerikli, kadınları yaşlıları öldürmeye çağıran ve bir şehirde yaşayanları yok etmeyi söyleyen bölümler yer alıyor.Siyasiler ve ünlü isimlerle kurdukları kirli ağın ortaya çıktığı Jeffrey Epstein'e ilişkin açıklanan yeni belgelerde dünyayı sarsan detaylar ortaya çıktı. Epstein'in yazışmalarında bu defa Yahudilerin kutsal metinlerinden bazı pasajları",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/epstein-in-kan-donduran-mesaji-ortaya-cikti-o-sehrin-sakinlerini-yok-edeceksin-1572129",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/epstein-in-kan-donduran-mesaji-ortaya-cikti-o-sehrin-sakinlerini-yok-edeceksin-1770151272-178_large.webp",
+      "published_at": "2026-02-03T19:39:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Did Fallout Season 2 Episode 7 Hint That The Worst Fallout: New Vegas Ending Could Be Canon?",
+      "title_tr": "Did Fallout Season 2 Episode 7 Hint That The Worst Fallout: New Vegas Ending Could Be Canon?",
+      "summary": "With The Ghoul reactivating Mr. House, Lucy discovering the mainframe of her father’s devices, and Maximus having to protect Freeside, the penultimate episode of Fallout season two raised the stakes for an all-out finale in New Vegas. Yet for as much time as this episode dedicated to building up relationships and faction statuses, episode seven still delivered the goods when it came to action and references to the original games. With that being said, let’s dive right in to this week’s easter eggs:New (California) ThreadsWhen The Ghoul (Walton Goggins) and Maximus realize they need to stock up to battle the Deathclaws that are overrunning the strip, they head to a secret New California Republic armory. While at first nothing seems to stand out amongst the arsenal of weapons, a single piece stands out: an NCR themed suit of power armor. While we’re not quite sure why this even exists, there’s no denying the power of good brand recognition.Not A Ghoul But Something Much WorseThroughout the episode, Thaddeus’ (Johnny Pemberton) condition worsens. Curious as to when his nose will fall off, he shows The Ghoul an alarming new mutation he’s developed: a gaping mouth growing in the center of his chest (in addition to his arm falling off). Now while it’s not quite confirmed what exactly he turning into, it’s definitely not a ghoul. For my money, he’s showing signs of turning into a Centaur. One of the most horrifying creatures in the Fallout universe.Continue Reading at GameSpot",
+      "summary_tr": "With The Ghoul reactivating Mr. House, Lucy discovering the mainframe of her father’s devices, and Maximus having to protect Freeside, the penultimate episode of Fallout season two raised the stakes for an all-out finale in New Vegas. Yet for as much time as this episode dedicated to building up relationships and faction statuses, episode seven still delivered the goods when it came to action and references to the original games. With that being said, let’s dive right in to this week’s easter eggs:New (California) ThreadsWhen The Ghoul (Walton Goggins) and Maximus realize they need to stock up to battle the Deathclaws that are overrunning the strip, they head to a secret New California Republic armory. While at first nothing seems to stand out amongst the arsenal of weapons, a single piece stands out: an NCR themed suit of power armor. While we’re not quite sure why this even exists, there’s no denying the power of good brand recognition.Not A Ghoul But Something Much WorseThroughout the episode, Thaddeus’ (Johnny Pemberton) condition worsens. Curious as to when his nose will fall off, he shows The Ghoul an alarming new mutation he’s developed: a gaping mouth growing in the center of his chest (in addition to his arm falling off). Now while it’s not quite confirmed what exactly he turning into, it’s definitely not a ghoul. For my money, he’s showing signs of turning into a Centaur. One of the most horrifying creatures in the Fallout universe.Continue Reading at GameSpot",
+      "long_summary": "With The Ghoul reactivating Mr. House, Lucy discovering the mainframe of her father’s devices, and Maximus having to protect Freeside, the penultimate episode of Fallout season two raised the stakes for an all-out finale in New Vegas. Yet for as much time as this episode dedicated to building up relationships and faction statuses, episode seven still delivered the goods when it came to action and references to the original games. With that being said, let’s dive right in to this week’s easter",
+      "long_summary_tr": "With The Ghoul reactivating Mr. House, Lucy discovering the mainframe of her father’s devices, and Maximus having to protect Freeside, the penultimate episode of Fallout season two raised the stakes for an all-out finale in New Vegas. Yet for as much time as this episode dedicated to building up relationships and faction statuses, episode seven still delivered the goods when it came to action and references to the original games. With that being said, let’s dive right in to this week’s easter",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/did-fallout-season-2-episode-7-hint-that-the-worst-fallout-new-vegas-ending-could-be-canon/1100-6537885/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1860/18602785/4645260-ncrpower.jpeg",
+      "published_at": "2026-02-03T19:38:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Future of Overwatch Will Be Revealed Tomorrow – Here's What the Community Is Expecting to See",
+      "title_tr": "The Future of Overwatch Will Be Revealed Tomorrow – Here's What the Community Is Expecting to See",
+      "summary": "Blizzard Entertainment is getting ready to showcase a sneak peek at “huge reveals” for Overwatch with a Spotlight event – and it’s all happening tomorrow.",
+      "summary_tr": "Blizzard Entertainment is getting ready to showcase a sneak peek at “huge reveals” for Overwatch with a Spotlight event – and it’s all happening tomorrow.",
+      "long_summary": "Blizzard Entertainment is getting ready to showcase a sneak peek at “huge reveals” for Overwatch with a Spotlight event – and it’s all happening tomorrow.",
+      "long_summary_tr": "Blizzard Entertainment is getting ready to showcase a sneak peek at “huge reveals” for Overwatch with a Spotlight event – and it’s all happening tomorrow.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/the-future-of-overwatch-will-be-revealed-tomorrow-heres-what-the-community-is-expecting-to-see",
+      "image": "https://assets-prd.ignimgs.com/2026/02/03/soldier-76-overwatch-1770146676916.png",
+      "published_at": "2026-02-03T19:37:26+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Bitcoin, Trump'ın dönüşünden bu yana en düşük seviyede",
+      "title_tr": "Bitcoin, Trump'ın dönüşünden bu yana en düşük seviyede",
+      "summary": "Bitcoin, 73.762 dolara kadar gerileyerek Donald Trump'ın yeniden Beyaz Saray'a dönmesinin ardından en düşük seviyesini gördü.",
+      "summary_tr": "Bitcoin, 73.762 dolara kadar gerileyerek Donald Trump'ın yeniden Beyaz Saray'a dönmesinin ardından en düşük seviyesini gördü.",
+      "long_summary": "Bitcoin, 73.762 dolara kadar gerileyerek Donald Trump'ın yeniden Beyaz Saray'a dönmesinin ardından en düşük seviyesini gördü.",
+      "long_summary_tr": "Bitcoin, 73.762 dolara kadar gerileyerek Donald Trump'ın yeniden Beyaz Saray'a dönmesinin ardından en düşük seviyesini gördü.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/bitcoin-trump-in-donusunden-bu-yana-en-dusuk-seviyede-3768171",
+      "image": null,
+      "published_at": "2026-02-03T19:36:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Trabzonspor ikinci yarıda işi bitirdi",
+      "title_tr": "Trabzonspor ikinci yarıda işi bitirdi",
+      "summary": "Trabzonspor, Ziraat Türkiye Kupası A Grubu 3. hafta müsabakasında sahasında TFF 2. Lig takımlarından Fethiyespor'u 3-0 yenilgiye uğrattı.Ziraat Türkiye Kupası A Grubu 3. hafta karşılaşmasında Trabzonspor evinde Fethiyespor'u konuk etti.\n\nMücadelenin ilk devresi 0-0 beraberlikle tamamlandı. Fethiyespor'un 63. dakikada Muhammet Erdem ile kaydettiği gol, ofsayt gerekçesiyle VAR incelemesi sonrası iptal edildi.\n\nBu pozisyondan yalnızca 1 dakika sonra Ernest Muçi maçtaki gol perdesini araladı.\n\nKarşılaşmada son sözleri ise 77. dakikada Paul Onuachu ile 79. dakikada Nwakaeme dile getirdi.\n\nMücadeleden 3-0’lık zaferle ayrılan bordo-mavililer bu skorun ardından puanını 6’ya yükseltti. Fethiyespor ise 1 puanda kaldı.\n\nKupanın son haftasında Trabzonspor, Başakşehir deplasmanına hareket edecek.\n\nFethiyespor ise Fatih Karagümrük’ü sahasında konuk edecek.",
+      "summary_tr": "Trabzonspor, Ziraat Türkiye Kupası A Grubu 3. hafta müsabakasında sahasında TFF 2. Lig takımlarından Fethiyespor'u 3-0 yenilgiye uğrattı.Ziraat Türkiye Kupası A Grubu 3. hafta karşılaşmasında Trabzonspor evinde Fethiyespor'u konuk etti.\n\nMücadelenin ilk devresi 0-0 beraberlikle tamamlandı. Fethiyespor'un 63. dakikada Muhammet Erdem ile kaydettiği gol, ofsayt gerekçesiyle VAR incelemesi sonrası iptal edildi.\n\nBu pozisyondan yalnızca 1 dakika sonra Ernest Muçi maçtaki gol perdesini araladı.\n\nKarşılaşmada son sözleri ise 77. dakikada Paul Onuachu ile 79. dakikada Nwakaeme dile getirdi.\n\nMücadeleden 3-0’lık zaferle ayrılan bordo-mavililer bu skorun ardından puanını 6’ya yükseltti. Fethiyespor ise 1 puanda kaldı.\n\nKupanın son haftasında Trabzonspor, Başakşehir deplasmanına hareket edecek.\n\nFethiyespor ise Fatih Karagümrük’ü sahasında konuk edecek.",
+      "long_summary": "Trabzonspor, Ziraat Türkiye Kupası A Grubu 3. hafta müsabakasında sahasında TFF 2. Lig takımlarından Fethiyespor'u 3-0 yenilgiye uğrattı.Ziraat Türkiye Kupası A Grubu 3. hafta karşılaşmasında Trabzonspor evinde Fethiyespor'u konuk etti.\n\nMücadelenin ilk devresi 0-0 beraberlikle tamamlandı. Fethiyespor'un 63. dakikada Muhammet Erdem ile kaydettiği gol, ofsayt gerekçesiyle VAR incelemesi sonrası iptal edildi.\n\nBu pozisyondan yalnızca 1 dakika sonra Ernest Muçi maçtaki gol perdesini",
+      "long_summary_tr": "Trabzonspor, Ziraat Türkiye Kupası A Grubu 3. hafta müsabakasında sahasında TFF 2. Lig takımlarından Fethiyespor'u 3-0 yenilgiye uğrattı.Ziraat Türkiye Kupası A Grubu 3. hafta karşılaşmasında Trabzonspor evinde Fethiyespor'u konuk etti.\n\nMücadelenin ilk devresi 0-0 beraberlikle tamamlandı. Fethiyespor'un 63. dakikada Muhammet Erdem ile kaydettiği gol, ofsayt gerekçesiyle VAR incelemesi sonrası iptal edildi.\n\nBu pozisyondan yalnızca 1 dakika sonra Ernest Muçi maçtaki gol perdesini",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/trabzonspor-ikinci-yarida-isi-bitirdi-1572127",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/trabzonspor-ikinci-yarida-isi-bitirdi-1770151211-600_large.webp",
+      "published_at": "2026-02-03T19:34:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "ABD, Rusya ve Ukrayna Abu Dabi'de görüşecek",
+      "title_tr": "ABD, Rusya ve Ukrayna Abu Dabi'de görüşecek",
+      "summary": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi&#039;de &quot;üçlü bir görüşmede&quot; bir araya gelerek, Rusya-Ukrayna barış anlaşması için ileri görüşmeler gerçekleştireceğini açıkladı.",
+      "summary_tr": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi&#039;de &quot;üçlü bir görüşmede&quot; bir araya gelerek, Rusya-Ukrayna barış anlaşması için ileri görüşmeler gerçekleştireceğini açıkladı.",
+      "long_summary": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi&#039;de &quot;üçlü bir görüşmede&quot; bir araya gelerek, Rusya-Ukrayna barış anlaşması için ileri görüşmeler gerçekleştireceğini açıkladı.",
+      "long_summary_tr": "Beyaz Saray, ABD, Rusya ve Ukrayna temsilcilerinin Abu Dabi&#039;de &quot;üçlü bir görüşmede&quot; bir araya gelerek, Rusya-Ukrayna barış anlaşması için ileri görüşmeler gerçekleştireceğini açıkladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/abd-rusya-ve-ukrayna-abu-dabide-gorusecek-haberi-813830",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/abd-9hhe_cover.jpg",
+      "published_at": "2026-02-03T19:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Magic’s Secrets of Strixhaven Set Has Five Commander Decks - Here’s What We Know About Them",
+      "title_tr": "Magic’s Secrets of Strixhaven Set Has Five Commander Decks - Here’s What We Know About Them",
+      "summary": "Secrets of Strixhaven has five Commander precons - here's everything we know so far about each one.",
+      "summary_tr": "Secrets of Strixhaven has five Commander precons - here's everything we know so far about each one.",
+      "long_summary": "Secrets of Strixhaven has five Commander precons - here's everything we know so far about each one.",
+      "long_summary_tr": "Secrets of Strixhaven has five Commander precons - here's everything we know so far about each one.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/magics-secrets-of-strixhaven-set-has-five-commander-decks-heres-what-we-know-about-them",
+      "image": "https://assets-prd.ignimgs.com/2026/02/01/strixhaven-commander-decks-1769976912737.jpg",
+      "published_at": "2026-02-03T19:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Malatya'da direğe çarpan otomobilin sürücüsü yaralandı",
+      "title_tr": "Malatya'da direğe çarpan otomobilin sürücüsü yaralandı",
+      "summary": "Malatya'da trambüs direğine çarpan otomobilin sürücüsü yaralandı.M.N. idaresindeki 44 AEU 548 plakalı otomobil, Malatya-Elazığ kara yolu Çamurlu Mahallesi mevkisinde trambüs direğine çarptı.\n\nÇevredekilerin ihbarı üzerine kaza yerine polis, itfaiye ve sağlık ekipleri sevk edildi.Otomobilde sıkışan sürücü, itfaiye ekiplerince kurtarıldı.\n\nAmbulansla hastaneye kaldırılan sürücünün hayati tehlikesinin bulunduğu öğrenildi.",
+      "summary_tr": "Malatya'da trambüs direğine çarpan otomobilin sürücüsü yaralandı.M.N. idaresindeki 44 AEU 548 plakalı otomobil, Malatya-Elazığ kara yolu Çamurlu Mahallesi mevkisinde trambüs direğine çarptı.\n\nÇevredekilerin ihbarı üzerine kaza yerine polis, itfaiye ve sağlık ekipleri sevk edildi.Otomobilde sıkışan sürücü, itfaiye ekiplerince kurtarıldı.\n\nAmbulansla hastaneye kaldırılan sürücünün hayati tehlikesinin bulunduğu öğrenildi.",
+      "long_summary": "Malatya'da trambüs direğine çarpan otomobilin sürücüsü yaralandı.M.N. idaresindeki 44 AEU 548 plakalı otomobil, Malatya-Elazığ kara yolu Çamurlu Mahallesi mevkisinde trambüs direğine çarptı.\n\nÇevredekilerin ihbarı üzerine kaza yerine polis, itfaiye ve sağlık ekipleri sevk edildi.Otomobilde sıkışan sürücü, itfaiye ekiplerince kurtarıldı.\n\nAmbulansla hastaneye kaldırılan sürücünün hayati tehlikesinin bulunduğu öğrenildi.",
+      "long_summary_tr": "Malatya'da trambüs direğine çarpan otomobilin sürücüsü yaralandı.M.N. idaresindeki 44 AEU 548 plakalı otomobil, Malatya-Elazığ kara yolu Çamurlu Mahallesi mevkisinde trambüs direğine çarptı.\n\nÇevredekilerin ihbarı üzerine kaza yerine polis, itfaiye ve sağlık ekipleri sevk edildi.Otomobilde sıkışan sürücü, itfaiye ekiplerince kurtarıldı.\n\nAmbulansla hastaneye kaldırılan sürücünün hayati tehlikesinin bulunduğu öğrenildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/malatya-da-direge-carpan-otomobilin-surucusu-yaralandi-1572125",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/malatya-da-direge-carpan-otomobilin-surucusu-yaralandi-1770151047-280_large.webp",
+      "published_at": "2026-02-03T19:29:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Is Avengers: Doomsday Adapting Marvel's Most Infamous Magneto Story?",
+      "title_tr": "Is Avengers: Doomsday Adapting Marvel's Most Infamous Magneto Story?",
+      "summary": "Based on recent, revealing comments by actor Ian McKellen, we think Avengers: Doomsday may be adapting Marvel's most infamous Magneto storyline. Here's what you need to know.",
+      "summary_tr": "Based on recent, revealing comments by actor Ian McKellen, we think Avengers: Doomsday may be adapting Marvel's most infamous Magneto storyline. Here's what you need to know.",
+      "long_summary": "Based on recent, revealing comments by actor Ian McKellen, we think Avengers: Doomsday may be adapting Marvel's most infamous Magneto storyline. Here's what you need to know.",
+      "long_summary_tr": "Based on recent, revealing comments by actor Ian McKellen, we think Avengers: Doomsday may be adapting Marvel's most infamous Magneto storyline. Here's what you need to know.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/is-avengers-doomsday-adapting-marvels-most-infamous-magneto-story",
+      "image": "https://assets-prd.ignimgs.com/2026/02/03/the-apparent-lack-of-actual-avengers-in-doomsday-may-give-us-75un-1770146804082.jpg",
+      "published_at": "2026-02-03T19:28:47+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "The new battlespace will “hyperconnect” radios, 5G, troposcatter, and SATCOM",
+      "title_tr": "The new battlespace will “hyperconnect” radios, 5G, troposcatter, and SATCOM",
+      "summary": "[Sponsored] Enabling next-generation command and control with the same radio waveforms that were designed a decade-or-longer ago is a non-starter.",
+      "summary_tr": "[Sponsored] Enabling next-generation command and control with the same radio waveforms that were designed a decade-or-longer ago is a non-starter.",
+      "long_summary": "[Sponsored] Enabling next-generation command and control with the same radio waveforms that were designed a decade-or-longer ago is a non-starter.",
+      "long_summary_tr": "[Sponsored] Enabling next-generation command and control with the same radio waveforms that were designed a decade-or-longer ago is a non-starter.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/02/the-new-battlespace-will-hyperconnect-radios-5g-troposcatter-and-satcom/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/Archer-1.0-1024x683.jpg",
+      "published_at": "2026-02-03T19:27:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The 8 Best Gaming Laptops: IGN's 2026 Picks for PC Gamers",
+      "title_tr": "The 8 Best Gaming Laptops: IGN's 2026 Picks for PC Gamers",
+      "summary": "We've tested dozens of gaming laptops and notebooks for power, style, and build quality to pick the best machines for PC gamers on the go.",
+      "summary_tr": "We've tested dozens of gaming laptops and notebooks for power, style, and build quality to pick the best machines for PC gamers on the go.",
+      "long_summary": "We've tested dozens of gaming laptops and notebooks for power, style, and build quality to pick the best machines for PC gamers on the go.",
+      "long_summary_tr": "We've tested dozens of gaming laptops and notebooks for power, style, and build quality to pick the best machines for PC gamers on the go.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/best-gaming-laptop",
+      "image": "https://assets-prd.ignimgs.com/2025/10/20/gaming-laptop-1760988788577.png",
+      "published_at": "2026-02-03T19:26:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Manisa'da kendisinden haber alınamayan kişi evinde ölü bulundu",
+      "title_tr": "Manisa'da kendisinden haber alınamayan kişi evinde ölü bulundu",
+      "summary": "Manisa'nın Yunusemre ilçesinde kendisinden haber alınamayan kişi, evinde ölü bulundu.Alınan bilgiye göre, Yunusemre Belediyesi'nde çalışan ve yalnız yaşayan Ali Çivili'den (41) 3 gündür haber alamayan iş arkadaşları, durumdan şüphelendi.\n\n​Tevfikiye Mahallesi'ndeki evine yedek anahtarla giren arkadaşları, Çivili'yi içeride hareketsiz halde buldu. İhbar üzerine bölgeye sağlık ve polis ekipleri sevk edildi.\n\nSağlık ekiplerince yapılan kontrolde, Çivili'nin hayatını kaybettiği belirlendi.- Çivili'nin cenazesi, olay yerindeki incelemenin ardından otopsi için Merkez Efendi Devlet Hastanesi Adli Tıp Kurumu morguna kaldırıldı.",
+      "summary_tr": "Manisa'nın Yunusemre ilçesinde kendisinden haber alınamayan kişi, evinde ölü bulundu.Alınan bilgiye göre, Yunusemre Belediyesi'nde çalışan ve yalnız yaşayan Ali Çivili'den (41) 3 gündür haber alamayan iş arkadaşları, durumdan şüphelendi.\n\n​Tevfikiye Mahallesi'ndeki evine yedek anahtarla giren arkadaşları, Çivili'yi içeride hareketsiz halde buldu. İhbar üzerine bölgeye sağlık ve polis ekipleri sevk edildi.\n\nSağlık ekiplerince yapılan kontrolde, Çivili'nin hayatını kaybettiği belirlendi.- Çivili'nin cenazesi, olay yerindeki incelemenin ardından otopsi için Merkez Efendi Devlet Hastanesi Adli Tıp Kurumu morguna kaldırıldı.",
+      "long_summary": "Manisa'nın Yunusemre ilçesinde kendisinden haber alınamayan kişi, evinde ölü bulundu.Alınan bilgiye göre, Yunusemre Belediyesi'nde çalışan ve yalnız yaşayan Ali Çivili'den (41) 3 gündür haber alamayan iş arkadaşları, durumdan şüphelendi.\n\n​Tevfikiye Mahallesi'ndeki evine yedek anahtarla giren arkadaşları, Çivili'yi içeride hareketsiz halde buldu. İhbar üzerine bölgeye sağlık ve polis ekipleri sevk edildi.\n\nSağlık ekiplerince yapılan kontrolde, Çivili'nin hayatını kaybettiği belirlendi.-",
+      "long_summary_tr": "Manisa'nın Yunusemre ilçesinde kendisinden haber alınamayan kişi, evinde ölü bulundu.Alınan bilgiye göre, Yunusemre Belediyesi'nde çalışan ve yalnız yaşayan Ali Çivili'den (41) 3 gündür haber alamayan iş arkadaşları, durumdan şüphelendi.\n\n​Tevfikiye Mahallesi'ndeki evine yedek anahtarla giren arkadaşları, Çivili'yi içeride hareketsiz halde buldu. İhbar üzerine bölgeye sağlık ve polis ekipleri sevk edildi.\n\nSağlık ekiplerince yapılan kontrolde, Çivili'nin hayatını kaybettiği belirlendi.-",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/manisa-da-kendisinden-haber-alinamayan-kisi-evinde-olu-bulundu-1572123",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/manisa-da-kendisinden-haber-alinamayan-kisi-evinde-olu-bulundu-1770150996-102_large.webp",
+      "published_at": "2026-02-03T19:25:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Muammer Kaddafi'nin oğlu Seyfülislam Kaddafi'ye suikast",
+      "title_tr": "Muammer Kaddafi'nin oğlu Seyfülislam Kaddafi'ye suikast",
+      "summary": "Libya'nın devrik lideri Muammer Kaddafi'nin büyük oğlu Seyfülislam Kaddafi'ye suikast düzenlenerek öldürüldüğü açıklandı.Libya resmi haber ajansı LANA'da yer alan habere göre, Seyfülislam Kaddafi'nin danışmanı ve siyasi ekibinin başı Abdullah Osman, Seyfülislam'ın öldüğünü doğruladı ancak doğal yollarla mı yoksa saldırı sonucu mu öldüğüne ilişkin ayrıntı vermedi. Libya'daki özel basın yayın kuruluşlarında yer alan haberde, Seyfülislam'ın öldürüldüğü öne sürüldü.\n\nÖte yandan, Libya Ulusal Birlik Hükümeti Savunma Bakanlığına bağlı 444. Tugay'dan yapılan açıklamada, 444. Tugay'ın Zintan bölgesinde Seyfülislam Kaddafi'yi öldürdüğü yönündeki haberleri yalanladı.\n\nAçıklamada, 444. Tugay'ın Zintan'da herhangi bir birliğinin bulunmadığı ifade edildi.",
+      "summary_tr": "Libya'nın devrik lideri Muammer Kaddafi'nin büyük oğlu Seyfülislam Kaddafi'ye suikast düzenlenerek öldürüldüğü açıklandı.Libya resmi haber ajansı LANA'da yer alan habere göre, Seyfülislam Kaddafi'nin danışmanı ve siyasi ekibinin başı Abdullah Osman, Seyfülislam'ın öldüğünü doğruladı ancak doğal yollarla mı yoksa saldırı sonucu mu öldüğüne ilişkin ayrıntı vermedi. Libya'daki özel basın yayın kuruluşlarında yer alan haberde, Seyfülislam'ın öldürüldüğü öne sürüldü.\n\nÖte yandan, Libya Ulusal Birlik Hükümeti Savunma Bakanlığına bağlı 444. Tugay'dan yapılan açıklamada, 444. Tugay'ın Zintan bölgesinde Seyfülislam Kaddafi'yi öldürdüğü yönündeki haberleri yalanladı.\n\nAçıklamada, 444. Tugay'ın Zintan'da herhangi bir birliğinin bulunmadığı ifade edildi.",
+      "long_summary": "Libya'nın devrik lideri Muammer Kaddafi'nin büyük oğlu Seyfülislam Kaddafi'ye suikast düzenlenerek öldürüldüğü açıklandı.Libya resmi haber ajansı LANA'da yer alan habere göre, Seyfülislam Kaddafi'nin danışmanı ve siyasi ekibinin başı Abdullah Osman, Seyfülislam'ın öldüğünü doğruladı ancak doğal yollarla mı yoksa saldırı sonucu mu öldüğüne ilişkin ayrıntı vermedi. Libya'daki özel basın yayın kuruluşlarında yer alan haberde, Seyfülislam'ın öldürüldüğü öne sürüldü.\n\nÖte yandan, Libya Ulusal Birlik",
+      "long_summary_tr": "Libya'nın devrik lideri Muammer Kaddafi'nin büyük oğlu Seyfülislam Kaddafi'ye suikast düzenlenerek öldürüldüğü açıklandı.Libya resmi haber ajansı LANA'da yer alan habere göre, Seyfülislam Kaddafi'nin danışmanı ve siyasi ekibinin başı Abdullah Osman, Seyfülislam'ın öldüğünü doğruladı ancak doğal yollarla mı yoksa saldırı sonucu mu öldüğüne ilişkin ayrıntı vermedi. Libya'daki özel basın yayın kuruluşlarında yer alan haberde, Seyfülislam'ın öldürüldüğü öne sürüldü.\n\nÖte yandan, Libya Ulusal Birlik",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/muammer-kaddafi-nin-oglu-seyfulislam-kaddafi-ye-suikast-1572121",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/muammer-kaddafi-nin-oglu-seyfulislam-kaddafi-ye-suikast-1770150940-951_large.webp",
+      "published_at": "2026-02-03T19:21:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Yüksek DRAM fiyatları Sony hissesinde zaten fiyatlandırıldı, BofA söylüyor",
+      "title_tr": "Yüksek DRAM fiyatları Sony hissesinde zaten fiyatlandırıldı, BofA söylüyor",
+      "summary": "Yüksek DRAM fiyatları Sony hissesinde zaten fiyatlandırıldı, BofA söylüyor",
+      "summary_tr": "Yüksek DRAM fiyatları Sony hissesinde zaten fiyatlandırıldı, BofA söylüyor",
+      "long_summary": "Yüksek DRAM fiyatları Sony hissesinde zaten fiyatlandırıldı, BofA söylüyor",
+      "long_summary_tr": "Yüksek DRAM fiyatları Sony hissesinde zaten fiyatlandırıldı, BofA söylüyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/yuksek-dram-fiyatlar-sony-hissesinde-zaten-fiyatlandrld-bofa-soyluyor-3743874",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-03T19:20:14+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 03 Şubat 2026",
+      "title_tr": "Son dakika Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van deprem Kandilli ve AFAD son depremler listesi 03 Şubat 2026",
+      "summary": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 03 Şubat 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar? Van'da ve Van yakınındaki depremler nelerdir? Van'da anlık deprem mi oldu? Son dakika Van canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD Van deprem haberleri.. Van'da hangi ilçelerde deprem oldu ve hangi ilçelerde en çok hissedildi? Bugün Van'da deprem mi oldu? Deprem Van'da ne zaman ve kaç şiddetinde oldu? En son Van'da nerede deprem oldu? Van deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde...",
+      "summary_tr": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 03 Şubat 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar? Van'da ve Van yakınındaki depremler nelerdir? Van'da anlık deprem mi oldu? Son dakika Van canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD Van deprem haberleri.. Van'da hangi ilçelerde deprem oldu ve hangi ilçelerde en çok hissedildi? Bugün Van'da deprem mi oldu? Deprem Van'da ne zaman ve kaç şiddetinde oldu? En son Van'da nerede deprem oldu? Van deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde...",
+      "long_summary": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 03 Şubat 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar? Van'da ve Van yakınındaki depremler nelerdir? Van'da anlık deprem mi oldu? Son dakika Van canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD Van deprem haberleri.. Van'da hangi ilçelerde deprem oldu ve hangi",
+      "long_summary_tr": "Son dakika Van deprem haberleri.. Van'da deprem mi oldu? Az önce deprem Van'da nerede oldu? Van Kandilli ve AFAD son depremler.. 03 Şubat 2026 Van deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Van'da? Van son deprem büyüklüğü ne kadar? Van'da ve Van yakınındaki depremler nelerdir? Van'da anlık deprem mi oldu? Son dakika Van canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD Van deprem haberleri.. Van'da hangi ilçelerde deprem oldu ve hangi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-03-subat-2026-1710334",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-02-03T19:20:01+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Cumhurbaşkanı Erdoğan: Türkiye, İran-ABD arasında rol üstlenmeye hazır",
+      "title_tr": "Cumhurbaşkanı Erdoğan: Türkiye, İran-ABD arasında rol üstlenmeye hazır",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, &quot;Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır&quot; ifadelerini kullanarak, &quot;Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız&quot; dedi.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, &quot;Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır&quot; ifadelerini kullanarak, &quot;Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız&quot; dedi.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, &quot;Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır&quot; ifadelerini kullanarak, &quot;Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız&quot; dedi.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, &quot;Türkiye, İran ile ABD arasında kolaylaştırıcı rol üstlenmeye hazır&quot; ifadelerini kullanarak, &quot;Bölgeyi ateşe atacak her adımın karşısında, barışı güçlendirecek her adımın yanındayız&quot; dedi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-turkiye-iran-abd-arasinda-rol-ustlenmeye-hazir-haberi-813829",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/asd-x8bl_cover.jpg",
+      "published_at": "2026-02-03T19:19:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "House passes $839B defense spending bill, teeing up end to government shutdown",
+      "title_tr": "House passes $839B defense spending bill, teeing up end to government shutdown",
+      "summary": "Once signed by the president, the Pentagon will be funded through Congress’s usual appropriations process after being stuck under a continuing resolution for the duration of fiscal 2025.",
+      "summary_tr": "Once signed by the president, the Pentagon will be funded through Congress’s usual appropriations process after being stuck under a continuing resolution for the duration of fiscal 2025.",
+      "long_summary": "Once signed by the president, the Pentagon will be funded through Congress’s usual appropriations process after being stuck under a continuing resolution for the duration of fiscal 2025.",
+      "long_summary_tr": "Once signed by the president, the Pentagon will be funded through Congress’s usual appropriations process after being stuck under a continuing resolution for the duration of fiscal 2025.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/02/house-passes-839b-defense-spending-bill-teeing-up-end-to-government-shutdown/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/11/Mike-Johnson-scaled-e1699395302883-1024x577.jpg",
+      "published_at": "2026-02-03T19:17:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "el-Maliki: Adaylıktan ancak Koordinasyon Çerçevesi’nin isteği üzerine çekilirim",
+      "title_tr": "el-Maliki: Adaylıktan ancak Koordinasyon Çerçevesi’nin isteği üzerine çekilirim",
+      "summary": "Irak’ta Koordinasyon Çerçevesi’nin başbakanlık için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylıktan sadece kendisini aday gösteren \"Koordinasyon Çerçevesi’nin\" talebi üzerine çekileceğini söyledi.ABD Başkanı Donald Trump’ın sert tepkisi ve ABD ile Irak’ın ilişkilerine gerilime neden olan Koordinasyon Çerçevesi’nin başbakanlık makamı için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylığı hakkında açıklamada bulundu. El-Maliki, bir televizyon kanalına verdiği röportajda, adaylıktan ancak kendisini aday gösteren Koordinasyon Çerçevesi’nin çoğunluk talebi üzerine vazgeçebileceğini belirterek, dış baskılara göre hareket etmeyeceğinin altını çizdi.\n\n\"YANLIŞ YÖNLENDİRİLDİ\"\n\nABD Başkanı Trump’ın, kendisinin başbakanlığına karşı çıkan paylaşımlarını değerlendiren el-Maliki, Trump’ın yanlış yönlendirildiğini iddia etti. El-Maliki, ABD Başkanı Trump’ın adını zikretmeden, üç farklı ülke ve bazı yerel gruplar tarafından kendisine karşı kışkırtıldığını ileri sürerek, \"Duyduğuma göre o paylaşım Bağdat'ta yazıldı, ancak bunu henüz teyit edemedim\" dedi.\n\nYAPTIRIM İDDİALARINI \"PROPAGANDA\" OLARAK NİTELENDİRDİ\n\nAdaylığının devam etmesi durumunda ABD’nin Irak’a ekonomik yaptırım uygulayacağı yönündeki iddialara da değinen el-Maliki, bu iddiaların gerçeği yansıtmadığını savunarak, bu tür haberlerin kendisini adaylıktan çekilmeye zorlamak amacıyla kasıtlı olarak yayılan bir \"propaganda\" olduğunu ifade etti.\n\nTRUMP'IN AÇIKLAMASI KRİZE NEDEN OLMUŞTU\n\nABD Başkanı Donald Trump'ın geçtiğimiz günlerde Koordinasyon Çerçevesi’nin el-Maliki'yi başbakanlığa aday göstermesinin ardından karara tepki göstermişti. Maliki'nin seçilmesine izin verilmemesi gerektiğini söyleyen Trump, aksi halde Irak'a yapılan yardımların kesileceğine yönelik tehditte bulunmuştu. Söz konusu açıklama, Washington ile Bağdat yönetimi arasında siyasi krize neden olmuştu.El-Maliki ise Trump’ın tehditlerinin ardından adaylıktan vazgeçmeyeceğini açıklamış, \"Halkımızın kendi siyasi sistemini ve liderlerini anayasal kurumlar aracılığıyla seçme hakkı bizim için sarsılmaz bir ilkedir. Bu iradeye güveniyoruz ve bundan asla geri adım atmayacağız\" demişti.",
+      "summary_tr": "Irak’ta Koordinasyon Çerçevesi’nin başbakanlık için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylıktan sadece kendisini aday gösteren \"Koordinasyon Çerçevesi’nin\" talebi üzerine çekileceğini söyledi.ABD Başkanı Donald Trump’ın sert tepkisi ve ABD ile Irak’ın ilişkilerine gerilime neden olan Koordinasyon Çerçevesi’nin başbakanlık makamı için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylığı hakkında açıklamada bulundu. El-Maliki, bir televizyon kanalına verdiği röportajda, adaylıktan ancak kendisini aday gösteren Koordinasyon Çerçevesi’nin çoğunluk talebi üzerine vazgeçebileceğini belirterek, dış baskılara göre hareket etmeyeceğinin altını çizdi.\n\n\"YANLIŞ YÖNLENDİRİLDİ\"\n\nABD Başkanı Trump’ın, kendisinin başbakanlığına karşı çıkan paylaşımlarını değerlendiren el-Maliki, Trump’ın yanlış yönlendirildiğini iddia etti. El-Maliki, ABD Başkanı Trump’ın adını zikretmeden, üç farklı ülke ve bazı yerel gruplar tarafından kendisine karşı kışkırtıldığını ileri sürerek, \"Duyduğuma göre o paylaşım Bağdat'ta yazıldı, ancak bunu henüz teyit edemedim\" dedi.\n\nYAPTIRIM İDDİALARINI \"PROPAGANDA\" OLARAK NİTELENDİRDİ\n\nAdaylığının devam etmesi durumunda ABD’nin Irak’a ekonomik yaptırım uygulayacağı yönündeki iddialara da değinen el-Maliki, bu iddiaların gerçeği yansıtmadığını savunarak, bu tür haberlerin kendisini adaylıktan çekilmeye zorlamak amacıyla kasıtlı olarak yayılan bir \"propaganda\" olduğunu ifade etti.\n\nTRUMP'IN AÇIKLAMASI KRİZE NEDEN OLMUŞTU\n\nABD Başkanı Donald Trump'ın geçtiğimiz günlerde Koordinasyon Çerçevesi’nin el-Maliki'yi başbakanlığa aday göstermesinin ardından karara tepki göstermişti. Maliki'nin seçilmesine izin verilmemesi gerektiğini söyleyen Trump, aksi halde Irak'a yapılan yardımların kesileceğine yönelik tehditte bulunmuştu. Söz konusu açıklama, Washington ile Bağdat yönetimi arasında siyasi krize neden olmuştu.El-Maliki ise Trump’ın tehditlerinin ardından adaylıktan vazgeçmeyeceğini açıklamış, \"Halkımızın kendi siyasi sistemini ve liderlerini anayasal kurumlar aracılığıyla seçme hakkı bizim için sarsılmaz bir ilkedir. Bu iradeye güveniyoruz ve bundan asla geri adım atmayacağız\" demişti.",
+      "long_summary": "Irak’ta Koordinasyon Çerçevesi’nin başbakanlık için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylıktan sadece kendisini aday gösteren \"Koordinasyon Çerçevesi’nin\" talebi üzerine çekileceğini söyledi.ABD Başkanı Donald Trump’ın sert tepkisi ve ABD ile Irak’ın ilişkilerine gerilime neden olan Koordinasyon Çerçevesi’nin başbakanlık makamı için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylığı hakkında açıklamada bulundu. El-Maliki, bir televizyon kanalına verdiği",
+      "long_summary_tr": "Irak’ta Koordinasyon Çerçevesi’nin başbakanlık için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylıktan sadece kendisini aday gösteren \"Koordinasyon Çerçevesi’nin\" talebi üzerine çekileceğini söyledi.ABD Başkanı Donald Trump’ın sert tepkisi ve ABD ile Irak’ın ilişkilerine gerilime neden olan Koordinasyon Çerçevesi’nin başbakanlık makamı için aday gösterdiği eski Irak Başbakanı Nuri Kamil el-Maliki, adaylığı hakkında açıklamada bulundu. El-Maliki, bir televizyon kanalına verdiği",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/el-maliki-adayliktan-ancak-koordinasyon-cercevesi-nin-istegi-uzerine-cekilirim-1572119",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/el-maliki-adayliktan-ancak-koordinasyon-cercevesi-nin-istegi-uzerine-cekilirim-1770150797-520_large.webp",
+      "published_at": "2026-02-03T19:16:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Sheff Utd peg back Oxford; Blackburn lead - EFL LIVE!",
+      "title_tr": "Sheff Utd peg back Oxford; Blackburn lead - EFL LIVE!",
+      "summary": "Sheff Utd peg back Oxford; Blackburn lead - EFL LIVE!",
+      "summary_tr": "Sheff Utd peg back Oxford; Blackburn lead - EFL LIVE!",
+      "long_summary": "Sheff Utd peg back Oxford; Blackburn lead - EFL LIVE!",
+      "long_summary_tr": "Sheff Utd peg back Oxford; Blackburn lead - EFL LIVE!",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/live-blog/12040/13502815/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-eiran-cashin-blackburn_7154793.jpg?20260203200347",
+      "published_at": "2026-02-03T19:15:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "'Flexible' Curran dreaming of 2022 repeat at T20 World Cup",
+      "title_tr": "'Flexible' Curran dreaming of 2022 repeat at T20 World Cup",
+      "summary": "Sam Curran is dreaming of a 2022 repeat as England look to win a second T20 World Cup in three events.",
+      "summary_tr": "Sam Curran is dreaming of a 2022 repeat as England look to win a second T20 World Cup in three events.",
+      "long_summary": "Sam Curran is dreaming of a 2022 repeat as England look to win a second T20 World Cup in three events.",
+      "long_summary_tr": "Sam Curran is dreaming of a 2022 repeat as England look to win a second T20 World Cup in three events.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/cricket/news/12040/13502872/sam-curran-eyeing-key-role-for-england-at-t20-world-cup-after-player-of-the-tournament-display-during-2022-win",
+      "image": "https://e1.365dm.com/26/01/1920x1080/skysports-sam-curran-england-t20-cricket_7150668.jpg?20260130171237",
+      "published_at": "2026-02-03T19:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Azerbaycan'da 4.3 büyüklüğünde deprem, Van'da da hissedildi",
+      "title_tr": "Azerbaycan'da 4.3 büyüklüğünde deprem, Van'da da hissedildi",
+      "summary": "Doğu Azerbaycan&#039;da 4.3 büyüklüğünde bir deprem meydana geldi. Deprem Van&#039;da da hissedildi.",
+      "summary_tr": "Doğu Azerbaycan&#039;da 4.3 büyüklüğünde bir deprem meydana geldi. Deprem Van&#039;da da hissedildi.",
+      "long_summary": "Doğu Azerbaycan&#039;da 4.3 büyüklüğünde bir deprem meydana geldi. Deprem Van&#039;da da hissedildi.",
+      "long_summary_tr": "Doğu Azerbaycan&#039;da 4.3 büyüklüğünde bir deprem meydana geldi. Deprem Van&#039;da da hissedildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/azerbaycanda-43-buyuklugunde-deprem-vanda-da-hissedildi-haberi-813828",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/25/son-depremler-sw8j_cover.png",
+      "published_at": "2026-02-03T19:13:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "The Best Valentine’s Day Movies to Watch, Whether You’re Coupled Up or Solo",
+      "title_tr": "The Best Valentine’s Day Movies to Watch, Whether You’re Coupled Up or Solo",
+      "summary": "Skip the dinner reservations and enjoy these films instead.",
+      "summary_tr": "Skip the dinner reservations and enjoy these films instead.",
+      "long_summary": "Skip the dinner reservations and enjoy these films instead.",
+      "long_summary_tr": "Skip the dinner reservations and enjoy these films instead.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/g70002515/best-valentines-day-movies-of-all-time/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/fea4ae59-50c8-4ce7-9fee-111efa8b85fb.jpeg",
+      "published_at": "2026-02-03T19:11:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İstanbul Beylikdüzü'nde Türk bayrağına saldırıya gözaltı",
+      "title_tr": "İstanbul Beylikdüzü'nde Türk bayrağına saldırıya gözaltı",
+      "summary": "İstanbul Beylikdüzü'nde bir iş yerinin önünde asılı Türk bayrağını koparan bir şahıs, bayrağı yere indirip üzerine bastı; o anları cep telefonu kamerasıyla kaydettikten sonra olay yerinden uzaklaştı. Emniyet şahsın yakalandığını duyurdu.İstanbul'un Beylikdüzü ilçesinde bir iş yerinin önünde asılı bulunan Türk bayrağına yönelik saldırının görüntüleri ortaya çıktı. Videolarda, bir şahsın bayrağı yerinden kopararak yere indirdiği, üzerine bastığı ve bu anları cep telefonu kamerasıyla kayda aldığı görüldü.\n\nOlayın ardından iş yeri sahibinin ihbarı üzerine polis ekipleri harekete geçti. Güvenlik kamera kayıtlarını ve şüphelinin kendi çektiği görüntüleri inceleyen ekipler, şahsın kimliğini tespit ederek yakalanması için çalışma başlattı.\n\nGörüntülerin sosyal medyada yayılması üzerine kamuoyunda büyük tepki oluşurken, İstanbul Emniyet Müdürlüğü'nden yapılan açıklamada, bayrağa yönelik saygısızlık içeren eylemle ilgili derhal işlem başlatıldığı ve şüphelinin yakalandığı bildirildi\n\nEMNİYETTEN AÇIKLAMA\n\nİstanbul Emniyet Müdürlüğü, olayla ilgili yaptığı açıklamada, \"Şanlı Türk Bayrağımıza yönelik saygısızlık içeren görüntülerle ilgili olarak ivedilikle çalışma başlatıldı. \n\nBeylikdüzü Yakuplu Mahallesi'nde bir işyeri önünde asılı bulunan Bayrağımızı yerinden söktüğü tespit edilen F.K. isimli şahıs yakalandı.\n\nBayrağımız bizim Vatanımız. Saygısızlığa yeltenen herkes hukuk önünde gereken karşılığı bulacaktır.\" ifadelerine yer verildi.",
+      "summary_tr": "İstanbul Beylikdüzü'nde bir iş yerinin önünde asılı Türk bayrağını koparan bir şahıs, bayrağı yere indirip üzerine bastı; o anları cep telefonu kamerasıyla kaydettikten sonra olay yerinden uzaklaştı. Emniyet şahsın yakalandığını duyurdu.İstanbul'un Beylikdüzü ilçesinde bir iş yerinin önünde asılı bulunan Türk bayrağına yönelik saldırının görüntüleri ortaya çıktı. Videolarda, bir şahsın bayrağı yerinden kopararak yere indirdiği, üzerine bastığı ve bu anları cep telefonu kamerasıyla kayda aldığı görüldü.\n\nOlayın ardından iş yeri sahibinin ihbarı üzerine polis ekipleri harekete geçti. Güvenlik kamera kayıtlarını ve şüphelinin kendi çektiği görüntüleri inceleyen ekipler, şahsın kimliğini tespit ederek yakalanması için çalışma başlattı.\n\nGörüntülerin sosyal medyada yayılması üzerine kamuoyunda büyük tepki oluşurken, İstanbul Emniyet Müdürlüğü'nden yapılan açıklamada, bayrağa yönelik saygısızlık içeren eylemle ilgili derhal işlem başlatıldığı ve şüphelinin yakalandığı bildirildi\n\nEMNİYETTEN AÇIKLAMA\n\nİstanbul Emniyet Müdürlüğü, olayla ilgili yaptığı açıklamada, \"Şanlı Türk Bayrağımıza yönelik saygısızlık içeren görüntülerle ilgili olarak ivedilikle çalışma başlatıldı. \n\nBeylikdüzü Yakuplu Mahallesi'nde bir işyeri önünde asılı bulunan Bayrağımızı yerinden söktüğü tespit edilen F.K. isimli şahıs yakalandı.\n\nBayrağımız bizim Vatanımız. Saygısızlığa yeltenen herkes hukuk önünde gereken karşılığı bulacaktır.\" ifadelerine yer verildi.",
+      "long_summary": "İstanbul Beylikdüzü'nde bir iş yerinin önünde asılı Türk bayrağını koparan bir şahıs, bayrağı yere indirip üzerine bastı; o anları cep telefonu kamerasıyla kaydettikten sonra olay yerinden uzaklaştı. Emniyet şahsın yakalandığını duyurdu.İstanbul'un Beylikdüzü ilçesinde bir iş yerinin önünde asılı bulunan Türk bayrağına yönelik saldırının görüntüleri ortaya çıktı. Videolarda, bir şahsın bayrağı yerinden kopararak yere indirdiği, üzerine bastığı ve bu anları cep telefonu kamerasıyla kayda aldığı",
+      "long_summary_tr": "İstanbul Beylikdüzü'nde bir iş yerinin önünde asılı Türk bayrağını koparan bir şahıs, bayrağı yere indirip üzerine bastı; o anları cep telefonu kamerasıyla kaydettikten sonra olay yerinden uzaklaştı. Emniyet şahsın yakalandığını duyurdu.İstanbul'un Beylikdüzü ilçesinde bir iş yerinin önünde asılı bulunan Türk bayrağına yönelik saldırının görüntüleri ortaya çıktı. Videolarda, bir şahsın bayrağı yerinden kopararak yere indirdiği, üzerine bastığı ve bu anları cep telefonu kamerasıyla kayda aldığı",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/istanbul-beylikduzu-nde-turk-bayragina-saldiriya-gozalti-1572117",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/istanbul-beylikduzu-nde-turk-bayragina-saldiriya-gozalti-1770148757-57_large.webp",
+      "published_at": "2026-02-03T19:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Fenerbahçeli futbolcu Milan Skriniar PFDK'ya sevk edildi",
+      "title_tr": "Fenerbahçeli futbolcu Milan Skriniar PFDK'ya sevk edildi",
+      "summary": "Fenerbahçeli futbolcu Milan Skriniar, Kocaelispor-Fenerbahçe müsabakasındaki &#039;hakareti&#039; nedeniyle tedbirli olarak PFDK&#039;ya sevk edildi.",
+      "summary_tr": "Fenerbahçeli futbolcu Milan Skriniar, Kocaelispor-Fenerbahçe müsabakasındaki &#039;hakareti&#039; nedeniyle tedbirli olarak PFDK&#039;ya sevk edildi.",
+      "long_summary": "Fenerbahçeli futbolcu Milan Skriniar, Kocaelispor-Fenerbahçe müsabakasındaki &#039;hakareti&#039; nedeniyle tedbirli olarak PFDK&#039;ya sevk edildi.",
+      "long_summary_tr": "Fenerbahçeli futbolcu Milan Skriniar, Kocaelispor-Fenerbahçe müsabakasındaki &#039;hakareti&#039; nedeniyle tedbirli olarak PFDK&#039;ya sevk edildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/fenerbahceli-futbolcu-milan-skriniar-pfdkya-sevk-edildi-haberi-813827",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/milan-skriniar-ilnx_cover.jpg",
+      "published_at": "2026-02-03T19:09:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Tekirdağ'da uyuşturucu satıcılarına darbe",
+      "title_tr": "Tekirdağ'da uyuşturucu satıcılarına darbe",
+      "summary": "Tekirdağ'ın Saray ilçesinde durdurulan bir araçta 60 paket satışa hazır marihuana ile 13 bin 700 TL ele geçirilirken, olayla ilgili 2 şüpheli tutuklandı.Saray İlçe Emniyet Müdürlüğü Asayiş Bürosu ekipleri tarafından uyuşturucu ile mücadele çerçevesinde yürütülen çalışmalar sonucunda önemli bir operasyona imza atıldı. Alınan bilgilere göre, Pazarcık Mahallesi Midye Caddesi üzerinde durdurulan bir araçta yapılan aramada, satışa hazır 60 paket marihuana, uyuşturucu ticaretinden elde edildiği değerlendirilen 13 bin 700 TL nakit para ele geçirildi.\n\nOlayla ilgili araç sürücüsü Y.D. ile yolcu konumundaki E.A., Türk Ceza Kanunu'nun 188. maddesi (Uyuşturucu Madde İmal ve Ticareti) suçundan gözaltına alındı. Şüpheli şahıslar çıkarıldıkları adli makamlarca tutuklanarak cezaevine gönderildi.",
+      "summary_tr": "Tekirdağ'ın Saray ilçesinde durdurulan bir araçta 60 paket satışa hazır marihuana ile 13 bin 700 TL ele geçirilirken, olayla ilgili 2 şüpheli tutuklandı.Saray İlçe Emniyet Müdürlüğü Asayiş Bürosu ekipleri tarafından uyuşturucu ile mücadele çerçevesinde yürütülen çalışmalar sonucunda önemli bir operasyona imza atıldı. Alınan bilgilere göre, Pazarcık Mahallesi Midye Caddesi üzerinde durdurulan bir araçta yapılan aramada, satışa hazır 60 paket marihuana, uyuşturucu ticaretinden elde edildiği değerlendirilen 13 bin 700 TL nakit para ele geçirildi.\n\nOlayla ilgili araç sürücüsü Y.D. ile yolcu konumundaki E.A., Türk Ceza Kanunu'nun 188. maddesi (Uyuşturucu Madde İmal ve Ticareti) suçundan gözaltına alındı. Şüpheli şahıslar çıkarıldıkları adli makamlarca tutuklanarak cezaevine gönderildi.",
+      "long_summary": "Tekirdağ'ın Saray ilçesinde durdurulan bir araçta 60 paket satışa hazır marihuana ile 13 bin 700 TL ele geçirilirken, olayla ilgili 2 şüpheli tutuklandı.Saray İlçe Emniyet Müdürlüğü Asayiş Bürosu ekipleri tarafından uyuşturucu ile mücadele çerçevesinde yürütülen çalışmalar sonucunda önemli bir operasyona imza atıldı. Alınan bilgilere göre, Pazarcık Mahallesi Midye Caddesi üzerinde durdurulan bir araçta yapılan aramada, satışa hazır 60 paket marihuana, uyuşturucu ticaretinden elde edildiği",
+      "long_summary_tr": "Tekirdağ'ın Saray ilçesinde durdurulan bir araçta 60 paket satışa hazır marihuana ile 13 bin 700 TL ele geçirilirken, olayla ilgili 2 şüpheli tutuklandı.Saray İlçe Emniyet Müdürlüğü Asayiş Bürosu ekipleri tarafından uyuşturucu ile mücadele çerçevesinde yürütülen çalışmalar sonucunda önemli bir operasyona imza atıldı. Alınan bilgilere göre, Pazarcık Mahallesi Midye Caddesi üzerinde durdurulan bir araçta yapılan aramada, satışa hazır 60 paket marihuana, uyuşturucu ticaretinden elde edildiği",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/tekirdag-da-uyusturucu-saticilarina-darbe-1572115",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/03/tekirdag-da-uyusturucu-saticilarina-darbe-1770148598-714_large.webp",
+      "published_at": "2026-02-03T19:08:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Türkiye ve Suudi Arabistan'dan 31 maddelik ortak bildiri",
+      "title_tr": "Türkiye ve Suudi Arabistan'dan 31 maddelik ortak bildiri",
+      "summary": "Türkiye ve Suudi Arabistan yayınladıkları ortak bildiride, Yemen, Sudan, Somali ve Suriye’nin istikrarını, egemenliğini ve toprak bütünlüğünü desteklediklerini vurguladı.",
+      "summary_tr": "Türkiye ve Suudi Arabistan yayınladıkları ortak bildiride, Yemen, Sudan, Somali ve Suriye’nin istikrarını, egemenliğini ve toprak bütünlüğünü desteklediklerini vurguladı.",
+      "long_summary": "Türkiye ve Suudi Arabistan yayınladıkları ortak bildiride, Yemen, Sudan, Somali ve Suriye’nin istikrarını, egemenliğini ve toprak bütünlüğünü desteklediklerini vurguladı.",
+      "long_summary_tr": "Türkiye ve Suudi Arabistan yayınladıkları ortak bildiride, Yemen, Sudan, Somali ve Suriye’nin istikrarını, egemenliğini ve toprak bütünlüğünü desteklediklerini vurguladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/turkiye-ve-suudi-arabistandan-31-maddelik-ortak-bildiri-haberi-813826",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/03/t1-qxvk_cover.jpg",
+      "published_at": "2026-02-03T19:06:00+00:00"
     }
   ]
 }
