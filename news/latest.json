@@ -1,71 +1,687 @@
 {
-  "updated_at": "2026-02-10T21:00:58.647555+00:00",
+  "updated_at": "2026-02-10T21:58:03.661008+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "New York borsası karışık seyirle kapandı",
+      "title_tr": "New York borsası karışık seyirle kapandı",
+      "summary": "New York borsası günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 0,1 artarak 50.188,14 puana yükseldi.",
+      "summary_tr": "New York borsası günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 0,1 artarak 50.188,14 puana yükseldi.",
+      "long_summary": "New York borsası günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 0,1 artarak 50.188,14 puana yükseldi.",
+      "long_summary_tr": "New York borsası günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 0,1 artarak 50.188,14 puana yükseldi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-karisik-seyirle-kapandi-haberi-814634",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2024/09/03/new-york-borsasi-dsyk_cover.png",
+      "published_at": "2026-02-10T21:50:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Erzincan'da 4,1 büyüklüğünde deprem",
+      "title_tr": "Erzincan'da 4,1 büyüklüğünde deprem",
+      "summary": "Son dakika gelişmesi... Erzincan&#039;ın Kemah ilçesinde saat 00.38&#039;de 4,1 büyüklüğünde deprem meydana geldi.",
+      "summary_tr": "Son dakika gelişmesi... Erzincan&#039;ın Kemah ilçesinde saat 00.38&#039;de 4,1 büyüklüğünde deprem meydana geldi.",
+      "long_summary": "Son dakika gelişmesi... Erzincan&#039;ın Kemah ilçesinde saat 00.38&#039;de 4,1 büyüklüğünde deprem meydana geldi.",
+      "long_summary_tr": "Son dakika gelişmesi... Erzincan&#039;ın Kemah ilçesinde saat 00.38&#039;de 4,1 büyüklüğünde deprem meydana geldi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/erzincanda-41-buyuklugunde-deprem-haberi-814635",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/07/son-depremler-aj8s_cover.png",
+      "published_at": "2026-02-10T21:50:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Otobanda araba yarışı pahalıya patladı. 407 bin TL ceza, 4 araç trafikten men edildi",
+      "title_tr": "Otobanda araba yarışı pahalıya patladı. 407 bin TL ceza, 4 araç trafikten men edildi",
+      "summary": "Mersin'de otobanda araba yarışına gelenlere polis baskın yaptı, 14 sürücüye toplam 407 bin 491 TL para cezası kesildi, 4 araç trafikten men edildi.",
+      "summary_tr": "Mersin'de otobanda araba yarışına gelenlere polis baskın yaptı, 14 sürücüye toplam 407 bin 491 TL para cezası kesildi, 4 araç trafikten men edildi.",
+      "long_summary": "Mersin'de otobanda araba yarışına gelenlere polis baskın yaptı, 14 sürücüye toplam 407 bin 491 TL para cezası kesildi, 4 araç trafikten men edildi.",
+      "long_summary_tr": "Mersin'de otobanda araba yarışına gelenlere polis baskın yaptı, 14 sürücüye toplam 407 bin 491 TL para cezası kesildi, 4 araç trafikten men edildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/otobanda-araba-yarisi-pahaliya-patladi-407-bin-tl-ceza-4-arac-trafikten-men-edildi-1711391",
+      "image": "https://images.ntv.com.tr/images/AW639131_01-893195(2).jpg",
+      "published_at": "2026-02-10T21:44:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Kabinede değişim. İçişleri Bakanı Mustafa Çiftçi, Adalet Bakanı Akın Gürlek oldu",
+      "title_tr": "Kabinede değişim. İçişleri Bakanı Mustafa Çiftçi, Adalet Bakanı Akın Gürlek oldu",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla kabinede değişikliğe gidildi. İçişleri Bakanı Mustafa Çiftçi, Adalet Bakanı Akın Gürlek oldu.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla kabinede değişikliğe gidildi. İçişleri Bakanı Mustafa Çiftçi, Adalet Bakanı Akın Gürlek oldu.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla kabinede değişikliğe gidildi. İçişleri Bakanı Mustafa Çiftçi, Adalet Bakanı Akın Gürlek oldu.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla kabinede değişikliğe gidildi. İçişleri Bakanı Mustafa Çiftçi, Adalet Bakanı Akın Gürlek oldu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/kabinede-degisim-icisleri-ve-adalet-bakanlari-degisti-1711399",
+      "image": "https://images.ntv.com.tr/images/MustafaÇiftçiAkınGürlek-665654.jpg",
+      "published_at": "2026-02-10T21:36:24+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
       "source": "Bloomberg HT",
-      "title": "ABD ile Kanada arasında köprü anlaşmazlığı",
-      "title_tr": "ABD ile Kanada arasında köprü anlaşmazlığı",
-      "summary": "ABD Başkanı Donald Trump, Michigan ile Kanada'nın Ontario eyaleti arasında inşa edilen Gordie Howe Köprüsü'nün en az yarısının ABD'ye ait olması gerektiğini savunarak, Kanada ile yeni bir müzakere sürecine girileceğini bildirdi.",
-      "summary_tr": "ABD Başkanı Donald Trump, Michigan ile Kanada'nın Ontario eyaleti arasında inşa edilen Gordie Howe Köprüsü'nün en az yarısının ABD'ye ait olması gerektiğini savunarak, Kanada ile yeni bir müzakere sürecine girileceğini bildirdi.",
-      "long_summary": "ABD Başkanı Donald Trump, Michigan ile Kanada'nın Ontario eyaleti arasında inşa edilen Gordie Howe Köprüsü'nün en az yarısının ABD'ye ait olması gerektiğini savunarak, Kanada ile yeni bir müzakere sürecine girileceğini bildirdi.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, Michigan ile Kanada'nın Ontario eyaleti arasında inşa edilen Gordie Howe Köprüsü'nün en az yarısının ABD'ye ait olması gerektiğini savunarak, Kanada ile yeni bir müzakere sürecine girileceğini bildirdi.",
+      "title": "Resmi Gazete'de bugün (11.02.2026)",
+      "title_tr": "Resmi Gazete'de bugün (11.02.2026)",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "long_summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "long_summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/abd-ile-kanada-arasindaki-kopru-anlasmazligi-3768802",
+      "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-11022026-3768805",
       "image": null,
-      "published_at": "2026-02-10T20:53:17+00:00"
+      "published_at": "2026-02-10T21:35:54+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "Elle",
-      "title": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "title_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
+      "source": "Sky Sports",
+      "title": "Tottenham fans turn on Frank again as Newcastle secure rare away win",
+      "title_tr": "Tottenham fans turn on Frank again as Newcastle secure rare away win",
+      "summary": "Tottenham were booed off yet again as Newcastle secured a rare 2-1 win away from home to compound the pressure on Spurs head coach Thomas Frank.",
+      "summary_tr": "Tottenham were booed off yet again as Newcastle secured a rare 2-1 win away from home to compound the pressure on Spurs head coach Thomas Frank.",
+      "long_summary": "Tottenham were booed off yet again as Newcastle secured a rare 2-1 win away from home to compound the pressure on Spurs head coach Thomas Frank.",
+      "long_summary_tr": "Tottenham were booed off yet again as Newcastle secured a rare 2-1 win away from home to compound the pressure on Spurs head coach Thomas Frank.",
       "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.elle.com/fashion/a68046559/best-spring-summer-2026-campaigns/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0836f7af-163f-49a4-8363-efe1e459af33.jpg",
-      "published_at": "2026-02-10T20:49:00+00:00"
+      "url": "https://www.skysports.com/football/news/12040/13505643/tottenham-1-2-newcastle-thomas-franks-side-booed-off-again-as-magpies-secure-rare-win-away-from-home",
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-jacob-ramsey-newcastle-united_7161486.jpg?20260210213039",
+      "published_at": "2026-02-10T21:35:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Yeni Adalet Bakanı Akın Gürlek kimdir? Akın Gürlek’in hayatı",
+      "title_tr": "Yeni Adalet Bakanı Akın Gürlek kimdir? Akın Gürlek’in hayatı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan atama kararıyla Akın Gürlek, Adalet Bakanı olarak atandı. Uzun yıllar yargının kritik noktalarında görev yapan Gürlek, özellikle yürüttüğü davalarla kamuoyunda yakından tanınan bir isim... Atama kararı sonrası herkesin merak ettiği Akın Gürlek kimdir?",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan atama kararıyla Akın Gürlek, Adalet Bakanı olarak atandı. Uzun yıllar yargının kritik noktalarında görev yapan Gürlek, özellikle yürüttüğü davalarla kamuoyunda yakından tanınan bir isim... Atama kararı sonrası herkesin merak ettiği Akın Gürlek kimdir?",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan atama kararıyla Akın Gürlek, Adalet Bakanı olarak atandı. Uzun yıllar yargının kritik noktalarında görev yapan Gürlek, özellikle yürüttüğü davalarla kamuoyunda yakından tanınan bir isim... Atama kararı sonrası herkesin merak ettiği Akın Gürlek kimdir?",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan atama kararıyla Akın Gürlek, Adalet Bakanı olarak atandı. Uzun yıllar yargının kritik noktalarında görev yapan Gürlek, özellikle yürüttüğü davalarla kamuoyunda yakından tanınan bir isim... Atama kararı sonrası herkesin merak ettiği Akın Gürlek kimdir?",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/yeni-adalet-bakani-akin-gurlek-kimdir-akin-gurlekin-hayati-haberi-814633",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/akin-gurlek-jjnp_cover.jpg",
+      "published_at": "2026-02-10T21:32:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Şubat 2026",
+      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Şubat 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-subat-2026-1711400",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-02-10T21:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Youssef En-Nesyri, Al Ittihad'da ilk golünü attı",
+      "title_tr": "Youssef En-Nesyri, Al Ittihad'da ilk golünü attı",
+      "summary": "Asya Şampiyonlar Ligi&#039;nin (AFC) lig aşamasında Al Ittihad, Fenerbahçe&#039;nin eski oyuncusu Youssef En-Nesyri&#039;nin de gol attığı maçta sahasında Al Gharafa&#039;yı 7-0 mağlup etti.",
+      "summary_tr": "Asya Şampiyonlar Ligi&#039;nin (AFC) lig aşamasında Al Ittihad, Fenerbahçe&#039;nin eski oyuncusu Youssef En-Nesyri&#039;nin de gol attığı maçta sahasında Al Gharafa&#039;yı 7-0 mağlup etti.",
+      "long_summary": "Asya Şampiyonlar Ligi&#039;nin (AFC) lig aşamasında Al Ittihad, Fenerbahçe&#039;nin eski oyuncusu Youssef En-Nesyri&#039;nin de gol attığı maçta sahasında Al Gharafa&#039;yı 7-0 mağlup etti.",
+      "long_summary_tr": "Asya Şampiyonlar Ligi&#039;nin (AFC) lig aşamasında Al Ittihad, Fenerbahçe&#039;nin eski oyuncusu Youssef En-Nesyri&#039;nin de gol attığı maçta sahasında Al Gharafa&#039;yı 7-0 mağlup etti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/youssef-en-nesyri-al-ittihadda-ilk-golunu-atti-haberi-814631",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/nesyri-xkbc_cover.jpg",
+      "published_at": "2026-02-10T21:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Bakırköy’de İBB'ye ait zabıta aracı denize düştü",
+      "title_tr": "Bakırköy’de İBB'ye ait zabıta aracı denize düştü",
+      "summary": "İstanbul Bakırköy’de İstanbul Büyükşehir Belediyesi’ne (İBB) ait zabıta aracı, sürücüsünün kontrolünden çıkarak denize düştü.",
+      "summary_tr": "İstanbul Bakırköy’de İstanbul Büyükşehir Belediyesi’ne (İBB) ait zabıta aracı, sürücüsünün kontrolünden çıkarak denize düştü.",
+      "long_summary": "İstanbul Bakırköy’de İstanbul Büyükşehir Belediyesi’ne (İBB) ait zabıta aracı, sürücüsünün kontrolünden çıkarak denize düştü.",
+      "long_summary_tr": "İstanbul Bakırköy’de İstanbul Büyükşehir Belediyesi’ne (İBB) ait zabıta aracı, sürücüsünün kontrolünden çıkarak denize düştü.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/bakirkoyde-ibbye-ait-zabita-araci-denize-dustu-1711388",
+      "image": "https://images.ntv.com.tr/images/AW639134_01-665642.jpg",
+      "published_at": "2026-02-10T21:27:29+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Görele Belediye Başkanı Hasbi Dede tutuklandı",
+      "title_tr": "Görele Belediye Başkanı Hasbi Dede tutuklandı",
+      "summary": "Giresun'da Görele Belediye Başkanı Hasbi Dede, hakkında yürütülen soruşturma kapsamında tutuklandı.",
+      "summary_tr": "Giresun'da Görele Belediye Başkanı Hasbi Dede, hakkında yürütülen soruşturma kapsamında tutuklandı.",
+      "long_summary": "Giresun'da Görele Belediye Başkanı Hasbi Dede, hakkında yürütülen soruşturma kapsamında tutuklandı.",
+      "long_summary_tr": "Giresun'da Görele Belediye Başkanı Hasbi Dede, hakkında yürütülen soruşturma kapsamında tutuklandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/gorele-belediye-baskani-hasbi-dede-tutuklandi-1711389",
+      "image": "https://images.ntv.com.tr/images/AW639174_03-250083(2).jpg",
+      "published_at": "2026-02-10T21:27:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Termal’de Belediye Personeline “Menopoz Okulu” Eğitimi",
+      "title_tr": "Termal’de Belediye Personeline “Menopoz Okulu” Eğitimi",
+      "summary": "Yalova İl Sağlık Müdürlüğü koordinesinde yürütülen Menopoz Okulu eğitimleri kapsamında, Termal Toplum Sağlığı Merkezi tarafından Gökçedere ve Termal Belediyesi çalışanlarına yönelik bilgilendirme eğitimi gerçekleştirildi.",
+      "summary_tr": "Yalova İl Sağlık Müdürlüğü koordinesinde yürütülen Menopoz Okulu eğitimleri kapsamında, Termal Toplum Sağlığı Merkezi tarafından Gökçedere ve Termal Belediyesi çalışanlarına yönelik bilgilendirme eğitimi gerçekleştirildi.",
+      "long_summary": "Yalova İl Sağlık Müdürlüğü koordinesinde yürütülen Menopoz Okulu eğitimleri kapsamında, Termal Toplum Sağlığı Merkezi tarafından Gökçedere ve Termal Belediyesi çalışanlarına yönelik bilgilendirme eğitimi gerçekleştirildi.",
+      "long_summary_tr": "Yalova İl Sağlık Müdürlüğü koordinesinde yürütülen Menopoz Okulu eğitimleri kapsamında, Termal Toplum Sağlığı Merkezi tarafından Gökçedere ve Termal Belediyesi çalışanlarına yönelik bilgilendirme eğitimi gerçekleştirildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/termalde-belediye-personeline-menopoz-okulu-egitimi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-termal-belediye-gokcedere-toplum-sagligi-merkez-menopoz-okulu-3.jpg",
+      "published_at": "2026-02-10T21:21:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da Yüzlerce Litre Kaçak Alkol Ele Geçirildi",
+      "title_tr": "Yalova’da Yüzlerce Litre Kaçak Alkol Ele Geçirildi",
+      "summary": "Yalova İl Jandarma Komutanlığı ekiplerinin Merkez ilçede düzenlediği operasyonda yüzlerce litre kaçak alkol, binlerce tütün ürünü ve elektronik sigara ele geçirilirken 2 şüpheli hakkında adli işlem başlatıldı.",
+      "summary_tr": "Yalova İl Jandarma Komutanlığı ekiplerinin Merkez ilçede düzenlediği operasyonda yüzlerce litre kaçak alkol, binlerce tütün ürünü ve elektronik sigara ele geçirilirken 2 şüpheli hakkında adli işlem başlatıldı.",
+      "long_summary": "Yalova İl Jandarma Komutanlığı ekiplerinin Merkez ilçede düzenlediği operasyonda yüzlerce litre kaçak alkol, binlerce tütün ürünü ve elektronik sigara ele geçirilirken 2 şüpheli hakkında adli işlem başlatıldı.",
+      "long_summary_tr": "Yalova İl Jandarma Komutanlığı ekiplerinin Merkez ilçede düzenlediği operasyonda yüzlerce litre kaçak alkol, binlerce tütün ürünü ve elektronik sigara ele geçirilirken 2 şüpheli hakkında adli işlem başlatıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-yuzlerce-litre-kacak-alkol-ele-gecirildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalovada-yuzlerce-litre-kacak-alkol-ele-gecirildi.jpeg",
+      "published_at": "2026-02-10T21:20:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "DISA unveils new cloud environment to speed delivery of services to forces",
+      "title_tr": "DISA unveils new cloud environment to speed delivery of services to forces",
+      "summary": "The new cloud environment consists of three on ramps: classic, private and commercial.",
+      "summary_tr": "The new cloud environment consists of three on ramps: classic, private and commercial.",
+      "long_summary": "The new cloud environment consists of three on ramps: classic, private and commercial.",
+      "long_summary_tr": "The new cloud environment consists of three on ramps: classic, private and commercial.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/02/disa-unveils-new-cloud-environment-to-speed-delivery-of-services-to-forces/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/07/240716_cloud_computing_graphic_GettyImages-1484912807-e1721149214795-1024x577.jpg",
+      "published_at": "2026-02-10T21:20:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Subaşı’nda Kapalı Pazar Mercek Altında",
+      "title_tr": "Subaşı’nda Kapalı Pazar Mercek Altında",
+      "summary": "Subaşı Belediyesi Zabıta Amirliği ekipleri, Kapalı Pazar Yeri’nde pazarcı esnafına yönelik denetim gerçekleştirerek hijyen ve düzen kurallarını kontrol etti.",
+      "summary_tr": "Subaşı Belediyesi Zabıta Amirliği ekipleri, Kapalı Pazar Yeri’nde pazarcı esnafına yönelik denetim gerçekleştirerek hijyen ve düzen kurallarını kontrol etti.",
+      "long_summary": "Subaşı Belediyesi Zabıta Amirliği ekipleri, Kapalı Pazar Yeri’nde pazarcı esnafına yönelik denetim gerçekleştirerek hijyen ve düzen kurallarını kontrol etti.",
+      "long_summary_tr": "Subaşı Belediyesi Zabıta Amirliği ekipleri, Kapalı Pazar Yeri’nde pazarcı esnafına yönelik denetim gerçekleştirerek hijyen ve düzen kurallarını kontrol etti.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/subasinda-kapali-pazar-mercek-altinda",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/subasinda-kapali-pazar-mercek-altinda-1.jpg",
+      "published_at": "2026-02-10T21:19:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Cumhurbaşkanı kararıyla iki bakanlıkta görev değişimi",
+      "title_tr": "Cumhurbaşkanı kararıyla iki bakanlıkta görev değişimi",
+      "summary": "Resmi Gazete'de yayımlanan Cumhurbaşkanı kararıyla Yılmaz Tunç'tan boşalan Adalet Bakanlığı görevine Akın Gürlek, Ali Yerlikaya'dan boşalan İçişleri Bakanlığı görevine ise Mustafa Çiftçi getirildi.",
+      "summary_tr": "Resmi Gazete'de yayımlanan Cumhurbaşkanı kararıyla Yılmaz Tunç'tan boşalan Adalet Bakanlığı görevine Akın Gürlek, Ali Yerlikaya'dan boşalan İçişleri Bakanlığı görevine ise Mustafa Çiftçi getirildi.",
+      "long_summary": "Resmi Gazete'de yayımlanan Cumhurbaşkanı kararıyla Yılmaz Tunç'tan boşalan Adalet Bakanlığı görevine Akın Gürlek, Ali Yerlikaya'dan boşalan İçişleri Bakanlığı görevine ise Mustafa Çiftçi getirildi.",
+      "long_summary_tr": "Resmi Gazete'de yayımlanan Cumhurbaşkanı kararıyla Yılmaz Tunç'tan boşalan Adalet Bakanlığı görevine Akın Gürlek, Ali Yerlikaya'dan boşalan İçişleri Bakanlığı görevine ise Mustafa Çiftçi getirildi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/cumhurbaskani-karariyla-iki-bakanlikta-gorev-degisimi-3768804",
+      "image": null,
+      "published_at": "2026-02-10T21:18:29+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Tavşanlı’da Gülen Çınarcık Oldu",
+      "title_tr": "Tavşanlı’da Gülen Çınarcık Oldu",
+      "summary": "Kaytazdere Belediyespor:1 Çınarcık Belediyespor:3\n\nSüper Amatör Kümenin 12. Haftasında son dönemin en formsuz takımı Kaytazdere Belediyespor ile çıkışa geçen Çınarcık Belediyespor kozlarını paylaştı.",
+      "summary_tr": "Kaytazdere Belediyespor:1 Çınarcık Belediyespor:3\n\nSüper Amatör Kümenin 12. Haftasında son dönemin en formsuz takımı Kaytazdere Belediyespor ile çıkışa geçen Çınarcık Belediyespor kozlarını paylaştı.",
+      "long_summary": "Kaytazdere Belediyespor:1 Çınarcık Belediyespor:3\n\nSüper Amatör Kümenin 12. Haftasında son dönemin en formsuz takımı Kaytazdere Belediyespor ile çıkışa geçen Çınarcık Belediyespor kozlarını paylaştı.",
+      "long_summary_tr": "Kaytazdere Belediyespor:1 Çınarcık Belediyespor:3\n\nSüper Amatör Kümenin 12. Haftasında son dönemin en formsuz takımı Kaytazdere Belediyespor ile çıkışa geçen Çınarcık Belediyespor kozlarını paylaştı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/tavsanlida-gulen-cinarcik-oldu",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/spor/tavsanlida-gulen-cinarcik-oldu-1.jpeg",
+      "published_at": "2026-02-10T21:18:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Kabus Gibi Haftayı Geride Bıraktık",
+      "title_tr": "Kabus Gibi Haftayı Geride Bıraktık",
+      "summary": "Bölgesel Amatör Ligi(BAL) 5. Gruptaki temsilcilerimiz Yalovaspor ve RMK Marine Tavşanlı Belediyespor için 15. Hafta kabus gibi geçti. Her iki temsilcimizde Kütahya takımları karşısında aldığı farklı mağlubiyetler dikkat çekti.",
+      "summary_tr": "Bölgesel Amatör Ligi(BAL) 5. Gruptaki temsilcilerimiz Yalovaspor ve RMK Marine Tavşanlı Belediyespor için 15. Hafta kabus gibi geçti. Her iki temsilcimizde Kütahya takımları karşısında aldığı farklı mağlubiyetler dikkat çekti.",
+      "long_summary": "Bölgesel Amatör Ligi(BAL) 5. Gruptaki temsilcilerimiz Yalovaspor ve RMK Marine Tavşanlı Belediyespor için 15. Hafta kabus gibi geçti. Her iki temsilcimizde Kütahya takımları karşısında aldığı farklı mağlubiyetler dikkat çekti.",
+      "long_summary_tr": "Bölgesel Amatör Ligi(BAL) 5. Gruptaki temsilcilerimiz Yalovaspor ve RMK Marine Tavşanlı Belediyespor için 15. Hafta kabus gibi geçti. Her iki temsilcimizde Kütahya takımları karşısında aldığı farklı mağlubiyetler dikkat çekti.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/kabus-gibi-haftayi-geride-biraktik",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/spor/kabus-gibi-haftayi-geride-biraktik-2.jpg",
+      "published_at": "2026-02-10T21:17:00+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Oyun / Dijital",
       "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "GameSpot",
-      "title": "Fallout 76 Veterans Chose Friendship Over Fights, Much To The Devs' Surprise",
-      "title_tr": "Fallout 76 Veterans Chose Friendship Over Fights, Much To The Devs' Surprise",
-      "summary": "As you might expect, the Fallout TV series on Prime Video has sent a lot of new and returning players to Fallout 76. But not even Bethesda could have predicted the warm welcome that these newcomers received from the preexisting players in the game.While speaking with The Game Business, Fallout 76 creative director John Rush expressed his shock at the cooperative spirit and sense of camaraderie that's emerged in the game.\"I'd say a lot of the onboarding was done by our wonderful community who was recognizing all of these fresh vault dwellers emerging from Vault 76 and setting up camps outside of that and giving them free stuff and showing them things and 'look at what I built,'\" said Rush. \"So it was very much a concerted effort between us and our community welcoming this new influx of brand-new players and returning players alike.\"Continue Reading at GameSpot",
-      "summary_tr": "As you might expect, the Fallout TV series on Prime Video has sent a lot of new and returning players to Fallout 76. But not even Bethesda could have predicted the warm welcome that these newcomers received from the preexisting players in the game.While speaking with The Game Business, Fallout 76 creative director John Rush expressed his shock at the cooperative spirit and sense of camaraderie that's emerged in the game.\"I'd say a lot of the onboarding was done by our wonderful community who was recognizing all of these fresh vault dwellers emerging from Vault 76 and setting up camps outside of that and giving them free stuff and showing them things and 'look at what I built,'\" said Rush. \"So it was very much a concerted effort between us and our community welcoming this new influx of brand-new players and returning players alike.\"Continue Reading at GameSpot",
-      "long_summary": "As you might expect, the Fallout TV series on Prime Video has sent a lot of new and returning players to Fallout 76. But not even Bethesda could have predicted the warm welcome that these newcomers received from the preexisting players in the game.While speaking with The Game Business, Fallout 76 creative director John Rush expressed his shock at the cooperative spirit and sense of camaraderie that's emerged in the game.\"I'd say a lot of the onboarding was done by our wonderful community who",
-      "long_summary_tr": "As you might expect, the Fallout TV series on Prime Video has sent a lot of new and returning players to Fallout 76. But not even Bethesda could have predicted the warm welcome that these newcomers received from the preexisting players in the game.While speaking with The Game Business, Fallout 76 creative director John Rush expressed his shock at the cooperative spirit and sense of camaraderie that's emerged in the game.\"I'd say a lot of the onboarding was done by our wonderful community who",
+      "source": "IGN",
+      "title": "Cold Storage Review",
+      "title_tr": "Cold Storage Review",
+      "summary": "Cold Storage review: Joe Keery stars in the new movie, which is an enjoyably goofy and gory good time. Clickers and Bloaters, move over – there’s a new fungus in town.",
+      "summary_tr": "Cold Storage review: Joe Keery stars in the new movie, which is an enjoyably goofy and gory good time. Clickers and Bloaters, move over – there’s a new fungus in town.",
+      "long_summary": "Cold Storage review: Joe Keery stars in the new movie, which is an enjoyably goofy and gory good time. Clickers and Bloaters, move over – there’s a new fungus in town.",
+      "long_summary_tr": "Cold Storage review: Joe Keery stars in the new movie, which is an enjoyably goofy and gory good time. Clickers and Bloaters, move over – there’s a new fungus in town.",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/fallout-76-veterans-chose-friendship-over-fights-much-to-the-devs-surprise/1100-6538082/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4649837-fallout76besties.jpg",
-      "published_at": "2026-02-10T20:44:00+00:00"
+      "url": "https://www.ign.com/articles/cold-storage-review-joe-keery-georgina-campbell",
+      "image": "https://assets-prd.ignimgs.com/2026/02/10/cold-storage-thumb-1770757793311.jpg",
+      "published_at": "2026-02-10T21:16:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Ece Haraç Türkiye Şampiyonu Oldu",
+      "title_tr": "Ece Haraç Türkiye Şampiyonu Oldu",
+      "summary": "Türkiye Masa Tenisi Federasyonu (TMTF) tarafından organize edilen Büyükler Türkiye Şampiyonasına Yalovalı sporcular damga vurdu.",
+      "summary_tr": "Türkiye Masa Tenisi Federasyonu (TMTF) tarafından organize edilen Büyükler Türkiye Şampiyonasına Yalovalı sporcular damga vurdu.",
+      "long_summary": "Türkiye Masa Tenisi Federasyonu (TMTF) tarafından organize edilen Büyükler Türkiye Şampiyonasına Yalovalı sporcular damga vurdu.",
+      "long_summary_tr": "Türkiye Masa Tenisi Federasyonu (TMTF) tarafından organize edilen Büyükler Türkiye Şampiyonasına Yalovalı sporcular damga vurdu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/ece-harac-turkiye-sampiyonu-oldu",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/spor/ece-harac-turkiye-sampiyonu-oldu-2.jpg",
+      "published_at": "2026-02-10T21:16:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Bu Haftanın En Farklı Galibiyeti Taşköprü’den",
+      "title_tr": "Bu Haftanın En Farklı Galibiyeti Taşköprü’den",
+      "summary": "Taşköprüspor:5 Termal Belediyespor:0\n\nSüper Amatör Kümenin 12. Haftasında en farklı galibiyete Taşköprüspor imza attı. Erkan Kılavuz’un öğrencileri saha ve seyircisi önünde ağırladığı Termal Belediyespor’u 5-0 gibi farklı skorla mağlup etmeyi başardı.",
+      "summary_tr": "Taşköprüspor:5 Termal Belediyespor:0\n\nSüper Amatör Kümenin 12. Haftasında en farklı galibiyete Taşköprüspor imza attı. Erkan Kılavuz’un öğrencileri saha ve seyircisi önünde ağırladığı Termal Belediyespor’u 5-0 gibi farklı skorla mağlup etmeyi başardı.",
+      "long_summary": "Taşköprüspor:5 Termal Belediyespor:0\n\nSüper Amatör Kümenin 12. Haftasında en farklı galibiyete Taşköprüspor imza attı. Erkan Kılavuz’un öğrencileri saha ve seyircisi önünde ağırladığı Termal Belediyespor’u 5-0 gibi farklı skorla mağlup etmeyi başardı.",
+      "long_summary_tr": "Taşköprüspor:5 Termal Belediyespor:0\n\nSüper Amatör Kümenin 12. Haftasında en farklı galibiyete Taşköprüspor imza attı. Erkan Kılavuz’un öğrencileri saha ve seyircisi önünde ağırladığı Termal Belediyespor’u 5-0 gibi farklı skorla mağlup etmeyi başardı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/bu-haftanin-en-farkli-galibiyeti-taskopruden",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/spor/bu-haftanin-en-farkli-galibiyeti-taskopruden-1.jpeg",
+      "published_at": "2026-02-10T21:15:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Ten-man Everton implode as Bournemouth come back to win",
+      "title_tr": "Ten-man Everton implode as Bournemouth come back to win",
+      "summary": "Ten-man Everton imploded within the space of eight second-half minutes as they threw away a 1-0 lead at the hour mark to lose 2-1 to Bournemouth - and extend their home winless run to six games.",
+      "summary_tr": "Ten-man Everton imploded within the space of eight second-half minutes as they threw away a 1-0 lead at the hour mark to lose 2-1 to Bournemouth - and extend their home winless run to six games.",
+      "long_summary": "Ten-man Everton imploded within the space of eight second-half minutes as they threw away a 1-0 lead at the hour mark to lose 2-1 to Bournemouth - and extend their home winless run to six games.",
+      "long_summary_tr": "Ten-man Everton imploded within the space of eight second-half minutes as they threw away a 1-0 lead at the hour mark to lose 2-1 to Bournemouth - and extend their home winless run to six games.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/everton-vs-bournemouth/report/531383",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-thierno-barry-everton_7161393.jpg?20260210200816",
+      "published_at": "2026-02-10T21:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Altınova 3 Puanı 3 Golle Aldı",
+      "title_tr": "Altınova 3 Puanı 3 Golle Aldı",
+      "summary": "Soğucakspor:0 Altınova Belediyespor:3\n\nSüper Amatör Kümenin ilk yarısını domine eden iki takım Soğucakspor ile Altınova Belediyespor 12. Haftada kozlarını paylaştı.",
+      "summary_tr": "Soğucakspor:0 Altınova Belediyespor:3\n\nSüper Amatör Kümenin ilk yarısını domine eden iki takım Soğucakspor ile Altınova Belediyespor 12. Haftada kozlarını paylaştı.",
+      "long_summary": "Soğucakspor:0 Altınova Belediyespor:3\n\nSüper Amatör Kümenin ilk yarısını domine eden iki takım Soğucakspor ile Altınova Belediyespor 12. Haftada kozlarını paylaştı.",
+      "long_summary_tr": "Soğucakspor:0 Altınova Belediyespor:3\n\nSüper Amatör Kümenin ilk yarısını domine eden iki takım Soğucakspor ile Altınova Belediyespor 12. Haftada kozlarını paylaştı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/altinova-3-puani-3-golle-aldi-1",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/spor/altinova-3-puani-3-golle-aldi-2.jpeg",
+      "published_at": "2026-02-10T21:14:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "20. Hafta Nefes Kesti",
+      "title_tr": "20. Hafta Nefes Kesti",
+      "summary": "Yalova FK’nın mücadele ettiği TFF 3. Lig 1. Grupta 20. Hafta maçları mücadele etti.",
+      "summary_tr": "Yalova FK’nın mücadele ettiği TFF 3. Lig 1. Grupta 20. Hafta maçları mücadele etti.",
+      "long_summary": "Yalova FK’nın mücadele ettiği TFF 3. Lig 1. Grupta 20. Hafta maçları mücadele etti.",
+      "long_summary_tr": "Yalova FK’nın mücadele ettiği TFF 3. Lig 1. Grupta 20. Hafta maçları mücadele etti.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/20-hafta-nefes-kesti",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/spor/20-hafta-nefes-kesti-5.jpg",
+      "published_at": "2026-02-10T21:13:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Yönetici Akademisi’nde Üçüncü Buluşma Gerçekleştirildi",
+      "title_tr": "Yalova Yönetici Akademisi’nde Üçüncü Buluşma Gerçekleştirildi",
+      "summary": "Yalova İl Millî Eğitim Müdürlüğü tarafından yürütülen Yalova Yönetici Akademisi programının üçüncü buluşmasında okul yöneticileri, “Süreçlerle Okul Yönetimi” başlığı altında uzman isimlerle bir araya geldi.",
+      "summary_tr": "Yalova İl Millî Eğitim Müdürlüğü tarafından yürütülen Yalova Yönetici Akademisi programının üçüncü buluşmasında okul yöneticileri, “Süreçlerle Okul Yönetimi” başlığı altında uzman isimlerle bir araya geldi.",
+      "long_summary": "Yalova İl Millî Eğitim Müdürlüğü tarafından yürütülen Yalova Yönetici Akademisi programının üçüncü buluşmasında okul yöneticileri, “Süreçlerle Okul Yönetimi” başlığı altında uzman isimlerle bir araya geldi.",
+      "long_summary_tr": "Yalova İl Millî Eğitim Müdürlüğü tarafından yürütülen Yalova Yönetici Akademisi programının üçüncü buluşmasında okul yöneticileri, “Süreçlerle Okul Yönetimi” başlığı altında uzman isimlerle bir araya geldi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-yonetici-akademisinde-ucuncu-bulusma-gerceklestirildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-il-mill-egitim-mudurluk-yonetici-akademisi-1.jpeg",
+      "published_at": "2026-02-10T21:12:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Avukat Evin’den Yalovalılara Kentsel Dönüşümde Kanun Değişikliği Uyarısı",
+      "title_tr": "Avukat Evin’den Yalovalılara Kentsel Dönüşümde Kanun Değişikliği Uyarısı",
+      "summary": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "summary_tr": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "long_summary": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "long_summary_tr": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/avukat-evinden-yalovalilara-kentsel-donusumde-kanun-degisikligi-uyarisi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-cumhuriyet-halk-partisi-avukat-belediye-meclis-uyesi-kentsel-donusum-kanun-degisiklik-haber-3.JPG",
+      "published_at": "2026-02-10T21:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Avukat Evin’den Yalovalılara Kentsel Dönüşümde Kanun Değişikliği Uyarısı",
+      "title_tr": "Avukat Evin’den Yalovalılara Kentsel Dönüşümde Kanun Değişikliği Uyarısı",
+      "summary": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "summary_tr": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "long_summary": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "long_summary_tr": "Cumhuriyet Halk Partisi Yalova Belediye Meclis Üyesi Avukat Tarık Burak Evin, 4 Şubat 2024 tarihinde Resmî Gazete’de yayımlanan ve 6306 Sayılı Kanun’un Uygulama Yönetmeliği’nde yapılan kentsel dönüşüme ilişkin değişiklikler hakkında, Yalova Gazetesi’ne konuk olarak Yalovalılara kritik uyarılarda bulundu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/video/avukat-evinden-yalovalilara-kentsel-donusumde-kanun-degisikligi-uyarisi",
+      "image": "https://img.youtube.com/vi/7rviusk6Thg/maxresdefault.jpg",
+      "published_at": "2026-02-10T21:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Yeni İçişleri Bakanı Mustafa Çiftçi kimdir?",
+      "title_tr": "Yeni İçişleri Bakanı Mustafa Çiftçi kimdir?",
+      "summary": "Türkiye’de uzun yıllardır kamu yönetiminin farklı kademelerinde görev yapan Mustafa Çiftçi, 9 Ağustos 2023 tarihinden bu yana Erzurum Valisi olarak görev yapıyordu. Çiftçi, Ali Yerlikaya&#039;nın yerine İçişleri Bakanı oldu.",
+      "summary_tr": "Türkiye’de uzun yıllardır kamu yönetiminin farklı kademelerinde görev yapan Mustafa Çiftçi, 9 Ağustos 2023 tarihinden bu yana Erzurum Valisi olarak görev yapıyordu. Çiftçi, Ali Yerlikaya&#039;nın yerine İçişleri Bakanı oldu.",
+      "long_summary": "Türkiye’de uzun yıllardır kamu yönetiminin farklı kademelerinde görev yapan Mustafa Çiftçi, 9 Ağustos 2023 tarihinden bu yana Erzurum Valisi olarak görev yapıyordu. Çiftçi, Ali Yerlikaya&#039;nın yerine İçişleri Bakanı oldu.",
+      "long_summary_tr": "Türkiye’de uzun yıllardır kamu yönetiminin farklı kademelerinde görev yapan Mustafa Çiftçi, 9 Ağustos 2023 tarihinden bu yana Erzurum Valisi olarak görev yapıyordu. Çiftçi, Ali Yerlikaya&#039;nın yerine İçişleri Bakanı oldu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/yeni-icisleri-bakani-mustafa-ciftci-kimdir-haberi-814630",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/yeni-proje-5-zqfa_cover.jpg",
+      "published_at": "2026-02-10T21:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Başkan Kendir’den Kritik Uyarı: “Hastane Yolunda Çökme Emareleri Var”",
+      "title_tr": "Başkan Kendir’den Kritik Uyarı: “Hastane Yolunda Çökme Emareleri Var”",
+      "summary": "Yalova Eğitim ve Araştırma Hastanesi’nin kayan yoluyla ilgili olarak geçtiğimiz yıldan itibaren kamuoyuna birçok açıklamada bulunan İYİ Parti Yalova İl Başkanı Osman Kendir, makam odasından yayınladığı bir videoda konuya ilişkin yeni bir değerlendirmede bulundu.",
+      "summary_tr": "Yalova Eğitim ve Araştırma Hastanesi’nin kayan yoluyla ilgili olarak geçtiğimiz yıldan itibaren kamuoyuna birçok açıklamada bulunan İYİ Parti Yalova İl Başkanı Osman Kendir, makam odasından yayınladığı bir videoda konuya ilişkin yeni bir değerlendirmede bulundu.",
+      "long_summary": "Yalova Eğitim ve Araştırma Hastanesi’nin kayan yoluyla ilgili olarak geçtiğimiz yıldan itibaren kamuoyuna birçok açıklamada bulunan İYİ Parti Yalova İl Başkanı Osman Kendir, makam odasından yayınladığı bir videoda konuya ilişkin yeni bir değerlendirmede bulundu.",
+      "long_summary_tr": "Yalova Eğitim ve Araştırma Hastanesi’nin kayan yoluyla ilgili olarak geçtiğimiz yıldan itibaren kamuoyuna birçok açıklamada bulunan İYİ Parti Yalova İl Başkanı Osman Kendir, makam odasından yayınladığı bir videoda konuya ilişkin yeni bir değerlendirmede bulundu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/baskan-kendirden-kritik-uyari-hastane-yolunda-cokme-emareleri-var",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-egitim-arastirma-hastane-coken-yol-iyi-parti-il-baskan-yeni-iddia-aciklama.jpg",
+      "published_at": "2026-02-10T21:10:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Magic: The Gathering Just Had Its Most Successful Year Ever...Again",
+      "title_tr": "Magic: The Gathering Just Had Its Most Successful Year Ever...Again",
+      "summary": "Magic: The Gathering just had its most financially successful year yet, Hasbro has announced. And it's largely thanks to its collaborations with other brands, via its Universes Beyond and Secret Lair releases.",
+      "summary_tr": "Magic: The Gathering just had its most financially successful year yet, Hasbro has announced. And it's largely thanks to its collaborations with other brands, via its Universes Beyond and Secret Lair releases.",
+      "long_summary": "Magic: The Gathering just had its most financially successful year yet, Hasbro has announced. And it's largely thanks to its collaborations with other brands, via its Universes Beyond and Secret Lair releases.",
+      "long_summary_tr": "Magic: The Gathering just had its most financially successful year yet, Hasbro has announced. And it's largely thanks to its collaborations with other brands, via its Universes Beyond and Secret Lair releases.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/magic-the-gathering-just-had-its-most-successful-year-everagain",
+      "image": "https://assets-prd.ignimgs.com/2025/08/14/avatar-box-blogroll-1755144052269.jpg",
+      "published_at": "2026-02-10T21:09:37+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova KYK Kız Öğrenci Yurdunda Bahar Yarıyılı Öncesi Aynı Manzara",
+      "title_tr": "Yalova KYK Kız Öğrenci Yurdunda Bahar Yarıyılı Öncesi Aynı Manzara",
+      "summary": "Yalova’da KYK Kız Öğrenci Yurduna ulaşımı sağlayan yol, ekim ayında düzenlendiği belirtilmesine rağmen bahar yarıyılı başlamadan önce de çamur ve bozuk zemin sorunuyla gündemde.",
+      "summary_tr": "Yalova’da KYK Kız Öğrenci Yurduna ulaşımı sağlayan yol, ekim ayında düzenlendiği belirtilmesine rağmen bahar yarıyılı başlamadan önce de çamur ve bozuk zemin sorunuyla gündemde.",
+      "long_summary": "Yalova’da KYK Kız Öğrenci Yurduna ulaşımı sağlayan yol, ekim ayında düzenlendiği belirtilmesine rağmen bahar yarıyılı başlamadan önce de çamur ve bozuk zemin sorunuyla gündemde.",
+      "long_summary_tr": "Yalova’da KYK Kız Öğrenci Yurduna ulaşımı sağlayan yol, ekim ayında düzenlendiği belirtilmesine rağmen bahar yarıyılı başlamadan önce de çamur ve bozuk zemin sorunuyla gündemde.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-kyk-kiz-ogrenci-yurdunda-bahar-yariyili-oncesi-ayni-manzara",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-kyk-kiz-ogrenci-yurdunda-bahar-yariyili-oncesi-ayni-manzara-haber-5.JPG",
+      "published_at": "2026-02-10T21:09:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -73,351 +689,21 @@
       "category_slug": "bilim",
       "is_local": false,
       "source": "Popular Science",
-      "title": "Amazon is clearing out Greenworks yard tools during this get-ready-for-spring flash sale",
-      "title_tr": "Amazon is clearing out Greenworks yard tools during this get-ready-for-spring flash sale",
-      "summary": "The sale also includes corded electric tools, power tools, and more. Get everything you need for spring projects before prices go back up for the season.\nThe post Amazon is clearing out Greenworks yard tools during this get-ready-for-spring flash sale appeared first on Popular Science.",
-      "summary_tr": "The sale also includes corded electric tools, power tools, and more. Get everything you need for spring projects before prices go back up for the season.\nThe post Amazon is clearing out Greenworks yard tools during this get-ready-for-spring flash sale appeared first on Popular Science.",
-      "long_summary": "The sale also includes corded electric tools, power tools, and more. Get everything you need for spring projects before prices go back up for the season.\nThe post Amazon is clearing out Greenworks yard tools during this get-ready-for-spring flash sale appeared first on Popular Science.",
-      "long_summary_tr": "The sale also includes corded electric tools, power tools, and more. Get everything you need for spring projects before prices go back up for the season.\nThe post Amazon is clearing out Greenworks yard tools during this get-ready-for-spring flash sale appeared first on Popular Science.",
+      "title": "Amazon just dropped the prices on these editor-approved Flashforge 3D printers and filaments",
+      "title_tr": "Amazon just dropped the prices on these editor-approved Flashforge 3D printers and filaments",
+      "summary": "If you've been thinking about getting into 3D printing—or upgrading your current printer—this Amazon sale is a great opportunity.\nThe post Amazon just dropped the prices on these editor-approved Flashforge 3D printers and filaments appeared first on Popular Science.",
+      "summary_tr": "If you've been thinking about getting into 3D printing—or upgrading your current printer—this Amazon sale is a great opportunity.\nThe post Amazon just dropped the prices on these editor-approved Flashforge 3D printers and filaments appeared first on Popular Science.",
+      "long_summary": "If you've been thinking about getting into 3D printing—or upgrading your current printer—this Amazon sale is a great opportunity.\nThe post Amazon just dropped the prices on these editor-approved Flashforge 3D printers and filaments appeared first on Popular Science.",
+      "long_summary_tr": "If you've been thinking about getting into 3D printing—or upgrading your current printer—this Amazon sale is a great opportunity.\nThe post Amazon just dropped the prices on these editor-approved Flashforge 3D printers and filaments appeared first on Popular Science.",
       "why_important": [
         "Teknolojik ve akademik gelişmelere katkı sağlaması"
       ],
       "possible_impacts": [
         "Yeni keşifler farklı alanlara yön verebilir"
       ],
-      "url": "https://www.popsci.com/gear/greenworks-electric-yard-tool-deals-february-amazon/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/greenworks-tool-deals-amazon-february.jpg?quality=85",
-      "published_at": "2026-02-10T20:30:28+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "9 Best Cloud Bed Dupes for a Luxe Bedroom Look for Less",
-      "title_tr": "9 Best Cloud Bed Dupes for a Luxe Bedroom Look for Less",
-      "summary": "For bedrooms that feel elevated, cozy, and intentionally styled.",
-      "summary_tr": "For bedrooms that feel elevated, cozy, and intentionally styled.",
-      "long_summary": "For bedrooms that feel elevated, cozy, and intentionally styled.",
-      "long_summary_tr": "For bedrooms that feel elevated, cozy, and intentionally styled.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/g60980814/best-cloud-bed-dupes/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/download-698b6d3c317bc.png",
-      "published_at": "2026-02-10T20:26:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "The 27\" Samsung QD-OLED Gaming Monitor Drops to $350, Now the Least Expensive OLED Monitor",
-      "title_tr": "The 27\" Samsung QD-OLED Gaming Monitor Drops to $350, Now the Least Expensive OLED Monitor",
-      "summary": "Includes a 3 year warranty that includes burn-in coverage.",
-      "summary_tr": "Includes a 3 year warranty that includes burn-in coverage.",
-      "long_summary": "Includes a 3 year warranty that includes burn-in coverage.",
-      "long_summary_tr": "Includes a 3 year warranty that includes burn-in coverage.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/samsung-odyssey-g5-qd-oled-gaming-monitor-deal-amazon-presidents-day-sale",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/samsungodysseyoledg5-1770750400510.jpg",
-      "published_at": "2026-02-10T20:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Boeing Everett’ta dördüncü 737 MAX üretim hattını açacak",
-      "title_tr": "Boeing Everett’ta dördüncü 737 MAX üretim hattını açacak",
-      "summary": "Boeing Everett’ta dördüncü 737 MAX üretim hattını açacak",
-      "summary_tr": "Boeing Everett’ta dördüncü 737 MAX üretim hattını açacak",
-      "long_summary": "Boeing Everett’ta dördüncü 737 MAX üretim hattını açacak",
-      "long_summary_tr": "Boeing Everett’ta dördüncü 737 MAX üretim hattını açacak",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/boeing-everettta-dorduncu-737-max-uretim-hattn-acacak-93CH-3756376",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T20:18:44+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Is Mewgenics Coming To Console? Here's What We Know",
-      "title_tr": "Is Mewgenics Coming To Console? Here's What We Know",
-      "summary": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it remains to be seen which specific console platforms may be supported. McMillen's most famous game, 2010's Super Meat Boy, was released on console at launch for Xbox 360, before coming to PS4 in 2015, Wii U in 2016, and Switch in 2018.Continue Reading at GameSpot",
-      "summary_tr": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it remains to be seen which specific console platforms may be supported. McMillen's most famous game, 2010's Super Meat Boy, was released on console at launch for Xbox 360, before coming to PS4 in 2015, Wii U in 2016, and Switch in 2018.Continue Reading at GameSpot",
-      "long_summary": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it",
-      "long_summary_tr": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/is-mewgenics-coming-to-console-heres-what-we-know/1100-6538081/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4649838-screenshot2026-02-10at3.24.30%E2%80%AFpm.png",
-      "published_at": "2026-02-10T20:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Çinli hackerlar, Singapurlu telekom şirketlerini hedef aldı",
-      "title_tr": "Çinli hackerlar, Singapurlu telekom şirketlerini hedef aldı",
-      "summary": "Singapur hükümeti, Çin destekli bilgisayar korsanlarının ülkenin en büyük dört telekom şirketi, Singtel, StarHub, M1 ve Simba Telecom’un altyapılarını hedef aldıklarını açıkladı.",
-      "summary_tr": "Singapur hükümeti, Çin destekli bilgisayar korsanlarının ülkenin en büyük dört telekom şirketi, Singtel, StarHub, M1 ve Simba Telecom’un altyapılarını hedef aldıklarını açıkladı.",
-      "long_summary": "Singapur hükümeti, Çin destekli bilgisayar korsanlarının ülkenin en büyük dört telekom şirketi, Singtel, StarHub, M1 ve Simba Telecom’un altyapılarını hedef aldıklarını açıkladı.",
-      "long_summary_tr": "Singapur hükümeti, Çin destekli bilgisayar korsanlarının ülkenin en büyük dört telekom şirketi, Singtel, StarHub, M1 ve Simba Telecom’un altyapılarını hedef aldıklarını açıkladı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/cinli-hackerlar-singapurlu-telekom-sirketlerini-hedef-aldi-3768801",
-      "image": null,
-      "published_at": "2026-02-10T20:09:14+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Bid launched to extend Zimbabwe president's term in office",
-      "title_tr": "Bid launched to extend Zimbabwe president's term in office",
-      "summary": "President Mnangagwa's term in office is due to end in 2028 but a bill could open the way for him to extend that time.",
-      "summary_tr": "President Mnangagwa's term in office is due to end in 2028 but a bill could open the way for him to extend that time.",
-      "long_summary": "President Mnangagwa's term in office is due to end in 2028 but a bill could open the way for him to extend that time.",
-      "long_summary_tr": "President Mnangagwa's term in office is due to end in 2028 but a bill could open the way for him to extend that time.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c15x3xl52qdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/890a/live/aafb5090-ff78-11ef-b50e-9d086302645f.jpg",
-      "published_at": "2026-02-10T20:08:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Lufthansa pilotları greve gidecek",
-      "title_tr": "Lufthansa pilotları greve gidecek",
-      "summary": "Alman hava yolu şirketi Lufthansa&#039;da çalışan pilotların ve kabin memurlarının, emeklilik haklarının iyileştirilmesi talebiyle 12 Şubat Perşembe günü 24 saatlik greve gideceği bildirildi.",
-      "summary_tr": "Alman hava yolu şirketi Lufthansa&#039;da çalışan pilotların ve kabin memurlarının, emeklilik haklarının iyileştirilmesi talebiyle 12 Şubat Perşembe günü 24 saatlik greve gideceği bildirildi.",
-      "long_summary": "Alman hava yolu şirketi Lufthansa&#039;da çalışan pilotların ve kabin memurlarının, emeklilik haklarının iyileştirilmesi talebiyle 12 Şubat Perşembe günü 24 saatlik greve gideceği bildirildi.",
-      "long_summary_tr": "Alman hava yolu şirketi Lufthansa&#039;da çalışan pilotların ve kabin memurlarının, emeklilik haklarının iyileştirilmesi talebiyle 12 Şubat Perşembe günü 24 saatlik greve gideceği bildirildi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/lufthansa-pilotlari-greve-gidecek-haberi-814626",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2024/11/12/lufthansa-ijkf-cover-u395_cover.jpg",
-      "published_at": "2026-02-10T20:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Blackstone, Anthropic’teki hissesini 350 milyar dolar değerleme ile 1 milyar dolara çıkardı",
-      "title_tr": "Blackstone, Anthropic’teki hissesini 350 milyar dolar değerleme ile 1 milyar dolara çıkardı",
-      "summary": "Blackstone, Anthropic’teki hissesini 350 milyar dolar değerleme ile 1 milyar dolara çıkardı",
-      "summary_tr": "Blackstone, Anthropic’teki hissesini 350 milyar dolar değerleme ile 1 milyar dolara çıkardı",
-      "long_summary": "Blackstone, Anthropic’teki hissesini 350 milyar dolar değerleme ile 1 milyar dolara çıkardı",
-      "long_summary_tr": "Blackstone, Anthropic’teki hissesini 350 milyar dolar değerleme ile 1 milyar dolara çıkardı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/blackstone-anthropicteki-hissesini-350-milyar-dolar-degerleme-ile-1-milyar-dolara-ckard-93CH-3756367",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T20:07:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Under-fire Trump commerce secretary confirms he visited Epstein's island",
-      "title_tr": "Under-fire Trump commerce secretary confirms he visited Epstein's island",
-      "summary": "Howard Lutnick says he had lunch on the island in 2012, contradicting previous claims he had cut ties with Jeffrey Epstein in 2005.",
-      "summary_tr": "Howard Lutnick says he had lunch on the island in 2012, contradicting previous claims he had cut ties with Jeffrey Epstein in 2005.",
-      "long_summary": "Howard Lutnick says he had lunch on the island in 2012, contradicting previous claims he had cut ties with Jeffrey Epstein in 2005.",
-      "long_summary_tr": "Howard Lutnick says he had lunch on the island in 2012, contradicting previous claims he had cut ties with Jeffrey Epstein in 2005.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cwyx9vq0ne0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fd9/live/e2646b20-069d-11f1-8d5d-7d6caf00f484.jpg",
-      "published_at": "2026-02-10T20:05:05+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "World Defense Show Day 3: Saudis eye AI, and a local defense giant transforms",
-      "title_tr": "World Defense Show Day 3: Saudis eye AI, and a local defense giant transforms",
-      "summary": "Catch what’s new on the third day of the sprawling defense expo outside Riyadh, Saudi Arabia.",
-      "summary_tr": "Catch what’s new on the third day of the sprawling defense expo outside Riyadh, Saudi Arabia.",
-      "long_summary": "Catch what’s new on the third day of the sprawling defense expo outside Riyadh, Saudi Arabia.",
-      "long_summary_tr": "Catch what’s new on the third day of the sprawling defense expo outside Riyadh, Saudi Arabia.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/02/2026-world-defense-show-day-3/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/260210_sami_covered_PLAY-1024x576.jpg",
-      "published_at": "2026-02-10T20:03:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Erzurum’da okullar tatil mi, Erzurum Valiliği'nden açıklama geldi",
-      "title_tr": "Erzurum’da okullar tatil mi, Erzurum Valiliği'nden açıklama geldi",
-      "summary": "Erzurum’da etkili olan kar yağışı sonrası binlerce öğrenci ve veli &quot;Erzurum’da okullar tatil mi&quot; sorusuna yanıt aramaya başladı. Erzurum Valiliği&#039;nden 11 Şubat Çarşamba günü okulların durumuna dair bir açıklama geldi.",
-      "summary_tr": "Erzurum’da etkili olan kar yağışı sonrası binlerce öğrenci ve veli &quot;Erzurum’da okullar tatil mi&quot; sorusuna yanıt aramaya başladı. Erzurum Valiliği&#039;nden 11 Şubat Çarşamba günü okulların durumuna dair bir açıklama geldi.",
-      "long_summary": "Erzurum’da etkili olan kar yağışı sonrası binlerce öğrenci ve veli &quot;Erzurum’da okullar tatil mi&quot; sorusuna yanıt aramaya başladı. Erzurum Valiliği&#039;nden 11 Şubat Çarşamba günü okulların durumuna dair bir açıklama geldi.",
-      "long_summary_tr": "Erzurum’da etkili olan kar yağışı sonrası binlerce öğrenci ve veli &quot;Erzurum’da okullar tatil mi&quot; sorusuna yanıt aramaya başladı. Erzurum Valiliği&#039;nden 11 Şubat Çarşamba günü okulların durumuna dair bir açıklama geldi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/egitim/erzurumda-okullar-tatil-mi-erzurum-valiliginden-aciklama-geldi-haberi-814625",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/02/20/ogrenci-kar-rxmn_cover.jpg",
-      "published_at": "2026-02-10T20:02:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "C-130J deliveries paused due to technical issues, Air Force says",
-      "title_tr": "C-130J deliveries paused due to technical issues, Air Force says",
-      "summary": "Despite continued expansion of C-130J usage worldwide, deliveries to the US Air Force have been temporarily paused due to an issue with the aircraft’s communications package.",
-      "summary_tr": "Despite continued expansion of C-130J usage worldwide, deliveries to the US Air Force have been temporarily paused due to an issue with the aircraft’s communications package.",
-      "long_summary": "Despite continued expansion of C-130J usage worldwide, deliveries to the US Air Force have been temporarily paused due to an issue with the aircraft’s communications package.",
-      "long_summary_tr": "Despite continued expansion of C-130J usage worldwide, deliveries to the US Air Force have been temporarily paused due to an issue with the aircraft’s communications package.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/02/c-130j-deliveries-paused-due-to-technical-issues-air-force-says/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/9506770-1024x683.jpg",
-      "published_at": "2026-02-10T20:01:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Magic's Marvel Super Hero Set Doesn't Launch Until June - But Amazon Already Discounted It",
-      "title_tr": "Magic's Marvel Super Hero Set Doesn't Launch Until June - But Amazon Already Discounted It",
-      "summary": "Marvel's Super Hero crossover for Magic: The Gathering is seeing price cuts on booster boxes already.",
-      "summary_tr": "Marvel's Super Hero crossover for Magic: The Gathering is seeing price cuts on booster boxes already.",
-      "long_summary": "Marvel's Super Hero crossover for Magic: The Gathering is seeing price cuts on booster boxes already.",
-      "long_summary_tr": "Marvel's Super Hero crossover for Magic: The Gathering is seeing price cuts on booster boxes already.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/magic-the-gatherings-marvel-set-doesnt-launch-until-june-but-its-discounted-already",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/marvel-superhero-play-booster-box-ign-deal-1770733395640.png",
-      "published_at": "2026-02-10T20:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "6 silindirli Mercedes-AMG C53, park hâlinde görüntülendi",
-      "title_tr": "6 silindirli Mercedes-AMG C53, park hâlinde görüntülendi",
-      "summary": "C63’ün ve sevilmeyen 4 silindirli hibrit sistemin yerini alıyor.",
-      "summary_tr": "C63’ün ve sevilmeyen 4 silindirli hibrit sistemin yerini alıyor.",
-      "long_summary": "C63’ün ve sevilmeyen 4 silindirli hibrit sistemin yerini alıyor.",
-      "long_summary_tr": "C63’ün ve sevilmeyen 4 silindirli hibrit sistemin yerini alıyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/786940/yeni-amg-c53-park-casus/",
-      "image": "https://cdn.motor1.com/images/mgl/eozpxp/s3/mercedes-amg-c53-spy-photos.jpg",
-      "published_at": "2026-02-10T20:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Trump threatens to block opening of US-Canada bridge",
-      "title_tr": "Trump threatens to block opening of US-Canada bridge",
-      "summary": "The White House has reiterated its demands even after a 'positive' call between Trump and Mark Carney.",
-      "summary_tr": "The White House has reiterated its demands even after a 'positive' call between Trump and Mark Carney.",
-      "long_summary": "The White House has reiterated its demands even after a 'positive' call between Trump and Mark Carney.",
-      "long_summary_tr": "The White House has reiterated its demands even after a 'positive' call between Trump and Mark Carney.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc88/live/535a3030-0617-11f1-b653-2f014e2e8e4d.jpg",
-      "published_at": "2026-02-10T19:58:08+00:00"
+      "url": "https://www.popsci.com/gear/flashforge-3d-printer-filament-deals-amazon-february/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/02/flashforge-3d-printers-on-sale-at-amazon.jpg?quality=85",
+      "published_at": "2026-02-10T21:08:30+00:00"
     },
     {
       "origin": "yabanci",
@@ -425,351 +711,43 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Biathlete hopes affair confession 'can help' girlfriend",
-      "title_tr": "Biathlete hopes affair confession 'can help' girlfriend",
-      "summary": "Norwegian biathlete Sturla Holm Laegreid reflects on his decision to confess on live television to having cheated on his girlfriend, moments after winning bronze in the Winter Olympics.",
-      "summary_tr": "Norwegian biathlete Sturla Holm Laegreid reflects on his decision to confess on live television to having cheated on his girlfriend, moments after winning bronze in the Winter Olympics.",
-      "long_summary": "Norwegian biathlete Sturla Holm Laegreid reflects on his decision to confess on live television to having cheated on his girlfriend, moments after winning bronze in the Winter Olympics.",
-      "long_summary_tr": "Norwegian biathlete Sturla Holm Laegreid reflects on his decision to confess on live television to having cheated on his girlfriend, moments after winning bronze in the Winter Olympics.",
+      "title": "Fear and Gibson target GB's first medal - Wednesday's guide",
+      "title_tr": "Fear and Gibson target GB's first medal - Wednesday's guide",
+      "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
+      "summary_tr": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
+      "long_summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
+      "long_summary_tr": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/videos/c74393g97wlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f985/live/789d90d0-06b7-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-10T19:57:50+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Why Kate and Anthony Won’t Be Getting a Bridgerton Spinoff",
-      "title_tr": "Why Kate and Anthony Won’t Be Getting a Bridgerton Spinoff",
-      "summary": "Why Kate and Anthony Won’t Be Getting a Bridgerton Spinoff",
-      "summary_tr": "Why Kate and Anthony Won’t Be Getting a Bridgerton Spinoff",
-      "long_summary": "Why Kate and Anthony Won’t Be Getting a Bridgerton Spinoff",
-      "long_summary_tr": "Why Kate and Anthony Won’t Be Getting a Bridgerton Spinoff",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a70301952/why-kate-anthony-not-getting-bridgerton-spinoff/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7a3da696-ab07-4288-940f-3d17ee440917.jpg",
-      "published_at": "2026-02-10T19:56:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Trump: Müzakereler başarısız olursa bölgeye ikinci uçak gemisini gönderebiliriz",
-      "title_tr": "Trump: Müzakereler başarısız olursa bölgeye ikinci uçak gemisini gönderebiliriz",
-      "summary": "Trump, İran ile yürütülen müzakerelerin başarısız olması halinde Orta Doğu'ya ikinci bir uçak gemisi saldırı grubunun gönderilmesinin seçenekler arasında olduğunu belirtti.",
-      "summary_tr": "Trump, İran ile yürütülen müzakerelerin başarısız olması halinde Orta Doğu'ya ikinci bir uçak gemisi saldırı grubunun gönderilmesinin seçenekler arasında olduğunu belirtti.",
-      "long_summary": "Trump, İran ile yürütülen müzakerelerin başarısız olması halinde Orta Doğu'ya ikinci bir uçak gemisi saldırı grubunun gönderilmesinin seçenekler arasında olduğunu belirtti.",
-      "long_summary_tr": "Trump, İran ile yürütülen müzakerelerin başarısız olması halinde Orta Doğu'ya ikinci bir uçak gemisi saldırı grubunun gönderilmesinin seçenekler arasında olduğunu belirtti.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/trump-muzakereler-basarisiz-olursa-bolgeye-ikinci-ucak-gemisini-gonderebiliriz-3768800",
-      "image": null,
-      "published_at": "2026-02-10T19:54:46+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Stokes has successful surgery on broken cheek",
-      "title_tr": "Stokes has successful surgery on broken cheek",
-      "summary": "England Test captain Ben Stokes says he has had successful surgery on the broken cheek he sustained when hit by a ball while coaching Durham's academy.",
-      "summary_tr": "England Test captain Ben Stokes says he has had successful surgery on the broken cheek he sustained when hit by a ball while coaching Durham's academy.",
-      "long_summary": "England Test captain Ben Stokes says he has had successful surgery on the broken cheek he sustained when hit by a ball while coaching Durham's academy.",
-      "long_summary_tr": "England Test captain Ben Stokes says he has had successful surgery on the broken cheek he sustained when hit by a ball while coaching Durham's academy.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/cd03z37e42ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12fe/live/920b5a50-06b9-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-10T19:52:26+00:00"
+      "url": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f362/live/71510460-0220-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-10T21:08:09+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Eğitimde nezaket haftası: Değerler merkeze alındı",
-      "title_tr": "Eğitimde nezaket haftası: Değerler merkeze alındı",
-      "summary": "Okullarda hayata geçirilen \"Nezaket haftası\" etkinlikleri başladı. İstanbul İl Milli Eğitim Müdürlüğü konuya ilişkin paylaşım yaparak eğitimde empati, saygı ve incitmeden iletişimin önemini vurgulandı.Okullarda \"Nezaket Haftası\" kapsamında etkinlikler başlatıldı. Hafta boyunca öğrenciler ve öğretmenler nezaket, empati, saygı, paylaşma ve incitmeden iletişim kurma gibi değerleri merkeze alan eğitim ana odak olacak.\n\n\"TATLI DİL, ANLAYIŞ, EMPATİ, SAYGI VE İLETİŞİM MERKEZE ALINACAK\"\n\nİstanbul İl Milli Eğitim Müdürlüğü tarafından haftaya ilişkin sosyal medya hesabından yapılan paylaşımda söz ve davranışların sorumluluğunun bilincinin yüklendiği bir anlayışın yer aldığı şu şekilde ifade edildi:\n\nBu hafta “Nezaket Haftası” etkinlikleri kapsamında tüm okullarımızda; tatlı dili, anlayışlı olmayı, empatiyi, saygıyı, paylaşmayı ve birbirini incitmeden iletişim kurmayı merkeze alan bir eğitim ortamını hep birlikte yeşertiyoruz.\n\nNezaketin çoğaldığı, farklılıkların zenginlik olarak görüldüğü ve gönüllerin birbirine daha çok yaklaştığı bu hafta boyunca, söz ve davranışlarımızda sorumluluk bilincini güçlendiriyoruz.\n\nNezaket haftasında; öğrencilerimizin kalplerinde saygı, sorumluluk ve birlik duyguları güçlenirken okullarımız; maarif anlayışımız doğrultusunda yalnızca akademik bilginin aktarıldığı mekânlar değil, aynı zamanda değerlerin yaşatıldığı ve geleceğe güvenle taşındığı eğitim yuvaları hâline geliyor.",
-      "summary_tr": "Okullarda hayata geçirilen \"Nezaket haftası\" etkinlikleri başladı. İstanbul İl Milli Eğitim Müdürlüğü konuya ilişkin paylaşım yaparak eğitimde empati, saygı ve incitmeden iletişimin önemini vurgulandı.Okullarda \"Nezaket Haftası\" kapsamında etkinlikler başlatıldı. Hafta boyunca öğrenciler ve öğretmenler nezaket, empati, saygı, paylaşma ve incitmeden iletişim kurma gibi değerleri merkeze alan eğitim ana odak olacak.\n\n\"TATLI DİL, ANLAYIŞ, EMPATİ, SAYGI VE İLETİŞİM MERKEZE ALINACAK\"\n\nİstanbul İl Milli Eğitim Müdürlüğü tarafından haftaya ilişkin sosyal medya hesabından yapılan paylaşımda söz ve davranışların sorumluluğunun bilincinin yüklendiği bir anlayışın yer aldığı şu şekilde ifade edildi:\n\nBu hafta “Nezaket Haftası” etkinlikleri kapsamında tüm okullarımızda; tatlı dili, anlayışlı olmayı, empatiyi, saygıyı, paylaşmayı ve birbirini incitmeden iletişim kurmayı merkeze alan bir eğitim ortamını hep birlikte yeşertiyoruz.\n\nNezaketin çoğaldığı, farklılıkların zenginlik olarak görüldüğü ve gönüllerin birbirine daha çok yaklaştığı bu hafta boyunca, söz ve davranışlarımızda sorumluluk bilincini güçlendiriyoruz.\n\nNezaket haftasında; öğrencilerimizin kalplerinde saygı, sorumluluk ve birlik duyguları güçlenirken okullarımız; maarif anlayışımız doğrultusunda yalnızca akademik bilginin aktarıldığı mekânlar değil, aynı zamanda değerlerin yaşatıldığı ve geleceğe güvenle taşındığı eğitim yuvaları hâline geliyor.",
-      "long_summary": "Okullarda hayata geçirilen \"Nezaket haftası\" etkinlikleri başladı. İstanbul İl Milli Eğitim Müdürlüğü konuya ilişkin paylaşım yaparak eğitimde empati, saygı ve incitmeden iletişimin önemini vurgulandı.Okullarda \"Nezaket Haftası\" kapsamında etkinlikler başlatıldı. Hafta boyunca öğrenciler ve öğretmenler nezaket, empati, saygı, paylaşma ve incitmeden iletişim kurma gibi değerleri merkeze alan eğitim ana odak olacak.\n\n\"TATLI DİL, ANLAYIŞ, EMPATİ, SAYGI VE İLETİŞİM MERKEZE ALINACAK\"\n\nİstanbul İl",
-      "long_summary_tr": "Okullarda hayata geçirilen \"Nezaket haftası\" etkinlikleri başladı. İstanbul İl Milli Eğitim Müdürlüğü konuya ilişkin paylaşım yaparak eğitimde empati, saygı ve incitmeden iletişimin önemini vurgulandı.Okullarda \"Nezaket Haftası\" kapsamında etkinlikler başlatıldı. Hafta boyunca öğrenciler ve öğretmenler nezaket, empati, saygı, paylaşma ve incitmeden iletişim kurma gibi değerleri merkeze alan eğitim ana odak olacak.\n\n\"TATLI DİL, ANLAYIŞ, EMPATİ, SAYGI VE İLETİŞİM MERKEZE ALINACAK\"\n\nİstanbul İl",
+      "source": "Yalova Gazetesi",
+      "title": "Diyabet Okulu Her Ay Vatandaşlarla Buluşuyor",
+      "title_tr": "Diyabet Okulu Her Ay Vatandaşlarla Buluşuyor",
+      "summary": "Yalova Eğitim ve Araştırma Hastanesi’nde her ay düzenlenen Diyabet Okulu eğitimleriyle, diyabet hastaları ve hasta yakınlarına hastalıkla ilgili kapsamlı bilgiler sunuluyor.",
+      "summary_tr": "Yalova Eğitim ve Araştırma Hastanesi’nde her ay düzenlenen Diyabet Okulu eğitimleriyle, diyabet hastaları ve hasta yakınlarına hastalıkla ilgili kapsamlı bilgiler sunuluyor.",
+      "long_summary": "Yalova Eğitim ve Araştırma Hastanesi’nde her ay düzenlenen Diyabet Okulu eğitimleriyle, diyabet hastaları ve hasta yakınlarına hastalıkla ilgili kapsamlı bilgiler sunuluyor.",
+      "long_summary_tr": "Yalova Eğitim ve Araştırma Hastanesi’nde her ay düzenlenen Diyabet Okulu eğitimleriyle, diyabet hastaları ve hasta yakınlarına hastalıkla ilgili kapsamlı bilgiler sunuluyor.",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/egitimde-nezaket-haftasi-degerler-merkeze-alindi-1575165",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/egitimde-nezaket-haftasi-degerler-merkeze-alindi-1770756406-212_large.webp",
-      "published_at": "2026-02-10T19:52:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Mewgenics Makes Back Its Budget In Just 180 Minutes",
-      "title_tr": "Mewgenics Makes Back Its Budget In Just 180 Minutes",
-      "summary": "Mewgenics, the newly released independent roguelike from Super Meat Boy's Edmund McMillen and Bombernaut's Tyler Glaiel, did not need very long at all to recoup its development costs.Glaiel said on social media that Mewgenics made back its development budget in just 180 minutes, or three hours, following its launch today, February 10.The game's budget has not been publicized, but in any event, it certainly seems like Mewgenics is off to a good start. On Steam, the game stands at 61,000+ concurrent users right now. It's close to becoming the most successful launch of McMillen's career, on Steam at least. That record still belongs to The Binding of Isaac: Rebirth, a remake of the roguelite original, that peaked at just over 70,000 players concurrent at launch.Continue Reading at GameSpot",
-      "summary_tr": "Mewgenics, the newly released independent roguelike from Super Meat Boy's Edmund McMillen and Bombernaut's Tyler Glaiel, did not need very long at all to recoup its development costs.Glaiel said on social media that Mewgenics made back its development budget in just 180 minutes, or three hours, following its launch today, February 10.The game's budget has not been publicized, but in any event, it certainly seems like Mewgenics is off to a good start. On Steam, the game stands at 61,000+ concurrent users right now. It's close to becoming the most successful launch of McMillen's career, on Steam at least. That record still belongs to The Binding of Isaac: Rebirth, a remake of the roguelite original, that peaked at just over 70,000 players concurrent at launch.Continue Reading at GameSpot",
-      "long_summary": "Mewgenics, the newly released independent roguelike from Super Meat Boy's Edmund McMillen and Bombernaut's Tyler Glaiel, did not need very long at all to recoup its development costs.Glaiel said on social media that Mewgenics made back its development budget in just 180 minutes, or three hours, following its launch today, February 10.The game's budget has not been publicized, but in any event, it certainly seems like Mewgenics is off to a good start. On Steam, the game stands at 61,000+",
-      "long_summary_tr": "Mewgenics, the newly released independent roguelike from Super Meat Boy's Edmund McMillen and Bombernaut's Tyler Glaiel, did not need very long at all to recoup its development costs.Glaiel said on social media that Mewgenics made back its development budget in just 180 minutes, or three hours, following its launch today, February 10.The game's budget has not been publicized, but in any event, it certainly seems like Mewgenics is off to a good start. On Steam, the game stands at 61,000+",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/mewgenics-makes-back-its-budget-in-just-180-minutes/1100-6538080/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4649759-screenshot2026-02-10at2.55.46%E2%80%AFpm.png",
-      "published_at": "2026-02-10T19:49:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursa'da UNESCO mirası Kozahan'da masa krizi",
-      "title_tr": "Bursa'da UNESCO mirası Kozahan'da masa krizi",
-      "summary": "Bursa'nın simge yapıları arasında yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan Hanlar Bölgesi'nin önemli noktalarından Kozahan'da, masa ve sandalyelerin kaldırılmasıyla birlikte tansiyon yükseldi. Osmangazi ilçesindeki tarihi handa bazı esnaflar alınan karara tepki gösterirken, yaşanan tartışmaların ardından avlu çevik kuvvet polisi eşliğinde tamamen boşaltıldı.Tarihi Kozahan'ın avlusunda yer alan oturma alanlarına ilişkin alınan yeni uygulama, han esnafını ikiye böldü. Karara uymayan bazı işletmeciler, masa ve sandalyelerini kaldırmak istemeyince yetkililerle karşı karşıya geldi. Tartışmalar sırasında esnaflar, önceki yıllarda işgaliye bedeli ödediklerini, ancak 2026 yılı için herhangi bir yenileme yapılmadığını ve bu durumun gerekçe gösterilerek kaldırma işleminin yapılmasına itiraz ettiklerini dile getirdi.\n\n\n\nBursa Vakıflar Bölge Müdürlüğü ve kaymakamlık yetkililerinin de bulunduğu görüşmeler sırasında zaman zaman gerginlik yaşanırken, zabıta ve belediye ekipleri hanın arka bölümünde bulunan masa ve sandalyeleri topladı. Çevik kuvvet polisinin de hazır bulunduğu alanda yapılan müdahalenin ardından Kozahan avlusu tamamen boşaltıldı.\nUygulamanın tarihi dokunun korunması amacıyla alındığı belirtilirken, yetkili birimler tarafından yapılacak açıklamanın da beklenildiği öğrenildi.",
-      "summary_tr": "Bursa'nın simge yapıları arasında yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan Hanlar Bölgesi'nin önemli noktalarından Kozahan'da, masa ve sandalyelerin kaldırılmasıyla birlikte tansiyon yükseldi. Osmangazi ilçesindeki tarihi handa bazı esnaflar alınan karara tepki gösterirken, yaşanan tartışmaların ardından avlu çevik kuvvet polisi eşliğinde tamamen boşaltıldı.Tarihi Kozahan'ın avlusunda yer alan oturma alanlarına ilişkin alınan yeni uygulama, han esnafını ikiye böldü. Karara uymayan bazı işletmeciler, masa ve sandalyelerini kaldırmak istemeyince yetkililerle karşı karşıya geldi. Tartışmalar sırasında esnaflar, önceki yıllarda işgaliye bedeli ödediklerini, ancak 2026 yılı için herhangi bir yenileme yapılmadığını ve bu durumun gerekçe gösterilerek kaldırma işleminin yapılmasına itiraz ettiklerini dile getirdi.\n\n\n\nBursa Vakıflar Bölge Müdürlüğü ve kaymakamlık yetkililerinin de bulunduğu görüşmeler sırasında zaman zaman gerginlik yaşanırken, zabıta ve belediye ekipleri hanın arka bölümünde bulunan masa ve sandalyeleri topladı. Çevik kuvvet polisinin de hazır bulunduğu alanda yapılan müdahalenin ardından Kozahan avlusu tamamen boşaltıldı.\nUygulamanın tarihi dokunun korunması amacıyla alındığı belirtilirken, yetkili birimler tarafından yapılacak açıklamanın da beklenildiği öğrenildi.",
-      "long_summary": "Bursa'nın simge yapıları arasında yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan Hanlar Bölgesi'nin önemli noktalarından Kozahan'da, masa ve sandalyelerin kaldırılmasıyla birlikte tansiyon yükseldi. Osmangazi ilçesindeki tarihi handa bazı esnaflar alınan karara tepki gösterirken, yaşanan tartışmaların ardından avlu çevik kuvvet polisi eşliğinde tamamen boşaltıldı.Tarihi Kozahan'ın avlusunda yer alan oturma alanlarına ilişkin alınan yeni uygulama, han esnafını ikiye böldü. Karara uymayan",
-      "long_summary_tr": "Bursa'nın simge yapıları arasında yer alan ve UNESCO Dünya Mirası Listesi'nde bulunan Hanlar Bölgesi'nin önemli noktalarından Kozahan'da, masa ve sandalyelerin kaldırılmasıyla birlikte tansiyon yükseldi. Osmangazi ilçesindeki tarihi handa bazı esnaflar alınan karara tepki gösterirken, yaşanan tartışmaların ardından avlu çevik kuvvet polisi eşliğinde tamamen boşaltıldı.Tarihi Kozahan'ın avlusunda yer alan oturma alanlarına ilişkin alınan yeni uygulama, han esnafını ikiye böldü. Karara uymayan",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-unesco-mirasi-kozahan-da-masa-krizi-1575163",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/bursa-da-unesco-mirasi-kozahan-da-masa-krizi-1770756365-221_large.webp",
-      "published_at": "2026-02-10T19:47:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "AliExpress Has a 500W 375Wh Adult Electric Bike for Less Than $300 with Free Delivery",
-      "title_tr": "AliExpress Has a 500W 375Wh Adult Electric Bike for Less Than $300 with Free Delivery",
-      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "long_summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "long_summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/adult-electric-bike-deal-for-under-300-at-aliexpress",
-      "image": "https://assets-prd.ignimgs.com/2026/02/02/5thwheel-1770062189593.jpg",
-      "published_at": "2026-02-10T19:45:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Sakarya'da yangın çıkan otomobil kullanılamaz hale geldi",
-      "title_tr": "Sakarya'da yangın çıkan otomobil kullanılamaz hale geldi",
-      "summary": "Sakarya'nın Akyazı ilçesinde seyir halindeyken alev alan otomobil, kullanılamaz hale geldi.D-140 kara yolu Yahyalı Kavşağı mevkisinde seyir halinde G.A. idaresindeki 41 APV 217 plakalı otomobil henüz belirlenemeyen nedenle yanmaya başladı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve jandarma ekipleri sevk edildi.İtfaiye ekipleri müdahale ederek otomobildeki yangını söndürdü. Yangında otomobil kullanılamaz hale geldi.",
-      "summary_tr": "Sakarya'nın Akyazı ilçesinde seyir halindeyken alev alan otomobil, kullanılamaz hale geldi.D-140 kara yolu Yahyalı Kavşağı mevkisinde seyir halinde G.A. idaresindeki 41 APV 217 plakalı otomobil henüz belirlenemeyen nedenle yanmaya başladı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve jandarma ekipleri sevk edildi.İtfaiye ekipleri müdahale ederek otomobildeki yangını söndürdü. Yangında otomobil kullanılamaz hale geldi.",
-      "long_summary": "Sakarya'nın Akyazı ilçesinde seyir halindeyken alev alan otomobil, kullanılamaz hale geldi.D-140 kara yolu Yahyalı Kavşağı mevkisinde seyir halinde G.A. idaresindeki 41 APV 217 plakalı otomobil henüz belirlenemeyen nedenle yanmaya başladı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve jandarma ekipleri sevk edildi.İtfaiye ekipleri müdahale ederek otomobildeki yangını söndürdü. Yangında otomobil kullanılamaz hale geldi.",
-      "long_summary_tr": "Sakarya'nın Akyazı ilçesinde seyir halindeyken alev alan otomobil, kullanılamaz hale geldi.D-140 kara yolu Yahyalı Kavşağı mevkisinde seyir halinde G.A. idaresindeki 41 APV 217 plakalı otomobil henüz belirlenemeyen nedenle yanmaya başladı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve jandarma ekipleri sevk edildi.İtfaiye ekipleri müdahale ederek otomobildeki yangını söndürdü. Yangında otomobil kullanılamaz hale geldi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/sakarya-da-yangin-cikan-otomobil-kullanilamaz-hale-geldi-1575161",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/sakarya-da-yangin-cikan-otomobil-kullanilamaz-hale-geldi-1770755755-238_large.webp",
-      "published_at": "2026-02-10T19:42:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Spider-Noir Confirms Sandman Actor and Narrows Release Window to Spring 2026",
-      "title_tr": "Spider-Noir Confirms Sandman Actor and Narrows Release Window to Spring 2026",
-      "summary": "Amazon’s Spider-Noir show has narrowed its release window to spring 2026, while revealing it will feature an appearance by Flint Marko, a.k.a. Sandman.",
-      "summary_tr": "Amazon’s Spider-Noir show has narrowed its release window to spring 2026, while revealing it will feature an appearance by Flint Marko, a.k.a. Sandman.",
-      "long_summary": "Amazon’s Spider-Noir show has narrowed its release window to spring 2026, while revealing it will feature an appearance by Flint Marko, a.k.a. Sandman.",
-      "long_summary_tr": "Amazon’s Spider-Noir show has narrowed its release window to spring 2026, while revealing it will feature an appearance by Flint Marko, a.k.a. Sandman.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/spider-noir-confirms-sandman-actor-and-narrows-release-window-to-spring-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/spider-noir-1770751532878.png",
-      "published_at": "2026-02-10T19:40:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Çin’e askeri bilgi sızdıran Yunan askeri hakkında tutuklama kararı",
-      "title_tr": "Çin’e askeri bilgi sızdıran Yunan askeri hakkında tutuklama kararı",
-      "summary": "Çin’e gizli askeri bilgileri sızdırdığı iddiasıyla gözaltına alınan Yunanistan Silahlı Kuvvetleri personeli hakkında tutuklama kararı verildiği bildirildi.Gizli askeri bilgileri üçüncü kişilere vererek ulusal çıkarlara zarar vermekle suçlanan şüpheli, bugün askeri hakim karşısına çıktı.Yaklaşık 9 saat süren ifade işlemlerinin ardından 54 yaşındaki zanlının avukatı Vasilis Hirdaris, gazetecilere sürece ilişkin açıklama yaptı.\n\nHirdaris, saatler süren ifade maratonunun ardından müvekkili için tutuklama kararının çıktığını bildirdi. Müvekkilinin tutuklanmasını güvenlik gerekçesiyle kendisinin de talep ettiğini belirten Hirdaris, müvekkilinin sorumluluğunu kabul ettiğini ancak isnat edilen tüm suçlamaları benimsemediğini söyledi.\n\nZanlının gizli belgeleri herhangi bir devlet kurumuna vermediğini savunan Hirdaris, \"Çin ve diğer Asya ülkelerinden firmalara, Avrupa ve NATO ülkelerinde yatırım fırsatları konusunda danışmanlık yapan bir şirketle çalıştığını düşünüyordu. Çin’e yaptığı bir seyahatin ardından durum değişti. NATO ve diğer hassas konulara ilişkin belgeler hakkında bilgi vermesi için kendisine baskı yapıldı.\" ifadelerini kullandı.\n\nHirdaris, müvekkilinin tehdit edildiğini ve bu nedenle istemediği bir sürecin içine sürüklendiğini öne sürerek, zanlının kaleme aldığı mesajı basın mensuplarıyla paylaştı.\n\nZanlı, avukatı aracılığıyla ilettiği mesajında, sürece istemeden dahil olduğunu savunarak ülkesinden, silahlı kuvvetlerden, meslektaşlarından ve ailesinden özür diledi.\n\nMesajda, \"Askeri yargıya tam güven duyuyor, adil ve makul bir cezayla cezalandırılmayı talep ediyorum.\" ifadeleri yer aldı.\n\nYunanistan Genelkurmay Başkanlığından 5 Şubat’ta yapılan açıklamada, bir silahlı kuvvetler personelinin “ulusal çıkarlara zarar verme riski oluşturacak şekilde gizli askeri bilgileri üçüncü kişilere temin ettiğine” dair güçlü kanıtlar bulunduğu gerekçesiyle gözaltına alındığı bildirilmişti.\n\nZanlının gizli belgeleri üçüncü ülkelere sızdırdığını itiraf ettiği belirtilirken, Yunan basınında söz konusu bilgilerin Çin’e ve NATO’ya ilişkin olduğu yönünde haberler yer almıştı.",
-      "summary_tr": "Çin’e gizli askeri bilgileri sızdırdığı iddiasıyla gözaltına alınan Yunanistan Silahlı Kuvvetleri personeli hakkında tutuklama kararı verildiği bildirildi.Gizli askeri bilgileri üçüncü kişilere vererek ulusal çıkarlara zarar vermekle suçlanan şüpheli, bugün askeri hakim karşısına çıktı.Yaklaşık 9 saat süren ifade işlemlerinin ardından 54 yaşındaki zanlının avukatı Vasilis Hirdaris, gazetecilere sürece ilişkin açıklama yaptı.\n\nHirdaris, saatler süren ifade maratonunun ardından müvekkili için tutuklama kararının çıktığını bildirdi. Müvekkilinin tutuklanmasını güvenlik gerekçesiyle kendisinin de talep ettiğini belirten Hirdaris, müvekkilinin sorumluluğunu kabul ettiğini ancak isnat edilen tüm suçlamaları benimsemediğini söyledi.\n\nZanlının gizli belgeleri herhangi bir devlet kurumuna vermediğini savunan Hirdaris, \"Çin ve diğer Asya ülkelerinden firmalara, Avrupa ve NATO ülkelerinde yatırım fırsatları konusunda danışmanlık yapan bir şirketle çalıştığını düşünüyordu. Çin’e yaptığı bir seyahatin ardından durum değişti. NATO ve diğer hassas konulara ilişkin belgeler hakkında bilgi vermesi için kendisine baskı yapıldı.\" ifadelerini kullandı.\n\nHirdaris, müvekkilinin tehdit edildiğini ve bu nedenle istemediği bir sürecin içine sürüklendiğini öne sürerek, zanlının kaleme aldığı mesajı basın mensuplarıyla paylaştı.\n\nZanlı, avukatı aracılığıyla ilettiği mesajında, sürece istemeden dahil olduğunu savunarak ülkesinden, silahlı kuvvetlerden, meslektaşlarından ve ailesinden özür diledi.\n\nMesajda, \"Askeri yargıya tam güven duyuyor, adil ve makul bir cezayla cezalandırılmayı talep ediyorum.\" ifadeleri yer aldı.\n\nYunanistan Genelkurmay Başkanlığından 5 Şubat’ta yapılan açıklamada, bir silahlı kuvvetler personelinin “ulusal çıkarlara zarar verme riski oluşturacak şekilde gizli askeri bilgileri üçüncü kişilere temin ettiğine” dair güçlü kanıtlar bulunduğu gerekçesiyle gözaltına alındığı bildirilmişti.\n\nZanlının gizli belgeleri üçüncü ülkelere sızdırdığını itiraf ettiği belirtilirken, Yunan basınında söz konusu bilgilerin Çin’e ve NATO’ya ilişkin olduğu yönünde haberler yer almıştı.",
-      "long_summary": "Çin’e gizli askeri bilgileri sızdırdığı iddiasıyla gözaltına alınan Yunanistan Silahlı Kuvvetleri personeli hakkında tutuklama kararı verildiği bildirildi.Gizli askeri bilgileri üçüncü kişilere vererek ulusal çıkarlara zarar vermekle suçlanan şüpheli, bugün askeri hakim karşısına çıktı.Yaklaşık 9 saat süren ifade işlemlerinin ardından 54 yaşındaki zanlının avukatı Vasilis Hirdaris, gazetecilere sürece ilişkin açıklama yaptı.\n\nHirdaris, saatler süren ifade maratonunun ardından müvekkili için",
-      "long_summary_tr": "Çin’e gizli askeri bilgileri sızdırdığı iddiasıyla gözaltına alınan Yunanistan Silahlı Kuvvetleri personeli hakkında tutuklama kararı verildiği bildirildi.Gizli askeri bilgileri üçüncü kişilere vererek ulusal çıkarlara zarar vermekle suçlanan şüpheli, bugün askeri hakim karşısına çıktı.Yaklaşık 9 saat süren ifade işlemlerinin ardından 54 yaşındaki zanlının avukatı Vasilis Hirdaris, gazetecilere sürece ilişkin açıklama yaptı.\n\nHirdaris, saatler süren ifade maratonunun ardından müvekkili için",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/cin-e-askeri-bilgi-sizdiran-yunan-askeri-hakkinda-tutuklama-karari-1575159",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/cin-e-askeri-bilgi-sizdiran-yunan-askeri-hakkinda-tutuklama-karari-1770755677-736_large.webp",
-      "published_at": "2026-02-10T19:37:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Van Barneveld records his lowest-ever average on PDC ProTour as Nijman wins epic",
-      "title_tr": "Van Barneveld records his lowest-ever average on PDC ProTour as Nijman wins epic",
-      "summary": "Raymond van Barneveld recorded his lowest-ever average on the PDC ProTour in a 6-1 defeat to Owen Bates in the second round of Players Championship Two on Tuesday.",
-      "summary_tr": "Raymond van Barneveld recorded his lowest-ever average on the PDC ProTour in a 6-1 defeat to Owen Bates in the second round of Players Championship Two on Tuesday.",
-      "long_summary": "Raymond van Barneveld recorded his lowest-ever average on the PDC ProTour in a 6-1 defeat to Owen Bates in the second round of Players Championship Two on Tuesday.",
-      "long_summary_tr": "Raymond van Barneveld recorded his lowest-ever average on the PDC ProTour in a 6-1 defeat to Owen Bates in the second round of Players Championship Two on Tuesday.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/darts/news/12040/13505812/raymond-van-barneveld-records-his-lowest-ever-pdc-average-in-protour-early-exit-to-owen-bates",
-      "image": "https://e0.365dm.com/25/12/1920x1080/skysports-darts-raymond-van-barneveld_7113548.jpg?20251217231841",
-      "published_at": "2026-02-10T19:35:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Yalova'da denizi kirleten gemiye para cezası",
-      "title_tr": "Yalova'da denizi kirleten gemiye para cezası",
-      "summary": "Yalova açıklarında denize balast tahliyesi yapan geminin firmasına yaklaşık 17 milyon lira para cezası kesildi.Marmara Denizi, Yalova açıklarında, Panama bayraklı 'Narı Strenght' adlı tanker gemisine 2872 sayılı Çevre Kanunu'nun 20. maddesi (I/2) bendi çerçevesinde 'denize kirli balast tahliyesi yapmak' suçundan idari para cezası uygulandı. Ayrıca ilgililer hakkında Türk Ceza Kanunu'nun 181. maddesi uyarınca 'çevreyi kasten kirletmek' suçundan adli tahkikat başlatıldı.",
-      "summary_tr": "Yalova açıklarında denize balast tahliyesi yapan geminin firmasına yaklaşık 17 milyon lira para cezası kesildi.Marmara Denizi, Yalova açıklarında, Panama bayraklı 'Narı Strenght' adlı tanker gemisine 2872 sayılı Çevre Kanunu'nun 20. maddesi (I/2) bendi çerçevesinde 'denize kirli balast tahliyesi yapmak' suçundan idari para cezası uygulandı. Ayrıca ilgililer hakkında Türk Ceza Kanunu'nun 181. maddesi uyarınca 'çevreyi kasten kirletmek' suçundan adli tahkikat başlatıldı.",
-      "long_summary": "Yalova açıklarında denize balast tahliyesi yapan geminin firmasına yaklaşık 17 milyon lira para cezası kesildi.Marmara Denizi, Yalova açıklarında, Panama bayraklı 'Narı Strenght' adlı tanker gemisine 2872 sayılı Çevre Kanunu'nun 20. maddesi (I/2) bendi çerçevesinde 'denize kirli balast tahliyesi yapmak' suçundan idari para cezası uygulandı. Ayrıca ilgililer hakkında Türk Ceza Kanunu'nun 181. maddesi uyarınca 'çevreyi kasten kirletmek' suçundan adli tahkikat başlatıldı.",
-      "long_summary_tr": "Yalova açıklarında denize balast tahliyesi yapan geminin firmasına yaklaşık 17 milyon lira para cezası kesildi.Marmara Denizi, Yalova açıklarında, Panama bayraklı 'Narı Strenght' adlı tanker gemisine 2872 sayılı Çevre Kanunu'nun 20. maddesi (I/2) bendi çerçevesinde 'denize kirli balast tahliyesi yapmak' suçundan idari para cezası uygulandı. Ayrıca ilgililer hakkında Türk Ceza Kanunu'nun 181. maddesi uyarınca 'çevreyi kasten kirletmek' suçundan adli tahkikat başlatıldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/yalova-da-denizi-kirleten-gemiye-para-cezasi-1575157",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/yalova-da-denizi-kirleten-gemiye-para-cezasi-1770755623-347_large.webp",
-      "published_at": "2026-02-10T19:33:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Helldivers 2's Invasion Of A Super-Tough, Socialist-Loving World Isn't Going Well",
-      "title_tr": "Helldivers 2's Invasion Of A Super-Tough, Socialist-Loving World Isn't Going Well",
-      "summary": "Helldivers 2's Machinery of Oppression update is tasking Super Earth's finest with conquering the \"dark heart of socialism\" and so far, things are not going well.The second phase of the invasion of the Automaton homeworld of Cyberstan tasks Helldivers with slaying 700 million Automaton forces in the next day or so in order to clear the way for a full-scale invasion. That part is going well enough, with players as of writing having already defeated well over 270 million Automatons.          It's the other part of the operation that is looking dicey. As part of the invasion, the entire Helldivers 2 community collectively has 200 million lives in order to conquer Cyberstan. Just a few hours after the update went live, the community has already lost more than half of that number, with around 94 million lives remaining currently.Continue Reading at GameSpot",
-      "summary_tr": "Helldivers 2's Machinery of Oppression update is tasking Super Earth's finest with conquering the \"dark heart of socialism\" and so far, things are not going well.The second phase of the invasion of the Automaton homeworld of Cyberstan tasks Helldivers with slaying 700 million Automaton forces in the next day or so in order to clear the way for a full-scale invasion. That part is going well enough, with players as of writing having already defeated well over 270 million Automatons.          It's the other part of the operation that is looking dicey. As part of the invasion, the entire Helldivers 2 community collectively has 200 million lives in order to conquer Cyberstan. Just a few hours after the update went live, the community has already lost more than half of that number, with around 94 million lives remaining currently.Continue Reading at GameSpot",
-      "long_summary": "Helldivers 2's Machinery of Oppression update is tasking Super Earth's finest with conquering the \"dark heart of socialism\" and so far, things are not going well.The second phase of the invasion of the Automaton homeworld of Cyberstan tasks Helldivers with slaying 700 million Automaton forces in the next day or so in order to clear the way for a full-scale invasion. That part is going well enough, with players as of writing having already defeated well over 270 million Automatons.          It's",
-      "long_summary_tr": "Helldivers 2's Machinery of Oppression update is tasking Super Earth's finest with conquering the \"dark heart of socialism\" and so far, things are not going well.The second phase of the invasion of the Automaton homeworld of Cyberstan tasks Helldivers with slaying 700 million Automaton forces in the next day or so in order to clear the way for a full-scale invasion. That part is going well enough, with players as of writing having already defeated well over 270 million Automatons.          It's",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/helldivers-2s-invasion-of-a-super-tough-socialist-loving-world-isnt-going-well/1100-6538079/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1647/16470614/4649750-helldivers2%27sinvasionofasuper-tough%2Csocialist-lovingworldisn%27tgoingwell.jpg",
-      "published_at": "2026-02-10T19:33:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "You Can Play The New Overwatch Now (If You Can Get Past The Queue)",
-      "title_tr": "You Can Play The New Overwatch Now (If You Can Get Past The Queue)",
-      "summary": "Players are itching to get back into Overwatch, as evidenced by a lengthy queue that many of them can't get out of. Overwatch's new Season 1 update just launched, acting as a soft reboot that drops the \"2\" from the title and adds five new heroes. It certainly has fans excited, with the shooter reaching an all-time high for concurrent players on Steam, but many of them can't even get past the title screen.Firing up Overwatch will put you in line to enter the game, with players reporting that upon reaching the front of the queue, they're given an error message and kicked all the way back.According to developer Blizzard, Overwatch just had its \"biggest weekend in over a year,\" a claim backed up by recent Steam data. The game reached a concurrent player count of nearly 70,000 over the weekend, but with the Season 1 update, Overwatch has already broken its own record and reached an all-time peak with over 124,000 concurrent players (and counting) as of this writing.Continue Reading at GameSpot",
-      "summary_tr": "Players are itching to get back into Overwatch, as evidenced by a lengthy queue that many of them can't get out of. Overwatch's new Season 1 update just launched, acting as a soft reboot that drops the \"2\" from the title and adds five new heroes. It certainly has fans excited, with the shooter reaching an all-time high for concurrent players on Steam, but many of them can't even get past the title screen.Firing up Overwatch will put you in line to enter the game, with players reporting that upon reaching the front of the queue, they're given an error message and kicked all the way back.According to developer Blizzard, Overwatch just had its \"biggest weekend in over a year,\" a claim backed up by recent Steam data. The game reached a concurrent player count of nearly 70,000 over the weekend, but with the Season 1 update, Overwatch has already broken its own record and reached an all-time peak with over 124,000 concurrent players (and counting) as of this writing.Continue Reading at GameSpot",
-      "long_summary": "Players are itching to get back into Overwatch, as evidenced by a lengthy queue that many of them can't get out of. Overwatch's new Season 1 update just launched, acting as a soft reboot that drops the \"2\" from the title and adds five new heroes. It certainly has fans excited, with the shooter reaching an all-time high for concurrent players on Steam, but many of them can't even get past the title screen.Firing up Overwatch will put you in line to enter the game, with players reporting that",
-      "long_summary_tr": "Players are itching to get back into Overwatch, as evidenced by a lengthy queue that many of them can't get out of. Overwatch's new Season 1 update just launched, acting as a soft reboot that drops the \"2\" from the title and adds five new heroes. It certainly has fans excited, with the shooter reaching an all-time high for concurrent players on Steam, but many of them can't even get past the title screen.Firing up Overwatch will put you in line to enter the game, with players reporting that",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/you-can-play-the-new-overwatch-now-if-you-can-get-past-the-queue/1100-6538078/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1850/18504982/4649748-owvstalon_keyart.jpg",
-      "published_at": "2026-02-10T19:33:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "QVC Group hisseleri olası iflas başvurusu haberi sonrası sert düştü",
-      "title_tr": "QVC Group hisseleri olası iflas başvurusu haberi sonrası sert düştü",
-      "summary": "QVC Group hisseleri olası iflas başvurusu haberi sonrası sert düştü",
-      "summary_tr": "QVC Group hisseleri olası iflas başvurusu haberi sonrası sert düştü",
-      "long_summary": "QVC Group hisseleri olası iflas başvurusu haberi sonrası sert düştü",
-      "long_summary_tr": "QVC Group hisseleri olası iflas başvurusu haberi sonrası sert düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/qvc-group-hisseleri-olas-iflas-basvurusu-haberi-sonras-sert-dustu-93CH-3756337",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T19:30:48+00:00"
+      "url": "https://www.yalovagazetesi.com/diyabet-okulu-her-ay-vatandaslarla-bulusuyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/diyabet-okulu-her-ay-vatandaslarla-bulusuyor-3.jpeg",
+      "published_at": "2026-02-10T21:08:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -777,197 +755,153 @@
       "category_slug": "savunma_askeri",
       "is_local": false,
       "source": "Breaking Defense",
-      "title": "ChatGPT will be available to 3 million military users on GenAI.mil",
-      "title_tr": "ChatGPT will be available to 3 million military users on GenAI.mil",
-      "summary": "OpenAI’s ChatGPT joins xAI’s Grok and Google Gemini on the two-month-old website, which now claims 1.1 million unique users and rising across the Department of Defense.",
-      "summary_tr": "OpenAI’s ChatGPT joins xAI’s Grok and Google Gemini on the two-month-old website, which now claims 1.1 million unique users and rising across the Department of Defense.",
-      "long_summary": "OpenAI’s ChatGPT joins xAI’s Grok and Google Gemini on the two-month-old website, which now claims 1.1 million unique users and rising across the Department of Defense.",
-      "long_summary_tr": "OpenAI’s ChatGPT joins xAI’s Grok and Google Gemini on the two-month-old website, which now claims 1.1 million unique users and rising across the Department of Defense.",
+      "title": "HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts",
+      "title_tr": "HEO, SatVu, Sierra Nevada nab first of NRO’s new commercial imagery contracts",
+      "summary": "“Budget permitting, NRO anticipates issuing additional awards later this year to expand these multi-phenomenology capabilities,” the spy-sat agency said in a press release today.",
+      "summary_tr": "“Budget permitting, NRO anticipates issuing additional awards later this year to expand these multi-phenomenology capabilities,” the spy-sat agency said in a press release today.",
+      "long_summary": "“Budget permitting, NRO anticipates issuing additional awards later this year to expand these multi-phenomenology capabilities,” the spy-sat agency said in a press release today.",
+      "long_summary_tr": "“Budget permitting, NRO anticipates issuing additional awards later this year to expand these multi-phenomenology capabilities,” the spy-sat agency said in a press release today.",
       "why_important": [
         "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
         "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://breakingdefense.com/2026/02/chatgpt-will-be-available-to-3-million-military-users-on-genai-mil/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/openai-scaled-e1770748846796-1024x577.jpg",
-      "published_at": "2026-02-10T19:30:00+00:00"
+      "url": "https://breakingdefense.com/2026/02/heo-satvu-sierra-nevada-nab-first-of-nros-new-commercial-imagery-contracts/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/10/MG-Christopher-Povak--scaled-e1696966352355-1024x577.jpeg",
+      "published_at": "2026-02-10T21:07:37+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Armutlu’da Jeotermal Meyve-Sebze Kurutma Tesisi İncelendi",
+      "title_tr": "Armutlu’da Jeotermal Meyve-Sebze Kurutma Tesisi İncelendi",
+      "summary": "Armutlu Kaymakamı Erinç Demir, Armutlu Belediye Başkan Yardımcısı Levent Öztürk ile birlikte MARKA destekleriyle kurulan Jeotermal Meyve-Sebze Kurutma Tesisi’ni ziyaret ederek yürütülen çalışmaları yerinde inceledi.",
+      "summary_tr": "Armutlu Kaymakamı Erinç Demir, Armutlu Belediye Başkan Yardımcısı Levent Öztürk ile birlikte MARKA destekleriyle kurulan Jeotermal Meyve-Sebze Kurutma Tesisi’ni ziyaret ederek yürütülen çalışmaları yerinde inceledi.",
+      "long_summary": "Armutlu Kaymakamı Erinç Demir, Armutlu Belediye Başkan Yardımcısı Levent Öztürk ile birlikte MARKA destekleriyle kurulan Jeotermal Meyve-Sebze Kurutma Tesisi’ni ziyaret ederek yürütülen çalışmaları yerinde inceledi.",
+      "long_summary_tr": "Armutlu Kaymakamı Erinç Demir, Armutlu Belediye Başkan Yardımcısı Levent Öztürk ile birlikte MARKA destekleriyle kurulan Jeotermal Meyve-Sebze Kurutma Tesisi’ni ziyaret ederek yürütülen çalışmaları yerinde inceledi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/armutluda-jeotermal-meyve-sebze-kurutma-tesisi-incelendi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/armutluda-jeotermal-meyve-sebze-kurutma-tesisi-incelendi-3.jpg",
+      "published_at": "2026-02-10T21:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Arabeskin Şifreleri Kütüphanede Çözülüyor",
+      "title_tr": "Arabeskin Şifreleri Kütüphanede Çözülüyor",
+      "summary": "Arabesk müzik, Kütüphane Buluşmaları kapsamında düzenlenecek söyleşide tarihsel ve toplumsal boyutlarıyla ele alınacak.",
+      "summary_tr": "Arabesk müzik, Kütüphane Buluşmaları kapsamında düzenlenecek söyleşide tarihsel ve toplumsal boyutlarıyla ele alınacak.",
+      "long_summary": "Arabesk müzik, Kütüphane Buluşmaları kapsamında düzenlenecek söyleşide tarihsel ve toplumsal boyutlarıyla ele alınacak.",
+      "long_summary_tr": "Arabesk müzik, Kütüphane Buluşmaları kapsamında düzenlenecek söyleşide tarihsel ve toplumsal boyutlarıyla ele alınacak.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/arabeskin-sifreleri-kutuphanede-cozuluyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/arabeskin-sifreleri-kutuphanede-cozuluyor.jpeg",
+      "published_at": "2026-02-10T21:06:00+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
+      "category": "Bilim",
+      "category_slug": "bilim",
       "is_local": false,
-      "source": "IGN",
-      "title": "Today’s Top Deals: Elden Ring Nightreign Drops to $20, Nintendo eShop + PS Store Gift Card Deals, and More",
-      "title_tr": "Today’s Top Deals: Elden Ring Nightreign Drops to $20, Nintendo eShop + PS Store Gift Card Deals, and More",
-      "summary": "Plus, MTG x TMNT Booster Bundle savings, Metal Gear Solid Delta, and Amazon’s BOGO 50% off sale.",
-      "summary_tr": "Plus, MTG x TMNT Booster Bundle savings, Metal Gear Solid Delta, and Amazon’s BOGO 50% off sale.",
-      "long_summary": "Plus, MTG x TMNT Booster Bundle savings, Metal Gear Solid Delta, and Amazon’s BOGO 50% off sale.",
-      "long_summary_tr": "Plus, MTG x TMNT Booster Bundle savings, Metal Gear Solid Delta, and Amazon’s BOGO 50% off sale.",
+      "source": "Popular Science",
+      "title": "Forgotten hand tool rewrites ancient Egyptian history",
+      "title_tr": "Forgotten hand tool rewrites ancient Egyptian history",
+      "summary": "A ‘little awl’ discovered nearly 100 years ago has big implications.\nThe post Forgotten hand tool rewrites ancient Egyptian history appeared first on Popular Science.",
+      "summary_tr": "A ‘little awl’ discovered nearly 100 years ago has big implications.\nThe post Forgotten hand tool rewrites ancient Egyptian history appeared first on Popular Science.",
+      "long_summary": "A ‘little awl’ discovered nearly 100 years ago has big implications.\nThe post Forgotten hand tool rewrites ancient Egyptian history appeared first on Popular Science.",
+      "long_summary_tr": "A ‘little awl’ discovered nearly 100 years ago has big implications.\nThe post Forgotten hand tool rewrites ancient Egyptian history appeared first on Popular Science.",
       "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
       ],
       "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
+        "Yeni keşifler farklı alanlara yön verebilir"
       ],
-      "url": "https://www.ign.com/articles/best-deals-for-february-10-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/dd021026-1770749065040.jpg",
-      "published_at": "2026-02-10T19:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Beşiktaş'ta tuhaf olay. Yolda durdurduğu aracında dans etti",
-      "title_tr": "Beşiktaş'ta tuhaf olay. Yolda durdurduğu aracında dans etti",
-      "summary": "Beşiktaş Bebek’te, aracını yolun ortasında durdurup içinde dans eden kadın, trafiği felç etti. Kadın, olay yerine gelen polis ekiplerince gözaltına alındı.",
-      "summary_tr": "Beşiktaş Bebek’te, aracını yolun ortasında durdurup içinde dans eden kadın, trafiği felç etti. Kadın, olay yerine gelen polis ekiplerince gözaltına alındı.",
-      "long_summary": "Beşiktaş Bebek’te, aracını yolun ortasında durdurup içinde dans eden kadın, trafiği felç etti. Kadın, olay yerine gelen polis ekiplerince gözaltına alındı.",
-      "long_summary_tr": "Beşiktaş Bebek’te, aracını yolun ortasında durdurup içinde dans eden kadın, trafiği felç etti. Kadın, olay yerine gelen polis ekiplerince gözaltına alındı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/besiktasta-tuhaf-olay-yolda-durdurdugu-aracinda-dans-etti-1711387",
-      "image": "https://images.ntv.com.tr/images/kadınn-717582.jpg",
-      "published_at": "2026-02-10T19:29:39+00:00"
+      "url": "https://www.popsci.com/science/ancient-egypt-hand-tool/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/02/drilling-tomb-scene-grid.jpg?quality=85",
+      "published_at": "2026-02-10T21:06:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Samsun'da tırla çarpışan otomobildeki 2 kişi yaralandı",
-      "title_tr": "Samsun'da tırla çarpışan otomobildeki 2 kişi yaralandı",
-      "summary": "Samsun'un Terme ilçesinde tırla çarpışan otomobildeki 2 kişi yaralandı.Mert K.'nın (24) kullandığı 42 ADL 500 plakalı otomobil, Samsun-Ordu kara yolu Karacalı mevkisinde kontrolden çıktı.Refüje aşarak karşı şeride geçen otomobil, seyir halindeki Celalettin D. idaresindeki 55 AIC 911 plakalı tırla çarpıştı.\n\nKazada, otomobil sürücüsü ile yanındaki Onur K. (27) yaralandı.Bölgeye, itfaiye, jandarma ve polis ekipleri sevk edildi. Kazada bir süre kapanan Ordu istikametindeki kara yolu, araçlar kaldırıldıktan sonra normale döndü.",
-      "summary_tr": "Samsun'un Terme ilçesinde tırla çarpışan otomobildeki 2 kişi yaralandı.Mert K.'nın (24) kullandığı 42 ADL 500 plakalı otomobil, Samsun-Ordu kara yolu Karacalı mevkisinde kontrolden çıktı.Refüje aşarak karşı şeride geçen otomobil, seyir halindeki Celalettin D. idaresindeki 55 AIC 911 plakalı tırla çarpıştı.\n\nKazada, otomobil sürücüsü ile yanındaki Onur K. (27) yaralandı.Bölgeye, itfaiye, jandarma ve polis ekipleri sevk edildi. Kazada bir süre kapanan Ordu istikametindeki kara yolu, araçlar kaldırıldıktan sonra normale döndü.",
-      "long_summary": "Samsun'un Terme ilçesinde tırla çarpışan otomobildeki 2 kişi yaralandı.Mert K.'nın (24) kullandığı 42 ADL 500 plakalı otomobil, Samsun-Ordu kara yolu Karacalı mevkisinde kontrolden çıktı.Refüje aşarak karşı şeride geçen otomobil, seyir halindeki Celalettin D. idaresindeki 55 AIC 911 plakalı tırla çarpıştı.\n\nKazada, otomobil sürücüsü ile yanındaki Onur K. (27) yaralandı.Bölgeye, itfaiye, jandarma ve polis ekipleri sevk edildi. Kazada bir süre kapanan Ordu istikametindeki kara yolu, araçlar",
-      "long_summary_tr": "Samsun'un Terme ilçesinde tırla çarpışan otomobildeki 2 kişi yaralandı.Mert K.'nın (24) kullandığı 42 ADL 500 plakalı otomobil, Samsun-Ordu kara yolu Karacalı mevkisinde kontrolden çıktı.Refüje aşarak karşı şeride geçen otomobil, seyir halindeki Celalettin D. idaresindeki 55 AIC 911 plakalı tırla çarpıştı.\n\nKazada, otomobil sürücüsü ile yanındaki Onur K. (27) yaralandı.Bölgeye, itfaiye, jandarma ve polis ekipleri sevk edildi. Kazada bir süre kapanan Ordu istikametindeki kara yolu, araçlar",
+      "source": "Yalova Gazetesi",
+      "title": "Ay Yıldız Bayraktepe ’de Işık Saçıyor",
+      "title_tr": "Ay Yıldız Bayraktepe ’de Işık Saçıyor",
+      "summary": "Çiftlikköy’de ilçe merkezinin en yüksek noktalarından Bayraktepe Sosyal Tesisleri’nde bulunan dev Türk bayrağının daha görünür hale gelmesini sağlayan özel bir çalışma yapıldı.",
+      "summary_tr": "Çiftlikköy’de ilçe merkezinin en yüksek noktalarından Bayraktepe Sosyal Tesisleri’nde bulunan dev Türk bayrağının daha görünür hale gelmesini sağlayan özel bir çalışma yapıldı.",
+      "long_summary": "Çiftlikköy’de ilçe merkezinin en yüksek noktalarından Bayraktepe Sosyal Tesisleri’nde bulunan dev Türk bayrağının daha görünür hale gelmesini sağlayan özel bir çalışma yapıldı.",
+      "long_summary_tr": "Çiftlikköy’de ilçe merkezinin en yüksek noktalarından Bayraktepe Sosyal Tesisleri’nde bulunan dev Türk bayrağının daha görünür hale gelmesini sağlayan özel bir çalışma yapıldı.",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/samsun-da-tirla-carpisan-otomobildeki-2-kisi-yaralandi-1575155",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/samsun-da-tirla-carpisan-otomobildeki-2-kisi-yaralandi-1770755117-176_large.webp",
-      "published_at": "2026-02-10T19:28:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Avrupa Parlamentosu'ndan dijital avroya destek",
-      "title_tr": "Avrupa Parlamentosu'ndan dijital avroya destek",
-      "summary": "Avrupa Parlamentosu (AP) milletvekilleri, ödeme sistemi olarak dijital avro çıkarılmasına destek verdi.",
-      "summary_tr": "Avrupa Parlamentosu (AP) milletvekilleri, ödeme sistemi olarak dijital avro çıkarılmasına destek verdi.",
-      "long_summary": "Avrupa Parlamentosu (AP) milletvekilleri, ödeme sistemi olarak dijital avro çıkarılmasına destek verdi.",
-      "long_summary_tr": "Avrupa Parlamentosu (AP) milletvekilleri, ödeme sistemi olarak dijital avro çıkarılmasına destek verdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/avrupa-parlamentosundan-dijital-avroya-destek-haberi-814623",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2024/02/13/avrupa-parlamentosu-tdfk-cover-vsau_cover.jpg",
-      "published_at": "2026-02-10T19:28:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Görele Belediye Başkanı Hasbi Dede tutuklandı",
-      "title_tr": "Görele Belediye Başkanı Hasbi Dede tutuklandı",
-      "summary": "Giresun’un Görele İlçe Belediye Başkanı Hasbi Dede, sosyal medya üzerinden paylaştığı öne sürülen bir mesajla ilgili yürütülen soruşturma kapsamında \"cinsel taciz\" suçlamasıyla tutuklanarak cezaevine gönderildi.Edinilen bilgilere göre, CHP’li Belediye Başkanı Hasbi Dede hakkında sosyal medya hesabından paylaştığı öne sürülen bir mesaj nedeniyle yapılan şikayet üzerine Görele Cumhuriyet Savcılığı tarafından soruşturma başlatıldı. Soruşturma kapsamında ifadeye çağrılan Dede, sevk edildiği mahkeme tarafından ilk etapta tutuksuz yargılanmak üzere serbest bırakıldı.\nSavcılığın karara itiraz etmesi üzerine dosya yeniden değerlendirmeye alındı. Tekrar mahkemeye çıkarılan Dede, Türk Ceza Kanunu’nun 105’inci maddesinde düzenlenen \"bir kimseyi cinsel amaçlı olarak taciz\" suçlaması kapsamında tutuklandı.\n\nAdliye önünde geniş güvenlik önlemleri alınırken, Dede’nin adliyenin arka kapısından çıkarıldığı öğrenildi. Sağlık kontrolü için Espiye Devlet Hastanesi’ne götürülen Dede, işlemlerinin ardından Espiye L Tipi Kapalı Ceza İnfaz Kurumu’na teslim edildi.",
-      "summary_tr": "Giresun’un Görele İlçe Belediye Başkanı Hasbi Dede, sosyal medya üzerinden paylaştığı öne sürülen bir mesajla ilgili yürütülen soruşturma kapsamında \"cinsel taciz\" suçlamasıyla tutuklanarak cezaevine gönderildi.Edinilen bilgilere göre, CHP’li Belediye Başkanı Hasbi Dede hakkında sosyal medya hesabından paylaştığı öne sürülen bir mesaj nedeniyle yapılan şikayet üzerine Görele Cumhuriyet Savcılığı tarafından soruşturma başlatıldı. Soruşturma kapsamında ifadeye çağrılan Dede, sevk edildiği mahkeme tarafından ilk etapta tutuksuz yargılanmak üzere serbest bırakıldı.\nSavcılığın karara itiraz etmesi üzerine dosya yeniden değerlendirmeye alındı. Tekrar mahkemeye çıkarılan Dede, Türk Ceza Kanunu’nun 105’inci maddesinde düzenlenen \"bir kimseyi cinsel amaçlı olarak taciz\" suçlaması kapsamında tutuklandı.\n\nAdliye önünde geniş güvenlik önlemleri alınırken, Dede’nin adliyenin arka kapısından çıkarıldığı öğrenildi. Sağlık kontrolü için Espiye Devlet Hastanesi’ne götürülen Dede, işlemlerinin ardından Espiye L Tipi Kapalı Ceza İnfaz Kurumu’na teslim edildi.",
-      "long_summary": "Giresun’un Görele İlçe Belediye Başkanı Hasbi Dede, sosyal medya üzerinden paylaştığı öne sürülen bir mesajla ilgili yürütülen soruşturma kapsamında \"cinsel taciz\" suçlamasıyla tutuklanarak cezaevine gönderildi.Edinilen bilgilere göre, CHP’li Belediye Başkanı Hasbi Dede hakkında sosyal medya hesabından paylaştığı öne sürülen bir mesaj nedeniyle yapılan şikayet üzerine Görele Cumhuriyet Savcılığı tarafından soruşturma başlatıldı. Soruşturma kapsamında ifadeye çağrılan Dede, sevk edildiği mahkeme",
-      "long_summary_tr": "Giresun’un Görele İlçe Belediye Başkanı Hasbi Dede, sosyal medya üzerinden paylaştığı öne sürülen bir mesajla ilgili yürütülen soruşturma kapsamında \"cinsel taciz\" suçlamasıyla tutuklanarak cezaevine gönderildi.Edinilen bilgilere göre, CHP’li Belediye Başkanı Hasbi Dede hakkında sosyal medya hesabından paylaştığı öne sürülen bir mesaj nedeniyle yapılan şikayet üzerine Görele Cumhuriyet Savcılığı tarafından soruşturma başlatıldı. Soruşturma kapsamında ifadeye çağrılan Dede, sevk edildiği mahkeme",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/gorele-belediye-baskani-hasbi-dede-tutuklandi-1575153",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/gorele-belediye-baskani-hasbi-dede-tutuklandi-1770754975-745_large.webp",
-      "published_at": "2026-02-10T19:24:00+00:00"
+      "url": "https://www.yalovagazetesi.com/ay-yildiz-bayraktepe-de-isik-saciyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/ay-yildiz-bayraktepe-de-isik-saciyor-2.jpeg",
+      "published_at": "2026-02-10T21:05:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "ABD Hazine Bakanı Lutnick bu yıl yüzde 5'in üzerinde büyüme bekliyor",
-      "title_tr": "ABD Hazine Bakanı Lutnick bu yıl yüzde 5'in üzerinde büyüme bekliyor",
-      "summary": "ABD Hazine Bakanı Howard Lutnick, ihracattaki artış ve ithalattaki zayıflamanın büyümeyi desteklediğini belirterek, ekonomik büyümenin bu yılın dördüncü çeyreğinde yüzde 5'in üzerinde bir performans sergileyebileceğini ifade etti.",
-      "summary_tr": "ABD Hazine Bakanı Howard Lutnick, ihracattaki artış ve ithalattaki zayıflamanın büyümeyi desteklediğini belirterek, ekonomik büyümenin bu yılın dördüncü çeyreğinde yüzde 5'in üzerinde bir performans sergileyebileceğini ifade etti.",
-      "long_summary": "ABD Hazine Bakanı Howard Lutnick, ihracattaki artış ve ithalattaki zayıflamanın büyümeyi desteklediğini belirterek, ekonomik büyümenin bu yılın dördüncü çeyreğinde yüzde 5'in üzerinde bir performans sergileyebileceğini ifade etti.",
-      "long_summary_tr": "ABD Hazine Bakanı Howard Lutnick, ihracattaki artış ve ithalattaki zayıflamanın büyümeyi desteklediğini belirterek, ekonomik büyümenin bu yılın dördüncü çeyreğinde yüzde 5'in üzerinde bir performans sergileyebileceğini ifade etti.",
+      "source": "Investing TR",
+      "title": "Özel: CEO Dufay’a göre Jumia dönüşümden ölçeklenmeye geçiyor",
+      "title_tr": "Özel: CEO Dufay’a göre Jumia dönüşümden ölçeklenmeye geçiyor",
+      "summary": "Özel: CEO Dufay’a göre Jumia dönüşümden ölçeklenmeye geçiyor",
+      "summary_tr": "Özel: CEO Dufay’a göre Jumia dönüşümden ölçeklenmeye geçiyor",
+      "long_summary": "Özel: CEO Dufay’a göre Jumia dönüşümden ölçeklenmeye geçiyor",
+      "long_summary_tr": "Özel: CEO Dufay’a göre Jumia dönüşümden ölçeklenmeye geçiyor",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/abd-hazine-bakani-lutnick-bu-yil-yuzde-5-in-uzerinde-buyume-bekliyor-3768799",
-      "image": null,
-      "published_at": "2026-02-10T19:22:57+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Stokes undergoes successful surgery on eye injury",
-      "title_tr": "Stokes undergoes successful surgery on eye injury",
-      "summary": "England Test captain Ben Stokes has undergone successful surgery on an eye injury he suffered after being struck by a cricket ball earlier this month.",
-      "summary_tr": "England Test captain Ben Stokes has undergone successful surgery on an eye injury he suffered after being struck by a cricket ball earlier this month.",
-      "long_summary": "England Test captain Ben Stokes has undergone successful surgery on an eye injury he suffered after being struck by a cricket ball earlier this month.",
-      "long_summary_tr": "England Test captain Ben Stokes has undergone successful surgery on an eye injury he suffered after being struck by a cricket ball earlier this month.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/cricket/news/12040/13505880/ben-stokes-england-test-captain-undergoes-successful-surgery-on-eye-injury-suffered-after-being-struck-by-a-cricket-ball",
-      "image": "https://e0.365dm.com/25/12/1920x1080/skysports-ben-stokes-the-ashes_7119820.jpg?20251227041604",
-      "published_at": "2026-02-10T19:20:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/ozel-ceo-dufaya-gore-jumia-donusumden-olceklenmeye-geciyor-3756422",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T21:04:18+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Beşiktaş'tan, Panionios taraftarlarının açtığı pankarta tepki",
-      "title_tr": "Beşiktaş'tan, Panionios taraftarlarının açtığı pankarta tepki",
-      "summary": "Beşiktaş Erkek Basketbol Takımı'nın Yunan ekibi Panionios ile oynadığı maçta tribünlerden açılan pankarta siyah-beyazlı kulüpten kınama ve tepki mesajı paylaşıldı.Siyah-beyazlıların sosyal medya hesabından yapılan paylaşımda şu ifadelere yer verildi:\n\n\"Beşiktaş Erkek Basketbol Takımımızın EuroCup’ta Yunanistan temsilcisi Panionios Athens ile deplasmanda oynadığı karşılaşmada; kulübümüzü, taraftarlarımızı, Türk Polis Teşkilatı’nı ve milli-manevi değerlerimizi hedef alan alçakça ve provokatif pankartı en ağır şekilde kınıyor ve lanetliyoruz. Bu çirkin saldırı yalnızca Beşiktaş’a değil, Türk milletinin onuruna, tarihine ve kutsallarına yönelmiş açık bir nefret eylemidir. Hiçbir spor organizasyonu, hiçbir platform; düşmanlığı, ırkçılığı ve milli değerlerimize yönelik hakareti meşrulaştıramaz. Sporun birleştirici ruhunu kirleten bu ahlaksız ve hadsiz tavrı asla kabul etmiyoruz. Beşiktaş JK olarak; bu provokasyonun sorumlularının en ağır şekilde cezalandırılması ve benzer rezaletlerin tekrar yaşanmaması adına Euroleague yönetimi nezdinde tüm hukuki ve idari girişimlerimizi kararlılıkla başlatmış bulunuyoruz.\"",
-      "summary_tr": "Beşiktaş Erkek Basketbol Takımı'nın Yunan ekibi Panionios ile oynadığı maçta tribünlerden açılan pankarta siyah-beyazlı kulüpten kınama ve tepki mesajı paylaşıldı.Siyah-beyazlıların sosyal medya hesabından yapılan paylaşımda şu ifadelere yer verildi:\n\n\"Beşiktaş Erkek Basketbol Takımımızın EuroCup’ta Yunanistan temsilcisi Panionios Athens ile deplasmanda oynadığı karşılaşmada; kulübümüzü, taraftarlarımızı, Türk Polis Teşkilatı’nı ve milli-manevi değerlerimizi hedef alan alçakça ve provokatif pankartı en ağır şekilde kınıyor ve lanetliyoruz. Bu çirkin saldırı yalnızca Beşiktaş’a değil, Türk milletinin onuruna, tarihine ve kutsallarına yönelmiş açık bir nefret eylemidir. Hiçbir spor organizasyonu, hiçbir platform; düşmanlığı, ırkçılığı ve milli değerlerimize yönelik hakareti meşrulaştıramaz. Sporun birleştirici ruhunu kirleten bu ahlaksız ve hadsiz tavrı asla kabul etmiyoruz. Beşiktaş JK olarak; bu provokasyonun sorumlularının en ağır şekilde cezalandırılması ve benzer rezaletlerin tekrar yaşanmaması adına Euroleague yönetimi nezdinde tüm hukuki ve idari girişimlerimizi kararlılıkla başlatmış bulunuyoruz.\"",
-      "long_summary": "Beşiktaş Erkek Basketbol Takımı'nın Yunan ekibi Panionios ile oynadığı maçta tribünlerden açılan pankarta siyah-beyazlı kulüpten kınama ve tepki mesajı paylaşıldı.Siyah-beyazlıların sosyal medya hesabından yapılan paylaşımda şu ifadelere yer verildi:\n\n\"Beşiktaş Erkek Basketbol Takımımızın EuroCup’ta Yunanistan temsilcisi Panionios Athens ile deplasmanda oynadığı karşılaşmada; kulübümüzü, taraftarlarımızı, Türk Polis Teşkilatı’nı ve milli-manevi değerlerimizi hedef alan alçakça ve provokatif",
-      "long_summary_tr": "Beşiktaş Erkek Basketbol Takımı'nın Yunan ekibi Panionios ile oynadığı maçta tribünlerden açılan pankarta siyah-beyazlı kulüpten kınama ve tepki mesajı paylaşıldı.Siyah-beyazlıların sosyal medya hesabından yapılan paylaşımda şu ifadelere yer verildi:\n\n\"Beşiktaş Erkek Basketbol Takımımızın EuroCup’ta Yunanistan temsilcisi Panionios Athens ile deplasmanda oynadığı karşılaşmada; kulübümüzü, taraftarlarımızı, Türk Polis Teşkilatı’nı ve milli-manevi değerlerimizi hedef alan alçakça ve provokatif",
+      "source": "Yalova Gazetesi",
+      "title": "14 Şubat’ta Çiftlikköy Aliço ile Coşacak",
+      "title_tr": "14 Şubat’ta Çiftlikköy Aliço ile Coşacak",
+      "summary": "14 Şubat Sevgililer Günü, Çiftlikköy’de aşk şarkılarıyla taçlandırılacak.",
+      "summary_tr": "14 Şubat Sevgililer Günü, Çiftlikköy’de aşk şarkılarıyla taçlandırılacak.",
+      "long_summary": "14 Şubat Sevgililer Günü, Çiftlikköy’de aşk şarkılarıyla taçlandırılacak.",
+      "long_summary_tr": "14 Şubat Sevgililer Günü, Çiftlikköy’de aşk şarkılarıyla taçlandırılacak.",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/spor/besiktas-tan-panionios-taraftarlarinin-actigi-pankarta-tepki-1575151",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/besiktas-tan-panionios-taraftarlarinin-actigi-pankarta-tepki-1770754904-318_large.webp",
-      "published_at": "2026-02-10T19:19:00+00:00"
+      "url": "https://www.yalovagazetesi.com/14-subatta-ciftlikkoy-alico-ile-cosacak",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/14-subatta-ciftlikkoy-alico-ile-cosacak.jpeg",
+      "published_at": "2026-02-10T21:04:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -975,109 +909,87 @@
       "category_slug": "oyun_dijital",
       "is_local": false,
       "source": "IGN",
-      "title": "Hasbro Revives Classic Marvel Super Heroes Secret Wars Toy Line",
-      "title_tr": "Hasbro Revives Classic Marvel Super Heroes Secret Wars Toy Line",
-      "summary": "Check out all the amazing new Marvel Legends figures Hasbro revealed ahead of New York Toy Fair, including a new wave of toys inspired by the classic Marvel Super Heroes Secret Wars line.",
-      "summary_tr": "Check out all the amazing new Marvel Legends figures Hasbro revealed ahead of New York Toy Fair, including a new wave of toys inspired by the classic Marvel Super Heroes Secret Wars line.",
-      "long_summary": "Check out all the amazing new Marvel Legends figures Hasbro revealed ahead of New York Toy Fair, including a new wave of toys inspired by the classic Marvel Super Heroes Secret Wars line.",
-      "long_summary_tr": "Check out all the amazing new Marvel Legends figures Hasbro revealed ahead of New York Toy Fair, including a new wave of toys inspired by the classic Marvel Super Heroes Secret Wars line.",
+      "title": "Amazon’s ‘Buy 1, Get 1 50% Off’ Sale Includes a Ridiculous Amount of Anime",
+      "title_tr": "Amazon’s ‘Buy 1, Get 1 50% Off’ Sale Includes a Ridiculous Amount of Anime",
+      "summary": "Amazon's latest sale features a hefty amount of anime.",
+      "summary_tr": "Amazon's latest sale features a hefty amount of anime.",
+      "long_summary": "Amazon's latest sale features a hefty amount of anime.",
+      "long_summary_tr": "Amazon's latest sale features a hefty amount of anime.",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.ign.com/articles/hasbro-revives-classic-marvel-super-heroes-secret-wars-toy-line",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/mixcollage-10-feb-2026-01-55-pm-2263-1770749766186.jpg",
-      "published_at": "2026-02-10T19:17:49+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Mewgenics, The Latest From The Creator Of Binding Of Isaac, Is Already A Massive Success On Steam",
-      "title_tr": "Mewgenics, The Latest From The Creator Of Binding Of Isaac, Is Already A Massive Success On Steam",
-      "summary": "After being announced in 2012, being cancelled and then revived in 2018, Mewgenics, the latest from Super Meat Boy creator Edmund McMillen and The End Is Nigh creator, Tyler Glaiel, is finally out, and it's a roaring success so far.Launching today on Steam, the blend of tactical turn-based combat and feline breeding has amassed a large player base already, with SteamDB recording an all-time high of over 60,000 concurrent players. That's one of the largest of the day on Steam, with Mewgenics beating out heavy-hitters such as Overwatch, Battlefield 6, Call of Duty: Black Ops 7, and Elden Ring Nightreign.The launch has been so successful that Glaiel has confirmed that all development costs for the roguelite were recouped within three hours of the game being on sale.Continue Reading at GameSpot",
-      "summary_tr": "After being announced in 2012, being cancelled and then revived in 2018, Mewgenics, the latest from Super Meat Boy creator Edmund McMillen and The End Is Nigh creator, Tyler Glaiel, is finally out, and it's a roaring success so far.Launching today on Steam, the blend of tactical turn-based combat and feline breeding has amassed a large player base already, with SteamDB recording an all-time high of over 60,000 concurrent players. That's one of the largest of the day on Steam, with Mewgenics beating out heavy-hitters such as Overwatch, Battlefield 6, Call of Duty: Black Ops 7, and Elden Ring Nightreign.The launch has been so successful that Glaiel has confirmed that all development costs for the roguelite were recouped within three hours of the game being on sale.Continue Reading at GameSpot",
-      "long_summary": "After being announced in 2012, being cancelled and then revived in 2018, Mewgenics, the latest from Super Meat Boy creator Edmund McMillen and The End Is Nigh creator, Tyler Glaiel, is finally out, and it's a roaring success so far.Launching today on Steam, the blend of tactical turn-based combat and feline breeding has amassed a large player base already, with SteamDB recording an all-time high of over 60,000 concurrent players. That's one of the largest of the day on Steam, with Mewgenics",
-      "long_summary_tr": "After being announced in 2012, being cancelled and then revived in 2018, Mewgenics, the latest from Super Meat Boy creator Edmund McMillen and The End Is Nigh creator, Tyler Glaiel, is finally out, and it's a roaring success so far.Launching today on Steam, the blend of tactical turn-based combat and feline breeding has amassed a large player base already, with SteamDB recording an all-time high of over 60,000 concurrent players. That's one of the largest of the day on Steam, with Mewgenics",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/mewgenics-the-latest-from-the-creator-of-binding-of-isaac-is-already-a-massive-success-on-steam/1100-6538077/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15853545/4649746-6951292850-mewge.JPG",
-      "published_at": "2026-02-10T19:16:00+00:00"
+      "url": "https://www.ign.com/articles/amazon-buy-1-get-1-50-off-sale-anime-cartoon-blu-ray-deals",
+      "image": "https://assets-prd.ignimgs.com/2026/02/10/amazonbogoanime-1770757334085.png",
+      "published_at": "2026-02-10T21:03:56+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Adıyaman'da kriz: 2 işçi binanın çatısına çıktı",
-      "title_tr": "Adıyaman'da kriz: 2 işçi binanın çatısına çıktı",
-      "summary": "Adıyaman'da paralarını alamadıklarını iddia eden 2 işçi binanın çatısına çıktı.Edinilen bilgilere göre 2 işçi, 6 aydır para alamadıklarını iddia ederek, Adıyaman merkez Turgut Reis Mahallesi Hastane Caddesi üzerinde bulunan bir binanın çatısına çıktı. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Olay yerine gelen ekipler güvenlik önlemleri aldı. Polis ekipleri binaya çıkarak her iki işçiyle konuştu. Yapılan görüşmeler sonrası işçiler ikna edilerek bulundukları yerden indirildi. İşçiler, ifadeleri alınmak üzere polis merkezine götürüldü.",
-      "summary_tr": "Adıyaman'da paralarını alamadıklarını iddia eden 2 işçi binanın çatısına çıktı.Edinilen bilgilere göre 2 işçi, 6 aydır para alamadıklarını iddia ederek, Adıyaman merkez Turgut Reis Mahallesi Hastane Caddesi üzerinde bulunan bir binanın çatısına çıktı. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Olay yerine gelen ekipler güvenlik önlemleri aldı. Polis ekipleri binaya çıkarak her iki işçiyle konuştu. Yapılan görüşmeler sonrası işçiler ikna edilerek bulundukları yerden indirildi. İşçiler, ifadeleri alınmak üzere polis merkezine götürüldü.",
-      "long_summary": "Adıyaman'da paralarını alamadıklarını iddia eden 2 işçi binanın çatısına çıktı.Edinilen bilgilere göre 2 işçi, 6 aydır para alamadıklarını iddia ederek, Adıyaman merkez Turgut Reis Mahallesi Hastane Caddesi üzerinde bulunan bir binanın çatısına çıktı. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Olay yerine gelen ekipler güvenlik önlemleri aldı. Polis ekipleri binaya çıkarak her iki işçiyle konuştu. Yapılan görüşmeler sonrası işçiler ikna edilerek bulundukları yerden",
-      "long_summary_tr": "Adıyaman'da paralarını alamadıklarını iddia eden 2 işçi binanın çatısına çıktı.Edinilen bilgilere göre 2 işçi, 6 aydır para alamadıklarını iddia ederek, Adıyaman merkez Turgut Reis Mahallesi Hastane Caddesi üzerinde bulunan bir binanın çatısına çıktı. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Olay yerine gelen ekipler güvenlik önlemleri aldı. Polis ekipleri binaya çıkarak her iki işçiyle konuştu. Yapılan görüşmeler sonrası işçiler ikna edilerek bulundukları yerden",
+      "source": "Yalova Gazetesi",
+      "title": "Kadınları Yakından İlgilendiren Konu Çınarcık’ta Ele Alınacak",
+      "title_tr": "Kadınları Yakından İlgilendiren Konu Çınarcık’ta Ele Alınacak",
+      "summary": "Çınarcık’ta düzenlenecek farkındalık seminerinde, rahim ağzı kanseri ve HPV konusunda merak edilenler uzman isim tarafından ele alınacak.",
+      "summary_tr": "Çınarcık’ta düzenlenecek farkındalık seminerinde, rahim ağzı kanseri ve HPV konusunda merak edilenler uzman isim tarafından ele alınacak.",
+      "long_summary": "Çınarcık’ta düzenlenecek farkındalık seminerinde, rahim ağzı kanseri ve HPV konusunda merak edilenler uzman isim tarafından ele alınacak.",
+      "long_summary_tr": "Çınarcık’ta düzenlenecek farkındalık seminerinde, rahim ağzı kanseri ve HPV konusunda merak edilenler uzman isim tarafından ele alınacak.",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/adiyaman-da-kriz-2-isci-binanin-catisina-cikti-1575149",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/adiyaman-da-kriz-2-isci-binanin-catisina-cikti-1770754236-200_large.webp",
-      "published_at": "2026-02-10T19:15:00+00:00"
+      "url": "https://www.yalovagazetesi.com/kadinlari-yakindan-ilgilendiren-konu-cinarcikta-ele-alinacak",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/kadinlari-yakindan-ilgilendiren-konu-cinarcikta-ele-alinacak.jpg",
+      "published_at": "2026-02-10T21:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çınarcık Belediyesi’nde Toplu İş Sözleşmesi Sevinci",
+      "title_tr": "Çınarcık Belediyesi’nde Toplu İş Sözleşmesi Sevinci",
+      "summary": "Çınarcık Belediyesi’nde kadrolu işçiler ile belediyeye bağlı şirket ve birlik personelini kapsayan toplu iş sözleşmesi görüşmeleri tamamlandı. Çınarcık Belediye Başkanı Avni Kurt, sözleşmenin çalışanların sosyal haklarını güvence altına aldığını belirtti.",
+      "summary_tr": "Çınarcık Belediyesi’nde kadrolu işçiler ile belediyeye bağlı şirket ve birlik personelini kapsayan toplu iş sözleşmesi görüşmeleri tamamlandı. Çınarcık Belediye Başkanı Avni Kurt, sözleşmenin çalışanların sosyal haklarını güvence altına aldığını belirtti.",
+      "long_summary": "Çınarcık Belediyesi’nde kadrolu işçiler ile belediyeye bağlı şirket ve birlik personelini kapsayan toplu iş sözleşmesi görüşmeleri tamamlandı. Çınarcık Belediye Başkanı Avni Kurt, sözleşmenin çalışanların sosyal haklarını güvence altına aldığını belirtti.",
+      "long_summary_tr": "Çınarcık Belediyesi’nde kadrolu işçiler ile belediyeye bağlı şirket ve birlik personelini kapsayan toplu iş sözleşmesi görüşmeleri tamamlandı. Çınarcık Belediye Başkanı Avni Kurt, sözleşmenin çalışanların sosyal haklarını güvence altına aldığını belirtti.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cinarcik-belediyesinde-toplu-is-sozlesmesi-sevinci",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-cinarcik-belediye-toplu-is-sozlesme.jpg",
+      "published_at": "2026-02-10T21:02:00+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Oyun / Dijital",
       "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "GameSpot",
-      "title": "SpongeBob Owner Refuses To Give Up Pursuit Of Batman Owner",
-      "title_tr": "SpongeBob Owner Refuses To Give Up Pursuit Of Batman Owner",
-      "summary": "Despite repeated rejections from Warner Bros. Discovery, Paramount continues to pursue a buyout of the company and has now sweetened its bid for the entertainment giant in an attempt to convince WBD shareholders to drop Netflix and go with Paramount instead.Paramount's revised offer, announced on February 10, includes a $0.25 per share \"ticking fee,\" payable to WBD shareholders for each quarter during the deal process that the buyout is not closed after December 31, 2026. Paramount said such an offer underscores the company's \"confidence in the speed and certainty of regulatory approval\" for the proposed buyout.The $0.25 per share works out to about $650 million for each quarter the deal isn't closed after the end of December 2026. What's more, Paramount said it will pay the $2.8 billion termination fee to Netflix that the streaming company would be on the hook for if the deal doesn't materialize. Paramount also said it would offer \"solutions to WBD's debt financing costs and obligations.\"Continue Reading at GameSpot",
-      "summary_tr": "Despite repeated rejections from Warner Bros. Discovery, Paramount continues to pursue a buyout of the company and has now sweetened its bid for the entertainment giant in an attempt to convince WBD shareholders to drop Netflix and go with Paramount instead.Paramount's revised offer, announced on February 10, includes a $0.25 per share \"ticking fee,\" payable to WBD shareholders for each quarter during the deal process that the buyout is not closed after December 31, 2026. Paramount said such an offer underscores the company's \"confidence in the speed and certainty of regulatory approval\" for the proposed buyout.The $0.25 per share works out to about $650 million for each quarter the deal isn't closed after the end of December 2026. What's more, Paramount said it will pay the $2.8 billion termination fee to Netflix that the streaming company would be on the hook for if the deal doesn't materialize. Paramount also said it would offer \"solutions to WBD's debt financing costs and obligations.\"Continue Reading at GameSpot",
-      "long_summary": "Despite repeated rejections from Warner Bros. Discovery, Paramount continues to pursue a buyout of the company and has now sweetened its bid for the entertainment giant in an attempt to convince WBD shareholders to drop Netflix and go with Paramount instead.Paramount's revised offer, announced on February 10, includes a $0.25 per share \"ticking fee,\" payable to WBD shareholders for each quarter during the deal process that the buyout is not closed after December 31, 2026. Paramount said such an",
-      "long_summary_tr": "Despite repeated rejections from Warner Bros. Discovery, Paramount continues to pursue a buyout of the company and has now sweetened its bid for the entertainment giant in an attempt to convince WBD shareholders to drop Netflix and go with Paramount instead.Paramount's revised offer, announced on February 10, includes a $0.25 per share \"ticking fee,\" payable to WBD shareholders for each quarter during the deal process that the buyout is not closed after December 31, 2026. Paramount said such an",
+      "source": "IGN",
+      "title": "Magic: The Gathering Won't Be Getting a Harry Potter Set Anytime Soon",
+      "title_tr": "Magic: The Gathering Won't Be Getting a Harry Potter Set Anytime Soon",
+      "summary": "Wizards of the Coast has confirmed that it doesn't \"currently\" have plans to visit any magical schools besides its own Strixhaven in future sets, suggesting that a Harry Potter collaboration isn't in the cards for the moment.",
+      "summary_tr": "Wizards of the Coast has confirmed that it doesn't \"currently\" have plans to visit any magical schools besides its own Strixhaven in future sets, suggesting that a Harry Potter collaboration isn't in the cards for the moment.",
+      "long_summary": "Wizards of the Coast has confirmed that it doesn't \"currently\" have plans to visit any magical schools besides its own Strixhaven in future sets, suggesting that a Harry Potter collaboration isn't in the cards for the moment.",
+      "long_summary_tr": "Wizards of the Coast has confirmed that it doesn't \"currently\" have plans to visit any magical schools besides its own Strixhaven in future sets, suggesting that a Harry Potter collaboration isn't in the cards for the moment.",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/spongebob-owner-refuses-to-give-up-pursuit-of-batman-owner/1100-6538076/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4649747-screenshot2026-02-10at2.35.20%E2%80%AFpm.png",
-      "published_at": "2026-02-10T19:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Hatay’da su dolu temele düşen iki kardeş hayatını kaybetti",
-      "title_tr": "Hatay’da su dolu temele düşen iki kardeş hayatını kaybetti",
-      "summary": "Hatay’da ev yapımı için kazılan içi su dolu temele düşen 5 ve 6 yaşındaki 2 kardeş hayatını kaybetti.",
-      "summary_tr": "Hatay’da ev yapımı için kazılan içi su dolu temele düşen 5 ve 6 yaşındaki 2 kardeş hayatını kaybetti.",
-      "long_summary": "Hatay’da ev yapımı için kazılan içi su dolu temele düşen 5 ve 6 yaşındaki 2 kardeş hayatını kaybetti.",
-      "long_summary_tr": "Hatay’da ev yapımı için kazılan içi su dolu temele düşen 5 ve 6 yaşındaki 2 kardeş hayatını kaybetti.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/hatayda-su-dolu-temele-dusen-iki-kardes-hayatini-kaybetti-1711386",
-      "image": "https://images.ntv.com.tr/images/AW639162_01-234984.jpg",
-      "published_at": "2026-02-10T19:13:30+00:00"
+      "url": "https://www.ign.com/articles/magic-the-gathering-wont-be-getting-a-harry-potter-set-anytime-soon",
+      "image": "https://assets-prd.ignimgs.com/2021/11/24/strixhaven-br-2-1637785255098.jpg",
+      "published_at": "2026-02-10T21:01:32+00:00"
     },
     {
       "origin": "turkiye",
@@ -1085,21 +997,109 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "ABD Ticaret Bakanı Lutnick'ten büyüme mesajı: Yüzde 6’yı aşabilir",
-      "title_tr": "ABD Ticaret Bakanı Lutnick'ten büyüme mesajı: Yüzde 6’yı aşabilir",
-      "summary": "ABD Ticaret Bakanı Howard Lutnick, ihracatın artması sayesinde bu yıl ilk çeyrekte de yüzde 6&#039;nın üzerinde büyüme görülebileceğini belirtti.",
-      "summary_tr": "ABD Ticaret Bakanı Howard Lutnick, ihracatın artması sayesinde bu yıl ilk çeyrekte de yüzde 6&#039;nın üzerinde büyüme görülebileceğini belirtti.",
-      "long_summary": "ABD Ticaret Bakanı Howard Lutnick, ihracatın artması sayesinde bu yıl ilk çeyrekte de yüzde 6&#039;nın üzerinde büyüme görülebileceğini belirtti.",
-      "long_summary_tr": "ABD Ticaret Bakanı Howard Lutnick, ihracatın artması sayesinde bu yıl ilk çeyrekte de yüzde 6&#039;nın üzerinde büyüme görülebileceğini belirtti.",
+      "title": "Kabinede değişiklik: İçişleri Bakanlığı ve Adalet Bakanlığına yeni isimler getirildi",
+      "title_tr": "Kabinede değişiklik: İçişleri Bakanlığı ve Adalet Bakanlığına yeni isimler getirildi",
+      "summary": "Son dakika gelişmesi... Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmî Gazete’de yayımlanan atama kararına göre Adalet ve İçişleri Bakanları değişti.",
+      "summary_tr": "Son dakika gelişmesi... Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmî Gazete’de yayımlanan atama kararına göre Adalet ve İçişleri Bakanları değişti.",
+      "long_summary": "Son dakika gelişmesi... Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmî Gazete’de yayımlanan atama kararına göre Adalet ve İçişleri Bakanları değişti.",
+      "long_summary_tr": "Son dakika gelişmesi... Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla Resmî Gazete’de yayımlanan atama kararına göre Adalet ve İçişleri Bakanları değişti.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/ekonomi/abd-ticaret-bakani-lutnickten-buyume-mesaji-yuzde-6yi-asabilir-haberi-814622",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/abd-xnko_cover.jpg",
-      "published_at": "2026-02-10T19:12:00+00:00"
+      "url": "https://www.dunya.com/gundem/kabinede-degisiklik-icisleri-bakanligi-ve-adalet-bakanligina-yeni-isimler-getirildi-haberi-814629",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/15/kabine-pei2_cover.jpg",
+      "published_at": "2026-02-10T21:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Meslek onuru için savaşan bir duayen",
+      "title_tr": "Meslek onuru için savaşan bir duayen",
+      "summary": "Türkiye’de ekonomi medyasının mihenk taşı, DÜNYA Gazetesi’nin kurucusu duayen gazeteci Nezih Demirkent, 50 yıl gazetecilik mesleğinin içinde bulundu. Demirkent’in sadece İstanbul’u değil tüm Anadolu’yu kapsayan tarafsız ve bağımsız yayıncılık ilkeleri hala günümüzde yaşıyor.",
+      "summary_tr": "Türkiye’de ekonomi medyasının mihenk taşı, DÜNYA Gazetesi’nin kurucusu duayen gazeteci Nezih Demirkent, 50 yıl gazetecilik mesleğinin içinde bulundu. Demirkent’in sadece İstanbul’u değil tüm Anadolu’yu kapsayan tarafsız ve bağımsız yayıncılık ilkeleri hala günümüzde yaşıyor.",
+      "long_summary": "Türkiye’de ekonomi medyasının mihenk taşı, DÜNYA Gazetesi’nin kurucusu duayen gazeteci Nezih Demirkent, 50 yıl gazetecilik mesleğinin içinde bulundu. Demirkent’in sadece İstanbul’u değil tüm Anadolu’yu kapsayan tarafsız ve bağımsız yayıncılık ilkeleri hala günümüzde yaşıyor.",
+      "long_summary_tr": "Türkiye’de ekonomi medyasının mihenk taşı, DÜNYA Gazetesi’nin kurucusu duayen gazeteci Nezih Demirkent, 50 yıl gazetecilik mesleğinin içinde bulundu. Demirkent’in sadece İstanbul’u değil tüm Anadolu’yu kapsayan tarafsız ve bağımsız yayıncılık ilkeleri hala günümüzde yaşıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/meslek-onuru-icin-savasan-bir-duayen-haberi-814585",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/nezih-demirkent-etph_cover.jpg",
+      "published_at": "2026-02-10T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Sadece ulaşımda değil, finansta da stratejik bir tercih",
+      "title_tr": "Sadece ulaşımda değil, finansta da stratejik bir tercih",
+      "summary": "Maliyet kontrolü sağlamasıyla filo kiralama şirketleri, mevcut kaynaklarını farklı yatırım ve büyüme alanlarında değerlendirme fırsatı sunuyor. Şirketler hem zaman hem de iş gücünden tasarruf ediyor. Böylece filo kiralama günümüzde bir ulaşım çözümü olmanın ötesinde stratejik bir finansal tercih halini alıyor.",
+      "summary_tr": "Maliyet kontrolü sağlamasıyla filo kiralama şirketleri, mevcut kaynaklarını farklı yatırım ve büyüme alanlarında değerlendirme fırsatı sunuyor. Şirketler hem zaman hem de iş gücünden tasarruf ediyor. Böylece filo kiralama günümüzde bir ulaşım çözümü olmanın ötesinde stratejik bir finansal tercih halini alıyor.",
+      "long_summary": "Maliyet kontrolü sağlamasıyla filo kiralama şirketleri, mevcut kaynaklarını farklı yatırım ve büyüme alanlarında değerlendirme fırsatı sunuyor. Şirketler hem zaman hem de iş gücünden tasarruf ediyor. Böylece filo kiralama günümüzde bir ulaşım çözümü olmanın ötesinde stratejik bir finansal tercih halini alıyor.",
+      "long_summary_tr": "Maliyet kontrolü sağlamasıyla filo kiralama şirketleri, mevcut kaynaklarını farklı yatırım ve büyüme alanlarında değerlendirme fırsatı sunuyor. Şirketler hem zaman hem de iş gücünden tasarruf ediyor. Böylece filo kiralama günümüzde bir ulaşım çözümü olmanın ötesinde stratejik bir finansal tercih halini alıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/otomotiv/sadece-ulasimda-degil-finansta-da-stratejik-bir-tercih-haberi-814589",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/otomotive-4pac_cover.jpg",
+      "published_at": "2026-02-10T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "TOKKDER Başkanı Tangün: Daha az araçla, daha fazla mobilite dönemi yaşıyoruz",
+      "title_tr": "TOKKDER Başkanı Tangün: Daha az araçla, daha fazla mobilite dönemi yaşıyoruz",
+      "summary": "Araç kiralama sektörünün 2025 yılı itibarıyla 278.1 milyar TL değerinde filo yatırımı yapıp, yılın tamamında 109 milyar TL vergi ödediğini kaydeden TOKKDER Başkanı Özarslan A. Tangün, “Artık daha az araçla, daha fazla mobilite dönemiyle atıl kapasiteyi azaltan, verimlilik esaslı bir yapıya evrildik” dedi.",
+      "summary_tr": "Araç kiralama sektörünün 2025 yılı itibarıyla 278.1 milyar TL değerinde filo yatırımı yapıp, yılın tamamında 109 milyar TL vergi ödediğini kaydeden TOKKDER Başkanı Özarslan A. Tangün, “Artık daha az araçla, daha fazla mobilite dönemiyle atıl kapasiteyi azaltan, verimlilik esaslı bir yapıya evrildik” dedi.",
+      "long_summary": "Araç kiralama sektörünün 2025 yılı itibarıyla 278.1 milyar TL değerinde filo yatırımı yapıp, yılın tamamında 109 milyar TL vergi ödediğini kaydeden TOKKDER Başkanı Özarslan A. Tangün, “Artık daha az araçla, daha fazla mobilite dönemiyle atıl kapasiteyi azaltan, verimlilik esaslı bir yapıya evrildik” dedi.",
+      "long_summary_tr": "Araç kiralama sektörünün 2025 yılı itibarıyla 278.1 milyar TL değerinde filo yatırımı yapıp, yılın tamamında 109 milyar TL vergi ödediğini kaydeden TOKKDER Başkanı Özarslan A. Tangün, “Artık daha az araçla, daha fazla mobilite dönemiyle atıl kapasiteyi azaltan, verimlilik esaslı bir yapıya evrildik” dedi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/tokkder-baskani-tangun-daha-az-aracla-daha-fazla-mobilite-donemi-yasiyoruz-haberi-814591",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/ozarslan-a-bhwy_cover.jpg",
+      "published_at": "2026-02-10T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bursa’da gıda için entegre OSB yatırımı planlanıyor",
+      "title_tr": "Bursa’da gıda için entegre OSB yatırımı planlanıyor",
+      "summary": "Bursa Ticaret Borsası öncülüğünde Yenişehir’de planlanan Gıda İhtisas Organize Sanayi Bölgesi, sözleşmeli tarım modeli, entegre lojistik altyapısı ve ihracat odaklı yapısıyla Bursa’nın tarımsal üretimini katma değerli sanayi ve dış ticaret gücüne dönüştürmeyi hedefliyor.",
+      "summary_tr": "Bursa Ticaret Borsası öncülüğünde Yenişehir’de planlanan Gıda İhtisas Organize Sanayi Bölgesi, sözleşmeli tarım modeli, entegre lojistik altyapısı ve ihracat odaklı yapısıyla Bursa’nın tarımsal üretimini katma değerli sanayi ve dış ticaret gücüne dönüştürmeyi hedefliyor.",
+      "long_summary": "Bursa Ticaret Borsası öncülüğünde Yenişehir’de planlanan Gıda İhtisas Organize Sanayi Bölgesi, sözleşmeli tarım modeli, entegre lojistik altyapısı ve ihracat odaklı yapısıyla Bursa’nın tarımsal üretimini katma değerli sanayi ve dış ticaret gücüne dönüştürmeyi hedefliyor.",
+      "long_summary_tr": "Bursa Ticaret Borsası öncülüğünde Yenişehir’de planlanan Gıda İhtisas Organize Sanayi Bölgesi, sözleşmeli tarım modeli, entegre lojistik altyapısı ve ihracat odaklı yapısıyla Bursa’nın tarımsal üretimini katma değerli sanayi ve dış ticaret gücüne dönüştürmeyi hedefliyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sehirler/bursada-gida-icin-entegre-osb-yatirimi-planlaniyor-haberi-814594",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/bursa-osb-acya_cover.jpg",
+      "published_at": "2026-02-10T21:00:00+00:00"
     }
   ]
 }
