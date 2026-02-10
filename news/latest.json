@@ -1,93 +1,27 @@
 {
-  "updated_at": "2026-02-10T15:12:06.061760+00:00",
+  "updated_at": "2026-02-10T17:17:23.199490+00:00",
   "articles": [
     {
       "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Spotify Aylık Kullanıcı Sayısında Rekor Kırdı",
-      "title_tr": "Spotify Aylık Kullanıcı Sayısında Rekor Kırdı",
-      "summary": "Dijital müzik dünyasının lideri Spotify 2025 yılının son çeyreğine dair finansal raporlarını yayınladı. Şirket tarafından yapılan açıklamaya göre platformun aylık aktif kullanıcı sayısı 751 milyon seviyesine ulaşarak tarihi bir zirve gördü. Bu rakam bir önceki yılın aynı dönemine göre yüzde 11 oranında bir artış anlamına geliyor. Üçüncü çeyrekte 713 milyon olan kullanıcı sayısı kısa sürede […]",
-      "summary_tr": "Dijital müzik dünyasının lideri Spotify 2025 yılının son çeyreğine dair finansal raporlarını yayınladı. Şirket tarafından yapılan açıklamaya göre platformun aylık aktif kullanıcı sayısı 751 milyon seviyesine ulaşarak tarihi bir zirve gördü. Bu rakam bir önceki yılın aynı dönemine göre yüzde 11 oranında bir artış anlamına geliyor. Üçüncü çeyrekte 713 milyon olan kullanıcı sayısı kısa sürede […]",
-      "long_summary": "Dijital müzik dünyasının lideri Spotify 2025 yılının son çeyreğine dair finansal raporlarını yayınladı. Şirket tarafından yapılan açıklamaya göre platformun aylık aktif kullanıcı sayısı 751 milyon seviyesine ulaşarak tarihi bir zirve gördü. Bu rakam bir önceki yılın aynı dönemine göre yüzde 11 oranında bir artış anlamına geliyor. Üçüncü çeyrekte 713 milyon olan kullanıcı sayısı kısa sürede […]",
-      "long_summary_tr": "Dijital müzik dünyasının lideri Spotify 2025 yılının son çeyreğine dair finansal raporlarını yayınladı. Şirket tarafından yapılan açıklamaya göre platformun aylık aktif kullanıcı sayısı 751 milyon seviyesine ulaşarak tarihi bir zirve gördü. Bu rakam bir önceki yılın aynı dönemine göre yüzde 11 oranında bir artış anlamına geliyor. Üçüncü çeyrekte 713 milyon olan kullanıcı sayısı kısa sürede […]",
+      "source": "NTV",
+      "title": "Cumhurbaşkanı Erdoğan, yarın DEM Parti heyetini kabul edecek",
+      "title_tr": "Cumhurbaşkanı Erdoğan, yarın DEM Parti heyetini kabul edecek",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan yarın DEM Parti heyetini kabul edecek.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan yarın DEM Parti heyetini kabul edecek.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan yarın DEM Parti heyetini kabul edecek.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan yarın DEM Parti heyetini kabul edecek.",
       "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://shiftdelete.net/spotify-aylik-kullanici-sayisinda-yeni-bir-rekor-kirdi",
-      "image": null,
-      "published_at": "2026-02-10T15:00:22+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Bugatti'nin sedan projesi, yeniden ortaya çıktı",
-      "title_tr": "Bugatti'nin sedan projesi, yeniden ortaya çıktı",
-      "summary": "Veyron sedan, süperşarjlı W16 motora sahip.",
-      "summary_tr": "Veyron sedan, süperşarjlı W16 motora sahip.",
-      "long_summary": "Veyron sedan, süperşarjlı W16 motora sahip.",
-      "long_summary_tr": "Veyron sedan, süperşarjlı W16 motora sahip.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/786889/bugatti-16c-galibier-sedan-projesi/",
-      "image": "https://cdn.motor1.com/images/mgl/VzBpky/s3/2009-bugatti-galibier-concept.jpg",
-      "published_at": "2026-02-10T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Mouat & Dodds denied bronze as GB medal wait continues",
-      "title_tr": "Mouat & Dodds denied bronze as GB medal wait continues",
-      "summary": "Jen Dodds and Bruce Mouat suffer Winter Olympic heartbreak in the mixed doubles curling for the second time in four years after losing out on bronze to hosts Italy.",
-      "summary_tr": "Jen Dodds and Bruce Mouat suffer Winter Olympic heartbreak in the mixed doubles curling for the second time in four years after losing out on bronze to hosts Italy.",
-      "long_summary": "Jen Dodds and Bruce Mouat suffer Winter Olympic heartbreak in the mixed doubles curling for the second time in four years after losing out on bronze to hosts Italy.",
-      "long_summary_tr": "Jen Dodds and Bruce Mouat suffer Winter Olympic heartbreak in the mixed doubles curling for the second time in four years after losing out on bronze to hosts Italy.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/crl4rl91ge4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51a6/live/1a5b1f40-0691-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-10T14:58:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Wingstop hisseleri, 4. çeyrek sonuçları öncesi analist düşüşleriyle geriledi",
-      "title_tr": "Wingstop hisseleri, 4. çeyrek sonuçları öncesi analist düşüşleriyle geriledi",
-      "summary": "Wingstop hisseleri, 4. çeyrek sonuçları öncesi analist düşüşleriyle geriledi",
-      "summary_tr": "Wingstop hisseleri, 4. çeyrek sonuçları öncesi analist düşüşleriyle geriledi",
-      "long_summary": "Wingstop hisseleri, 4. çeyrek sonuçları öncesi analist düşüşleriyle geriledi",
-      "long_summary_tr": "Wingstop hisseleri, 4. çeyrek sonuçları öncesi analist düşüşleriyle geriledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/wingstop-hisseleri-4-ceyrek-sonuclar-oncesi-analist-dususleriyle-geriledi-3755905",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:56:33+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-yarin-dem-parti-heyetini-kabul-edecek-1711377",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_4d0baca43f56b7a6c70b372750f82991-135376.jpg",
+      "published_at": "2026-02-10T17:08:47+00:00"
     },
     {
       "origin": "turkiye",
@@ -95,21 +29,285 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "New York borsası yükselişle açıldı",
-      "title_tr": "New York borsası yükselişle açıldı",
-      "summary": "New York borsası güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.193,49 puana ulaştı. S&amp;P 500 endeksi yüzde 0,14 artışla 6.974,49 puana ve Nasdaq endeksi yüzde 0,13 kazançla 23.271,22 puana çıktı.",
-      "summary_tr": "New York borsası güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.193,49 puana ulaştı. S&amp;P 500 endeksi yüzde 0,14 artışla 6.974,49 puana ve Nasdaq endeksi yüzde 0,13 kazançla 23.271,22 puana çıktı.",
-      "long_summary": "New York borsası güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.193,49 puana ulaştı. S&amp;P 500 endeksi yüzde 0,14 artışla 6.974,49 puana ve Nasdaq endeksi yüzde 0,13 kazançla 23.271,22 puana çıktı.",
-      "long_summary_tr": "New York borsası güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.193,49 puana ulaştı. S&amp;P 500 endeksi yüzde 0,14 artışla 6.974,49 puana ve Nasdaq endeksi yüzde 0,13 kazançla 23.271,22 puana çıktı.",
+      "title": "ABD Ticaret Bakanı’ndan Epstein itirafı",
+      "title_tr": "ABD Ticaret Bakanı’ndan Epstein itirafı",
+      "summary": "ABD Ticaret Bakanı Howard Lutnick, kendisi ve ailesinin yıllar önce, milyarder Jeffrey Epstein&#039;ın adasında öğle yemeği yediklerini söyledi.",
+      "summary_tr": "ABD Ticaret Bakanı Howard Lutnick, kendisi ve ailesinin yıllar önce, milyarder Jeffrey Epstein&#039;ın adasında öğle yemeği yediklerini söyledi.",
+      "long_summary": "ABD Ticaret Bakanı Howard Lutnick, kendisi ve ailesinin yıllar önce, milyarder Jeffrey Epstein&#039;ın adasında öğle yemeği yediklerini söyledi.",
+      "long_summary_tr": "ABD Ticaret Bakanı Howard Lutnick, kendisi ve ailesinin yıllar önce, milyarder Jeffrey Epstein&#039;ın adasında öğle yemeği yediklerini söyledi.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-814593",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/f1-fnal_cover.jpg",
-      "published_at": "2026-02-10T14:51:00+00:00"
+      "url": "https://www.dunya.com/dunya/abd-ticaret-bakanindan-epstein-itirafi-haberi-814613",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/abd-txlp_cover.jpg",
+      "published_at": "2026-02-10T17:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Intel Nova Lake ve 900 Serisi Anakart Özellikleri Sızdı",
+      "title_tr": "Intel Nova Lake ve 900 Serisi Anakart Özellikleri Sızdı",
+      "summary": "Intel, masaüstü işlemci pazarındaki iddiasını güçlendirmek amacıyla geliştirdiği Nova Lake serisi işlemciler üzerinde çalışmalarını sürdürüyor. Teknoloji dünyasının güvenilir sızıntı kaynaklarından biri tarafından paylaşılan yeni veriler, bu işlemcilere güç verecek olan Intel 900 serisi yonga setlerinin teknik özelliklerini detaylı bir şekilde ortaya koydu. Sızdırılan tabloya göre, yeni seri B960, Z970, Z990, Q970 ve W980 modellerinden oluşuyor […]",
+      "summary_tr": "Intel, masaüstü işlemci pazarındaki iddiasını güçlendirmek amacıyla geliştirdiği Nova Lake serisi işlemciler üzerinde çalışmalarını sürdürüyor. Teknoloji dünyasının güvenilir sızıntı kaynaklarından biri tarafından paylaşılan yeni veriler, bu işlemcilere güç verecek olan Intel 900 serisi yonga setlerinin teknik özelliklerini detaylı bir şekilde ortaya koydu. Sızdırılan tabloya göre, yeni seri B960, Z970, Z990, Q970 ve W980 modellerinden oluşuyor […]",
+      "long_summary": "Intel, masaüstü işlemci pazarındaki iddiasını güçlendirmek amacıyla geliştirdiği Nova Lake serisi işlemciler üzerinde çalışmalarını sürdürüyor. Teknoloji dünyasının güvenilir sızıntı kaynaklarından biri tarafından paylaşılan yeni veriler, bu işlemcilere güç verecek olan Intel 900 serisi yonga setlerinin teknik özelliklerini detaylı bir şekilde ortaya koydu. Sızdırılan tabloya göre, yeni seri B960, Z970, Z990, Q970 ve W980 modellerinden oluşuyor […]",
+      "long_summary_tr": "Intel, masaüstü işlemci pazarındaki iddiasını güçlendirmek amacıyla geliştirdiği Nova Lake serisi işlemciler üzerinde çalışmalarını sürdürüyor. Teknoloji dünyasının güvenilir sızıntı kaynaklarından biri tarafından paylaşılan yeni veriler, bu işlemcilere güç verecek olan Intel 900 serisi yonga setlerinin teknik özelliklerini detaylı bir şekilde ortaya koydu. Sızdırılan tabloya göre, yeni seri B960, Z970, Z990, Q970 ve W980 modellerinden oluşuyor […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/intel-nova-lake-ve-900-serisi-anakart-ozellikleri-sizdi",
+      "image": null,
+      "published_at": "2026-02-10T17:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Fortnite Ramps Up Anti-Cheat Efforts With New Requirements For PC Tourneys",
+      "title_tr": "Fortnite Ramps Up Anti-Cheat Efforts With New Requirements For PC Tourneys",
+      "summary": "Epic Games is adding a new anti-cheat requirement for Fortnite tournaments for PC players, though it's not something most folks are going to have to worry about. Starting February 19, those who want to play in Fortnite tournaments on PC will have to have IOMMU protection (input-output memory management) enabled, in addition to the previously required SecureBoot and TPM. The good news is that most everyone playing on Windows 11 will already have this enabled, since it's typically enabled by default on compatible motherboards.IOMMU, like TPM, is another method to protect against cheaters using hardware cheats, while the Easy Anti-Cheat application handles the software side of things. Note that this new requirement is just for tournaments. IOMMU is not required if you're just playing casual or ranked Battle Royale with your friends. If you try to play a tournament while IOMMU is off, you won't be banned--the game simply won't let you play. Learn about how to enable IOMMU here.The topic of cheating in Fortnite has been a common one since Epic unbanned past cheaters a year ago to give them a second chance--since then, players on social media often baselessly claim the move has led to a cheating epidemic. Meanwhile, Epic has been taking legal action against cheaters and forcing them to apologize publicly several times over the past year.Continue Reading at GameSpot",
+      "summary_tr": "Epic Games is adding a new anti-cheat requirement for Fortnite tournaments for PC players, though it's not something most folks are going to have to worry about. Starting February 19, those who want to play in Fortnite tournaments on PC will have to have IOMMU protection (input-output memory management) enabled, in addition to the previously required SecureBoot and TPM. The good news is that most everyone playing on Windows 11 will already have this enabled, since it's typically enabled by default on compatible motherboards.IOMMU, like TPM, is another method to protect against cheaters using hardware cheats, while the Easy Anti-Cheat application handles the software side of things. Note that this new requirement is just for tournaments. IOMMU is not required if you're just playing casual or ranked Battle Royale with your friends. If you try to play a tournament while IOMMU is off, you won't be banned--the game simply won't let you play. Learn about how to enable IOMMU here.The topic of cheating in Fortnite has been a common one since Epic unbanned past cheaters a year ago to give them a second chance--since then, players on social media often baselessly claim the move has led to a cheating epidemic. Meanwhile, Epic has been taking legal action against cheaters and forcing them to apologize publicly several times over the past year.Continue Reading at GameSpot",
+      "long_summary": "Epic Games is adding a new anti-cheat requirement for Fortnite tournaments for PC players, though it's not something most folks are going to have to worry about. Starting February 19, those who want to play in Fortnite tournaments on PC will have to have IOMMU protection (input-output memory management) enabled, in addition to the previously required SecureBoot and TPM. The good news is that most everyone playing on Windows 11 will already have this enabled, since it's typically enabled by",
+      "long_summary_tr": "Epic Games is adding a new anti-cheat requirement for Fortnite tournaments for PC players, though it's not something most folks are going to have to worry about. Starting February 19, those who want to play in Fortnite tournaments on PC will have to have IOMMU protection (input-output memory management) enabled, in addition to the previously required SecureBoot and TPM. The good news is that most everyone playing on Windows 11 will already have this enabled, since it's typically enabled by",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/fortnite-ramps-up-anti-cheat-efforts-with-new-requirements-for-pc-tourneys/1100-6538067/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4649613-fortnitemaresstabby.jpg",
+      "published_at": "2026-02-10T17:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks",
+      "title_tr": "Hearthstone Cataclysm Card Reveal - Ultraxion Looks Like A Must-Have For Deathwing Decks",
+      "summary": "Hearthstone's Cataclysm expansion is just over a month away, and that means it's time for Blizzard to begin unveiling the cards we can expect to shake up the meta in the coming months. We're kicking off reveal season with an exclusive look at the dragon lord Ultraxion.Ultraxion is a 6-mana 6/7 minion, aligned with the Deathwing classes, and it comes with a pair of big effects. Its Battlecry effect will Herald your Colossal minion and reduce Deathwing's cost by 1. But on top of that, if you've strengthened Ultraxion itself with other Herald minions, you can improve the cost-reduction effect as well.Ultraxion in Hearthstone's Cataclysm expansionThe Cataclysm expansion imagines a world in which Deathwing was victorious, and Murozond pulled this victorious version of Deathwing into the world of Hearthstone. Naturally some of the classes align with Deathwing, while others align with Chromie, the dragon aspect who gathers her dragonflight against him. The new Herald keyword is used by Deathwing-aligned cards and has stacking effects the more you play. Each Herald card you play has an immediate effect on the board, while also strengthening your class's Colossal minion, and powering up Deathwing's cataclysm effect. Colossal minions, powerful Legendaries that spread their stats across several bodies on the board, make their return from 2022's Sunken City expansion.Continue Reading at GameSpot",
+      "summary_tr": "Hearthstone's Cataclysm expansion is just over a month away, and that means it's time for Blizzard to begin unveiling the cards we can expect to shake up the meta in the coming months. We're kicking off reveal season with an exclusive look at the dragon lord Ultraxion.Ultraxion is a 6-mana 6/7 minion, aligned with the Deathwing classes, and it comes with a pair of big effects. Its Battlecry effect will Herald your Colossal minion and reduce Deathwing's cost by 1. But on top of that, if you've strengthened Ultraxion itself with other Herald minions, you can improve the cost-reduction effect as well.Ultraxion in Hearthstone's Cataclysm expansionThe Cataclysm expansion imagines a world in which Deathwing was victorious, and Murozond pulled this victorious version of Deathwing into the world of Hearthstone. Naturally some of the classes align with Deathwing, while others align with Chromie, the dragon aspect who gathers her dragonflight against him. The new Herald keyword is used by Deathwing-aligned cards and has stacking effects the more you play. Each Herald card you play has an immediate effect on the board, while also strengthening your class's Colossal minion, and powering up Deathwing's cataclysm effect. Colossal minions, powerful Legendaries that spread their stats across several bodies on the board, make their return from 2022's Sunken City expansion.Continue Reading at GameSpot",
+      "long_summary": "Hearthstone's Cataclysm expansion is just over a month away, and that means it's time for Blizzard to begin unveiling the cards we can expect to shake up the meta in the coming months. We're kicking off reveal season with an exclusive look at the dragon lord Ultraxion.Ultraxion is a 6-mana 6/7 minion, aligned with the Deathwing classes, and it comes with a pair of big effects. Its Battlecry effect will Herald your Colossal minion and reduce Deathwing's cost by 1. But on top of that, if you've",
+      "long_summary_tr": "Hearthstone's Cataclysm expansion is just over a month away, and that means it's time for Blizzard to begin unveiling the cards we can expect to shake up the meta in the coming months. We're kicking off reveal season with an exclusive look at the dragon lord Ultraxion.Ultraxion is a 6-mana 6/7 minion, aligned with the Deathwing classes, and it comes with a pair of big effects. Its Battlecry effect will Herald your Colossal minion and reduce Deathwing's cost by 1. But on top of that, if you've",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/hearthstone-cataclysm-card-reveal-ultraxion-looks-like-a-must-have-for-deathwing-decks/1100-6538040/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4648555-4647599-hscataclysmkeyart.png",
+      "published_at": "2026-02-10T17:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Laguna Seca pist ekibi, bir R34 Nissan Skyline’ı pert etti",
+      "title_tr": "Laguna Seca pist ekibi, bir R34 Nissan Skyline’ı pert etti",
+      "summary": "Aracın sahibi pisti dava etti ve ayrıntıları kamuoyuyla paylaştı.",
+      "summary_tr": "Aracın sahibi pisti dava etti ve ayrıntıları kamuoyuyla paylaştı.",
+      "long_summary": "Aracın sahibi pisti dava etti ve ayrıntıları kamuoyuyla paylaştı.",
+      "long_summary_tr": "Aracın sahibi pisti dava etti ve ayrıntıları kamuoyuyla paylaştı.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/786908/laguna-seca-r34-pert/",
+      "image": "https://cdn.motor1.com/images/mgl/eozpJK/s3/laguna-seca-nissan-gt-r-wreck.jpg",
+      "published_at": "2026-02-10T17:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "The Last Of Us Season 3 Was Going To Bring Back Catherine O'Hara",
+      "title_tr": "The Last Of Us Season 3 Was Going To Bring Back Catherine O'Hara",
+      "summary": "Catherine O'Hara played Gail in The Last of Us Season 2, and she was planned to return for Season 3 before her recent passing.Gail is Joel's therapist in Season 2, and the role was created for the TV show. Gail was a supporting character in Season 2, and while she didn't have all that many scenes, the time she was on screen was memorable due to O'Hara's impressive performance.\"I don't think it's a big spoiler to say that she was gonna be in our show again, because of course she was,\" Mazin said in an appearance on the Scriptnotes podcast (via GamesRadar). \"She's so good. But she was stolen from all of us. The thing that's upsetting me is I don't get to see her in other stuff. I don't care about my show. I wanted to see her in other things, cause what else was gonna happen?\"Continue Reading at GameSpot",
+      "summary_tr": "Catherine O'Hara played Gail in The Last of Us Season 2, and she was planned to return for Season 3 before her recent passing.Gail is Joel's therapist in Season 2, and the role was created for the TV show. Gail was a supporting character in Season 2, and while she didn't have all that many scenes, the time she was on screen was memorable due to O'Hara's impressive performance.\"I don't think it's a big spoiler to say that she was gonna be in our show again, because of course she was,\" Mazin said in an appearance on the Scriptnotes podcast (via GamesRadar). \"She's so good. But she was stolen from all of us. The thing that's upsetting me is I don't get to see her in other stuff. I don't care about my show. I wanted to see her in other things, cause what else was gonna happen?\"Continue Reading at GameSpot",
+      "long_summary": "Catherine O'Hara played Gail in The Last of Us Season 2, and she was planned to return for Season 3 before her recent passing.Gail is Joel's therapist in Season 2, and the role was created for the TV show. Gail was a supporting character in Season 2, and while she didn't have all that many scenes, the time she was on screen was memorable due to O'Hara's impressive performance.\"I don't think it's a big spoiler to say that she was gonna be in our show again, because of course she was,\" Mazin said",
+      "long_summary_tr": "Catherine O'Hara played Gail in The Last of Us Season 2, and she was planned to return for Season 3 before her recent passing.Gail is Joel's therapist in Season 2, and the role was created for the TV show. Gail was a supporting character in Season 2, and while she didn't have all that many scenes, the time she was on screen was memorable due to O'Hara's impressive performance.\"I don't think it's a big spoiler to say that she was gonna be in our show again, because of course she was,\" Mazin said",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/the-last-of-us-season-3-was-going-to-bring-back-catherine-ohara/1100-6538066/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4649617-screenshot2026-02-10at10.53.57%E2%80%AFam.png",
+      "published_at": "2026-02-10T16:56:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Hazine'den 30 milyar liraya yakın kira sertifikası ihracı",
+      "title_tr": "Hazine'den 30 milyar liraya yakın kira sertifikası ihracı",
+      "summary": "Hazine ve Maliye Bakanlığı, 29 milyar 864 milyon 500 bin lira tutarında kira sertifikası ihracı gerçekleştirildiğini duuyurdu",
+      "summary_tr": "Hazine ve Maliye Bakanlığı, 29 milyar 864 milyon 500 bin lira tutarında kira sertifikası ihracı gerçekleştirildiğini duuyurdu",
+      "long_summary": "Hazine ve Maliye Bakanlığı, 29 milyar 864 milyon 500 bin lira tutarında kira sertifikası ihracı gerçekleştirildiğini duuyurdu",
+      "long_summary_tr": "Hazine ve Maliye Bakanlığı, 29 milyar 864 milyon 500 bin lira tutarında kira sertifikası ihracı gerçekleştirildiğini duuyurdu",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/hazine-den-30-milyar-liraya-yakin-kira-sertifikasi-ihraci-3768792",
+      "image": null,
+      "published_at": "2026-02-10T16:53:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Morgan Stanley, bellek sorunları nedeniyle Qualcomm hisselerinde daha fazla risk görüyor",
+      "title_tr": "Morgan Stanley, bellek sorunları nedeniyle Qualcomm hisselerinde daha fazla risk görüyor",
+      "summary": "Morgan Stanley, bellek sorunları nedeniyle Qualcomm hisselerinde daha fazla risk görüyor",
+      "summary_tr": "Morgan Stanley, bellek sorunları nedeniyle Qualcomm hisselerinde daha fazla risk görüyor",
+      "long_summary": "Morgan Stanley, bellek sorunları nedeniyle Qualcomm hisselerinde daha fazla risk görüyor",
+      "long_summary_tr": "Morgan Stanley, bellek sorunları nedeniyle Qualcomm hisselerinde daha fazla risk görüyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-bellek-sorunlar-nedeniyle-qualcomm-hisselerinde-daha-fazla-risk-goruyor-3756155",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T16:52:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Cumhurbaşkanı Erdoğan-DEM Parti görüşme tarihi belli oldu",
+      "title_tr": "Cumhurbaşkanı Erdoğan-DEM Parti görüşme tarihi belli oldu",
+      "summary": "DEM Parti heyeti yarın Cumhurbaşkanı Erdoğan&#039;la görüşecek. Beştepe&#039;deki görüşmede Terörsüz Türkiye süreci ele alınacak.",
+      "summary_tr": "DEM Parti heyeti yarın Cumhurbaşkanı Erdoğan&#039;la görüşecek. Beştepe&#039;deki görüşmede Terörsüz Türkiye süreci ele alınacak.",
+      "long_summary": "DEM Parti heyeti yarın Cumhurbaşkanı Erdoğan&#039;la görüşecek. Beştepe&#039;deki görüşmede Terörsüz Türkiye süreci ele alınacak.",
+      "long_summary_tr": "DEM Parti heyeti yarın Cumhurbaşkanı Erdoğan&#039;la görüşecek. Beştepe&#039;deki görüşmede Terörsüz Türkiye süreci ele alınacak.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-dem-parti-gorusme-tarihi-belli-oldu-haberi-814612",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/30/erdogan-dem-rv4k_cover.jpg",
+      "published_at": "2026-02-10T16:51:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Azerbaycan ile ABD arasında stratejik ortaklık şartı imzalandı",
+      "title_tr": "Azerbaycan ile ABD arasında stratejik ortaklık şartı imzalandı",
+      "summary": "ABD Başkan Yardımcısı JD Vance'in Azerbaycan temasları kapsamında, iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "summary_tr": "ABD Başkan Yardımcısı JD Vance'in Azerbaycan temasları kapsamında, iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "long_summary": "ABD Başkan Yardımcısı JD Vance'in Azerbaycan temasları kapsamında, iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "long_summary_tr": "ABD Başkan Yardımcısı JD Vance'in Azerbaycan temasları kapsamında, iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/azerbaycan-ile-abd-arasinda-stratejik-ortaklik-sarti-imzalandi-3768791",
+      "image": null,
+      "published_at": "2026-02-10T16:46:38+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Nuclear hog hybrids are breeding at breakneck speed in Japan",
+      "title_tr": "Nuclear hog hybrids are breeding at breakneck speed in Japan",
+      "summary": "But not in the way Fukushima’s geneticists thought.\nThe post Nuclear hog hybrids are breeding at breakneck speed in Japan appeared first on Popular Science.",
+      "summary_tr": "But not in the way Fukushima’s geneticists thought.\nThe post Nuclear hog hybrids are breeding at breakneck speed in Japan appeared first on Popular Science.",
+      "long_summary": "But not in the way Fukushima’s geneticists thought.\nThe post Nuclear hog hybrids are breeding at breakneck speed in Japan appeared first on Popular Science.",
+      "long_summary_tr": "But not in the way Fukushima’s geneticists thought.\nThe post Nuclear hog hybrids are breeding at breakneck speed in Japan appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/environment/nuclear-hog-hybrid-japan/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/02/Fukushima-Hog.jpg?quality=85",
+      "published_at": "2026-02-10T16:40:26+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Deutsche Bank’tan Fed ve TCMB değerlendirmesi: Martta faiz indirimi olacak mı?",
+      "title_tr": "Deutsche Bank’tan Fed ve TCMB değerlendirmesi: Martta faiz indirimi olacak mı?",
+      "summary": "Deutsche Bank Global Makro Başkan Yardımcısı Ozan Korman Tarman, ABD Merkez Bankası’nın (Fed) bu yıl haziran ayından itibaren üç kez faiz indirimine gidebileceğini, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) ise mart ayında 100 baz puanlık faiz indirimi yapmasını beklediklerini söyledi.",
+      "summary_tr": "Deutsche Bank Global Makro Başkan Yardımcısı Ozan Korman Tarman, ABD Merkez Bankası’nın (Fed) bu yıl haziran ayından itibaren üç kez faiz indirimine gidebileceğini, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) ise mart ayında 100 baz puanlık faiz indirimi yapmasını beklediklerini söyledi.",
+      "long_summary": "Deutsche Bank Global Makro Başkan Yardımcısı Ozan Korman Tarman, ABD Merkez Bankası’nın (Fed) bu yıl haziran ayından itibaren üç kez faiz indirimine gidebileceğini, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) ise mart ayında 100 baz puanlık faiz indirimi yapmasını beklediklerini söyledi.",
+      "long_summary_tr": "Deutsche Bank Global Makro Başkan Yardımcısı Ozan Korman Tarman, ABD Merkez Bankası’nın (Fed) bu yıl haziran ayından itibaren üç kez faiz indirimine gidebileceğini, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) ise mart ayında 100 baz puanlık faiz indirimi yapmasını beklediklerini söyledi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/deutsche-banktan-fed-ve-tcmb-degerlendirmesi-martta-faiz-indirimi-olacak-mi-haberi-814611",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/03/20/deutsche-bank-ssio_cover.jpg",
+      "published_at": "2026-02-10T16:39:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Morgan Stanley’e Göre Takip Edilmesi Gereken En İyi SMID Cap Biyoteknoloji Hisseleri",
+      "title_tr": "Morgan Stanley’e Göre Takip Edilmesi Gereken En İyi SMID Cap Biyoteknoloji Hisseleri",
+      "summary": "Morgan Stanley’e Göre Takip Edilmesi Gereken En İyi SMID Cap Biyoteknoloji Hisseleri",
+      "summary_tr": "Morgan Stanley’e Göre Takip Edilmesi Gereken En İyi SMID Cap Biyoteknoloji Hisseleri",
+      "long_summary": "Morgan Stanley’e Göre Takip Edilmesi Gereken En İyi SMID Cap Biyoteknoloji Hisseleri",
+      "long_summary_tr": "Morgan Stanley’e Göre Takip Edilmesi Gereken En İyi SMID Cap Biyoteknoloji Hisseleri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanleye-gore-takip-edilmesi-gereken-en-iyi-smid-cap-biyoteknoloji-hisseleri-93CH-3756142",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T16:38:24+00:00"
     },
     {
       "origin": "turkiye",
@@ -117,21 +315,43 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "Belediye başkanına kıyafeti üzerinden hakaret eden kişi İYİ Parti'den ihraç edildi. Zeynep Güneş: \"Başörtülü olmak ayıp mıdır?\"",
-      "title_tr": "Belediye başkanına kıyafeti üzerinden hakaret eden kişi İYİ Parti'den ihraç edildi. Zeynep Güneş: \"Başörtülü olmak ayıp mıdır?\"",
-      "summary": "İYİ Parti, Eskişehir Mihalgazi Belediye Başkanı Zeynep Güneş'i kıyafeti üzerinden hedef alan Mehmet Korkmaz'ı ihraç etti. AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın'ı ziyaret eden Zeynep Güneş, \"Çiftçi olmak ayıp mıdır? Başörtülü olmak ayıp mıdır?\" dedi ve gözyaşlarına hakim olamadı.",
-      "summary_tr": "İYİ Parti, Eskişehir Mihalgazi Belediye Başkanı Zeynep Güneş'i kıyafeti üzerinden hedef alan Mehmet Korkmaz'ı ihraç etti. AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın'ı ziyaret eden Zeynep Güneş, \"Çiftçi olmak ayıp mıdır? Başörtülü olmak ayıp mıdır?\" dedi ve gözyaşlarına hakim olamadı.",
-      "long_summary": "İYİ Parti, Eskişehir Mihalgazi Belediye Başkanı Zeynep Güneş'i kıyafeti üzerinden hedef alan Mehmet Korkmaz'ı ihraç etti. AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın'ı ziyaret eden Zeynep Güneş, \"Çiftçi olmak ayıp mıdır? Başörtülü olmak ayıp mıdır?\" dedi ve gözyaşlarına hakim olamadı.",
-      "long_summary_tr": "İYİ Parti, Eskişehir Mihalgazi Belediye Başkanı Zeynep Güneş'i kıyafeti üzerinden hedef alan Mehmet Korkmaz'ı ihraç etti. AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın'ı ziyaret eden Zeynep Güneş, \"Çiftçi olmak ayıp mıdır? Başörtülü olmak ayıp mıdır?\" dedi ve gözyaşlarına hakim olamadı.",
+      "title": "Menajer Ayşe Barım hakkında ağırlaştırılmış müebbet talebi",
+      "title_tr": "Menajer Ayşe Barım hakkında ağırlaştırılmış müebbet talebi",
+      "summary": "Gezi Parkı olaylarında sanatçıları yönlendirdiği suçlamasıyla yargılanan menajer Ayşe Barım hakkında ağırlaştırılmış müebbet talep edildi.",
+      "summary_tr": "Gezi Parkı olaylarında sanatçıları yönlendirdiği suçlamasıyla yargılanan menajer Ayşe Barım hakkında ağırlaştırılmış müebbet talep edildi.",
+      "long_summary": "Gezi Parkı olaylarında sanatçıları yönlendirdiği suçlamasıyla yargılanan menajer Ayşe Barım hakkında ağırlaştırılmış müebbet talep edildi.",
+      "long_summary_tr": "Gezi Parkı olaylarında sanatçıları yönlendirdiği suçlamasıyla yargılanan menajer Ayşe Barım hakkında ağırlaştırılmış müebbet talep edildi.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/belediye-baskanina-kiyafeti-uzerinden-hakaret-eden-kisi-iyi-partiden-ihrac-edildi-zeynep-gunes-basortulu-olmak-ayip-midir-1711357",
-      "image": "https://images.ntv.com.tr/images/hakir1-771056.jpg",
-      "published_at": "2026-02-10T14:50:01+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/ayse-barim-icin-agirlastirilmis-muebbet-istemi-1711374",
+      "image": "https://images.ntv.com.tr/images/AyşeBarım-154527.jpg",
+      "published_at": "2026-02-10T16:36:27+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "AB, Google’ın 32 milyar dolarlık Wiz alımını onayladı",
+      "title_tr": "AB, Google’ın 32 milyar dolarlık Wiz alımını onayladı",
+      "summary": "Avrupa Birliği (AB), teknoloji şirketi Google&#039;ın bulut güvenlik platformu Wiz&#039;i 32 milyar dolara satın almasına onay verdi.",
+      "summary_tr": "Avrupa Birliği (AB), teknoloji şirketi Google&#039;ın bulut güvenlik platformu Wiz&#039;i 32 milyar dolara satın almasına onay verdi.",
+      "long_summary": "Avrupa Birliği (AB), teknoloji şirketi Google&#039;ın bulut güvenlik platformu Wiz&#039;i 32 milyar dolara satın almasına onay verdi.",
+      "long_summary_tr": "Avrupa Birliği (AB), teknoloji şirketi Google&#039;ın bulut güvenlik platformu Wiz&#039;i 32 milyar dolara satın almasına onay verdi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sirketler/ab-googlein-32-milyar-dolarlik-wiz-alimini-onayladi-haberi-814610",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/gg-zgvs_cover.jpg",
+      "published_at": "2026-02-10T16:34:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -139,153 +359,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Team GB miss out on bronze in mixed doubles curling",
-      "title_tr": "Team GB miss out on bronze in mixed doubles curling",
-      "summary": "Bruce Mouat and Jen Dodds missed out on Team GB's first medal of the Winter Olympics after losing to hosts Italy in the curling mixed doubles bronze-medal match.",
-      "summary_tr": "Bruce Mouat and Jen Dodds missed out on Team GB's first medal of the Winter Olympics after losing to hosts Italy in the curling mixed doubles bronze-medal match.",
-      "long_summary": "Bruce Mouat and Jen Dodds missed out on Team GB's first medal of the Winter Olympics after losing to hosts Italy in the curling mixed doubles bronze-medal match.",
-      "long_summary_tr": "Bruce Mouat and Jen Dodds missed out on Team GB's first medal of the Winter Olympics after losing to hosts Italy in the curling mixed doubles bronze-medal match.",
+      "title": "Wardley finalising terms for WBO heavyweight title defence against Dubois",
+      "title_tr": "Wardley finalising terms for WBO heavyweight title defence against Dubois",
+      "summary": "Fabio Wardley is finalising terms for a WBO heavyweight title defence against Daniel Dubois on May 9.",
+      "summary_tr": "Fabio Wardley is finalising terms for a WBO heavyweight title defence against Daniel Dubois on May 9.",
+      "long_summary": "Fabio Wardley is finalising terms for a WBO heavyweight title defence against Daniel Dubois on May 9.",
+      "long_summary_tr": "Fabio Wardley is finalising terms for a WBO heavyweight title defence against Daniel Dubois on May 9.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/winter-olympics/news/12040/13505653/winter-olympics-team-gbs-bruce-mouat-and-jen-dodds-miss-out-on-first-medal-in-mixed-doubles-curling",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-jen-dodds-bruce-mouat_7161122.jpg?20260210145446",
-      "published_at": "2026-02-10T14:50:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Coca-Cola, Costa Coffee’yi elinde tutacak, Çin operasyonlarını gözden geçiriyor",
-      "title_tr": "Coca-Cola, Costa Coffee’yi elinde tutacak, Çin operasyonlarını gözden geçiriyor",
-      "summary": "Coca-Cola, Costa Coffee’yi elinde tutacak, Çin operasyonlarını gözden geçiriyor",
-      "summary_tr": "Coca-Cola, Costa Coffee’yi elinde tutacak, Çin operasyonlarını gözden geçiriyor",
-      "long_summary": "Coca-Cola, Costa Coffee’yi elinde tutacak, Çin operasyonlarını gözden geçiriyor",
-      "long_summary_tr": "Coca-Cola, Costa Coffee’yi elinde tutacak, Çin operasyonlarını gözden geçiriyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/cocacola-costa-coffeeyi-elinde-tutacak-cin-operasyonlarn-gozden-geciriyor-93CH-3755885",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:49:48+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Goldman’ın CEO’su Solomon, yapay zeka kaynaklı yazılım satışlarının abartıldığını söyledi",
-      "title_tr": "Goldman’ın CEO’su Solomon, yapay zeka kaynaklı yazılım satışlarının abartıldığını söyledi",
-      "summary": "Goldman’ın CEO’su Solomon, yapay zeka kaynaklı yazılım satışlarının abartıldığını söyledi",
-      "summary_tr": "Goldman’ın CEO’su Solomon, yapay zeka kaynaklı yazılım satışlarının abartıldığını söyledi",
-      "long_summary": "Goldman’ın CEO’su Solomon, yapay zeka kaynaklı yazılım satışlarının abartıldığını söyledi",
-      "long_summary_tr": "Goldman’ın CEO’su Solomon, yapay zeka kaynaklı yazılım satışlarının abartıldığını söyledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/goldmann-ceosu-solomon-yapay-zeka-kaynakl-yazlm-satslarnn-abartldgn-soyledi-93CH-3755879",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:48:59+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Morgan Stanley bu fintech hissesinde ’oldukça cazip bir giriş noktası’ görüyor",
-      "title_tr": "Morgan Stanley bu fintech hissesinde ’oldukça cazip bir giriş noktası’ görüyor",
-      "summary": "Morgan Stanley bu fintech hissesinde ’oldukça cazip bir giriş noktası’ görüyor",
-      "summary_tr": "Morgan Stanley bu fintech hissesinde ’oldukça cazip bir giriş noktası’ görüyor",
-      "long_summary": "Morgan Stanley bu fintech hissesinde ’oldukça cazip bir giriş noktası’ görüyor",
-      "long_summary_tr": "Morgan Stanley bu fintech hissesinde ’oldukça cazip bir giriş noktası’ görüyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-bu-fintech-hissesinde-oldukca-cazip-bir-giris-noktas-goruyor-3755865",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:43:53+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "title_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "summary": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "summary_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "long_summary": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "long_summary_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bist-100de-bugun-en-cok-hangi-hisseler-kazandrd-3755860",
-      "image": "https://i-invdn-com.investing.com/news/Istanbul_Stock_Exchange_M_1440056258.jpg",
-      "published_at": "2026-02-10T14:43:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Nebius, yapay zeka arama firması Tavily’yi 275 milyon dolara satın alacak",
-      "title_tr": "Nebius, yapay zeka arama firması Tavily’yi 275 milyon dolara satın alacak",
-      "summary": "Nebius, yapay zeka arama firması Tavily’yi 275 milyon dolara satın alacak",
-      "summary_tr": "Nebius, yapay zeka arama firması Tavily’yi 275 milyon dolara satın alacak",
-      "long_summary": "Nebius, yapay zeka arama firması Tavily’yi 275 milyon dolara satın alacak",
-      "long_summary_tr": "Nebius, yapay zeka arama firması Tavily’yi 275 milyon dolara satın alacak",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/nebius-yapay-zeka-arama-firmas-tavilyyi-275-milyon-dolara-satn-alacak-93CH-3755843",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:40:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Hazine 29,86 milyar TL tutarında kira sertifikası ihrac etti",
-      "title_tr": "Hazine 29,86 milyar TL tutarında kira sertifikası ihrac etti",
-      "summary": "Hazine ve Maliye Bakanlığı'ndan yapılan açıklamaya göre, bugün 29,86 milyar TL tutarında 5 yıl vadeli kira sertifikası ihracı gerçekleştirildi.",
-      "summary_tr": "Hazine ve Maliye Bakanlığı'ndan yapılan açıklamaya göre, bugün 29,86 milyar TL tutarında 5 yıl vadeli kira sertifikası ihracı gerçekleştirildi.",
-      "long_summary": "Hazine ve Maliye Bakanlığı'ndan yapılan açıklamaya göre, bugün 29,86 milyar TL tutarında 5 yıl vadeli kira sertifikası ihracı gerçekleştirildi.",
-      "long_summary_tr": "Hazine ve Maliye Bakanlığı'ndan yapılan açıklamaya göre, bugün 29,86 milyar TL tutarında 5 yıl vadeli kira sertifikası ihracı gerçekleştirildi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/hazine-29-86-milyar-tl-tutarinda-kira-sertifikasi-ihrac-etti-10-02-26?haber_id=698b43142663b328fe323c48&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1770734329671.jpeg",
-      "published_at": "2026-02-10T14:39:16+00:00"
+      "url": "https://www.skysports.com/boxing/news/12040/13505808/fabio-wardley-is-finalising-terms-for-a-wbo-heavyweight-title-defence-against-daniel-dubois-on-may-9",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-fabio-wardley-daniel-dubois_7157357.jpg?20260206124511",
+      "published_at": "2026-02-10T16:32:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -293,65 +381,65 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "THY’den Urumçi’ye sefer kararı",
-      "title_tr": "THY’den Urumçi’ye sefer kararı",
-      "summary": "Türk Hava Yolları (THY), Çin Halk Cumhuriyeti&#039;nin Urumçi şehrine sefer başlatma kararı aldığını duyurdu.",
-      "summary_tr": "Türk Hava Yolları (THY), Çin Halk Cumhuriyeti&#039;nin Urumçi şehrine sefer başlatma kararı aldığını duyurdu.",
-      "long_summary": "Türk Hava Yolları (THY), Çin Halk Cumhuriyeti&#039;nin Urumçi şehrine sefer başlatma kararı aldığını duyurdu.",
-      "long_summary_tr": "Türk Hava Yolları (THY), Çin Halk Cumhuriyeti&#039;nin Urumçi şehrine sefer başlatma kararı aldığını duyurdu.",
+      "title": "Hazine’den 29,9 milyar liralık kira sertifikası ihracı",
+      "title_tr": "Hazine’den 29,9 milyar liralık kira sertifikası ihracı",
+      "summary": "Hazine ve Maliye Bakanlığı, 29 milyar 864,5 milyon liralık kira sertifikası ihraç etti.",
+      "summary_tr": "Hazine ve Maliye Bakanlığı, 29 milyar 864,5 milyon liralık kira sertifikası ihraç etti.",
+      "long_summary": "Hazine ve Maliye Bakanlığı, 29 milyar 864,5 milyon liralık kira sertifikası ihraç etti.",
+      "long_summary_tr": "Hazine ve Maliye Bakanlığı, 29 milyar 864,5 milyon liralık kira sertifikası ihraç etti.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/sirketler/thyden-urumciye-sefer-karari-haberi-814590",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/thy-ttp0_cover.jpg",
-      "published_at": "2026-02-10T14:37:00+00:00"
+      "url": "https://www.dunya.com/ekonomi/hazineden-299-milyar-liralik-kira-sertifikasi-ihraci-haberi-814609",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/hazine-1wio_cover.jpg",
+      "published_at": "2026-02-10T16:30:00+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "Hindistan Devlet Bankası yaklaşan grevin sınırlı etkisi konusunda uyarıda bulundu",
-      "title_tr": "Hindistan Devlet Bankası yaklaşan grevin sınırlı etkisi konusunda uyarıda bulundu",
-      "summary": "Hindistan Devlet Bankası yaklaşan grevin sınırlı etkisi konusunda uyarıda bulundu",
-      "summary_tr": "Hindistan Devlet Bankası yaklaşan grevin sınırlı etkisi konusunda uyarıda bulundu",
-      "long_summary": "Hindistan Devlet Bankası yaklaşan grevin sınırlı etkisi konusunda uyarıda bulundu",
-      "long_summary_tr": "Hindistan Devlet Bankası yaklaşan grevin sınırlı etkisi konusunda uyarıda bulundu",
+      "source": "NTV",
+      "title": "Ucuz atlatıldı. Kamyondaki demirler önündeki araca ok gibi saplandı",
+      "title_tr": "Ucuz atlatıldı. Kamyondaki demirler önündeki araca ok gibi saplandı",
+      "summary": "Eskişehir'de kırmızı ışıkta durmak için fren yapan kamyonun kasasındaki demirler önündeki bekleyen otomobile ok gibi saplandı. Kazada şans eseri yaralanan olmadı.",
+      "summary_tr": "Eskişehir'de kırmızı ışıkta durmak için fren yapan kamyonun kasasındaki demirler önündeki bekleyen otomobile ok gibi saplandı. Kazada şans eseri yaralanan olmadı.",
+      "long_summary": "Eskişehir'de kırmızı ışıkta durmak için fren yapan kamyonun kasasındaki demirler önündeki bekleyen otomobile ok gibi saplandı. Kazada şans eseri yaralanan olmadı.",
+      "long_summary_tr": "Eskişehir'de kırmızı ışıkta durmak için fren yapan kamyonun kasasındaki demirler önündeki bekleyen otomobile ok gibi saplandı. Kazada şans eseri yaralanan olmadı.",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/hindistan-devlet-bankas-yaklasan-grevin-snrl-etkisi-konusunda-uyarda-bulundu-93CH-3755814",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:35:32+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/ucuz-atlatildi-kamyondaki-demirler-onundeki-araca-ok-gibi-saplandi-1711373",
+      "image": "https://images.ntv.com.tr/images/AW639073_01-986682(2).jpg",
+      "published_at": "2026-02-10T16:27:20+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "Phio Pharmaceuticals hisseleri güçlü kanser tedavisi sonuçlarıyla yükseldi",
-      "title_tr": "Phio Pharmaceuticals hisseleri güçlü kanser tedavisi sonuçlarıyla yükseldi",
-      "summary": "Phio Pharmaceuticals hisseleri güçlü kanser tedavisi sonuçlarıyla yükseldi",
-      "summary_tr": "Phio Pharmaceuticals hisseleri güçlü kanser tedavisi sonuçlarıyla yükseldi",
-      "long_summary": "Phio Pharmaceuticals hisseleri güçlü kanser tedavisi sonuçlarıyla yükseldi",
-      "long_summary_tr": "Phio Pharmaceuticals hisseleri güçlü kanser tedavisi sonuçlarıyla yükseldi",
+      "source": "GameSpot",
+      "title": "That New Ridiculously Easy Mode In Final Fantasy 7 Remake Is Coming To Rebirth",
+      "title_tr": "That New Ridiculously Easy Mode In Final Fantasy 7 Remake Is Coming To Rebirth",
+      "summary": "Final Fantasy VII Rebirth will become much easier to complete on PC and PS5 when the RPG arrives June 3 on Switch 2 and Xbox. That's because a ridiculously easy mode that debuted with Final Fantasy VII Remake Intergrade earlier this year is now planned for the second part of the trilogy, too.The official Final Fantasy account on X revealed that Final Fantasy VII Rebirth will get Streamlined Progression options. This means you can switch a toggle to always dish out 9,999 damage, for instance, or have your HP always at its fullest. Square Enix allows for players to mix and match these easy settings, meaning you can choose how relaxing to make the RPG.Streamlined Progression, letting you keep all gauges fully charged and continually hit for 9999 damage is included in the Nintendo Switch 2 and Xbox versions of Final Fantasy VII Rebirth and will be added to the PS5 and PC versions.More details to come soon. pic.twitter.com/ja4r9MZ4IW  — FINAL FANTASY VII (@finalfantasyvii) February 10, 2026              This announcement comes a few weeks after Square Enix updated Final Fantasy VII Remake Intergrade on PS5 and PC with these easy options. That ensured all versions of the RPG were comparable, as the Switch 2 and Xbox versions got Streamlined Progression options, too. Final Fantasy VII Rebirth is one of many Switch 2 games--including Resident Evil Requiem, Pragmata, and 007: First Light--on the way that could fix a long-running Nintendo problem this year.Continue Reading at GameSpot",
+      "summary_tr": "Final Fantasy VII Rebirth will become much easier to complete on PC and PS5 when the RPG arrives June 3 on Switch 2 and Xbox. That's because a ridiculously easy mode that debuted with Final Fantasy VII Remake Intergrade earlier this year is now planned for the second part of the trilogy, too.The official Final Fantasy account on X revealed that Final Fantasy VII Rebirth will get Streamlined Progression options. This means you can switch a toggle to always dish out 9,999 damage, for instance, or have your HP always at its fullest. Square Enix allows for players to mix and match these easy settings, meaning you can choose how relaxing to make the RPG.Streamlined Progression, letting you keep all gauges fully charged and continually hit for 9999 damage is included in the Nintendo Switch 2 and Xbox versions of Final Fantasy VII Rebirth and will be added to the PS5 and PC versions.More details to come soon. pic.twitter.com/ja4r9MZ4IW  — FINAL FANTASY VII (@finalfantasyvii) February 10, 2026              This announcement comes a few weeks after Square Enix updated Final Fantasy VII Remake Intergrade on PS5 and PC with these easy options. That ensured all versions of the RPG were comparable, as the Switch 2 and Xbox versions got Streamlined Progression options, too. Final Fantasy VII Rebirth is one of many Switch 2 games--including Resident Evil Requiem, Pragmata, and 007: First Light--on the way that could fix a long-running Nintendo problem this year.Continue Reading at GameSpot",
+      "long_summary": "Final Fantasy VII Rebirth will become much easier to complete on PC and PS5 when the RPG arrives June 3 on Switch 2 and Xbox. That's because a ridiculously easy mode that debuted with Final Fantasy VII Remake Intergrade earlier this year is now planned for the second part of the trilogy, too.The official Final Fantasy account on X revealed that Final Fantasy VII Rebirth will get Streamlined Progression options. This means you can switch a toggle to always dish out 9,999 damage, for instance, or",
+      "long_summary_tr": "Final Fantasy VII Rebirth will become much easier to complete on PC and PS5 when the RPG arrives June 3 on Switch 2 and Xbox. That's because a ridiculously easy mode that debuted with Final Fantasy VII Remake Intergrade earlier this year is now planned for the second part of the trilogy, too.The official Final Fantasy account on X revealed that Final Fantasy VII Rebirth will get Streamlined Progression options. This means you can switch a toggle to always dish out 9,999 damage, for instance, or",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/phio-pharmaceuticals-hisseleri-guclu-kanser-tedavisi-sonuclaryla-yukseldi-93CH-3755802",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:34:09+00:00"
+      "url": "https://www.gamespot.com/articles/that-new-ridiculously-easy-mode-in-final-fantasy-7-remake-is-coming-to-rebirth/1100-6538069/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1813/18138562/4649622-ff7rebirth.jpg",
+      "published_at": "2026-02-10T16:27:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -359,65 +447,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Captain Itoje returns to England XV to face Scotland",
-      "title_tr": "Captain Itoje returns to England XV to face Scotland",
-      "summary": "Captain Maro Itoje returns to the England starting XV for Saturday's Six Nations match against Scotland in Edinburgh.",
-      "summary_tr": "Captain Maro Itoje returns to the England starting XV for Saturday's Six Nations match against Scotland in Edinburgh.",
-      "long_summary": "Captain Maro Itoje returns to the England starting XV for Saturday's Six Nations match against Scotland in Edinburgh.",
-      "long_summary_tr": "Captain Maro Itoje returns to the England starting XV for Saturday's Six Nations match against Scotland in Edinburgh.",
+      "title": "How history-maker Aswat hopes to inspire others",
+      "title_tr": "How history-maker Aswat hopes to inspire others",
+      "summary": "Aamilah Aswat says she is 'buzzing' after becoming the first female black British jockey to win a UK horse race.\nThe 20-year-old earned her first win at Kempton Park after completing only four races.",
+      "summary_tr": "Aamilah Aswat says she is 'buzzing' after becoming the first female black British jockey to win a UK horse race.\nThe 20-year-old earned her first win at Kempton Park after completing only four races.",
+      "long_summary": "Aamilah Aswat says she is 'buzzing' after becoming the first female black British jockey to win a UK horse race.\nThe 20-year-old earned her first win at Kempton Park after completing only four races.",
+      "long_summary_tr": "Aamilah Aswat says she is 'buzzing' after becoming the first female black British jockey to win a UK horse race.\nThe 20-year-old earned her first win at Kempton Park after completing only four races.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c2e4knn1mezo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83df/live/e230fcb0-0669-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-10T14:31:08+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "How to connect Apple Music to ChatGPT",
-      "title_tr": "How to connect Apple Music to ChatGPT",
-      "summary": "Get some AI inspiration for your playlists on Apple Music.\nThe post How to connect Apple Music to ChatGPT appeared first on Popular Science.",
-      "summary_tr": "Get some AI inspiration for your playlists on Apple Music.\nThe post How to connect Apple Music to ChatGPT appeared first on Popular Science.",
-      "long_summary": "Get some AI inspiration for your playlists on Apple Music.\nThe post How to connect Apple Music to ChatGPT appeared first on Popular Science.",
-      "long_summary_tr": "Get some AI inspiration for your playlists on Apple Music.\nThe post How to connect Apple Music to ChatGPT appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/diy/how-to-connect-apple-music-to-chatgpt/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/apple-music-chatgpt.jpg?quality=85",
-      "published_at": "2026-02-10T14:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "ZA/UM’s New RPG Is Similar To Disco Elysium Because ‘We're Still the Same People’",
-      "title_tr": "ZA/UM’s New RPG Is Similar To Disco Elysium Because ‘We're Still the Same People’",
-      "summary": "Upcoming RPG Zero Parades looks so similar to Disco Elysium because developer ZA/UM is \"still the same people,\" despite controversial staff departures.",
-      "summary_tr": "Upcoming RPG Zero Parades looks so similar to Disco Elysium because developer ZA/UM is \"still the same people,\" despite controversial staff departures.",
-      "long_summary": "Upcoming RPG Zero Parades looks so similar to Disco Elysium because developer ZA/UM is \"still the same people,\" despite controversial staff departures.",
-      "long_summary_tr": "Upcoming RPG Zero Parades looks so similar to Disco Elysium because developer ZA/UM is \"still the same people,\" despite controversial staff departures.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/zaums-new-rpg-is-similar-to-disco-elysium-because-were-still-the-same-people",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/zero-parades-same-people-blogroll-1770725360856.jpg",
-      "published_at": "2026-02-10T14:30:00+00:00"
+      "url": "https://www.bbc.com/sport/horse-racing/videos/c4g75e0z7k4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c95d/live/5a268f10-069b-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-10T16:25:51+00:00"
     },
     {
       "origin": "turkiye",
@@ -425,21 +469,131 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "ABD’de istihdam maliyeti beklentilerin altında arttı",
-      "title_tr": "ABD’de istihdam maliyeti beklentilerin altında arttı",
-      "summary": "ABD&#039;de İstihdam Maliyet Endeksi, geçen yılın dördüncü çeyreğinde yüzde 0,7 ile piyasa beklentilerinin altında artış kaydetti.",
-      "summary_tr": "ABD&#039;de İstihdam Maliyet Endeksi, geçen yılın dördüncü çeyreğinde yüzde 0,7 ile piyasa beklentilerinin altında artış kaydetti.",
-      "long_summary": "ABD&#039;de İstihdam Maliyet Endeksi, geçen yılın dördüncü çeyreğinde yüzde 0,7 ile piyasa beklentilerinin altında artış kaydetti.",
-      "long_summary_tr": "ABD&#039;de İstihdam Maliyet Endeksi, geçen yılın dördüncü çeyreğinde yüzde 0,7 ile piyasa beklentilerinin altında artış kaydetti.",
+      "title": "Ayşe Barım'a ağırlaştırılmış müebbet talebi",
+      "title_tr": "Ayşe Barım'a ağırlaştırılmış müebbet talebi",
+      "summary": "Son dakika haberine göre, menajer Ayşe Barım davasında savcı, Barım hakkında &quot;Hükümeti ortadan kaldırmaya teşebbüs&quot; suçlamasıyla ağırlaştırılmış müebbet hapis cezası talep etti.",
+      "summary_tr": "Son dakika haberine göre, menajer Ayşe Barım davasında savcı, Barım hakkında &quot;Hükümeti ortadan kaldırmaya teşebbüs&quot; suçlamasıyla ağırlaştırılmış müebbet hapis cezası talep etti.",
+      "long_summary": "Son dakika haberine göre, menajer Ayşe Barım davasında savcı, Barım hakkında &quot;Hükümeti ortadan kaldırmaya teşebbüs&quot; suçlamasıyla ağırlaştırılmış müebbet hapis cezası talep etti.",
+      "long_summary_tr": "Son dakika haberine göre, menajer Ayşe Barım davasında savcı, Barım hakkında &quot;Hükümeti ortadan kaldırmaya teşebbüs&quot; suçlamasıyla ağırlaştırılmış müebbet hapis cezası talep etti.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/ekonomi/abdde-istihdam-maliyeti-beklentilerin-altinda-artti-haberi-814587",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/aa1-jga5_cover.jpg",
-      "published_at": "2026-02-10T14:29:00+00:00"
+      "url": "https://www.dunya.com/gundem/ayse-barima-agirlastirilmis-muebbet-talebi-haberi-814608",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/ayse-gzgc_cover.jpg",
+      "published_at": "2026-02-10T16:25:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "HSBC, toparlanmanın şu an için fiyatlandırıldığını belirterek Estée Lauder’ı düşürdü",
+      "title_tr": "HSBC, toparlanmanın şu an için fiyatlandırıldığını belirterek Estée Lauder’ı düşürdü",
+      "summary": "HSBC, toparlanmanın şu an için fiyatlandırıldığını belirterek Estée Lauder’ı düşürdü",
+      "summary_tr": "HSBC, toparlanmanın şu an için fiyatlandırıldığını belirterek Estée Lauder’ı düşürdü",
+      "long_summary": "HSBC, toparlanmanın şu an için fiyatlandırıldığını belirterek Estée Lauder’ı düşürdü",
+      "long_summary_tr": "HSBC, toparlanmanın şu an için fiyatlandırıldığını belirterek Estée Lauder’ı düşürdü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/hsbc-toparlanmann-su-an-icin-fiyatlandrldgn-belirterek-estee-lauder-dusurdu-3756117",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T16:20:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Antonela Roccuzzo on Wellness, Motherhood, and Beauty",
+      "title_tr": "Antonela Roccuzzo on Wellness, Motherhood, and Beauty",
+      "summary": "She’s the new face of Anastasia Beverly Hills.",
+      "summary_tr": "She’s the new face of Anastasia Beverly Hills.",
+      "long_summary": "She’s the new face of Anastasia Beverly Hills.",
+      "long_summary_tr": "She’s the new face of Anastasia Beverly Hills.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/beauty/makeup-skin-care/a70298970/antonela-roccuzzo-wellness-motherhood-anastasia-beverly-hills-interview-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d40a40c2-1be5-4c0a-991f-679770a22667.jpeg",
+      "published_at": "2026-02-10T16:20:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Pilot praised after crash-landing faulty Somali passenger plane on seashore",
+      "title_tr": "Pilot praised after crash-landing faulty Somali passenger plane on seashore",
+      "summary": "The Civil Aviation Authority say it overshot the tarmac after failing to stop on the runway.",
+      "summary_tr": "The Civil Aviation Authority say it overshot the tarmac after failing to stop on the runway.",
+      "long_summary": "The Civil Aviation Authority say it overshot the tarmac after failing to stop on the runway.",
+      "long_summary_tr": "The Civil Aviation Authority say it overshot the tarmac after failing to stop on the runway.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c2d1pz3pxewo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/a1375200-069f-11f1-b5e2-dd58fc65f0f6.jpg",
+      "published_at": "2026-02-10T16:16:30+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Paramount gözünü kararttı: Warner Bros. Discovery’ye yeni teklif",
+      "title_tr": "Paramount gözünü kararttı: Warner Bros. Discovery’ye yeni teklif",
+      "summary": "Medya ve eğlence şirketi Paramount, Warner Bros. Discovery&#039;in tüm hisselerini hisse başına 30 dolar nakit karşılığında satın alma teklifini güçlendirdi.",
+      "summary_tr": "Medya ve eğlence şirketi Paramount, Warner Bros. Discovery&#039;in tüm hisselerini hisse başına 30 dolar nakit karşılığında satın alma teklifini güçlendirdi.",
+      "long_summary": "Medya ve eğlence şirketi Paramount, Warner Bros. Discovery&#039;in tüm hisselerini hisse başına 30 dolar nakit karşılığında satın alma teklifini güçlendirdi.",
+      "long_summary_tr": "Medya ve eğlence şirketi Paramount, Warner Bros. Discovery&#039;in tüm hisselerini hisse başına 30 dolar nakit karşılığında satın alma teklifini güçlendirdi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sirketler/paramount-gozunu-karartti-warner-bros-discoveryye-yeni-teklif-haberi-814607",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/wb-sqyn_cover.jpg",
+      "published_at": "2026-02-10T16:14:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Azerbaycan ve ABD, stratejik ortaklık şartı imzaladı",
+      "title_tr": "Azerbaycan ve ABD, stratejik ortaklık şartı imzaladı",
+      "summary": "ABD Başkan Yardımcısı JD Vance&#039;in Azerbaycan temasları kapsamında iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "summary_tr": "ABD Başkan Yardımcısı JD Vance&#039;in Azerbaycan temasları kapsamında iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "long_summary": "ABD Başkan Yardımcısı JD Vance&#039;in Azerbaycan temasları kapsamında iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "long_summary_tr": "ABD Başkan Yardımcısı JD Vance&#039;in Azerbaycan temasları kapsamında iki ülke arasında stratejik ortaklık şartı imzalandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/azerbaycan-ve-abd-stratejik-ortaklik-sarti-imzaladi-haberi-814606",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/aaazzzz-k6j3_cover.jpg",
+      "published_at": "2026-02-10T16:09:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -447,21 +601,87 @@
       "category_slug": "savunma_askeri",
       "is_local": false,
       "source": "Breaking Defense",
-      "title": "Undersea superiority: ASELSAN’s integrated approach to naval defense",
-      "title_tr": "Undersea superiority: ASELSAN’s integrated approach to naval defense",
-      "summary": "[Sponsored] As global navies adapt to evolving underwater threats, ASELSAN’s integrated sonar, countermeasure, and sonobuoy solutions offer a scalable, future-ready approach.",
-      "summary_tr": "[Sponsored] As global navies adapt to evolving underwater threats, ASELSAN’s integrated sonar, countermeasure, and sonobuoy solutions offer a scalable, future-ready approach.",
-      "long_summary": "[Sponsored] As global navies adapt to evolving underwater threats, ASELSAN’s integrated sonar, countermeasure, and sonobuoy solutions offer a scalable, future-ready approach.",
-      "long_summary_tr": "[Sponsored] As global navies adapt to evolving underwater threats, ASELSAN’s integrated sonar, countermeasure, and sonobuoy solutions offer a scalable, future-ready approach.",
+      "title": "New UN forum seeks busting space traffic cooperation barriers",
+      "title_tr": "New UN forum seeks busting space traffic cooperation barriers",
+      "summary": "US officials say they hope the talks spur greater transparency from China in particular about satellite operations.",
+      "summary_tr": "US officials say they hope the talks spur greater transparency from China in particular about satellite operations.",
+      "long_summary": "US officials say they hope the talks spur greater transparency from China in particular about satellite operations.",
+      "long_summary_tr": "US officials say they hope the talks spur greater transparency from China in particular about satellite operations.",
       "why_important": [
         "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
         "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://breakingdefense.com/2026/02/undersea-superiority-aselsans-integrated-approach-to-naval-defense/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/dufas_aselsan-1024x1000.jpg",
-      "published_at": "2026-02-10T14:28:11+00:00"
+      "url": "https://breakingdefense.com/2026/02/new-un-forum-seeks-busting-space-traffic-cooperation-barriers/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2012/01/space-debris-aerosapce-corps-1326921318.jpg",
+      "published_at": "2026-02-10T16:06:27+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Mewgenics - Guides Hub",
+      "title_tr": "Mewgenics - Guides Hub",
+      "summary": "Are you excited to join the rumble with your cats in Mewgenics? This roguelite game has you coming up with ridiculous builds for your characters, which includes breeding their offspring, selecting their classes, and finding the right skills among hundreds of available options. Throughout your adventure runs, you'll stumble upon unique items, zany events, and terrifying bosses. Progression can be very daunting, which is why we've got a Mewgenics guides hub to help you every step of the way.Table of Contents [hide]Mewgenics guides hubBasics and fur-damentalsMewgenics guides hubBasics and fur-damentalsBeginner's guide - Learn the basic mechanics and understand the core gameplay loop.How to get more food - Gather enough food to keep your cats from starving.Continue Reading at GameSpot",
+      "summary_tr": "Are you excited to join the rumble with your cats in Mewgenics? This roguelite game has you coming up with ridiculous builds for your characters, which includes breeding their offspring, selecting their classes, and finding the right skills among hundreds of available options. Throughout your adventure runs, you'll stumble upon unique items, zany events, and terrifying bosses. Progression can be very daunting, which is why we've got a Mewgenics guides hub to help you every step of the way.Table of Contents [hide]Mewgenics guides hubBasics and fur-damentalsMewgenics guides hubBasics and fur-damentalsBeginner's guide - Learn the basic mechanics and understand the core gameplay loop.How to get more food - Gather enough food to keep your cats from starving.Continue Reading at GameSpot",
+      "long_summary": "Are you excited to join the rumble with your cats in Mewgenics? This roguelite game has you coming up with ridiculous builds for your characters, which includes breeding their offspring, selecting their classes, and finding the right skills among hundreds of available options. Throughout your adventure runs, you'll stumble upon unique items, zany events, and terrifying bosses. Progression can be very daunting, which is why we've got a Mewgenics guides hub to help you every step of the way.Table",
+      "long_summary_tr": "Are you excited to join the rumble with your cats in Mewgenics? This roguelite game has you coming up with ridiculous builds for your characters, which includes breeding their offspring, selecting their classes, and finding the right skills among hundreds of available options. Throughout your adventure runs, you'll stumble upon unique items, zany events, and terrifying bosses. Progression can be very daunting, which is why we've got a Mewgenics guides hub to help you every step of the way.Table",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/mewgenics-guides-hub/1100-6538018/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1816/18167535/4648121-mewgenics-guides-hub.jpg",
+      "published_at": "2026-02-10T16:06:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Çöp ayrıştırma bandında yeni doğmuş bebek cesedi bulundu",
+      "title_tr": "Çöp ayrıştırma bandında yeni doğmuş bebek cesedi bulundu",
+      "summary": "İzmir'de bir katı atık tesisinin ayrıştırma bandında çalışan işçiler tarafından yeni doğmuş bebek cesedi bulundu. Olayla ilgili inceleme başlatıldı.",
+      "summary_tr": "İzmir'de bir katı atık tesisinin ayrıştırma bandında çalışan işçiler tarafından yeni doğmuş bebek cesedi bulundu. Olayla ilgili inceleme başlatıldı.",
+      "long_summary": "İzmir'de bir katı atık tesisinin ayrıştırma bandında çalışan işçiler tarafından yeni doğmuş bebek cesedi bulundu. Olayla ilgili inceleme başlatıldı.",
+      "long_summary_tr": "İzmir'de bir katı atık tesisinin ayrıştırma bandında çalışan işçiler tarafından yeni doğmuş bebek cesedi bulundu. Olayla ilgili inceleme başlatıldı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cop-ayristirma-bandinda-yeni-dogmus-bebek-cesedi-bulundu-1711372",
+      "image": "https://images.ntv.com.tr/images/42870-483189-GHOXKVHQ-6152-644-MMRSYBXQ-4567-479604.jpg",
+      "published_at": "2026-02-10T16:05:02+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump threatens to block opening of US-Canada bridge",
+      "title_tr": "Trump threatens to block opening of US-Canada bridge",
+      "summary": "Prime Minister Mark Carney said on Tuesday he had a \"positive\" talk with Trump following the Gordie Howe International Bridge threat.",
+      "summary_tr": "Prime Minister Mark Carney said on Tuesday he had a \"positive\" talk with Trump following the Gordie Howe International Bridge threat.",
+      "long_summary": "Prime Minister Mark Carney said on Tuesday he had a \"positive\" talk with Trump following the Gordie Howe International Bridge threat.",
+      "long_summary_tr": "Prime Minister Mark Carney said on Tuesday he had a \"positive\" talk with Trump following the Gordie Howe International Bridge threat.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cpw052pkvl0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc88/live/535a3030-0617-11f1-b653-2f014e2e8e4d.jpg",
+      "published_at": "2026-02-10T16:03:47+00:00"
     },
     {
       "origin": "turkiye",
@@ -469,263 +689,21 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
-      "title": "Paramount, Warner Bros. Discovery’a yönelik devralma teklifini iyileştirdi",
-      "title_tr": "Paramount, Warner Bros. Discovery’a yönelik devralma teklifini iyileştirdi",
-      "summary": "Paramount, Warner Bros. Discovery’a yönelik devralma teklifini iyileştirdi",
-      "summary_tr": "Paramount, Warner Bros. Discovery’a yönelik devralma teklifini iyileştirdi",
-      "long_summary": "Paramount, Warner Bros. Discovery’a yönelik devralma teklifini iyileştirdi",
-      "long_summary_tr": "Paramount, Warner Bros. Discovery’a yönelik devralma teklifini iyileştirdi",
+      "title": "TABLO- BIST şirketlerinin beklenen 12 aylık bilanço açıklama tarihleri",
+      "title_tr": "TABLO- BIST şirketlerinin beklenen 12 aylık bilanço açıklama tarihleri",
+      "summary": "TABLO- BIST şirketlerinin beklenen 12 aylık bilanço açıklama tarihleri",
+      "summary_tr": "TABLO- BIST şirketlerinin beklenen 12 aylık bilanço açıklama tarihleri",
+      "long_summary": "TABLO- BIST şirketlerinin beklenen 12 aylık bilanço açıklama tarihleri",
+      "long_summary_tr": "TABLO- BIST şirketlerinin beklenen 12 aylık bilanço açıklama tarihleri",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/paramount-warner-bros-discoverya-yonelik-devralma-teklifini-iyilestirdi-3755789",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:27:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Epic Games Kış İndirimi: Fiyatı Düşen Türkçe Dil Destekli Oyunlar",
-      "title_tr": "Epic Games Kış İndirimi: Fiyatı Düşen Türkçe Dil Destekli Oyunlar",
-      "summary": "Epic Games kış indirimleri başladı. Biz de sizler için indirimlerde fiyatı düşen Türkçe dil destekli oyunları listeledik.",
-      "summary_tr": "Epic Games kış indirimleri başladı. Biz de sizler için indirimlerde fiyatı düşen Türkçe dil destekli oyunları listeledik.",
-      "long_summary": "Epic Games kış indirimleri başladı. Biz de sizler için indirimlerde fiyatı düşen Türkçe dil destekli oyunları listeledik.",
-      "long_summary_tr": "Epic Games kış indirimleri başladı. Biz de sizler için indirimlerde fiyatı düşen Türkçe dil destekli oyunları listeledik.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/2026-epic-games-kis-indirimi-fiyati-dusen-turkce-dil-destekli-oyunlar-h212161.html",
-      "image": "https://imgrosetta.webtekno.com/file/648388/648388-640xauto.jpg",
-      "published_at": "2026-02-10T14:26:39+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Epic Games Kış İndirimi: Fiyatı Düşen Multiplayer Oyunlar",
-      "title_tr": "Epic Games Kış İndirimi: Fiyatı Düşen Multiplayer Oyunlar",
-      "summary": "Epic Games'in Kış İndirimi resmen başladı. İndirimde arkadaşlarınızla hiç sıkılmadan oynayabileceğiniz multiplayer oyunların da fiyatı düştü.",
-      "summary_tr": "Epic Games'in Kış İndirimi resmen başladı. İndirimde arkadaşlarınızla hiç sıkılmadan oynayabileceğiniz multiplayer oyunların da fiyatı düştü.",
-      "long_summary": "Epic Games'in Kış İndirimi resmen başladı. İndirimde arkadaşlarınızla hiç sıkılmadan oynayabileceğiniz multiplayer oyunların da fiyatı düştü.",
-      "long_summary_tr": "Epic Games'in Kış İndirimi resmen başladı. İndirimde arkadaşlarınızla hiç sıkılmadan oynayabileceğiniz multiplayer oyunların da fiyatı düştü.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/2026-epic-games-kis-indirimi-multiplayer-oyunlar-h212155.html",
-      "image": "https://imgrosetta.webtekno.com/file/648373/648373-640xauto.jpg",
-      "published_at": "2026-02-10T14:26:29+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "OPPO, İyi Özellikleri Sudan Ucuza Sunacak Telefonu K14x 5G'yi Duyurdu: İşte Fiyatı!",
-      "title_tr": "OPPO, İyi Özellikleri Sudan Ucuza Sunacak Telefonu K14x 5G'yi Duyurdu: İşte Fiyatı!",
-      "summary": "OPPO, bütçe dostu tüketicilere hitap eden yeni telefonu K14x 5G'yi duyurdu. Aşırı uygun fiyata günlük işleri rahatlıkla karşılayabilecek telefon, satışa sunulduğu ülkelerde ilgi görmeyi başaracak gibi görünüyor. İşte OPPO K14x 5G'nin özellikleri ve fiyatı...",
-      "summary_tr": "OPPO, bütçe dostu tüketicilere hitap eden yeni telefonu K14x 5G'yi duyurdu. Aşırı uygun fiyata günlük işleri rahatlıkla karşılayabilecek telefon, satışa sunulduğu ülkelerde ilgi görmeyi başaracak gibi görünüyor. İşte OPPO K14x 5G'nin özellikleri ve fiyatı...",
-      "long_summary": "OPPO, bütçe dostu tüketicilere hitap eden yeni telefonu K14x 5G'yi duyurdu. Aşırı uygun fiyata günlük işleri rahatlıkla karşılayabilecek telefon, satışa sunulduğu ülkelerde ilgi görmeyi başaracak gibi görünüyor. İşte OPPO K14x 5G'nin özellikleri ve fiyatı...",
-      "long_summary_tr": "OPPO, bütçe dostu tüketicilere hitap eden yeni telefonu K14x 5G'yi duyurdu. Aşırı uygun fiyata günlük işleri rahatlıkla karşılayabilecek telefon, satışa sunulduğu ülkelerde ilgi görmeyi başaracak gibi görünüyor. İşte OPPO K14x 5G'nin özellikleri ve fiyatı...",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/oppo-k14x-5g-ozellik-fiyat-h212162.html",
-      "image": "https://imgrosetta.webtekno.com/file/648382/648382-640xauto.jpg",
-      "published_at": "2026-02-10T14:26:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "WhatsApp Web'in Merakla Beklenen Özelliği Kullanıma Sunuldu!",
-      "title_tr": "WhatsApp Web'in Merakla Beklenen Özelliği Kullanıma Sunuldu!",
-      "summary": "WhatsApp'ın bir süredir gündemde olan yeni bir özelliği, kullanıcılara ulaşmaya başladı. Bu özellik sayesinde kullanıcılar, WhatsApp Web oturumlarında sesli ve görüntülü görüşmeler gerçekleştirebilecekler.",
-      "summary_tr": "WhatsApp'ın bir süredir gündemde olan yeni bir özelliği, kullanıcılara ulaşmaya başladı. Bu özellik sayesinde kullanıcılar, WhatsApp Web oturumlarında sesli ve görüntülü görüşmeler gerçekleştirebilecekler.",
-      "long_summary": "WhatsApp'ın bir süredir gündemde olan yeni bir özelliği, kullanıcılara ulaşmaya başladı. Bu özellik sayesinde kullanıcılar, WhatsApp Web oturumlarında sesli ve görüntülü görüşmeler gerçekleştirebilecekler.",
-      "long_summary_tr": "WhatsApp'ın bir süredir gündemde olan yeni bir özelliği, kullanıcılara ulaşmaya başladı. Bu özellik sayesinde kullanıcılar, WhatsApp Web oturumlarında sesli ve görüntülü görüşmeler gerçekleştirebilecekler.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/whatsapp-web-sesli-goruntulu-gorusme-h212163.html",
-      "image": "https://imgrosetta.webtekno.com/file/648387/648387-640xauto.jpg",
-      "published_at": "2026-02-10T14:26:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Epic Games Kış İndirimi: Fiyatı Düşen Hikâyeli Oyunlar",
-      "title_tr": "Epic Games Kış İndirimi: Fiyatı Düşen Hikâyeli Oyunlar",
-      "summary": "Epic Games'in çok beklenen Kış İndirimi başladı. Biz de bu kampanyada fiyatı düşen hikâyeli oyunları sizler için derledik.",
-      "summary_tr": "Epic Games'in çok beklenen Kış İndirimi başladı. Biz de bu kampanyada fiyatı düşen hikâyeli oyunları sizler için derledik.",
-      "long_summary": "Epic Games'in çok beklenen Kış İndirimi başladı. Biz de bu kampanyada fiyatı düşen hikâyeli oyunları sizler için derledik.",
-      "long_summary_tr": "Epic Games'in çok beklenen Kış İndirimi başladı. Biz de bu kampanyada fiyatı düşen hikâyeli oyunları sizler için derledik.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/2026-epic-games-kis-indirimi-hikayeli-oyunlar-h212157.html",
-      "image": "https://imgrosetta.webtekno.com/file/648375/648375-640xauto.jpg",
-      "published_at": "2026-02-10T14:25:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Arc Raiders Pushes Cooperation Over PvP In New Shared Watch Event",
-      "title_tr": "Arc Raiders Pushes Cooperation Over PvP In New Shared Watch Event",
-      "summary": "Arc Raiders players are being encouraged to team up for increased merits in Shared Watch, a new limited-time event designed to remind fans that the Arc machines are the real enemy. This launches alongside the new 1.15.0 update, patch notes for which you can see below.From now until February 24, PvP encounters won't generate any merits for players. Instead, players can earn merits by damaging and destroying Arc machines, or by assisting in their destruction. This event will debut two new cosmetic sets: The Vulpine set and The Slugger set.Additionally, Cold Snap has been added back to the rotation of outdoor map conditions. The intense cold can inflict frostbite damage on players if they linger too long, but there are greater rewards for those who take the risk. Players can also lob snowballs at each other.Continue Reading at GameSpot",
-      "summary_tr": "Arc Raiders players are being encouraged to team up for increased merits in Shared Watch, a new limited-time event designed to remind fans that the Arc machines are the real enemy. This launches alongside the new 1.15.0 update, patch notes for which you can see below.From now until February 24, PvP encounters won't generate any merits for players. Instead, players can earn merits by damaging and destroying Arc machines, or by assisting in their destruction. This event will debut two new cosmetic sets: The Vulpine set and The Slugger set.Additionally, Cold Snap has been added back to the rotation of outdoor map conditions. The intense cold can inflict frostbite damage on players if they linger too long, but there are greater rewards for those who take the risk. Players can also lob snowballs at each other.Continue Reading at GameSpot",
-      "long_summary": "Arc Raiders players are being encouraged to team up for increased merits in Shared Watch, a new limited-time event designed to remind fans that the Arc machines are the real enemy. This launches alongside the new 1.15.0 update, patch notes for which you can see below.From now until February 24, PvP encounters won't generate any merits for players. Instead, players can earn merits by damaging and destroying Arc machines, or by assisting in their destruction. This event will debut two new",
-      "long_summary_tr": "Arc Raiders players are being encouraged to team up for increased merits in Shared Watch, a new limited-time event designed to remind fans that the Arc machines are the real enemy. This launches alongside the new 1.15.0 update, patch notes for which you can see below.From now until February 24, PvP encounters won't generate any merits for players. Instead, players can earn merits by damaging and destroying Arc machines, or by assisting in their destruction. This event will debut two new",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/arc-raiders-pushes-cooperation-over-pvp-in-new-shared-watch-event/1100-6538056/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4649531-arcraiderssharedwatch.jpg",
-      "published_at": "2026-02-10T14:24:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "New Game From Valheim Devs, Begraved, Now Has A Demo",
-      "title_tr": "New Game From Valheim Devs, Begraved, Now Has A Demo",
-      "summary": "Valheim is still in early access five years after its debut, but a small handful of devs behind that game are now ready to debut the demo for their next title, Begraved. This first-person co-op dungeon-crawler is available on Steam, and the creative team is looking for some feedback.          Begraved is the first game from Grip Jaw, an independent studio formed by Valheim creative director Robin Eyre, vice president Emilia Oscarsson, and designer Andreas Tomasson. Players are cast as Gravebound, lost souls whose debt to the Taxman extends beyond the grave. To escape their crushing obligations, they are forced to enter cursed tombs in an attempt to survive long enough to escape with any loot they can carry. But some treasures require two hands to handle, and that's going to make it hard to evade the angry spirits you've unleashed by stealing from them.Begraved's tombs are procedurally generated areas with support for five-player co-op and proximity voice chat. The current build of the game supports both solo and co-opt playthroughs in two complete zones, with upgrades and hideouts already incorporated into the game. The eventual 1.0 release will include two additional zones, as well as new enemies, relics, and afflictions.Continue Reading at GameSpot",
-      "summary_tr": "Valheim is still in early access five years after its debut, but a small handful of devs behind that game are now ready to debut the demo for their next title, Begraved. This first-person co-op dungeon-crawler is available on Steam, and the creative team is looking for some feedback.          Begraved is the first game from Grip Jaw, an independent studio formed by Valheim creative director Robin Eyre, vice president Emilia Oscarsson, and designer Andreas Tomasson. Players are cast as Gravebound, lost souls whose debt to the Taxman extends beyond the grave. To escape their crushing obligations, they are forced to enter cursed tombs in an attempt to survive long enough to escape with any loot they can carry. But some treasures require two hands to handle, and that's going to make it hard to evade the angry spirits you've unleashed by stealing from them.Begraved's tombs are procedurally generated areas with support for five-player co-op and proximity voice chat. The current build of the game supports both solo and co-opt playthroughs in two complete zones, with upgrades and hideouts already incorporated into the game. The eventual 1.0 release will include two additional zones, as well as new enemies, relics, and afflictions.Continue Reading at GameSpot",
-      "long_summary": "Valheim is still in early access five years after its debut, but a small handful of devs behind that game are now ready to debut the demo for their next title, Begraved. This first-person co-op dungeon-crawler is available on Steam, and the creative team is looking for some feedback.          Begraved is the first game from Grip Jaw, an independent studio formed by Valheim creative director Robin Eyre, vice president Emilia Oscarsson, and designer Andreas Tomasson. Players are cast as",
-      "long_summary_tr": "Valheim is still in early access five years after its debut, but a small handful of devs behind that game are now ready to debut the demo for their next title, Begraved. This first-person co-op dungeon-crawler is available on Steam, and the creative team is looking for some feedback.          Begraved is the first game from Grip Jaw, an independent studio formed by Valheim creative director Robin Eyre, vice president Emilia Oscarsson, and designer Andreas Tomasson. Players are cast as",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/new-game-from-valheim-devs-begraved-now-has-a-demo/1100-6538057/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4649540-begraved.jpg",
-      "published_at": "2026-02-10T14:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Alman otomotiv sektöründen Brüksel'e suçlama",
-      "title_tr": "Alman otomotiv sektöründen Brüksel'e suçlama",
-      "summary": "Alman Otomobilciler Birliği (VDA) Başkanı Hildegard Müller, yüksek maliyetler ve Brüksel'in \"gerçeklikten kopuk\" düzenlemeleri nedeniyle sektörün tarihi bir kırılma noktasında olduğunu belirterek, yatırımların ve istihdamın hızla yurt dışına kaydığı uyarısında bulundu.",
-      "summary_tr": "Alman Otomobilciler Birliği (VDA) Başkanı Hildegard Müller, yüksek maliyetler ve Brüksel'in \"gerçeklikten kopuk\" düzenlemeleri nedeniyle sektörün tarihi bir kırılma noktasında olduğunu belirterek, yatırımların ve istihdamın hızla yurt dışına kaydığı uyarısında bulundu.",
-      "long_summary": "Alman Otomobilciler Birliği (VDA) Başkanı Hildegard Müller, yüksek maliyetler ve Brüksel'in \"gerçeklikten kopuk\" düzenlemeleri nedeniyle sektörün tarihi bir kırılma noktasında olduğunu belirterek, yatırımların ve istihdamın hızla yurt dışına kaydığı uyarısında bulundu.",
-      "long_summary_tr": "Alman Otomobilciler Birliği (VDA) Başkanı Hildegard Müller, yüksek maliyetler ve Brüksel'in \"gerçeklikten kopuk\" düzenlemeleri nedeniyle sektörün tarihi bir kırılma noktasında olduğunu belirterek, yatırımların ve istihdamın hızla yurt dışına kaydığı uyarısında bulundu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/alman-otomotiv-sektorunden-bruksel-e-suclama-3768781",
-      "image": null,
-      "published_at": "2026-02-10T14:15:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "MicroStrategy Bitcoin alımlarına devam edecek, elindeki varlıkları satmayacak",
-      "title_tr": "MicroStrategy Bitcoin alımlarına devam edecek, elindeki varlıkları satmayacak",
-      "summary": "MicroStrategy Bitcoin alımlarına devam edecek, elindeki varlıkları satmayacak",
-      "summary_tr": "MicroStrategy Bitcoin alımlarına devam edecek, elindeki varlıkları satmayacak",
-      "long_summary": "MicroStrategy Bitcoin alımlarına devam edecek, elindeki varlıkları satmayacak",
-      "long_summary_tr": "MicroStrategy Bitcoin alımlarına devam edecek, elindeki varlıkları satmayacak",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/microstrategy-bitcoin-almlarna-devam-edecek-elindeki-varlklar-satmayacak-93CH-3755719",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-10T14:15:17+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Next Game From Split Fiction Team Cooking Now, Will Be \"Really Delicious,\" Dev Says",
-      "title_tr": "Next Game From Split Fiction Team Cooking Now, Will Be \"Really Delicious,\" Dev Says",
-      "summary": "After announcing a year ago that Hazelight had \"already started\" development on its next game, it seems things are continuing to progress.\"We're back in the kitchen, cookin' up something really delicious!\" Hazelight said in a social media post. Hazelight's Josef Fares also shared an image of himself in some kind of studio, with his arm outstretched strategically to block the faces of three performers. He captioned the image, \"Next game in the making.\" Hazelight's post jokingly referenced the new game having \"Strategic Arm Placement Tech.\"Work began on Hazelight's next game in February 2025. At the time, Fares said the game was \"quite early\" in development. He said the team is feeling like they can do \"way better\" with the next game, whatever it turns out to be.Continue Reading at GameSpot",
-      "summary_tr": "After announcing a year ago that Hazelight had \"already started\" development on its next game, it seems things are continuing to progress.\"We're back in the kitchen, cookin' up something really delicious!\" Hazelight said in a social media post. Hazelight's Josef Fares also shared an image of himself in some kind of studio, with his arm outstretched strategically to block the faces of three performers. He captioned the image, \"Next game in the making.\" Hazelight's post jokingly referenced the new game having \"Strategic Arm Placement Tech.\"Work began on Hazelight's next game in February 2025. At the time, Fares said the game was \"quite early\" in development. He said the team is feeling like they can do \"way better\" with the next game, whatever it turns out to be.Continue Reading at GameSpot",
-      "long_summary": "After announcing a year ago that Hazelight had \"already started\" development on its next game, it seems things are continuing to progress.\"We're back in the kitchen, cookin' up something really delicious!\" Hazelight said in a social media post. Hazelight's Josef Fares also shared an image of himself in some kind of studio, with his arm outstretched strategically to block the faces of three performers. He captioned the image, \"Next game in the making.\" Hazelight's post jokingly referenced the",
-      "long_summary_tr": "After announcing a year ago that Hazelight had \"already started\" development on its next game, it seems things are continuing to progress.\"We're back in the kitchen, cookin' up something really delicious!\" Hazelight said in a social media post. Hazelight's Josef Fares also shared an image of himself in some kind of studio, with his arm outstretched strategically to block the faces of three performers. He captioned the image, \"Next game in the making.\" Hazelight's post jokingly referenced the",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/next-game-from-split-fiction-team-cooking-now-will-be-really-delicious-dev-says/1100-6538060/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4649569-screenshot2026-02-10at9.34.41%E2%80%AFam.png",
-      "published_at": "2026-02-10T14:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Zonguldak Alaplı’da uyuşturucu operasyonunda 2 tutuklama",
-      "title_tr": "Zonguldak Alaplı’da uyuşturucu operasyonunda 2 tutuklama",
-      "summary": "Zonguldak’ın Alaplı ilçesinde Emniyet Asayiş ekiplerince durdurulan araçta uyuşturucuyla yakalanan 2 kişi tutuklandı.Zonguldak'ın Alaplı İlçe Emniyet Asayiş ekiplerinin uyuşturucu tacirlerine yönelik çalışmaları aralıksız sürüyor. Bu kapsamda ekipler, Alaplı ilçe merkezinde bir otomobili şüphe üzerine durdurdu. Araçta yapılan aramada poşet içerisinde sarılı halde 22 gram uyuşturucu madde ile 11 adet uyuşturucu hap ele geçirildi. Ele geçirilen uyuşturucu maddeler muhafaza altına alındı. Olayla ilgili uyuşturucu madde imal ve ticareti suçlaması ile hakim karşısına çıkan A.B ile G.A, şüpheli tutuklanarak Beycuma cezaevine gönderildi.",
-      "summary_tr": "Zonguldak’ın Alaplı ilçesinde Emniyet Asayiş ekiplerince durdurulan araçta uyuşturucuyla yakalanan 2 kişi tutuklandı.Zonguldak'ın Alaplı İlçe Emniyet Asayiş ekiplerinin uyuşturucu tacirlerine yönelik çalışmaları aralıksız sürüyor. Bu kapsamda ekipler, Alaplı ilçe merkezinde bir otomobili şüphe üzerine durdurdu. Araçta yapılan aramada poşet içerisinde sarılı halde 22 gram uyuşturucu madde ile 11 adet uyuşturucu hap ele geçirildi. Ele geçirilen uyuşturucu maddeler muhafaza altına alındı. Olayla ilgili uyuşturucu madde imal ve ticareti suçlaması ile hakim karşısına çıkan A.B ile G.A, şüpheli tutuklanarak Beycuma cezaevine gönderildi.",
-      "long_summary": "Zonguldak’ın Alaplı ilçesinde Emniyet Asayiş ekiplerince durdurulan araçta uyuşturucuyla yakalanan 2 kişi tutuklandı.Zonguldak'ın Alaplı İlçe Emniyet Asayiş ekiplerinin uyuşturucu tacirlerine yönelik çalışmaları aralıksız sürüyor. Bu kapsamda ekipler, Alaplı ilçe merkezinde bir otomobili şüphe üzerine durdurdu. Araçta yapılan aramada poşet içerisinde sarılı halde 22 gram uyuşturucu madde ile 11 adet uyuşturucu hap ele geçirildi. Ele geçirilen uyuşturucu maddeler muhafaza altına alındı. Olayla",
-      "long_summary_tr": "Zonguldak’ın Alaplı ilçesinde Emniyet Asayiş ekiplerince durdurulan araçta uyuşturucuyla yakalanan 2 kişi tutuklandı.Zonguldak'ın Alaplı İlçe Emniyet Asayiş ekiplerinin uyuşturucu tacirlerine yönelik çalışmaları aralıksız sürüyor. Bu kapsamda ekipler, Alaplı ilçe merkezinde bir otomobili şüphe üzerine durdurdu. Araçta yapılan aramada poşet içerisinde sarılı halde 22 gram uyuşturucu madde ile 11 adet uyuşturucu hap ele geçirildi. Ele geçirilen uyuşturucu maddeler muhafaza altına alındı. Olayla",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/zonguldak-alapli-da-uyusturucu-operasyonunda-2-tutuklama-1575005",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/zonguldak-alapli-da-uyusturucu-operasyonunda-2-tutuklama-1770735890-107_large.webp",
-      "published_at": "2026-02-10T14:08:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/tablo-bist-sirketlerinin-beklenen-12-aylk-bilanco-acklama-tarihleri-3756081",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB66095_M.jpg",
+      "published_at": "2026-02-10T16:00:32+00:00"
     },
     {
       "origin": "yabanci",
@@ -733,197 +711,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Italy races to gold in mixed speed skating relay",
-      "title_tr": "Italy races to gold in mixed speed skating relay",
-      "summary": "Italy take gold in the mixed speed skating relay with Canada taking silver, Belgium taking bronze and defending champions China missing out the podium altogether.",
-      "summary_tr": "Italy take gold in the mixed speed skating relay with Canada taking silver, Belgium taking bronze and defending champions China missing out the podium altogether.",
-      "long_summary": "Italy take gold in the mixed speed skating relay with Canada taking silver, Belgium taking bronze and defending champions China missing out the podium altogether.",
-      "long_summary_tr": "Italy take gold in the mixed speed skating relay with Canada taking silver, Belgium taking bronze and defending champions China missing out the podium altogether.",
+      "title": "Grand National 'the dream' for role model Aswat",
+      "title_tr": "Grand National 'the dream' for role model Aswat",
+      "summary": "Aamilah Aswat says racing in the Grand National is \"still the dream\", having made history last week as the first black female British jump jockey to win a UK race.",
+      "summary_tr": "Aamilah Aswat says racing in the Grand National is \"still the dream\", having made history last week as the first black female British jump jockey to win a UK race.",
+      "long_summary": "Aamilah Aswat says racing in the Grand National is \"still the dream\", having made history last week as the first black female British jump jockey to win a UK race.",
+      "long_summary_tr": "Aamilah Aswat says racing in the Grand National is \"still the dream\", having made history last week as the first black female British jump jockey to win a UK race.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/videos/cx2j50y5q35o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc4b/live/decd4730-0688-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-10T14:06:52+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "McKinsey, 20 milyar dolarlık yatırım birimini devrediyor",
-      "title_tr": "McKinsey, 20 milyar dolarlık yatırım birimini devrediyor",
-      "summary": "Danışmanlık şirketi McKinsey, 20 milyar dolarlık yatırım biriminin kontrolünü Neuberger Berman'a devretmeyi kabul etti. McKinsey, MIO Partners olarak bilinen fon yöneticisi için yaklaşık bir yıldır gelen seçenekleri değerlendiriyordu.",
-      "summary_tr": "Danışmanlık şirketi McKinsey, 20 milyar dolarlık yatırım biriminin kontrolünü Neuberger Berman'a devretmeyi kabul etti. McKinsey, MIO Partners olarak bilinen fon yöneticisi için yaklaşık bir yıldır gelen seçenekleri değerlendiriyordu.",
-      "long_summary": "Danışmanlık şirketi McKinsey, 20 milyar dolarlık yatırım biriminin kontrolünü Neuberger Berman'a devretmeyi kabul etti. McKinsey, MIO Partners olarak bilinen fon yöneticisi için yaklaşık bir yıldır gelen seçenekleri değerlendiriyordu.",
-      "long_summary_tr": "Danışmanlık şirketi McKinsey, 20 milyar dolarlık yatırım biriminin kontrolünü Neuberger Berman'a devretmeyi kabul etti. McKinsey, MIO Partners olarak bilinen fon yöneticisi için yaklaşık bir yıldır gelen seçenekleri değerlendiriyordu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/mckinsey-20-milyar-dolarlik-yatirim-birimini-neuberger-devredecek-3768779",
-      "image": null,
-      "published_at": "2026-02-10T14:06:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Konya polisinden zehir sevkiyatına darbe: Binlerce hap ele geçirildi",
-      "title_tr": "Konya polisinden zehir sevkiyatına darbe: Binlerce hap ele geçirildi",
-      "summary": "Konya'nın Ereğli ilçesinde polis ekiplerinin düzenlediği uyuşturucu operasyonunda 16 bin 541 adet sentetik ecza ele geçirildi, 3 kişi tutuklandı.Konya Emniyet Müdürlüğü'nün uyuşturucuyla mücadelesi hız kesmeden devam ediyor. Ereğli Narkotik Suçlarla Mücadele Büro Amirliği ekipleri, sokak satıcıları, uyuşturucu kullanıcıları ve ticaretini yapan şahıs ve gruplara yönelik çalışmalarını sürdürüyor. Ekiplerin çalışmalarıyla, Adana'dan yola çıkan iki aracın Ereğli ilçesine uyuşturucu madde getireceği yönünde duyum alınması üzerine harekete geçildi. Gerçekleştirilen sıkı takip sonucu Ereğli'ye girdikleri esnada durdurulan araçlardan birinde bulunan M.Ö. ve O.E. isimli şahıslar yakalandı. Aynı operasyon kapsamında diğer araçla seyir halinde olan E.Ş. ve S.K. isimli şahıslar da durduruldu. Şahıslardan S.K. polis ekiplerini fark etmesi üzerine araçtan atlayarak kaçarken, E.Ş. isimli şüpheli gözaltına alındı.\n\n16 BİN 541 SENTETİK ECZA HAP ELE GEÇİRİLDİ\n\nŞahıslar ve araçlarda yapılan aramalarda toplam 16 bin 541 adet sentetik ecza hap ele geçirildi. Olayla ilgili olarak M.Ö., O.E. ve E.Ş. isimli şahıslarla firari S.K. hakkında, \"Uyuşturucu veya Uyarıcı Madde Ticareti\" suçu ile \"Kullanmak İçin Uyuşturucu Madde Bulundurma\" suçları kapsamında tahkikat başlatıldı. Yakalanan 3 şahıs tutuklanarak cezaevine gönderilirken, firari S.K.'nin yakalanmasına yönelik çalışmaların devam ettiği öğrenildi.",
-      "summary_tr": "Konya'nın Ereğli ilçesinde polis ekiplerinin düzenlediği uyuşturucu operasyonunda 16 bin 541 adet sentetik ecza ele geçirildi, 3 kişi tutuklandı.Konya Emniyet Müdürlüğü'nün uyuşturucuyla mücadelesi hız kesmeden devam ediyor. Ereğli Narkotik Suçlarla Mücadele Büro Amirliği ekipleri, sokak satıcıları, uyuşturucu kullanıcıları ve ticaretini yapan şahıs ve gruplara yönelik çalışmalarını sürdürüyor. Ekiplerin çalışmalarıyla, Adana'dan yola çıkan iki aracın Ereğli ilçesine uyuşturucu madde getireceği yönünde duyum alınması üzerine harekete geçildi. Gerçekleştirilen sıkı takip sonucu Ereğli'ye girdikleri esnada durdurulan araçlardan birinde bulunan M.Ö. ve O.E. isimli şahıslar yakalandı. Aynı operasyon kapsamında diğer araçla seyir halinde olan E.Ş. ve S.K. isimli şahıslar da durduruldu. Şahıslardan S.K. polis ekiplerini fark etmesi üzerine araçtan atlayarak kaçarken, E.Ş. isimli şüpheli gözaltına alındı.\n\n16 BİN 541 SENTETİK ECZA HAP ELE GEÇİRİLDİ\n\nŞahıslar ve araçlarda yapılan aramalarda toplam 16 bin 541 adet sentetik ecza hap ele geçirildi. Olayla ilgili olarak M.Ö., O.E. ve E.Ş. isimli şahıslarla firari S.K. hakkında, \"Uyuşturucu veya Uyarıcı Madde Ticareti\" suçu ile \"Kullanmak İçin Uyuşturucu Madde Bulundurma\" suçları kapsamında tahkikat başlatıldı. Yakalanan 3 şahıs tutuklanarak cezaevine gönderilirken, firari S.K.'nin yakalanmasına yönelik çalışmaların devam ettiği öğrenildi.",
-      "long_summary": "Konya'nın Ereğli ilçesinde polis ekiplerinin düzenlediği uyuşturucu operasyonunda 16 bin 541 adet sentetik ecza ele geçirildi, 3 kişi tutuklandı.Konya Emniyet Müdürlüğü'nün uyuşturucuyla mücadelesi hız kesmeden devam ediyor. Ereğli Narkotik Suçlarla Mücadele Büro Amirliği ekipleri, sokak satıcıları, uyuşturucu kullanıcıları ve ticaretini yapan şahıs ve gruplara yönelik çalışmalarını sürdürüyor. Ekiplerin çalışmalarıyla, Adana'dan yola çıkan iki aracın Ereğli ilçesine uyuşturucu madde getireceği",
-      "long_summary_tr": "Konya'nın Ereğli ilçesinde polis ekiplerinin düzenlediği uyuşturucu operasyonunda 16 bin 541 adet sentetik ecza ele geçirildi, 3 kişi tutuklandı.Konya Emniyet Müdürlüğü'nün uyuşturucuyla mücadelesi hız kesmeden devam ediyor. Ereğli Narkotik Suçlarla Mücadele Büro Amirliği ekipleri, sokak satıcıları, uyuşturucu kullanıcıları ve ticaretini yapan şahıs ve gruplara yönelik çalışmalarını sürdürüyor. Ekiplerin çalışmalarıyla, Adana'dan yola çıkan iki aracın Ereğli ilçesine uyuşturucu madde getireceği",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/konya-polisinden-zehir-sevkiyatina-darbe-binlerce-hap-ele-gecirildi-1575003",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/konya-polisinden-zehir-sevkiyatina-darbe-binlerce-hap-ele-gecirildi-1770735585-40_large.webp",
-      "published_at": "2026-02-10T14:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD'de perakende satışlar aralıkta yatay seyretti",
-      "title_tr": "ABD'de perakende satışlar aralıkta yatay seyretti",
-      "summary": "ABD&#039;de perakende satışlar, geçen yıl aralıkta artması yönündeki beklentilerin aksine değişim kaydetmedi.",
-      "summary_tr": "ABD&#039;de perakende satışlar, geçen yıl aralıkta artması yönündeki beklentilerin aksine değişim kaydetmedi.",
-      "long_summary": "ABD&#039;de perakende satışlar, geçen yıl aralıkta artması yönündeki beklentilerin aksine değişim kaydetmedi.",
-      "long_summary_tr": "ABD&#039;de perakende satışlar, geçen yıl aralıkta artması yönündeki beklentilerin aksine değişim kaydetmedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/abdde-perakende-satislar-aralikta-yatay-seyretti-haberi-814583",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/t1-ckdd_cover.jpg",
-      "published_at": "2026-02-10T14:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İzmir TOKİ kura çekimi ne zaman? TOKİ İzmir nihai liste yayımlandı mı, başvuru sonuçları ne zaman açıklanacak?",
-      "title_tr": "İzmir TOKİ kura çekimi ne zaman? TOKİ İzmir nihai liste yayımlandı mı, başvuru sonuçları ne zaman açıklanacak?",
-      "summary": "Asrın projesinde kura çekimleri devam ediyor. 3 büyük ilin ise kura tören tarihleri belli olmadı. İzmir&#039;de de 21 bin 20 konut inşa edilecek. İzmirliler takvimi öğrenmek adına &quot;İzmir TOKİ kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "summary_tr": "Asrın projesinde kura çekimleri devam ediyor. 3 büyük ilin ise kura tören tarihleri belli olmadı. İzmir&#039;de de 21 bin 20 konut inşa edilecek. İzmirliler takvimi öğrenmek adına &quot;İzmir TOKİ kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "long_summary": "Asrın projesinde kura çekimleri devam ediyor. 3 büyük ilin ise kura tören tarihleri belli olmadı. İzmir&#039;de de 21 bin 20 konut inşa edilecek. İzmirliler takvimi öğrenmek adına &quot;İzmir TOKİ kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "long_summary_tr": "Asrın projesinde kura çekimleri devam ediyor. 3 büyük ilin ise kura tören tarihleri belli olmadı. İzmir&#039;de de 21 bin 20 konut inşa edilecek. İzmirliler takvimi öğrenmek adına &quot;İzmir TOKİ kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/izmir-toki-kura-cekimi-ne-zaman-toki-izmir-nihai-liste-yayimlandi-mi-basvuru-sonuclari-ne-zaman-aciklanacak-haberi-814584",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/izmir-toki-ubtu_cover.png",
-      "published_at": "2026-02-10T14:05:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Autocar",
-      "title": "MG 4 EV",
-      "title_tr": "MG 4 EV",
-      "summary": "Mid-life overhaul for value-champion electric hatchback brings refreshed interior and updated batteries\n\nThe MG 4 EV was and remains the car that represented MG switching gears. Decent range and superb value for money have ensured it a spot in the top five best-selling EVs for several years now, and so common a sight are these cars on our roads that no longer does anyone wonder what exactly that 'angular-looking hatchback with the pronounced rear spoiler' over there is.For the 2026 model year, some mid-life alterations have been made, chiefly to the cabin and the battery options, as we will explore in a moment.MG has chosen this moment to introduce the changes because of the arrival of its 'budget 4', the Urban, and because there are now a lot more competitors in the market that there were in 2022.The update also has an implication on price, but not in the way you're probably expecting. Range at a glanceThe 4 was launched with two powertrains and two trim levels. The standard-range model, called simply the MG 4 EV, had a 51kWh battery and 168bhp, while the Long Range model was rated at 201bhp and carried a 64kWh battery.About a year later, those were joined by the 77kWh Extended Range and the dual-motor, four-wheel-drive XPower.For 2026 on, the 51kWh Standard Range battery is no longer offered at all. Moreover, the entry-level SE version of the 64kWh Long Range model is also canned.The new line-up starts with the 64kWh Premium Long Range, rising to the 77kWh Premium Extended Range, and tops out with the 64kWh dual-motor XPower.VersionPowerMG 4 EV Long Range 64kWh188bhpMG 4 EV Extended Range 77kWh241bhpMG 4 EV Xpower 64kWh429bhpMG 4 EV standard Range 51kWhDiscont.",
-      "summary_tr": "Mid-life overhaul for value-champion electric hatchback brings refreshed interior and updated batteries\n\nThe MG 4 EV was and remains the car that represented MG switching gears. Decent range and superb value for money have ensured it a spot in the top five best-selling EVs for several years now, and so common a sight are these cars on our roads that no longer does anyone wonder what exactly that 'angular-looking hatchback with the pronounced rear spoiler' over there is.For the 2026 model year, some mid-life alterations have been made, chiefly to the cabin and the battery options, as we will explore in a moment.MG has chosen this moment to introduce the changes because of the arrival of its 'budget 4', the Urban, and because there are now a lot more competitors in the market that there were in 2022.The update also has an implication on price, but not in the way you're probably expecting. Range at a glanceThe 4 was launched with two powertrains and two trim levels. The standard-range model, called simply the MG 4 EV, had a 51kWh battery and 168bhp, while the Long Range model was rated at 201bhp and carried a 64kWh battery.About a year later, those were joined by the 77kWh Extended Range and the dual-motor, four-wheel-drive XPower.For 2026 on, the 51kWh Standard Range battery is no longer offered at all. Moreover, the entry-level SE version of the 64kWh Long Range model is also canned.The new line-up starts with the 64kWh Premium Long Range, rising to the 77kWh Premium Extended Range, and tops out with the 64kWh dual-motor XPower.VersionPowerMG 4 EV Long Range 64kWh188bhpMG 4 EV Extended Range 77kWh241bhpMG 4 EV Xpower 64kWh429bhpMG 4 EV standard Range 51kWhDiscont.",
-      "long_summary": "Mid-life overhaul for value-champion electric hatchback brings refreshed interior and updated batteries\n\nThe MG 4 EV was and remains the car that represented MG switching gears. Decent range and superb value for money have ensured it a spot in the top five best-selling EVs for several years now, and so common a sight are these cars on our roads that no longer does anyone wonder what exactly that 'angular-looking hatchback with the pronounced rear spoiler' over there is.For the 2026 model year,",
-      "long_summary_tr": "Mid-life overhaul for value-champion electric hatchback brings refreshed interior and updated batteries\n\nThe MG 4 EV was and remains the car that represented MG switching gears. Decent range and superb value for money have ensured it a spot in the top five best-selling EVs for several years now, and so common a sight are these cars on our roads that no longer does anyone wonder what exactly that 'angular-looking hatchback with the pronounced rear spoiler' over there is.For the 2026 model year,",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://www.autocar.co.uk/car-review/mg-motor/4-ev",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/mg4-review-047.jpg?itok=lk_Pt3Uw",
-      "published_at": "2026-02-10T14:03:44+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Mardin'de müstakil evde çıkan yangın söndürüldü",
-      "title_tr": "Mardin'de müstakil evde çıkan yangın söndürüldü",
-      "summary": "Mardin'in Kızıltepe ilçesinde müstakil bir evde çıkan yangın söndürüldü.Yangın Erikli Mahallesi'nde müstakil bir evde meydana geldi. Edinilen bilgiye göre, henüz belirlenemeyen bir nedenle evde yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü. Evde maddi hasar meydana gelirken dumandan kimse etkilenmedi.",
-      "summary_tr": "Mardin'in Kızıltepe ilçesinde müstakil bir evde çıkan yangın söndürüldü.Yangın Erikli Mahallesi'nde müstakil bir evde meydana geldi. Edinilen bilgiye göre, henüz belirlenemeyen bir nedenle evde yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü. Evde maddi hasar meydana gelirken dumandan kimse etkilenmedi.",
-      "long_summary": "Mardin'in Kızıltepe ilçesinde müstakil bir evde çıkan yangın söndürüldü.Yangın Erikli Mahallesi'nde müstakil bir evde meydana geldi. Edinilen bilgiye göre, henüz belirlenemeyen bir nedenle evde yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü. Evde maddi hasar meydana gelirken dumandan kimse etkilenmedi.",
-      "long_summary_tr": "Mardin'in Kızıltepe ilçesinde müstakil bir evde çıkan yangın söndürüldü.Yangın Erikli Mahallesi'nde müstakil bir evde meydana geldi. Edinilen bilgiye göre, henüz belirlenemeyen bir nedenle evde yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesiyle yangın söndürüldü. Evde maddi hasar meydana gelirken dumandan kimse etkilenmedi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/mardin-de-mustakil-evde-cikan-yangin-sonduruldu-1575001",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/10/mardin-de-mustakil-evde-cikan-yangin-sonduruldu-1770735533-64_large.webp",
-      "published_at": "2026-02-10T14:03:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "German startup aims to deliver European hypersonic strike by 2029",
-      "title_tr": "German startup aims to deliver European hypersonic strike by 2029",
-      "summary": "Hypersonica says it uses military-grade components from suppliers, as the company notched a successful test flight in Norway.",
-      "summary_tr": "Hypersonica says it uses military-grade components from suppliers, as the company notched a successful test flight in Norway.",
-      "long_summary": "Hypersonica says it uses military-grade components from suppliers, as the company notched a successful test flight in Norway.",
-      "long_summary_tr": "Hypersonica says it uses military-grade components from suppliers, as the company notched a successful test flight in Norway.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/global/europe/2026/02/10/german-startup-aims-to-deliver-european-hypersonic-strike-by-2029/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ARAOAMVY7REVPBEHYUCMYDV6LA.jpg",
-      "published_at": "2026-02-10T14:01:37+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Apple ve Google Adil Olma Sözü Verdi!",
-      "title_tr": "Apple ve Google Adil Olma Sözü Verdi!",
-      "summary": "İngiltere Rekabet ve Piyasalar Otoritesi tarafından yürütülen soruşturma sonucunda teknoloji dünyasının iki devi geri adım attı. Apple ve Google uygulama mağazalarını geliştiriciler için daha adil ve şeffaf hale getirmeyi amaçlayan bir dizi değişikliği kabul ettiğini duyurdu. Bu hamle mobil platformlardaki rekabet ortamını canlandırmayı ve geliştiricilerin haklarını korumayı hedefliyor. iPhone 17e Türkiye Fiyatı Ne Kadar Olacak? […]",
-      "summary_tr": "İngiltere Rekabet ve Piyasalar Otoritesi tarafından yürütülen soruşturma sonucunda teknoloji dünyasının iki devi geri adım attı. Apple ve Google uygulama mağazalarını geliştiriciler için daha adil ve şeffaf hale getirmeyi amaçlayan bir dizi değişikliği kabul ettiğini duyurdu. Bu hamle mobil platformlardaki rekabet ortamını canlandırmayı ve geliştiricilerin haklarını korumayı hedefliyor. iPhone 17e Türkiye Fiyatı Ne Kadar Olacak? […]",
-      "long_summary": "İngiltere Rekabet ve Piyasalar Otoritesi tarafından yürütülen soruşturma sonucunda teknoloji dünyasının iki devi geri adım attı. Apple ve Google uygulama mağazalarını geliştiriciler için daha adil ve şeffaf hale getirmeyi amaçlayan bir dizi değişikliği kabul ettiğini duyurdu. Bu hamle mobil platformlardaki rekabet ortamını canlandırmayı ve geliştiricilerin haklarını korumayı hedefliyor. iPhone 17e Türkiye Fiyatı Ne Kadar Olacak? […]",
-      "long_summary_tr": "İngiltere Rekabet ve Piyasalar Otoritesi tarafından yürütülen soruşturma sonucunda teknoloji dünyasının iki devi geri adım attı. Apple ve Google uygulama mağazalarını geliştiriciler için daha adil ve şeffaf hale getirmeyi amaçlayan bir dizi değişikliği kabul ettiğini duyurdu. Bu hamle mobil platformlardaki rekabet ortamını canlandırmayı ve geliştiricilerin haklarını korumayı hedefliyor. iPhone 17e Türkiye Fiyatı Ne Kadar Olacak? […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/apple-ve-google-adil-olma-sozu-verdi",
-      "image": null,
-      "published_at": "2026-02-10T14:00:50+00:00"
+      "url": "https://www.bbc.com/sport/horse-racing/articles/c3v7k3d26exo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a43/live/73e7f6d0-069d-11f1-b5e2-dd58fc65f0f6.jpg",
+      "published_at": "2026-02-10T16:00:27+00:00"
     },
     {
       "origin": "yabanci",
@@ -931,87 +733,21 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "Tell Me Lies Season 3, Episode 7 Recap: Two Can Play This Game",
-      "title_tr": "Tell Me Lies Season 3, Episode 7 Recap: Two Can Play This Game",
-      "summary": "The penultimate episode of season 3 briefly allows Lucy to hold the power.",
-      "summary_tr": "The penultimate episode of season 3 briefly allows Lucy to hold the power.",
-      "long_summary": "The penultimate episode of season 3 briefly allows Lucy to hold the power.",
-      "long_summary_tr": "The penultimate episode of season 3 briefly allows Lucy to hold the power.",
+      "title": "Nina Garcia’s Insider Guide to Cusco",
+      "title_tr": "Nina Garcia’s Insider Guide to Cusco",
+      "summary": "Nina Garcia’s Insider Guide to Cusco",
+      "summary_tr": "Nina Garcia’s Insider Guide to Cusco",
+      "long_summary": "Nina Garcia’s Insider Guide to Cusco",
+      "long_summary_tr": "Nina Garcia’s Insider Guide to Cusco",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/culture/movies-tv/a70290704/tell-me-lies-season-3-episode-7-recap-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d6399a33-f734-4de1-8b53-5e3e85e76d36.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Frankie Belle Stark Is Making Her Mark in St. Barths",
-      "title_tr": "Frankie Belle Stark Is Making Her Mark in St. Barths",
-      "summary": "The youngest member of the Chrome Hearts family is finding a lane of her own.",
-      "summary_tr": "The youngest member of the Chrome Hearts family is finding a lane of her own.",
-      "long_summary": "The youngest member of the Chrome Hearts family is finding a lane of her own.",
-      "long_summary_tr": "The youngest member of the Chrome Hearts family is finding a lane of her own.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/a70273413/frankie-belle-stark-dipped-in-blue-st-barths-interview-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0f044b9b-3ead-4cf9-ab3a-d7893a2fc890.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Hailey Bieber Wants Every Woman to Own This One Dress",
-      "title_tr": "Hailey Bieber Wants Every Woman to Own This One Dress",
-      "summary": "It’s an icon for a reason.",
-      "summary_tr": "It’s an icon for a reason.",
-      "long_summary": "It’s an icon for a reason.",
-      "long_summary_tr": "It’s an icon for a reason.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a70289123/hailey-bieber-dkny-spring-2026-interview/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/163fbe64-6c96-4c8b-bc6b-aac8ac31661a.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "How do birds stay warm in winter?",
-      "title_tr": "How do birds stay warm in winter?",
-      "summary": "Puffing up is just the start.\nThe post How do birds stay warm in winter? appeared first on Popular Science.",
-      "summary_tr": "Puffing up is just the start.\nThe post How do birds stay warm in winter? appeared first on Popular Science.",
-      "long_summary": "Puffing up is just the start.\nThe post How do birds stay warm in winter? appeared first on Popular Science.",
-      "long_summary_tr": "Puffing up is just the start.\nThe post How do birds stay warm in winter? appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/how-birds-keep-warm-in-winter/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/how-birds-stay-warm-in-winterm-snow.jpg?quality=85",
-      "published_at": "2026-02-10T14:00:00+00:00"
+      "url": "https://www.elle.com/culture/travel-food/a70293828/nina-garcia-insider-guide-cusco-peru/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/mountain-view-experience-jpg-698b523b47ea7.jpg",
+      "published_at": "2026-02-10T16:00:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -1019,65 +755,65 @@
       "category_slug": "oyun_dijital",
       "is_local": false,
       "source": "IGN",
-      "title": "First Freedom: The Story of Opal Lee and Juneteenth Delivers the Origin Story of an American Holiday",
-      "title_tr": "First Freedom: The Story of Opal Lee and Juneteenth Delivers the Origin Story of an American Holiday",
-      "summary": "The new Oni Press graphic novel First Freedom: The Story of Opal Lee and Juneteenth reveals the origin story of an American holiday. Learn more in our exclusive preview.",
-      "summary_tr": "The new Oni Press graphic novel First Freedom: The Story of Opal Lee and Juneteenth reveals the origin story of an American holiday. Learn more in our exclusive preview.",
-      "long_summary": "The new Oni Press graphic novel First Freedom: The Story of Opal Lee and Juneteenth reveals the origin story of an American holiday. Learn more in our exclusive preview.",
-      "long_summary_tr": "The new Oni Press graphic novel First Freedom: The Story of Opal Lee and Juneteenth reveals the origin story of an American holiday. Learn more in our exclusive preview.",
+      "title": "Magic's Next Precon Deck Is Teenage Mutant Ninja Turtle Themed, and It's Already Discounted Just a Few Weeks From Launch",
+      "title_tr": "Magic's Next Precon Deck Is Teenage Mutant Ninja Turtle Themed, and It's Already Discounted Just a Few Weeks From Launch",
+      "summary": "The Turtle Power preconstructed deck for Magic: The Gathering's next set is already seeing a $10 discount.",
+      "summary_tr": "The Turtle Power preconstructed deck for Magic: The Gathering's next set is already seeing a $10 discount.",
+      "long_summary": "The Turtle Power preconstructed deck for Magic: The Gathering's next set is already seeing a $10 discount.",
+      "long_summary_tr": "The Turtle Power preconstructed deck for Magic: The Gathering's next set is already seeing a $10 discount.",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.ign.com/articles/first-freedom-the-story-of-opal-lee-and-juneteenth-delivers-the-origin-story-of-an-american-holiday",
-      "image": "https://assets-prd.ignimgs.com/2026/02/09/mixcollage-09-feb-2026-04-51-pm-8867-1770673899685.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
+      "url": "https://www.ign.com/articles/magic-the-gathering-next-precon-deck-is-teenage-mutant-ninja-turtle-themed-and-its-already-discounted-just-a-few-weeks-from-launch",
+      "image": "https://assets-prd.ignimgs.com/2026/02/10/tmnt-commander-deck-deal-ign-1770733746471.png",
+      "published_at": "2026-02-10T16:00:00+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Oyun / Dijital",
       "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "IGN",
-      "title": "Mario Tennis Fever Review",
-      "title_tr": "Mario Tennis Fever Review",
-      "summary": "It’s a familiar pattern: chaotic multiplayer fun let down by a bland adventure mode.",
-      "summary_tr": "It’s a familiar pattern: chaotic multiplayer fun let down by a bland adventure mode.",
-      "long_summary": "It’s a familiar pattern: chaotic multiplayer fun let down by a bland adventure mode.",
-      "long_summary_tr": "It’s a familiar pattern: chaotic multiplayer fun let down by a bland adventure mode.",
+      "source": "GameSpot",
+      "title": "Why Resident Evil’s Most Painfully Awkward Hero Is Actually Its Best",
+      "title_tr": "Why Resident Evil’s Most Painfully Awkward Hero Is Actually Its Best",
+      "summary": "If there’s one thing Resident Evil is known for, outside of zombies, it’s action heroes with impeccable hair and impressive catalogs of one-liners. Who could ever forget fending off hordes of crazed villagers in Resident Evil 4, only to have Leon say, “Where’s everyone going, bingo?” There’s an edge of “cool” that has become integral to Resident Evil over the decades, but after the debacle of Resident Evil 6, Capcom knew it had to do something different.Ethan Winters is not cool. He’s more the absence of cool than anything--a dad joke dressed up as an action hero. But perhaps what’s most amazing is how all that invariably turns him into one of the most compelling protagonists of the series’ history. Ethan is likable in spite of himself, and a surprisingly meaningful piece of the puzzle in how Resident Evil 7 and Village redefined the franchise’s tone while still keeping its heart alive. Sometimes, horror games don’t need an action hero; they just need a dude.Ethan isn’t a highly trained specialist, he’s not a member of an anti-terrorist organization, or even a cop--he’s a systems engineer. Oh, you didn’t know he’s a systems engineer? That’s because the game itself never tells you that. Perhaps the most apt way to define Ethan Winters is as Resident Evil’s “wife guy.” What I mean by that is that Ethan’s entire identity is tied to his relationships, along with the driving force behind all of his actions. For all intents and purposes, Ethan really is just some guy--a milquetoast middle-of-the-road average dude who just happened to fall in love with and marry a woman who worked on horrific bioweapons. But in a world where zombie apocalypses happen every few years, maybe that’s not so weird. Mia is the one wrapped up in the ongoing soap opera about freakish creatures; Ethan’s just along for the ride.Continue Reading at GameSpot",
+      "summary_tr": "If there’s one thing Resident Evil is known for, outside of zombies, it’s action heroes with impeccable hair and impressive catalogs of one-liners. Who could ever forget fending off hordes of crazed villagers in Resident Evil 4, only to have Leon say, “Where’s everyone going, bingo?” There’s an edge of “cool” that has become integral to Resident Evil over the decades, but after the debacle of Resident Evil 6, Capcom knew it had to do something different.Ethan Winters is not cool. He’s more the absence of cool than anything--a dad joke dressed up as an action hero. But perhaps what’s most amazing is how all that invariably turns him into one of the most compelling protagonists of the series’ history. Ethan is likable in spite of himself, and a surprisingly meaningful piece of the puzzle in how Resident Evil 7 and Village redefined the franchise’s tone while still keeping its heart alive. Sometimes, horror games don’t need an action hero; they just need a dude.Ethan isn’t a highly trained specialist, he’s not a member of an anti-terrorist organization, or even a cop--he’s a systems engineer. Oh, you didn’t know he’s a systems engineer? That’s because the game itself never tells you that. Perhaps the most apt way to define Ethan Winters is as Resident Evil’s “wife guy.” What I mean by that is that Ethan’s entire identity is tied to his relationships, along with the driving force behind all of his actions. For all intents and purposes, Ethan really is just some guy--a milquetoast middle-of-the-road average dude who just happened to fall in love with and marry a woman who worked on horrific bioweapons. But in a world where zombie apocalypses happen every few years, maybe that’s not so weird. Mia is the one wrapped up in the ongoing soap opera about freakish creatures; Ethan’s just along for the ride.Continue Reading at GameSpot",
+      "long_summary": "If there’s one thing Resident Evil is known for, outside of zombies, it’s action heroes with impeccable hair and impressive catalogs of one-liners. Who could ever forget fending off hordes of crazed villagers in Resident Evil 4, only to have Leon say, “Where’s everyone going, bingo?” There’s an edge of “cool” that has become integral to Resident Evil over the decades, but after the debacle of Resident Evil 6, Capcom knew it had to do something different.Ethan Winters is not cool. He’s more the",
+      "long_summary_tr": "If there’s one thing Resident Evil is known for, outside of zombies, it’s action heroes with impeccable hair and impressive catalogs of one-liners. Who could ever forget fending off hordes of crazed villagers in Resident Evil 4, only to have Leon say, “Where’s everyone going, bingo?” There’s an edge of “cool” that has become integral to Resident Evil over the decades, but after the debacle of Resident Evil 6, Capcom knew it had to do something different.Ethan Winters is not cool. He’s more the",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.ign.com/articles/mario-tennis-fever-review",
-      "image": "https://assets-prd.ignimgs.com/2026/02/09/fxpo1skm6w1pz3r0qvmwmdbm9xvnv4zsk9vebolzveu-1770671074847.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
+      "url": "https://www.gamespot.com/articles/why-resident-evils-most-painfully-awkward-hero-is-actually-its-best/1100-6538051/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4649322-ethanwinters.jpg",
+      "published_at": "2026-02-10T16:00:00+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Oyun / Dijital",
       "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "IGN",
-      "title": "Romeo is a Dead Man Review",
-      "title_tr": "Romeo is a Dead Man Review",
-      "summary": "This sure is a Suda51 joint, all right.",
-      "summary_tr": "This sure is a Suda51 joint, all right.",
-      "long_summary": "This sure is a Suda51 joint, all right.",
-      "long_summary_tr": "This sure is a Suda51 joint, all right.",
+      "source": "GameSpot",
+      "title": "This Tactics Game Takes The Baldur's Gate 3 Approach To Tabletop RPG Adaptation",
+      "title_tr": "This Tactics Game Takes The Baldur's Gate 3 Approach To Tabletop RPG Adaptation",
+      "summary": "There are two ways developers can go with a tabletop-game-to-video-game adaptation. They can go the Gloomhaven route, and directly recreate the tabletop game in digital form, or they can go in Baldur's Gate 3's direction by taking the world, lore, and general vibe as inspiration for a whole new experience. Terrinoth: Heroes of Descent follows that second option.Announced today by The Dungeon of Naheulbeuk: The Amulet of Chaos developer Artefacts Studio and Waven publisher New Tales, Terrinoth is a tactical RPG based on Fantasy Flight Games' Descent tabletop universe, more specifically Descent: Legends of the Dark. Ahead of its announcement, GameSpot had the chance to play two early missions in Terrinoth: Heroes of Descent and speak to its developers, and we learned why Artefacts Studio took the road traveled by Baldur's Gate 3 and not Gloomhaven.The party screen seen between missions in Terrinoth: Heroes of DescentTerrinoth: Heroes of Descent is technically a prequel to Descent: Legends of the Dark, following a ragtag group of tabletop RPG character-archetype clichés as they fight off thieves, undead, vampires, and other evil forces ravaging the titular world. While the original tabletop game has players placing tiles to build dungeons and frequently interfacing with a mobile companion app, Terrinoth: Heroes of Descent is a tactical RPG with an original story and neither of those features.Continue Reading at GameSpot",
+      "summary_tr": "There are two ways developers can go with a tabletop-game-to-video-game adaptation. They can go the Gloomhaven route, and directly recreate the tabletop game in digital form, or they can go in Baldur's Gate 3's direction by taking the world, lore, and general vibe as inspiration for a whole new experience. Terrinoth: Heroes of Descent follows that second option.Announced today by The Dungeon of Naheulbeuk: The Amulet of Chaos developer Artefacts Studio and Waven publisher New Tales, Terrinoth is a tactical RPG based on Fantasy Flight Games' Descent tabletop universe, more specifically Descent: Legends of the Dark. Ahead of its announcement, GameSpot had the chance to play two early missions in Terrinoth: Heroes of Descent and speak to its developers, and we learned why Artefacts Studio took the road traveled by Baldur's Gate 3 and not Gloomhaven.The party screen seen between missions in Terrinoth: Heroes of DescentTerrinoth: Heroes of Descent is technically a prequel to Descent: Legends of the Dark, following a ragtag group of tabletop RPG character-archetype clichés as they fight off thieves, undead, vampires, and other evil forces ravaging the titular world. While the original tabletop game has players placing tiles to build dungeons and frequently interfacing with a mobile companion app, Terrinoth: Heroes of Descent is a tactical RPG with an original story and neither of those features.Continue Reading at GameSpot",
+      "long_summary": "There are two ways developers can go with a tabletop-game-to-video-game adaptation. They can go the Gloomhaven route, and directly recreate the tabletop game in digital form, or they can go in Baldur's Gate 3's direction by taking the world, lore, and general vibe as inspiration for a whole new experience. Terrinoth: Heroes of Descent follows that second option.Announced today by The Dungeon of Naheulbeuk: The Amulet of Chaos developer Artefacts Studio and Waven publisher New Tales, Terrinoth",
+      "long_summary_tr": "There are two ways developers can go with a tabletop-game-to-video-game adaptation. They can go the Gloomhaven route, and directly recreate the tabletop game in digital form, or they can go in Baldur's Gate 3's direction by taking the world, lore, and general vibe as inspiration for a whole new experience. Terrinoth: Heroes of Descent follows that second option.Announced today by The Dungeon of Naheulbeuk: The Amulet of Chaos developer Artefacts Studio and Waven publisher New Tales, Terrinoth",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.ign.com/articles/romeo-is-a-dead-man-review",
-      "image": "https://assets-prd.ignimgs.com/2026/02/09/romeoisadeadman-review-blogroll-1770679919742.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
+      "url": "https://www.gamespot.com/articles/this-tactics-game-takes-the-baldurs-gate-3-approach-to-tabletop-rpg-adaptation/1100-6538047/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1849/18498836/4648740-terrinothheroesofdescent.jpg",
+      "published_at": "2026-02-10T16:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -1085,21 +821,285 @@
       "category_slug": "otomobil",
       "is_local": false,
       "source": "Motor1",
-      "title": "Elektrikli Ferrari, \"her açıdan farklı\" olacak",
-      "title_tr": "Elektrikli Ferrari, \"her açıdan farklı\" olacak",
-      "summary": "\"Elektrikli bir araba değil, elektrikli bir Ferrari.\"",
-      "summary_tr": "\"Elektrikli bir araba değil, elektrikli bir Ferrari.\"",
-      "long_summary": "\"Elektrikli bir araba değil, elektrikli bir Ferrari.\"",
-      "long_summary_tr": "\"Elektrikli bir araba değil, elektrikli bir Ferrari.\"",
+      "title": "Toyota, yeni CEO'suyla yeni bir yola giriyor",
+      "title_tr": "Toyota, yeni CEO'suyla yeni bir yola giriyor",
+      "summary": "Kenta Kon, 1 Nisan 2026’dan itibaren CEO oluyor, Koji Sato ise başkan yardımcısı rolüne geçiyor.",
+      "summary_tr": "Kenta Kon, 1 Nisan 2026’dan itibaren CEO oluyor, Koji Sato ise başkan yardımcısı rolüne geçiyor.",
+      "long_summary": "Kenta Kon, 1 Nisan 2026’dan itibaren CEO oluyor, Koji Sato ise başkan yardımcısı rolüne geçiyor.",
+      "long_summary_tr": "Kenta Kon, 1 Nisan 2026’dan itibaren CEO oluyor, Koji Sato ise başkan yardımcısı rolüne geçiyor.",
       "why_important": [
         "Ulaşım ve araç kullanımını etkilemesi"
       ],
       "possible_impacts": [
         "Araç piyasasında fiyat ve talep dengeleri değişebilir"
       ],
-      "url": "https://tr.motor1.com/news/786874/ferrari-ev-her-acidan-farkli/",
-      "image": "https://cdn.motor1.com/images/mgl/6ZeyBl/s3/ferrari-luce-interior.jpg",
-      "published_at": "2026-02-10T14:00:00+00:00"
+      "url": "https://tr.motor1.com/news/786895/toyota-yeni-ceo-yeni-yol/",
+      "image": "https://cdn.motor1.com/images/mgl/JOZpxX/s3/nuovo-toyota-hilux-al-salone-di-bruxelles-2026---hilux-invincible-48-v.jpg",
+      "published_at": "2026-02-10T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Mateta knee injury 'not as bad as feared'",
+      "title_tr": "Mateta knee injury 'not as bad as feared'",
+      "summary": "The knee injury which scuppered Jean-Philippe Mateta's move to AC Milan last month is \"not as bad as feared\" and he will not need surgery, says Crystal Palace manager Oliver Glasner.",
+      "summary_tr": "The knee injury which scuppered Jean-Philippe Mateta's move to AC Milan last month is \"not as bad as feared\" and he will not need surgery, says Crystal Palace manager Oliver Glasner.",
+      "long_summary": "The knee injury which scuppered Jean-Philippe Mateta's move to AC Milan last month is \"not as bad as feared\" and he will not need surgery, says Crystal Palace manager Oliver Glasner.",
+      "long_summary_tr": "The knee injury which scuppered Jean-Philippe Mateta's move to AC Milan last month is \"not as bad as feared\" and he will not need surgery, says Crystal Palace manager Oliver Glasner.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cvg1lrvn1lyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c16/live/49587bc0-0697-11f1-9c2e-13936a78ae9c.jpg",
+      "published_at": "2026-02-10T15:56:01+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Bu şirket ’küresel para transferini dijitalleştiriyor’, BofA diyor ve Al tavsiyesi veriyor",
+      "title_tr": "Bu şirket ’küresel para transferini dijitalleştiriyor’, BofA diyor ve Al tavsiyesi veriyor",
+      "summary": "Bu şirket ’küresel para transferini dijitalleştiriyor’, BofA diyor ve Al tavsiyesi veriyor",
+      "summary_tr": "Bu şirket ’küresel para transferini dijitalleştiriyor’, BofA diyor ve Al tavsiyesi veriyor",
+      "long_summary": "Bu şirket ’küresel para transferini dijitalleştiriyor’, BofA diyor ve Al tavsiyesi veriyor",
+      "long_summary_tr": "Bu şirket ’küresel para transferini dijitalleştiriyor’, BofA diyor ve Al tavsiyesi veriyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/bu-sirket-kuresel-para-transferini-dijitallestiriyor-bofa-diyor-ve-al-tavsiyesi-veriyor-3756077",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T15:54:33+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Paramount'tan Warner Bros.'a tazminat teklifi",
+      "title_tr": "Paramount'tan Warner Bros.'a tazminat teklifi",
+      "summary": "Paramount, Warner Bros. Discovery Inc.'nin Netflix ile yaptığı anlaşmadan vazgeçmesi halinde doğacak tazminatın karşılanacağını teklif etti.",
+      "summary_tr": "Paramount, Warner Bros. Discovery Inc.'nin Netflix ile yaptığı anlaşmadan vazgeçmesi halinde doğacak tazminatın karşılanacağını teklif etti.",
+      "long_summary": "Paramount, Warner Bros. Discovery Inc.'nin Netflix ile yaptığı anlaşmadan vazgeçmesi halinde doğacak tazminatın karşılanacağını teklif etti.",
+      "long_summary_tr": "Paramount, Warner Bros. Discovery Inc.'nin Netflix ile yaptığı anlaşmadan vazgeçmesi halinde doğacak tazminatın karşılanacağını teklif etti.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/paramount-tan-warner-bros-a-tazminat-teklifi-3768790",
+      "image": null,
+      "published_at": "2026-02-10T15:52:26+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Wells Fargo 2026’da kredi büyümesi bekliyor, kartlara ve otomobil kredilerine odaklanıyor",
+      "title_tr": "Wells Fargo 2026’da kredi büyümesi bekliyor, kartlara ve otomobil kredilerine odaklanıyor",
+      "summary": "Wells Fargo 2026’da kredi büyümesi bekliyor, kartlara ve otomobil kredilerine odaklanıyor",
+      "summary_tr": "Wells Fargo 2026’da kredi büyümesi bekliyor, kartlara ve otomobil kredilerine odaklanıyor",
+      "long_summary": "Wells Fargo 2026’da kredi büyümesi bekliyor, kartlara ve otomobil kredilerine odaklanıyor",
+      "long_summary_tr": "Wells Fargo 2026’da kredi büyümesi bekliyor, kartlara ve otomobil kredilerine odaklanıyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/wells-fargo-2026da-kredi-buyumesi-bekliyor-kartlara-ve-otomobil-kredilerine-odaklanyor-93CH-3756066",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T15:52:17+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Kill Bill: The Whole Bloody Affair Is Coming to Digital Sooner Than You Think",
+      "title_tr": "Kill Bill: The Whole Bloody Affair Is Coming to Digital Sooner Than You Think",
+      "summary": "The ultimate version of Quentin Tarantino's fourth film, Kill Bill, now officially has a VOD release date.",
+      "summary_tr": "The ultimate version of Quentin Tarantino's fourth film, Kill Bill, now officially has a VOD release date.",
+      "long_summary": "The ultimate version of Quentin Tarantino's fourth film, Kill Bill, now officially has a VOD release date.",
+      "long_summary_tr": "The ultimate version of Quentin Tarantino's fourth film, Kill Bill, now officially has a VOD release date.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/kill-bill-the-whole-bloody-affair-is-coming-to-digital-sooner-than-you-think",
+      "image": "https://assets-prd.ignimgs.com/2025/11/21/kill-bill-thumb-1763689964653.jpg",
+      "published_at": "2026-02-10T15:49:37+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "O'Neill hopes for full Celtic allocation at Ibrox",
+      "title_tr": "O'Neill hopes for full Celtic allocation at Ibrox",
+      "summary": "Manager Martin O'Neill hopes Celtic will receive the full ticket allocation available to them for the Scottish Cup tie at Ibrox.",
+      "summary_tr": "Manager Martin O'Neill hopes Celtic will receive the full ticket allocation available to them for the Scottish Cup tie at Ibrox.",
+      "long_summary": "Manager Martin O'Neill hopes Celtic will receive the full ticket allocation available to them for the Scottish Cup tie at Ibrox.",
+      "long_summary_tr": "Manager Martin O'Neill hopes Celtic will receive the full ticket allocation available to them for the Scottish Cup tie at Ibrox.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/c3ew9073ej8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c353/live/4a0f3e10-0696-11f1-ba78-fddbc49e3389.jpg",
+      "published_at": "2026-02-10T15:47:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Mahfi Eğilmez'den dikkat çeken analiz: Dünya yeni bir feodalizme sürükleniyor",
+      "title_tr": "Mahfi Eğilmez'den dikkat çeken analiz: Dünya yeni bir feodalizme sürükleniyor",
+      "summary": "Ekonomist Mahfi Eğilmez, “Orta Çağa Dönüş” başlıklı yazısında insanlık tarihinin avcı-toplayıcılıktan küreselleşmeye uzanan ekonomik yolculuğunu değerlendirirken, dünyanın serbest ticaretten uzaklaşıp yeni bir feodal düzene doğru sürüklendiği uyarısında bulundu.",
+      "summary_tr": "Ekonomist Mahfi Eğilmez, “Orta Çağa Dönüş” başlıklı yazısında insanlık tarihinin avcı-toplayıcılıktan küreselleşmeye uzanan ekonomik yolculuğunu değerlendirirken, dünyanın serbest ticaretten uzaklaşıp yeni bir feodal düzene doğru sürüklendiği uyarısında bulundu.",
+      "long_summary": "Ekonomist Mahfi Eğilmez, “Orta Çağa Dönüş” başlıklı yazısında insanlık tarihinin avcı-toplayıcılıktan küreselleşmeye uzanan ekonomik yolculuğunu değerlendirirken, dünyanın serbest ticaretten uzaklaşıp yeni bir feodal düzene doğru sürüklendiği uyarısında bulundu.",
+      "long_summary_tr": "Ekonomist Mahfi Eğilmez, “Orta Çağa Dönüş” başlıklı yazısında insanlık tarihinin avcı-toplayıcılıktan küreselleşmeye uzanan ekonomik yolculuğunu değerlendirirken, dünyanın serbest ticaretten uzaklaşıp yeni bir feodal düzene doğru sürüklendiği uyarısında bulundu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/mahfi-egilmezden-dikkat-ceken-analiz-dunya-yeni-bir-feodalizme-surukleniyor-haberi-814604",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/10/mahfi-yw6r_cover.jpg",
+      "published_at": "2026-02-10T15:42:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Google’ın 32 milyar dolarlık Wiz satın alımı AB’den onay aldı",
+      "title_tr": "Google’ın 32 milyar dolarlık Wiz satın alımı AB’den onay aldı",
+      "summary": "Google’ın 32 milyar dolarlık Wiz satın alımı AB’den onay aldı",
+      "summary_tr": "Google’ın 32 milyar dolarlık Wiz satın alımı AB’den onay aldı",
+      "long_summary": "Google’ın 32 milyar dolarlık Wiz satın alımı AB’den onay aldı",
+      "long_summary_tr": "Google’ın 32 milyar dolarlık Wiz satın alımı AB’den onay aldı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/googlen-32-milyar-dolarlk-wiz-satn-alm-abden-onay-ald-93CH-3756046",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T15:41:13+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Paramount Skydance, Warner Bros Discovery teklifini \"ticking fee\" ile iyileştirdi",
+      "title_tr": "Paramount Skydance, Warner Bros Discovery teklifini \"ticking fee\" ile iyileştirdi",
+      "summary": "Paramount Skydance, Warner Bros Discovery teklifini \"ticking fee\" ile iyileştirdi",
+      "summary_tr": "Paramount Skydance, Warner Bros Discovery teklifini \"ticking fee\" ile iyileştirdi",
+      "long_summary": "Paramount Skydance, Warner Bros Discovery teklifini \"ticking fee\" ile iyileştirdi",
+      "long_summary_tr": "Paramount Skydance, Warner Bros Discovery teklifini \"ticking fee\" ile iyileştirdi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/paramount-skydance-warner-bros-discovery-teklifini-ticking-fee-ile-iyilestirdi-93CH-3756043",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T15:40:41+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Evogene hisseleri Google Cloud iş birliğini genişletmesiyle yükseldi",
+      "title_tr": "Evogene hisseleri Google Cloud iş birliğini genişletmesiyle yükseldi",
+      "summary": "Evogene hisseleri Google Cloud iş birliğini genişletmesiyle yükseldi",
+      "summary_tr": "Evogene hisseleri Google Cloud iş birliğini genişletmesiyle yükseldi",
+      "long_summary": "Evogene hisseleri Google Cloud iş birliğini genişletmesiyle yükseldi",
+      "long_summary_tr": "Evogene hisseleri Google Cloud iş birliğini genişletmesiyle yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/evogene-hisseleri-google-cloud-is-birligini-genisletmesiyle-yukseldi-93CH-3756040",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T15:39:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Thomson Reuters’un Anthropic ile ilgili düşüşü risk-ödül dengesini iyileştirdi",
+      "title_tr": "Thomson Reuters’un Anthropic ile ilgili düşüşü risk-ödül dengesini iyileştirdi",
+      "summary": "Thomson Reuters’un Anthropic ile ilgili düşüşü risk-ödül dengesini iyileştirdi",
+      "summary_tr": "Thomson Reuters’un Anthropic ile ilgili düşüşü risk-ödül dengesini iyileştirdi",
+      "long_summary": "Thomson Reuters’un Anthropic ile ilgili düşüşü risk-ödül dengesini iyileştirdi",
+      "long_summary_tr": "Thomson Reuters’un Anthropic ile ilgili düşüşü risk-ödül dengesini iyileştirdi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/thomson-reutersun-anthropic-ile-ilgili-dususu-riskodul-dengesini-iyilestirdi-3756041",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-10T15:39:12+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Doechii’s Complete Dating History",
+      "title_tr": "Doechii’s Complete Dating History",
+      "summary": "Doechii’s Complete Dating History",
+      "summary_tr": "Doechii’s Complete Dating History",
+      "long_summary": "Doechii’s Complete Dating History",
+      "long_summary_tr": "Doechii’s Complete Dating History",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a64308092/doechii-dating-history-explained/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/doechii-at-the-schiaparelli-fall-rtw-2025-fashion-show-as-news-photo-1743083250.pjpeg",
+      "published_at": "2026-02-10T15:37:00+00:00"
     }
   ]
 }
