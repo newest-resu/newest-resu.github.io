@@ -1,71 +1,27 @@
 {
-  "updated_at": "2026-02-11T15:07:59.669053+00:00",
+  "updated_at": "2026-02-11T17:16:46.686838+00:00",
   "articles": [
     {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
       "is_local": false,
-      "source": "Science Daily",
-      "title": "Blockbuster weight loss drugs like Ozempic deliver big results but face big questions",
-      "title_tr": "Blockbuster weight loss drugs like Ozempic deliver big results but face big questions",
-      "summary": "Three major reviews commissioned by the World Health Organization find that GLP-1 drugs including tirzepatide (sold as Mounjaro and Zepbound), semaglutide (Ozempic and Wegovy), and liraglutide (Victoza and Saxenda) can lead to substantial weight loss in people with obesity. But while the results are impressive, researchers caution that most trials were funded by drugmakers, long term safety data are still limited, and side effects such as nausea are common.",
-      "summary_tr": "Three major reviews commissioned by the World Health Organization find that GLP-1 drugs including tirzepatide (sold as Mounjaro and Zepbound), semaglutide (Ozempic and Wegovy), and liraglutide (Victoza and Saxenda) can lead to substantial weight loss in people with obesity. But while the results are impressive, researchers caution that most trials were funded by drugmakers, long term safety data are still limited, and side effects such as nausea are common.",
-      "long_summary": "Three major reviews commissioned by the World Health Organization find that GLP-1 drugs including tirzepatide (sold as Mounjaro and Zepbound), semaglutide (Ozempic and Wegovy), and liraglutide (Victoza and Saxenda) can lead to substantial weight loss in people with obesity. But while the results are impressive, researchers caution that most trials were funded by drugmakers, long term safety data are still limited, and side effects such as nausea are common.",
-      "long_summary_tr": "Three major reviews commissioned by the World Health Organization find that GLP-1 drugs including tirzepatide (sold as Mounjaro and Zepbound), semaglutide (Ozempic and Wegovy), and liraglutide (Victoza and Saxenda) can lead to substantial weight loss in people with obesity. But while the results are impressive, researchers caution that most trials were funded by drugmakers, long term safety data are still limited, and side effects such as nausea are common.",
+      "source": "Bloomberg HT",
+      "title": "ABD'de kamu borcunun 2030'da rekor seviyeye ulaşması öngörülüyor",
+      "title_tr": "ABD'de kamu borcunun 2030'da rekor seviyeye ulaşması öngörülüyor",
+      "summary": "ABD Kongresi Bütçe Ofisi'nin (CBO) raporuna göre, artan bütçe açıkları nedeniyle kamu borcunun GSYH'ye oranının önümüzdeki yıllarda hızla yükselerek 2030'da yüzde 108'e çıkması ve rekor seviyeye ulaşması öngörülüyor.",
+      "summary_tr": "ABD Kongresi Bütçe Ofisi'nin (CBO) raporuna göre, artan bütçe açıkları nedeniyle kamu borcunun GSYH'ye oranının önümüzdeki yıllarda hızla yükselerek 2030'da yüzde 108'e çıkması ve rekor seviyeye ulaşması öngörülüyor.",
+      "long_summary": "ABD Kongresi Bütçe Ofisi'nin (CBO) raporuna göre, artan bütçe açıkları nedeniyle kamu borcunun GSYH'ye oranının önümüzdeki yıllarda hızla yükselerek 2030'da yüzde 108'e çıkması ve rekor seviyeye ulaşması öngörülüyor.",
+      "long_summary_tr": "ABD Kongresi Bütçe Ofisi'nin (CBO) raporuna göre, artan bütçe açıkları nedeniyle kamu borcunun GSYH'ye oranının önümüzdeki yıllarda hızla yükselerek 2030'da yüzde 108'e çıkması ve rekor seviyeye ulaşması öngörülüyor.",
       "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.sciencedaily.com/releases/2026/02/260211073033.htm",
+      "url": "https://www.bloomberght.com/abd-de-kamu-borcunun-2030-da-rekor-seviyeye-ulasmasi-ongoruluyor-3768890",
       "image": null,
-      "published_at": "2026-02-11T15:01:13+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Mercedes-AMG, hibrit C63'e dair hatalarının farkında",
-      "title_tr": "Mercedes-AMG, hibrit C63'e dair hatalarının farkında",
-      "summary": "4 silindirli C63'ün yerini 6 silindirli C53 alıyor.",
-      "summary_tr": "4 silindirli C63'ün yerini 6 silindirli C53 alıyor.",
-      "long_summary": "4 silindirli C63'ün yerini 6 silindirli C53 alıyor.",
-      "long_summary_tr": "4 silindirli C63'ün yerini 6 silindirli C53 alıyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/787025/amg-hibrit-c63-hata/",
-      "image": "https://cdn.motor1.com/images/mgl/7Zo7mW/s3/mercedes-admits-it-lost-customers-over-dropping-v8-in-c63.jpg",
-      "published_at": "2026-02-11T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "New York borsası yükselişle açıldı",
-      "title_tr": "New York borsası yükselişle açıldı",
-      "summary": "New York borsası, istihdam verilerinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.243.15 puana ulaştı. S&amp;P 500 endeksi yüzde 0,5 artışla 6.976,48 puana ve Nasdaq endeksi yüzde 0,76 yükselişle 23.278.29 puana çıktı.",
-      "summary_tr": "New York borsası, istihdam verilerinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.243.15 puana ulaştı. S&amp;P 500 endeksi yüzde 0,5 artışla 6.976,48 puana ve Nasdaq endeksi yüzde 0,76 yükselişle 23.278.29 puana çıktı.",
-      "long_summary": "New York borsası, istihdam verilerinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.243.15 puana ulaştı. S&amp;P 500 endeksi yüzde 0,5 artışla 6.976,48 puana ve Nasdaq endeksi yüzde 0,76 yükselişle 23.278.29 puana çıktı.",
-      "long_summary_tr": "New York borsası, istihdam verilerinin ardından güne yükselişle başladı. Açılışta Dow Jones endeksi, yüzde 0,11 artarak 50.243.15 puana ulaştı. S&amp;P 500 endeksi yüzde 0,5 artışla 6.976,48 puana ve Nasdaq endeksi yüzde 0,76 yükselişle 23.278.29 puana çıktı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-814732",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/n1-vra5_cover.jpg",
-      "published_at": "2026-02-11T14:56:00+00:00"
+      "published_at": "2026-02-11T17:09:36+00:00"
     },
     {
       "origin": "turkiye",
@@ -73,153 +29,131 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "Amasya'da biyogaz tesisinde zehirlenen 3 kişi hayatını kaybetti",
-      "title_tr": "Amasya'da biyogaz tesisinde zehirlenen 3 kişi hayatını kaybetti",
-      "summary": "Amasya'nın Suluova ilçesinde biyogaz tesisinde gazdan zehirlenerek hastaneye kaldırılan 3 işçi hayatını kaybetti.",
-      "summary_tr": "Amasya'nın Suluova ilçesinde biyogaz tesisinde gazdan zehirlenerek hastaneye kaldırılan 3 işçi hayatını kaybetti.",
-      "long_summary": "Amasya'nın Suluova ilçesinde biyogaz tesisinde gazdan zehirlenerek hastaneye kaldırılan 3 işçi hayatını kaybetti.",
-      "long_summary_tr": "Amasya'nın Suluova ilçesinde biyogaz tesisinde gazdan zehirlenerek hastaneye kaldırılan 3 işçi hayatını kaybetti.",
+      "title": "Dışişleri Bakanlığı Sözcüsü Keçeli: Bakan Fidan'ın sözleri Irak medyasınca çarpıtıldı",
+      "title_tr": "Dışişleri Bakanlığı Sözcüsü Keçeli: Bakan Fidan'ın sözleri Irak medyasınca çarpıtıldı",
+      "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Dışişleri Bakanı Hakan Fidan'ın 9 Şubat'ta bir televizyon kanalında verdiği mülakattaki ifadelerin Irak'taki bazı medya kuruluşlarınca çarpıtıldığına işaret etti. Keçeli, \"Bu vesileyle Türkiye olarak komşumuz Irak'ın toprak bütünlüğüne ve egemenliğine desteğimizi yineliyoruz.\" açıklamasını yaptı.",
+      "summary_tr": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Dışişleri Bakanı Hakan Fidan'ın 9 Şubat'ta bir televizyon kanalında verdiği mülakattaki ifadelerin Irak'taki bazı medya kuruluşlarınca çarpıtıldığına işaret etti. Keçeli, \"Bu vesileyle Türkiye olarak komşumuz Irak'ın toprak bütünlüğüne ve egemenliğine desteğimizi yineliyoruz.\" açıklamasını yaptı.",
+      "long_summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Dışişleri Bakanı Hakan Fidan'ın 9 Şubat'ta bir televizyon kanalında verdiği mülakattaki ifadelerin Irak'taki bazı medya kuruluşlarınca çarpıtıldığına işaret etti. Keçeli, \"Bu vesileyle Türkiye olarak komşumuz Irak'ın toprak bütünlüğüne ve egemenliğine desteğimizi yineliyoruz.\" açıklamasını yaptı.",
+      "long_summary_tr": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Dışişleri Bakanı Hakan Fidan'ın 9 Şubat'ta bir televizyon kanalında verdiği mülakattaki ifadelerin Irak'taki bazı medya kuruluşlarınca çarpıtıldığına işaret etti. Keçeli, \"Bu vesileyle Türkiye olarak komşumuz Irak'ın toprak bütünlüğüne ve egemenliğine desteğimizi yineliyoruz.\" açıklamasını yaptı.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/amasyada-biyogaz-tesisinde-zehirlenen-3-kisi-hayatini-kaybetti-1711527",
-      "image": "https://images.ntv.com.tr/images/AA-20260211-40523299-40523295-AMASYADA_BIYOGAZ_TESISINDE_ZEHIRLENEN_3_KISI_TEDAVI_ALTINA_ALINDI-246019.jpg",
-      "published_at": "2026-02-11T14:54:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Trump: Harika istihdam rakamları, beklentilerin çok üzerinde",
-      "title_tr": "Trump: Harika istihdam rakamları, beklentilerin çok üzerinde",
-      "summary": "ABD Başkanı Donald Trump, sosyal medya platformu Truth Social üzerinden yaptığı paylaşımda, açıklanan güçlü istihdam verilerine dikkat çekerek ABD’nin borçlanma maliyetlerinin çok daha düşük olması ge...",
-      "summary_tr": "ABD Başkanı Donald Trump, sosyal medya platformu Truth Social üzerinden yaptığı paylaşımda, açıklanan güçlü istihdam verilerine dikkat çekerek ABD’nin borçlanma maliyetlerinin çok daha düşük olması ge...",
-      "long_summary": "ABD Başkanı Donald Trump, sosyal medya platformu Truth Social üzerinden yaptığı paylaşımda, açıklanan güçlü istihdam verilerine dikkat çekerek ABD’nin borçlanma maliyetlerinin çok daha düşük olması ge...",
-      "long_summary_tr": "ABD Başkanı Donald Trump, sosyal medya platformu Truth Social üzerinden yaptığı paylaşımda, açıklanan güçlü istihdam verilerine dikkat çekerek ABD’nin borçlanma maliyetlerinin çok daha düşük olması ge...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/trump-harika-istihdam-rakamlari-beklentilerin-cok-uzerinde-11-02-26?haber_id=698c97d12663b328fe324727&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1770821576616.jpeg",
-      "published_at": "2026-02-11T14:53:05+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Ergin Ataman'ın annesi Gülten Ataman, son yolculuğuna uğurlandı",
-      "title_tr": "Ergin Ataman'ın annesi Gülten Ataman, son yolculuğuna uğurlandı",
-      "summary": "A Milli Erkek Basketbol Takımı ve Yunanistan temsilcisi Panathinaikos AKTOR&#039;un başantrenörü Ergin Ataman&#039;ın vefat eden annesi Gülten Ataman, İstanbul&#039;da son yolculuğuna uğurlandı.",
-      "summary_tr": "A Milli Erkek Basketbol Takımı ve Yunanistan temsilcisi Panathinaikos AKTOR&#039;un başantrenörü Ergin Ataman&#039;ın vefat eden annesi Gülten Ataman, İstanbul&#039;da son yolculuğuna uğurlandı.",
-      "long_summary": "A Milli Erkek Basketbol Takımı ve Yunanistan temsilcisi Panathinaikos AKTOR&#039;un başantrenörü Ergin Ataman&#039;ın vefat eden annesi Gülten Ataman, İstanbul&#039;da son yolculuğuna uğurlandı.",
-      "long_summary_tr": "A Milli Erkek Basketbol Takımı ve Yunanistan temsilcisi Panathinaikos AKTOR&#039;un başantrenörü Ergin Ataman&#039;ın vefat eden annesi Gülten Ataman, İstanbul&#039;da son yolculuğuna uğurlandı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/ergin-atamanin-annesi-gulten-ataman-son-yolculuguna-ugurlandi-haberi-814730",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/ataman-bxoy_cover.jpg",
-      "published_at": "2026-02-11T14:52:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "TİM Başkanı Gültepe: Büyüme üretimden mi tüketimden mi gelecek karar vermeliyiz",
-      "title_tr": "TİM Başkanı Gültepe: Büyüme üretimden mi tüketimden mi gelecek karar vermeliyiz",
-      "summary": "Türkiye İhracatçılar Meclisi (TİM) Başkanı Mustafa Gültepe, Türkiye’de üretim yapıları ve kümelenmeler için iyi bir master plan hazırlanması gerektiğini belirterek, sektörlerin tek tek ele alınması ça...",
-      "summary_tr": "Türkiye İhracatçılar Meclisi (TİM) Başkanı Mustafa Gültepe, Türkiye’de üretim yapıları ve kümelenmeler için iyi bir master plan hazırlanması gerektiğini belirterek, sektörlerin tek tek ele alınması ça...",
-      "long_summary": "Türkiye İhracatçılar Meclisi (TİM) Başkanı Mustafa Gültepe, Türkiye’de üretim yapıları ve kümelenmeler için iyi bir master plan hazırlanması gerektiğini belirterek, sektörlerin tek tek ele alınması ça...",
-      "long_summary_tr": "Türkiye İhracatçılar Meclisi (TİM) Başkanı Mustafa Gültepe, Türkiye’de üretim yapıları ve kümelenmeler için iyi bir master plan hazırlanması gerektiğini belirterek, sektörlerin tek tek ele alınması ça...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/tim-baskani-gultepe-buyume-uretimden-mi-tuketimden-mi-gelecek-karar-vermeliyiz-11-02-26?haber_id=698c95ef9909fa2f08aeb6b7&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1770821091487.jpeg",
-      "published_at": "2026-02-11T14:45:03+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Clubs to vote on expanding Championship play-offs",
-      "title_tr": "Clubs to vote on expanding Championship play-offs",
-      "summary": "EFL clubs will vote on expanding play-offs in the Championship from four to six teams at a meeting next month.",
-      "summary_tr": "EFL clubs will vote on expanding play-offs in the Championship from four to six teams at a meeting next month.",
-      "long_summary": "EFL clubs will vote on expanding play-offs in the Championship from four to six teams at a meeting next month.",
-      "long_summary_tr": "EFL clubs will vote on expanding play-offs in the Championship from four to six teams at a meeting next month.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c9dnll5gp1go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3303/live/6ad725b0-0757-11f1-925d-919faf925e25.jpg",
-      "published_at": "2026-02-11T14:42:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Amasya'daki biyogaz tesisinde zehirlenme faciası: 3 kişi hayatını kaybetti",
-      "title_tr": "Amasya'daki biyogaz tesisinde zehirlenme faciası: 3 kişi hayatını kaybetti",
-      "summary": "Amasya&#039;nın Suluova ilçesinde biyogaz tesisinde çalışan 3 kişi metan gazından zehirlenerek hayatını kaybetti.",
-      "summary_tr": "Amasya&#039;nın Suluova ilçesinde biyogaz tesisinde çalışan 3 kişi metan gazından zehirlenerek hayatını kaybetti.",
-      "long_summary": "Amasya&#039;nın Suluova ilçesinde biyogaz tesisinde çalışan 3 kişi metan gazından zehirlenerek hayatını kaybetti.",
-      "long_summary_tr": "Amasya&#039;nın Suluova ilçesinde biyogaz tesisinde çalışan 3 kişi metan gazından zehirlenerek hayatını kaybetti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/amasyadaki-biyogaz-tesisinde-zehirlenme-faciasi-3-kisi-hayatini-kaybetti-haberi-814726",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/d1-5tsa_cover.jpg",
-      "published_at": "2026-02-11T14:42:00+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/disisleri-bakanligi-sozcusu-keceli-bakan-fidanin-sozleri-irak-medyasinca-carpitildi-1711535",
+      "image": "https://images.ntv.com.tr/images/fidannn-264461.jpg",
+      "published_at": "2026-02-11T17:05:43+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Bilim",
       "category_slug": "bilim",
       "is_local": false,
-      "source": "Science Daily",
-      "title": "Life may have started as sticky goo clinging to rocks",
-      "title_tr": "Life may have started as sticky goo clinging to rocks",
-      "summary": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-replication may have emerged.",
-      "summary_tr": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-replication may have emerged.",
-      "long_summary": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-replication may have emerged.",
-      "long_summary_tr": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-replication may have emerged.",
+      "source": "Popular Science",
+      "title": "Thomas Edison’s failed rechargeable battery may get a second life",
+      "title_tr": "Thomas Edison’s failed rechargeable battery may get a second life",
+      "summary": "The famed inventor's nickel-iron idea isn't suited for EVs, but it could help solar farms and data centers.\nThe post Thomas Edison’s failed rechargeable battery may get a second life appeared first on Popular Science.",
+      "summary_tr": "The famed inventor's nickel-iron idea isn't suited for EVs, but it could help solar farms and data centers.\nThe post Thomas Edison’s failed rechargeable battery may get a second life appeared first on Popular Science.",
+      "long_summary": "The famed inventor's nickel-iron idea isn't suited for EVs, but it could help solar farms and data centers.\nThe post Thomas Edison’s failed rechargeable battery may get a second life appeared first on Popular Science.",
+      "long_summary_tr": "The famed inventor's nickel-iron idea isn't suited for EVs, but it could help solar farms and data centers.\nThe post Thomas Edison’s failed rechargeable battery may get a second life appeared first on Popular Science.",
       "why_important": [
         "Teknolojik ve akademik gelişmelere katkı sağlaması"
       ],
       "possible_impacts": [
         "Yeni keşifler farklı alanlara yön verebilir"
       ],
-      "url": "https://www.sciencedaily.com/releases/2026/02/260211073052.htm",
+      "url": "https://www.popsci.com/technology/edison-rechargeable-battery-second-life/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/02/Edison-Battery-Illustration.jpg?quality=85",
+      "published_at": "2026-02-11T17:05:11+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "title_tr": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "summary": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "summary_tr": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "long_summary": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "long_summary_tr": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a65581518/katy-perry-justin-trudeau-relationship-timeline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/katy-justin-gettyimages-2224261723-6892766910535.jpg",
+      "published_at": "2026-02-11T17:04:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Tesla Semi İki Farklı Modelle Yollara Çıkıyor",
+      "title_tr": "Tesla Semi İki Farklı Modelle Yollara Çıkıyor",
+      "summary": "Elektrikli araç devi Tesla uzun süredir beklenen elektrikli tır modeli Semi için nihai teknik verileri resmi internet sitesinde sessizce güncelledi. Teslimatların yaklaşmasıyla birlikte netleşen özellikler aracın Standart Menzil ve Uzun Menzil olmak üzere iki farklı donanım seviyesiyle satışa sunulacağını doğruladı. Nevada fabrikasında üretim hazırlıkları devam eden devrimsel aracın 2026 yılının ilk yarısında seri üretime geçmesi […]",
+      "summary_tr": "Elektrikli araç devi Tesla uzun süredir beklenen elektrikli tır modeli Semi için nihai teknik verileri resmi internet sitesinde sessizce güncelledi. Teslimatların yaklaşmasıyla birlikte netleşen özellikler aracın Standart Menzil ve Uzun Menzil olmak üzere iki farklı donanım seviyesiyle satışa sunulacağını doğruladı. Nevada fabrikasında üretim hazırlıkları devam eden devrimsel aracın 2026 yılının ilk yarısında seri üretime geçmesi […]",
+      "long_summary": "Elektrikli araç devi Tesla uzun süredir beklenen elektrikli tır modeli Semi için nihai teknik verileri resmi internet sitesinde sessizce güncelledi. Teslimatların yaklaşmasıyla birlikte netleşen özellikler aracın Standart Menzil ve Uzun Menzil olmak üzere iki farklı donanım seviyesiyle satışa sunulacağını doğruladı. Nevada fabrikasında üretim hazırlıkları devam eden devrimsel aracın 2026 yılının ilk yarısında seri üretime geçmesi […]",
+      "long_summary_tr": "Elektrikli araç devi Tesla uzun süredir beklenen elektrikli tır modeli Semi için nihai teknik verileri resmi internet sitesinde sessizce güncelledi. Teslimatların yaklaşmasıyla birlikte netleşen özellikler aracın Standart Menzil ve Uzun Menzil olmak üzere iki farklı donanım seviyesiyle satışa sunulacağını doğruladı. Nevada fabrikasında üretim hazırlıkları devam eden devrimsel aracın 2026 yılının ilk yarısında seri üretime geçmesi […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/tesla-semi-iki-farkli-modelle-yollara-cikiyor",
       "image": null,
-      "published_at": "2026-02-11T14:39:33+00:00"
+      "published_at": "2026-02-11T17:00:55+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Rivian’in \"Avrupalı\" elektrikli aracı görüntülendi",
+      "title_tr": "Rivian’in \"Avrupalı\" elektrikli aracı görüntülendi",
+      "summary": "Yıl ortasında 45.000 $ fiyatla satışa sunulacak Rivian R2 testlere devam ediyor.",
+      "summary_tr": "Yıl ortasında 45.000 $ fiyatla satışa sunulacak Rivian R2 testlere devam ediyor.",
+      "long_summary": "Yıl ortasında 45.000 $ fiyatla satışa sunulacak Rivian R2 testlere devam ediyor.",
+      "long_summary_tr": "Yıl ortasında 45.000 $ fiyatla satışa sunulacak Rivian R2 testlere devam ediyor.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/787029/rivian-avrupali-ev-goruntulendi/",
+      "image": "https://cdn.motor1.com/images/mgl/W87OnL/s3/rivian-r2-avvistato-su-strada.jpg",
+      "published_at": "2026-02-11T17:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Ticaret Bakanı Bolat ihracat iklim endeksine dair gelişmeleri değerlendirdi",
+      "title_tr": "Ticaret Bakanı Bolat ihracat iklim endeksine dair gelişmeleri değerlendirdi",
+      "summary": "Ticaret Bakanı Ömer Bolat, ihracat iklim endeksinin Ocak'ta 52,1'e yükseldiğini belirterek, ihracattaki kazanımların sanayi üretimi ve istihdamı desteklemeye devam ettiğini vurguladı.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, ihracat iklim endeksinin Ocak'ta 52,1'e yükseldiğini belirterek, ihracattaki kazanımların sanayi üretimi ve istihdamı desteklemeye devam ettiğini vurguladı.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, ihracat iklim endeksinin Ocak'ta 52,1'e yükseldiğini belirterek, ihracattaki kazanımların sanayi üretimi ve istihdamı desteklemeye devam ettiğini vurguladı.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, ihracat iklim endeksinin Ocak'ta 52,1'e yükseldiğini belirterek, ihracattaki kazanımların sanayi üretimi ve istihdamı desteklemeye devam ettiğini vurguladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/ticaret-bakani-bolat-ihracat-iklim-endeksine-dair-gelismeleri-degerlendirdi-3768884",
+      "image": null,
+      "published_at": "2026-02-11T16:58:09+00:00"
     },
     {
       "origin": "yabanci",
@@ -227,8 +161,8 @@
       "category_slug": "dunya",
       "is_local": false,
       "source": "BBC World",
-      "title": "US reopens airspace over Texas border town, with 'no threat' to commercial flights",
-      "title_tr": "US reopens airspace over Texas border town, with 'no threat' to commercial flights",
+      "title": "US reopens airspace over Texas border town after 'cartel drone incursion'",
+      "title_tr": "US reopens airspace over Texas border town after 'cartel drone incursion'",
       "summary": "The FAA had closed the airspace around El Paso for more than a week citing security measures, but then quickly said flights could resume.",
       "summary_tr": "The FAA had closed the airspace around El Paso for more than a week citing security measures, but then quickly said flights could resume.",
       "long_summary": "The FAA had closed the airspace around El Paso for more than a week citing security measures, but then quickly said flights could resume.",
@@ -241,95 +175,7 @@
       ],
       "url": "https://www.bbc.com/news/articles/cqxdwjn578do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ff/live/8a83bbb0-073b-11f1-bdca-bd1febbee24e.png",
-      "published_at": "2026-02-11T14:36:28+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Ukrainian skeleton slider wears helmet of remembrance despite IOC ban",
-      "title_tr": "Ukrainian skeleton slider wears helmet of remembrance despite IOC ban",
-      "summary": "Ukrainian skeleton racer Vladyslav Heraskevych continues to wear a helmet featuring images of people killed during Russia's invasion of his home country, despite the IOC banning him from doing so.",
-      "summary_tr": "Ukrainian skeleton racer Vladyslav Heraskevych continues to wear a helmet featuring images of people killed during Russia's invasion of his home country, despite the IOC banning him from doing so.",
-      "long_summary": "Ukrainian skeleton racer Vladyslav Heraskevych continues to wear a helmet featuring images of people killed during Russia's invasion of his home country, despite the IOC banning him from doing so.",
-      "long_summary_tr": "Ukrainian skeleton racer Vladyslav Heraskevych continues to wear a helmet featuring images of people killed during Russia's invasion of his home country, despite the IOC banning him from doing so.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/c6274mgve33o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08f0/live/970776f0-0746-11f1-9898-9dd6a5a3456b.jpg",
-      "published_at": "2026-02-11T14:33:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "QNB Genel Müdürü Tan: 2026 dezenflasyonda kritik yıl olacak",
-      "title_tr": "QNB Genel Müdürü Tan: 2026 dezenflasyonda kritik yıl olacak",
-      "summary": "QNB Türkiye Genel Müdürü Ömür Tan, jeopolitik ve makroekonomik dalgalanmalar ile iç politik gelişmelerin etkisine rağmen enflasyonla mücadelenin meyvelerini vermeye başladığını belirtti. Tan, 2026’nın dezenflasyon sürecinde belirleyici bir eşik olacağını vurguladı.",
-      "summary_tr": "QNB Türkiye Genel Müdürü Ömür Tan, jeopolitik ve makroekonomik dalgalanmalar ile iç politik gelişmelerin etkisine rağmen enflasyonla mücadelenin meyvelerini vermeye başladığını belirtti. Tan, 2026’nın dezenflasyon sürecinde belirleyici bir eşik olacağını vurguladı.",
-      "long_summary": "QNB Türkiye Genel Müdürü Ömür Tan, jeopolitik ve makroekonomik dalgalanmalar ile iç politik gelişmelerin etkisine rağmen enflasyonla mücadelenin meyvelerini vermeye başladığını belirtti. Tan, 2026’nın dezenflasyon sürecinde belirleyici bir eşik olacağını vurguladı.",
-      "long_summary_tr": "QNB Türkiye Genel Müdürü Ömür Tan, jeopolitik ve makroekonomik dalgalanmalar ile iç politik gelişmelerin etkisine rağmen enflasyonla mücadelenin meyvelerini vermeye başladığını belirtti. Tan, 2026’nın dezenflasyon sürecinde belirleyici bir eşik olacağını vurguladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/qnb-genel-muduru-tan-2026-dezenflasyonda-kritik-yil-olacak-haberi-814725",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/qnb-gk6o_cover.jpg",
-      "published_at": "2026-02-11T14:32:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Zero Parades and Disco Elysium Developer ZA/UM on AI: ‘We Don’t Use It’",
-      "title_tr": "Zero Parades and Disco Elysium Developer ZA/UM on AI: ‘We Don’t Use It’",
-      "summary": "Disco Elysium and Zero Parades developer ZA/UM has said that it will not use artificial intelligence in the creation of its RPGs.",
-      "summary_tr": "Disco Elysium and Zero Parades developer ZA/UM has said that it will not use artificial intelligence in the creation of its RPGs.",
-      "long_summary": "Disco Elysium and Zero Parades developer ZA/UM has said that it will not use artificial intelligence in the creation of its RPGs.",
-      "long_summary_tr": "Disco Elysium and Zero Parades developer ZA/UM has said that it will not use artificial intelligence in the creation of its RPGs.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/zero-parades-and-disco-elysium-developer-zaum-on-ai-we-dont-use-it",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/zero-parades-ai-blogroll-1770725004520.jpg",
-      "published_at": "2026-02-11T14:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "TİM Başkanı Gültepe’den 'AB'ye tam üyelik' çıkışı",
-      "title_tr": "TİM Başkanı Gültepe’den 'AB'ye tam üyelik' çıkışı",
-      "summary": "Bloomberg HT yayınına katılan TİM Başkanı Mustafa Gültepe, ihracatçının artan maliyetler ve döviz kuru arasındaki makas nedeniyle zorlandığını belirterek; Gümrük Birliği’nin güncellenmesinin ötesinde artık \"Avrupa Birliği’ne tam üyelik\" hedefinin sivil toplum kuruluşları tarafından seslendirilmeye başlandığını açıkladı.",
-      "summary_tr": "Bloomberg HT yayınına katılan TİM Başkanı Mustafa Gültepe, ihracatçının artan maliyetler ve döviz kuru arasındaki makas nedeniyle zorlandığını belirterek; Gümrük Birliği’nin güncellenmesinin ötesinde artık \"Avrupa Birliği’ne tam üyelik\" hedefinin sivil toplum kuruluşları tarafından seslendirilmeye başlandığını açıkladı.",
-      "long_summary": "Bloomberg HT yayınına katılan TİM Başkanı Mustafa Gültepe, ihracatçının artan maliyetler ve döviz kuru arasındaki makas nedeniyle zorlandığını belirterek; Gümrük Birliği’nin güncellenmesinin ötesinde artık \"Avrupa Birliği’ne tam üyelik\" hedefinin sivil toplum kuruluşları tarafından seslendirilmeye başlandığını açıkladı.",
-      "long_summary_tr": "Bloomberg HT yayınına katılan TİM Başkanı Mustafa Gültepe, ihracatçının artan maliyetler ve döviz kuru arasındaki makas nedeniyle zorlandığını belirterek; Gümrük Birliği’nin güncellenmesinin ötesinde artık \"Avrupa Birliği’ne tam üyelik\" hedefinin sivil toplum kuruluşları tarafından seslendirilmeye başlandığını açıkladı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/tim-baskani-gultepeden-tam-uyelik-cikisi-3768874",
-      "image": null,
-      "published_at": "2026-02-11T14:29:44+00:00"
+      "published_at": "2026-02-11T16:57:30+00:00"
     },
     {
       "origin": "turkiye",
@@ -337,307 +183,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "Ordu'da insansız hava aracı sahile vurdu. İran yapımı kamikaze çıktı",
-      "title_tr": "Ordu'da insansız hava aracı sahile vurdu. İran yapımı kamikaze çıktı",
-      "summary": "Ordu Ünye'de dün kıyıya vuran insansız hava aracının (İHA), yapılan teknik incelemeler sonucunda İran menşeli bir 'kamikaze İHA' olduğu belirlendi.",
-      "summary_tr": "Ordu Ünye'de dün kıyıya vuran insansız hava aracının (İHA), yapılan teknik incelemeler sonucunda İran menşeli bir 'kamikaze İHA' olduğu belirlendi.",
-      "long_summary": "Ordu Ünye'de dün kıyıya vuran insansız hava aracının (İHA), yapılan teknik incelemeler sonucunda İran menşeli bir 'kamikaze İHA' olduğu belirlendi.",
-      "long_summary_tr": "Ordu Ünye'de dün kıyıya vuran insansız hava aracının (İHA), yapılan teknik incelemeler sonucunda İran menşeli bir 'kamikaze İHA' olduğu belirlendi.",
+      "title": "TMO silolarındaki patlama davası. Sanıklara 15 yıla kadar hapis talebi",
+      "title_tr": "TMO silolarındaki patlama davası. Sanıklara 15 yıla kadar hapis talebi",
+      "summary": "Kocaeli'nin Derince ilçesinde Toprak Mahsulleri Ofisi (TMO) silosunda 2 kişinin hayatını kaybettiği, 7 kişinin yaralandığı patlamaya ilişkin 6 sanığın yargılandığı davada, savcı esas hakkındaki mütalaasını sundu.",
+      "summary_tr": "Kocaeli'nin Derince ilçesinde Toprak Mahsulleri Ofisi (TMO) silosunda 2 kişinin hayatını kaybettiği, 7 kişinin yaralandığı patlamaya ilişkin 6 sanığın yargılandığı davada, savcı esas hakkındaki mütalaasını sundu.",
+      "long_summary": "Kocaeli'nin Derince ilçesinde Toprak Mahsulleri Ofisi (TMO) silosunda 2 kişinin hayatını kaybettiği, 7 kişinin yaralandığı patlamaya ilişkin 6 sanığın yargılandığı davada, savcı esas hakkındaki mütalaasını sundu.",
+      "long_summary_tr": "Kocaeli'nin Derince ilçesinde Toprak Mahsulleri Ofisi (TMO) silosunda 2 kişinin hayatını kaybettiği, 7 kişinin yaralandığı patlamaya ilişkin 6 sanığın yargılandığı davada, savcı esas hakkındaki mütalaasını sundu.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/orduda-insansiz-hava-araci-sahile-vurdu-iran-yapimi-kamikaze-cikti-1711526",
-      "image": "https://images.ntv.com.tr/images/AW639810_01-781280.jpg",
-      "published_at": "2026-02-11T14:27:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Kontrolmatik’in bağlı ortaklığı Pomega’dan 62,3 milyon dolarlık sözleşme",
-      "title_tr": "Kontrolmatik’in bağlı ortaklığı Pomega’dan 62,3 milyon dolarlık sözleşme",
-      "summary": "Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.’nin bağlı ortaklığı Pomega Enerji Depolama Teknolojileri A.Ş. (POMEGA), yurt içinde yerleşik bir firma ile toplam 62.315.119 ABD doları tutarında sözl...",
-      "summary_tr": "Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.’nin bağlı ortaklığı Pomega Enerji Depolama Teknolojileri A.Ş. (POMEGA), yurt içinde yerleşik bir firma ile toplam 62.315.119 ABD doları tutarında sözl...",
-      "long_summary": "Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.’nin bağlı ortaklığı Pomega Enerji Depolama Teknolojileri A.Ş. (POMEGA), yurt içinde yerleşik bir firma ile toplam 62.315.119 ABD doları tutarında sözl...",
-      "long_summary_tr": "Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.’nin bağlı ortaklığı Pomega Enerji Depolama Teknolojileri A.Ş. (POMEGA), yurt içinde yerleşik bir firma ile toplam 62.315.119 ABD doları tutarında sözl...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/kontrolmatikin-bagli-ortakligi-pomegadan-62-3-milyon-dolarlik-sozlesme-11-02-26?haber_id=698c91b79909fa2f08aeb671&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1770820132368.jpeg",
-      "published_at": "2026-02-11T14:27:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Macar MOL'un TPAO-Repsol konsorsiyumunda payı %20",
-      "title_tr": "Macar MOL'un TPAO-Repsol konsorsiyumunda payı %20",
-      "summary": "MOL Group, Repsol ve Türkiye Petrolleri A.O. (TPAO) ile birlikte Libya’da Akdeniz’deki bir offshore arama sahası için kurulan ortak girişime katıldı. Ortaklıkta Repsol yüzde 40 payla operatör olurken,...",
-      "summary_tr": "MOL Group, Repsol ve Türkiye Petrolleri A.O. (TPAO) ile birlikte Libya’da Akdeniz’deki bir offshore arama sahası için kurulan ortak girişime katıldı. Ortaklıkta Repsol yüzde 40 payla operatör olurken,...",
-      "long_summary": "MOL Group, Repsol ve Türkiye Petrolleri A.O. (TPAO) ile birlikte Libya’da Akdeniz’deki bir offshore arama sahası için kurulan ortak girişime katıldı. Ortaklıkta Repsol yüzde 40 payla operatör olurken,...",
-      "long_summary_tr": "MOL Group, Repsol ve Türkiye Petrolleri A.O. (TPAO) ile birlikte Libya’da Akdeniz’deki bir offshore arama sahası için kurulan ortak girişime katıldı. Ortaklıkta Repsol yüzde 40 payla operatör olurken,...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/macar-mol-un-tpao-repsol-konsorsiyumunda-payi-20-11-02-26?haber_id=698c90ab67ad3132ebe0c350&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1770819746646.jpeg",
-      "published_at": "2026-02-11T14:22:35+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Audi, S6'nın üretimini resmen sonlandırdı",
-      "title_tr": "Audi, S6'nın üretimini resmen sonlandırdı",
-      "summary": "Yeni A6'yı temel alan bir S versiyonu planlanmıyor.",
-      "summary_tr": "Yeni A6'yı temel alan bir S versiyonu planlanmıyor.",
-      "long_summary": "Yeni A6'yı temel alan bir S versiyonu planlanmıyor.",
-      "long_summary_tr": "Yeni A6'yı temel alan bir S versiyonu planlanmıyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/787022/audi-s6-uretim-sonlandi/",
-      "image": "https://cdn.motor1.com/images/mgl/0eE1EW/s3/audi-s6.jpg",
-      "published_at": "2026-02-11T14:21:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "New F1 rules 'ridiculously complex' - Hamilton",
-      "title_tr": "New F1 rules 'ridiculously complex' - Hamilton",
-      "summary": "Lewis Hamilton says that \"none of the fans are going to understand\" some of the new rules introduced into F1 this year.",
-      "summary_tr": "Lewis Hamilton says that \"none of the fans are going to understand\" some of the new rules introduced into F1 this year.",
-      "long_summary": "Lewis Hamilton says that \"none of the fans are going to understand\" some of the new rules introduced into F1 this year.",
-      "long_summary_tr": "Lewis Hamilton says that \"none of the fans are going to understand\" some of the new rules introduced into F1 this year.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/formula1/articles/c70k4zlz7elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfbd/live/3118dd80-074f-11f1-8fcf-193eb7dfcf8f.jpg",
-      "published_at": "2026-02-11T14:20:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Micron hisseleri, CFO’nun HBM4 üretim durumunu açıklamasının ardından %5,5 yükseldi",
-      "title_tr": "Micron hisseleri, CFO’nun HBM4 üretim durumunu açıklamasının ardından %5,5 yükseldi",
-      "summary": "Micron hisseleri, CFO’nun HBM4 üretim durumunu açıklamasının ardından %5,5 yükseldi",
-      "summary_tr": "Micron hisseleri, CFO’nun HBM4 üretim durumunu açıklamasının ardından %5,5 yükseldi",
-      "long_summary": "Micron hisseleri, CFO’nun HBM4 üretim durumunu açıklamasının ardından %5,5 yükseldi",
-      "long_summary_tr": "Micron hisseleri, CFO’nun HBM4 üretim durumunu açıklamasının ardından %5,5 yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/micron-hisseleri-cfonun-hbm4-uretim-durumunu-acklamasnn-ardndan-55-yukseldi-3758202",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-11T14:19:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "ArcelorMittal, AB’deki sıkılaşan ithalat koşullarının çelik fiyatlarını yükseltmesi beklentisiyle yükseltildi",
-      "title_tr": "ArcelorMittal, AB’deki sıkılaşan ithalat koşullarının çelik fiyatlarını yükseltmesi beklentisiyle yükseltildi",
-      "summary": "ArcelorMittal, AB’deki sıkılaşan ithalat koşullarının çelik fiyatlarını yükseltmesi beklentisiyle yükseltildi",
-      "summary_tr": "ArcelorMittal, AB’deki sıkılaşan ithalat koşullarının çelik fiyatlarını yükseltmesi beklentisiyle yükseltildi",
-      "long_summary": "ArcelorMittal, AB’deki sıkılaşan ithalat koşullarının çelik fiyatlarını yükseltmesi beklentisiyle yükseltildi",
-      "long_summary_tr": "ArcelorMittal, AB’deki sıkılaşan ithalat koşullarının çelik fiyatlarını yükseltmesi beklentisiyle yükseltildi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/arcelormittal-abdeki-sklasan-ithalat-kosullarnn-celik-fiyatlarn-yukseltmesi-beklentisiyle-yukseltildi-3758154",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-11T14:16:53+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İzmir TOKİ Kura çekimi ne zaman? Başvuru sonuçları ve nihai liste açıklandı mı?",
-      "title_tr": "İzmir TOKİ Kura çekimi ne zaman? Başvuru sonuçları ve nihai liste açıklandı mı?",
-      "summary": "TOKİ kura çekiminde sadece 14 il kaldı. İzmir için ise tören tarihi netleşmedi. Hak sahibi olmak isteyen on binlerce kişi kura tarihine odaklanmış durumda... İzmirliler ısrarla &quot;İzmir TOKİ Kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "summary_tr": "TOKİ kura çekiminde sadece 14 il kaldı. İzmir için ise tören tarihi netleşmedi. Hak sahibi olmak isteyen on binlerce kişi kura tarihine odaklanmış durumda... İzmirliler ısrarla &quot;İzmir TOKİ Kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "long_summary": "TOKİ kura çekiminde sadece 14 il kaldı. İzmir için ise tören tarihi netleşmedi. Hak sahibi olmak isteyen on binlerce kişi kura tarihine odaklanmış durumda... İzmirliler ısrarla &quot;İzmir TOKİ Kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "long_summary_tr": "TOKİ kura çekiminde sadece 14 il kaldı. İzmir için ise tören tarihi netleşmedi. Hak sahibi olmak isteyen on binlerce kişi kura tarihine odaklanmış durumda... İzmirliler ısrarla &quot;İzmir TOKİ Kura çekimi ne zaman&quot; sorusunu yöneltiyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/izmir-toki-kura-cekimi-ne-zaman-basvuru-sonuclari-ve-nihai-liste-aciklandi-mi-haberi-814723",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/izmir-toki-j10t_cover.png",
-      "published_at": "2026-02-11T14:16:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Gaming To Be \"Key\" Priority For New Disney CEO, Expert Says",
-      "title_tr": "Gaming To Be \"Key\" Priority For New Disney CEO, Expert Says",
-      "summary": "The Walt Disney Company's incoming CEO, Josh D'Amaro, is reportedly planning to focus on \"gaming and interactivity\" as one of his top priorities when he takes over for Bob Iger in March.Multiple sources told The Hollywood Reporter that gaming will be one of his \"key strategic priorities\" running the show at Disney, building on what the entertainment giant is already doing with its $1.5 billion deal with Fortnite maker Epic.\"He sees the digital realm--and Epic is a manifestation of that--as a very important place for fans to interact with their favorite characters, franchises, and brands in a comprehensive way that you can monetize and that will serve fan interest in a way that, other than a theme park, it's really impossible to do,\" former Disney executive Kevin Mayer said.Continue Reading at GameSpot",
-      "summary_tr": "The Walt Disney Company's incoming CEO, Josh D'Amaro, is reportedly planning to focus on \"gaming and interactivity\" as one of his top priorities when he takes over for Bob Iger in March.Multiple sources told The Hollywood Reporter that gaming will be one of his \"key strategic priorities\" running the show at Disney, building on what the entertainment giant is already doing with its $1.5 billion deal with Fortnite maker Epic.\"He sees the digital realm--and Epic is a manifestation of that--as a very important place for fans to interact with their favorite characters, franchises, and brands in a comprehensive way that you can monetize and that will serve fan interest in a way that, other than a theme park, it's really impossible to do,\" former Disney executive Kevin Mayer said.Continue Reading at GameSpot",
-      "long_summary": "The Walt Disney Company's incoming CEO, Josh D'Amaro, is reportedly planning to focus on \"gaming and interactivity\" as one of his top priorities when he takes over for Bob Iger in March.Multiple sources told The Hollywood Reporter that gaming will be one of his \"key strategic priorities\" running the show at Disney, building on what the entertainment giant is already doing with its $1.5 billion deal with Fortnite maker Epic.\"He sees the digital realm--and Epic is a manifestation of that--as a",
-      "long_summary_tr": "The Walt Disney Company's incoming CEO, Josh D'Amaro, is reportedly planning to focus on \"gaming and interactivity\" as one of his top priorities when he takes over for Bob Iger in March.Multiple sources told The Hollywood Reporter that gaming will be one of his \"key strategic priorities\" running the show at Disney, building on what the entertainment giant is already doing with its $1.5 billion deal with Fortnite maker Epic.\"He sees the digital realm--and Epic is a manifestation of that--as a",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/gaming-to-be-key-priority-for-new-disney-ceo-expert-says/1100-6538095/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4650435-screenshot2026-02-11at9.41.28%E2%80%AFam.png",
-      "published_at": "2026-02-11T14:16:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Hellraiser: Revival Turns Valentine’s Day Into A Nightmare In New Trailer",
-      "title_tr": "Hellraiser: Revival Turns Valentine’s Day Into A Nightmare In New Trailer",
-      "summary": "Some people say that love can be bittersweet, and in Clive Barker's Hellraiser: Revival, developer Saber Interactive is looking to show players just how twisted romance can really be. Just in time for Valentine's Day, the studio has dropped a new trailer for the upcoming first-person survival-horror game, revealing more about its story and gameplay, and even offering a brief tour of the eternal realm of torment the Cenobites call home. There's also some NSFW content here, so consider yourselves warned.Described as a new chapter in the cult-classic horror series, Hellraiser: Revival will see players explore the depths of the underworld as Aiden, who must use the power of the Genesis Configuration puzzle box to rescue his girlfriend, Sunny, from the Labyrinth. This dark domain is full of depraved Cenobites, and if dealing with them isn't bad enough, players will also have to be mindful of Pinhead--voiced by his original actor Doug Bradley--as he manipulates them from the shadows.The trailer even shows a few more classic Cenobites who accompanied Pinhead in the movies, like the disturbing Chatterer and the Female Cenobite who has a mutilated larynx.Continue Reading at GameSpot",
-      "summary_tr": "Some people say that love can be bittersweet, and in Clive Barker's Hellraiser: Revival, developer Saber Interactive is looking to show players just how twisted romance can really be. Just in time for Valentine's Day, the studio has dropped a new trailer for the upcoming first-person survival-horror game, revealing more about its story and gameplay, and even offering a brief tour of the eternal realm of torment the Cenobites call home. There's also some NSFW content here, so consider yourselves warned.Described as a new chapter in the cult-classic horror series, Hellraiser: Revival will see players explore the depths of the underworld as Aiden, who must use the power of the Genesis Configuration puzzle box to rescue his girlfriend, Sunny, from the Labyrinth. This dark domain is full of depraved Cenobites, and if dealing with them isn't bad enough, players will also have to be mindful of Pinhead--voiced by his original actor Doug Bradley--as he manipulates them from the shadows.The trailer even shows a few more classic Cenobites who accompanied Pinhead in the movies, like the disturbing Chatterer and the Female Cenobite who has a mutilated larynx.Continue Reading at GameSpot",
-      "long_summary": "Some people say that love can be bittersweet, and in Clive Barker's Hellraiser: Revival, developer Saber Interactive is looking to show players just how twisted romance can really be. Just in time for Valentine's Day, the studio has dropped a new trailer for the upcoming first-person survival-horror game, revealing more about its story and gameplay, and even offering a brief tour of the eternal realm of torment the Cenobites call home. There's also some NSFW content here, so consider yourselves",
-      "long_summary_tr": "Some people say that love can be bittersweet, and in Clive Barker's Hellraiser: Revival, developer Saber Interactive is looking to show players just how twisted romance can really be. Just in time for Valentine's Day, the studio has dropped a new trailer for the upcoming first-person survival-horror game, revealing more about its story and gameplay, and even offering a brief tour of the eternal realm of torment the Cenobites call home. There's also some NSFW content here, so consider yourselves",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/hellraiser-revival-turns-valentines-day-into-a-nightmare-in-new-trailer/1100-6538093/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4650412-hellrasier-revival.jpg",
-      "published_at": "2026-02-11T14:10:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "No, bears don’t actually hibernate",
-      "title_tr": "No, bears don’t actually hibernate",
-      "summary": "Their winter survival trick is a months-long power-save mode—and scientists think it could help humans, too.\nThe post No, bears don’t actually hibernate appeared first on Popular Science.",
-      "summary_tr": "Their winter survival trick is a months-long power-save mode—and scientists think it could help humans, too.\nThe post No, bears don’t actually hibernate appeared first on Popular Science.",
-      "long_summary": "Their winter survival trick is a months-long power-save mode—and scientists think it could help humans, too.\nThe post No, bears don’t actually hibernate appeared first on Popular Science.",
-      "long_summary_tr": "Their winter survival trick is a months-long power-save mode—and scientists think it could help humans, too.\nThe post No, bears don’t actually hibernate appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/do-bears-hibernate/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/bears-dont-hibernate-torpor-winter-snow.jpg?quality=85",
-      "published_at": "2026-02-11T14:09:11+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Science Daily",
-      "title": "Interstellar comet 3I/ATLAS is spraying water across the solar system",
-      "title_tr": "Interstellar comet 3I/ATLAS is spraying water across the solar system",
-      "summary": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected through a faint ultraviolet glow of hydroxyl gas. Even more surprising, the comet was blasting out water at a rate of about 40 kilograms per second while still far from the Sun—much farther than where most comets “switch on.”",
-      "summary_tr": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected through a faint ultraviolet glow of hydroxyl gas. Even more surprising, the comet was blasting out water at a rate of about 40 kilograms per second while still far from the Sun—much farther than where most comets “switch on.”",
-      "long_summary": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected through a faint ultraviolet glow of hydroxyl gas. Even more surprising, the comet was blasting out water at a rate of about 40 kilograms per second while still far from the Sun—much farther than",
-      "long_summary_tr": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected through a faint ultraviolet glow of hydroxyl gas. Even more surprising, the comet was blasting out water at a rate of about 40 kilograms per second while still far from the Sun—much farther than",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.sciencedaily.com/releases/2026/02/260211073047.htm",
-      "image": null,
-      "published_at": "2026-02-11T14:08:24+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Classover hisseleri 2 milyon dolarlık geri alım planı sonrası yükseldi",
-      "title_tr": "Classover hisseleri 2 milyon dolarlık geri alım planı sonrası yükseldi",
-      "summary": "Classover hisseleri 2 milyon dolarlık geri alım planı sonrası yükseldi",
-      "summary_tr": "Classover hisseleri 2 milyon dolarlık geri alım planı sonrası yükseldi",
-      "long_summary": "Classover hisseleri 2 milyon dolarlık geri alım planı sonrası yükseldi",
-      "long_summary_tr": "Classover hisseleri 2 milyon dolarlık geri alım planı sonrası yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/classover-hisseleri-2-milyon-dolarlk-geri-alm-plan-sonras-yukseldi-93CH-3758113",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-11T14:06:59+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Nintendo Switch 2’ye Wii, DS ve Sega CD Oyunları Geliyor",
-      "title_tr": "Nintendo Switch 2’ye Wii, DS ve Sega CD Oyunları Geliyor",
-      "summary": "Yeni ortaya çıkan iddialara göre Nintendo, popüler abonelik hizmeti için kapsamlı bir genişleme planlıyor ve Nintendo Switch Online klasik oyunlar kütüphanesine Wii, DS ve Sega CD platformlarından sevilen yapımları eklemeye hazırlanıyor. Bu gelişme, platformun retro oyun arşivini önemli ölçüde zenginleştirme potansiyeli taşıyor. Acele Edin: GOG 4 Oyunu Bedava Dağıtıyor! GOG, WELCOMEGIFT koduyla 4 klasik PC […]",
-      "summary_tr": "Yeni ortaya çıkan iddialara göre Nintendo, popüler abonelik hizmeti için kapsamlı bir genişleme planlıyor ve Nintendo Switch Online klasik oyunlar kütüphanesine Wii, DS ve Sega CD platformlarından sevilen yapımları eklemeye hazırlanıyor. Bu gelişme, platformun retro oyun arşivini önemli ölçüde zenginleştirme potansiyeli taşıyor. Acele Edin: GOG 4 Oyunu Bedava Dağıtıyor! GOG, WELCOMEGIFT koduyla 4 klasik PC […]",
-      "long_summary": "Yeni ortaya çıkan iddialara göre Nintendo, popüler abonelik hizmeti için kapsamlı bir genişleme planlıyor ve Nintendo Switch Online klasik oyunlar kütüphanesine Wii, DS ve Sega CD platformlarından sevilen yapımları eklemeye hazırlanıyor. Bu gelişme, platformun retro oyun arşivini önemli ölçüde zenginleştirme potansiyeli taşıyor. Acele Edin: GOG 4 Oyunu Bedava Dağıtıyor! GOG, WELCOMEGIFT koduyla 4 klasik PC […]",
-      "long_summary_tr": "Yeni ortaya çıkan iddialara göre Nintendo, popüler abonelik hizmeti için kapsamlı bir genişleme planlıyor ve Nintendo Switch Online klasik oyunlar kütüphanesine Wii, DS ve Sega CD platformlarından sevilen yapımları eklemeye hazırlanıyor. Bu gelişme, platformun retro oyun arşivini önemli ölçüde zenginleştirme potansiyeli taşıyor. Acele Edin: GOG 4 Oyunu Bedava Dağıtıyor! GOG, WELCOMEGIFT koduyla 4 klasik PC […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/nintendo-switch-2ye-wii-ds-ve-sega-cd-oyunlari-geliyor",
-      "image": null,
-      "published_at": "2026-02-11T14:00:33+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/tmo-silolarindaki-patlama-davasi-saniklara-15-yila-kadar-hapis-talebi-1711533",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_6c09dcb23d723d3322ec7b81bd5b0c3f-250699.jpg",
+      "published_at": "2026-02-11T16:56:51+00:00"
     },
     {
       "origin": "yabanci",
@@ -645,21 +205,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "'Detrimental to my season' - Hamilton bemoans Ferrari engineer situation",
-      "title_tr": "'Detrimental to my season' - Hamilton bemoans Ferrari engineer situation",
-      "summary": "Lewis Hamilton says Ferrari's failure to appoint a new permanent race engineer for him ahead of the 2026 Formula 1 season will be \"detrimental\" to his second campaign with the Italian team.",
-      "summary_tr": "Lewis Hamilton says Ferrari's failure to appoint a new permanent race engineer for him ahead of the 2026 Formula 1 season will be \"detrimental\" to his second campaign with the Italian team.",
-      "long_summary": "Lewis Hamilton says Ferrari's failure to appoint a new permanent race engineer for him ahead of the 2026 Formula 1 season will be \"detrimental\" to his second campaign with the Italian team.",
-      "long_summary_tr": "Lewis Hamilton says Ferrari's failure to appoint a new permanent race engineer for him ahead of the 2026 Formula 1 season will be \"detrimental\" to his second campaign with the Italian team.",
+      "title": "'Brilliantly taken!' | Powell makes catch of the match!",
+      "title_tr": "'Brilliantly taken!' | Powell makes catch of the match!",
+      "summary": "Rovman Powell makes a brilliant catch on the boundary as West Indies close in on victory against England.",
+      "summary_tr": "Rovman Powell makes a brilliant catch on the boundary as West Indies close in on victory against England.",
+      "long_summary": "Rovman Powell makes a brilliant catch on the boundary as West Indies close in on victory against England.",
+      "long_summary_tr": "Rovman Powell makes a brilliant catch on the boundary as West Indies close in on victory against England.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/f1/news/12040/13505840/lewis-hamilton-ferrari-driver-says-in-season-change-of-his-race-engineer-will-be-detrimental-to-performance",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-lewis-hamilton-ferrari_7162208.jpg?20260211141837",
-      "published_at": "2026-02-11T14:00:00+00:00"
+      "url": "https://www.skysports.com/watch/video/13506358/t20-world-cup-brilliantly-taken-powell-makes-catch-of-the-match",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-cricket-enf_7162375.jpg?20260211165806",
+      "published_at": "2026-02-11T16:54:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -667,219 +227,21 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "Madrid Is Carolina Herrera’s Latest Runway Obsession",
-      "title_tr": "Madrid Is Carolina Herrera’s Latest Runway Obsession",
-      "summary": "Ahead of New York Fashion Week, for the brand’s first European catwalk, creative director Wes Gordon found inspiration in a favorite city.",
-      "summary_tr": "Ahead of New York Fashion Week, for the brand’s first European catwalk, creative director Wes Gordon found inspiration in a favorite city.",
-      "long_summary": "Ahead of New York Fashion Week, for the brand’s first European catwalk, creative director Wes Gordon found inspiration in a favorite city.",
-      "long_summary_tr": "Ahead of New York Fashion Week, for the brand’s first European catwalk, creative director Wes Gordon found inspiration in a favorite city.",
+      "title": "Zayn Malik Explains Why He Doesn’t Think He Was ‘Ever in Love’ With Gigi Hadid",
+      "title_tr": "Zayn Malik Explains Why He Doesn’t Think He Was ‘Ever in Love’ With Gigi Hadid",
+      "summary": "“I have the utmost respect for her,” he stressed before reflecting on his own understanding of love when they were dating.",
+      "summary_tr": "“I have the utmost respect for her,” he stressed before reflecting on his own understanding of love when they were dating.",
+      "long_summary": "“I have the utmost respect for her,” he stressed before reflecting on his own understanding of love when they were dating.",
+      "long_summary_tr": "“I have the utmost respect for her,” he stressed before reflecting on his own understanding of love when they were dating.",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/culture/travel-food/a70291050/carolina-herrera-spring-2026-madrid-show-wes-gordon-interview-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/elm030126fobtravel-001-698a603078a7e.jpg",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Gap Jeans Are Getting an Undeniably Cool Makeover, Thanks to 2026’s Need-to-Know Designers",
-      "title_tr": "Gap Jeans Are Getting an Undeniably Cool Makeover, Thanks to 2026’s Need-to-Know Designers",
-      "summary": "Your denim collection is about to get a major upgrade, courtesy of Harlem’s Fashion Row.",
-      "summary_tr": "Your denim collection is about to get a major upgrade, courtesy of Harlem’s Fashion Row.",
-      "long_summary": "Your denim collection is about to get a major upgrade, courtesy of Harlem’s Fashion Row.",
-      "long_summary_tr": "Your denim collection is about to get a major upgrade, courtesy of Harlem’s Fashion Row.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a70303349/hfr-gap-denim-collaboration/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/hfr-group-1-0656-lr-698b96b5a5e33.jpeg",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Nirvanna the Band the Show the Movie Review",
-      "title_tr": "Nirvanna the Band the Show the Movie Review",
-      "summary": "Nirvanna the Band the Show the Movie review: The Canadian time travel meta-comedy is a fun blast (from the past).",
-      "summary_tr": "Nirvanna the Band the Show the Movie review: The Canadian time travel meta-comedy is a fun blast (from the past).",
-      "long_summary": "Nirvanna the Band the Show the Movie review: The Canadian time travel meta-comedy is a fun blast (from the past).",
-      "long_summary_tr": "Nirvanna the Band the Show the Movie review: The Canadian time travel meta-comedy is a fun blast (from the past).",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/nirvanna-the-band-the-show-the-movie-review",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/ntbtstm-still-01-courtesyofneon-1770761771943.jpg",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "No Man's Sky's Remnant Update Is Here, and We're Finally Getting a Gravity Gun",
-      "title_tr": "No Man's Sky's Remnant Update Is Here, and We're Finally Getting a Gravity Gun",
-      "summary": "No Man's Sky's next big update, Remnant, is here, introducing something developer Hello Games has \"been wanting to give players since the very beginning\": a gravity gun.",
-      "summary_tr": "No Man's Sky's next big update, Remnant, is here, introducing something developer Hello Games has \"been wanting to give players since the very beginning\": a gravity gun.",
-      "long_summary": "No Man's Sky's next big update, Remnant, is here, introducing something developer Hello Games has \"been wanting to give players since the very beginning\": a gravity gun.",
-      "long_summary_tr": "No Man's Sky's next big update, Remnant, is here, introducing something developer Hello Games has \"been wanting to give players since the very beginning\": a gravity gun.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/no-mans-skys-remnant-update-is-here-and-were-finally-getting-a-gravity-gun",
-      "image": "https://assets-prd.ignimgs.com/2026/02/11/yucae3xw-1770813584425.png",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Pokémon Pokopia - The Final Preview",
-      "title_tr": "Pokémon Pokopia - The Final Preview",
-      "summary": "We’ve had some relaxing Pokémon games over the years, but we’ve never quite had a game that embraced this secondary cozy aesthetic fully into its gameplay–until now, with Pokémon Pokopia. I played the first hour of Pokémon’s first life-sim, and the sheer amount of discovery to be made hooked me.",
-      "summary_tr": "We’ve had some relaxing Pokémon games over the years, but we’ve never quite had a game that embraced this secondary cozy aesthetic fully into its gameplay–until now, with Pokémon Pokopia. I played the first hour of Pokémon’s first life-sim, and the sheer amount of discovery to be made hooked me.",
-      "long_summary": "We’ve had some relaxing Pokémon games over the years, but we’ve never quite had a game that embraced this secondary cozy aesthetic fully into its gameplay–until now, with Pokémon Pokopia. I played the first hour of Pokémon’s first life-sim, and the sheer amount of discovery to be made hooked me.",
-      "long_summary_tr": "We’ve had some relaxing Pokémon games over the years, but we’ve never quite had a game that embraced this secondary cozy aesthetic fully into its gameplay–until now, with Pokémon Pokopia. I played the first hour of Pokémon’s first life-sim, and the sheer amount of discovery to be made hooked me.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/pokemon-pokopia-the-final-preview",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/pokemonpokopia-handson-blogroll-1770754657509.jpg",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Pokémon Pokopia Will Take 20-40 Hours to Beat on Average, and There's More After the Credits, Says Director",
-      "title_tr": "Pokémon Pokopia Will Take 20-40 Hours to Beat on Average, and There's More After the Credits, Says Director",
-      "summary": "Pokemon's upcoming Dragon Quest Builders-like sandbox, Pokopia, isn't just a Pokemon-themed block-building playground. It has a main story that, according to the game's director, can take anywhere from 20 to 40 hours to finish...with more to do after the credits.",
-      "summary_tr": "Pokemon's upcoming Dragon Quest Builders-like sandbox, Pokopia, isn't just a Pokemon-themed block-building playground. It has a main story that, according to the game's director, can take anywhere from 20 to 40 hours to finish...with more to do after the credits.",
-      "long_summary": "Pokemon's upcoming Dragon Quest Builders-like sandbox, Pokopia, isn't just a Pokemon-themed block-building playground. It has a main story that, according to the game's director, can take anywhere from 20 to 40 hours to finish...with more to do after the credits.",
-      "long_summary_tr": "Pokemon's upcoming Dragon Quest Builders-like sandbox, Pokopia, isn't just a Pokemon-themed block-building playground. It has a main story that, according to the game's director, can take anywhere from 20 to 40 hours to finish...with more to do after the credits.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/pokemon-pokopia-will-take-20-40-hours-to-beat-on-average-and-theres-more-after-the-credits-says-director",
-      "image": "https://assets-prd.ignimgs.com/2025/11/11/pokmon-pokopia-nintendo-direct-9-12-2025-00-02-20-1762870179565.png",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Pokemon Pokopia Borrows Pieces Of Animal Crossing, Minecraft, And … Viva Pinata?",
-      "title_tr": "Pokemon Pokopia Borrows Pieces Of Animal Crossing, Minecraft, And … Viva Pinata?",
-      "summary": "Given that the Pokemon franchise has explored genres ranging from visual novel to turn-based tactics, it's downright confounding that it hasn't yet produced a cozy life sim. Pokemon Pokopia is coming to change that, and doing it in a uniquely Pokemon way. After a lengthy hands-on session at a Nintendo showcase event, this take on different cozy-game mechanics and mainstays blend to feel like something that stands on its own.You're a lost Ditto, heartbroken over the loss of your trainer. When the game starts, you choose a look based on your memories of the trainer, serving as the character creator. No matter what you choose, you'll be left looking like an odd, beady-Ditto-eyed approximation of a human. You quickly meet up with Professor Tangrowth, who walks you through some of the earliest parts of the game, centered around attracting and meeting up with new Pokemon.The visual style of Pokopia is unlike any other we've seen in Pokemon games. The cube-based geometry most readily recalls Minecraft, but I was also reminded of the Dragon Quest Builders games due to how it iterates on that style with more detail, shading, and rounded edges. The Builders influence is also felt with the more mission-based structure of Pokopia, as opposed to Minecraft's open-ended survival. And as a fellow Switch title, it's hard not to think of Animal Crossing, to which Pokopia bears only a passing resemblance. You are building up a community of characters, but this feels more flexible in the style of Minecraft and DQ Builders, and at least from my limited time, less focused on social connections.Continue Reading at GameSpot",
-      "summary_tr": "Given that the Pokemon franchise has explored genres ranging from visual novel to turn-based tactics, it's downright confounding that it hasn't yet produced a cozy life sim. Pokemon Pokopia is coming to change that, and doing it in a uniquely Pokemon way. After a lengthy hands-on session at a Nintendo showcase event, this take on different cozy-game mechanics and mainstays blend to feel like something that stands on its own.You're a lost Ditto, heartbroken over the loss of your trainer. When the game starts, you choose a look based on your memories of the trainer, serving as the character creator. No matter what you choose, you'll be left looking like an odd, beady-Ditto-eyed approximation of a human. You quickly meet up with Professor Tangrowth, who walks you through some of the earliest parts of the game, centered around attracting and meeting up with new Pokemon.The visual style of Pokopia is unlike any other we've seen in Pokemon games. The cube-based geometry most readily recalls Minecraft, but I was also reminded of the Dragon Quest Builders games due to how it iterates on that style with more detail, shading, and rounded edges. The Builders influence is also felt with the more mission-based structure of Pokopia, as opposed to Minecraft's open-ended survival. And as a fellow Switch title, it's hard not to think of Animal Crossing, to which Pokopia bears only a passing resemblance. You are building up a community of characters, but this feels more flexible in the style of Minecraft and DQ Builders, and at least from my limited time, less focused on social connections.Continue Reading at GameSpot",
-      "long_summary": "Given that the Pokemon franchise has explored genres ranging from visual novel to turn-based tactics, it's downright confounding that it hasn't yet produced a cozy life sim. Pokemon Pokopia is coming to change that, and doing it in a uniquely Pokemon way. After a lengthy hands-on session at a Nintendo showcase event, this take on different cozy-game mechanics and mainstays blend to feel like something that stands on its own.You're a lost Ditto, heartbroken over the loss of your trainer. When",
-      "long_summary_tr": "Given that the Pokemon franchise has explored genres ranging from visual novel to turn-based tactics, it's downright confounding that it hasn't yet produced a cozy life sim. Pokemon Pokopia is coming to change that, and doing it in a uniquely Pokemon way. After a lengthy hands-on session at a Nintendo showcase event, this take on different cozy-game mechanics and mainstays blend to feel like something that stands on its own.You're a lost Ditto, heartbroken over the loss of your trainer. When",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/pokemon-pokopia-borrows-pieces-of-animal-crossing-minecraft-and-viva-pinata/1100-6538062/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1585/15855271/4649570-switch2_pokemonpokopia_keyart.png",
-      "published_at": "2026-02-11T14:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "PRF Technologies hisseleri Romanya’daki güneş santrali için SaaS anlaşması sonrası yükseldi",
-      "title_tr": "PRF Technologies hisseleri Romanya’daki güneş santrali için SaaS anlaşması sonrası yükseldi",
-      "summary": "PRF Technologies hisseleri Romanya’daki güneş santrali için SaaS anlaşması sonrası yükseldi",
-      "summary_tr": "PRF Technologies hisseleri Romanya’daki güneş santrali için SaaS anlaşması sonrası yükseldi",
-      "long_summary": "PRF Technologies hisseleri Romanya’daki güneş santrali için SaaS anlaşması sonrası yükseldi",
-      "long_summary_tr": "PRF Technologies hisseleri Romanya’daki güneş santrali için SaaS anlaşması sonrası yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/prf-technologies-hisseleri-romanyadaki-gunes-santrali-icin-saas-anlasmas-sonras-yukseldi-93CH-3758092",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-11T13:59:43+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Trump-class battleships are ‘exactly’ what the Navy needs, SWO boss says",
-      "title_tr": "Trump-class battleships are ‘exactly’ what the Navy needs, SWO boss says",
-      "summary": "The Navy ran into design challenges with its next-generation destroyer, emphasizing the need for a larger battleship, according to Vice Adm. Brendan McLane.",
-      "summary_tr": "The Navy ran into design challenges with its next-generation destroyer, emphasizing the need for a larger battleship, according to Vice Adm. Brendan McLane.",
-      "long_summary": "The Navy ran into design challenges with its next-generation destroyer, emphasizing the need for a larger battleship, according to Vice Adm. Brendan McLane.",
-      "long_summary_tr": "The Navy ran into design challenges with its next-generation destroyer, emphasizing the need for a larger battleship, according to Vice Adm. Brendan McLane.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/02/trump-class-battleships-are-exactly-what-the-navy-needs-swo-boss-says/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/9516441-scaled-e1770773796460-1024x577.jpg",
-      "published_at": "2026-02-11T13:59:07+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "It's 2026, And The Wii Is Getting A New Physical Game Release",
-      "title_tr": "It's 2026, And The Wii Is Getting A New Physical Game Release",
-      "summary": "Consoles that see tremendous market success tend to have surprisingly long lives, simply owing to their large install base. The Wii is one of these systems: It famously kept on seeing new releases all the way through Just Dance 2020. But there are some developers out there who just really like a particular platform, eagerly supporting their favorite retro consoles through homebrew projects. At retro gaming conventions, you'll see lots of these kinds of games for the Atari 2600, NES, Genesis/Mega Drive, even cult-favorite consoles like the Neo Geo. But, as much as we're loathe to admit it, the Wii is considered \"retro\" now--and Brazilian developer Nai Adventure is bringing their throwback shoot-'em-up Metal Canary to the platform on actual discs.          Metal Canary is a classic, arcade-style scrolling shooter featuring pixel-art visuals. The game was originally developed as a homebrew title for Dreamcast with a PC port, but according to the developer in the description of the YouTube reveal, \"the Wii version was ported in just six hours.\" What makes Metal Canary even more unusual is that it's getting a physical release on both the Wii and the Dreamcast.As of right now, the game is still under development but is nearly complete, with \"only a few tweaks left and the implementation of a video player, which should be added soon.\" The completed game will formally debut at Retrocon 2026 in Oaks, Pennsylvania this September. The physical discs will be manufactured by Brazilian publisher Old Game for worldwide sale. If your Wii (or Dreamcast) collector's shelf has an empty hole that needs filling, you'll have a brand-new game to fill it with--and you'll be supporting an indie developer in the process.",
-      "summary_tr": "Consoles that see tremendous market success tend to have surprisingly long lives, simply owing to their large install base. The Wii is one of these systems: It famously kept on seeing new releases all the way through Just Dance 2020. But there are some developers out there who just really like a particular platform, eagerly supporting their favorite retro consoles through homebrew projects. At retro gaming conventions, you'll see lots of these kinds of games for the Atari 2600, NES, Genesis/Mega Drive, even cult-favorite consoles like the Neo Geo. But, as much as we're loathe to admit it, the Wii is considered \"retro\" now--and Brazilian developer Nai Adventure is bringing their throwback shoot-'em-up Metal Canary to the platform on actual discs.          Metal Canary is a classic, arcade-style scrolling shooter featuring pixel-art visuals. The game was originally developed as a homebrew title for Dreamcast with a PC port, but according to the developer in the description of the YouTube reveal, \"the Wii version was ported in just six hours.\" What makes Metal Canary even more unusual is that it's getting a physical release on both the Wii and the Dreamcast.As of right now, the game is still under development but is nearly complete, with \"only a few tweaks left and the implementation of a video player, which should be added soon.\" The completed game will formally debut at Retrocon 2026 in Oaks, Pennsylvania this September. The physical discs will be manufactured by Brazilian publisher Old Game for worldwide sale. If your Wii (or Dreamcast) collector's shelf has an empty hole that needs filling, you'll have a brand-new game to fill it with--and you'll be supporting an indie developer in the process.",
-      "long_summary": "Consoles that see tremendous market success tend to have surprisingly long lives, simply owing to their large install base. The Wii is one of these systems: It famously kept on seeing new releases all the way through Just Dance 2020. But there are some developers out there who just really like a particular platform, eagerly supporting their favorite retro consoles through homebrew projects. At retro gaming conventions, you'll see lots of these kinds of games for the Atari 2600, NES,",
-      "long_summary_tr": "Consoles that see tremendous market success tend to have surprisingly long lives, simply owing to their large install base. The Wii is one of these systems: It famously kept on seeing new releases all the way through Just Dance 2020. But there are some developers out there who just really like a particular platform, eagerly supporting their favorite retro consoles through homebrew projects. At retro gaming conventions, you'll see lots of these kinds of games for the Atari 2600, NES,",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/its-2026-and-the-wii-is-getting-a-new-physical-game-release/1100-6538083/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1532/15327795/4649918-metalcanary.jpg",
-      "published_at": "2026-02-11T13:57:00+00:00"
+      "url": "https://www.elle.com/culture/celebrities/a70312844/zayn-malik-not-being-in-love-with-gigi-hadid-comment-explained/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2272a932-5e20-4001-a4b7-dd63d530ce8f.jpeg",
+      "published_at": "2026-02-11T16:52:59+00:00"
     },
     {
       "origin": "yabanci",
@@ -887,21 +249,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Archer nabs wicket in opening over as Hope caught",
-      "title_tr": "Archer nabs wicket in opening over as Hope caught",
-      "summary": "Watch England's Jofra Archer take a wicket in the opening over of their match against the West Indies, as Shai Hope is caught by Tom Banton.",
-      "summary_tr": "Watch England's Jofra Archer take a wicket in the opening over of their match against the West Indies, as Shai Hope is caught by Tom Banton.",
-      "long_summary": "Watch England's Jofra Archer take a wicket in the opening over of their match against the West Indies, as Shai Hope is caught by Tom Banton.",
-      "long_summary_tr": "Watch England's Jofra Archer take a wicket in the opening over of their match against the West Indies, as Shai Hope is caught by Tom Banton.",
+      "title": "Fearing oblivion, sensing toxicity - Spurs reluctantly sack Frank",
+      "title_tr": "Fearing oblivion, sensing toxicity - Spurs reluctantly sack Frank",
+      "summary": "Tottenham sack Thomas Frank as head coach after a run of only two wins in 17 Premier League matches.",
+      "summary_tr": "Tottenham sack Thomas Frank as head coach after a run of only two wins in 17 Premier League matches.",
+      "long_summary": "Tottenham sack Thomas Frank as head coach after a run of only two wins in 17 Premier League matches.",
+      "long_summary_tr": "Tottenham sack Thomas Frank as head coach after a run of only two wins in 17 Premier League matches.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/cricket/videos/cly100g000jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168a/live/01750e30-0751-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-11T13:56:43+00:00"
+      "url": "https://www.bbc.com/sport/football/articles/ckgzqdzz1zdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7888/live/ec1e0770-0738-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-11T16:52:15+00:00"
     },
     {
       "origin": "turkiye",
@@ -909,43 +271,21 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
-      "title": "PMGC hisseleri, NorthStrive’ın hayvan sağlığı lisans anlaşması imzalamasının ardından yükseldi",
-      "title_tr": "PMGC hisseleri, NorthStrive’ın hayvan sağlığı lisans anlaşması imzalamasının ardından yükseldi",
-      "summary": "PMGC hisseleri, NorthStrive’ın hayvan sağlığı lisans anlaşması imzalamasının ardından yükseldi",
-      "summary_tr": "PMGC hisseleri, NorthStrive’ın hayvan sağlığı lisans anlaşması imzalamasının ardından yükseldi",
-      "long_summary": "PMGC hisseleri, NorthStrive’ın hayvan sağlığı lisans anlaşması imzalamasının ardından yükseldi",
-      "long_summary_tr": "PMGC hisseleri, NorthStrive’ın hayvan sağlığı lisans anlaşması imzalamasının ardından yükseldi",
+      "title": "Carvana hisseleri yasal gelişmeler ve yaklaşan finansal rapor öncesi düşüşte",
+      "title_tr": "Carvana hisseleri yasal gelişmeler ve yaklaşan finansal rapor öncesi düşüşte",
+      "summary": "Carvana hisseleri yasal gelişmeler ve yaklaşan finansal rapor öncesi düşüşte",
+      "summary_tr": "Carvana hisseleri yasal gelişmeler ve yaklaşan finansal rapor öncesi düşüşte",
+      "long_summary": "Carvana hisseleri yasal gelişmeler ve yaklaşan finansal rapor öncesi düşüşte",
+      "long_summary_tr": "Carvana hisseleri yasal gelişmeler ve yaklaşan finansal rapor öncesi düşüşte",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/pmgc-hisseleri-northstriven-hayvan-saglg-lisans-anlasmas-imzalamasnn-ardndan-yukseldi-93CH-3758072",
+      "url": "https://tr.investing.com/news/stock-market-news/carvana-hisseleri-yasal-gelismeler-ve-yaklasan-finansal-rapor-oncesi-dususte-93CH-3758770",
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-11T13:54:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Upstream Bio hisseleri karışık Faz 2 astım denemesi sonuçlarından sonra düşüşte",
-      "title_tr": "Upstream Bio hisseleri karışık Faz 2 astım denemesi sonuçlarından sonra düşüşte",
-      "summary": "Upstream Bio hisseleri karışık Faz 2 astım denemesi sonuçlarından sonra düşüşte",
-      "summary_tr": "Upstream Bio hisseleri karışık Faz 2 astım denemesi sonuçlarından sonra düşüşte",
-      "long_summary": "Upstream Bio hisseleri karışık Faz 2 astım denemesi sonuçlarından sonra düşüşte",
-      "long_summary_tr": "Upstream Bio hisseleri karışık Faz 2 astım denemesi sonuçlarından sonra düşüşte",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/upstream-bio-hisseleri-karsk-faz-2-astm-denemesi-sonuclarndan-sonra-dususte-93CH-3758069",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-11T13:52:18+00:00"
+      "published_at": "2026-02-11T16:50:52+00:00"
     },
     {
       "origin": "yabanci",
@@ -953,65 +293,43 @@
       "category_slug": "dunya",
       "is_local": false,
       "source": "BBC World",
-      "title": "Tumbler Ridge mass shooting: What we know so far",
-      "title_tr": "Tumbler Ridge mass shooting: What we know so far",
-      "summary": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada.",
-      "summary_tr": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada.",
-      "long_summary": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada.",
-      "long_summary_tr": "Nine people have been killed and 25 injured in the shootings at a school and home in a rural community in western Canada.",
+      "title": "Powerful cyclone kills at least 20 as it tears through Madagascar port",
+      "title_tr": "Powerful cyclone kills at least 20 as it tears through Madagascar port",
+      "summary": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
+      "summary_tr": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
+      "long_summary": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
+      "long_summary_tr": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
       "why_important": [
         "Uluslararası dengeleri ilgilendirmesi"
       ],
       "possible_impacts": [
         "Uluslararası ilişkilerde dengeler değişebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/c1e98w35qyjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/524d/live/9997db40-0745-11f1-9972-d3f265c101c6.png",
-      "published_at": "2026-02-11T13:49:21+00:00"
+      "url": "https://www.bbc.com/news/articles/c931zzzep0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/036b/live/983c5930-0761-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-11T16:44:35+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "TBMM'de bakanların yemin töreninde gerginlik",
-      "title_tr": "TBMM'de bakanların yemin töreninde gerginlik",
-      "summary": "TBMM'de yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi yemin ederken CHP'li vekillerin kürsüyü işgal etmesi ile gergin anlar yaşandı.Yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, yemin töreni için TBMM Genel Kurulu'na geldi. TBMM Başkanvekili Bekir Bozdağ yemin etmek üzere Gürlek'i kürsüye davet ederken, CHP'li milletvekilleri kürsüyü işgal ettiler. Bunun üzerine AK Parti milletvekilleri de kürsüye yöneldiler. Milletvekilleri arasında bu sırada itişmekler ve yumruklaşmalar yaşandı.",
-      "summary_tr": "TBMM'de yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi yemin ederken CHP'li vekillerin kürsüyü işgal etmesi ile gergin anlar yaşandı.Yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, yemin töreni için TBMM Genel Kurulu'na geldi. TBMM Başkanvekili Bekir Bozdağ yemin etmek üzere Gürlek'i kürsüye davet ederken, CHP'li milletvekilleri kürsüyü işgal ettiler. Bunun üzerine AK Parti milletvekilleri de kürsüye yöneldiler. Milletvekilleri arasında bu sırada itişmekler ve yumruklaşmalar yaşandı.",
-      "long_summary": "TBMM'de yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi yemin ederken CHP'li vekillerin kürsüyü işgal etmesi ile gergin anlar yaşandı.Yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, yemin töreni için TBMM Genel Kurulu'na geldi. TBMM Başkanvekili Bekir Bozdağ yemin etmek üzere Gürlek'i kürsüye davet ederken, CHP'li milletvekilleri kürsüyü işgal ettiler. Bunun üzerine AK Parti milletvekilleri de kürsüye yöneldiler. Milletvekilleri arasında bu",
-      "long_summary_tr": "TBMM'de yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi yemin ederken CHP'li vekillerin kürsüyü işgal etmesi ile gergin anlar yaşandı.Yeni atanan Adalet Bakanı Akın Gürlek ve İçişleri Bakanı Mustafa Çiftçi, yemin töreni için TBMM Genel Kurulu'na geldi. TBMM Başkanvekili Bekir Bozdağ yemin etmek üzere Gürlek'i kürsüye davet ederken, CHP'li milletvekilleri kürsüyü işgal ettiler. Bunun üzerine AK Parti milletvekilleri de kürsüye yöneldiler. Milletvekilleri arasında bu",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/tbmm-de-bakanlarin-yemin-toreninde-gerginlik-1575465",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/11/tbmm-de-bakanlarin-yemin-toreninde-gerginlik-1770821606-25_large.webp",
-      "published_at": "2026-02-11T13:48:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
+      "category": "Finans",
+      "category_slug": "finans",
       "is_local": false,
-      "source": "GameSpot",
-      "title": "Discord Attempts To Clarify Its New Age-Verification Rules",
-      "title_tr": "Discord Attempts To Clarify Its New Age-Verification Rules",
-      "summary": "Earlier this week, Discord announced plans to officially roll out age-verification protocols starting in March. Ostensibly, this is meant to protect younger users from inappropriate content or predatory individuals. Now, Discord has issued further clarifications about the new guidelines while attempting to convince most of its users that they won't be greatly affected by the changes.In a lengthy message posted to X, Discord states that the \"vast majority of people can continue using Discord exactly as they do today, without ever being asked to confirm their age.\" According to the company, it can confirm the age of its adult users \"using information we already have.\" Users will only need to prove they are an adult to reach age-restricted servers and channels, or to change the safety settings on their account.We’ve seen some questions about our age assurance update and we want to share more clarity. We know how important these changes are to our community.Here’s what we want you to know:‣‣‣ 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗶𝘀 𝗻𝗼𝘁 𝗿𝗲𝗾𝘂𝗶𝗿𝗶𝗻𝗴 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝘁𝗼 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗮… https://t.co/IdjRn06c5A  — Discord (@discord) February 10, 2026              Discord also shared assurances that facial scans remain on users' devices, rather than on Discord's servers. The company states that IDs will only be used to verify age before being deleted, and promises that \"your identity is never associated with your account.\"Continue Reading at GameSpot",
-      "summary_tr": "Earlier this week, Discord announced plans to officially roll out age-verification protocols starting in March. Ostensibly, this is meant to protect younger users from inappropriate content or predatory individuals. Now, Discord has issued further clarifications about the new guidelines while attempting to convince most of its users that they won't be greatly affected by the changes.In a lengthy message posted to X, Discord states that the \"vast majority of people can continue using Discord exactly as they do today, without ever being asked to confirm their age.\" According to the company, it can confirm the age of its adult users \"using information we already have.\" Users will only need to prove they are an adult to reach age-restricted servers and channels, or to change the safety settings on their account.We’ve seen some questions about our age assurance update and we want to share more clarity. We know how important these changes are to our community.Here’s what we want you to know:‣‣‣ 𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗶𝘀 𝗻𝗼𝘁 𝗿𝗲𝗾𝘂𝗶𝗿𝗶𝗻𝗴 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝘁𝗼 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲 𝗮… https://t.co/IdjRn06c5A  — Discord (@discord) February 10, 2026              Discord also shared assurances that facial scans remain on users' devices, rather than on Discord's servers. The company states that IDs will only be used to verify age before being deleted, and promises that \"your identity is never associated with your account.\"Continue Reading at GameSpot",
-      "long_summary": "Earlier this week, Discord announced plans to officially roll out age-verification protocols starting in March. Ostensibly, this is meant to protect younger users from inappropriate content or predatory individuals. Now, Discord has issued further clarifications about the new guidelines while attempting to convince most of its users that they won't be greatly affected by the changes.In a lengthy message posted to X, Discord states that the \"vast majority of people can continue using Discord",
-      "long_summary_tr": "Earlier this week, Discord announced plans to officially roll out age-verification protocols starting in March. Ostensibly, this is meant to protect younger users from inappropriate content or predatory individuals. Now, Discord has issued further clarifications about the new guidelines while attempting to convince most of its users that they won't be greatly affected by the changes.In a lengthy message posted to X, Discord states that the \"vast majority of people can continue using Discord",
+      "source": "Bloomberg HT",
+      "title": "Erdoğan: Yunanistan ile ikili ticaret hedefimiz 10 milyar dolar",
+      "title_tr": "Erdoğan: Yunanistan ile ikili ticaret hedefimiz 10 milyar dolar",
+      "summary": "Erdoğan, Yunanistan ile ilişkilerde pozitif gündemin korunacağını vurgulayarak, ikili ticaret hacmini 10 milyar dolara çıkarma hedefi doğrultusunda işbirliğinin süreceğini söyledi.",
+      "summary_tr": "Erdoğan, Yunanistan ile ilişkilerde pozitif gündemin korunacağını vurgulayarak, ikili ticaret hacmini 10 milyar dolara çıkarma hedefi doğrultusunda işbirliğinin süreceğini söyledi.",
+      "long_summary": "Erdoğan, Yunanistan ile ilişkilerde pozitif gündemin korunacağını vurgulayarak, ikili ticaret hacmini 10 milyar dolara çıkarma hedefi doğrultusunda işbirliğinin süreceğini söyledi.",
+      "long_summary_tr": "Erdoğan, Yunanistan ile ilişkilerde pozitif gündemin korunacağını vurgulayarak, ikili ticaret hacmini 10 milyar dolara çıkarma hedefi doğrultusunda işbirliğinin süreceğini söyledi.",
       "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/discord-attempts-to-clarify-its-new-age-verification-rules/1100-6538091/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4650391-discordlogo.jpg",
-      "published_at": "2026-02-11T13:48:00+00:00"
+      "url": "https://www.bloomberght.com/erdogan-yunanistan-ile-ikili-ticaret-hedefimiz-10-milyar-dolar-3768889",
+      "image": null,
+      "published_at": "2026-02-11T16:43:50+00:00"
     },
     {
       "origin": "turkiye",
@@ -1019,87 +337,769 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Bu ay Merkez Bankası toplantısı var mı? TCMB faiz kararı ne zaman açıklanacak?",
-      "title_tr": "Bu ay Merkez Bankası toplantısı var mı? TCMB faiz kararı ne zaman açıklanacak?",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası toplantısının bu ay yapılıp yapılmayacağı merak ediliyor. Vatandaşlar şubat ayı ilerlerken tarihleri sıkça araştırıyor. Binlerce kişi her gün &quot;TCMB faiz kararı ne zaman açıklanacak&quot; diye soruyor.",
-      "summary_tr": "Türkiye Cumhuriyet Merkez Bankası toplantısının bu ay yapılıp yapılmayacağı merak ediliyor. Vatandaşlar şubat ayı ilerlerken tarihleri sıkça araştırıyor. Binlerce kişi her gün &quot;TCMB faiz kararı ne zaman açıklanacak&quot; diye soruyor.",
-      "long_summary": "Türkiye Cumhuriyet Merkez Bankası toplantısının bu ay yapılıp yapılmayacağı merak ediliyor. Vatandaşlar şubat ayı ilerlerken tarihleri sıkça araştırıyor. Binlerce kişi her gün &quot;TCMB faiz kararı ne zaman açıklanacak&quot; diye soruyor.",
-      "long_summary_tr": "Türkiye Cumhuriyet Merkez Bankası toplantısının bu ay yapılıp yapılmayacağı merak ediliyor. Vatandaşlar şubat ayı ilerlerken tarihleri sıkça araştırıyor. Binlerce kişi her gün &quot;TCMB faiz kararı ne zaman açıklanacak&quot; diye soruyor.",
+      "title": "Bakan Bayraktar duyurdu: TPAO, Libya'da petrol ve gaz arayacak",
+      "title_tr": "Bakan Bayraktar duyurdu: TPAO, Libya'da petrol ve gaz arayacak",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, &quot;TPAO, Libya petrol ve doğal gaz ihalesine verdiği teklifle hem denizde hem de karada hidrokarbon arama faaliyetleri yürütmeye hak kazandı&quot; dedi.",
+      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, &quot;TPAO, Libya petrol ve doğal gaz ihalesine verdiği teklifle hem denizde hem de karada hidrokarbon arama faaliyetleri yürütmeye hak kazandı&quot; dedi.",
+      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, &quot;TPAO, Libya petrol ve doğal gaz ihalesine verdiği teklifle hem denizde hem de karada hidrokarbon arama faaliyetleri yürütmeye hak kazandı&quot; dedi.",
+      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, &quot;TPAO, Libya petrol ve doğal gaz ihalesine verdiği teklifle hem denizde hem de karada hidrokarbon arama faaliyetleri yürütmeye hak kazandı&quot; dedi.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/ekonomi/bu-ay-merkez-bankasi-toplantisi-var-mi-tcmb-faiz-karari-ne-zaman-aciklanacak-haberi-814717",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/merkez-bankasi-j9bt_cover.png",
-      "published_at": "2026-02-11T13:46:00+00:00"
+      "url": "https://www.dunya.com/ekonomi/bakan-bayraktar-duyurdu-tpao-libyada-petrol-ve-gaz-arayacak-haberi-814751",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/tpao-shkc_cover.jpg",
+      "published_at": "2026-02-11T16:43:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Aziz İhsan Aktaş davasında 10. gün. Davanın bir numaralı sanığı savunma yaptı",
+      "title_tr": "Aziz İhsan Aktaş davasında 10. gün. Davanın bir numaralı sanığı savunma yaptı",
+      "summary": "CHP'li 7 belediye başkanının da yargılandığı 200 sanıklı Aziz İhsan Aktaş davası günlerdir sürüyor. Bugün davanın bir numaralı sanığı Aziz İhsan Aktaş, savunma yaptı.",
+      "summary_tr": "CHP'li 7 belediye başkanının da yargılandığı 200 sanıklı Aziz İhsan Aktaş davası günlerdir sürüyor. Bugün davanın bir numaralı sanığı Aziz İhsan Aktaş, savunma yaptı.",
+      "long_summary": "CHP'li 7 belediye başkanının da yargılandığı 200 sanıklı Aziz İhsan Aktaş davası günlerdir sürüyor. Bugün davanın bir numaralı sanığı Aziz İhsan Aktaş, savunma yaptı.",
+      "long_summary_tr": "CHP'li 7 belediye başkanının da yargılandığı 200 sanıklı Aziz İhsan Aktaş davası günlerdir sürüyor. Bugün davanın bir numaralı sanığı Aziz İhsan Aktaş, savunma yaptı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/aziz-ihsan-aktas-davasinda-10-gun-davanin-bir-numarali-sanigi-savunma-yapiyor-1711472",
+      "image": "https://images.ntv.com.tr/images/Untitled-1-824609.jpg",
+      "published_at": "2026-02-11T16:40:08+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "NATO kicks off ‘Arctic Sentry’ operation following Greenland brouhaha",
+      "title_tr": "NATO kicks off ‘Arctic Sentry’ operation following Greenland brouhaha",
+      "summary": "The mission will tie together various allied activities in the region, according to NATO officials.",
+      "summary_tr": "The mission will tie together various allied activities in the region, according to NATO officials.",
+      "long_summary": "The mission will tie together various allied activities in the region, according to NATO officials.",
+      "long_summary_tr": "The mission will tie together various allied activities in the region, according to NATO officials.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/02/11/nato-kicks-off-arctic-sentry-operation-following-greenland-brouhaha/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/25L65T4Z5RFSDNNYTB2LTOXLZA.jpg",
+      "published_at": "2026-02-11T16:36:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Bilançolar beklentilerden iyi geliyor",
+      "title_tr": "Bilançolar beklentilerden iyi geliyor",
+      "summary": "Bilançolar beklentilerden iyi geliyor",
+      "summary_tr": "Bilançolar beklentilerden iyi geliyor",
+      "long_summary": "Bilançolar beklentilerden iyi geliyor",
+      "long_summary_tr": "Bilançolar beklentilerden iyi geliyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/bilancolar-beklentilerden-iyi-geliyor-3768888",
+      "image": null,
+      "published_at": "2026-02-11T16:33:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Sanayi üretimi ve perakende satışlar makası 4. çeyrekte de sürdü",
+      "title_tr": "Sanayi üretimi ve perakende satışlar makası 4. çeyrekte de sürdü",
+      "summary": "Sanayi üretimi ve perakende satışlar makası 4. çeyrekte de sürdü",
+      "summary_tr": "Sanayi üretimi ve perakende satışlar makası 4. çeyrekte de sürdü",
+      "long_summary": "Sanayi üretimi ve perakende satışlar makası 4. çeyrekte de sürdü",
+      "long_summary_tr": "Sanayi üretimi ve perakende satışlar makası 4. çeyrekte de sürdü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/sanayi-uretimi-ve-perakende-satislar-makasi-4-ceyrekte-de-surdu-3768887",
+      "image": null,
+      "published_at": "2026-02-11T16:33:23+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Perakende satışlar Aralık'ta da arttı",
+      "title_tr": "Perakende satışlar Aralık'ta da arttı",
+      "summary": "Perakende satışlar Aralık'ta da arttı",
+      "summary_tr": "Perakende satışlar Aralık'ta da arttı",
+      "long_summary": "Perakende satışlar Aralık'ta da arttı",
+      "long_summary_tr": "Perakende satışlar Aralık'ta da arttı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/perakende-satislar-aralik-ta-da-artti-3768886",
+      "image": null,
+      "published_at": "2026-02-11T16:33:23+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Kartlı harcamalarda reel büyüme 2026'da da devam ediyor",
+      "title_tr": "Kartlı harcamalarda reel büyüme 2026'da da devam ediyor",
+      "summary": "Kartlı harcamalarda reel büyüme 2026'da da devam ediyor",
+      "summary_tr": "Kartlı harcamalarda reel büyüme 2026'da da devam ediyor",
+      "long_summary": "Kartlı harcamalarda reel büyüme 2026'da da devam ediyor",
+      "long_summary_tr": "Kartlı harcamalarda reel büyüme 2026'da da devam ediyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/kartli-harcamalarda-reel-buyume-2026-da-da-devam-ediyor-3768885",
+      "image": null,
+      "published_at": "2026-02-11T16:33:22+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "West Indies take THREE England wickets in quick succession!",
+      "title_tr": "West Indies take THREE England wickets in quick succession!",
+      "summary": "West Indies took three quick England wickets during their match at the T20 World Cup.",
+      "summary_tr": "West Indies took three quick England wickets during their match at the T20 World Cup.",
+      "long_summary": "West Indies took three quick England wickets during their match at the T20 World Cup.",
+      "long_summary_tr": "West Indies took three quick England wickets during their match at the T20 World Cup.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13506349/t20-world-cup-west-indies-take-three-england-wickets-in-quick-succession",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-cricket-t20_7162355.jpg?20260211163804",
+      "published_at": "2026-02-11T16:33:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "TBMM'de olaylı yemin töreni. AK Parti ve Kabine'den tepkiler",
+      "title_tr": "TBMM'de olaylı yemin töreni. AK Parti ve Kabine'den tepkiler",
+      "summary": "Meclis'te yaşanan yemin gerilimiyle ilgili Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan açıklama geldi. Yılmaz, \"Hangi partiye oy vermiş olursa olsun aziz milletimiz, Türkiye Büyük Millet Meclisi’nde bu tür görüntüleri hak etmiyor\" dedi.",
+      "summary_tr": "Meclis'te yaşanan yemin gerilimiyle ilgili Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan açıklama geldi. Yılmaz, \"Hangi partiye oy vermiş olursa olsun aziz milletimiz, Türkiye Büyük Millet Meclisi’nde bu tür görüntüleri hak etmiyor\" dedi.",
+      "long_summary": "Meclis'te yaşanan yemin gerilimiyle ilgili Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan açıklama geldi. Yılmaz, \"Hangi partiye oy vermiş olursa olsun aziz milletimiz, Türkiye Büyük Millet Meclisi’nde bu tür görüntüleri hak etmiyor\" dedi.",
+      "long_summary_tr": "Meclis'te yaşanan yemin gerilimiyle ilgili Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan açıklama geldi. Yılmaz, \"Hangi partiye oy vermiş olursa olsun aziz milletimiz, Türkiye Büyük Millet Meclisi’nde bu tür görüntüleri hak etmiyor\" dedi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/tbmmde-olayli-yemin-toreni-cevdet-yilmaz-aziz-milletimiz-tbmmde-bu-tur-goruntuleri-hak-etmiyor-1711532",
+      "image": "https://images.ntv.com.tr/images/CevdetYılmaz-880069(3).jpg",
+      "published_at": "2026-02-11T16:32:52+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Red Bull are 'the benchmark', says Wolff",
+      "title_tr": "Red Bull are 'the benchmark', says Wolff",
+      "summary": "Red Bull are \"the benchmark\" in Formula 1 as pre-season testing begins in earnest in Bahrain, says Mercedes team boss Toto Wolff.",
+      "summary_tr": "Red Bull are \"the benchmark\" in Formula 1 as pre-season testing begins in earnest in Bahrain, says Mercedes team boss Toto Wolff.",
+      "long_summary": "Red Bull are \"the benchmark\" in Formula 1 as pre-season testing begins in earnest in Bahrain, says Mercedes team boss Toto Wolff.",
+      "long_summary_tr": "Red Bull are \"the benchmark\" in Formula 1 as pre-season testing begins in earnest in Bahrain, says Mercedes team boss Toto Wolff.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/formula1/articles/cvg8x3n0znmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3fe/live/91642720-0764-11f1-b7e1-afb6d0884c18.jpg",
+      "published_at": "2026-02-11T16:31:28+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "How Brentford and Arsenal have transformed since first PL meeting",
+      "title_tr": "How Brentford and Arsenal have transformed since first PL meeting",
+      "summary": "August 13, 2021. A day that stirs some of the best memories for Brentford fans and a day to forget for Arsenal.",
+      "summary_tr": "August 13, 2021. A day that stirs some of the best memories for Brentford fans and a day to forget for Arsenal.",
+      "long_summary": "August 13, 2021. A day that stirs some of the best memories for Brentford fans and a day to forget for Arsenal.",
+      "long_summary_tr": "August 13, 2021. A day that stirs some of the best memories for Brentford fans and a day to forget for Arsenal.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13506182/brentford-vs-arsenal-how-the-two-premier-league-clubs-have-transformed-since-first-league-meeting-in-2021",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-mikel-arteta-keith-andrews_7162317.jpg?20260211154807",
+      "published_at": "2026-02-11T16:30:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Teknoloji",
       "category_slug": "teknoloji",
       "is_local": false,
-      "source": "Webtekno",
-      "title": "Xiaomi, Aşırı Uygun Fiyata 120 Hz Yenileme Hızı ve QHD Çözünürlük Sunan Monitör Tanıttı",
-      "title_tr": "Xiaomi, Aşırı Uygun Fiyata 120 Hz Yenileme Hızı ve QHD Çözünürlük Sunan Monitör Tanıttı",
-      "summary": "Xiaomi, çok uygun fiyata 120 Hz ekran ve QHD çözünürlük sunan yeni monitörü A27Qi 2026 modelini tanıttı.",
-      "summary_tr": "Xiaomi, çok uygun fiyata 120 Hz ekran ve QHD çözünürlük sunan yeni monitörü A27Qi 2026 modelini tanıttı.",
-      "long_summary": "Xiaomi, çok uygun fiyata 120 Hz ekran ve QHD çözünürlük sunan yeni monitörü A27Qi 2026 modelini tanıttı.",
-      "long_summary_tr": "Xiaomi, çok uygun fiyata 120 Hz ekran ve QHD çözünürlük sunan yeni monitörü A27Qi 2026 modelini tanıttı.",
+      "source": "ShiftDelete",
+      "title": "Fabrika Kapandı iPad ve MacBook Üretimi Riske Girdi!",
+      "title_tr": "Fabrika Kapandı iPad ve MacBook Üretimi Riske Girdi!",
+      "summary": "Japon teknoloji devi Sharp, salı günü yaptığı kazanç görüşmesinde sektörde yankı uyandıran önemli bir gelişmeyi duyurdu. Şirket, LCD ekran fabrikalarından birinin çoğunluk hissesine sahip olan Foxconn’a planlanan satışının gerçekleşmediğini açıkladı. Nikkei Asia tarafından aktarılan bilgilere göre, bu anlaşmazlık sonucunda Sharp, tesisteki üretimi ağustos ayında tamamen durdurmayı planlıyor. Alınan bu kritik kararın, şirketin en büyük müşterilerinden […]",
+      "summary_tr": "Japon teknoloji devi Sharp, salı günü yaptığı kazanç görüşmesinde sektörde yankı uyandıran önemli bir gelişmeyi duyurdu. Şirket, LCD ekran fabrikalarından birinin çoğunluk hissesine sahip olan Foxconn’a planlanan satışının gerçekleşmediğini açıkladı. Nikkei Asia tarafından aktarılan bilgilere göre, bu anlaşmazlık sonucunda Sharp, tesisteki üretimi ağustos ayında tamamen durdurmayı planlıyor. Alınan bu kritik kararın, şirketin en büyük müşterilerinden […]",
+      "long_summary": "Japon teknoloji devi Sharp, salı günü yaptığı kazanç görüşmesinde sektörde yankı uyandıran önemli bir gelişmeyi duyurdu. Şirket, LCD ekran fabrikalarından birinin çoğunluk hissesine sahip olan Foxconn’a planlanan satışının gerçekleşmediğini açıkladı. Nikkei Asia tarafından aktarılan bilgilere göre, bu anlaşmazlık sonucunda Sharp, tesisteki üretimi ağustos ayında tamamen durdurmayı planlıyor. Alınan bu kritik kararın, şirketin en büyük müşterilerinden […]",
+      "long_summary_tr": "Japon teknoloji devi Sharp, salı günü yaptığı kazanç görüşmesinde sektörde yankı uyandıran önemli bir gelişmeyi duyurdu. Şirket, LCD ekran fabrikalarından birinin çoğunluk hissesine sahip olan Foxconn’a planlanan satışının gerçekleşmediğini açıkladı. Nikkei Asia tarafından aktarılan bilgilere göre, bu anlaşmazlık sonucunda Sharp, tesisteki üretimi ağustos ayında tamamen durdurmayı planlıyor. Alınan bu kritik kararın, şirketin en büyük müşterilerinden […]",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://www.webtekno.com/xiaomi-a27qi-2026-monitor-tanitildi-h212245.html",
-      "image": "https://imgrosetta.webtekno.com/file/648577/648577-640xauto.jpg",
-      "published_at": "2026-02-11T13:45:39+00:00"
+      "url": "https://shiftdelete.net/fabrika-kapandi-ipad-ve-macbook-uretimi-riske-girdi",
+      "image": null,
+      "published_at": "2026-02-11T16:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "A ‘shooter’ as CYBERCOM chief: Former officials see risks, opportunity in Rudd’s nomination",
+      "title_tr": "A ‘shooter’ as CYBERCOM chief: Former officials see risks, opportunity in Rudd’s nomination",
+      "summary": "While the cyber community is surely pleased to have a leader after a 10-month absence atop CYBERCOM and NSA, sources told Breaking Defense there is some skepticism about Lt. Gen. Joshua Rudd, given he has no direct cyber or signals intelligence experience.",
+      "summary_tr": "While the cyber community is surely pleased to have a leader after a 10-month absence atop CYBERCOM and NSA, sources told Breaking Defense there is some skepticism about Lt. Gen. Joshua Rudd, given he has no direct cyber or signals intelligence experience.",
+      "long_summary": "While the cyber community is surely pleased to have a leader after a 10-month absence atop CYBERCOM and NSA, sources told Breaking Defense there is some skepticism about Lt. Gen. Joshua Rudd, given he has no direct cyber or signals intelligence experience.",
+      "long_summary_tr": "While the cyber community is surely pleased to have a leader after a 10-month absence atop CYBERCOM and NSA, sources told Breaking Defense there is some skepticism about Lt. Gen. Joshua Rudd, given he has no direct cyber or signals intelligence experience.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/02/a-shooter-as-cybercom-chief-former-officials-see-risks-opportunity-in-rudds-nomination/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251217_joshua_rudd_camo_8302512-e1765992006747-1024x577.jpg",
+      "published_at": "2026-02-11T16:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "What to Expect from This Week's PlayStation State of Play",
+      "title_tr": "What to Expect from This Week's PlayStation State of Play",
+      "summary": "From Resident Evil Requiem to Saros, here are all of the games and reveals to expect from this week's PlayStation State of Play.",
+      "summary_tr": "From Resident Evil Requiem to Saros, here are all of the games and reveals to expect from this week's PlayStation State of Play.",
+      "long_summary": "From Resident Evil Requiem to Saros, here are all of the games and reveals to expect from this week's PlayStation State of Play.",
+      "long_summary_tr": "From Resident Evil Requiem to Saros, here are all of the games and reveals to expect from this week's PlayStation State of Play.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/what-to-expect-from-this-weeks-playstation-state-of-play",
+      "image": "https://assets-prd.ignimgs.com/2026/02/11/state-of-play-blog-1770824336019.jpg",
+      "published_at": "2026-02-11T16:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Trump-Netanyahu görüşmesi başladı",
+      "title_tr": "Trump-Netanyahu görüşmesi başladı",
+      "summary": "ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında Beyaz Saray&#039;daki görüşme başladı.",
+      "summary_tr": "ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında Beyaz Saray&#039;daki görüşme başladı.",
+      "long_summary": "ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında Beyaz Saray&#039;daki görüşme başladı.",
+      "long_summary_tr": "ABD Başkanı Donald Trump ile İsrail Başbakanı Binyamin Netanyahu arasında Beyaz Saray&#039;daki görüşme başladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/trump-netanyahu-gorusmesi-basladi-haberi-814749",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/trump-netanyahu-hyu0_cover.jpg",
+      "published_at": "2026-02-11T16:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Erdoğan: Yunanistan'la ticaret hedefimiz 10 milyar dolar",
+      "title_tr": "Erdoğan: Yunanistan'la ticaret hedefimiz 10 milyar dolar",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Yunanistan Başbakanı Kiryakos Miçotakis ile Ankara’da yaptığı görüşmede, iki ülke arasındaki ticaretin geçtiğimiz yıl 7 milyar dolara ulaştığını belirterek, hedefin 10 milyar dolara çıkarılması olduğunu söyledi.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Yunanistan Başbakanı Kiryakos Miçotakis ile Ankara’da yaptığı görüşmede, iki ülke arasındaki ticaretin geçtiğimiz yıl 7 milyar dolara ulaştığını belirterek, hedefin 10 milyar dolara çıkarılması olduğunu söyledi.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Yunanistan Başbakanı Kiryakos Miçotakis ile Ankara’da yaptığı görüşmede, iki ülke arasındaki ticaretin geçtiğimiz yıl 7 milyar dolara ulaştığını belirterek, hedefin 10 milyar dolara çıkarılması olduğunu söyledi.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Yunanistan Başbakanı Kiryakos Miçotakis ile Ankara’da yaptığı görüşmede, iki ülke arasındaki ticaretin geçtiğimiz yıl 7 milyar dolara ulaştığını belirterek, hedefin 10 milyar dolara çıkarılması olduğunu söyledi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/erdogan-yunanistanla-ticaret-hedefimiz-10-milyar-dolar-haberi-814750",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/erdogan-micotakis-xczv_cover.jpg",
+      "published_at": "2026-02-11T16:28:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Who could replace Frank as Tottenham boss?",
+      "title_tr": "Who could replace Frank as Tottenham boss?",
+      "summary": "BBC Sport looks at the possible runners and riders as Tottenham go in search of a new manager after the sacking of Thomas Frank - plus have your say on the options.",
+      "summary_tr": "BBC Sport looks at the possible runners and riders as Tottenham go in search of a new manager after the sacking of Thomas Frank - plus have your say on the options.",
+      "long_summary": "BBC Sport looks at the possible runners and riders as Tottenham go in search of a new manager after the sacking of Thomas Frank - plus have your say on the options.",
+      "long_summary_tr": "BBC Sport looks at the possible runners and riders as Tottenham go in search of a new manager after the sacking of Thomas Frank - plus have your say on the options.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cjrq3ev0dq2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd86/live/75aa3370-0751-11f1-b7e1-afb6d0884c18.png",
+      "published_at": "2026-02-11T16:27:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Amazon Eczane, ilaç teslimatını genişleterek tele-sağlık hisselerini baskılıyor",
+      "title_tr": "Amazon Eczane, ilaç teslimatını genişleterek tele-sağlık hisselerini baskılıyor",
+      "summary": "Amazon Eczane, ilaç teslimatını genişleterek tele-sağlık hisselerini baskılıyor",
+      "summary_tr": "Amazon Eczane, ilaç teslimatını genişleterek tele-sağlık hisselerini baskılıyor",
+      "long_summary": "Amazon Eczane, ilaç teslimatını genişleterek tele-sağlık hisselerini baskılıyor",
+      "long_summary_tr": "Amazon Eczane, ilaç teslimatını genişleterek tele-sağlık hisselerini baskılıyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/amazon-eczane-ilac-teslimatn-genisleterek-telesaglk-hisselerini-basklyor-3758720",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-11T16:26:49+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Is Mewgenics Coming To PS5, Switch 2, Or Xbox Series X|S? Here's What We Know",
+      "title_tr": "Is Mewgenics Coming To PS5, Switch 2, Or Xbox Series X|S? Here's What We Know",
+      "summary": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it remains to be seen which specific console platforms may be supported. McMillen's most famous game, 2010's Super Meat Boy, was released on console at launch for Xbox 360, before coming to PS4 in 2015, Wii U in 2016, and Switch in 2018.Continue Reading at GameSpot",
+      "summary_tr": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it remains to be seen which specific console platforms may be supported. McMillen's most famous game, 2010's Super Meat Boy, was released on console at launch for Xbox 360, before coming to PS4 in 2015, Wii U in 2016, and Switch in 2018.Continue Reading at GameSpot",
+      "long_summary": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it",
+      "long_summary_tr": "Mewgenics is out now on PC, and it's crushing it. The game not only scored positive reviews, but is racking up thousands of concurrent players and has already made enough money to recoup its development budget after just 180 minutes of availability. But is the game coming to console?No official announcements have been made, but developer Edmund McMillen said back in October 2025 that console ports are coming \"next year,\" referring to 2026.That's all there is to go on at this stage, so it",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/is-mewgenics-coming-to-console-heres-what-we-know/1100-6538081/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4649838-screenshot2026-02-10at3.24.30%E2%80%AFpm.png",
+      "published_at": "2026-02-11T16:26:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Ghanaians embrace 'Fugu Day' after online mockery of traditional outfits",
+      "title_tr": "Ghanaians embrace 'Fugu Day' after online mockery of traditional outfits",
+      "summary": "The iconic attire has been trending online for days following the banter between Ghanaians and Zambians.",
+      "summary_tr": "The iconic attire has been trending online for days following the banter between Ghanaians and Zambians.",
+      "long_summary": "The iconic attire has been trending online for days following the banter between Ghanaians and Zambians.",
+      "long_summary_tr": "The iconic attire has been trending online for days following the banter between Ghanaians and Zambians.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cgqg8xegxqxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeff/live/06df5dc0-0761-11f1-b7e1-afb6d0884c18.jpg",
+      "published_at": "2026-02-11T16:25:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Piper Sandler’ın En İyi Dijital Altyapı ve Bağlantı Yazılımı Hisseleri",
+      "title_tr": "Piper Sandler’ın En İyi Dijital Altyapı ve Bağlantı Yazılımı Hisseleri",
+      "summary": "Piper Sandler’ın En İyi Dijital Altyapı ve Bağlantı Yazılımı Hisseleri",
+      "summary_tr": "Piper Sandler’ın En İyi Dijital Altyapı ve Bağlantı Yazılımı Hisseleri",
+      "long_summary": "Piper Sandler’ın En İyi Dijital Altyapı ve Bağlantı Yazılımı Hisseleri",
+      "long_summary_tr": "Piper Sandler’ın En İyi Dijital Altyapı ve Bağlantı Yazılımı Hisseleri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/piper-sandlern-en-iyi-dijital-altyap-ve-baglant-yazlm-hisseleri-93CH-3758703",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-11T16:21:50+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Türkiye ve Yunanistan 7 anlaşmaya imza attı",
+      "title_tr": "Türkiye ve Yunanistan 7 anlaşmaya imza attı",
+      "summary": "Cumhurbaşkanı Erdoğan ile Yunanistan Başbakanı Miçotakis’in katıldığı törende, yatırım, deniz ticareti, deprem hazırlığı, kültür ve teknoloji alanlarında işbirliğini kapsayan mutabakat zaptları imzalandı.",
+      "summary_tr": "Cumhurbaşkanı Erdoğan ile Yunanistan Başbakanı Miçotakis’in katıldığı törende, yatırım, deniz ticareti, deprem hazırlığı, kültür ve teknoloji alanlarında işbirliğini kapsayan mutabakat zaptları imzalandı.",
+      "long_summary": "Cumhurbaşkanı Erdoğan ile Yunanistan Başbakanı Miçotakis’in katıldığı törende, yatırım, deniz ticareti, deprem hazırlığı, kültür ve teknoloji alanlarında işbirliğini kapsayan mutabakat zaptları imzalandı.",
+      "long_summary_tr": "Cumhurbaşkanı Erdoğan ile Yunanistan Başbakanı Miçotakis’in katıldığı törende, yatırım, deniz ticareti, deprem hazırlığı, kültür ve teknoloji alanlarında işbirliğini kapsayan mutabakat zaptları imzalandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/turkiye-ve-yunanistan-7-anlasmaya-imza-atti-haberi-814748",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/erdogan-micotakis-ip5l_cover.jpg",
+      "published_at": "2026-02-11T16:19:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Battlefield 6 for PS5 and Xbox Series X Has Dropped Below $40 at Amazon",
+      "title_tr": "Battlefield 6 for PS5 and Xbox Series X Has Dropped Below $40 at Amazon",
+      "summary": "Battlefield 6 for PlayStation 5 and Xbox Series X has dropped to $39.88 at Amazon. This is a 43% discount off its retail price of $69.99.",
+      "summary_tr": "Battlefield 6 for PlayStation 5 and Xbox Series X has dropped to $39.88 at Amazon. This is a 43% discount off its retail price of $69.99.",
+      "long_summary": "Battlefield 6 for PlayStation 5 and Xbox Series X has dropped to $39.88 at Amazon. This is a 43% discount off its retail price of $69.99.",
+      "long_summary_tr": "Battlefield 6 for PlayStation 5 and Xbox Series X has dropped to $39.88 at Amazon. This is a 43% discount off its retail price of $69.99.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/battlefield-6-for-ps5-and-xbox-series-x-has-dropped-below-40-at-amazon",
+      "image": "https://assets-prd.ignimgs.com/2025/09/11/battlefield-6-1757603618400.png",
+      "published_at": "2026-02-11T16:17:34+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Microsoft Withdraws Copyright Claim Against Indie Dev Over Minecraft Allegations",
+      "title_tr": "Microsoft Withdraws Copyright Claim Against Indie Dev Over Minecraft Allegations",
+      "summary": "After a quick back-and-forth this week, Microsoft has withdrawn a copyright claim it filed against developer Unomelon for Allumeria--a game that the company initially claimed had infringed on Minecraft's IP.Unomelon shared news of this update in a Discord post on February 11, according to PC Gamer. In the post, the team confirmed that the DMCA takedown was removed, which then restored Allumeria's Steam store page, too.\"Microsoft has withdrawn the copyright claim with no action needed on my part,\" Unomelon said. \"This is the best-case scenario. I just woke up from a nap, so I am still not sure about the details, but whatever happened, it worked. The Steam page and game [have] been fully restored, and I did not need to file a counterclaim, meaning there will be no chance of a lawsuit!\"Continue Reading at GameSpot",
+      "summary_tr": "After a quick back-and-forth this week, Microsoft has withdrawn a copyright claim it filed against developer Unomelon for Allumeria--a game that the company initially claimed had infringed on Minecraft's IP.Unomelon shared news of this update in a Discord post on February 11, according to PC Gamer. In the post, the team confirmed that the DMCA takedown was removed, which then restored Allumeria's Steam store page, too.\"Microsoft has withdrawn the copyright claim with no action needed on my part,\" Unomelon said. \"This is the best-case scenario. I just woke up from a nap, so I am still not sure about the details, but whatever happened, it worked. The Steam page and game [have] been fully restored, and I did not need to file a counterclaim, meaning there will be no chance of a lawsuit!\"Continue Reading at GameSpot",
+      "long_summary": "After a quick back-and-forth this week, Microsoft has withdrawn a copyright claim it filed against developer Unomelon for Allumeria--a game that the company initially claimed had infringed on Minecraft's IP.Unomelon shared news of this update in a Discord post on February 11, according to PC Gamer. In the post, the team confirmed that the DMCA takedown was removed, which then restored Allumeria's Steam store page, too.\"Microsoft has withdrawn the copyright claim with no action needed on my",
+      "long_summary_tr": "After a quick back-and-forth this week, Microsoft has withdrawn a copyright claim it filed against developer Unomelon for Allumeria--a game that the company initially claimed had infringed on Minecraft's IP.Unomelon shared news of this update in a Discord post on February 11, according to PC Gamer. In the post, the team confirmed that the DMCA takedown was removed, which then restored Allumeria's Steam store page, too.\"Microsoft has withdrawn the copyright claim with no action needed on my",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/microsoft-withdraws-copyright-claim-against-indie-dev-over-minecraft-allegations/1100-6538103/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1578/15789366/4650466-allumeriaimage.jpg",
+      "published_at": "2026-02-11T16:15:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Real Madrid and Uefa set to end Super League dispute",
+      "title_tr": "Real Madrid and Uefa set to end Super League dispute",
+      "summary": "Real Madrid and Uefa say they are set to end their legal dispute over the failed European Super League project.",
+      "summary_tr": "Real Madrid and Uefa say they are set to end their legal dispute over the failed European Super League project.",
+      "long_summary": "Real Madrid and Uefa say they are set to end their legal dispute over the failed European Super League project.",
+      "long_summary_tr": "Real Madrid and Uefa say they are set to end their legal dispute over the failed European Super League project.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cx2j44yyvyzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ce/live/d3095dd0-075f-11f1-b436-5dd3555fd4f7.jpg",
+      "published_at": "2026-02-11T16:13:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "TD Cowen, Romanya’daki SMR oylaması riski nedeniyle NuScale Power’ı düşürdü",
+      "title_tr": "TD Cowen, Romanya’daki SMR oylaması riski nedeniyle NuScale Power’ı düşürdü",
+      "summary": "TD Cowen, Romanya’daki SMR oylaması riski nedeniyle NuScale Power’ı düşürdü",
+      "summary_tr": "TD Cowen, Romanya’daki SMR oylaması riski nedeniyle NuScale Power’ı düşürdü",
+      "long_summary": "TD Cowen, Romanya’daki SMR oylaması riski nedeniyle NuScale Power’ı düşürdü",
+      "long_summary_tr": "TD Cowen, Romanya’daki SMR oylaması riski nedeniyle NuScale Power’ı düşürdü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/td-cowen-romanyadaki-smr-oylamas-riski-nedeniyle-nuscale-power-dusurdu-3758687",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-11T16:13:02+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "1,200 Ubisoft Employees Go On Strike",
+      "title_tr": "1,200 Ubisoft Employees Go On Strike",
+      "summary": "Earlier this year, Ubisoft unions called for a strike against the video game publisher, and it's happening right now. Over 1,200 Ubisoft employees have walked out on their jobs in protest over the company's recent restructuring, its plans for future layoffs, and a recent return-to-office mandate.Five Ubisoft unions--STJV, Solidaires Informatique, CGT, CFE-CGC, and Printemps Ecologique--are taking part in the strike, which is primarily taking place in France. However, the three-day strike is also impacting workers at Ubisoft Milan.In January, the unions called for Yves Guillemot to resign from his position as Ubisoft's CEO.Continue Reading at GameSpot",
+      "summary_tr": "Earlier this year, Ubisoft unions called for a strike against the video game publisher, and it's happening right now. Over 1,200 Ubisoft employees have walked out on their jobs in protest over the company's recent restructuring, its plans for future layoffs, and a recent return-to-office mandate.Five Ubisoft unions--STJV, Solidaires Informatique, CGT, CFE-CGC, and Printemps Ecologique--are taking part in the strike, which is primarily taking place in France. However, the three-day strike is also impacting workers at Ubisoft Milan.In January, the unions called for Yves Guillemot to resign from his position as Ubisoft's CEO.Continue Reading at GameSpot",
+      "long_summary": "Earlier this year, Ubisoft unions called for a strike against the video game publisher, and it's happening right now. Over 1,200 Ubisoft employees have walked out on their jobs in protest over the company's recent restructuring, its plans for future layoffs, and a recent return-to-office mandate.Five Ubisoft unions--STJV, Solidaires Informatique, CGT, CFE-CGC, and Printemps Ecologique--are taking part in the strike, which is primarily taking place in France. However, the three-day strike is",
+      "long_summary_tr": "Earlier this year, Ubisoft unions called for a strike against the video game publisher, and it's happening right now. Over 1,200 Ubisoft employees have walked out on their jobs in protest over the company's recent restructuring, its plans for future layoffs, and a recent return-to-office mandate.Five Ubisoft unions--STJV, Solidaires Informatique, CGT, CFE-CGC, and Printemps Ecologique--are taking part in the strike, which is primarily taking place in France. However, the three-day strike is",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/1200-ubisoft-employees-go-on-strike/1100-6538101/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4650446-assassin%27screedunity.jpg",
+      "published_at": "2026-02-11T16:13:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured",
+      "title_tr": "Russian strike kills 3 Ukrainian toddlers and father, with pregnant mother injured",
+      "summary": "The bodies of two brothers, aged two, their one-year-old sister and father were pulled from the wreckage of a house in north-eastern Ukraine.",
+      "summary_tr": "The bodies of two brothers, aged two, their one-year-old sister and father were pulled from the wreckage of a house in north-eastern Ukraine.",
+      "long_summary": "The bodies of two brothers, aged two, their one-year-old sister and father were pulled from the wreckage of a house in north-eastern Ukraine.",
+      "long_summary_tr": "The bodies of two brothers, aged two, their one-year-old sister and father were pulled from the wreckage of a house in north-eastern Ukraine.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/crm820dp0yro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0c/live/196a1c90-0762-11f1-b436-5dd3555fd4f7.png",
+      "published_at": "2026-02-11T16:08:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Çinli firmalar yapay zeka performansında ilk 5’te 3 sırayı aldı",
+      "title_tr": "Çinli firmalar yapay zeka performansında ilk 5’te 3 sırayı aldı",
+      "summary": "Çinli firmalar yapay zeka performansında ilk 5’te 3 sırayı aldı",
+      "summary_tr": "Çinli firmalar yapay zeka performansında ilk 5’te 3 sırayı aldı",
+      "long_summary": "Çinli firmalar yapay zeka performansında ilk 5’te 3 sırayı aldı",
+      "long_summary_tr": "Çinli firmalar yapay zeka performansında ilk 5’te 3 sırayı aldı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/cinli-firmalar-yapay-zeka-performansnda-ilk-5te-3-sray-ald-3758669",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-11T16:05:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Koç Holding 2025 yılı finansal sonuçlarını açıkladı: 5 yılda 16,1 milyar dolar yatırım",
+      "title_tr": "Koç Holding 2025 yılı finansal sonuçlarını açıkladı: 5 yılda 16,1 milyar dolar yatırım",
+      "summary": "Koç Holding, 2025 yılına ilişkin finansal sonuçlarını paylaştı. Holdingin 2025 yılındaki kombine yatırım tutarı 3,7 milyar dolar olurken, son 5 yıllık toplam yatırım miktarı 16,1 milyar dolara ulaştı.",
+      "summary_tr": "Koç Holding, 2025 yılına ilişkin finansal sonuçlarını paylaştı. Holdingin 2025 yılındaki kombine yatırım tutarı 3,7 milyar dolar olurken, son 5 yıllık toplam yatırım miktarı 16,1 milyar dolara ulaştı.",
+      "long_summary": "Koç Holding, 2025 yılına ilişkin finansal sonuçlarını paylaştı. Holdingin 2025 yılındaki kombine yatırım tutarı 3,7 milyar dolar olurken, son 5 yıllık toplam yatırım miktarı 16,1 milyar dolara ulaştı.",
+      "long_summary_tr": "Koç Holding, 2025 yılına ilişkin finansal sonuçlarını paylaştı. Holdingin 2025 yılındaki kombine yatırım tutarı 3,7 milyar dolar olurken, son 5 yıllık toplam yatırım miktarı 16,1 milyar dolara ulaştı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sirketler/koc-holding-2025-yili-finansal-sonuclarini-acikladi-5-yilda-161-milyar-dolar-yatirim-haberi-814747",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/06/koc-holding-asa2_cover.jpg",
+      "published_at": "2026-02-11T16:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakan Bolat İSO İhracat Endeksini değerlendirdi: Üst üste 25’inci kez 50 eşiğini geçti",
+      "title_tr": "Bakan Bolat İSO İhracat Endeksini değerlendirdi: Üst üste 25’inci kez 50 eşiğini geçti",
+      "summary": "Ticaret Bakanı Ömer Bolat, İSO Türkiye İmalat Sektörü İhracat İklimi Endeksi’nin geçen ay 52,1’e yükseldiğini belirterek, endeksin üst üste 25’inci kez 50 eşik değerinin üzerinde gerçekleştiğini ve ihracat iklimindeki olumlu seyrin korunduğunu vurguladı.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, İSO Türkiye İmalat Sektörü İhracat İklimi Endeksi’nin geçen ay 52,1’e yükseldiğini belirterek, endeksin üst üste 25’inci kez 50 eşik değerinin üzerinde gerçekleştiğini ve ihracat iklimindeki olumlu seyrin korunduğunu vurguladı.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, İSO Türkiye İmalat Sektörü İhracat İklimi Endeksi’nin geçen ay 52,1’e yükseldiğini belirterek, endeksin üst üste 25’inci kez 50 eşik değerinin üzerinde gerçekleştiğini ve ihracat iklimindeki olumlu seyrin korunduğunu vurguladı.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, İSO Türkiye İmalat Sektörü İhracat İklimi Endeksi’nin geçen ay 52,1’e yükseldiğini belirterek, endeksin üst üste 25’inci kez 50 eşik değerinin üzerinde gerçekleştiğini ve ihracat iklimindeki olumlu seyrin korunduğunu vurguladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/bakan-bolat-iso-ihracat-endeksini-degerlendirdi-ust-uste-25inci-kez-50-esigini-gecti-haberi-814746",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/11/bolat-bis9_cover.jpg",
+      "published_at": "2026-02-11T16:03:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Teknoloji",
       "category_slug": "teknoloji",
       "is_local": false,
-      "source": "Webtekno",
-      "title": "Apple Arcade'e Martta Eklencek Oyunlar Açıklandı: Harika Oyunlar Geliyor!",
-      "title_tr": "Apple Arcade'e Martta Eklencek Oyunlar Açıklandı: Harika Oyunlar Geliyor!",
-      "summary": "Apple Arcade hizmetine martta eklenecek oyunlar açıklandı. 4 yeni oyun kütüphaneye eklenecek, hâlihazırda sunulan 3 oyuna büyük güncelleme gelecek.",
-      "summary_tr": "Apple Arcade hizmetine martta eklenecek oyunlar açıklandı. 4 yeni oyun kütüphaneye eklenecek, hâlihazırda sunulan 3 oyuna büyük güncelleme gelecek.",
-      "long_summary": "Apple Arcade hizmetine martta eklenecek oyunlar açıklandı. 4 yeni oyun kütüphaneye eklenecek, hâlihazırda sunulan 3 oyuna büyük güncelleme gelecek.",
-      "long_summary_tr": "Apple Arcade hizmetine martta eklenecek oyunlar açıklandı. 4 yeni oyun kütüphaneye eklenecek, hâlihazırda sunulan 3 oyuna büyük güncelleme gelecek.",
+      "source": "ShiftDelete",
+      "title": "iPhone 18 Pro Uydu Üzerinden Kesintisiz İnternet Sunacak!",
+      "title_tr": "iPhone 18 Pro Uydu Üzerinden Kesintisiz İnternet Sunacak!",
+      "summary": "Apple 2026 amiral gemisi iPhone 18 Pro ile bağlantı teknolojilerinde devrim yaratmaya hazırlanıyor. Basit SOS özelliklerini bir kenara bırakın çünkü yeni sızıntılar C2 modem sayesinde telefonun doğrudan uydu üzerinden 5G internet erişimi sunabileceğini gösteriyor. Bu hamle kapsama alanı sorununu ve ölü bölgeleri tamamen ortadan kaldırabilecek potansiyele sahip. Galaxy S26 Özellikleri ve Fiyatı Ortaya Çıktı! Merakla […]",
+      "summary_tr": "Apple 2026 amiral gemisi iPhone 18 Pro ile bağlantı teknolojilerinde devrim yaratmaya hazırlanıyor. Basit SOS özelliklerini bir kenara bırakın çünkü yeni sızıntılar C2 modem sayesinde telefonun doğrudan uydu üzerinden 5G internet erişimi sunabileceğini gösteriyor. Bu hamle kapsama alanı sorununu ve ölü bölgeleri tamamen ortadan kaldırabilecek potansiyele sahip. Galaxy S26 Özellikleri ve Fiyatı Ortaya Çıktı! Merakla […]",
+      "long_summary": "Apple 2026 amiral gemisi iPhone 18 Pro ile bağlantı teknolojilerinde devrim yaratmaya hazırlanıyor. Basit SOS özelliklerini bir kenara bırakın çünkü yeni sızıntılar C2 modem sayesinde telefonun doğrudan uydu üzerinden 5G internet erişimi sunabileceğini gösteriyor. Bu hamle kapsama alanı sorununu ve ölü bölgeleri tamamen ortadan kaldırabilecek potansiyele sahip. Galaxy S26 Özellikleri ve Fiyatı Ortaya Çıktı! Merakla […]",
+      "long_summary_tr": "Apple 2026 amiral gemisi iPhone 18 Pro ile bağlantı teknolojilerinde devrim yaratmaya hazırlanıyor. Basit SOS özelliklerini bir kenara bırakın çünkü yeni sızıntılar C2 modem sayesinde telefonun doğrudan uydu üzerinden 5G internet erişimi sunabileceğini gösteriyor. Bu hamle kapsama alanı sorununu ve ölü bölgeleri tamamen ortadan kaldırabilecek potansiyele sahip. Galaxy S26 Özellikleri ve Fiyatı Ortaya Çıktı! Merakla […]",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://www.webtekno.com/apple-arcade-mart-oyunlari-aciklandi-h212249.html",
-      "image": "https://imgrosetta.webtekno.com/file/648583/648583-640xauto.jpg",
-      "published_at": "2026-02-11T13:45:27+00:00"
+      "url": "https://shiftdelete.net/iphone-18-pro-ile-iletisimde-yeni-bir-donem-basliyor",
+      "image": null,
+      "published_at": "2026-02-11T16:00:05+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Tayland'da okulda rehine krizi: 18 yaşındaki silahlı saldırgan 2 kişiyi yaraladı",
-      "title_tr": "Tayland'da okulda rehine krizi: 18 yaşındaki silahlı saldırgan 2 kişiyi yaraladı",
-      "summary": "Tayland'ın güneyinde bir okula silahla giren 18 yaşındaki şahıs, çok sayıda öğrenci ve öğretmeni rehin alıp 2 kişiyi yaraladı.Tayland'ın Songkhla eyaletine bağlı Hat Yai şehrinde yerel saatle 16.45 civarında 18 yaşındaki silahlı bir saldırgan, Phatong Prathan Keeriwat Okuluna girdi. Saldırgan bazı öğretmenleri ve öğrencileri rehin alırken, okuldan 2-3 el silah sesi yükseldi. Bölgeye çok sayıda polis ekibi sevk edildi. Okulu tahliye ederek bölgeyi kordon altına alan polis, saldırganı etkisiz hale getirmek üzere operasyon başlattı. Emniyet Müdür Yardımcısı Wichian Soboon yaptığı açıklamada, saldırganın yakalanarak gözaltına alındığını, olayda bir öğrenci ve bir öğretmen olmak üzere 2 kişinin yaralandığını, rehin alınan tüm kişilerin serbest kaldığını ifade etti. Rehine krizi 2 saat sürerken, saldırganın amacı henüz bilinmiyor.",
-      "summary_tr": "Tayland'ın güneyinde bir okula silahla giren 18 yaşındaki şahıs, çok sayıda öğrenci ve öğretmeni rehin alıp 2 kişiyi yaraladı.Tayland'ın Songkhla eyaletine bağlı Hat Yai şehrinde yerel saatle 16.45 civarında 18 yaşındaki silahlı bir saldırgan, Phatong Prathan Keeriwat Okuluna girdi. Saldırgan bazı öğretmenleri ve öğrencileri rehin alırken, okuldan 2-3 el silah sesi yükseldi. Bölgeye çok sayıda polis ekibi sevk edildi. Okulu tahliye ederek bölgeyi kordon altına alan polis, saldırganı etkisiz hale getirmek üzere operasyon başlattı. Emniyet Müdür Yardımcısı Wichian Soboon yaptığı açıklamada, saldırganın yakalanarak gözaltına alındığını, olayda bir öğrenci ve bir öğretmen olmak üzere 2 kişinin yaralandığını, rehin alınan tüm kişilerin serbest kaldığını ifade etti. Rehine krizi 2 saat sürerken, saldırganın amacı henüz bilinmiyor.",
-      "long_summary": "Tayland'ın güneyinde bir okula silahla giren 18 yaşındaki şahıs, çok sayıda öğrenci ve öğretmeni rehin alıp 2 kişiyi yaraladı.Tayland'ın Songkhla eyaletine bağlı Hat Yai şehrinde yerel saatle 16.45 civarında 18 yaşındaki silahlı bir saldırgan, Phatong Prathan Keeriwat Okuluna girdi. Saldırgan bazı öğretmenleri ve öğrencileri rehin alırken, okuldan 2-3 el silah sesi yükseldi. Bölgeye çok sayıda polis ekibi sevk edildi. Okulu tahliye ederek bölgeyi kordon altına alan polis, saldırganı etkisiz",
-      "long_summary_tr": "Tayland'ın güneyinde bir okula silahla giren 18 yaşındaki şahıs, çok sayıda öğrenci ve öğretmeni rehin alıp 2 kişiyi yaraladı.Tayland'ın Songkhla eyaletine bağlı Hat Yai şehrinde yerel saatle 16.45 civarında 18 yaşındaki silahlı bir saldırgan, Phatong Prathan Keeriwat Okuluna girdi. Saldırgan bazı öğretmenleri ve öğrencileri rehin alırken, okuldan 2-3 el silah sesi yükseldi. Bölgeye çok sayıda polis ekibi sevk edildi. Okulu tahliye ederek bölgeyi kordon altına alan polis, saldırganı etkisiz",
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Norris fastest on first day of Bahrain test but Red Bull impress rivals",
+      "title_tr": "Norris fastest on first day of Bahrain test but Red Bull impress rivals",
+      "summary": "Lando Norris topped the timesheet for McLaren, but it was the performance of Max Verstappen's Red Bull that impressed the paddock on the first day of Formula 1's pre-season test in Bahrain.",
+      "summary_tr": "Lando Norris topped the timesheet for McLaren, but it was the performance of Max Verstappen's Red Bull that impressed the paddock on the first day of Formula 1's pre-season test in Bahrain.",
+      "long_summary": "Lando Norris topped the timesheet for McLaren, but it was the performance of Max Verstappen's Red Bull that impressed the paddock on the first day of Formula 1's pre-season test in Bahrain.",
+      "long_summary_tr": "Lando Norris topped the timesheet for McLaren, but it was the performance of Max Verstappen's Red Bull that impressed the paddock on the first day of Formula 1's pre-season test in Bahrain.",
       "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/tayland-da-okulda-rehine-krizi-18-yasindaki-silahli-saldirgan-2-kisiyi-yaraladi-1575463",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/11/tayland-da-okulda-rehine-krizi-18-yasindaki-silahli-saldirgan-2-kisiyi-yaraladi-1770821572-724_large.webp",
-      "published_at": "2026-02-11T13:44:00+00:00"
+      "url": "https://www.skysports.com/f1/news/12040/13505835/f1-bahrain-testing-lando-norris-tops-timesheet-on-first-day-but-max-verstappens-red-bull-impresses-rivals",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-max-verstappen-bahrain_7162231.jpg?20260211143459",
+      "published_at": "2026-02-11T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "‘F*** Me, This Thing That We Created, It’s Going to Live’ — Peter Molyneux Cried Watching Xbox's New Fable Gameplay Reveal",
+      "title_tr": "‘F*** Me, This Thing That We Created, It’s Going to Live’ — Peter Molyneux Cried Watching Xbox's New Fable Gameplay Reveal",
+      "summary": "‘F*** me, this thing that we created, it’s going to live’ — Fable's original creator Peter Molyneux cried watching Xbox's new Fable gameplay reveal.",
+      "summary_tr": "‘F*** me, this thing that we created, it’s going to live’ — Fable's original creator Peter Molyneux cried watching Xbox's new Fable gameplay reveal.",
+      "long_summary": "‘F*** me, this thing that we created, it’s going to live’ — Fable's original creator Peter Molyneux cried watching Xbox's new Fable gameplay reveal.",
+      "long_summary_tr": "‘F*** me, this thing that we created, it’s going to live’ — Fable's original creator Peter Molyneux cried watching Xbox's new Fable gameplay reveal.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/f-me-this-thing-that-we-created-its-going-to-live-peter-molyneux-cried-watching-xboxs-new-fable-gameplay-reveal",
+      "image": "https://assets-prd.ignimgs.com/2025/02/25/fablegameplay-ign-blogroll-1740499913983.jpg",
+      "published_at": "2026-02-11T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Masters of Albion, Peter Molyneux’s ‘Culmination of His Work to Date’, Will Launch in Early Access as Actually the First Chapter in a Planned Trilogy",
+      "title_tr": "Masters of Albion, Peter Molyneux’s ‘Culmination of His Work to Date’, Will Launch in Early Access as Actually the First Chapter in a Planned Trilogy",
+      "summary": "Masters of Albion, Peter Molyneux’s ‘culmination of his work to date’, will launch in early access as actually the first chapter in a planned trilogy.",
+      "summary_tr": "Masters of Albion, Peter Molyneux’s ‘culmination of his work to date’, will launch in early access as actually the first chapter in a planned trilogy.",
+      "long_summary": "Masters of Albion, Peter Molyneux’s ‘culmination of his work to date’, will launch in early access as actually the first chapter in a planned trilogy.",
+      "long_summary_tr": "Masters of Albion, Peter Molyneux’s ‘culmination of his work to date’, will launch in early access as actually the first chapter in a planned trilogy.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/masters-of-albion-peter-molyneuxs-culmination-of-his-work-to-date-will-launch-in-early-access-as-actually-the-first-chapter-in-a-planned-trilogy",
+      "image": "https://assets-prd.ignimgs.com/2026/01/09/albion-blog-1767979657954.jpg",
+      "published_at": "2026-02-11T16:00:00+00:00"
     }
   ]
 }
