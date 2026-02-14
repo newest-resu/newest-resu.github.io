@@ -1,6 +1,732 @@
 {
-  "updated_at": "2026-02-14T20:40:02.313275+00:00",
+  "updated_at": "2026-02-14T21:37:19.410250+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'One of the worse decisions I've ever seen' - Rooney on Digne 'handball'",
+      "title_tr": "'One of the worse decisions I've ever seen' - Rooney on Digne 'handball'",
+      "summary": "BBC Sport pundits Wayne Rooney and Alan Shearer believe referees are \"petrified\" of making decisions without the \"safety net of VAR,\" after the officials decided not to award a penalty for a potential handball by Lucas Digne in the FA Cup fourth round tie between Aston Villa and Newcastle.",
+      "summary_tr": "BBC Sport pundits Wayne Rooney and Alan Shearer believe referees are \"petrified\" of making decisions without the \"safety net of VAR,\" after the officials decided not to award a penalty for a potential handball by Lucas Digne in the FA Cup fourth round tie between Aston Villa and Newcastle.",
+      "long_summary": "BBC Sport pundits Wayne Rooney and Alan Shearer believe referees are \"petrified\" of making decisions without the \"safety net of VAR,\" after the officials decided not to award a penalty for a potential handball by Lucas Digne in the FA Cup fourth round tie between Aston Villa and Newcastle.",
+      "long_summary_tr": "BBC Sport pundits Wayne Rooney and Alan Shearer believe referees are \"petrified\" of making decisions without the \"safety net of VAR,\" after the officials decided not to award a penalty for a potential handball by Lucas Digne in the FA Cup fourth round tie between Aston Villa and Newcastle.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/ce3gn1v4rk4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c989/live/99914df0-09ea-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-14T21:27:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Selena Gomez Shares New Benny Blanco Wedding Pic for Valentine’s Day",
+      "title_tr": "Selena Gomez Shares New Benny Blanco Wedding Pic for Valentine’s Day",
+      "summary": "Selena Gomez Shares New Benny Blanco Wedding Pic for Valentine’s Day",
+      "summary_tr": "Selena Gomez Shares New Benny Blanco Wedding Pic for Valentine’s Day",
+      "long_summary": "Selena Gomez Shares New Benny Blanco Wedding Pic for Valentine’s Day",
+      "long_summary_tr": "Selena Gomez Shares New Benny Blanco Wedding Pic for Valentine’s Day",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a70360694/selena-gomez-benny-blanco-wedding-pic-valentines-day/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b2105280-9dc6-4d04-900e-0ab4c158544d.jpeg",
+      "published_at": "2026-02-14T21:25:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Trump ile Netanyahu’dan İran’a petrol baskısı iddiası",
+      "title_tr": "Trump ile Netanyahu’dan İran’a petrol baskısı iddiası",
+      "summary": "ABD basınına göre, Donald Trump ile Binyamin Netanyahu, İran’ın özellikle Çin’e yaptığı petrol satışları üzerinden Tahran’a yönelik ekonomik baskının artırılması konusunda mutabakata vardı.",
+      "summary_tr": "ABD basınına göre, Donald Trump ile Binyamin Netanyahu, İran’ın özellikle Çin’e yaptığı petrol satışları üzerinden Tahran’a yönelik ekonomik baskının artırılması konusunda mutabakata vardı.",
+      "long_summary": "ABD basınına göre, Donald Trump ile Binyamin Netanyahu, İran’ın özellikle Çin’e yaptığı petrol satışları üzerinden Tahran’a yönelik ekonomik baskının artırılması konusunda mutabakata vardı.",
+      "long_summary_tr": "ABD basınına göre, Donald Trump ile Binyamin Netanyahu, İran’ın özellikle Çin’e yaptığı petrol satışları üzerinden Tahran’a yönelik ekonomik baskının artırılması konusunda mutabakata vardı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/trump-ile-netanyahudan-irana-petrol-baskisi-iddiasi-haberi-815107",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/12/30/trump-netanyahu-ejvn_cover.jpg",
+      "published_at": "2026-02-14T21:21:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Ölüdeniz turkuaz renge büründü",
+      "title_tr": "Ölüdeniz turkuaz renge büründü",
+      "summary": "Muğla'nın Fethiye ilçesindeki dünyaca ünlü Ölüdeniz'in bir kısmı, iki gün süren kuvvetli yağışın ardından turkuaz renge büründü.İlçede iki gündür etkili olan kuvvetli yağış, yerini güneşli havaya bıraktı.\n\nKent merkezine yaklaşık 10 kilometre uzaklıktaki Ölüdeniz'de de suyun rengi değişti.\n\nGüzel havayı fırsat bilen bazı kişiler Kumburnu Plajı'nda denize girdi.\n\nBabadağ'daki pistlerden pilotlar eşliğinde yamaç paraşütü uçuşu yapan macera tutkunları, Ölüdeniz'in eşsiz manzarasını kuş bakışı izledi.\n\nBazı turistler ise bölgede hatıra fotoğrafı çektirdi.",
+      "summary_tr": "Muğla'nın Fethiye ilçesindeki dünyaca ünlü Ölüdeniz'in bir kısmı, iki gün süren kuvvetli yağışın ardından turkuaz renge büründü.İlçede iki gündür etkili olan kuvvetli yağış, yerini güneşli havaya bıraktı.\n\nKent merkezine yaklaşık 10 kilometre uzaklıktaki Ölüdeniz'de de suyun rengi değişti.\n\nGüzel havayı fırsat bilen bazı kişiler Kumburnu Plajı'nda denize girdi.\n\nBabadağ'daki pistlerden pilotlar eşliğinde yamaç paraşütü uçuşu yapan macera tutkunları, Ölüdeniz'in eşsiz manzarasını kuş bakışı izledi.\n\nBazı turistler ise bölgede hatıra fotoğrafı çektirdi.",
+      "long_summary": "Muğla'nın Fethiye ilçesindeki dünyaca ünlü Ölüdeniz'in bir kısmı, iki gün süren kuvvetli yağışın ardından turkuaz renge büründü.İlçede iki gündür etkili olan kuvvetli yağış, yerini güneşli havaya bıraktı.\n\nKent merkezine yaklaşık 10 kilometre uzaklıktaki Ölüdeniz'de de suyun rengi değişti.\n\nGüzel havayı fırsat bilen bazı kişiler Kumburnu Plajı'nda denize girdi.\n\nBabadağ'daki pistlerden pilotlar eşliğinde yamaç paraşütü uçuşu yapan macera tutkunları, Ölüdeniz'in eşsiz manzarasını kuş bakışı",
+      "long_summary_tr": "Muğla'nın Fethiye ilçesindeki dünyaca ünlü Ölüdeniz'in bir kısmı, iki gün süren kuvvetli yağışın ardından turkuaz renge büründü.İlçede iki gündür etkili olan kuvvetli yağış, yerini güneşli havaya bıraktı.\n\nKent merkezine yaklaşık 10 kilometre uzaklıktaki Ölüdeniz'de de suyun rengi değişti.\n\nGüzel havayı fırsat bilen bazı kişiler Kumburnu Plajı'nda denize girdi.\n\nBabadağ'daki pistlerden pilotlar eşliğinde yamaç paraşütü uçuşu yapan macera tutkunları, Ölüdeniz'in eşsiz manzarasını kuş bakışı",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/oludeniz-turkuaz-renge-burundu-1576757",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/15/oludeniz-turkuaz-renge-burundu-1771102852-17_large.webp",
+      "published_at": "2026-02-14T21:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Konforu Değil, Üretimi Seçti",
+      "title_tr": "Konforu Değil, Üretimi Seçti",
+      "summary": "Resim öğretmenliğinden girişimciliğe uzanan cesur hikayesiyle dikkat çeken İrem Sakin Bahçekapılı, annelik ve iş hayatını birlikte yürütürken üretim tutkusundan vazgeçmedi.",
+      "summary_tr": "Resim öğretmenliğinden girişimciliğe uzanan cesur hikayesiyle dikkat çeken İrem Sakin Bahçekapılı, annelik ve iş hayatını birlikte yürütürken üretim tutkusundan vazgeçmedi.",
+      "long_summary": "Resim öğretmenliğinden girişimciliğe uzanan cesur hikayesiyle dikkat çeken İrem Sakin Bahçekapılı, annelik ve iş hayatını birlikte yürütürken üretim tutkusundan vazgeçmedi.",
+      "long_summary_tr": "Resim öğretmenliğinden girişimciliğe uzanan cesur hikayesiyle dikkat çeken İrem Sakin Bahçekapılı, annelik ve iş hayatını birlikte yürütürken üretim tutkusundan vazgeçmedi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/konforu-degil-uretimi-secti",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/ust-manset/konforu-degil-uretimi-secti-1.jpg",
+      "published_at": "2026-02-14T21:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da DEAŞ Operasyonu: 3 Tutuklama",
+      "title_tr": "Yalova’da DEAŞ Operasyonu: 3 Tutuklama",
+      "summary": "Yalova’da DEAŞ terör örgütüne yönelik gerçekleştirilen operasyonda gözaltına alınan 3 şüpheli tutuklandı.",
+      "summary_tr": "Yalova’da DEAŞ terör örgütüne yönelik gerçekleştirilen operasyonda gözaltına alınan 3 şüpheli tutuklandı.",
+      "long_summary": "Yalova’da DEAŞ terör örgütüne yönelik gerçekleştirilen operasyonda gözaltına alınan 3 şüpheli tutuklandı.",
+      "long_summary_tr": "Yalova’da DEAŞ terör örgütüne yönelik gerçekleştirilen operasyonda gözaltına alınan 3 şüpheli tutuklandı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-deas-operasyonu-3-tutuklama",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/ust-manset/yalovada-deas-operasyonu-3-tutuklama-1.jpg",
+      "published_at": "2026-02-14T21:10:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yeşil Ova Cami Destek Bekliyor",
+      "title_tr": "Yeşil Ova Cami Destek Bekliyor",
+      "summary": "Esenköy Belediyesi öncülüğünde Esenköy’de Yeşil Ova Cami’nin bakım ve onarım çalışmaları için vatandaşlara destek çağrısı yapıldı.",
+      "summary_tr": "Esenköy Belediyesi öncülüğünde Esenköy’de Yeşil Ova Cami’nin bakım ve onarım çalışmaları için vatandaşlara destek çağrısı yapıldı.",
+      "long_summary": "Esenköy Belediyesi öncülüğünde Esenköy’de Yeşil Ova Cami’nin bakım ve onarım çalışmaları için vatandaşlara destek çağrısı yapıldı.",
+      "long_summary_tr": "Esenköy Belediyesi öncülüğünde Esenköy’de Yeşil Ova Cami’nin bakım ve onarım çalışmaları için vatandaşlara destek çağrısı yapıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yesil-ova-cami-destek-bekliyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/ust-manset/yesil-ova-cami-destek-bekliyor-2.jpg",
+      "published_at": "2026-02-14T21:09:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "İpek Kozasından Dünya Sahnesine",
+      "title_tr": "İpek Kozasından Dünya Sahnesine",
+      "summary": "Yalova’da üç kuşaktır ipek koza sanatıyla üretim yapan Meral Evcin Özdemir, cesareti ve girişimcilik ruhuyla uluslararası arenada dikkat çekiyor.",
+      "summary_tr": "Yalova’da üç kuşaktır ipek koza sanatıyla üretim yapan Meral Evcin Özdemir, cesareti ve girişimcilik ruhuyla uluslararası arenada dikkat çekiyor.",
+      "long_summary": "Yalova’da üç kuşaktır ipek koza sanatıyla üretim yapan Meral Evcin Özdemir, cesareti ve girişimcilik ruhuyla uluslararası arenada dikkat çekiyor.",
+      "long_summary_tr": "Yalova’da üç kuşaktır ipek koza sanatıyla üretim yapan Meral Evcin Özdemir, cesareti ve girişimcilik ruhuyla uluslararası arenada dikkat çekiyor.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/ipek-kozasindan-dunya-sahnesine",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/ust-manset/ipek-kozasindan-dunya-sahnesine-3.jpg",
+      "published_at": "2026-02-14T21:08:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da Örülen 400 bere Siirt’teki Komandolara Ulaştırıldı",
+      "title_tr": "Yalova’da Örülen 400 bere Siirt’teki Komandolara Ulaştırıldı",
+      "summary": "Yalova’da yaşayan 75 yaşındaki Sabahat teyzenin ördüğü 400 bere, Siirt İl Jandarma Komutanlığında görev yapan komandolara ulaştırıldı.",
+      "summary_tr": "Yalova’da yaşayan 75 yaşındaki Sabahat teyzenin ördüğü 400 bere, Siirt İl Jandarma Komutanlığında görev yapan komandolara ulaştırıldı.",
+      "long_summary": "Yalova’da yaşayan 75 yaşındaki Sabahat teyzenin ördüğü 400 bere, Siirt İl Jandarma Komutanlığında görev yapan komandolara ulaştırıldı.",
+      "long_summary_tr": "Yalova’da yaşayan 75 yaşındaki Sabahat teyzenin ördüğü 400 bere, Siirt İl Jandarma Komutanlığında görev yapan komandolara ulaştırıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-orulen-400-bere-siirtteki-komandolara-ulastirildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalovada-orulen-400-bere-siirtteki-komandolara-ulastirildi-3.jpg",
+      "published_at": "2026-02-14T21:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Üç Camide Hatimle Teravih Kılınacak",
+      "title_tr": "Üç Camide Hatimle Teravih Kılınacak",
+      "summary": "Yalova İl Müftülüğü, Ramazan ayında hatimle teravih namazı kılınacak camileri açıkladı.",
+      "summary_tr": "Yalova İl Müftülüğü, Ramazan ayında hatimle teravih namazı kılınacak camileri açıkladı.",
+      "long_summary": "Yalova İl Müftülüğü, Ramazan ayında hatimle teravih namazı kılınacak camileri açıkladı.",
+      "long_summary_tr": "Yalova İl Müftülüğü, Ramazan ayında hatimle teravih namazı kılınacak camileri açıkladı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/uc-camide-hatimle-teravih-kilinacak",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/uc-camide-hatimle-teravih-kilinacak-1.jpg",
+      "published_at": "2026-02-14T21:06:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Subaşı’nda Spor Salonuna Bakım Molası: 16 Şubat’ta Kapılarını Açacak",
+      "title_tr": "Subaşı’nda Spor Salonuna Bakım Molası: 16 Şubat’ta Kapılarını Açacak",
+      "summary": "Subaşı Belediyesi, spor salonunda yapılacak boya ve bakım çalışmaları nedeniyle 14 Şubat Cumartesi günü tesisin hizmet veremeyeceğini duyurdu.",
+      "summary_tr": "Subaşı Belediyesi, spor salonunda yapılacak boya ve bakım çalışmaları nedeniyle 14 Şubat Cumartesi günü tesisin hizmet veremeyeceğini duyurdu.",
+      "long_summary": "Subaşı Belediyesi, spor salonunda yapılacak boya ve bakım çalışmaları nedeniyle 14 Şubat Cumartesi günü tesisin hizmet veremeyeceğini duyurdu.",
+      "long_summary_tr": "Subaşı Belediyesi, spor salonunda yapılacak boya ve bakım çalışmaları nedeniyle 14 Şubat Cumartesi günü tesisin hizmet veremeyeceğini duyurdu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/subasinda-spor-salonuna-bakim-molasi-16-subatta-kapilarini-acacak",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/subasinda-spor-salonuna-bakim-molasi-16-subatta-kapilarini-acacak.jpg",
+      "published_at": "2026-02-14T21:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Ünlü fast food zinciri çöktü: 22 şube kapandı, yüzlerce çalışan işsiz kaldı!",
+      "title_tr": "Ünlü fast food zinciri çöktü: 22 şube kapandı, yüzlerce çalışan işsiz kaldı!",
+      "summary": "İngiltere merkezli Leon, mali kriz nedeniyle yönetim sürecine girerken 244 kişiyi işten çıkardı ve 22 restoranını kapattı. Milyonlarca sterlin zarar eden zincir, borçlarını yeniden yapılandırarak ayakta kalmaya çalışıyor.",
+      "summary_tr": "İngiltere merkezli Leon, mali kriz nedeniyle yönetim sürecine girerken 244 kişiyi işten çıkardı ve 22 restoranını kapattı. Milyonlarca sterlin zarar eden zincir, borçlarını yeniden yapılandırarak ayakta kalmaya çalışıyor.",
+      "long_summary": "İngiltere merkezli Leon, mali kriz nedeniyle yönetim sürecine girerken 244 kişiyi işten çıkardı ve 22 restoranını kapattı. Milyonlarca sterlin zarar eden zincir, borçlarını yeniden yapılandırarak ayakta kalmaya çalışıyor.",
+      "long_summary_tr": "İngiltere merkezli Leon, mali kriz nedeniyle yönetim sürecine girerken 244 kişiyi işten çıkardı ve 22 restoranını kapattı. Milyonlarca sterlin zarar eden zincir, borçlarını yeniden yapılandırarak ayakta kalmaya çalışıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/unlu-fast-food-zinciri-coktu-22-sube-kapandi-yuzlerce-calisan-issiz-kaldi-haberi-815083",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/yeni-proje-6-j9dk_cover.jpg",
+      "published_at": "2026-02-14T21:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bir efsane sona erdi: 42 yıllık ünlü restoran iki Michelin yıldızını kaybetti",
+      "title_tr": "Bir efsane sona erdi: 42 yıllık ünlü restoran iki Michelin yıldızını kaybetti",
+      "summary": "Usta şef Raymond Blanc’ın kurduğu, İngiliz gastronomisinin simgelerinden Le Manoir aux Quat’Saisons, 42 yıl boyunca koruduğu iki Michelin yıldızını ilk kez kaybetti. Ancak bunun nedeni kalite düşüşü değil, restoranın uzun süreli yenileme çalışmaları nedeniyle kapanması...",
+      "summary_tr": "Usta şef Raymond Blanc’ın kurduğu, İngiliz gastronomisinin simgelerinden Le Manoir aux Quat’Saisons, 42 yıl boyunca koruduğu iki Michelin yıldızını ilk kez kaybetti. Ancak bunun nedeni kalite düşüşü değil, restoranın uzun süreli yenileme çalışmaları nedeniyle kapanması...",
+      "long_summary": "Usta şef Raymond Blanc’ın kurduğu, İngiliz gastronomisinin simgelerinden Le Manoir aux Quat’Saisons, 42 yıl boyunca koruduğu iki Michelin yıldızını ilk kez kaybetti. Ancak bunun nedeni kalite düşüşü değil, restoranın uzun süreli yenileme çalışmaları nedeniyle kapanması...",
+      "long_summary_tr": "Usta şef Raymond Blanc’ın kurduğu, İngiliz gastronomisinin simgelerinden Le Manoir aux Quat’Saisons, 42 yıl boyunca koruduğu iki Michelin yıldızını ilk kez kaybetti. Ancak bunun nedeni kalite düşüşü değil, restoranın uzun süreli yenileme çalışmaları nedeniyle kapanması...",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/gida/bir-efsane-sona-erdi-42-yillik-unlu-restoran-iki-michelin-yildizini-kaybetti-haberi-815085",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/yeni-proje-dx9u_cover.jpg",
+      "published_at": "2026-02-14T21:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Cebinizde servet olabilir: Nadir madeni para 166 katına satıldı!",
+      "title_tr": "Cebinizde servet olabilir: Nadir madeni para 166 katına satıldı!",
+      "summary": "İngiltere’de dolaşımdaki en nadir 50 peni madeni para, eBay’de yapılan açık artırmada yüzlerce kat değer kazandı. Uzmanlar, vatandaşlara bozuk paralarını kontrol etmeleri çağrısında bulunuyor.",
+      "summary_tr": "İngiltere’de dolaşımdaki en nadir 50 peni madeni para, eBay’de yapılan açık artırmada yüzlerce kat değer kazandı. Uzmanlar, vatandaşlara bozuk paralarını kontrol etmeleri çağrısında bulunuyor.",
+      "long_summary": "İngiltere’de dolaşımdaki en nadir 50 peni madeni para, eBay’de yapılan açık artırmada yüzlerce kat değer kazandı. Uzmanlar, vatandaşlara bozuk paralarını kontrol etmeleri çağrısında bulunuyor.",
+      "long_summary_tr": "İngiltere’de dolaşımdaki en nadir 50 peni madeni para, eBay’de yapılan açık artırmada yüzlerce kat değer kazandı. Uzmanlar, vatandaşlara bozuk paralarını kontrol etmeleri çağrısında bulunuyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/cebinizde-servet-olabilir-nadir-madeni-para-166-katina-satildi-haberi-815086",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/yeni-proje-1-mjcr_cover.jpg",
+      "published_at": "2026-02-14T21:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Sınırsız karides kampanyası dev zinciri çökertti: 130 restoranı kapattı!",
+      "title_tr": "Sınırsız karides kampanyası dev zinciri çökertti: 130 restoranı kapattı!",
+      "summary": "&quot;20 dolara sınırsız karides kampanyası&quot; nedeniyle milyonlarca dolar zarar eden Red Lobster, iflas sürecinden çıkmaya çalışırken yeni restoran kapatma planlarını gündemine aldı. Şirket, maliyetleri düşürmek için onlarca şubeyi daha kapatabilir.",
+      "summary_tr": "&quot;20 dolara sınırsız karides kampanyası&quot; nedeniyle milyonlarca dolar zarar eden Red Lobster, iflas sürecinden çıkmaya çalışırken yeni restoran kapatma planlarını gündemine aldı. Şirket, maliyetleri düşürmek için onlarca şubeyi daha kapatabilir.",
+      "long_summary": "&quot;20 dolara sınırsız karides kampanyası&quot; nedeniyle milyonlarca dolar zarar eden Red Lobster, iflas sürecinden çıkmaya çalışırken yeni restoran kapatma planlarını gündemine aldı. Şirket, maliyetleri düşürmek için onlarca şubeyi daha kapatabilir.",
+      "long_summary_tr": "&quot;20 dolara sınırsız karides kampanyası&quot; nedeniyle milyonlarca dolar zarar eden Red Lobster, iflas sürecinden çıkmaya çalışırken yeni restoran kapatma planlarını gündemine aldı. Şirket, maliyetleri düşürmek için onlarca şubeyi daha kapatabilir.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/sinirsiz-karides-kampanyasi-dev-zinciri-cokertti-130-restorani-kapatti-haberi-815088",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/yeni-proje-1-r6o8_cover.jpg",
+      "published_at": "2026-02-14T21:05:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'The officials looked petrified' - was Villa Park chaos advert for VAR?",
+      "title_tr": "'The officials looked petrified' - was Villa Park chaos advert for VAR?",
+      "summary": "Newcastle United beat Aston Villa in the FA Cup fourth round in a match dominated by a number of controversial decisions without VAR.",
+      "summary_tr": "Newcastle United beat Aston Villa in the FA Cup fourth round in a match dominated by a number of controversial decisions without VAR.",
+      "long_summary": "Newcastle United beat Aston Villa in the FA Cup fourth round in a match dominated by a number of controversial decisions without VAR.",
+      "long_summary_tr": "Newcastle United beat Aston Villa in the FA Cup fourth round in a match dominated by a number of controversial decisions without VAR.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/c70ke0zglk5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66cb/live/29e621d0-09e3-11f1-b981-779c7a5f5cc0.jpg",
+      "published_at": "2026-02-14T21:04:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Çağrı Bey Somali'de petrol arayacak. Bakan Bayraktar: 2026 müjdeler yılı olacak",
+      "title_tr": "Çağrı Bey Somali'de petrol arayacak. Bakan Bayraktar: 2026 müjdeler yılı olacak",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin bugün petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
+      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin bugün petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
+      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin bugün petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
+      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin bugün petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cagri-bey-somalide-petrol-arayacak-bakan-bayraktar-2026-mujdeler-yili-olacak-1711982",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_875007a0438aa965f55b15aab3c29593-704550.jpg",
+      "published_at": "2026-02-14T21:04:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Kütüphanelere Yerinde Denetim",
+      "title_tr": "Kütüphanelere Yerinde Denetim",
+      "summary": "Yalova İl Milli Eğitim Müdürlüğü koordinesinde Ekrem Koz’un katılımıyla gerçekleştirilen ziyaretlerde okul kütüphanelerindeki çalışmalar yerinde incelendi.",
+      "summary_tr": "Yalova İl Milli Eğitim Müdürlüğü koordinesinde Ekrem Koz’un katılımıyla gerçekleştirilen ziyaretlerde okul kütüphanelerindeki çalışmalar yerinde incelendi.",
+      "long_summary": "Yalova İl Milli Eğitim Müdürlüğü koordinesinde Ekrem Koz’un katılımıyla gerçekleştirilen ziyaretlerde okul kütüphanelerindeki çalışmalar yerinde incelendi.",
+      "long_summary_tr": "Yalova İl Milli Eğitim Müdürlüğü koordinesinde Ekrem Koz’un katılımıyla gerçekleştirilen ziyaretlerde okul kütüphanelerindeki çalışmalar yerinde incelendi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/kutuphanelere-yerinde-denetim",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/kutuphanelere-yerinde-denetim-2.jpg",
+      "published_at": "2026-02-14T21:04:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Jandarma ve Sahil Güvenlik Akademisi, Yalova’da kariyer fırsatlarını anlattı",
+      "title_tr": "Jandarma ve Sahil Güvenlik Akademisi, Yalova’da kariyer fırsatlarını anlattı",
+      "summary": "Jandarma ve Sahil Güvenlik Akademisi Başkanlığı heyeti, 12’nci sınıf öğrencileriyle bir araya gelerek akademinin eğitim imkanları, kariyer fırsatları ve başvuru şartları hakkında bilgilendirme yaptı.",
+      "summary_tr": "Jandarma ve Sahil Güvenlik Akademisi Başkanlığı heyeti, 12’nci sınıf öğrencileriyle bir araya gelerek akademinin eğitim imkanları, kariyer fırsatları ve başvuru şartları hakkında bilgilendirme yaptı.",
+      "long_summary": "Jandarma ve Sahil Güvenlik Akademisi Başkanlığı heyeti, 12’nci sınıf öğrencileriyle bir araya gelerek akademinin eğitim imkanları, kariyer fırsatları ve başvuru şartları hakkında bilgilendirme yaptı.",
+      "long_summary_tr": "Jandarma ve Sahil Güvenlik Akademisi Başkanlığı heyeti, 12’nci sınıf öğrencileriyle bir araya gelerek akademinin eğitim imkanları, kariyer fırsatları ve başvuru şartları hakkında bilgilendirme yaptı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/jandarma-ve-sahil-guvenlik-akademisi-yalovada-kariyer-firsatlarini-anlatti",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/jandarma-ve-sahil-guvenlik-akademisi-yalovada-kariyer-firsatlarini-anlatti-1.jpeg",
+      "published_at": "2026-02-14T21:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çınarcık’ta Kadın Sağlığı Anlatıldı",
+      "title_tr": "Çınarcık’ta Kadın Sağlığı Anlatıldı",
+      "summary": "Çınarcık Belediyesi tarafından yürütülen “Çınarcık’ta Farkındalık Seminerleri” kapsamında düzenlenen etkinlikte rahim ağzı kanseri ve kadın sağlığı konularında önemli bilgiler paylaşıldı.",
+      "summary_tr": "Çınarcık Belediyesi tarafından yürütülen “Çınarcık’ta Farkındalık Seminerleri” kapsamında düzenlenen etkinlikte rahim ağzı kanseri ve kadın sağlığı konularında önemli bilgiler paylaşıldı.",
+      "long_summary": "Çınarcık Belediyesi tarafından yürütülen “Çınarcık’ta Farkındalık Seminerleri” kapsamında düzenlenen etkinlikte rahim ağzı kanseri ve kadın sağlığı konularında önemli bilgiler paylaşıldı.",
+      "long_summary_tr": "Çınarcık Belediyesi tarafından yürütülen “Çınarcık’ta Farkındalık Seminerleri” kapsamında düzenlenen etkinlikte rahim ağzı kanseri ve kadın sağlığı konularında önemli bilgiler paylaşıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cinarcikta-kadin-sagligi-anlatildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/cinarcikta-kadin-sagligi-anlatildi-2.jpg",
+      "published_at": "2026-02-14T21:02:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Güney Marmara'da bazı feribot seferleri iptal edildi",
+      "title_tr": "Güney Marmara'da bazı feribot seferleri iptal edildi",
+      "summary": "Güney Marmara'da olumsuz hava koşulları nedeniyle 15 ve 16 Şubat'ta yapılması planlanan bazı feribot seferleri iptal edildi.Gestaş AŞ'den yapılan açıklamaya göre, Güney Marmara Adalar hattında, 15 Şubat'ta Erdek'ten saat 19.30 ve Marmara'dan saat 21.00 kalkışlı seferler olumsuz hava şartlarından dolayı iptal edildi.\n\nAyrıca, aynı hatta Avşa'dan saat 06.00, Ekinlik'ten saat 06.20, Marmara'dan saat 07.00, Balıklı'dan saat 08.00 kalkışlı seferler de olumsuz hava şartlarından dolayı iptal edildi.\n\nErdek'ten saat 11.00 kalkışlı seferin ise tarifesine uygun şekilde yapılması planlanıyor.\n\nMarmara Ro-Ro'dan yapılan açıklamaya göre de 15 Şubat'ta saat 16.00'daki Tekirdağ-Saraylar-Erdek, saat 17.00'deki Tekirdağ-Marmara-Avşa-Erdek ile Erdek-Avşa-Marmara-Erdek, saat 19.00'daki Saraylar-Erdek seferleri ve Marmara ile Avşa limanlarından gerçekleşecek tüm seferler olumsuz hava şartları sebebiyle iptal edildi.",
+      "summary_tr": "Güney Marmara'da olumsuz hava koşulları nedeniyle 15 ve 16 Şubat'ta yapılması planlanan bazı feribot seferleri iptal edildi.Gestaş AŞ'den yapılan açıklamaya göre, Güney Marmara Adalar hattında, 15 Şubat'ta Erdek'ten saat 19.30 ve Marmara'dan saat 21.00 kalkışlı seferler olumsuz hava şartlarından dolayı iptal edildi.\n\nAyrıca, aynı hatta Avşa'dan saat 06.00, Ekinlik'ten saat 06.20, Marmara'dan saat 07.00, Balıklı'dan saat 08.00 kalkışlı seferler de olumsuz hava şartlarından dolayı iptal edildi.\n\nErdek'ten saat 11.00 kalkışlı seferin ise tarifesine uygun şekilde yapılması planlanıyor.\n\nMarmara Ro-Ro'dan yapılan açıklamaya göre de 15 Şubat'ta saat 16.00'daki Tekirdağ-Saraylar-Erdek, saat 17.00'deki Tekirdağ-Marmara-Avşa-Erdek ile Erdek-Avşa-Marmara-Erdek, saat 19.00'daki Saraylar-Erdek seferleri ve Marmara ile Avşa limanlarından gerçekleşecek tüm seferler olumsuz hava şartları sebebiyle iptal edildi.",
+      "long_summary": "Güney Marmara'da olumsuz hava koşulları nedeniyle 15 ve 16 Şubat'ta yapılması planlanan bazı feribot seferleri iptal edildi.Gestaş AŞ'den yapılan açıklamaya göre, Güney Marmara Adalar hattında, 15 Şubat'ta Erdek'ten saat 19.30 ve Marmara'dan saat 21.00 kalkışlı seferler olumsuz hava şartlarından dolayı iptal edildi.\n\nAyrıca, aynı hatta Avşa'dan saat 06.00, Ekinlik'ten saat 06.20, Marmara'dan saat 07.00, Balıklı'dan saat 08.00 kalkışlı seferler de olumsuz hava şartlarından dolayı iptal",
+      "long_summary_tr": "Güney Marmara'da olumsuz hava koşulları nedeniyle 15 ve 16 Şubat'ta yapılması planlanan bazı feribot seferleri iptal edildi.Gestaş AŞ'den yapılan açıklamaya göre, Güney Marmara Adalar hattında, 15 Şubat'ta Erdek'ten saat 19.30 ve Marmara'dan saat 21.00 kalkışlı seferler olumsuz hava şartlarından dolayı iptal edildi.\n\nAyrıca, aynı hatta Avşa'dan saat 06.00, Ekinlik'ten saat 06.20, Marmara'dan saat 07.00, Balıklı'dan saat 08.00 kalkışlı seferler de olumsuz hava şartlarından dolayı iptal",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/guney-marmara-da-bazi-feribot-seferleri-iptal-edildi-1576755",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/15/guney-marmara-da-bazi-feribot-seferleri-iptal-edildi-1771102819-814_large.webp",
+      "published_at": "2026-02-14T21:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Bagajdan Zehir Çıktı: Yüklü Miktarda Uyuşturucu Ele Geçirildi",
+      "title_tr": "Bagajdan Zehir Çıktı: Yüklü Miktarda Uyuşturucu Ele Geçirildi",
+      "summary": "Narkotik ekiplerinin risk analiz çalışmaları sonucu durdurulan araçta ve şüpheli şahsın üzerinde yüklü miktarda uyuşturucu bulundu. Gözaltına alınan şüpheli tutuklandı.",
+      "summary_tr": "Narkotik ekiplerinin risk analiz çalışmaları sonucu durdurulan araçta ve şüpheli şahsın üzerinde yüklü miktarda uyuşturucu bulundu. Gözaltına alınan şüpheli tutuklandı.",
+      "long_summary": "Narkotik ekiplerinin risk analiz çalışmaları sonucu durdurulan araçta ve şüpheli şahsın üzerinde yüklü miktarda uyuşturucu bulundu. Gözaltına alınan şüpheli tutuklandı.",
+      "long_summary_tr": "Narkotik ekiplerinin risk analiz çalışmaları sonucu durdurulan araçta ve şüpheli şahsın üzerinde yüklü miktarda uyuşturucu bulundu. Gözaltına alınan şüpheli tutuklandı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/bagajdan-zehir-cikti-yuklu-miktarda-uyusturucu-ele-gecirildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/bagajdan-zehir-cikti-yuklu-miktarda-uyusturucu-ele-gecirildi.jpeg",
+      "published_at": "2026-02-14T21:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Şubat 2026",
+      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Şubat 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Şubat 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-subat-2026-1711986",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-02-14T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Tarımın Gücü Kocadere’de Konuşuldu",
+      "title_tr": "Tarımın Gücü Kocadere’de Konuşuldu",
+      "summary": "Yalova İl Tarım ve Orman Müdürlüğü, İl Müdürü Mustafa İlmeç öncülüğünde Kocadere’de üreticilerle bir araya gelerek tarımsal destek ve projeleri paylaştı.",
+      "summary_tr": "Yalova İl Tarım ve Orman Müdürlüğü, İl Müdürü Mustafa İlmeç öncülüğünde Kocadere’de üreticilerle bir araya gelerek tarımsal destek ve projeleri paylaştı.",
+      "long_summary": "Yalova İl Tarım ve Orman Müdürlüğü, İl Müdürü Mustafa İlmeç öncülüğünde Kocadere’de üreticilerle bir araya gelerek tarımsal destek ve projeleri paylaştı.",
+      "long_summary_tr": "Yalova İl Tarım ve Orman Müdürlüğü, İl Müdürü Mustafa İlmeç öncülüğünde Kocadere’de üreticilerle bir araya gelerek tarımsal destek ve projeleri paylaştı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/tarimin-gucu-kocaderede-konusuldu",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/tarimin-gucu-kocaderede-konusuldu-1.jpg",
+      "published_at": "2026-02-14T21:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Aston Villa latest: 'Referees need VAR,' says Emery after Newcastle loss",
+      "title_tr": "Aston Villa latest: 'Referees need VAR,' says Emery after Newcastle loss",
+      "summary": "Aston Villa latest: 'Referees need VAR,' says Emery after Newcastle loss",
+      "summary_tr": "Aston Villa latest: 'Referees need VAR,' says Emery after Newcastle loss",
+      "long_summary": "Aston Villa latest: 'Referees need VAR,' says Emery after Newcastle loss",
+      "long_summary_tr": "Aston Villa latest: 'Referees need VAR,' says Emery after Newcastle loss",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "published_at": "2026-02-14T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İran: Münih Güvenlik Konferansı'nın Münih Sirki'ne dönüşmesi üzücü",
+      "title_tr": "İran: Münih Güvenlik Konferansı'nın Münih Sirki'ne dönüşmesi üzücü",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, ülkesine yönelik ABD ve İsrail'e \"müdahale\" çağrılarında bulunan devrik şahın oğlu Rıza Pehlevi'nin konuşma yaptığı Münih Güvenlik Konferansı'nı \"Münih Sirki\" olarak nitelendirdi.İranlı bakan, sosyal medya hesabından paylaştığı mesajında, Avrupa Birliği (AB) ve bazı Avrupa ülkelerinin İran politikasını eleştirdi.\n\nErakçi, Almanya’da düzenlenen Münih Güvenlik Konferansı'na ilişkin, \"Genellikle ciddi ve prestijli bir etkinlik olarak kabul edilen Münih Güvenlik Konferansı'nın İran meselesi üzerinden bir 'Münih Sirki'ne dönüşmesi üzücü\" ifadesini kullandı.\n\nAB’nin İran’daki gelişmeleri değerlendirme konusunda “kafa karışıklığı” yaşadığını öne süren Erakçi, \"Stratejik olarak, amacını yitirmiş bir AB, bölgemizde tüm jeopolitik ağırlığını kaybetmiştir. Özellikle Almanya, bölgesel politikasını tamamen İsrail'e teslim etme konusunda öncülük ediyor. Avrupa'nın genel gidişatı, en hafif tabirle, vahim. Peki tüm bunlar ne anlama geliyor? AB/E3'ün felç olmuşluğu ve önemsizliği, İran'ın nükleer programı hakkındaki mevcut görüşmelerin dinamiklerinde açıkça görülüyor\" değerlendirmesinde bulundu.\n\nİranlı bakan, \"Avrupa ülkelerinin kilit rollerini kaybettiğini\" savunarak, \"Bunun yerine, bölgedeki dostlarımız, kenarda kalmış bir E3'ten (İngiltere, Almanya, Fransa) çok daha etkili ve yardımcı oluyorlar.\" ifadelerini kullandı.\n\nÜlkesine yönelik ABD ve İsrail'e \"müdahale\" çağrılarında bulunan İran'daki devrik şahın oğlu Rıza Pehlevi de Münih Güvenlik Konferansı'nda konuşma yapmıştı.",
+      "summary_tr": "İran Dışişleri Bakanı Abbas Erakçi, ülkesine yönelik ABD ve İsrail'e \"müdahale\" çağrılarında bulunan devrik şahın oğlu Rıza Pehlevi'nin konuşma yaptığı Münih Güvenlik Konferansı'nı \"Münih Sirki\" olarak nitelendirdi.İranlı bakan, sosyal medya hesabından paylaştığı mesajında, Avrupa Birliği (AB) ve bazı Avrupa ülkelerinin İran politikasını eleştirdi.\n\nErakçi, Almanya’da düzenlenen Münih Güvenlik Konferansı'na ilişkin, \"Genellikle ciddi ve prestijli bir etkinlik olarak kabul edilen Münih Güvenlik Konferansı'nın İran meselesi üzerinden bir 'Münih Sirki'ne dönüşmesi üzücü\" ifadesini kullandı.\n\nAB’nin İran’daki gelişmeleri değerlendirme konusunda “kafa karışıklığı” yaşadığını öne süren Erakçi, \"Stratejik olarak, amacını yitirmiş bir AB, bölgemizde tüm jeopolitik ağırlığını kaybetmiştir. Özellikle Almanya, bölgesel politikasını tamamen İsrail'e teslim etme konusunda öncülük ediyor. Avrupa'nın genel gidişatı, en hafif tabirle, vahim. Peki tüm bunlar ne anlama geliyor? AB/E3'ün felç olmuşluğu ve önemsizliği, İran'ın nükleer programı hakkındaki mevcut görüşmelerin dinamiklerinde açıkça görülüyor\" değerlendirmesinde bulundu.\n\nİranlı bakan, \"Avrupa ülkelerinin kilit rollerini kaybettiğini\" savunarak, \"Bunun yerine, bölgedeki dostlarımız, kenarda kalmış bir E3'ten (İngiltere, Almanya, Fransa) çok daha etkili ve yardımcı oluyorlar.\" ifadelerini kullandı.\n\nÜlkesine yönelik ABD ve İsrail'e \"müdahale\" çağrılarında bulunan İran'daki devrik şahın oğlu Rıza Pehlevi de Münih Güvenlik Konferansı'nda konuşma yapmıştı.",
+      "long_summary": "İran Dışişleri Bakanı Abbas Erakçi, ülkesine yönelik ABD ve İsrail'e \"müdahale\" çağrılarında bulunan devrik şahın oğlu Rıza Pehlevi'nin konuşma yaptığı Münih Güvenlik Konferansı'nı \"Münih Sirki\" olarak nitelendirdi.İranlı bakan, sosyal medya hesabından paylaştığı mesajında, Avrupa Birliği (AB) ve bazı Avrupa ülkelerinin İran politikasını eleştirdi.\n\nErakçi, Almanya’da düzenlenen Münih Güvenlik Konferansı'na ilişkin, \"Genellikle ciddi ve prestijli bir etkinlik olarak kabul edilen Münih Güvenlik",
+      "long_summary_tr": "İran Dışişleri Bakanı Abbas Erakçi, ülkesine yönelik ABD ve İsrail'e \"müdahale\" çağrılarında bulunan devrik şahın oğlu Rıza Pehlevi'nin konuşma yaptığı Münih Güvenlik Konferansı'nı \"Münih Sirki\" olarak nitelendirdi.İranlı bakan, sosyal medya hesabından paylaştığı mesajında, Avrupa Birliği (AB) ve bazı Avrupa ülkelerinin İran politikasını eleştirdi.\n\nErakçi, Almanya’da düzenlenen Münih Güvenlik Konferansı'na ilişkin, \"Genellikle ciddi ve prestijli bir etkinlik olarak kabul edilen Münih Güvenlik",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/iran-munih-guvenlik-konferansi-nin-munih-sirki-ne-donusmesi-uzucu-1576749",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/iran-munih-guvenlik-konferansi-nin-munih-sirki-ne-donusmesi-uzucu-1771098833-662_large.webp",
+      "published_at": "2026-02-14T20:59:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Almanya'dan ABD'ye \"tek taraflı hareket etmeme\" uyarısı",
+      "title_tr": "Almanya'dan ABD'ye \"tek taraflı hareket etmeme\" uyarısı",
+      "summary": "Almanya Savunma Bakanı Boris Pistorius, ABD yönetimine uluslararası düzende \"tek taraflı hareket etmeme\" uyarısında bulunarak transatlantik ittifakının geleceği için sorumluluk paylaşımı ve karşılıklı güven vurgusu yaptı.Pistorius, 62. Münih Güvenlik Konferansı çerçevesinde düzenlenen \"Hattı Korumak: Avrupa'yı Savunmak ve Ukrayna'yı Desteklemek\" başlıklı panelde, transatlantik güvenliğinin geleceğini değerlendirdi.\n\nABD Dışişleri Bakanı Marco Rubio’nun, mevcut uluslararası düzenin işlevini yitirdiğine dair eleştirilerine yanıt veren Pistorius, kurumların reforme edilmesi gerektiğini kabul etmekle birlikte çözümün \"yalnız hareket etmekten\" geçmediğini belirtti.\n\nPistorius, \"Uluslararası organizasyonlarımızın krizleri ve çatışmaları çözmede yetersiz kaldığı bir gerçek. Ancak çözüm, büyük bir gücün tek başına hareket etmesi olamaz. Bu yöntem kısa vadede sonuç verse de rekabet halindeki büyük güçlerin sayısının arttığı bir dünyada, uzun vadede kesinlikle işe yaramayacaktır.\" dedi.\n\nBoris Pistorius, kalıcı barış ve güvenliğin ancak uluslararası organizasyonların reforme edilip güçlendirilmesiyle mümkün olacağına işaret etti.\n\nKonuşmasında Washington'un Grönland üzerindeki iddialarına ve Avrupa’yı dışlayan müzakere yaklaşımlarına atıfta bulunan Pistorius, bir NATO üyesinin toprak bütünlüğü ve egemenliğinin tartışmaya açılmasının müttefiklik ruhuna zarar verdiğini savundu.\n\nPistorius, \"Bu tür yaklaşımlar ittifak yapımızı zayıflatırken rakiplerimizin elini güçlendiriyor.\" değerlendirmesinde bulundu.\n\nAvrupa'nın kendi güvenliği için daha fazla sorumluluk alması gerektiğinin altını çizen Pistorius, \"NATO’nun transatlantik karakterini koruyabilmesi için daha 'Avrupalı' bir kimliğe bürünmesi şarttır.\" ifadesini kullandı.\n\nAlmanya Savunma Bakanı Boris Pistorius, ittifak içinde yeni bir görev dağılımına ihtiyaç duyulduğunu, Avrupa'nın konvansiyonel güçlerde liderlik üstlenmesi, ABD’nin ise stratejik ve nükleer caydırıcılık desteğini sürdürmesi gerektiğini dile getirdi.\n\n- Almanya’dan savunma bütçesi\n\nAlmanya'nın savunma alanındaki kararlılığını anayasal değişikliklerle güvence altına aldığını hatırlatan Pistorius, \"2029 yılına kadar savunma harcamalarımızı gayrisafi yurt içi hasılanın (GSYH) yüzde 3,5’ine ulaştıracağız.\" dedi.\n\nRusya'nın “revizyonist politikalarına ve Kuzey Kutbu'ndan Doğu Avrupa'ya uzanan güvenlik tehditlerine” karşı müttefiklerle tam koordinasyon içinde hareket edeceklerini belirten Pistorius, Litvanya'ya muharip bir tugay konuşlandırılması gibi somut adımlarla ittifakın merkezinde yer almaya devam edeceklerini sözlerine ekledi.\n\n- Hazine ve Maliye Bakanı Şimşek ve MİT Başkanı Kalın, Konferans'ta\n\nKonferansa Türkiye'den, Hazine ve Maliye Bakanı Mehmet Şimşek, Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, TBMM Milli Savunma Komisyonu Başkanı Hulusi Akar ile Cumhurbaşkanı Dış Politika ve Güvenlik Başdanışmanı Akif Çağatay Kılıç katılıyor.",
+      "summary_tr": "Almanya Savunma Bakanı Boris Pistorius, ABD yönetimine uluslararası düzende \"tek taraflı hareket etmeme\" uyarısında bulunarak transatlantik ittifakının geleceği için sorumluluk paylaşımı ve karşılıklı güven vurgusu yaptı.Pistorius, 62. Münih Güvenlik Konferansı çerçevesinde düzenlenen \"Hattı Korumak: Avrupa'yı Savunmak ve Ukrayna'yı Desteklemek\" başlıklı panelde, transatlantik güvenliğinin geleceğini değerlendirdi.\n\nABD Dışişleri Bakanı Marco Rubio’nun, mevcut uluslararası düzenin işlevini yitirdiğine dair eleştirilerine yanıt veren Pistorius, kurumların reforme edilmesi gerektiğini kabul etmekle birlikte çözümün \"yalnız hareket etmekten\" geçmediğini belirtti.\n\nPistorius, \"Uluslararası organizasyonlarımızın krizleri ve çatışmaları çözmede yetersiz kaldığı bir gerçek. Ancak çözüm, büyük bir gücün tek başına hareket etmesi olamaz. Bu yöntem kısa vadede sonuç verse de rekabet halindeki büyük güçlerin sayısının arttığı bir dünyada, uzun vadede kesinlikle işe yaramayacaktır.\" dedi.\n\nBoris Pistorius, kalıcı barış ve güvenliğin ancak uluslararası organizasyonların reforme edilip güçlendirilmesiyle mümkün olacağına işaret etti.\n\nKonuşmasında Washington'un Grönland üzerindeki iddialarına ve Avrupa’yı dışlayan müzakere yaklaşımlarına atıfta bulunan Pistorius, bir NATO üyesinin toprak bütünlüğü ve egemenliğinin tartışmaya açılmasının müttefiklik ruhuna zarar verdiğini savundu.\n\nPistorius, \"Bu tür yaklaşımlar ittifak yapımızı zayıflatırken rakiplerimizin elini güçlendiriyor.\" değerlendirmesinde bulundu.\n\nAvrupa'nın kendi güvenliği için daha fazla sorumluluk alması gerektiğinin altını çizen Pistorius, \"NATO’nun transatlantik karakterini koruyabilmesi için daha 'Avrupalı' bir kimliğe bürünmesi şarttır.\" ifadesini kullandı.\n\nAlmanya Savunma Bakanı Boris Pistorius, ittifak içinde yeni bir görev dağılımına ihtiyaç duyulduğunu, Avrupa'nın konvansiyonel güçlerde liderlik üstlenmesi, ABD’nin ise stratejik ve nükleer caydırıcılık desteğini sürdürmesi gerektiğini dile getirdi.\n\n- Almanya’dan savunma bütçesi\n\nAlmanya'nın savunma alanındaki kararlılığını anayasal değişikliklerle güvence altına aldığını hatırlatan Pistorius, \"2029 yılına kadar savunma harcamalarımızı gayrisafi yurt içi hasılanın (GSYH) yüzde 3,5’ine ulaştıracağız.\" dedi.\n\nRusya'nın “revizyonist politikalarına ve Kuzey Kutbu'ndan Doğu Avrupa'ya uzanan güvenlik tehditlerine” karşı müttefiklerle tam koordinasyon içinde hareket edeceklerini belirten Pistorius, Litvanya'ya muharip bir tugay konuşlandırılması gibi somut adımlarla ittifakın merkezinde yer almaya devam edeceklerini sözlerine ekledi.\n\n- Hazine ve Maliye Bakanı Şimşek ve MİT Başkanı Kalın, Konferans'ta\n\nKonferansa Türkiye'den, Hazine ve Maliye Bakanı Mehmet Şimşek, Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, TBMM Milli Savunma Komisyonu Başkanı Hulusi Akar ile Cumhurbaşkanı Dış Politika ve Güvenlik Başdanışmanı Akif Çağatay Kılıç katılıyor.",
+      "long_summary": "Almanya Savunma Bakanı Boris Pistorius, ABD yönetimine uluslararası düzende \"tek taraflı hareket etmeme\" uyarısında bulunarak transatlantik ittifakının geleceği için sorumluluk paylaşımı ve karşılıklı güven vurgusu yaptı.Pistorius, 62. Münih Güvenlik Konferansı çerçevesinde düzenlenen \"Hattı Korumak: Avrupa'yı Savunmak ve Ukrayna'yı Desteklemek\" başlıklı panelde, transatlantik güvenliğinin geleceğini değerlendirdi.\n\nABD Dışişleri Bakanı Marco Rubio’nun, mevcut uluslararası düzenin işlevini",
+      "long_summary_tr": "Almanya Savunma Bakanı Boris Pistorius, ABD yönetimine uluslararası düzende \"tek taraflı hareket etmeme\" uyarısında bulunarak transatlantik ittifakının geleceği için sorumluluk paylaşımı ve karşılıklı güven vurgusu yaptı.Pistorius, 62. Münih Güvenlik Konferansı çerçevesinde düzenlenen \"Hattı Korumak: Avrupa'yı Savunmak ve Ukrayna'yı Desteklemek\" başlıklı panelde, transatlantik güvenliğinin geleceğini değerlendirdi.\n\nABD Dışişleri Bakanı Marco Rubio’nun, mevcut uluslararası düzenin işlevini",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/almanya-dan-abd-ye-tek-tarafli-hareket-etmeme-uyarisi-1576747",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/almanya-dan-abd-ye-tek-tarafli-hareket-etmeme-uyarisi-1771098759-356_large.webp",
+      "published_at": "2026-02-14T20:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "No arrests made after police search residence near Nancy Guthrie's home",
+      "title_tr": "No arrests made after police search residence near Nancy Guthrie's home",
+      "summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
+      "summary_tr": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
+      "long_summary": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
+      "long_summary_tr": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15f8/live/e31d5a70-0988-11f1-b5e2-dd58fc65f0f6.jpg",
+      "published_at": "2026-02-14T20:48:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Fatih Tekke'den derbi yorumu: İyi oynadık, hak ettik ama kaybettik",
+      "title_tr": "Fatih Tekke'den derbi yorumu: İyi oynadık, hak ettik ama kaybettik",
+      "summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Fenerbahçe mağlubiyeti sonrası, iyi oynadıkları karşılaşmadan hiç hak etmedikleri şekilde mağlup ayrıldıklarını söyledi.",
+      "summary_tr": "Trabzonspor Teknik Direktörü Fatih Tekke, Fenerbahçe mağlubiyeti sonrası, iyi oynadıkları karşılaşmadan hiç hak etmedikleri şekilde mağlup ayrıldıklarını söyledi.",
+      "long_summary": "Trabzonspor Teknik Direktörü Fatih Tekke, Fenerbahçe mağlubiyeti sonrası, iyi oynadıkları karşılaşmadan hiç hak etmedikleri şekilde mağlup ayrıldıklarını söyledi.",
+      "long_summary_tr": "Trabzonspor Teknik Direktörü Fatih Tekke, Fenerbahçe mağlubiyeti sonrası, iyi oynadıkları karşılaşmadan hiç hak etmedikleri şekilde mağlup ayrıldıklarını söyledi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/fatih-tekkeden-derbi-yorumu-iyi-oynadik-hak-ettik-ama-kaybettik-haberi-815106",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/fatih-tekke-non4_cover.jpg",
+      "published_at": "2026-02-14T20:47:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Kane becomes first Englishman to 500 career goals",
+      "title_tr": "Kane becomes first Englishman to 500 career goals",
+      "summary": "Bayern Munich striker Harry Kane strikes from distance against Werder Bremen to become the first Englishman in history to score 500 professional goals in official matches.",
+      "summary_tr": "Bayern Munich striker Harry Kane strikes from distance against Werder Bremen to become the first Englishman in history to score 500 professional goals in official matches.",
+      "long_summary": "Bayern Munich striker Harry Kane strikes from distance against Werder Bremen to become the first Englishman in history to score 500 professional goals in official matches.",
+      "long_summary_tr": "Bayern Munich striker Harry Kane strikes from distance against Werder Bremen to become the first Englishman in history to score 500 professional goals in official matches.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/clyvxyv45y1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8106/live/ffaee9d0-09e5-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-14T20:46:23+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "550 pigeons rescued in North Carolina",
+      "title_tr": "550 pigeons rescued in North Carolina",
+      "summary": "The birds can make good pets, but only if taken care of properly.\nThe post 550 pigeons rescued in North Carolina appeared first on Popular Science.",
+      "summary_tr": "The birds can make good pets, but only if taken care of properly.\nThe post 550 pigeons rescued in North Carolina appeared first on Popular Science.",
+      "long_summary": "The birds can make good pets, but only if taken care of properly.\nThe post 550 pigeons rescued in North Carolina appeared first on Popular Science.",
+      "long_summary_tr": "The birds can make good pets, but only if taken care of properly.\nThe post 550 pigeons rescued in North Carolina appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/environment/550-pigeons-rescued/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/02/pigeon.png?quality=85",
+      "published_at": "2026-02-14T20:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Error-strewn England flunk oldest Test at Murrayfield",
+      "title_tr": "Error-strewn England flunk oldest Test at Murrayfield",
+      "summary": "Captain Maro Itoje says England must \"learn our lesson and move forward\" after their attempt to salvage something from a slow start against Scotland is fatally undermined by a string of errors.",
+      "summary_tr": "Captain Maro Itoje says England must \"learn our lesson and move forward\" after their attempt to salvage something from a slow start against Scotland is fatally undermined by a string of errors.",
+      "long_summary": "Captain Maro Itoje says England must \"learn our lesson and move forward\" after their attempt to salvage something from a slow start against Scotland is fatally undermined by a string of errors.",
+      "long_summary_tr": "Captain Maro Itoje says England must \"learn our lesson and move forward\" after their attempt to salvage something from a slow start against Scotland is fatally undermined by a string of errors.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cm21e2r3xx0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3437/live/9c994ce0-09e1-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-14T20:42:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Kerem Aktürkoğlu: Müthiş mücadele verdik",
+      "title_tr": "Kerem Aktürkoğlu: Müthiş mücadele verdik",
+      "summary": "Trendyol Süper Lig'in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor'u 3-2 yendi. Karşılaşmada gol kaydeden Kerem Aktürkoğlu, \"İstemediğimiz bir gol yedik ama oradan geri dönmesini bildik, hiç düşmedik, müthiş mücadele verdik. Hak eden bizdik. Herkesin ayağına yüreğine sağlık. Skora katkı sağlayınca insan mutlu oluyor\" dedi.Fenerbahçe, Trendyol Süper Lig'in 22. haftasında Trabzonspor'u deplasmanda 3-2 mağlup etti. Kanarya'ya galibiyeti getiren golleri; 15. dakikada Anderson Talisca, 34. dakikada Kerem Aktürkoğlu ve 48. dakikada Marco Asensio kaydetti. Alınan bu sonuçla beraber yoluna namağlup devam eden Fenerbahçe, puanını 52'ye yükselterek zirve takibine devam etti. Trabzonspor ise sahasında bu sezon ilk kez yenilgiye uğradı ve 45 puanda kaldı.\n\nKarşılaşmanın ardından beIN Sports'a açıklamalarda bulunan Kerem Aktürkoğlu, şunları kaydetti:\n\n\"Takım olarak performansımız çok harikaydı. Maça güzel başladık, pozisyonlara girdik, talihsiz demeyelim ama Trabzonspor'un oyun şablonu vardı, böyle bir şey yapacaklarını tahmin ediyorduk. İstemediğimiz bir gol yedik ama oradan geri dönmesini bildik, hiç düşmedik, müthiş mücadele verdik. Hak eden bizdik. Herkesin ayağına yüreğine sağlık. Skora katkı sağlayınca insan mutlu oluyor. Güzel futbol seyrettiğimiz için mutluyuz. Çok zor deplasmandan 3 puanla dönüyoruz. İnşallah sonu güzel olur. Bütün kulübedeki arkadaşlarla 15-20 dakika ayaktaydık. Heyecan yaptık, oturamadık. Sonu güzel oldu. Müthiş bir galibiyetti.\"",
+      "summary_tr": "Trendyol Süper Lig'in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor'u 3-2 yendi. Karşılaşmada gol kaydeden Kerem Aktürkoğlu, \"İstemediğimiz bir gol yedik ama oradan geri dönmesini bildik, hiç düşmedik, müthiş mücadele verdik. Hak eden bizdik. Herkesin ayağına yüreğine sağlık. Skora katkı sağlayınca insan mutlu oluyor\" dedi.Fenerbahçe, Trendyol Süper Lig'in 22. haftasında Trabzonspor'u deplasmanda 3-2 mağlup etti. Kanarya'ya galibiyeti getiren golleri; 15. dakikada Anderson Talisca, 34. dakikada Kerem Aktürkoğlu ve 48. dakikada Marco Asensio kaydetti. Alınan bu sonuçla beraber yoluna namağlup devam eden Fenerbahçe, puanını 52'ye yükselterek zirve takibine devam etti. Trabzonspor ise sahasında bu sezon ilk kez yenilgiye uğradı ve 45 puanda kaldı.\n\nKarşılaşmanın ardından beIN Sports'a açıklamalarda bulunan Kerem Aktürkoğlu, şunları kaydetti:\n\n\"Takım olarak performansımız çok harikaydı. Maça güzel başladık, pozisyonlara girdik, talihsiz demeyelim ama Trabzonspor'un oyun şablonu vardı, böyle bir şey yapacaklarını tahmin ediyorduk. İstemediğimiz bir gol yedik ama oradan geri dönmesini bildik, hiç düşmedik, müthiş mücadele verdik. Hak eden bizdik. Herkesin ayağına yüreğine sağlık. Skora katkı sağlayınca insan mutlu oluyor. Güzel futbol seyrettiğimiz için mutluyuz. Çok zor deplasmandan 3 puanla dönüyoruz. İnşallah sonu güzel olur. Bütün kulübedeki arkadaşlarla 15-20 dakika ayaktaydık. Heyecan yaptık, oturamadık. Sonu güzel oldu. Müthiş bir galibiyetti.\"",
+      "long_summary": "Trendyol Süper Lig'in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor'u 3-2 yendi. Karşılaşmada gol kaydeden Kerem Aktürkoğlu, \"İstemediğimiz bir gol yedik ama oradan geri dönmesini bildik, hiç düşmedik, müthiş mücadele verdik. Hak eden bizdik. Herkesin ayağına yüreğine sağlık. Skora katkı sağlayınca insan mutlu oluyor\" dedi.Fenerbahçe, Trendyol Süper Lig'in 22. haftasında Trabzonspor'u deplasmanda 3-2 mağlup etti. Kanarya'ya galibiyeti getiren golleri; 15. dakikada Anderson Talisca, 34.",
+      "long_summary_tr": "Trendyol Süper Lig'in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor'u 3-2 yendi. Karşılaşmada gol kaydeden Kerem Aktürkoğlu, \"İstemediğimiz bir gol yedik ama oradan geri dönmesini bildik, hiç düşmedik, müthiş mücadele verdik. Hak eden bizdik. Herkesin ayağına yüreğine sağlık. Skora katkı sağlayınca insan mutlu oluyor\" dedi.Fenerbahçe, Trendyol Süper Lig'in 22. haftasında Trabzonspor'u deplasmanda 3-2 mağlup etti. Kanarya'ya galibiyeti getiren golleri; 15. dakikada Anderson Talisca, 34.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/kerem-akturkoglu-muthis-mucadele-verdik-1576745",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/kerem-akturkoglu-muthis-mucadele-verdik-1771098713-13_large.webp",
+      "published_at": "2026-02-14T20:40:00+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Spor",
@@ -157,28 +883,6 @@
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Çağrı Bey Somali'de petrol arayacak. Bakan Bayraktar: 2026 müjdeler yılı olacak",
-      "title_tr": "Çağrı Bey Somali'de petrol arayacak. Bakan Bayraktar: 2026 müjdeler yılı olacak",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin yarın petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
-      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin yarın petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
-      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin yarın petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
-      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Çağrı Bey gemisinin yarın petrol aramak üzere Somali'ye uğurlanacağını söyledi. Bayraktar, \"İnşallah 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak\" dedi.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/cagri-bey-somalide-petrol-arayacak-bakan-bayraktar-2026-mujdeler-yili-olacak-1711982",
-      "image": "https://images.ntv.com.tr/images/thumbs_b_c_875007a0438aa965f55b15aab3c29593-704550.jpg",
-      "published_at": "2026-02-14T20:02:57+00:00"
-    },
-    {
-      "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
@@ -227,12 +931,12 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Record-setter Hodgkinson sets sights on world best",
-      "title_tr": "Record-setter Hodgkinson sets sights on world best",
-      "summary": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m best at the UK Athletics Indoor Championships in Birmingham.",
-      "summary_tr": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m best at the UK Athletics Indoor Championships in Birmingham.",
-      "long_summary": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m best at the UK Athletics Indoor Championships in Birmingham.",
-      "long_summary_tr": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m best at the UK Athletics Indoor Championships in Birmingham.",
+      "title": "Hodgkinson smashes own indoor record and sets sights on world best",
+      "title_tr": "Hodgkinson smashes own indoor record and sets sights on world best",
+      "summary": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m mark at the UK Athletics Indoor Championships in Birmingham.",
+      "summary_tr": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m mark at the UK Athletics Indoor Championships in Birmingham.",
+      "long_summary": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m mark at the UK Athletics Indoor Championships in Birmingham.",
+      "long_summary_tr": "Keely Hodgkinson says she is aiming for a new world record after breaking the British 800m mark at the UK Athletics Indoor Championships in Birmingham.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
@@ -266,6 +970,28 @@
       "published_at": "2026-02-14T19:49:00+00:00"
     },
     {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "HORROR HOLE! | McIlroy hits triple bogey at Pebble Beach",
+      "title_tr": "HORROR HOLE! | McIlroy hits triple bogey at Pebble Beach",
+      "summary": "Rory McIlroy drops three shots as he hits triple bogey at the AT&T Pebble Beach Pro-Am.",
+      "summary_tr": "Rory McIlroy drops three shots as he hits triple bogey at the AT&T Pebble Beach Pro-Am.",
+      "long_summary": "Rory McIlroy drops three shots as he hits triple bogey at the AT&T Pebble Beach Pro-Am.",
+      "long_summary_tr": "Rory McIlroy drops three shots as he hits triple bogey at the AT&T Pebble Beach Pro-Am.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13507712/att-pebble-beach-pro-am-rory-mcilroy-hits-triple-bogey-at-pebble-beach",
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-mcilroy-golf_7165254.jpg?20260214200404",
+      "published_at": "2026-02-14T19:49:00+00:00"
+    },
+    {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
@@ -286,28 +1012,6 @@
       "url": "https://www.bursahakimiyet.com.tr/gundem/bakan-ersoy-alevi-bektasi-dedeleri-ile-hizir-lokmasinda-bulustu-1576737",
       "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/bakan-ersoy-alevi-bektasi-dedeleri-ile-hizir-lokmasinda-bulustu-1771098554-123_large.webp",
       "published_at": "2026-02-14T19:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Digne should have been sent off for 'dangerous tackle' - Shearer",
-      "title_tr": "Digne should have been sent off for 'dangerous tackle' - Shearer",
-      "summary": "Alan Shearer, Wayne Rooney and Dion Dublin discuss if Aston Villa's Lucas Digne should have Aston Villa for a high challenge on Jacob Murphy.",
-      "summary_tr": "Alan Shearer, Wayne Rooney and Dion Dublin discuss if Aston Villa's Lucas Digne should have Aston Villa for a high challenge on Jacob Murphy.",
-      "long_summary": "Alan Shearer, Wayne Rooney and Dion Dublin discuss if Aston Villa's Lucas Digne should have Aston Villa for a high challenge on Jacob Murphy.",
-      "long_summary_tr": "Alan Shearer, Wayne Rooney and Dion Dublin discuss if Aston Villa's Lucas Digne should have Aston Villa for a high challenge on Jacob Murphy.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/clyvxygkxndo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6474/live/ae2b2660-09da-11f1-b7e1-afb6d0884c18.jpg",
-      "published_at": "2026-02-14T19:43:09+00:00"
     },
     {
       "origin": "yabanci",
@@ -381,725 +1085,21 @@
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Felipe Melo'dan tarihi Juventus-Galatasaray maçı ve Fenerbahçe itirafı",
-      "title_tr": "Felipe Melo'dan tarihi Juventus-Galatasaray maçı ve Fenerbahçe itirafı",
-      "summary": "Galatasaray'ın unutulmaz isimlerinden Brezilyalı futbolcu Felipe Melo, İtalyan basınına verdiği röportajda sarı-kırmızılı takıma transfer süreci, tarihi Juventus zaferi ve ezeli rakip Fenerbahçe hakkında çarpıcı açıklamalarda bulundu. La Gazzetta dello Sport'a konuşan Melo, 2013'teki Juventus maçını ve transfer döneminde yaşadıklarını tüm detaylarıyla anlattı.Şampiyonlar Ligi'ndeki Galatasaray-Juventus eşleşmesi hakkında konuşan Melo, İtalyan ekibinin taraftarlarının tepkisini çektiğini belirtti. Melo, \"Kura çekiminden sonra Galatasaray için bir paylaşım yaptığımda sosyal medyada bana saldırdılar ama ne yapmalıydım? İstanbul'da kazandım ve harika zaman geçirdim. Oynadığım tüm takımları kalbimde taşıyorum ama Galatasaray'ı daha fazla\" ifadelerini kullandı.\n\n\"Saha oynanamaz durumdaydı ama biz daha güçlüydük\"\n\n2013 yılında İstanbul'da oynanan ve Wesley Sneijder'in golüyle Galatasaray'ın tur atladığı unutulmaz karşılaşmayı hatırlatan Melo, o günkü atmosferi şöyle anlattı:\n\n\"Mancini... Bize yüzde yüzümüzle oynarsak turu geçeceğimizi söylemişti. Kar yağışını, sadece bir tarafı temizlenmiş ve oynanamaz durumda olan sahayı hatırlıyorum. Sneijder'in son saniyede attığı gol ve Conte'nin öfkesi... Juventus güçlüydü ama biz daha güçlüydük.\"\n\n\"PSG ile her şey ayarlanmıştı, Galatasaray 5 katını teklif etti\"\n\nJuventus'tan ayrılış sürecine dair de itiraflarda bulunan Brezilyalı yıldız, Paris Saint-Germain (PSG) ile anlaşma aşamasına geldiğini ancak rotayı İstanbul'a çevirdiğini söyledi. Melo, \"Conte bana güvenecekti ama Marotta'dan beni bırakmasını istedim. PSG'ye kiralık transfer için her şey ayarlanmıştı, Leonardo ile de konuşmuştum. Ancak Galatasaray beş kat daha yüksek bir teklifle geldi. Parayı ve taraftarları tercih ettim. İmzalamadan önce stadyumda bir maç izledim ve aşık oldum\" dedi.\n\n\"Fenerbahçe'yi asla kabul etmezdim\"\n\nRöportajda kendisine yöneltilen \"Fenerbahçe'ye hayır dediğiniz doğru mu?\" sorusuna da net bir yanıt veren Melo, sarı-kırmızılı takımdaki ilk sezonunun (2011-2012) ardından teklif aldığını doğrulayarak, \"Evet ama bir yıl sonra. Asla kabul etmezdim\" diye konuştu.\n\n\"Floransa'nın idolüydüm, hain oldum\"\n\nKariyerindeki Inter ve Juventus günlerine de değinen Melo, Juventus'a transfer sürecinde yaşadığı pişmanlığı dile getirdi. Melo, \"Aslında Mourinho'nun Inter'ine gidecektim ama Corvino, Juventus'u kabul etmem gerektiğini söyledi. '25 milyon Euro'luk serbest kalma maddesini ödeyecekler' dedi ve ben de gittim. Floransalıların idolü olmaktan hain olmaya geçtim. Bugün bile hala üzülüyorum\" itirafında bulundu.",
-      "summary_tr": "Galatasaray'ın unutulmaz isimlerinden Brezilyalı futbolcu Felipe Melo, İtalyan basınına verdiği röportajda sarı-kırmızılı takıma transfer süreci, tarihi Juventus zaferi ve ezeli rakip Fenerbahçe hakkında çarpıcı açıklamalarda bulundu. La Gazzetta dello Sport'a konuşan Melo, 2013'teki Juventus maçını ve transfer döneminde yaşadıklarını tüm detaylarıyla anlattı.Şampiyonlar Ligi'ndeki Galatasaray-Juventus eşleşmesi hakkında konuşan Melo, İtalyan ekibinin taraftarlarının tepkisini çektiğini belirtti. Melo, \"Kura çekiminden sonra Galatasaray için bir paylaşım yaptığımda sosyal medyada bana saldırdılar ama ne yapmalıydım? İstanbul'da kazandım ve harika zaman geçirdim. Oynadığım tüm takımları kalbimde taşıyorum ama Galatasaray'ı daha fazla\" ifadelerini kullandı.\n\n\"Saha oynanamaz durumdaydı ama biz daha güçlüydük\"\n\n2013 yılında İstanbul'da oynanan ve Wesley Sneijder'in golüyle Galatasaray'ın tur atladığı unutulmaz karşılaşmayı hatırlatan Melo, o günkü atmosferi şöyle anlattı:\n\n\"Mancini... Bize yüzde yüzümüzle oynarsak turu geçeceğimizi söylemişti. Kar yağışını, sadece bir tarafı temizlenmiş ve oynanamaz durumda olan sahayı hatırlıyorum. Sneijder'in son saniyede attığı gol ve Conte'nin öfkesi... Juventus güçlüydü ama biz daha güçlüydük.\"\n\n\"PSG ile her şey ayarlanmıştı, Galatasaray 5 katını teklif etti\"\n\nJuventus'tan ayrılış sürecine dair de itiraflarda bulunan Brezilyalı yıldız, Paris Saint-Germain (PSG) ile anlaşma aşamasına geldiğini ancak rotayı İstanbul'a çevirdiğini söyledi. Melo, \"Conte bana güvenecekti ama Marotta'dan beni bırakmasını istedim. PSG'ye kiralık transfer için her şey ayarlanmıştı, Leonardo ile de konuşmuştum. Ancak Galatasaray beş kat daha yüksek bir teklifle geldi. Parayı ve taraftarları tercih ettim. İmzalamadan önce stadyumda bir maç izledim ve aşık oldum\" dedi.\n\n\"Fenerbahçe'yi asla kabul etmezdim\"\n\nRöportajda kendisine yöneltilen \"Fenerbahçe'ye hayır dediğiniz doğru mu?\" sorusuna da net bir yanıt veren Melo, sarı-kırmızılı takımdaki ilk sezonunun (2011-2012) ardından teklif aldığını doğrulayarak, \"Evet ama bir yıl sonra. Asla kabul etmezdim\" diye konuştu.\n\n\"Floransa'nın idolüydüm, hain oldum\"\n\nKariyerindeki Inter ve Juventus günlerine de değinen Melo, Juventus'a transfer sürecinde yaşadığı pişmanlığı dile getirdi. Melo, \"Aslında Mourinho'nun Inter'ine gidecektim ama Corvino, Juventus'u kabul etmem gerektiğini söyledi. '25 milyon Euro'luk serbest kalma maddesini ödeyecekler' dedi ve ben de gittim. Floransalıların idolü olmaktan hain olmaya geçtim. Bugün bile hala üzülüyorum\" itirafında bulundu.",
-      "long_summary": "Galatasaray'ın unutulmaz isimlerinden Brezilyalı futbolcu Felipe Melo, İtalyan basınına verdiği röportajda sarı-kırmızılı takıma transfer süreci, tarihi Juventus zaferi ve ezeli rakip Fenerbahçe hakkında çarpıcı açıklamalarda bulundu. La Gazzetta dello Sport'a konuşan Melo, 2013'teki Juventus maçını ve transfer döneminde yaşadıklarını tüm detaylarıyla anlattı.Şampiyonlar Ligi'ndeki Galatasaray-Juventus eşleşmesi hakkında konuşan Melo, İtalyan ekibinin taraftarlarının tepkisini çektiğini",
-      "long_summary_tr": "Galatasaray'ın unutulmaz isimlerinden Brezilyalı futbolcu Felipe Melo, İtalyan basınına verdiği röportajda sarı-kırmızılı takıma transfer süreci, tarihi Juventus zaferi ve ezeli rakip Fenerbahçe hakkında çarpıcı açıklamalarda bulundu. La Gazzetta dello Sport'a konuşan Melo, 2013'teki Juventus maçını ve transfer döneminde yaşadıklarını tüm detaylarıyla anlattı.Şampiyonlar Ligi'ndeki Galatasaray-Juventus eşleşmesi hakkında konuşan Melo, İtalyan ekibinin taraftarlarının tepkisini çektiğini",
+      "title": "Bursa'da korkutan araç yangını!",
+      "title_tr": "Bursa'da korkutan araç yangını!",
+      "summary": "Bursa'nın Mudanya ilçesinde seyir halindeki bir otomobil, motor kısmından çıkan dumanların ardından alev aldı.Edinilen bilgiye göre olay, Mudanya ilçesi Kurşunlu istikametinde, Gemlik-Mudanya yolu üzerinde meydana geldi. Seyir halindeki otomobilin motor kısmından dumanlar yükseldiğini fark eden sürücü, aracı hemen kenara çekti. Kısa süre içerisinde dumanların alevlere dönüştüğünü gören sürücü durumu itfaiye ekiplerine bildirdi.\n\n\n\nİhbar üzerine olay yerine hızla intikal eden Bursa Büyükşehir Belediyesi Mudanya İtfaiye ekipleri, alev alan otomobile kısa sürede müdahale ederek yangını kontrol altına aldı.\n\n\n\nYangında can kaybı ya da yaralanma yaşanmazken, otomobil kullanılamaz hale geldi. Yangının çıkış nedenine ilişkin inceleme başlatıldı.",
+      "summary_tr": "Bursa'nın Mudanya ilçesinde seyir halindeki bir otomobil, motor kısmından çıkan dumanların ardından alev aldı.Edinilen bilgiye göre olay, Mudanya ilçesi Kurşunlu istikametinde, Gemlik-Mudanya yolu üzerinde meydana geldi. Seyir halindeki otomobilin motor kısmından dumanlar yükseldiğini fark eden sürücü, aracı hemen kenara çekti. Kısa süre içerisinde dumanların alevlere dönüştüğünü gören sürücü durumu itfaiye ekiplerine bildirdi.\n\n\n\nİhbar üzerine olay yerine hızla intikal eden Bursa Büyükşehir Belediyesi Mudanya İtfaiye ekipleri, alev alan otomobile kısa sürede müdahale ederek yangını kontrol altına aldı.\n\n\n\nYangında can kaybı ya da yaralanma yaşanmazken, otomobil kullanılamaz hale geldi. Yangının çıkış nedenine ilişkin inceleme başlatıldı.",
+      "long_summary": "Bursa'nın Mudanya ilçesinde seyir halindeki bir otomobil, motor kısmından çıkan dumanların ardından alev aldı.Edinilen bilgiye göre olay, Mudanya ilçesi Kurşunlu istikametinde, Gemlik-Mudanya yolu üzerinde meydana geldi. Seyir halindeki otomobilin motor kısmından dumanlar yükseldiğini fark eden sürücü, aracı hemen kenara çekti. Kısa süre içerisinde dumanların alevlere dönüştüğünü gören sürücü durumu itfaiye ekiplerine bildirdi.\n\n\n\nİhbar üzerine olay yerine hızla intikal eden Bursa Büyükşehir",
+      "long_summary_tr": "Bursa'nın Mudanya ilçesinde seyir halindeki bir otomobil, motor kısmından çıkan dumanların ardından alev aldı.Edinilen bilgiye göre olay, Mudanya ilçesi Kurşunlu istikametinde, Gemlik-Mudanya yolu üzerinde meydana geldi. Seyir halindeki otomobilin motor kısmından dumanlar yükseldiğini fark eden sürücü, aracı hemen kenara çekti. Kısa süre içerisinde dumanların alevlere dönüştüğünü gören sürücü durumu itfaiye ekiplerine bildirdi.\n\n\n\nİhbar üzerine olay yerine hızla intikal eden Bursa Büyükşehir",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/spor/felipe-melo-dan-tarihi-juventus-galatasaray-maci-ve-fenerbahce-itirafi-1576735",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/felipe-melo-dan-tarihi-juventus-galatasaray-maci-ve-fenerbahce-itirafi-1771098513-58_large.webp",
-      "published_at": "2026-02-14T19:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "TB-3 SİHA, Almanya'daki NATO tatbikatında hedefleri başarıyla vurdu",
-      "title_tr": "TB-3 SİHA, Almanya'daki NATO tatbikatında hedefleri başarıyla vurdu",
-      "summary": "Almanya'daki Steadfast Dart 2026 NATO Tatbikatı devam ediyor. Tatbikatta, TCG Anadolu'dan havalanan TB-3 SİHA'lar belirlenen hedefleri tam isabetle vurdu.Milli Savunma Bakanlığı, sosyal medya hesabından Almanya'daki NATO tatbikatına ilişkin paylaşımda bulundu.\n\nTatbikata katılan TB-3 SİHA’lar, TCG Anadolu’dan havalanarak Baltık Denizi’nde belirlenen hedefleri tam isabet vurdu.\n\nPaylaşımda, \"Şanlı ordumuz; kara, deniz ve hava unsurlarıyla katıldığı NATO Steadfast Dart-2026 Tatbikatı’nda üstün imkân ve kabiliyetlerini sergilemeye devam ediyor.\" ifadelerine yer verildi.",
-      "summary_tr": "Almanya'daki Steadfast Dart 2026 NATO Tatbikatı devam ediyor. Tatbikatta, TCG Anadolu'dan havalanan TB-3 SİHA'lar belirlenen hedefleri tam isabetle vurdu.Milli Savunma Bakanlığı, sosyal medya hesabından Almanya'daki NATO tatbikatına ilişkin paylaşımda bulundu.\n\nTatbikata katılan TB-3 SİHA’lar, TCG Anadolu’dan havalanarak Baltık Denizi’nde belirlenen hedefleri tam isabet vurdu.\n\nPaylaşımda, \"Şanlı ordumuz; kara, deniz ve hava unsurlarıyla katıldığı NATO Steadfast Dart-2026 Tatbikatı’nda üstün imkân ve kabiliyetlerini sergilemeye devam ediyor.\" ifadelerine yer verildi.",
-      "long_summary": "Almanya'daki Steadfast Dart 2026 NATO Tatbikatı devam ediyor. Tatbikatta, TCG Anadolu'dan havalanan TB-3 SİHA'lar belirlenen hedefleri tam isabetle vurdu.Milli Savunma Bakanlığı, sosyal medya hesabından Almanya'daki NATO tatbikatına ilişkin paylaşımda bulundu.\n\nTatbikata katılan TB-3 SİHA’lar, TCG Anadolu’dan havalanarak Baltık Denizi’nde belirlenen hedefleri tam isabet vurdu.\n\nPaylaşımda, \"Şanlı ordumuz; kara, deniz ve hava unsurlarıyla katıldığı NATO Steadfast Dart-2026 Tatbikatı’nda üstün",
-      "long_summary_tr": "Almanya'daki Steadfast Dart 2026 NATO Tatbikatı devam ediyor. Tatbikatta, TCG Anadolu'dan havalanan TB-3 SİHA'lar belirlenen hedefleri tam isabetle vurdu.Milli Savunma Bakanlığı, sosyal medya hesabından Almanya'daki NATO tatbikatına ilişkin paylaşımda bulundu.\n\nTatbikata katılan TB-3 SİHA’lar, TCG Anadolu’dan havalanarak Baltık Denizi’nde belirlenen hedefleri tam isabet vurdu.\n\nPaylaşımda, \"Şanlı ordumuz; kara, deniz ve hava unsurlarıyla katıldığı NATO Steadfast Dart-2026 Tatbikatı’nda üstün",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/savunma-sanayi/tb-3-siha-almanya-daki-nato-tatbikatinda-hedefleri-basariyla-vurdu-1576731",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/tb-3-siha-almanya-daki-nato-tatbikatinda-hedefleri-basariyla-vurdu-1771098378-739_large.webp",
-      "published_at": "2026-02-14T19:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Forever Young superb once again in Saudi Cup",
-      "title_tr": "Forever Young superb once again in Saudi Cup",
-      "summary": "Forever Young created history when becoming the first dual winner of the world’s most valuable horse race, the Saudi Cup.",
-      "summary_tr": "Forever Young created history when becoming the first dual winner of the world’s most valuable horse race, the Saudi Cup.",
-      "long_summary": "Forever Young created history when becoming the first dual winner of the world’s most valuable horse race, the Saudi Cup.",
-      "long_summary_tr": "Forever Young created history when becoming the first dual winner of the world’s most valuable horse race, the Saudi Cup.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/racing/news/12040/13507696/forever-young-superb-once-again-in-saudi-cup",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-racing-forever-young_7064924.jpg?20251028153635",
-      "published_at": "2026-02-14T19:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Derbide gol düellosunda 3 puan Fenerbahçe'nin",
-      "title_tr": "Derbide gol düellosunda 3 puan Fenerbahçe'nin",
-      "summary": "Trendyol Süper Lig&#039;in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor&#039;u 3-2 mağlup etti. Sarı-lacivertliler, ligdeki puanını 52&#039;ye yükseltti. Bordo-mavililer, 45 puanda kaldı.",
-      "summary_tr": "Trendyol Süper Lig&#039;in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor&#039;u 3-2 mağlup etti. Sarı-lacivertliler, ligdeki puanını 52&#039;ye yükseltti. Bordo-mavililer, 45 puanda kaldı.",
-      "long_summary": "Trendyol Süper Lig&#039;in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor&#039;u 3-2 mağlup etti. Sarı-lacivertliler, ligdeki puanını 52&#039;ye yükseltti. Bordo-mavililer, 45 puanda kaldı.",
-      "long_summary_tr": "Trendyol Süper Lig&#039;in 22. haftasında Fenerbahçe, deplasmanda Trabzonspor&#039;u 3-2 mağlup etti. Sarı-lacivertliler, ligdeki puanını 52&#039;ye yükseltti. Bordo-mavililer, 45 puanda kaldı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/spor/derbide-gol-duellosunda-3-puan-fenerbahcenin-haberi-815103",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/derbi-mpyg_cover.jpg",
-      "published_at": "2026-02-14T19:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Samsung’un Geniş Katlanabilir Telefonu Sızdı",
-      "title_tr": "Samsung’un Geniş Katlanabilir Telefonu Sızdı",
-      "summary": "Samsung’un katlanabilir telefon pazarındaki yenilikçi adımları hız kesmeden devam ediyor. Sızdırılan yeni bilgilere göre şirket, Samsung geniş katlanabilir telefon konsepti üzerinde çalışıyor. ‘Wide Fold’ kod adıyla anılan bu yeni model, mevcut tasarımlardan ayrılarak kullanıcılara farklı bir deneyim sunmayı hedefliyor. Apple iPhone Flip Modelini Test Ediyor Apple kapaklı tasarıma sahip iPhone Flip modelini test etmeye başladı. […]",
-      "summary_tr": "Samsung’un katlanabilir telefon pazarındaki yenilikçi adımları hız kesmeden devam ediyor. Sızdırılan yeni bilgilere göre şirket, Samsung geniş katlanabilir telefon konsepti üzerinde çalışıyor. ‘Wide Fold’ kod adıyla anılan bu yeni model, mevcut tasarımlardan ayrılarak kullanıcılara farklı bir deneyim sunmayı hedefliyor. Apple iPhone Flip Modelini Test Ediyor Apple kapaklı tasarıma sahip iPhone Flip modelini test etmeye başladı. […]",
-      "long_summary": "Samsung’un katlanabilir telefon pazarındaki yenilikçi adımları hız kesmeden devam ediyor. Sızdırılan yeni bilgilere göre şirket, Samsung geniş katlanabilir telefon konsepti üzerinde çalışıyor. ‘Wide Fold’ kod adıyla anılan bu yeni model, mevcut tasarımlardan ayrılarak kullanıcılara farklı bir deneyim sunmayı hedefliyor. Apple iPhone Flip Modelini Test Ediyor Apple kapaklı tasarıma sahip iPhone Flip modelini test etmeye başladı. […]",
-      "long_summary_tr": "Samsung’un katlanabilir telefon pazarındaki yenilikçi adımları hız kesmeden devam ediyor. Sızdırılan yeni bilgilere göre şirket, Samsung geniş katlanabilir telefon konsepti üzerinde çalışıyor. ‘Wide Fold’ kod adıyla anılan bu yeni model, mevcut tasarımlardan ayrılarak kullanıcılara farklı bir deneyim sunmayı hedefliyor. Apple iPhone Flip Modelini Test Ediyor Apple kapaklı tasarıma sahip iPhone Flip modelini test etmeye başladı. […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/samsung-genis-katlanabilir-telefon-sizdirildi-ilk-detaylar",
-      "image": null,
-      "published_at": "2026-02-14T19:00:49+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Trabzon'da gol yağmuru olan gecede zafer Fenerbahçe'nin!",
-      "title_tr": "Trabzon'da gol yağmuru olan gecede zafer Fenerbahçe'nin!",
-      "summary": "Trendyol Süper Lig'in 22.haftasında Trabzonspor ile Fenerbahçe karşılaştı. Dev derbiden 3-2'lik skorla zaferle ayrılan Fenerbahçe zirve takibini sürdürdü.Trendyol Süper Lig'in 22. haftasında şampiyonluk mücadelesi veren 2 takım Trabzonspor ve Fenerbahçe karşılaştı.\n\nPapara Park'ta oynanan maçta 5 gol çıkarken kazanan takım Fenerbahçe oldu. Sarı lacivertllerin gollerini Talisca, Kerem Aktürkoğlu ve Asensio attı. Trabzonspor'da Muçi ve Onuachu ağları havalandırdı.\n\nFenerbahçe bu galibiyetle puanını 52 yaptı. Trabzonspor ise 45 puanda kaldı.",
-      "summary_tr": "Trendyol Süper Lig'in 22.haftasında Trabzonspor ile Fenerbahçe karşılaştı. Dev derbiden 3-2'lik skorla zaferle ayrılan Fenerbahçe zirve takibini sürdürdü.Trendyol Süper Lig'in 22. haftasında şampiyonluk mücadelesi veren 2 takım Trabzonspor ve Fenerbahçe karşılaştı.\n\nPapara Park'ta oynanan maçta 5 gol çıkarken kazanan takım Fenerbahçe oldu. Sarı lacivertllerin gollerini Talisca, Kerem Aktürkoğlu ve Asensio attı. Trabzonspor'da Muçi ve Onuachu ağları havalandırdı.\n\nFenerbahçe bu galibiyetle puanını 52 yaptı. Trabzonspor ise 45 puanda kaldı.",
-      "long_summary": "Trendyol Süper Lig'in 22.haftasında Trabzonspor ile Fenerbahçe karşılaştı. Dev derbiden 3-2'lik skorla zaferle ayrılan Fenerbahçe zirve takibini sürdürdü.Trendyol Süper Lig'in 22. haftasında şampiyonluk mücadelesi veren 2 takım Trabzonspor ve Fenerbahçe karşılaştı.\n\nPapara Park'ta oynanan maçta 5 gol çıkarken kazanan takım Fenerbahçe oldu. Sarı lacivertllerin gollerini Talisca, Kerem Aktürkoğlu ve Asensio attı. Trabzonspor'da Muçi ve Onuachu ağları havalandırdı.\n\nFenerbahçe bu galibiyetle",
-      "long_summary_tr": "Trendyol Süper Lig'in 22.haftasında Trabzonspor ile Fenerbahçe karşılaştı. Dev derbiden 3-2'lik skorla zaferle ayrılan Fenerbahçe zirve takibini sürdürdü.Trendyol Süper Lig'in 22. haftasında şampiyonluk mücadelesi veren 2 takım Trabzonspor ve Fenerbahçe karşılaştı.\n\nPapara Park'ta oynanan maçta 5 gol çıkarken kazanan takım Fenerbahçe oldu. Sarı lacivertllerin gollerini Talisca, Kerem Aktürkoğlu ve Asensio attı. Trabzonspor'da Muçi ve Onuachu ağları havalandırdı.\n\nFenerbahçe bu galibiyetle",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/spor/trabzon-da-gol-yagmuru-olan-gecede-zafer-fenerbahce-nin-1576733",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/trabzon-da-gol-yagmuru-olan-gecede-zafer-fenerbahce-nin-1771098457-236_large.webp",
-      "published_at": "2026-02-14T19:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "'TCG Anamur' mayın avlama gemisi NATO görevi için Yunanistan'da",
-      "title_tr": "'TCG Anamur' mayın avlama gemisi NATO görevi için Yunanistan'da",
-      "summary": "Türk Deniz Kuvvetlerine ait \"TCG Anamur (M-269)\" isimli mayın avlama gemisi, NATO görevi kapsamında Yunanistan'ın Pire Limanı'na geldi.Türk Deniz Kuvvetleri'nde hizmet veren Aydın (A) sınıfı mayın avlama gemilerinden biri olan “TCG Anamur (M-269)” isimli mayın avlama gemisi, NATO Daimi Mayın Karşı Tedbirleri Deniz görev Grubu 2 kapsamındaki görevi vesilesiyle Yunanistan’ın Pire Limanı’na yanaştı.\n\nTCG Anamur Komutanı Deniz Binbaşı Alper Pabuççu, gemide görevli Deniz Kuvvetleri personeli, Atina Silahlı Kuvvetler ve Deniz Ataşesi Doktor Deniz Kıdemli Albay Ünsal Başak, Atina Kara Ataşesi Yarbay Ahmet Gökhan Bağlama ve diğer görevli personel Pire’deki Türk Şehitliği’ni ziyaret etti. Şehitlikte kısa bir tören düzenlendi.\n\nBalkan, Birinci Dünya ve İstiklal savaşlarındaki şehitler için bir dakikalık saygı duruşuyla başlayan törende, İstiklal Marşı okundu. Şehitlikteki mezarlara beyaz ve kırmızı karanfiller bırakıldı.\n\nDaha sonra Türkiye’nin Atina Büyükelçisi Çağatay Erciyes, Atina-Pire Başkonsolosu Işıl Işık Civelik ve Türkiye’nin Atina Büyükelçiliği'nde görevli Birinci Müsteşar Şahika Deniz Hançer gemiyi ziyaret etti.\n\nMisafirleri gemide, gemi komutanı Pabuççu karşıladı.\n\nBüyükelçi Erciyes ve Başkonsolos Işıl Işık Civelik gemi anı defterini imzaladı.\n\nTCG Anamur mayın avlama gemisi\n\nTCG Anamur mayın avlama gemisi, Türk Deniz Kuvvetlerine 2005-2008 yılları arasında katılan 6 Aydın (A) sınıfı mayın avlama gemisinden biri. Alman Lürrsen-Werft Tersanesi tasarımı olan gemi İstanbul Tersanesi'nde inşa edilmişti.\n\nSon teknoloji ile donatılmış olan TCG Anamur, NATO’nun en modern mayın avlama gemileri arasında yer alıyor. Manyetik sensörlü mayınlara karşı güvenlik için manyetik olmayan çelik kullanılması sebebiyle Türk Donanmasının metrekaresi en pahalı gemileri arasında bulunuyor.\n\nKendi etrafında 360 derece dönebilen TCG Anamur, böylece mayın hatları arasında dolaşabilme, mayınları sahip olduğu gelişmiş sonar ile 400-600 metre mesafeden belirleme ve tespit edilince imha etme kabiliyetine sahip.\n\nPire Türk Şehitliği\n\nPire Türk Şehitliği, 1859'da Müslüman mezarlığı olarak kurulduktan sonra 24 Mart 1890'da Pire Belediyesince Osmanlı Devleti'ne verildi.\n\nMezarlık, Balkan, Birinci Dünya ve İstiklal savaşlarında esir olarak Atina'ya götürülen ve burada şehit olan Türk askerlerinin defnedilmesiyle şehitlik hüviyetini kazandı.",
-      "summary_tr": "Türk Deniz Kuvvetlerine ait \"TCG Anamur (M-269)\" isimli mayın avlama gemisi, NATO görevi kapsamında Yunanistan'ın Pire Limanı'na geldi.Türk Deniz Kuvvetleri'nde hizmet veren Aydın (A) sınıfı mayın avlama gemilerinden biri olan “TCG Anamur (M-269)” isimli mayın avlama gemisi, NATO Daimi Mayın Karşı Tedbirleri Deniz görev Grubu 2 kapsamındaki görevi vesilesiyle Yunanistan’ın Pire Limanı’na yanaştı.\n\nTCG Anamur Komutanı Deniz Binbaşı Alper Pabuççu, gemide görevli Deniz Kuvvetleri personeli, Atina Silahlı Kuvvetler ve Deniz Ataşesi Doktor Deniz Kıdemli Albay Ünsal Başak, Atina Kara Ataşesi Yarbay Ahmet Gökhan Bağlama ve diğer görevli personel Pire’deki Türk Şehitliği’ni ziyaret etti. Şehitlikte kısa bir tören düzenlendi.\n\nBalkan, Birinci Dünya ve İstiklal savaşlarındaki şehitler için bir dakikalık saygı duruşuyla başlayan törende, İstiklal Marşı okundu. Şehitlikteki mezarlara beyaz ve kırmızı karanfiller bırakıldı.\n\nDaha sonra Türkiye’nin Atina Büyükelçisi Çağatay Erciyes, Atina-Pire Başkonsolosu Işıl Işık Civelik ve Türkiye’nin Atina Büyükelçiliği'nde görevli Birinci Müsteşar Şahika Deniz Hançer gemiyi ziyaret etti.\n\nMisafirleri gemide, gemi komutanı Pabuççu karşıladı.\n\nBüyükelçi Erciyes ve Başkonsolos Işıl Işık Civelik gemi anı defterini imzaladı.\n\nTCG Anamur mayın avlama gemisi\n\nTCG Anamur mayın avlama gemisi, Türk Deniz Kuvvetlerine 2005-2008 yılları arasında katılan 6 Aydın (A) sınıfı mayın avlama gemisinden biri. Alman Lürrsen-Werft Tersanesi tasarımı olan gemi İstanbul Tersanesi'nde inşa edilmişti.\n\nSon teknoloji ile donatılmış olan TCG Anamur, NATO’nun en modern mayın avlama gemileri arasında yer alıyor. Manyetik sensörlü mayınlara karşı güvenlik için manyetik olmayan çelik kullanılması sebebiyle Türk Donanmasının metrekaresi en pahalı gemileri arasında bulunuyor.\n\nKendi etrafında 360 derece dönebilen TCG Anamur, böylece mayın hatları arasında dolaşabilme, mayınları sahip olduğu gelişmiş sonar ile 400-600 metre mesafeden belirleme ve tespit edilince imha etme kabiliyetine sahip.\n\nPire Türk Şehitliği\n\nPire Türk Şehitliği, 1859'da Müslüman mezarlığı olarak kurulduktan sonra 24 Mart 1890'da Pire Belediyesince Osmanlı Devleti'ne verildi.\n\nMezarlık, Balkan, Birinci Dünya ve İstiklal savaşlarında esir olarak Atina'ya götürülen ve burada şehit olan Türk askerlerinin defnedilmesiyle şehitlik hüviyetini kazandı.",
-      "long_summary": "Türk Deniz Kuvvetlerine ait \"TCG Anamur (M-269)\" isimli mayın avlama gemisi, NATO görevi kapsamında Yunanistan'ın Pire Limanı'na geldi.Türk Deniz Kuvvetleri'nde hizmet veren Aydın (A) sınıfı mayın avlama gemilerinden biri olan “TCG Anamur (M-269)” isimli mayın avlama gemisi, NATO Daimi Mayın Karşı Tedbirleri Deniz görev Grubu 2 kapsamındaki görevi vesilesiyle Yunanistan’ın Pire Limanı’na yanaştı.\n\nTCG Anamur Komutanı Deniz Binbaşı Alper Pabuççu, gemide görevli Deniz Kuvvetleri personeli, Atina",
-      "long_summary_tr": "Türk Deniz Kuvvetlerine ait \"TCG Anamur (M-269)\" isimli mayın avlama gemisi, NATO görevi kapsamında Yunanistan'ın Pire Limanı'na geldi.Türk Deniz Kuvvetleri'nde hizmet veren Aydın (A) sınıfı mayın avlama gemilerinden biri olan “TCG Anamur (M-269)” isimli mayın avlama gemisi, NATO Daimi Mayın Karşı Tedbirleri Deniz görev Grubu 2 kapsamındaki görevi vesilesiyle Yunanistan’ın Pire Limanı’na yanaştı.\n\nTCG Anamur Komutanı Deniz Binbaşı Alper Pabuççu, gemide görevli Deniz Kuvvetleri personeli, Atina",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/tcg-anamur-mayin-avlama-gemisi-nato-gorevi-icin-yunanistan-da-1576729",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/tcg-anamur-mayin-avlama-gemisi-nato-gorevi-icin-yunanistan-da-1771098347-918_large.webp",
-      "published_at": "2026-02-14T19:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "FIVE HUNDRED career goals! Kane hits BELTER to reach landmark",
-      "title_tr": "FIVE HUNDRED career goals! Kane hits BELTER to reach landmark",
-      "summary": "Harry Kane scores his 500th career goal in style with his second for Bayern Munich against Werder Bremen in the Bundesliga.",
-      "summary_tr": "Harry Kane scores his 500th career goal in style with his second for Bayern Munich against Werder Bremen in the Bundesliga.",
-      "long_summary": "Harry Kane scores his 500th career goal in style with his second for Bayern Munich against Werder Bremen in the Bundesliga.",
-      "long_summary_tr": "Harry Kane scores his 500th career goal in style with his second for Bayern Munich against Werder Bremen in the Bundesliga.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13507694/werder-bremen-vs-bayern-munich-harry-kanes-500th-career-goal",
-      "image": "https://e0.365dm.com/26/02/1920x1080/football-kane-bundesliga-bayern_7165215.jpg?20260214192356",
-      "published_at": "2026-02-14T18:56:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Canlı Yayın Uygulamaları Yasaklandı!",
-      "title_tr": "Canlı Yayın Uygulamaları Yasaklandı!",
-      "summary": "Bilgi Teknolojileri ve İletişim Kurumu sosyal medya ve dijital platformlara yönelik denetimlerini sıkılaştırarak radikal bir karara imza attı. Kurum tarafından 14 Şubat 2026 tarihinde alınan karar neticesinde Türkiye de faaliyet gösteren ve geniş bir kullanıcı kitlesine sahip olan birçok platforma erişim engeli getirildi. Özellikle gençler arasında popüler olan bu uygulamaların kapatılması sosyal medyada geniş yankı […]",
-      "summary_tr": "Bilgi Teknolojileri ve İletişim Kurumu sosyal medya ve dijital platformlara yönelik denetimlerini sıkılaştırarak radikal bir karara imza attı. Kurum tarafından 14 Şubat 2026 tarihinde alınan karar neticesinde Türkiye de faaliyet gösteren ve geniş bir kullanıcı kitlesine sahip olan birçok platforma erişim engeli getirildi. Özellikle gençler arasında popüler olan bu uygulamaların kapatılması sosyal medyada geniş yankı […]",
-      "long_summary": "Bilgi Teknolojileri ve İletişim Kurumu sosyal medya ve dijital platformlara yönelik denetimlerini sıkılaştırarak radikal bir karara imza attı. Kurum tarafından 14 Şubat 2026 tarihinde alınan karar neticesinde Türkiye de faaliyet gösteren ve geniş bir kullanıcı kitlesine sahip olan birçok platforma erişim engeli getirildi. Özellikle gençler arasında popüler olan bu uygulamaların kapatılması sosyal medyada geniş yankı […]",
-      "long_summary_tr": "Bilgi Teknolojileri ve İletişim Kurumu sosyal medya ve dijital platformlara yönelik denetimlerini sıkılaştırarak radikal bir karara imza attı. Kurum tarafından 14 Şubat 2026 tarihinde alınan karar neticesinde Türkiye de faaliyet gösteren ve geniş bir kullanıcı kitlesine sahip olan birçok platforma erişim engeli getirildi. Özellikle gençler arasında popüler olan bu uygulamaların kapatılması sosyal medyada geniş yankı […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/dokuz-farkli-canli-yayin-uygulamasina-erisim-engeli-geldi",
-      "image": null,
-      "published_at": "2026-02-14T18:50:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Milli İstihbarat Akademisi, 62. Münih Güvenlik Konferansı'nda yer aldı",
-      "title_tr": "Milli İstihbarat Akademisi, 62. Münih Güvenlik Konferansı'nda yer aldı",
-      "summary": "Milli İstihbarat Akademisi (MİA), Almanya'da düzenlenen 62. Münih Güvenlik Konferansı'nda bir panelle yer aldı.Milli İstihbarat Akademisinden yapılan yazılı açıklamaya göre, MİA, Almanya’nın Münih kentinde, 1963'ten bu yana düzenlenen 62. Münih Güvenlik Konferansı’nda bu sene bir panelle yer aldı.\n\n\"Yıkım Sürecindeki Küresel Düzen\" tartışmalarının ana tema olduğu konferansta, MİA tarafından, \"Değişen Dünya Düzeninde Avrupa-Akdeniz İşbirliğini ve Avrupa Güvenliğini Yeniden Düşünmek\" başlığı ile gerçekleştirilen panele, NATO ve Avrupa Birliği (AB) temsilcilerinin yanı sıra bölge ile ilgili çalışmalar yürütmekte olan önemli diplomat, uzmanlar ve iş insanları da katıldı.\n\nPanelde, Avrupa güvenliği açısından Akdeniz güvenliğinin artan önemi tartışılırken, Akdeniz güvenliğini Avrupa güvenliğinin yeniden merkezine taşımanın gerekliliği, bu doğrultuda atılması gereken adımlar ve söz konusu adımların önündeki engeller ele alındı.\n\nDeğişen dünya düzeninde ortaya çıkan yeni tehditlerin güvenlik algısında zorunlu kıldığı değişimler çerçevesinde, Avrupa güvenliğinin üçe bölündüğü tespitinin yapıldığı panelde, kuzey, güney ve doğu hatlarında beliren farklı öncelikler bağlamında NATO ve AB bünyesindeki müttefik ve partnerlerin bölgedeki rolleri ile Türkiye’nin stratejik pozisyonu ve rolü, güvenlik ve istihbarat perspektifinden konuşuldu.\n\nMİA Başkanı Köse, Türkiye'nin çok taraflı çözüm çabalarına katkılarına değindi\n\nMİA Başkanı Prof. Dr. Talha Köse, burada yaptığı konuşmada, NATO ve Avrupalı aktörlerin koordinasyon sorunları ve bu sorunların Avrupa güvenliğinde oluşturduğu boşluklara değindi.\n\nKöse, yeni dünya düzeninde Akdeniz coğrafyasının ikinci plandaki bir sütun gibi algılandığını ve pratik düzlemde ihmal edilen Akdeniz güvenliğinin bugün daha merkezi ve birinci derecede bir yaklaşımla ele alınmasının zorunlu olduğunu vurguladı.\n\nDaha önceki Akdeniz güvenliği girişimlerinin ise kapsayıcılık ve esneklik eksikliği ile paydaşlar arasındaki gerilimler ve kurumsal aksaklıklar nedeniyle istenen seviyeye ulaşmadığını belirten Köse, bunun terörizmle mücadele, enerji güvenliği, düzensiz göç, hibrit tehditler ve deniz güvenliği açısından çeşitli sorunlara yol açtığını aktardı.\n\nKöse, Türkiye’nin son 20 yıllık süre içerisinde terörizm, düzensiz göç, enerji güvenliğinde meydana gelen belirsizlikler ve insani krizlerin önlenmesi konusunda inkar edilemeyecek katkılarda bulunarak Avrupa güvenliği ve direncine kayda değer katkılar yaptığını söylerken, buna rağmen karar mekanizmalarına hak ettiği şekilde dahil edilmediğini hatırlattı.\n\nSon yıllarda Türkiye’nin etkili istihbarat diplomasisi ile bölgesel krizlerin tırmanmasının önüne geçtiğini dile getiren Köse, Türkiye'nin çok taraflı çözüm çabalarına katkı sağladığını, insani krizlerin hafifletilmesi ve rehine takası ve kritik ortamlarda iletişim sağladığını dile getirdi.\n\nTürkiye’nin Avrupa savunma mekanizmaları içinde yer almasının önem taşıdığı vurgusu\n\nMİA Dr. Öğretim Üyesi Merve Önenli Güven ise bölgesel iş birliklerinin istihbarat paylaşımı doğrultusunda olası risklerin tehdide dönüşmeden bertaraf edilmesi gerektiğini söyledi.\n\nHibrit tehditlerle mücadelede ortak tehdit algısının oluşması gerektiğini vurgulayan Güven, ortak güvenlik perspektifiyle desteklenecek bölgesel iş birliklerinin partnerler ve müttefikler açısından önemini somut örneklerle ortaya koydu.\n\nGüven, hibrit tehditlerle mücadelede ortak güvenlik anlayışı temelinde stratejik istihbaratın önemli araçlarından olan stratejik öngörünün nasıl tesis edilebileceğine dair bir model önerisi sundu.\n\nBeykoz Üniversitesi Siyaset Bilimi ve Uluslararası İlişkiler Bölümü Öğretim Üyesi ve Bonn Üniversitesi İleri Güvenlik, Strateji ve Entegrasyon Çalışmaları Merkezi (CASSIS) Kıdemli Uzmanı Prof. Dr. Aylin Ünver Noi, Avrupa-Akdeniz bölgesinde NATO ve AB’nin geçmişte bölgeye yönelik inisiyatifleri ile günümüzde bölgesel iş birliğini güçlendirmeyi amaçlayan NATO Güney Komşuluğu gibi yeni girişimleri karşılaştırdı.\n\nAkdeniz havzasında günümüzde karşılaşılan sınama ve zorlukların, artan jeopolitik rekabet nedeniyle daha karmaşık hale geldiğinin altını çizen Aylin Ünver Noi, NATO’nun askeri açıdan en etkin ordularından birine sahip olan Türkiye’nin hem Akdeniz hem de Avrupa güvenliğine katkısının sürdüğünü belirtti.\n\nNoi, değişen NATO-AB iş birliği sürecinde, AB içinde inşa edilen güvenlik mimarisi kapsamında, AB üyesi olmayan bir NATO üyesi olarak Türkiye’nin Avrupa savunma mekanizmaları içinde yer almasının önem taşıdığını vurguladı.",
-      "summary_tr": "Milli İstihbarat Akademisi (MİA), Almanya'da düzenlenen 62. Münih Güvenlik Konferansı'nda bir panelle yer aldı.Milli İstihbarat Akademisinden yapılan yazılı açıklamaya göre, MİA, Almanya’nın Münih kentinde, 1963'ten bu yana düzenlenen 62. Münih Güvenlik Konferansı’nda bu sene bir panelle yer aldı.\n\n\"Yıkım Sürecindeki Küresel Düzen\" tartışmalarının ana tema olduğu konferansta, MİA tarafından, \"Değişen Dünya Düzeninde Avrupa-Akdeniz İşbirliğini ve Avrupa Güvenliğini Yeniden Düşünmek\" başlığı ile gerçekleştirilen panele, NATO ve Avrupa Birliği (AB) temsilcilerinin yanı sıra bölge ile ilgili çalışmalar yürütmekte olan önemli diplomat, uzmanlar ve iş insanları da katıldı.\n\nPanelde, Avrupa güvenliği açısından Akdeniz güvenliğinin artan önemi tartışılırken, Akdeniz güvenliğini Avrupa güvenliğinin yeniden merkezine taşımanın gerekliliği, bu doğrultuda atılması gereken adımlar ve söz konusu adımların önündeki engeller ele alındı.\n\nDeğişen dünya düzeninde ortaya çıkan yeni tehditlerin güvenlik algısında zorunlu kıldığı değişimler çerçevesinde, Avrupa güvenliğinin üçe bölündüğü tespitinin yapıldığı panelde, kuzey, güney ve doğu hatlarında beliren farklı öncelikler bağlamında NATO ve AB bünyesindeki müttefik ve partnerlerin bölgedeki rolleri ile Türkiye’nin stratejik pozisyonu ve rolü, güvenlik ve istihbarat perspektifinden konuşuldu.\n\nMİA Başkanı Köse, Türkiye'nin çok taraflı çözüm çabalarına katkılarına değindi\n\nMİA Başkanı Prof. Dr. Talha Köse, burada yaptığı konuşmada, NATO ve Avrupalı aktörlerin koordinasyon sorunları ve bu sorunların Avrupa güvenliğinde oluşturduğu boşluklara değindi.\n\nKöse, yeni dünya düzeninde Akdeniz coğrafyasının ikinci plandaki bir sütun gibi algılandığını ve pratik düzlemde ihmal edilen Akdeniz güvenliğinin bugün daha merkezi ve birinci derecede bir yaklaşımla ele alınmasının zorunlu olduğunu vurguladı.\n\nDaha önceki Akdeniz güvenliği girişimlerinin ise kapsayıcılık ve esneklik eksikliği ile paydaşlar arasındaki gerilimler ve kurumsal aksaklıklar nedeniyle istenen seviyeye ulaşmadığını belirten Köse, bunun terörizmle mücadele, enerji güvenliği, düzensiz göç, hibrit tehditler ve deniz güvenliği açısından çeşitli sorunlara yol açtığını aktardı.\n\nKöse, Türkiye’nin son 20 yıllık süre içerisinde terörizm, düzensiz göç, enerji güvenliğinde meydana gelen belirsizlikler ve insani krizlerin önlenmesi konusunda inkar edilemeyecek katkılarda bulunarak Avrupa güvenliği ve direncine kayda değer katkılar yaptığını söylerken, buna rağmen karar mekanizmalarına hak ettiği şekilde dahil edilmediğini hatırlattı.\n\nSon yıllarda Türkiye’nin etkili istihbarat diplomasisi ile bölgesel krizlerin tırmanmasının önüne geçtiğini dile getiren Köse, Türkiye'nin çok taraflı çözüm çabalarına katkı sağladığını, insani krizlerin hafifletilmesi ve rehine takası ve kritik ortamlarda iletişim sağladığını dile getirdi.\n\nTürkiye’nin Avrupa savunma mekanizmaları içinde yer almasının önem taşıdığı vurgusu\n\nMİA Dr. Öğretim Üyesi Merve Önenli Güven ise bölgesel iş birliklerinin istihbarat paylaşımı doğrultusunda olası risklerin tehdide dönüşmeden bertaraf edilmesi gerektiğini söyledi.\n\nHibrit tehditlerle mücadelede ortak tehdit algısının oluşması gerektiğini vurgulayan Güven, ortak güvenlik perspektifiyle desteklenecek bölgesel iş birliklerinin partnerler ve müttefikler açısından önemini somut örneklerle ortaya koydu.\n\nGüven, hibrit tehditlerle mücadelede ortak güvenlik anlayışı temelinde stratejik istihbaratın önemli araçlarından olan stratejik öngörünün nasıl tesis edilebileceğine dair bir model önerisi sundu.\n\nBeykoz Üniversitesi Siyaset Bilimi ve Uluslararası İlişkiler Bölümü Öğretim Üyesi ve Bonn Üniversitesi İleri Güvenlik, Strateji ve Entegrasyon Çalışmaları Merkezi (CASSIS) Kıdemli Uzmanı Prof. Dr. Aylin Ünver Noi, Avrupa-Akdeniz bölgesinde NATO ve AB’nin geçmişte bölgeye yönelik inisiyatifleri ile günümüzde bölgesel iş birliğini güçlendirmeyi amaçlayan NATO Güney Komşuluğu gibi yeni girişimleri karşılaştırdı.\n\nAkdeniz havzasında günümüzde karşılaşılan sınama ve zorlukların, artan jeopolitik rekabet nedeniyle daha karmaşık hale geldiğinin altını çizen Aylin Ünver Noi, NATO’nun askeri açıdan en etkin ordularından birine sahip olan Türkiye’nin hem Akdeniz hem de Avrupa güvenliğine katkısının sürdüğünü belirtti.\n\nNoi, değişen NATO-AB iş birliği sürecinde, AB içinde inşa edilen güvenlik mimarisi kapsamında, AB üyesi olmayan bir NATO üyesi olarak Türkiye’nin Avrupa savunma mekanizmaları içinde yer almasının önem taşıdığını vurguladı.",
-      "long_summary": "Milli İstihbarat Akademisi (MİA), Almanya'da düzenlenen 62. Münih Güvenlik Konferansı'nda bir panelle yer aldı.Milli İstihbarat Akademisinden yapılan yazılı açıklamaya göre, MİA, Almanya’nın Münih kentinde, 1963'ten bu yana düzenlenen 62. Münih Güvenlik Konferansı’nda bu sene bir panelle yer aldı.\n\n\"Yıkım Sürecindeki Küresel Düzen\" tartışmalarının ana tema olduğu konferansta, MİA tarafından, \"Değişen Dünya Düzeninde Avrupa-Akdeniz İşbirliğini ve Avrupa Güvenliğini Yeniden Düşünmek\" başlığı ile",
-      "long_summary_tr": "Milli İstihbarat Akademisi (MİA), Almanya'da düzenlenen 62. Münih Güvenlik Konferansı'nda bir panelle yer aldı.Milli İstihbarat Akademisinden yapılan yazılı açıklamaya göre, MİA, Almanya’nın Münih kentinde, 1963'ten bu yana düzenlenen 62. Münih Güvenlik Konferansı’nda bu sene bir panelle yer aldı.\n\n\"Yıkım Sürecindeki Küresel Düzen\" tartışmalarının ana tema olduğu konferansta, MİA tarafından, \"Değişen Dünya Düzeninde Avrupa-Akdeniz İşbirliğini ve Avrupa Güvenliğini Yeniden Düşünmek\" başlığı ile",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/milli-istihbarat-akademisi-62-munih-guvenlik-konferansi-nda-yer-aldi-1576727",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/milli-istihbarat-akademisi-62-munih-guvenlik-konferansi-nda-yer-aldi-1771095109-847_large.webp",
-      "published_at": "2026-02-14T18:50:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Çağrı Bey Somali'de görev yapacak",
-      "title_tr": "Çağrı Bey Somali'de görev yapacak",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin yurt dışında da petrol ve doğal gaz arama faaliyetlerini sürdürdüğünü belirterek, \"Yarın yine tarihi bir adım atacağız. Çağrı Bey gemimizi, Mersin Taşucu'ndan Somali'ye uğurlayacağız ve Somali'de petrol arayacağız.\" dedi.Enerji ve Tabii Kaynaklar Bakanlığından yapılan açıklamaya göre, Bakan Bayraktar, Ankara Kızılcahamam'da düzenlenen AK Parti İstanbul Mahalle Başkanları İstişare ve Değerlendirme Kampı'na katıldı.\n\nBuradaki konuşmasında, Cumhurbaşkanı Recep Tayyip Erdoğan'ın \"Türkiye'yi mutlak surette enerjide bağımsız kılacak işler yapma\" hedefi ortaya koyduğunu hatırlatan Bayraktar, \"Türkiye'nin bu alanda dışa bağımlılığını bitireceğiz çünkü Türkiye enerjide bağımsız olursa ekonomide çok daha güçlü olacak, çok daha güçlü bir hazinemiz olacak.\" değerlendirmesinde bulundu.\n\nBayraktar, bu yıl Karadeniz'deki yerli gaz üretiminin iki katına çıkarılacağını vurgulayarak, şunları kaydetti:\n\n\"Karadeniz gazı elbette ki çok önemli. Karadeniz'de ısrarla, inatla aramaya devam edeceğiz. Farklı sahalarda yeni müjdeler için de çalışmalarımızı yoğunlaştırıyoruz. Rize, Giresun, Ordu, Samsun, Kastamonu açıklarını, Karadeniz'i baştan başa bu sene bu sondajlarla yeni sahaları keşfetmek üzere arayacağız.\"\n\nTürkiye'nin sadece içeride değil, dışarıda da petrol ve doğal gaz aradığını belirten Bayraktar, \"Yarın yine tarihi bir adım atacağız. Çağrı Bey gemimizi, Mersin Taşucu'ndan Somali'ye uğurlayacağız ve Somali'de petrol arayacağız. 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak.\" ifadelerini kullandı.\n\nBayraktar ayrıca Akkuyu Nükleer Santrali'nin ilk reaktörünün inşaatının yüzde 99 oranında tamamlandığına dikkati çekerek, şöyle devam etti:\n\n\"Hedefimiz ilk reaktörden bu sene içerisinde enerjiyi üretmek ve diğer reaktörleri de peyderpey devreye almak. 4 reaktör devreye girdiğinde ihtiyacımız olan elektriğin yüzde 10'unu, buradan alacağız. Sinop ve Trakya projeleriyle de Türkiye, önemli bir nükleer endüstriye sahip bir ülke haline gelecek.\"",
-      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin yurt dışında da petrol ve doğal gaz arama faaliyetlerini sürdürdüğünü belirterek, \"Yarın yine tarihi bir adım atacağız. Çağrı Bey gemimizi, Mersin Taşucu'ndan Somali'ye uğurlayacağız ve Somali'de petrol arayacağız.\" dedi.Enerji ve Tabii Kaynaklar Bakanlığından yapılan açıklamaya göre, Bakan Bayraktar, Ankara Kızılcahamam'da düzenlenen AK Parti İstanbul Mahalle Başkanları İstişare ve Değerlendirme Kampı'na katıldı.\n\nBuradaki konuşmasında, Cumhurbaşkanı Recep Tayyip Erdoğan'ın \"Türkiye'yi mutlak surette enerjide bağımsız kılacak işler yapma\" hedefi ortaya koyduğunu hatırlatan Bayraktar, \"Türkiye'nin bu alanda dışa bağımlılığını bitireceğiz çünkü Türkiye enerjide bağımsız olursa ekonomide çok daha güçlü olacak, çok daha güçlü bir hazinemiz olacak.\" değerlendirmesinde bulundu.\n\nBayraktar, bu yıl Karadeniz'deki yerli gaz üretiminin iki katına çıkarılacağını vurgulayarak, şunları kaydetti:\n\n\"Karadeniz gazı elbette ki çok önemli. Karadeniz'de ısrarla, inatla aramaya devam edeceğiz. Farklı sahalarda yeni müjdeler için de çalışmalarımızı yoğunlaştırıyoruz. Rize, Giresun, Ordu, Samsun, Kastamonu açıklarını, Karadeniz'i baştan başa bu sene bu sondajlarla yeni sahaları keşfetmek üzere arayacağız.\"\n\nTürkiye'nin sadece içeride değil, dışarıda da petrol ve doğal gaz aradığını belirten Bayraktar, \"Yarın yine tarihi bir adım atacağız. Çağrı Bey gemimizi, Mersin Taşucu'ndan Somali'ye uğurlayacağız ve Somali'de petrol arayacağız. 2026 bu anlamda bir keşif yılı, bir müjdeler yılı olarak bizlere nasip olacak.\" ifadelerini kullandı.\n\nBayraktar ayrıca Akkuyu Nükleer Santrali'nin ilk reaktörünün inşaatının yüzde 99 oranında tamamlandığına dikkati çekerek, şöyle devam etti:\n\n\"Hedefimiz ilk reaktörden bu sene içerisinde enerjiyi üretmek ve diğer reaktörleri de peyderpey devreye almak. 4 reaktör devreye girdiğinde ihtiyacımız olan elektriğin yüzde 10'unu, buradan alacağız. Sinop ve Trakya projeleriyle de Türkiye, önemli bir nükleer endüstriye sahip bir ülke haline gelecek.\"",
-      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin yurt dışında da petrol ve doğal gaz arama faaliyetlerini sürdürdüğünü belirterek, \"Yarın yine tarihi bir adım atacağız. Çağrı Bey gemimizi, Mersin Taşucu'ndan Somali'ye uğurlayacağız ve Somali'de petrol arayacağız.\" dedi.Enerji ve Tabii Kaynaklar Bakanlığından yapılan açıklamaya göre, Bakan Bayraktar, Ankara Kızılcahamam'da düzenlenen AK Parti İstanbul Mahalle Başkanları İstişare ve Değerlendirme Kampı'na katıldı.\n\nBuradaki",
-      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin yurt dışında da petrol ve doğal gaz arama faaliyetlerini sürdürdüğünü belirterek, \"Yarın yine tarihi bir adım atacağız. Çağrı Bey gemimizi, Mersin Taşucu'ndan Somali'ye uğurlayacağız ve Somali'de petrol arayacağız.\" dedi.Enerji ve Tabii Kaynaklar Bakanlığından yapılan açıklamaya göre, Bakan Bayraktar, Ankara Kızılcahamam'da düzenlenen AK Parti İstanbul Mahalle Başkanları İstişare ve Değerlendirme Kampı'na katıldı.\n\nBuradaki",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/ekonomi/cagri-bey-somali-de-gorev-yapacak-1576725",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/cagri-bey-somali-de-gorev-yapacak-1771095046-40_large.webp",
-      "published_at": "2026-02-14T18:50:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Emlak Katılım'dan 2025'te 13,9 milyar lira net kar",
-      "title_tr": "Emlak Katılım'dan 2025'te 13,9 milyar lira net kar",
-      "summary": "Emlak Katılım&#039;ın 2025&#039;te aktif büyüklüğü 410 milyar liraya ulaşırken, net karı bir önceki yılın aynı dönemine göre yüzde 59 artışla 13,9 milyar lira olarak gerçekleşti.",
-      "summary_tr": "Emlak Katılım&#039;ın 2025&#039;te aktif büyüklüğü 410 milyar liraya ulaşırken, net karı bir önceki yılın aynı dönemine göre yüzde 59 artışla 13,9 milyar lira olarak gerçekleşti.",
-      "long_summary": "Emlak Katılım&#039;ın 2025&#039;te aktif büyüklüğü 410 milyar liraya ulaşırken, net karı bir önceki yılın aynı dönemine göre yüzde 59 artışla 13,9 milyar lira olarak gerçekleşti.",
-      "long_summary_tr": "Emlak Katılım&#039;ın 2025&#039;te aktif büyüklüğü 410 milyar liraya ulaşırken, net karı bir önceki yılın aynı dönemine göre yüzde 59 artışla 13,9 milyar lira olarak gerçekleşti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/emlak-katilimdan-2025te-139-milyar-lira-net-kar-haberi-815102",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/07/30/emlak-katilim-a2bi-cover-xqmj-cover-smlu_cover.jpg",
-      "published_at": "2026-02-14T18:50:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "From 'demoralising' 8-0 defeat to pushing Man City all the way",
-      "title_tr": "From 'demoralising' 8-0 defeat to pushing Man City all the way",
-      "summary": "Thirteen months after being embarrassed 8-0 by Manchester City, Salford City produce a performance to make their fans proud.",
-      "summary_tr": "Thirteen months after being embarrassed 8-0 by Manchester City, Salford City produce a performance to make their fans proud.",
-      "long_summary": "Thirteen months after being embarrassed 8-0 by Manchester City, Salford City produce a performance to make their fans proud.",
-      "long_summary_tr": "Thirteen months after being embarrassed 8-0 by Manchester City, Salford City produce a performance to make their fans proud.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c9v0kwpd9z4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f0/live/85ec3cf0-09d2-11f1-b7e1-afb6d0884c18.jpg",
-      "published_at": "2026-02-14T18:48:15+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Nilüfer Belediyespor Eker, Kuzeyboru'yu mağlup etti",
-      "title_tr": "Nilüfer Belediyespor Eker, Kuzeyboru'yu mağlup etti",
-      "summary": "Voleybol Vodafone Sultanlar Ligi'nin 22. haftasında Nilüfer Belediyespor Eker, sahasında Kuzeyboru'yu 3-2 mağlup etti.Salon: Cengiz Göllü\n\nHakemler: Serap Kuka, Ahmet Oğuzhan Ünal\n\nNilüfer Belediyespor Eker: Cajic, Ecenur Aksoy, Buse Pehlivan, Ndiaye, Yasemin Şahin, Shemanova (Merve İzbilir, Burcu Yönder, Edwards, Orvosova, Sude Gümüş, Öykü Saruhan)\n\nKuzeyboru: Ergül Avcı, Gamze Kılıç, Strunjak, Ayşe Çürük, Czyrnianska, Smarzek (Dilek Kınık Ekşi, Nilsu Şen, Sara Lozo, Enweonwu, Lila Şengün, Ece Hitayca, Ege Melisa Bükmen)\n\nSetler: 25-21, 20-25, 25-16, 21-25, 15-12\n\nSüre: 151 dakika (25, 34, 34, 33, 25)",
-      "summary_tr": "Voleybol Vodafone Sultanlar Ligi'nin 22. haftasında Nilüfer Belediyespor Eker, sahasında Kuzeyboru'yu 3-2 mağlup etti.Salon: Cengiz Göllü\n\nHakemler: Serap Kuka, Ahmet Oğuzhan Ünal\n\nNilüfer Belediyespor Eker: Cajic, Ecenur Aksoy, Buse Pehlivan, Ndiaye, Yasemin Şahin, Shemanova (Merve İzbilir, Burcu Yönder, Edwards, Orvosova, Sude Gümüş, Öykü Saruhan)\n\nKuzeyboru: Ergül Avcı, Gamze Kılıç, Strunjak, Ayşe Çürük, Czyrnianska, Smarzek (Dilek Kınık Ekşi, Nilsu Şen, Sara Lozo, Enweonwu, Lila Şengün, Ece Hitayca, Ege Melisa Bükmen)\n\nSetler: 25-21, 20-25, 25-16, 21-25, 15-12\n\nSüre: 151 dakika (25, 34, 34, 33, 25)",
-      "long_summary": "Voleybol Vodafone Sultanlar Ligi'nin 22. haftasında Nilüfer Belediyespor Eker, sahasında Kuzeyboru'yu 3-2 mağlup etti.Salon: Cengiz Göllü\n\nHakemler: Serap Kuka, Ahmet Oğuzhan Ünal\n\nNilüfer Belediyespor Eker: Cajic, Ecenur Aksoy, Buse Pehlivan, Ndiaye, Yasemin Şahin, Shemanova (Merve İzbilir, Burcu Yönder, Edwards, Orvosova, Sude Gümüş, Öykü Saruhan)\n\nKuzeyboru: Ergül Avcı, Gamze Kılıç, Strunjak, Ayşe Çürük, Czyrnianska, Smarzek (Dilek Kınık Ekşi, Nilsu Şen, Sara Lozo, Enweonwu, Lila Şengün, Ece",
-      "long_summary_tr": "Voleybol Vodafone Sultanlar Ligi'nin 22. haftasında Nilüfer Belediyespor Eker, sahasında Kuzeyboru'yu 3-2 mağlup etti.Salon: Cengiz Göllü\n\nHakemler: Serap Kuka, Ahmet Oğuzhan Ünal\n\nNilüfer Belediyespor Eker: Cajic, Ecenur Aksoy, Buse Pehlivan, Ndiaye, Yasemin Şahin, Shemanova (Merve İzbilir, Burcu Yönder, Edwards, Orvosova, Sude Gümüş, Öykü Saruhan)\n\nKuzeyboru: Ergül Avcı, Gamze Kılıç, Strunjak, Ayşe Çürük, Czyrnianska, Smarzek (Dilek Kınık Ekşi, Nilsu Şen, Sara Lozo, Enweonwu, Lila Şengün, Ece",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa-da-spor/nilufer-belediyespor-eker-kuzeyboru-yu-maglup-etti-1576723",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/nilufer-belediyespor-eker-kuzeyboru-yu-maglup-etti-1771094919-130_large.webp",
-      "published_at": "2026-02-14T18:47:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Burnley latest: 'Really poor' Mansfield upset turns up 'noise', says Parker",
-      "title_tr": "Burnley latest: 'Really poor' Mansfield upset turns up 'noise', says Parker",
-      "summary": "Burnley latest: 'Really poor' Mansfield upset turns up 'noise', says Parker",
-      "summary_tr": "Burnley latest: 'Really poor' Mansfield upset turns up 'noise', says Parker",
-      "long_summary": "Burnley latest: 'Really poor' Mansfield upset turns up 'noise', says Parker",
-      "long_summary_tr": "Burnley latest: 'Really poor' Mansfield upset turns up 'noise', says Parker",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13353582/burnley-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image": "https://e0.365dm.com/25/10/1920x1080/skysports-burnley-news-club_7039247.jpg?20251002155959",
-      "published_at": "2026-02-14T18:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Rubio says US and Europe 'belong together' despite tensions",
-      "title_tr": "Rubio says US and Europe 'belong together' despite tensions",
-      "summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
-      "summary_tr": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
-      "long_summary": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
-      "long_summary_tr": "The US secretary of state reassures European leaders that the Trump administration backs the transatlantic alliance.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c2lrdq47149o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f567/live/80039470-09a8-11f1-b7e1-afb6d0884c18.jpg",
-      "published_at": "2026-02-14T18:44:47+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Rejuvenated Scotland sweep England aside in stunning Calcutta Cup win",
-      "title_tr": "Rejuvenated Scotland sweep England aside in stunning Calcutta Cup win",
-      "summary": "Rampant Scotland bounce back from Six Nations defeat by Italy to blow England away in a bonus-point win in a pulsating Calcutta Cup at a riotous Murrayfield.",
-      "summary_tr": "Rampant Scotland bounce back from Six Nations defeat by Italy to blow England away in a bonus-point win in a pulsating Calcutta Cup at a riotous Murrayfield.",
-      "long_summary": "Rampant Scotland bounce back from Six Nations defeat by Italy to blow England away in a bonus-point win in a pulsating Calcutta Cup at a riotous Murrayfield.",
-      "long_summary_tr": "Rampant Scotland bounce back from Six Nations defeat by Italy to blow England away in a bonus-point win in a pulsating Calcutta Cup at a riotous Murrayfield.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c98q3zn6p0ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c5/live/2091b1b0-09d1-11f1-b7e1-afb6d0884c18.jpg",
-      "published_at": "2026-02-14T18:41:59+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Man City latest: Pep unimpressed by ‘boring’ FA Cup win over Salford",
-      "title_tr": "Man City latest: Pep unimpressed by ‘boring’ FA Cup win over Salford",
-      "summary": "Man City latest: Pep unimpressed by ‘boring’ FA Cup win over Salford",
-      "summary_tr": "Man City latest: Pep unimpressed by ‘boring’ FA Cup win over Salford",
-      "long_summary": "Man City latest: Pep unimpressed by ‘boring’ FA Cup win over Salford",
-      "long_summary_tr": "Man City latest: Pep unimpressed by ‘boring’ FA Cup win over Salford",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-man-city-news-club_7039261.jpg?20251002160441",
-      "published_at": "2026-02-14T18:38:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Kane reaches 500 goals - what other records could he break?",
-      "title_tr": "Kane reaches 500 goals - what other records could he break?",
-      "summary": "Bayern Munich striker Harry Kane became the first Englishman to reach 500 career goals on Saturday, but what other records could he break?",
-      "summary_tr": "Bayern Munich striker Harry Kane became the first Englishman to reach 500 career goals on Saturday, but what other records could he break?",
-      "long_summary": "Bayern Munich striker Harry Kane became the first Englishman to reach 500 career goals on Saturday, but what other records could he break?",
-      "long_summary_tr": "Bayern Munich striker Harry Kane became the first Englishman to reach 500 career goals on Saturday, but what other records could he break?",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c743xp1xw9yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d379/live/8d04ddf0-09d0-11f1-bfd9-a1813d3ca61e.jpg",
-      "published_at": "2026-02-14T18:33:46+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "İsrail, Batı Şeria'da 777 ağacı söktü",
-      "title_tr": "İsrail, Batı Şeria'da 777 ağacı söktü",
-      "summary": "Filistin Tarım Bakanlığı, işgal altındaki Batı Şeria’nın çeşitli bölgelerinde İsrail kaynaklı saldırılar sonucu bir hafta içinde 777 ağacın söküldüğünü veya tahrip edildiğini, toplam zararın 761 bin doları aştığını açıkladı.Bakanlığın Facebook sayfasında yayımladığı açıklamada, 5–11 Şubat tarihleri arasında Batı Şeria vilayetlerinde tarım sektörüne yönelik ihlallerde dikkat çekici bir artış yaşandığı kaydedildi.\n\nSöz konusu ihlallerin tarımsal altyapının yıkımı ve buldozerlerle tahrip edilmesi, su kaynaklarının zarar görmesi ve meyve ağaçlarına yönelik geniş çaplı saldırılar şeklinde gerçekleştiği belirtilen açıklamada ayrıca Filistin topraklarını gasbeden İsraillilerin de mahsullere ve tarım arazilerine yönelik saldırılarda bulunduğu ve çiftçilerin arazilerine erişimini engellediği aktarıldı.\n\nBakanlık ekiplerinin 777 ağacın sökülmesi veya tahrip edilmesini belgelediği, bunların büyük çoğunluğunu zeytin ağaçlarının oluşturduğu, en fazla zararın El Halil ve Nablus vilayetlerinde meydana geldiği ifade edilen açıklamada, belirtilen dönemde saldırılar nedeniyle oluşan toplam maddi kayıpların 761 bin doları geçtiği dile getirildi.\n\nBu saldırıların, özellikle (C) olarak sınıflandırılan alanlarda, üretken kaynakları tüketerek ve toprağa yatırım yapma kabiliyetini zayıflatarak Filistin tarımsal direncinin temellerini baltalamayı amaçlayan hızlandırılmış politikalar bağlamında yapıldığı belirtilen açıklamada, bu politikaların, inşaat ve yıkımı durdurma ve arazi ıslahını engelleme emirleri de dahil olmak üzere idari ve yasal araçları içerdiğine işaret edildi.\n\nOcak ayında 1872 saldırı düzenlendi\n\nFilistin yönetimi ile İsrail arasında 1995'te imzalanan \"İkinci Oslo Anlaşması\" çerçevesinde Batı Şeria, \"A\", \"B\" ve \"C\" bölgelerine ayrılmıştı.\n\nİşgal altındaki Batı Şeria'nın yüzde 18'ini kapsayan \"A bölgesi\"nin yönetimi idari ve güvenlik olarak Filistin'e, yüzde 21'lik \"B bölgesi\"nin idari yönetimi Filistin'e, güvenliği İsrail'e devredilirken yüzde 61'ini kapsayan \"C bölgesi\"nin idaresi ve güvenliği İsrail'e bırakılmıştı.\n\nAyrım Duvarı (Utanç Duvarı) ve Yahudi Yerleşim Birimleriyle Mücadele Konseyi'nin 3 Şubat’ta yaptığı açıklamaya göre, Ocak ayında İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler tarafından toplam 1872 saldırı düzenlendi. Saldırıların 1404'ü İsrail ordusu, 468'i ise İsrailliler tarafından yapıldı.",
-      "summary_tr": "Filistin Tarım Bakanlığı, işgal altındaki Batı Şeria’nın çeşitli bölgelerinde İsrail kaynaklı saldırılar sonucu bir hafta içinde 777 ağacın söküldüğünü veya tahrip edildiğini, toplam zararın 761 bin doları aştığını açıkladı.Bakanlığın Facebook sayfasında yayımladığı açıklamada, 5–11 Şubat tarihleri arasında Batı Şeria vilayetlerinde tarım sektörüne yönelik ihlallerde dikkat çekici bir artış yaşandığı kaydedildi.\n\nSöz konusu ihlallerin tarımsal altyapının yıkımı ve buldozerlerle tahrip edilmesi, su kaynaklarının zarar görmesi ve meyve ağaçlarına yönelik geniş çaplı saldırılar şeklinde gerçekleştiği belirtilen açıklamada ayrıca Filistin topraklarını gasbeden İsraillilerin de mahsullere ve tarım arazilerine yönelik saldırılarda bulunduğu ve çiftçilerin arazilerine erişimini engellediği aktarıldı.\n\nBakanlık ekiplerinin 777 ağacın sökülmesi veya tahrip edilmesini belgelediği, bunların büyük çoğunluğunu zeytin ağaçlarının oluşturduğu, en fazla zararın El Halil ve Nablus vilayetlerinde meydana geldiği ifade edilen açıklamada, belirtilen dönemde saldırılar nedeniyle oluşan toplam maddi kayıpların 761 bin doları geçtiği dile getirildi.\n\nBu saldırıların, özellikle (C) olarak sınıflandırılan alanlarda, üretken kaynakları tüketerek ve toprağa yatırım yapma kabiliyetini zayıflatarak Filistin tarımsal direncinin temellerini baltalamayı amaçlayan hızlandırılmış politikalar bağlamında yapıldığı belirtilen açıklamada, bu politikaların, inşaat ve yıkımı durdurma ve arazi ıslahını engelleme emirleri de dahil olmak üzere idari ve yasal araçları içerdiğine işaret edildi.\n\nOcak ayında 1872 saldırı düzenlendi\n\nFilistin yönetimi ile İsrail arasında 1995'te imzalanan \"İkinci Oslo Anlaşması\" çerçevesinde Batı Şeria, \"A\", \"B\" ve \"C\" bölgelerine ayrılmıştı.\n\nİşgal altındaki Batı Şeria'nın yüzde 18'ini kapsayan \"A bölgesi\"nin yönetimi idari ve güvenlik olarak Filistin'e, yüzde 21'lik \"B bölgesi\"nin idari yönetimi Filistin'e, güvenliği İsrail'e devredilirken yüzde 61'ini kapsayan \"C bölgesi\"nin idaresi ve güvenliği İsrail'e bırakılmıştı.\n\nAyrım Duvarı (Utanç Duvarı) ve Yahudi Yerleşim Birimleriyle Mücadele Konseyi'nin 3 Şubat’ta yaptığı açıklamaya göre, Ocak ayında İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler tarafından toplam 1872 saldırı düzenlendi. Saldırıların 1404'ü İsrail ordusu, 468'i ise İsrailliler tarafından yapıldı.",
-      "long_summary": "Filistin Tarım Bakanlığı, işgal altındaki Batı Şeria’nın çeşitli bölgelerinde İsrail kaynaklı saldırılar sonucu bir hafta içinde 777 ağacın söküldüğünü veya tahrip edildiğini, toplam zararın 761 bin doları aştığını açıkladı.Bakanlığın Facebook sayfasında yayımladığı açıklamada, 5–11 Şubat tarihleri arasında Batı Şeria vilayetlerinde tarım sektörüne yönelik ihlallerde dikkat çekici bir artış yaşandığı kaydedildi.\n\nSöz konusu ihlallerin tarımsal altyapının yıkımı ve buldozerlerle tahrip edilmesi,",
-      "long_summary_tr": "Filistin Tarım Bakanlığı, işgal altındaki Batı Şeria’nın çeşitli bölgelerinde İsrail kaynaklı saldırılar sonucu bir hafta içinde 777 ağacın söküldüğünü veya tahrip edildiğini, toplam zararın 761 bin doları aştığını açıkladı.Bakanlığın Facebook sayfasında yayımladığı açıklamada, 5–11 Şubat tarihleri arasında Batı Şeria vilayetlerinde tarım sektörüne yönelik ihlallerde dikkat çekici bir artış yaşandığı kaydedildi.\n\nSöz konusu ihlallerin tarımsal altyapının yıkımı ve buldozerlerle tahrip edilmesi,",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/israil-bati-seria-da-777-agaci-soktu-1576721",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/israil-bati-seria-da-777-agaci-soktu-1771093917-345_large.webp",
-      "published_at": "2026-02-14T18:31:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Reborn Scotland regain Calcutta Cup in England's latest Murrayfield nightmare",
-      "title_tr": "Reborn Scotland regain Calcutta Cup in England's latest Murrayfield nightmare",
-      "summary": "Scotland unleashed another Murrayfield nightmare on England as they regained the Calcutta Cup - and eased the pressure on Gregor Townsend - with a 31-20 victory that extinguished their rivals' 12‑Test winning run.",
-      "summary_tr": "Scotland unleashed another Murrayfield nightmare on England as they regained the Calcutta Cup - and eased the pressure on Gregor Townsend - with a 31-20 victory that extinguished their rivals' 12‑Test winning run.",
-      "long_summary": "Scotland unleashed another Murrayfield nightmare on England as they regained the Calcutta Cup - and eased the pressure on Gregor Townsend - with a 31-20 victory that extinguished their rivals' 12‑Test winning run.",
-      "long_summary_tr": "Scotland unleashed another Murrayfield nightmare on England as they regained the Calcutta Cup - and eased the pressure on Gregor Townsend - with a 31-20 victory that extinguished their rivals' 12‑Test winning run.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-union/scotland-vs-england/report/110508",
-      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-scotland-six-nations_7165197.png?20260214185605",
-      "published_at": "2026-02-14T18:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "All Careers In The Sims 4: Jobs, Tips, And How To Get Promoted",
-      "title_tr": "All Careers In The Sims 4: Jobs, Tips, And How To Get Promoted",
-      "summary": "There are a lot of different jobs to choose from in The Sims 4, including a pretty robust group of careers included with the base game and plenty more that have been added via DLC over the decade-plus that The Sims 4 has been out. What jobs you have your sims sign up for is totally up to you, but there are a lot of factors that can affect your performance, like whether your sim's skills are appropriate for the job you want. If you want your sims to be successful, some knowledge and effort are required--just like it is with a real job. And that goes triple for the new Noble career in The Sims 4: Royalty & Legacy, which works differently than any previous Sims 4 career.While there are specific things you'll need to know about each individual career that can help you get ahead, there are also some universal tips that can help your sims climb their corporate ladders.Table of Contents [hide]General tips for any Sims 4 careerPick an active, self-employment, or rabbit hole jobGeneral tips for any Sims 4 careerPick an active, self-employment, or rabbit hole jobThere are three main types of careers in The Sims 4. Most of them are rabbit hole-type jobs, where your sims just go offscreen and do their thing without any meaningful input from the player. But there are also \"active\" careers, where you follow your sim to their place of business and you'll have to make them do various tasks (though you can also play these as rabbit hole jobs if you'd prefer), and self-employment and freelance careers where your sim will complete individual gigs from the comfort of their homes, like writing a book, painting a picture, or building furniture.Continue Reading at GameSpot",
-      "summary_tr": "There are a lot of different jobs to choose from in The Sims 4, including a pretty robust group of careers included with the base game and plenty more that have been added via DLC over the decade-plus that The Sims 4 has been out. What jobs you have your sims sign up for is totally up to you, but there are a lot of factors that can affect your performance, like whether your sim's skills are appropriate for the job you want. If you want your sims to be successful, some knowledge and effort are required--just like it is with a real job. And that goes triple for the new Noble career in The Sims 4: Royalty & Legacy, which works differently than any previous Sims 4 career.While there are specific things you'll need to know about each individual career that can help you get ahead, there are also some universal tips that can help your sims climb their corporate ladders.Table of Contents [hide]General tips for any Sims 4 careerPick an active, self-employment, or rabbit hole jobGeneral tips for any Sims 4 careerPick an active, self-employment, or rabbit hole jobThere are three main types of careers in The Sims 4. Most of them are rabbit hole-type jobs, where your sims just go offscreen and do their thing without any meaningful input from the player. But there are also \"active\" careers, where you follow your sim to their place of business and you'll have to make them do various tasks (though you can also play these as rabbit hole jobs if you'd prefer), and self-employment and freelance careers where your sim will complete individual gigs from the comfort of their homes, like writing a book, painting a picture, or building furniture.Continue Reading at GameSpot",
-      "long_summary": "There are a lot of different jobs to choose from in The Sims 4, including a pretty robust group of careers included with the base game and plenty more that have been added via DLC over the decade-plus that The Sims 4 has been out. What jobs you have your sims sign up for is totally up to you, but there are a lot of factors that can affect your performance, like whether your sim's skills are appropriate for the job you want. If you want your sims to be successful, some knowledge and effort are",
-      "long_summary_tr": "There are a lot of different jobs to choose from in The Sims 4, including a pretty robust group of careers included with the base game and plenty more that have been added via DLC over the decade-plus that The Sims 4 has been out. What jobs you have your sims sign up for is totally up to you, but there are a lot of factors that can affect your performance, like whether your sim's skills are appropriate for the job you want. If you want your sims to be successful, some knowledge and effort are",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/all-careers-in-the-sims-4-jobs-tips-and-how-to-get-promoted/1100-6531801/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1757/17577455/4500143-ts4_get-to-work_media-hero-tile_16x9_01.jpg",
-      "published_at": "2026-02-14T18:29:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Emlak Konut'tan Yöneticiler Zirvesi: Bakan Kurum’dan köklü geçmiş, güçlü gelecek vurgusu",
-      "title_tr": "Emlak Konut'tan Yöneticiler Zirvesi: Bakan Kurum’dan köklü geçmiş, güçlü gelecek vurgusu",
-      "summary": "Emlak Katılım tarafından Yöneticiler Zirvesi düzenlendi. Zirveye Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum da katıldı. Zirvede yaptığı konuşmada Kurum, bankanın konuta erişimi kolaylaştıran ve şehirleri dönüştüren finans vizyonuna duyulan güveni vurguladı. Kurum, &#039;&#039;Köklü mirasımızdan aldığımız güçle; konuta erişimi kolaylaştıran, şehirlerini dönüştüren, üreten Türkiye’ye omuz veren bir finans vizyonunu hep birlikte büyüteceğiz” değerlendirmesinde bulundu.",
-      "summary_tr": "Emlak Katılım tarafından Yöneticiler Zirvesi düzenlendi. Zirveye Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum da katıldı. Zirvede yaptığı konuşmada Kurum, bankanın konuta erişimi kolaylaştıran ve şehirleri dönüştüren finans vizyonuna duyulan güveni vurguladı. Kurum, &#039;&#039;Köklü mirasımızdan aldığımız güçle; konuta erişimi kolaylaştıran, şehirlerini dönüştüren, üreten Türkiye’ye omuz veren bir finans vizyonunu hep birlikte büyüteceğiz” değerlendirmesinde bulundu.",
-      "long_summary": "Emlak Katılım tarafından Yöneticiler Zirvesi düzenlendi. Zirveye Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum da katıldı. Zirvede yaptığı konuşmada Kurum, bankanın konuta erişimi kolaylaştıran ve şehirleri dönüştüren finans vizyonuna duyulan güveni vurguladı. Kurum, &#039;&#039;Köklü mirasımızdan aldığımız güçle; konuta erişimi kolaylaştıran, şehirlerini dönüştüren, üreten Türkiye’ye omuz veren bir finans vizyonunu hep birlikte büyüteceğiz” değerlendirmesinde bulundu.",
-      "long_summary_tr": "Emlak Katılım tarafından Yöneticiler Zirvesi düzenlendi. Zirveye Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum da katıldı. Zirvede yaptığı konuşmada Kurum, bankanın konuta erişimi kolaylaştıran ve şehirleri dönüştüren finans vizyonuna duyulan güveni vurguladı. Kurum, &#039;&#039;Köklü mirasımızdan aldığımız güçle; konuta erişimi kolaylaştıran, şehirlerini dönüştüren, üreten Türkiye’ye omuz veren bir finans vizyonunu hep birlikte büyüteceğiz” değerlendirmesinde bulundu.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/emlak-konuttan-yoneticiler-zirvesi-bakan-kurumdan-koklu-gecmis-guclu-gelecek-vurgusu-haberi-815101",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/14/murat-kurum-dtt9_cover.jpg",
-      "published_at": "2026-02-14T18:28:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Ireland 'able to back ourselves' in win - Farrell",
-      "title_tr": "Ireland 'able to back ourselves' in win - Farrell",
-      "summary": "Ireland head coach Andy Farrell says Saturday's gritty win over Italy in the Six Nations \"showed that we're able to back ourselves\".",
-      "summary_tr": "Ireland head coach Andy Farrell says Saturday's gritty win over Italy in the Six Nations \"showed that we're able to back ourselves\".",
-      "long_summary": "Ireland head coach Andy Farrell says Saturday's gritty win over Italy in the Six Nations \"showed that we're able to back ourselves\".",
-      "long_summary_tr": "Ireland head coach Andy Farrell says Saturday's gritty win over Italy in the Six Nations \"showed that we're able to back ourselves\".",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cj0dr5748qqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af77/live/948dc260-09cd-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-14T18:20:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Mehmetçikten 'Sabahat teyzeye' teşekkür",
-      "title_tr": "Mehmetçikten 'Sabahat teyzeye' teşekkür",
-      "summary": "Siirt İl Jandarma Komutanlığı emrinde görevli komandolar, Yalova'da yaşayan ve kendileri için 400 bere ören 75 yaşındaki \"Sabahat teyzeye\" teşekkür etti.Jandarma Genel Komutanlığının NSosyal hesabından yapılan videolu paylaşımda, Yalova'da yaşayan \"Sabahat teyzenin\" ördüğü 400 berenin Siirt'te görev yapan jandarma komandolara ulaştırıldığı aktarıldı.\n\nVideoda bereleri teslim alan komandolar, gönderdiği el emeği bereler dolayısıyla Sabahat teyzeye teşekkür mesajlarını iletti.\n\nPaylaşımda, \"Onlar sadece birer bere değil; şefkatin, emeğin ve hayır duasının ta kendisidir.\" ifadelerine yer verildi.",
-      "summary_tr": "Siirt İl Jandarma Komutanlığı emrinde görevli komandolar, Yalova'da yaşayan ve kendileri için 400 bere ören 75 yaşındaki \"Sabahat teyzeye\" teşekkür etti.Jandarma Genel Komutanlığının NSosyal hesabından yapılan videolu paylaşımda, Yalova'da yaşayan \"Sabahat teyzenin\" ördüğü 400 berenin Siirt'te görev yapan jandarma komandolara ulaştırıldığı aktarıldı.\n\nVideoda bereleri teslim alan komandolar, gönderdiği el emeği bereler dolayısıyla Sabahat teyzeye teşekkür mesajlarını iletti.\n\nPaylaşımda, \"Onlar sadece birer bere değil; şefkatin, emeğin ve hayır duasının ta kendisidir.\" ifadelerine yer verildi.",
-      "long_summary": "Siirt İl Jandarma Komutanlığı emrinde görevli komandolar, Yalova'da yaşayan ve kendileri için 400 bere ören 75 yaşındaki \"Sabahat teyzeye\" teşekkür etti.Jandarma Genel Komutanlığının NSosyal hesabından yapılan videolu paylaşımda, Yalova'da yaşayan \"Sabahat teyzenin\" ördüğü 400 berenin Siirt'te görev yapan jandarma komandolara ulaştırıldığı aktarıldı.\n\nVideoda bereleri teslim alan komandolar, gönderdiği el emeği bereler dolayısıyla Sabahat teyzeye teşekkür mesajlarını iletti.\n\nPaylaşımda, \"Onlar",
-      "long_summary_tr": "Siirt İl Jandarma Komutanlığı emrinde görevli komandolar, Yalova'da yaşayan ve kendileri için 400 bere ören 75 yaşındaki \"Sabahat teyzeye\" teşekkür etti.Jandarma Genel Komutanlığının NSosyal hesabından yapılan videolu paylaşımda, Yalova'da yaşayan \"Sabahat teyzenin\" ördüğü 400 berenin Siirt'te görev yapan jandarma komandolara ulaştırıldığı aktarıldı.\n\nVideoda bereleri teslim alan komandolar, gönderdiği el emeği bereler dolayısıyla Sabahat teyzeye teşekkür mesajlarını iletti.\n\nPaylaşımda, \"Onlar",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/mehmetcikten-sabahat-teyzeye-tesekkur-1576719",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/mehmetcikten-sabahat-teyzeye-tesekkur-1771092630-858_large.webp",
-      "published_at": "2026-02-14T18:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Osmangazi Belediyespor’dan kritik galibiyet",
-      "title_tr": "Osmangazi Belediyespor’dan kritik galibiyet",
-      "summary": "Arabica Coffee House Erkekler 1. Ligi’nde Osmangazi Belediyespor, büyük heyecana sahne olan mücadelede Fenerbahçe Medicana’yı deplasmanda 3-2 yenerek önemli bir galibiyet aldı.Arabica Coffee House Erkekler 1. Ligi’nde mücadele veren Osmangazi Belediyespor, 26. Hafta müsabakasında deplasmanda Fenerbahçe Medicana’ya konuk oldu.\n\n50. Yıl Deniz Esinduy Voleybol Salonu’nda oynanan mücadeleye ev sahibi ekip etkili başlarken, ilk seti 25-17 kazandı. İkinci set ile birlikte toparlanan Osmangazi Belediyespor, üst üste aldığı sayılarla oyunda üstünlük kurdu ve bu seti 25-17 kazanarak setlerde durumu eşitledi. Üçüncü seti 25-21 kaybeden Bursa temsilcisi, dördüncü sette büyük bir mücadele örneği göstererek bu seti 25-22 kazandı ve setlerde durumu yeniden eşitleyerek maçı da tie-break setine götürdü. Bu bölümde hata yapmayan Osmangazi Belediyespor, final setini 15-10 kazanarak, maçtan da 3-2’lik galibiyetle ayrıldı.\n\nFenerbahçe Medicana deplasmanında kritik bir galibiyet alan Osmangazi Belediyespor, Play-Off iddiasını kuvvetlendirdi.",
-      "summary_tr": "Arabica Coffee House Erkekler 1. Ligi’nde Osmangazi Belediyespor, büyük heyecana sahne olan mücadelede Fenerbahçe Medicana’yı deplasmanda 3-2 yenerek önemli bir galibiyet aldı.Arabica Coffee House Erkekler 1. Ligi’nde mücadele veren Osmangazi Belediyespor, 26. Hafta müsabakasında deplasmanda Fenerbahçe Medicana’ya konuk oldu.\n\n50. Yıl Deniz Esinduy Voleybol Salonu’nda oynanan mücadeleye ev sahibi ekip etkili başlarken, ilk seti 25-17 kazandı. İkinci set ile birlikte toparlanan Osmangazi Belediyespor, üst üste aldığı sayılarla oyunda üstünlük kurdu ve bu seti 25-17 kazanarak setlerde durumu eşitledi. Üçüncü seti 25-21 kaybeden Bursa temsilcisi, dördüncü sette büyük bir mücadele örneği göstererek bu seti 25-22 kazandı ve setlerde durumu yeniden eşitleyerek maçı da tie-break setine götürdü. Bu bölümde hata yapmayan Osmangazi Belediyespor, final setini 15-10 kazanarak, maçtan da 3-2’lik galibiyetle ayrıldı.\n\nFenerbahçe Medicana deplasmanında kritik bir galibiyet alan Osmangazi Belediyespor, Play-Off iddiasını kuvvetlendirdi.",
-      "long_summary": "Arabica Coffee House Erkekler 1. Ligi’nde Osmangazi Belediyespor, büyük heyecana sahne olan mücadelede Fenerbahçe Medicana’yı deplasmanda 3-2 yenerek önemli bir galibiyet aldı.Arabica Coffee House Erkekler 1. Ligi’nde mücadele veren Osmangazi Belediyespor, 26. Hafta müsabakasında deplasmanda Fenerbahçe Medicana’ya konuk oldu.\n\n50. Yıl Deniz Esinduy Voleybol Salonu’nda oynanan mücadeleye ev sahibi ekip etkili başlarken, ilk seti 25-17 kazandı. İkinci set ile birlikte toparlanan Osmangazi",
-      "long_summary_tr": "Arabica Coffee House Erkekler 1. Ligi’nde Osmangazi Belediyespor, büyük heyecana sahne olan mücadelede Fenerbahçe Medicana’yı deplasmanda 3-2 yenerek önemli bir galibiyet aldı.Arabica Coffee House Erkekler 1. Ligi’nde mücadele veren Osmangazi Belediyespor, 26. Hafta müsabakasında deplasmanda Fenerbahçe Medicana’ya konuk oldu.\n\n50. Yıl Deniz Esinduy Voleybol Salonu’nda oynanan mücadeleye ev sahibi ekip etkili başlarken, ilk seti 25-17 kazandı. İkinci set ile birlikte toparlanan Osmangazi",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa-da-spor/osmangazi-belediyespor-dan-kritik-galibiyet-1576717",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/osmangazi-belediyespor-dan-kritik-galibiyet-1771092426-515_large.webp",
-      "published_at": "2026-02-14T18:06:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Cuban cigar festival called off as US blockade worsens energy crisis",
-      "title_tr": "Cuban cigar festival called off as US blockade worsens energy crisis",
-      "summary": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
-      "summary_tr": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
-      "long_summary": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
-      "long_summary_tr": "The annual aficionados' bonanza has been postponed until further notice as shortages affect international travel.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c0q30k2xzk2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26a3/live/9158cec0-09d0-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-14T18:04:51+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Special!' - Hodgkinson sets 800m national record at UK indoors",
-      "title_tr": "'Special!' - Hodgkinson sets 800m national record at UK indoors",
-      "summary": "Keely Hodgkinson delivers a sensational performance in the women's 800m heats, clocking 1:56:33, setting a new national record at the UK Athletics Indoor Championships in Birmingham.",
-      "summary_tr": "Keely Hodgkinson delivers a sensational performance in the women's 800m heats, clocking 1:56:33, setting a new national record at the UK Athletics Indoor Championships in Birmingham.",
-      "long_summary": "Keely Hodgkinson delivers a sensational performance in the women's 800m heats, clocking 1:56:33, setting a new national record at the UK Athletics Indoor Championships in Birmingham.",
-      "long_summary_tr": "Keely Hodgkinson delivers a sensational performance in the women's 800m heats, clocking 1:56:33, setting a new national record at the UK Athletics Indoor Championships in Birmingham.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/athletics/videos/cvgv6278091o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a3f/live/1b846350-09ce-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-14T18:02:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Çocuğu Olana GTA 6 Ücretsiz!",
-      "title_tr": "Çocuğu Olana GTA 6 Ücretsiz!",
-      "summary": "Oyun dünyasının merakla beklediği GTA 6 için geri sayım sürerken, Norveç’ten akıllara durgunluk veren bir ücretsiz GTA 6 kampanyası haberi geldi. Evet, yanlış duymadınız! Bir perakende devi, oyunu bedavaya almanın yolunu açıkladı ama şartı oldukça ilginç: bebek sahibi olmak. Death Stranding 2 PC’ye Geliyor! Sony State of Play etkinliğinde Death Stranding 2 PC çıkış tarihi […]",
-      "summary_tr": "Oyun dünyasının merakla beklediği GTA 6 için geri sayım sürerken, Norveç’ten akıllara durgunluk veren bir ücretsiz GTA 6 kampanyası haberi geldi. Evet, yanlış duymadınız! Bir perakende devi, oyunu bedavaya almanın yolunu açıkladı ama şartı oldukça ilginç: bebek sahibi olmak. Death Stranding 2 PC’ye Geliyor! Sony State of Play etkinliğinde Death Stranding 2 PC çıkış tarihi […]",
-      "long_summary": "Oyun dünyasının merakla beklediği GTA 6 için geri sayım sürerken, Norveç’ten akıllara durgunluk veren bir ücretsiz GTA 6 kampanyası haberi geldi. Evet, yanlış duymadınız! Bir perakende devi, oyunu bedavaya almanın yolunu açıkladı ama şartı oldukça ilginç: bebek sahibi olmak. Death Stranding 2 PC’ye Geliyor! Sony State of Play etkinliğinde Death Stranding 2 PC çıkış tarihi […]",
-      "long_summary_tr": "Oyun dünyasının merakla beklediği GTA 6 için geri sayım sürerken, Norveç’ten akıllara durgunluk veren bir ücretsiz GTA 6 kampanyası haberi geldi. Evet, yanlış duymadınız! Bir perakende devi, oyunu bedavaya almanın yolunu açıkladı ama şartı oldukça ilginç: bebek sahibi olmak. Death Stranding 2 PC’ye Geliyor! Sony State of Play etkinliğinde Death Stranding 2 PC çıkış tarihi […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/ucretsiz-gta-6-kampanyasi-bebek-sahiplerine-mujde",
-      "image": null,
-      "published_at": "2026-02-14T18:00:41+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "How to start a coin collection",
-      "title_tr": "How to start a coin collection",
-      "summary": "There are a few simple (and inexpensive) ways to get going. \nThe post How to start a coin collection  appeared first on Popular Science.",
-      "summary_tr": "There are a few simple (and inexpensive) ways to get going. \nThe post How to start a coin collection  appeared first on Popular Science.",
-      "long_summary": "There are a few simple (and inexpensive) ways to get going. \nThe post How to start a coin collection  appeared first on Popular Science.",
-      "long_summary_tr": "There are a few simple (and inexpensive) ways to get going. \nThe post How to start a coin collection  appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/diy/how-to-start-coin-collection/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/02/how_to_start_a_coin_collection.jpg?quality=85",
-      "published_at": "2026-02-14T18:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'England have no chance at T20 World Cup if they do not improve'",
-      "title_tr": "'England have no chance at T20 World Cup if they do not improve'",
-      "summary": "England got back to winning ways against Scotland but their T20 World Cup hopes look slim unless there are significant improvements, writes Matthew Henry.",
-      "summary_tr": "England got back to winning ways against Scotland but their T20 World Cup hopes look slim unless there are significant improvements, writes Matthew Henry.",
-      "long_summary": "England got back to winning ways against Scotland but their T20 World Cup hopes look slim unless there are significant improvements, writes Matthew Henry.",
-      "long_summary_tr": "England got back to winning ways against Scotland but their T20 World Cup hopes look slim unless there are significant improvements, writes Matthew Henry.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/c62g3ykj29go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91f1/live/5d698c60-09cd-11f1-89b1-95c4533ad96e.jpg",
-      "published_at": "2026-02-14T17:50:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Skipp scores stunning bicycle kick against Southampton",
-      "title_tr": "Skipp scores stunning bicycle kick against Southampton",
-      "summary": "Oliver Skipp scores a stunning overhead kick to bring Leicester City level against Southampton in the fourth round of the FA Cup.",
-      "summary_tr": "Oliver Skipp scores a stunning overhead kick to bring Leicester City level against Southampton in the fourth round of the FA Cup.",
-      "long_summary": "Oliver Skipp scores a stunning overhead kick to bring Leicester City level against Southampton in the fourth round of the FA Cup.",
-      "long_summary_tr": "Oliver Skipp scores a stunning overhead kick to bring Leicester City level against Southampton in the fourth round of the FA Cup.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/cg4gz7wpl1vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e31/live/4cb6b0f0-09c3-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-14T17:45:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Southampton and Norwich win all-Championship ties to progress in FA Cup",
-      "title_tr": "Southampton and Norwich win all-Championship ties to progress in FA Cup",
-      "summary": "Southampton and Norwich win all-Championship ties to progress in FA Cup",
-      "summary_tr": "Southampton and Norwich win all-Championship ties to progress in FA Cup",
-      "long_summary": "Southampton and Norwich win all-Championship ties to progress in FA Cup",
-      "long_summary_tr": "Southampton and Norwich win all-Championship ties to progress in FA Cup",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-james-bree-southampton_7165086.jpg?20260214174700",
-      "published_at": "2026-02-14T17:43:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-korkutan-arac-yangini-1576751",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/bursa-da-korkutan-arac-yangini-1771100466-866_large.webp",
+      "published_at": "2026-02-14T19:25:00+00:00"
     }
   ]
 }
