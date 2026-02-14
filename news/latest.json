@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-02-14T22:37:06.981295+00:00",
+  "updated_at": "2026-02-14T23:37:41.597469+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "The FA Cup",
+      "title_tr": "The FA Cup",
+      "summary": "Alex Scott presents highlights from the day’s FA Cup fourth-round ties.",
+      "summary_tr": "Alex Scott presents highlights from the day’s FA Cup fourth-round ties.",
+      "long_summary": "Alex Scott presents highlights from the day’s FA Cup fourth-round ties.",
+      "long_summary_tr": "Alex Scott presents highlights from the day’s FA Cup fourth-round ties.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n0nzng.jpg",
+      "published_at": "2026-02-15T00:16:11+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Gündem",
@@ -21,7 +43,95 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-subat-2026-1711986",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-02-14T22:30:00+00:00"
+      "published_at": "2026-02-14T23:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Police wear fancy dress in Rio Carnival phone theft sting",
+      "title_tr": "Police wear fancy dress in Rio Carnival phone theft sting",
+      "summary": "Two people were arrested after a woman was spotted by a drone grabbing a phone from an attendee.",
+      "summary_tr": "Two people were arrested after a woman was spotted by a drone grabbing a phone from an attendee.",
+      "long_summary": "Two people were arrested after a woman was spotted by a drone grabbing a phone from an attendee.",
+      "long_summary_tr": "Two people were arrested after a woman was spotted by a drone grabbing a phone from an attendee.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cjrq8dv39zwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36dd/live/74c0f1d0-09f7-11f1-b5e2-dd58fc65f0f6.jpg",
+      "published_at": "2026-02-14T23:14:44+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "On TikTok, we're all Chinese – but the  trend doesn't paint the full picture",
+      "title_tr": "On TikTok, we're all Chinese – but the  trend doesn't paint the full picture",
+      "summary": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
+      "summary_tr": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
+      "long_summary": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
+      "long_summary_tr": "Chinamaxxing is adding more gloss to the recent flourish of Chinese soft power.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cz6eljqvyp1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8573/live/9c451730-0985-11f1-9972-d3f265c101c6.jpg",
+      "published_at": "2026-02-14T23:11:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Oyun oynarken su dolu çukura düşen çocuk hayatını kaybetti",
+      "title_tr": "Oyun oynarken su dolu çukura düşen çocuk hayatını kaybetti",
+      "summary": "Hatay'da oyun oynadığı sırada su birikintisine düşen 10 yaşındaki çocuk yaşamını yitirdi.",
+      "summary_tr": "Hatay'da oyun oynadığı sırada su birikintisine düşen 10 yaşındaki çocuk yaşamını yitirdi.",
+      "long_summary": "Hatay'da oyun oynadığı sırada su birikintisine düşen 10 yaşındaki çocuk yaşamını yitirdi.",
+      "long_summary_tr": "Hatay'da oyun oynadığı sırada su birikintisine düşen 10 yaşındaki çocuk yaşamını yitirdi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/oyun-oynarken-su-dolu-cukura-dusen-cocuk-hayatini-kaybetti-1711989",
+      "image": "https://images.ntv.com.tr/images/hatay-635400.jpg",
+      "published_at": "2026-02-14T23:08:18+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Papers: Man Utd players want new contract for Maguire",
+      "title_tr": "Papers: Man Utd players want new contract for Maguire",
+      "summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "summary_tr": "The top stories and transfer rumours from Sunday's newspapers...",
+      "long_summary": "The top stories and transfer rumours from Sunday's newspapers...",
+      "long_summary_tr": "The top stories and transfer rumours from Sunday's newspapers...",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13507751/manchester-united-players-want-harry-maguire-to-be-offered-a-new-contract-paper-talk",
+      "image": "https://e1.365dm.com/25/03/1920x1080/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "published_at": "2026-02-14T22:50:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -29,8 +139,30 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "GB women shock curling world champions Canada",
-      "title_tr": "GB women shock curling world champions Canada",
+      "title": "From pizza delivery man to Winter Olympics hopeful",
+      "title_tr": "From pizza delivery man to Winter Olympics hopeful",
+      "summary": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "summary_tr": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "long_summary": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "long_summary_tr": "A medallist with Team GB in 2014, bobsleigher Joel Fearon is preparing for his third Winter Olympics after coming out of retirement to compete for Jamaica.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/articles/ckgl52gej21o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f2e/live/5e1cda30-09f6-11f1-93dc-db2cf7d6d4ac.jpg",
+      "published_at": "2026-02-14T22:31:30+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "GB women stun curling world champions Canada and Muir into big air final",
+      "title_tr": "GB women stun curling world champions Canada and Muir into big air final",
       "summary": "Great Britain's women curlers kickstart their campaign with a superb first victory of the 2026 Winter Olympics while GB's men also won but three British women missed out on skeleton medals.",
       "summary_tr": "Great Britain's women curlers kickstart their campaign with a superb first victory of the 2026 Winter Olympics while GB's men also won but three British women missed out on skeleton medals.",
       "long_summary": "Great Britain's women curlers kickstart their campaign with a superb first victory of the 2026 Winter Olympics while GB's men also won but three British women missed out on skeleton medals.",
@@ -968,138 +1100,6 @@
       "url": "https://www.bursahakimiyet.com.tr/spor/kerem-akturkoglu-muthis-mucadele-verdik-1576745",
       "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/kerem-akturkoglu-muthis-mucadele-verdik-1771098713-13_large.webp",
       "published_at": "2026-02-14T20:40:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Tonali inspires Newcastle to win over Villa in controversial tie",
-      "title_tr": "Tonali inspires Newcastle to win over Villa in controversial tie",
-      "summary": "Sandro Tonali scores twice as Newcastle United overcome multiple controversial refereeing decisions to knock 10-man Aston Villa out of the FA Cup.",
-      "summary_tr": "Sandro Tonali scores twice as Newcastle United overcome multiple controversial refereeing decisions to knock 10-man Aston Villa out of the FA Cup.",
-      "long_summary": "Sandro Tonali scores twice as Newcastle United overcome multiple controversial refereeing decisions to knock 10-man Aston Villa out of the FA Cup.",
-      "long_summary_tr": "Sandro Tonali scores twice as Newcastle United overcome multiple controversial refereeing decisions to knock 10-man Aston Villa out of the FA Cup.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/cvg5wzj0j9yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3538/live/80314ed0-09e2-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-14T20:25:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Domenico Tedesco'dan derbi açıklaması: Oyuncuların performansı önemliydi",
-      "title_tr": "Domenico Tedesco'dan derbi açıklaması: Oyuncuların performansı önemliydi",
-      "summary": "Fenerbahçe Teknik Direktörü Domenico Tedesco, performans olarak iyi seviyede olduklarını söyledi. Tedesco, Trabzonspor&#039;a karşı 60. dakikadan sonra taktik değişikliğine gittiklerini belirterek, &quot;Bu akşam önemli olan taktikten çok oyuncuların performansı ve yetenekleriydi&quot; dedi.",
-      "summary_tr": "Fenerbahçe Teknik Direktörü Domenico Tedesco, performans olarak iyi seviyede olduklarını söyledi. Tedesco, Trabzonspor&#039;a karşı 60. dakikadan sonra taktik değişikliğine gittiklerini belirterek, &quot;Bu akşam önemli olan taktikten çok oyuncuların performansı ve yetenekleriydi&quot; dedi.",
-      "long_summary": "Fenerbahçe Teknik Direktörü Domenico Tedesco, performans olarak iyi seviyede olduklarını söyledi. Tedesco, Trabzonspor&#039;a karşı 60. dakikadan sonra taktik değişikliğine gittiklerini belirterek, &quot;Bu akşam önemli olan taktikten çok oyuncuların performansı ve yetenekleriydi&quot; dedi.",
-      "long_summary_tr": "Fenerbahçe Teknik Direktörü Domenico Tedesco, performans olarak iyi seviyede olduklarını söyledi. Tedesco, Trabzonspor&#039;a karşı 60. dakikadan sonra taktik değişikliğine gittiklerini belirterek, &quot;Bu akşam önemli olan taktikten çok oyuncuların performansı ve yetenekleriydi&quot; dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/spor/domenico-tedescodan-derbi-aciklamasi-oyuncularin-performansi-onemliydi-haberi-815105",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/10/domenico-tedesco-hanq_cover.jpg",
-      "published_at": "2026-02-14T20:24:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursa'da otobüse çarpan motosikletin sürücüsü kurtarılamadı",
-      "title_tr": "Bursa'da otobüse çarpan motosikletin sürücüsü kurtarılamadı",
-      "summary": "Bursa'nın Mustafakemalpaşa ilçesinde, otobüse çarpan motosikletin sürücüsü öldü.Furkan Çelik (28) idaresindeki 16 CBJ 95 plakalı motosiklet, Bursa Caddesi'ndeki otobüs terminali yakınında, Ali Osman Mavili yönetimindeki 16 BNU 014 plakalı halk otobüsüne çarptı.\n\nİhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.\n\nKazada ağır yaralanan motosiklet sürücüsü, kaldırıldığı hastanede yaşamını yitirdi.\n\nOtobüs sürücüsü ise gözaltına alındı.",
-      "summary_tr": "Bursa'nın Mustafakemalpaşa ilçesinde, otobüse çarpan motosikletin sürücüsü öldü.Furkan Çelik (28) idaresindeki 16 CBJ 95 plakalı motosiklet, Bursa Caddesi'ndeki otobüs terminali yakınında, Ali Osman Mavili yönetimindeki 16 BNU 014 plakalı halk otobüsüne çarptı.\n\nİhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.\n\nKazada ağır yaralanan motosiklet sürücüsü, kaldırıldığı hastanede yaşamını yitirdi.\n\nOtobüs sürücüsü ise gözaltına alındı.",
-      "long_summary": "Bursa'nın Mustafakemalpaşa ilçesinde, otobüse çarpan motosikletin sürücüsü öldü.Furkan Çelik (28) idaresindeki 16 CBJ 95 plakalı motosiklet, Bursa Caddesi'ndeki otobüs terminali yakınında, Ali Osman Mavili yönetimindeki 16 BNU 014 plakalı halk otobüsüne çarptı.\n\nİhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.\n\nKazada ağır yaralanan motosiklet sürücüsü, kaldırıldığı hastanede yaşamını yitirdi.\n\nOtobüs sürücüsü ise gözaltına alındı.",
-      "long_summary_tr": "Bursa'nın Mustafakemalpaşa ilçesinde, otobüse çarpan motosikletin sürücüsü öldü.Furkan Çelik (28) idaresindeki 16 CBJ 95 plakalı motosiklet, Bursa Caddesi'ndeki otobüs terminali yakınında, Ali Osman Mavili yönetimindeki 16 BNU 014 plakalı halk otobüsüne çarptı.\n\nİhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.\n\nKazada ağır yaralanan motosiklet sürücüsü, kaldırıldığı hastanede yaşamını yitirdi.\n\nOtobüs sürücüsü ise gözaltına alındı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-otobuse-carpan-motosikletin-surucusu-kurtarilamadi-1576753",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/bursa-da-otobuse-carpan-motosikletin-surucusu-kurtarilamadi-1771100589-738_large.webp",
-      "published_at": "2026-02-14T20:22:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Emine Erdoğan: Kütüphane okulların can damarıdır",
-      "title_tr": "Emine Erdoğan: Kütüphane okulların can damarıdır",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"22 Okula 22 Kütüphane\" programına ilişkin paylaşım yaptı.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"22 Okula 22 Kütüphane\" programına ilişkin paylaşım yaptı.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"22 Okula 22 Kütüphane\" programına ilişkin paylaşım yaptı.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"22 Okula 22 Kütüphane\" programına ilişkin paylaşım yaptı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/emine-erdogan-kutuphane-okullarin-can-damaridir-1711985",
-      "image": "https://images.ntv.com.tr/images/AA-20260214-40554970-40554960-EMINE_ERDOGAN_TOGEMDERIN_22_OKULA_22_KUTUPHANE_PROJESININ_ACILIS_TORENINDE_KONUSTsU-206099.jpg",
-      "published_at": "2026-02-14T20:20:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Arda Turan: Konferans Ligi'ni kazanmayı hayal ediyoruz",
-      "title_tr": "Arda Turan: Konferans Ligi'ni kazanmayı hayal ediyoruz",
-      "summary": "Shakhtar Donetsk'in Türk teknik direktörü Arda Turan, kulüp medyasına verdiği geniş kapsamlı röportajda Ukrayna'daki kariyerine, takımın hedeflerine ve savaş gölgesinde futbol oynama gerçeğine dair çarpıcı açıklamalarda bulundu.Genç bir kadroyla çalıştığını ve Konferans Ligi'ni kazanmanın en büyük hayali olduğunu belirten Turan, \"Siren sesleri altında yaşayan oyuncularımızla bir kupa kazanırsak, bu sadece futbol değil, spor tarihine geçecek bir başarı olur\" dedi.\n\n\"Daha iyi bir konumda olabilirdik\"\n\nHaziran 2025'te takımın başına geçen ve 8 aydır görevde olan Arda Turan, sezonun ilk yarısını ve kamp dönemini değerlendirdi. Takımın performansından genel olarak memnun olduğunu ancak daha iyi sonuçlar alabileceklerini belirten Turan, şunları kaydetti:\n\n\"Çok iyi maçlar oynadık. Oyuncularımdan memnunum. Daha iyi bir konumda olabilirdik, daha iyi sonuçlar alabilirdik; fakat bir teknik direktör olarak hem olumlu hem olumsuz yönleri net şekilde değerlendirebiliyorum. Burada çok şey öğrendim ve çok değerli bir tecrübe kazandım. Bu yüzden bulunduğumuz noktadan memnunum.\"\n\n\"Ligde sadece 13 gol yedik\"\n\nTuran, göreve geldiğinde Shakhtar'ın halihazırda bir futbol kültürü ve estetik anlayışına sahip olduğunu, ekibiyle birlikte buna savunma disiplini ve agresiflik eklemeye çalıştıklarını vurguladı. Ukrayna Premier Ligi'nde sadece 13 gol yediklerine dikkat çeken genç teknik adam, \"Savunma performansından genel olarak memnunum. Avrupa Ligi elemelerinde yalnızca iki gol yedik; ikisi de Beşiktaş maçında geldi ve ardından elendik\" ifadelerini kullandı.\n\n\"Hedefimiz şampiyonluk, ikinciliği kabul etmiyorum\"\n\nLigde sezonun ilk yarısını ikinci sırada tamamlamalarının nedenini \"fırsatları değerlendirememek\" olarak açıklayan Turan, şampiyonluk hedefini net bir şekilde ortaya koydu:\n\n\"Bazen fırsatları değerlendiremedik. Eğer değerlendirseydik açık ara lider olurduk. Ben ikinciliği kabul etmiyorum. Oyuncularıma da söyledim. Hedefimiz şampiyonluk. İlk altı ay oyuncuların gelişimine odaklandık. Önümüzdeki üç ay tamamen sonuç odaklı olacak.\"\n\n\"Konferans Ligi hayalimiz var\"\n\nAvrupa kupalarındaki hedeflerine de değinen Arda Turan, Avrupa Ligi'nden elenmelerinin içinde bir burukluk yarattığını ancak Konferans Ligi'nin genç oyuncuların gelişimi için fırsat olabileceğini belirtti. Turan, \"Avrupa’da büyük hayallerimiz var. Konferans Ligi’ni kazanmayı hayal ediyoruz. Bunu inkâr edemem\" diye konuştu.\n\n\"Oyuncularımız siren sesleri altında yaşıyor\"\n\nUkrayna'daki savaş koşullarının takımı nasıl etkilediği sorusuna duygusal bir yanıt veren Turan, futbolcularının zor şartlardaki mücadelesini takdir etti:\n\n\"Böyle bir dönemde kazanılacak bir kupa sadece futbol değil, spor tarihine geçecek bir başarı olur. Oyuncularımız siren sesleri altında yaşıyor. Eğer bir kupa kazanırsak bu tarihin en büyük başarılarından biri olur. Ukraynalılardan çok şey öğrendim: direnci, birliği, hayata tutunmayı.\"\n\n\"Barcelona'da oynadım, bu yolu biliyorum\"\n\nGenç oyuncularla çalışmanın zorluklarına rağmen pozitif tarafa odaklandığını belirten Turan, kendi kariyerinden örnek vererek oyuncularına rehberlik ettiğini söyledi. Turan, \"Ben de 17–18 yaşında genç bir oyuncuydum. 27 yaşında Barcelona’da oynadım ve milli takım kaptanıydım. Bu yolu biliyorum\" dedi.",
-      "summary_tr": "Shakhtar Donetsk'in Türk teknik direktörü Arda Turan, kulüp medyasına verdiği geniş kapsamlı röportajda Ukrayna'daki kariyerine, takımın hedeflerine ve savaş gölgesinde futbol oynama gerçeğine dair çarpıcı açıklamalarda bulundu.Genç bir kadroyla çalıştığını ve Konferans Ligi'ni kazanmanın en büyük hayali olduğunu belirten Turan, \"Siren sesleri altında yaşayan oyuncularımızla bir kupa kazanırsak, bu sadece futbol değil, spor tarihine geçecek bir başarı olur\" dedi.\n\n\"Daha iyi bir konumda olabilirdik\"\n\nHaziran 2025'te takımın başına geçen ve 8 aydır görevde olan Arda Turan, sezonun ilk yarısını ve kamp dönemini değerlendirdi. Takımın performansından genel olarak memnun olduğunu ancak daha iyi sonuçlar alabileceklerini belirten Turan, şunları kaydetti:\n\n\"Çok iyi maçlar oynadık. Oyuncularımdan memnunum. Daha iyi bir konumda olabilirdik, daha iyi sonuçlar alabilirdik; fakat bir teknik direktör olarak hem olumlu hem olumsuz yönleri net şekilde değerlendirebiliyorum. Burada çok şey öğrendim ve çok değerli bir tecrübe kazandım. Bu yüzden bulunduğumuz noktadan memnunum.\"\n\n\"Ligde sadece 13 gol yedik\"\n\nTuran, göreve geldiğinde Shakhtar'ın halihazırda bir futbol kültürü ve estetik anlayışına sahip olduğunu, ekibiyle birlikte buna savunma disiplini ve agresiflik eklemeye çalıştıklarını vurguladı. Ukrayna Premier Ligi'nde sadece 13 gol yediklerine dikkat çeken genç teknik adam, \"Savunma performansından genel olarak memnunum. Avrupa Ligi elemelerinde yalnızca iki gol yedik; ikisi de Beşiktaş maçında geldi ve ardından elendik\" ifadelerini kullandı.\n\n\"Hedefimiz şampiyonluk, ikinciliği kabul etmiyorum\"\n\nLigde sezonun ilk yarısını ikinci sırada tamamlamalarının nedenini \"fırsatları değerlendirememek\" olarak açıklayan Turan, şampiyonluk hedefini net bir şekilde ortaya koydu:\n\n\"Bazen fırsatları değerlendiremedik. Eğer değerlendirseydik açık ara lider olurduk. Ben ikinciliği kabul etmiyorum. Oyuncularıma da söyledim. Hedefimiz şampiyonluk. İlk altı ay oyuncuların gelişimine odaklandık. Önümüzdeki üç ay tamamen sonuç odaklı olacak.\"\n\n\"Konferans Ligi hayalimiz var\"\n\nAvrupa kupalarındaki hedeflerine de değinen Arda Turan, Avrupa Ligi'nden elenmelerinin içinde bir burukluk yarattığını ancak Konferans Ligi'nin genç oyuncuların gelişimi için fırsat olabileceğini belirtti. Turan, \"Avrupa’da büyük hayallerimiz var. Konferans Ligi’ni kazanmayı hayal ediyoruz. Bunu inkâr edemem\" diye konuştu.\n\n\"Oyuncularımız siren sesleri altında yaşıyor\"\n\nUkrayna'daki savaş koşullarının takımı nasıl etkilediği sorusuna duygusal bir yanıt veren Turan, futbolcularının zor şartlardaki mücadelesini takdir etti:\n\n\"Böyle bir dönemde kazanılacak bir kupa sadece futbol değil, spor tarihine geçecek bir başarı olur. Oyuncularımız siren sesleri altında yaşıyor. Eğer bir kupa kazanırsak bu tarihin en büyük başarılarından biri olur. Ukraynalılardan çok şey öğrendim: direnci, birliği, hayata tutunmayı.\"\n\n\"Barcelona'da oynadım, bu yolu biliyorum\"\n\nGenç oyuncularla çalışmanın zorluklarına rağmen pozitif tarafa odaklandığını belirten Turan, kendi kariyerinden örnek vererek oyuncularına rehberlik ettiğini söyledi. Turan, \"Ben de 17–18 yaşında genç bir oyuncuydum. 27 yaşında Barcelona’da oynadım ve milli takım kaptanıydım. Bu yolu biliyorum\" dedi.",
-      "long_summary": "Shakhtar Donetsk'in Türk teknik direktörü Arda Turan, kulüp medyasına verdiği geniş kapsamlı röportajda Ukrayna'daki kariyerine, takımın hedeflerine ve savaş gölgesinde futbol oynama gerçeğine dair çarpıcı açıklamalarda bulundu.Genç bir kadroyla çalıştığını ve Konferans Ligi'ni kazanmanın en büyük hayali olduğunu belirten Turan, \"Siren sesleri altında yaşayan oyuncularımızla bir kupa kazanırsak, bu sadece futbol değil, spor tarihine geçecek bir başarı olur\" dedi.\n\n\"Daha iyi bir konumda",
-      "long_summary_tr": "Shakhtar Donetsk'in Türk teknik direktörü Arda Turan, kulüp medyasına verdiği geniş kapsamlı röportajda Ukrayna'daki kariyerine, takımın hedeflerine ve savaş gölgesinde futbol oynama gerçeğine dair çarpıcı açıklamalarda bulundu.Genç bir kadroyla çalıştığını ve Konferans Ligi'ni kazanmanın en büyük hayali olduğunu belirten Turan, \"Siren sesleri altında yaşayan oyuncularımızla bir kupa kazanırsak, bu sadece futbol değil, spor tarihine geçecek bir başarı olur\" dedi.\n\n\"Daha iyi bir konumda",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/spor/arda-turan-konferans-ligi-ni-kazanmayi-hayal-ediyoruz-1576743",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/14/arda-turan-konferans-ligi-ni-kazanmayi-hayal-ediyoruz-1771098677-366_large.webp",
-      "published_at": "2026-02-14T20:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Meghan Markle Shares Valentine’s Day Post With Harry and Lilibet",
-      "title_tr": "Meghan Markle Shares Valentine’s Day Post With Harry and Lilibet",
-      "summary": "Meghan Markle Shares Valentine’s Day Post With Harry and Lilibet",
-      "summary_tr": "Meghan Markle Shares Valentine’s Day Post With Harry and Lilibet",
-      "long_summary": "Meghan Markle Shares Valentine’s Day Post With Harry and Lilibet",
-      "long_summary_tr": "Meghan Markle Shares Valentine’s Day Post With Harry and Lilibet",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a70360371/meghan-markle-valentines-day-post-harry-lilibet-photo/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e5607d49-6e91-430d-98fa-8a8611602bfb.jpeg",
-      "published_at": "2026-02-14T20:05:19+00:00"
     }
   ]
 }
