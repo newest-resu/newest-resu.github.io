@@ -1,27 +1,181 @@
 {
-  "updated_at": "2026-02-18T02:50:16.001746+00:00",
+  "updated_at": "2026-02-18T05:04:36.999349+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Beş ilde suç örgütüne operasyon. 37 şüpheli gözaltına alındı",
+      "title_tr": "Beş ilde suç örgütüne operasyon. 37 şüpheli gözaltına alındı",
+      "summary": "Ankara merkezli 5 ilde suç örgütüne yönelik operasyonlar düzenlendi. 37 şüpheli gözaltına alındı.",
+      "summary_tr": "Ankara merkezli 5 ilde suç örgütüne yönelik operasyonlar düzenlendi. 37 şüpheli gözaltına alındı.",
+      "long_summary": "Ankara merkezli 5 ilde suç örgütüne yönelik operasyonlar düzenlendi. 37 şüpheli gözaltına alındı.",
+      "long_summary_tr": "Ankara merkezli 5 ilde suç örgütüne yönelik operasyonlar düzenlendi. 37 şüpheli gözaltına alındı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/bes-ilde-suc-orgutune-operasyon-37-supheli-gozaltina-alindi-1712421",
+      "image": "https://images.ntv.com.tr/images/gözaltı-538385",
+      "published_at": "2026-02-18T04:54:10+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
-      "title_tr": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
-      "summary": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
-      "summary_tr": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
-      "long_summary": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
-      "long_summary_tr": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "source": "Foreks",
+      "title": "Microsoft, Küresel Güney'e yapay zekayı taşımak için 50 milyar dolar yatırım yapacak",
+      "title_tr": "Microsoft, Küresel Güney'e yapay zekayı taşımak için 50 milyar dolar yatırım yapacak",
+      "summary": "Microsoft, Hindistan Yapay Zeka Etki Zirvesi'nde önemli bir duyuru yaptı: Şirket, Küresel Güney ülkelerine yapay zekayı ulaştırmak amacıyla on yılın sonuna kadar 50 milyar dolar yatırım yapma hedefind...",
+      "summary_tr": "Microsoft, Hindistan Yapay Zeka Etki Zirvesi'nde önemli bir duyuru yaptı: Şirket, Küresel Güney ülkelerine yapay zekayı ulaştırmak amacıyla on yılın sonuna kadar 50 milyar dolar yatırım yapma hedefind...",
+      "long_summary": "Microsoft, Hindistan Yapay Zeka Etki Zirvesi'nde önemli bir duyuru yaptı: Şirket, Küresel Güney ülkelerine yapay zekayı ulaştırmak amacıyla on yılın sonuna kadar 50 milyar dolar yatırım yapma hedefind...",
+      "long_summary_tr": "Microsoft, Hindistan Yapay Zeka Etki Zirvesi'nde önemli bir duyuru yaptı: Şirket, Küresel Güney ülkelerine yapay zekayı ulaştırmak amacıyla on yılın sonuna kadar 50 milyar dolar yatırım yapma hedefind...",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/suncorp-hisseleri-dogal-afet-maliyetleri-nedeniyle-dusen-yaryl-karnn-ardndan-geriledi-3766805",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-18T02:32:17+00:00"
+      "url": "https://www.foreks.com/haber/detay/microsoft-kuresel-guney-e-yapay-zekayi-tasimak-icin-50-milyar-dolar-yatirim-yapacak-18-02-26?haber_id=699544ac2663b328fe3279bb&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771390117408.jpeg",
+      "published_at": "2026-02-18T04:48:44+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "6 bölgede kuvvetli yağış alarmı: Adana ve Kahramanmaraş için kritik uyarı",
+      "title_tr": "6 bölgede kuvvetli yağış alarmı: Adana ve Kahramanmaraş için kritik uyarı",
+      "summary": "Meteoroloji Genel Müdürlüğü, başta Adana’nın kuzeyi ve Kahramanmaraş’ın batısı olmak üzere İç Anadolu’nun güneyi, Doğu Anadolu’nun batısı, Güneydoğu Anadolu’nun batı kesimleri ile Orta ve Doğu Akdeniz’de kuvvetli sağanak beklendiğini duyurdu. Çok sayıda ili etkileyecek yağışlar nedeniyle sel, su baskını ve ulaşımda aksamalar riskine karşı uyarı yapıldı. 18 Şubat Çarşamba hava durumu...",
+      "summary_tr": "Meteoroloji Genel Müdürlüğü, başta Adana’nın kuzeyi ve Kahramanmaraş’ın batısı olmak üzere İç Anadolu’nun güneyi, Doğu Anadolu’nun batısı, Güneydoğu Anadolu’nun batı kesimleri ile Orta ve Doğu Akdeniz’de kuvvetli sağanak beklendiğini duyurdu. Çok sayıda ili etkileyecek yağışlar nedeniyle sel, su baskını ve ulaşımda aksamalar riskine karşı uyarı yapıldı. 18 Şubat Çarşamba hava durumu...",
+      "long_summary": "Meteoroloji Genel Müdürlüğü, başta Adana’nın kuzeyi ve Kahramanmaraş’ın batısı olmak üzere İç Anadolu’nun güneyi, Doğu Anadolu’nun batısı, Güneydoğu Anadolu’nun batı kesimleri ile Orta ve Doğu Akdeniz’de kuvvetli sağanak beklendiğini duyurdu. Çok sayıda ili etkileyecek yağışlar nedeniyle sel, su baskını ve ulaşımda aksamalar riskine karşı uyarı yapıldı. 18 Şubat Çarşamba hava durumu...",
+      "long_summary_tr": "Meteoroloji Genel Müdürlüğü, başta Adana’nın kuzeyi ve Kahramanmaraş’ın batısı olmak üzere İç Anadolu’nun güneyi, Doğu Anadolu’nun batısı, Güneydoğu Anadolu’nun batı kesimleri ile Orta ve Doğu Akdeniz’de kuvvetli sağanak beklendiğini duyurdu. Çok sayıda ili etkileyecek yağışlar nedeniyle sel, su baskını ve ulaşımda aksamalar riskine karşı uyarı yapıldı. 18 Şubat Çarşamba hava durumu...",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/6-bolgede-kuvvetli-yagis-alarmi-adana-ve-kahramanmaras-icin-kritik-uyari-haberi-815431",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/18/yeni-proje-24-p00p_cover.jpg",
+      "published_at": "2026-02-18T04:47:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Fitch, ABD'de bütçe açıklarının yüksek kalmasının beklendiği konusunda uyardı",
+      "title_tr": "Fitch, ABD'de bütçe açıklarının yüksek kalmasının beklendiği konusunda uyardı",
+      "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD&#039;deki son hükümet kapanmasının kısmi olsa da siyasi kutuplaşma ve karmaşık bütçe sürecinin mali politika yapımını engellemeye devam ettiğini ortaya koyduğunu belirterek, ülkede bütçe açıklarının yüksek seviyelerde kalmasının beklendiğini bildirdi.",
+      "summary_tr": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD&#039;deki son hükümet kapanmasının kısmi olsa da siyasi kutuplaşma ve karmaşık bütçe sürecinin mali politika yapımını engellemeye devam ettiğini ortaya koyduğunu belirterek, ülkede bütçe açıklarının yüksek seviyelerde kalmasının beklendiğini bildirdi.",
+      "long_summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD&#039;deki son hükümet kapanmasının kısmi olsa da siyasi kutuplaşma ve karmaşık bütçe sürecinin mali politika yapımını engellemeye devam ettiğini ortaya koyduğunu belirterek, ülkede bütçe açıklarının yüksek seviyelerde kalmasının beklendiğini bildirdi.",
+      "long_summary_tr": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD&#039;deki son hükümet kapanmasının kısmi olsa da siyasi kutuplaşma ve karmaşık bütçe sürecinin mali politika yapımını engellemeye devam ettiğini ortaya koyduğunu belirterek, ülkede bütçe açıklarının yüksek seviyelerde kalmasının beklendiğini bildirdi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/fitch-abdde-butce-aciklarinin-yuksek-kalmasinin-beklendigi-konusunda-uyardi-haberi-815430",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/08/26/fitch-dphh-cover-fu7s-cover-axnq-co-rfq3_cover.jpg",
+      "published_at": "2026-02-18T04:42:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Japonya'nın ihracatı  art arda beşinci ayda da yükseldi",
+      "title_tr": "Japonya'nın ihracatı  art arda beşinci ayda da yükseldi",
+      "summary": "Japonya'nın ihracatı ocak ayında art arda beşinci kez yükseldi ve komşu Asya pazarlarındaki talep sayesinde güçlü bir performans sergiledi.Resmi verilere göre ihracat, Aralık ayındaki %5,1’lik artış v...",
+      "summary_tr": "Japonya'nın ihracatı ocak ayında art arda beşinci kez yükseldi ve komşu Asya pazarlarındaki talep sayesinde güçlü bir performans sergiledi.Resmi verilere göre ihracat, Aralık ayındaki %5,1’lik artış v...",
+      "long_summary": "Japonya'nın ihracatı ocak ayında art arda beşinci kez yükseldi ve komşu Asya pazarlarındaki talep sayesinde güçlü bir performans sergiledi.Resmi verilere göre ihracat, Aralık ayındaki %5,1’lik artış v...",
+      "long_summary_tr": "Japonya'nın ihracatı ocak ayında art arda beşinci kez yükseldi ve komşu Asya pazarlarındaki talep sayesinde güçlü bir performans sergiledi.Resmi verilere göre ihracat, Aralık ayındaki %5,1’lik artış v...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/japonya-nin-ihracati-art-arda-besinci-ayda-da-yukseldi-18-02-26?haber_id=6995426667ad3132ebe0f64b&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771389539473.jpeg",
+      "published_at": "2026-02-18T04:39:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Scotiabank: Altın rallisi henüz sona ermedi",
+      "title_tr": "Scotiabank: Altın rallisi henüz sona ermedi",
+      "summary": "Kanada merkezli Scotiabank, altın fiyatlarındaki yükseliş trendinin önümüzdeki aylarda da sürebileceğini bildirdi. Bankaya göre, merkez bankalarının devam eden alımları, artan jeopolitik belirsizlikle...",
+      "summary_tr": "Kanada merkezli Scotiabank, altın fiyatlarındaki yükseliş trendinin önümüzdeki aylarda da sürebileceğini bildirdi. Bankaya göre, merkez bankalarının devam eden alımları, artan jeopolitik belirsizlikle...",
+      "long_summary": "Kanada merkezli Scotiabank, altın fiyatlarındaki yükseliş trendinin önümüzdeki aylarda da sürebileceğini bildirdi. Bankaya göre, merkez bankalarının devam eden alımları, artan jeopolitik belirsizlikle...",
+      "long_summary_tr": "Kanada merkezli Scotiabank, altın fiyatlarındaki yükseliş trendinin önümüzdeki aylarda da sürebileceğini bildirdi. Bankaya göre, merkez bankalarının devam eden alımları, artan jeopolitik belirsizlikle...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/scotiabank-altin-rallisi-henuz-sona-ermedi-18-02-26?haber_id=6995421967ad3132ebe0f649&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771389461394.jpeg",
+      "published_at": "2026-02-18T04:37:45+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
+      "title_tr": "No DNA matches on glove found in Nancy Guthrie case, police say",
+      "summary": "The sheriff told the BBC that he is confident they will find her -  whether it takes 'ten days, ten months, or worse'.",
+      "summary_tr": "The sheriff told the BBC that he is confident they will find her -  whether it takes 'ten days, ten months, or worse'.",
+      "long_summary": "The sheriff told the BBC that he is confident they will find her -  whether it takes 'ten days, ten months, or worse'.",
+      "long_summary_tr": "The sheriff told the BBC that he is confident they will find her -  whether it takes 'ten days, ten months, or worse'.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8004/live/aefcd7a0-0c32-11f1-aea9-35917f4e91eb.jpg",
+      "published_at": "2026-02-18T04:32:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Olumsuz hava deniz ulaşımını vurdu: BUDO ve İDO seferleri iptal",
+      "title_tr": "Olumsuz hava deniz ulaşımını vurdu: BUDO ve İDO seferleri iptal",
+      "summary": "Olumsuz hava koşulları deniz ulaşımını olumsuz etkiledi. Bursa Deniz Otobüsleri (BUDO) ile İstanbul Deniz Otobüsleri’nin (İDO) bazı seferleri iptal edildi.",
+      "summary_tr": "Olumsuz hava koşulları deniz ulaşımını olumsuz etkiledi. Bursa Deniz Otobüsleri (BUDO) ile İstanbul Deniz Otobüsleri’nin (İDO) bazı seferleri iptal edildi.",
+      "long_summary": "Olumsuz hava koşulları deniz ulaşımını olumsuz etkiledi. Bursa Deniz Otobüsleri (BUDO) ile İstanbul Deniz Otobüsleri’nin (İDO) bazı seferleri iptal edildi.",
+      "long_summary_tr": "Olumsuz hava koşulları deniz ulaşımını olumsuz etkiledi. Bursa Deniz Otobüsleri (BUDO) ile İstanbul Deniz Otobüsleri’nin (İDO) bazı seferleri iptal edildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/olumsuz-hava-deniz-ulasimini-vurdu-budo-ve-ido-seferleri-iptal-haberi-815429",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/17/budosefer-epdi_cover.jpg",
+      "published_at": "2026-02-18T04:32:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -43,7 +197,667 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-subat-2026-1712404",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-02-18T02:30:03+00:00"
+      "published_at": "2026-02-18T04:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Berkshire Hathaway, New York Times’a yeniden yatırım yaptı",
+      "title_tr": "Berkshire Hathaway, New York Times’a yeniden yatırım yaptı",
+      "summary": "Berkshire Hathaway, Salı günü yaptığı bildirimde The New York Times’a yeni bir yatırım yaptığını açıkladı. Böylece şirket, Warren Buffett’ın 2020 yılında gazete işini satarak sektörden çıkmasının ardı...",
+      "summary_tr": "Berkshire Hathaway, Salı günü yaptığı bildirimde The New York Times’a yeni bir yatırım yaptığını açıkladı. Böylece şirket, Warren Buffett’ın 2020 yılında gazete işini satarak sektörden çıkmasının ardı...",
+      "long_summary": "Berkshire Hathaway, Salı günü yaptığı bildirimde The New York Times’a yeni bir yatırım yaptığını açıkladı. Böylece şirket, Warren Buffett’ın 2020 yılında gazete işini satarak sektörden çıkmasının ardı...",
+      "long_summary_tr": "Berkshire Hathaway, Salı günü yaptığı bildirimde The New York Times’a yeni bir yatırım yaptığını açıkladı. Böylece şirket, Warren Buffett’ın 2020 yılında gazete işini satarak sektörden çıkmasının ardı...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/berkshire-hathaway-new-york-timesa-yeniden-yatirim-yapti-18-02-26?haber_id=69953fa667ad3132ebe0f641&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771388827408.jpeg",
+      "published_at": "2026-02-18T04:27:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Akaryakıt fiyatlarında son durum! Benzin, motorin ve LPG'ye zam, indirim var mı? (18 Şubat 2026)",
+      "title_tr": "Akaryakıt fiyatlarında son durum! Benzin, motorin ve LPG'ye zam, indirim var mı? (18 Şubat 2026)",
+      "summary": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 18 Şubat 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "summary_tr": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 18 Şubat 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "long_summary": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 18 Şubat 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "long_summary_tr": "Döviz kuru ve petrol fiyatlarındaki hareketlilik ile vergilere yapılan zamlar akaryakıt fiyatlarını da etkilemeye devam ediyor. 18 Şubat 2026 benzin, motorin (mazot) fiyatları ne kadar, güncel akaryakıt fiyatları kaç TL? Benzin litre fiyatı ve motorin litre fiyatı kaç para?",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/enerji/akaryakit-fiyatlarinda-son-durum-benzin-motorin-ve-lpgye-zam-indirim-var-mi-18-subat-2026-haberi-815428",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/04/30/benzin-kac-tl-motorin-ne-kadar-lp-tzty_cover.jpg",
+      "published_at": "2026-02-18T04:27:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Nvidia, Meta'ya milyonlarca yapay zeka çipi satacak",
+      "title_tr": "Nvidia, Meta'ya milyonlarca yapay zeka çipi satacak",
+      "summary": "Nvidia, salı günü yaptığı açıklamada Meta Platforms ile milyonlarca mevcut ve gelecekteki yapay zekâ çipini kapsayan çok yıllı bir satış anlaşması imzaladığını duyurdu.",
+      "summary_tr": "Nvidia, salı günü yaptığı açıklamada Meta Platforms ile milyonlarca mevcut ve gelecekteki yapay zekâ çipini kapsayan çok yıllı bir satış anlaşması imzaladığını duyurdu.",
+      "long_summary": "Nvidia, salı günü yaptığı açıklamada Meta Platforms ile milyonlarca mevcut ve gelecekteki yapay zekâ çipini kapsayan çok yıllı bir satış anlaşması imzaladığını duyurdu.",
+      "long_summary_tr": "Nvidia, salı günü yaptığı açıklamada Meta Platforms ile milyonlarca mevcut ve gelecekteki yapay zekâ çipini kapsayan çok yıllı bir satış anlaşması imzaladığını duyurdu.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/nvidia-meta-ya-milyonlarca-yapay-zeka-cipi-satacak-18-02-26?haber_id=69953ec667ad3132ebe0f63e&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771388608945.jpeg",
+      "published_at": "2026-02-18T04:23:34+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Dolar kaç TL oldu, Euro ne kadar? (18 Şubat Salı Döviz Kurları)",
+      "title_tr": "Dolar kaç TL oldu, Euro ne kadar? (18 Şubat Salı Döviz Kurları)",
+      "summary": "18 ŞUBAT ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,51 liradan, euro 51,60 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "summary_tr": "18 ŞUBAT ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,51 liradan, euro 51,60 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "long_summary": "18 ŞUBAT ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,51 liradan, euro 51,60 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "long_summary_tr": "18 ŞUBAT ANLIK DÖVİZ KURU: Döviz kurlarında hareketlilik devam ediyor. Yeni günde Dolar 43,51 liradan, euro 51,60 TL seviyelerinden işlem görüyor. İşte güncel döviz kurları ve piyasalardaki son durum…",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-18-subat-sali-doviz-kurlari-haberi-815427",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/06/dolar-kdja_cover.png",
+      "published_at": "2026-02-18T04:22:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Japonya’dan ABD'ye 36 milyar dolarlık yatırım",
+      "title_tr": "Japonya’dan ABD'ye 36 milyar dolarlık yatırım",
+      "summary": "ABD Başkanı Donald Trump, Japonya tarafından finanse edilecek toplam 36 milyar dolar değerinde üç projeyi açıkladı. Yatırımlar, Teksas’ta bir petrol ihracat tesisi, Georgia’da bir endüstriyel elmas ür...",
+      "summary_tr": "ABD Başkanı Donald Trump, Japonya tarafından finanse edilecek toplam 36 milyar dolar değerinde üç projeyi açıkladı. Yatırımlar, Teksas’ta bir petrol ihracat tesisi, Georgia’da bir endüstriyel elmas ür...",
+      "long_summary": "ABD Başkanı Donald Trump, Japonya tarafından finanse edilecek toplam 36 milyar dolar değerinde üç projeyi açıkladı. Yatırımlar, Teksas’ta bir petrol ihracat tesisi, Georgia’da bir endüstriyel elmas ür...",
+      "long_summary_tr": "ABD Başkanı Donald Trump, Japonya tarafından finanse edilecek toplam 36 milyar dolar değerinde üç projeyi açıkladı. Yatırımlar, Teksas’ta bir petrol ihracat tesisi, Georgia’da bir endüstriyel elmas ür...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/japonyadan-abd-ye-36-milyar-dolarlik-yatirim-18-02-26?haber_id=69953dc72663b328fe3279a3&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771388356297.jpeg",
+      "published_at": "2026-02-18T04:19:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (18 Şubat 2026)",
+      "title_tr": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (18 Şubat 2026)",
+      "summary": "Altın ve döviz kurlarında iç ve dış piyasalarda yaşanan hareketlilik yakından izlenirken, vatandaşlar günün ilk saatlerinden itibaren “Gram altın, çeyrek altın ve ons altın bugün kaç lira?” sorularına yanıt arıyor. Gram altın 6.910 TL, ons altın 4.915 dolar seviyesinden güne başlarken, dün yaşanan sert geri çekilmenin ardından ilk işlemlerde tepki alımları öne çıktı. İşte 18 Şubat 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "summary_tr": "Altın ve döviz kurlarında iç ve dış piyasalarda yaşanan hareketlilik yakından izlenirken, vatandaşlar günün ilk saatlerinden itibaren “Gram altın, çeyrek altın ve ons altın bugün kaç lira?” sorularına yanıt arıyor. Gram altın 6.910 TL, ons altın 4.915 dolar seviyesinden güne başlarken, dün yaşanan sert geri çekilmenin ardından ilk işlemlerde tepki alımları öne çıktı. İşte 18 Şubat 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "long_summary": "Altın ve döviz kurlarında iç ve dış piyasalarda yaşanan hareketlilik yakından izlenirken, vatandaşlar günün ilk saatlerinden itibaren “Gram altın, çeyrek altın ve ons altın bugün kaç lira?” sorularına yanıt arıyor. Gram altın 6.910 TL, ons altın 4.915 dolar seviyesinden güne başlarken, dün yaşanan sert geri çekilmenin ardından ilk işlemlerde tepki alımları öne çıktı. İşte 18 Şubat 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "long_summary_tr": "Altın ve döviz kurlarında iç ve dış piyasalarda yaşanan hareketlilik yakından izlenirken, vatandaşlar günün ilk saatlerinden itibaren “Gram altın, çeyrek altın ve ons altın bugün kaç lira?” sorularına yanıt arıyor. Gram altın 6.910 TL, ons altın 4.915 dolar seviyesinden güne başlarken, dün yaşanan sert geri çekilmenin ardından ilk işlemlerde tepki alımları öne çıktı. İşte 18 Şubat 2026 çeyrek, ons, gram ve yarım altın satış fiyatları...",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-18-subat-2026-haberi-815426",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/30/altin-ehgf-cover-unkn_cover.jpg",
+      "published_at": "2026-02-18T04:18:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Wall Street'te teknoloji hisselerindeki satış dalgası durdu",
+      "title_tr": "Wall Street'te teknoloji hisselerindeki satış dalgası durdu",
+      "summary": "ABD borsalarınde teknoloji hisselerinde haftalardır süren satış dalgasına dün ara verildi. Yapay zeka hisselerinde açılışta görülen sert düşüşlere rağmen, günün ilerleyen saatlerinde gelen alımlarla e...",
+      "summary_tr": "ABD borsalarınde teknoloji hisselerinde haftalardır süren satış dalgasına dün ara verildi. Yapay zeka hisselerinde açılışta görülen sert düşüşlere rağmen, günün ilerleyen saatlerinde gelen alımlarla e...",
+      "long_summary": "ABD borsalarınde teknoloji hisselerinde haftalardır süren satış dalgasına dün ara verildi. Yapay zeka hisselerinde açılışta görülen sert düşüşlere rağmen, günün ilerleyen saatlerinde gelen alımlarla e...",
+      "long_summary_tr": "ABD borsalarınde teknoloji hisselerinde haftalardır süren satış dalgasına dün ara verildi. Yapay zeka hisselerinde açılışta görülen sert düşüşlere rağmen, günün ilerleyen saatlerinde gelen alımlarla e...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/wall-street-te-teknoloji-hisselerindeki-satis-dalgasi-durdu-18-02-26?haber_id=69953cfe67ad3132ebe0f638&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771388153294.jpeg",
+      "published_at": "2026-02-18T04:15:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Milyarder Paulson, on yıllık yatırımın ardından Trilogy Metals’ten çıktı",
+      "title_tr": "Milyarder Paulson, on yıllık yatırımın ardından Trilogy Metals’ten çıktı",
+      "summary": "Milyarder Paulson, on yıllık yatırımın ardından Trilogy Metals’ten çıktı",
+      "summary_tr": "Milyarder Paulson, on yıllık yatırımın ardından Trilogy Metals’ten çıktı",
+      "long_summary": "Milyarder Paulson, on yıllık yatırımın ardından Trilogy Metals’ten çıktı",
+      "long_summary_tr": "Milyarder Paulson, on yıllık yatırımın ardından Trilogy Metals’ten çıktı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/milyarder-paulson-on-yllk-yatrmn-ardndan-trilogy-metalsten-ckt-93CH-3766853",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-18T04:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "18 ŞUBAT 2026 ÇARŞAMBA YAYIN AKIŞI: Bu akşam hangi diziler var?",
+      "title_tr": "18 ŞUBAT 2026 ÇARŞAMBA YAYIN AKIŞI: Bu akşam hangi diziler var?",
+      "summary": "Televizyonseverler her gün olduğu gibi bugün de &quot;Bu akşam televizyonda ne var?&quot; ve &quot;Hangi diziler var?&quot; sorularının yanıtlarını merak ediyor. 18 Şubat 2026 Çarşamba akşamı, ulusal kanallarda birbirinden farklı dizi ve programlar seyirciyle buluşuyor. Kanal D, ATV, Show TV, STAR TV, TRT 1, TV8 ve diğer kanalların yayın akışları merakla takip ediliyor. İşte, 18 Şubat 2026 Çarşamba TV yayın akışı ve TV kanallarındaki bu akşamki diziler ve programlar...",
+      "summary_tr": "Televizyonseverler her gün olduğu gibi bugün de &quot;Bu akşam televizyonda ne var?&quot; ve &quot;Hangi diziler var?&quot; sorularının yanıtlarını merak ediyor. 18 Şubat 2026 Çarşamba akşamı, ulusal kanallarda birbirinden farklı dizi ve programlar seyirciyle buluşuyor. Kanal D, ATV, Show TV, STAR TV, TRT 1, TV8 ve diğer kanalların yayın akışları merakla takip ediliyor. İşte, 18 Şubat 2026 Çarşamba TV yayın akışı ve TV kanallarındaki bu akşamki diziler ve programlar...",
+      "long_summary": "Televizyonseverler her gün olduğu gibi bugün de &quot;Bu akşam televizyonda ne var?&quot; ve &quot;Hangi diziler var?&quot; sorularının yanıtlarını merak ediyor. 18 Şubat 2026 Çarşamba akşamı, ulusal kanallarda birbirinden farklı dizi ve programlar seyirciyle buluşuyor. Kanal D, ATV, Show TV, STAR TV, TRT 1, TV8 ve diğer kanalların yayın akışları merakla takip ediliyor. İşte, 18 Şubat 2026 Çarşamba TV yayın akışı ve TV kanallarındaki bu akşamki diziler ve programlar...",
+      "long_summary_tr": "Televizyonseverler her gün olduğu gibi bugün de &quot;Bu akşam televizyonda ne var?&quot; ve &quot;Hangi diziler var?&quot; sorularının yanıtlarını merak ediyor. 18 Şubat 2026 Çarşamba akşamı, ulusal kanallarda birbirinden farklı dizi ve programlar seyirciyle buluşuyor. Kanal D, ATV, Show TV, STAR TV, TRT 1, TV8 ve diğer kanalların yayın akışları merakla takip ediliyor. İşte, 18 Şubat 2026 Çarşamba TV yayın akışı ve TV kanallarındaki bu akşamki diziler ve programlar...",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/foto-galeri/aktuel/18-subat-2026-carsamba-yayin-akisi-bu-aksam-hangi-diziler-var-galeri-815425",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/10/31/televizyon-yayin-akisi-3-gv5a_cover.jpg",
+      "published_at": "2026-02-18T04:12:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Japonya Maliye Bakanı, IMF uyarısı sonrası hükümetin mali duruşunu savundu",
+      "title_tr": "Japonya Maliye Bakanı, IMF uyarısı sonrası hükümetin mali duruşunu savundu",
+      "summary": "Japonya Maliye Bakanı Satsuki Katayama, Uluslararası Para Fonu’nun mali disipline ilişkin uyarılarının ardından hükümetin sorumlu harcama politikasına bağlılığını yineledi.Katayama, \"Güçlü bir ekonomi...",
+      "summary_tr": "Japonya Maliye Bakanı Satsuki Katayama, Uluslararası Para Fonu’nun mali disipline ilişkin uyarılarının ardından hükümetin sorumlu harcama politikasına bağlılığını yineledi.Katayama, \"Güçlü bir ekonomi...",
+      "long_summary": "Japonya Maliye Bakanı Satsuki Katayama, Uluslararası Para Fonu’nun mali disipline ilişkin uyarılarının ardından hükümetin sorumlu harcama politikasına bağlılığını yineledi.Katayama, \"Güçlü bir ekonomi...",
+      "long_summary_tr": "Japonya Maliye Bakanı Satsuki Katayama, Uluslararası Para Fonu’nun mali disipline ilişkin uyarılarının ardından hükümetin sorumlu harcama politikasına bağlılığını yineledi.Katayama, \"Güçlü bir ekonomi...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/japonya-maliye-bakani-imf-uyarisi-sonrasi-hukumetin-mali-durusunu-savundu-18-02-26?haber_id=699539542663b328fe32799c&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771387215102.jpeg",
+      "published_at": "2026-02-18T04:00:20+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "YouTube Çöktü mü? YouTube’da Erişim Sorunu!",
+      "title_tr": "YouTube Çöktü mü? YouTube’da Erişim Sorunu!",
+      "summary": "Dünyanın en popüler video paylaşım platformu YouTube, Türkiye dahil olmak üzere dünya çapında büyük bir çöküş yaşadı. Gece saatlerinde platforma girmek isteyen birçok kullanıcı beklenmedik bir hata ekranıyla karşılaştı. Türkiye saati ile 03:38 sularında başlayan erişim sorunları, kullanıcıların hem mobil uygulamadan hem de masaüstü web sitesinden platforma ulaşmasını ve video izlemesini tamamen engelledi. YouTube Music’e […]",
+      "summary_tr": "Dünyanın en popüler video paylaşım platformu YouTube, Türkiye dahil olmak üzere dünya çapında büyük bir çöküş yaşadı. Gece saatlerinde platforma girmek isteyen birçok kullanıcı beklenmedik bir hata ekranıyla karşılaştı. Türkiye saati ile 03:38 sularında başlayan erişim sorunları, kullanıcıların hem mobil uygulamadan hem de masaüstü web sitesinden platforma ulaşmasını ve video izlemesini tamamen engelledi. YouTube Music’e […]",
+      "long_summary": "Dünyanın en popüler video paylaşım platformu YouTube, Türkiye dahil olmak üzere dünya çapında büyük bir çöküş yaşadı. Gece saatlerinde platforma girmek isteyen birçok kullanıcı beklenmedik bir hata ekranıyla karşılaştı. Türkiye saati ile 03:38 sularında başlayan erişim sorunları, kullanıcıların hem mobil uygulamadan hem de masaüstü web sitesinden platforma ulaşmasını ve video izlemesini tamamen engelledi. YouTube Music’e […]",
+      "long_summary_tr": "Dünyanın en popüler video paylaşım platformu YouTube, Türkiye dahil olmak üzere dünya çapında büyük bir çöküş yaşadı. Gece saatlerinde platforma girmek isteyen birçok kullanıcı beklenmedik bir hata ekranıyla karşılaştı. Türkiye saati ile 03:38 sularında başlayan erişim sorunları, kullanıcıların hem mobil uygulamadan hem de masaüstü web sitesinden platforma ulaşmasını ve video izlemesini tamamen engelledi. YouTube Music’e […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/youtube-coktu-mu-youtubeda-erisim-sorunu",
+      "image": null,
+      "published_at": "2026-02-18T04:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "TAV Havalimanları 116-123 milyon yolcu hedefliyor",
+      "title_tr": "TAV Havalimanları 116-123 milyon yolcu hedefliyor",
+      "summary": "TAV Havalimanları, 2026 yılına ilişkin operasyonel ve finansal beklentilerini kamuoyuyla paylaştı. Şirket, 2025 yılında 113 milyon olan toplam yolcu sayısının 2026’da 116–123 milyon aralığında gerçekl...",
+      "summary_tr": "TAV Havalimanları, 2026 yılına ilişkin operasyonel ve finansal beklentilerini kamuoyuyla paylaştı. Şirket, 2025 yılında 113 milyon olan toplam yolcu sayısının 2026’da 116–123 milyon aralığında gerçekl...",
+      "long_summary": "TAV Havalimanları, 2026 yılına ilişkin operasyonel ve finansal beklentilerini kamuoyuyla paylaştı. Şirket, 2025 yılında 113 milyon olan toplam yolcu sayısının 2026’da 116–123 milyon aralığında gerçekl...",
+      "long_summary_tr": "TAV Havalimanları, 2026 yılına ilişkin operasyonel ve finansal beklentilerini kamuoyuyla paylaştı. Şirket, 2025 yılında 113 milyon olan toplam yolcu sayısının 2026’da 116–123 milyon aralığında gerçekl...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/tav-havalimanlari-116-123-milyon-yolcu-hedefliyor-18-02-26?haber_id=699538a12663b328fe327996&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771387034378.jpeg",
+      "published_at": "2026-02-18T03:57:21+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "DOD eyes commercial satellites that can spy on other satellites",
+      "title_tr": "DOD eyes commercial satellites that can spy on other satellites",
+      "summary": "The Pentagon is looking for cheap commercial satellites that can maintain surveillance on other satellites in orbit, including close-range inspections.",
+      "summary_tr": "The Pentagon is looking for cheap commercial satellites that can maintain surveillance on other satellites in orbit, including close-range inspections.",
+      "long_summary": "The Pentagon is looking for cheap commercial satellites that can maintain surveillance on other satellites in orbit, including close-range inspections.",
+      "long_summary_tr": "The Pentagon is looking for cheap commercial satellites that can maintain surveillance on other satellites in orbit, including close-range inspections.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/space/2026/02/18/dod-eyes-commercial-satellites-that-can-spy-on-other-satellites/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UTRIMEG44BAO7JOVYA42VQ7SM4.jpg",
+      "published_at": "2026-02-18T03:54:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Asya borsaları, teknoloji hisseleri yapay zeka kaynaklı kayıpların bir kısmını geri alırken yükseldi",
+      "title_tr": "Asya borsaları, teknoloji hisseleri yapay zeka kaynaklı kayıpların bir kısmını geri alırken yükseldi",
+      "summary": "Asya borsaları, teknoloji hisseleri yapay zeka kaynaklı kayıpların bir kısmını geri alırken yükseldi",
+      "summary_tr": "Asya borsaları, teknoloji hisseleri yapay zeka kaynaklı kayıpların bir kısmını geri alırken yükseldi",
+      "long_summary": "Asya borsaları, teknoloji hisseleri yapay zeka kaynaklı kayıpların bir kısmını geri alırken yükseldi",
+      "long_summary_tr": "Asya borsaları, teknoloji hisseleri yapay zeka kaynaklı kayıpların bir kısmını geri alırken yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/asya-borsalar-teknoloji-hisseleri-yapay-zeka-kaynakl-kayplarn-bir-ksmn-geri-alrken-yukseldi-3766845",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-18T03:54:05+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Daly: Fed'in hala enflasyonu düşürmeye ihtiyacı var",
+      "title_tr": "Daly: Fed'in hala enflasyonu düşürmeye ihtiyacı var",
+      "summary": "San Francisco Fed Başkanı Mary Daly, ABD Merkez Bankası’nın (Fed) enflasyonu kalıcı biçimde aşağı çekmesi gerektiğini belirterek, yapay zekanın bu sürece katkı sağlayabileceğini ancak mevcut \"ılımlı d...",
+      "summary_tr": "San Francisco Fed Başkanı Mary Daly, ABD Merkez Bankası’nın (Fed) enflasyonu kalıcı biçimde aşağı çekmesi gerektiğini belirterek, yapay zekanın bu sürece katkı sağlayabileceğini ancak mevcut \"ılımlı d...",
+      "long_summary": "San Francisco Fed Başkanı Mary Daly, ABD Merkez Bankası’nın (Fed) enflasyonu kalıcı biçimde aşağı çekmesi gerektiğini belirterek, yapay zekanın bu sürece katkı sağlayabileceğini ancak mevcut \"ılımlı d...",
+      "long_summary_tr": "San Francisco Fed Başkanı Mary Daly, ABD Merkez Bankası’nın (Fed) enflasyonu kalıcı biçimde aşağı çekmesi gerektiğini belirterek, yapay zekanın bu sürece katkı sağlayabileceğini ancak mevcut \"ılımlı d...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/daly-fed-in-hala-enflasyonu-dusurmeye-ihtiyaci-var-18-02-26?haber_id=699537dd67ad3132ebe0f62e&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771386842363.jpeg",
+      "published_at": "2026-02-18T03:54:05+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Fed/Barr: Faizler bir süre daha sabit tutulmalı",
+      "title_tr": "Fed/Barr: Faizler bir süre daha sabit tutulmalı",
+      "summary": "ABD Merkez Bankası Yönetim Kurulu Üyesi Michael Barr, enflasyon görünümüne ilişkin devam eden riskler nedeniyle yeni bir faiz indiriminin ancak ilerleyen dönemde gündeme gelebileceğini söyledi.",
+      "summary_tr": "ABD Merkez Bankası Yönetim Kurulu Üyesi Michael Barr, enflasyon görünümüne ilişkin devam eden riskler nedeniyle yeni bir faiz indiriminin ancak ilerleyen dönemde gündeme gelebileceğini söyledi.",
+      "long_summary": "ABD Merkez Bankası Yönetim Kurulu Üyesi Michael Barr, enflasyon görünümüne ilişkin devam eden riskler nedeniyle yeni bir faiz indiriminin ancak ilerleyen dönemde gündeme gelebileceğini söyledi.",
+      "long_summary_tr": "ABD Merkez Bankası Yönetim Kurulu Üyesi Michael Barr, enflasyon görünümüne ilişkin devam eden riskler nedeniyle yeni bir faiz indiriminin ancak ilerleyen dönemde gündeme gelebileceğini söyledi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/fed-barr-faizler-bir-sure-daha-sabit-tutulmali-18-02-26?haber_id=699536b267ad3132ebe0f62a&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771386528346.jpeg",
+      "published_at": "2026-02-18T03:49:06+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "The Best Parties at New York Fashion Week Fall/Winter 2026",
+      "title_tr": "The Best Parties at New York Fashion Week Fall/Winter 2026",
+      "summary": "The Best Parties at New York Fashion Week Fall/Winter 2026",
+      "summary_tr": "The Best Parties at New York Fashion Week Fall/Winter 2026",
+      "long_summary": "The Best Parties at New York Fashion Week Fall/Winter 2026",
+      "long_summary_tr": "The Best Parties at New York Fashion Week Fall/Winter 2026",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/elleextra/events/a70289495/nyfw-fall-winter-2026-after-parties-celebs-photos/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a44a1ca2-7ebd-4e62-94c2-1f6371faf682.jpg",
+      "published_at": "2026-02-18T03:48:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "IMF, Japonya’ya faiz artışlarını sürdürme çağrısı yaptı",
+      "title_tr": "IMF, Japonya’ya faiz artışlarını sürdürme çağrısı yaptı",
+      "summary": "Uluslararası Para Fonu (IMF), Japonya’ya faiz artırımlarını sürdürmesi ve mali politikada ilave gevşemeden kaçınması çağrısında bulundu. IMF, tüketim vergisinin düşürülmesinin ülkenin gelecekteki ekon...",
+      "summary_tr": "Uluslararası Para Fonu (IMF), Japonya’ya faiz artırımlarını sürdürmesi ve mali politikada ilave gevşemeden kaçınması çağrısında bulundu. IMF, tüketim vergisinin düşürülmesinin ülkenin gelecekteki ekon...",
+      "long_summary": "Uluslararası Para Fonu (IMF), Japonya’ya faiz artırımlarını sürdürmesi ve mali politikada ilave gevşemeden kaçınması çağrısında bulundu. IMF, tüketim vergisinin düşürülmesinin ülkenin gelecekteki ekon...",
+      "long_summary_tr": "Uluslararası Para Fonu (IMF), Japonya’ya faiz artırımlarını sürdürmesi ve mali politikada ilave gevşemeden kaçınması çağrısında bulundu. IMF, tüketim vergisinin düşürülmesinin ülkenin gelecekteki ekon...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/imf-japonyaya-faiz-artislarini-surdurme-cagrisi-yapti-18-02-26?haber_id=699535422663b328fe327992&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771386174691.jpeg",
+      "published_at": "2026-02-18T03:42:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Lokman Hekim Engürüsağ iki taksitte toplam 100 milyon TL temettü dağıtacak",
+      "title_tr": "Lokman Hekim Engürüsağ iki taksitte toplam 100 milyon TL temettü dağıtacak",
+      "summary": "Lokman Hekim Engürüsağ Sağlık Turizm Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş., 17 Şubat 2026 tarihli yönetim kurulu kararıyla 2025 yılı karından toplam brüt 100.000.000,00 TL nakit kar payı dağıtılmas...",
+      "summary_tr": "Lokman Hekim Engürüsağ Sağlık Turizm Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş., 17 Şubat 2026 tarihli yönetim kurulu kararıyla 2025 yılı karından toplam brüt 100.000.000,00 TL nakit kar payı dağıtılmas...",
+      "long_summary": "Lokman Hekim Engürüsağ Sağlık Turizm Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş., 17 Şubat 2026 tarihli yönetim kurulu kararıyla 2025 yılı karından toplam brüt 100.000.000,00 TL nakit kar payı dağıtılmas...",
+      "long_summary_tr": "Lokman Hekim Engürüsağ Sağlık Turizm Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş., 17 Şubat 2026 tarihli yönetim kurulu kararıyla 2025 yılı karından toplam brüt 100.000.000,00 TL nakit kar payı dağıtılmas...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/lokman-hekim-engurusag-iki-taksitte-toplam-100-milyon-tl-temettu-dagitacak-18-02-26?haber_id=699533c42663b328fe32798f&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771385792373.jpeg",
+      "published_at": "2026-02-18T03:36:36+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Pink Teeth, Prosthetic Horns, and Hair Couture: The Beauty of Evanie Frausto’s Showpony",
+      "title_tr": "Pink Teeth, Prosthetic Horns, and Hair Couture: The Beauty of Evanie Frausto’s Showpony",
+      "summary": "The celebrity hairstylist takes hair to a whole new level in his designer debut.",
+      "summary_tr": "The celebrity hairstylist takes hair to a whole new level in his designer debut.",
+      "long_summary": "The celebrity hairstylist takes hair to a whole new level in his designer debut.",
+      "long_summary_tr": "The celebrity hairstylist takes hair to a whole new level in his designer debut.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/trend-reports/a70394423/showpony-fall-2026-review/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/models-pose-backstage-at-the-showpony-fashion-show-during-news-photo-1771349853.pjpeg",
+      "published_at": "2026-02-18T03:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Selçuk Ezca, 273,24 milyon TL tutarında brüt nakit temettü dağıtacak",
+      "title_tr": "Selçuk Ezca, 273,24 milyon TL tutarında brüt nakit temettü dağıtacak",
+      "summary": "Selçuk Ecza Deposu, 17 Şubat 2026 tarihli Yönetim Kurulu kararıyla 2025 hesap dönemine ilişkin kar payı dağıtım teklifini Genel Kurul’un onayına sunma kararı aldı.Alınan karara göre Selçuk Ezca, 273.2...",
+      "summary_tr": "Selçuk Ecza Deposu, 17 Şubat 2026 tarihli Yönetim Kurulu kararıyla 2025 hesap dönemine ilişkin kar payı dağıtım teklifini Genel Kurul’un onayına sunma kararı aldı.Alınan karara göre Selçuk Ezca, 273.2...",
+      "long_summary": "Selçuk Ecza Deposu, 17 Şubat 2026 tarihli Yönetim Kurulu kararıyla 2025 hesap dönemine ilişkin kar payı dağıtım teklifini Genel Kurul’un onayına sunma kararı aldı.Alınan karara göre Selçuk Ezca, 273.2...",
+      "long_summary_tr": "Selçuk Ecza Deposu, 17 Şubat 2026 tarihli Yönetim Kurulu kararıyla 2025 hesap dönemine ilişkin kar payı dağıtım teklifini Genel Kurul’un onayına sunma kararı aldı.Alınan karara göre Selçuk Ezca, 273.2...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/selcuk-ezca-273-24-milyon-tl-tutarinda-brut-nakit-temettu-dagitacak-18-02-26?haber_id=699532272663b328fe32798c&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771385372628.jpeg",
+      "published_at": "2026-02-18T03:29:43+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Fitch, ABD'de bütçe açıkları konusunda uyardı",
+      "title_tr": "Fitch, ABD'de bütçe açıkları konusunda uyardı",
+      "summary": "Fitch, ABD'de bütçe açıklarının yüksek kalmasının beklendiği konusunda uyardı",
+      "summary_tr": "Fitch, ABD'de bütçe açıklarının yüksek kalmasının beklendiği konusunda uyardı",
+      "long_summary": "Fitch, ABD'de bütçe açıklarının yüksek kalmasının beklendiği konusunda uyardı",
+      "long_summary_tr": "Fitch, ABD'de bütçe açıklarının yüksek kalmasının beklendiği konusunda uyardı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/fitch-abd-de-butce-aciklari-konusunda-uyardi-3769423",
+      "image": null,
+      "published_at": "2026-02-18T03:28:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Teknoloji devleri Nvidia ile Meta, uzun vadeli altyapı işbirliğine gitti",
+      "title_tr": "Teknoloji devleri Nvidia ile Meta, uzun vadeli altyapı işbirliğine gitti",
+      "summary": "ABD'li teknoloji devlerinden Meta, uzun vadeli yapay zeka altyapı yol haritasını ilerletmek üzere Nvidia ile çok yıllık stratejik bir ortaklığa gittiğini duyurdu.",
+      "summary_tr": "ABD'li teknoloji devlerinden Meta, uzun vadeli yapay zeka altyapı yol haritasını ilerletmek üzere Nvidia ile çok yıllık stratejik bir ortaklığa gittiğini duyurdu.",
+      "long_summary": "ABD'li teknoloji devlerinden Meta, uzun vadeli yapay zeka altyapı yol haritasını ilerletmek üzere Nvidia ile çok yıllık stratejik bir ortaklığa gittiğini duyurdu.",
+      "long_summary_tr": "ABD'li teknoloji devlerinden Meta, uzun vadeli yapay zeka altyapı yol haritasını ilerletmek üzere Nvidia ile çok yıllık stratejik bir ortaklığa gittiğini duyurdu.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abdli-teknoloji-devleri-nvidia-ile-meta-uzun-vadeli-altyapi-isbirligine-gitti-3769422",
+      "image": null,
+      "published_at": "2026-02-18T03:22:19+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "9 Fleece-Lined Leggings That Keep Winter Outfits Warm Without the Bulk",
+      "title_tr": "9 Fleece-Lined Leggings That Keep Winter Outfits Warm Without the Bulk",
+      "summary": "There’s a reason they keep going viral on TikTok.",
+      "summary_tr": "There’s a reason they keep going viral on TikTok.",
+      "long_summary": "There’s a reason they keep going viral on TikTok.",
+      "long_summary_tr": "There’s a reason they keep going viral on TikTok.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/shopping/g70287977/best-fleece-lined-leggings-for-women-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/cherifa-is-seen-wearing-a-long-light-grey-shearling-coat-news-photo-1771378670.pjpeg",
+      "published_at": "2026-02-18T03:22:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "TAV Havalimanları iki eşit taksitle toplam 1,31 milyar TL nakit temettü dağıtacak",
+      "title_tr": "TAV Havalimanları iki eşit taksitle toplam 1,31 milyar TL nakit temettü dağıtacak",
+      "summary": "TAV Havalimanları, toplam brüt 1.311.437.953 TL tutarında nakit kar payının iki eşit taksitte ödenmesini Olağan Genel Kurul’un onayına sunma kararı aldığını açıkladı.",
+      "summary_tr": "TAV Havalimanları, toplam brüt 1.311.437.953 TL tutarında nakit kar payının iki eşit taksitte ödenmesini Olağan Genel Kurul’un onayına sunma kararı aldığını açıkladı.",
+      "long_summary": "TAV Havalimanları, toplam brüt 1.311.437.953 TL tutarında nakit kar payının iki eşit taksitte ödenmesini Olağan Genel Kurul’un onayına sunma kararı aldığını açıkladı.",
+      "long_summary_tr": "TAV Havalimanları, toplam brüt 1.311.437.953 TL tutarında nakit kar payının iki eşit taksitte ödenmesini Olağan Genel Kurul’un onayına sunma kararı aldığını açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/tav-havalimanlari-iki-esit-taksitle-toplam-1-31-milyar-tl-nakit-temettu-dagitacak-18-02-26?haber_id=699530002663b328fe327989&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1771384829592.jpeg",
+      "published_at": "2026-02-18T03:20:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Trump, Japonya ile ticaret anlaşması kapsamındaki ilk yatırım projelerini açıkladı",
+      "title_tr": "Trump, Japonya ile ticaret anlaşması kapsamındaki ilk yatırım projelerini açıkladı",
+      "summary": "Trump, Japonya ile varılan ticaret anlaşması kapsamında yapılacak ilk yatırım projelerini duyurdu.",
+      "summary_tr": "Trump, Japonya ile varılan ticaret anlaşması kapsamında yapılacak ilk yatırım projelerini duyurdu.",
+      "long_summary": "Trump, Japonya ile varılan ticaret anlaşması kapsamında yapılacak ilk yatırım projelerini duyurdu.",
+      "long_summary_tr": "Trump, Japonya ile varılan ticaret anlaşması kapsamında yapılacak ilk yatırım projelerini duyurdu.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/trump-japonya-ile-ticaret-anlasmasi-kapsamindaki-ilk-yatirim-projelerini-acikladi-3769421",
+      "image": null,
+      "published_at": "2026-02-18T03:17:23+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Ekonomi ve siyaset gündemi -  18 Şubat 2026",
+      "title_tr": "Ekonomi ve siyaset gündemi -  18 Şubat 2026",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-18-subat-2026-3769420",
+      "image": null,
+      "published_at": "2026-02-18T03:10:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Waymo, robotaksilerinin ’doğrudan’ uzaktan çalışanlar tarafından kontrol edilmediğini söylüyor",
+      "title_tr": "Waymo, robotaksilerinin ’doğrudan’ uzaktan çalışanlar tarafından kontrol edilmediğini söylüyor",
+      "summary": "Waymo, robotaksilerinin ’doğrudan’ uzaktan çalışanlar tarafından kontrol edilmediğini söylüyor",
+      "summary_tr": "Waymo, robotaksilerinin ’doğrudan’ uzaktan çalışanlar tarafından kontrol edilmediğini söylüyor",
+      "long_summary": "Waymo, robotaksilerinin ’doğrudan’ uzaktan çalışanlar tarafından kontrol edilmediğini söylüyor",
+      "long_summary_tr": "Waymo, robotaksilerinin ’doğrudan’ uzaktan çalışanlar tarafından kontrol edilmediğini söylüyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/waymo-robotaksilerinin-dogrudan-uzaktan-calsanlar-tarafndan-kontrol-edilmedigini-soyluyor-3766818",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-18T03:04:59+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Peru's president impeached four months into term",
+      "title_tr": "Peru's president impeached four months into term",
+      "summary": "José Jerí is the third consecutive president to be ousted and the country's seventh since 2016.",
+      "summary_tr": "José Jerí is the third consecutive president to be ousted and the country's seventh since 2016.",
+      "long_summary": "José Jerí is the third consecutive president to be ousted and the country's seventh since 2016.",
+      "long_summary_tr": "José Jerí is the third consecutive president to be ousted and the country's seventh since 2016.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cz7gvdx457vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6d0/live/6d7dd8b0-0c5a-11f1-b5e2-dd58fc65f0f6.jpg",
+      "published_at": "2026-02-18T02:52:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "title_tr": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "summary": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "summary_tr": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "long_summary": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "long_summary_tr": "Suncorp hisseleri doğal afet maliyetleri nedeniyle düşen yarıyıl kârının ardından geriledi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/suncorp-hisseleri-dogal-afet-maliyetleri-nedeniyle-dusen-yaryl-karnn-ardndan-geriledi-3766805",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-02-18T02:32:17+00:00"
     },
     {
       "origin": "turkiye",
@@ -286,820 +1100,6 @@
       "url": "https://www.bbc.com/news/articles/cn5g751pl7lo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/c29b6760-0b36-11f1-9972-d3f265c101c6.jpg",
       "published_at": "2026-02-18T00:20:03+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
-      "title_tr": "Food prices are surging in Russia. Is the war hitting Russians in the pocket?",
-      "summary": "Russia's economy is hanging between stagnation and decline, and ordinary Russians are beginning to feel the pinch.",
-      "summary_tr": "Russia's economy is hanging between stagnation and decline, and ordinary Russians are beginning to feel the pinch.",
-      "long_summary": "Russia's economy is hanging between stagnation and decline, and ordinary Russians are beginning to feel the pinch.",
-      "long_summary_tr": "Russia's economy is hanging between stagnation and decline, and ordinary Russians are beginning to feel the pinch.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c1mjrgkk1m8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e70/live/dc017590-0c31-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-18T00:19:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "SGH ve Steel Dynamics’ten BlueScope’a ’en iyi ve son’ satın alma teklifi",
-      "title_tr": "SGH ve Steel Dynamics’ten BlueScope’a ’en iyi ve son’ satın alma teklifi",
-      "summary": "SGH ve Steel Dynamics’ten BlueScope’a ’en iyi ve son’ satın alma teklifi",
-      "summary_tr": "SGH ve Steel Dynamics’ten BlueScope’a ’en iyi ve son’ satın alma teklifi",
-      "long_summary": "SGH ve Steel Dynamics’ten BlueScope’a ’en iyi ve son’ satın alma teklifi",
-      "long_summary_tr": "SGH ve Steel Dynamics’ten BlueScope’a ’en iyi ve son’ satın alma teklifi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/sgh-ve-steel-dynamicsten-bluescopea-en-iyi-ve-son-satn-alma-teklifi-3766757",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-18T00:17:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Santos’un kârı düşük petrol fiyatları nedeniyle %25 düştü; personel sayısını %10 azaltacak",
-      "title_tr": "Santos’un kârı düşük petrol fiyatları nedeniyle %25 düştü; personel sayısını %10 azaltacak",
-      "summary": "Santos’un kârı düşük petrol fiyatları nedeniyle %25 düştü; personel sayısını %10 azaltacak",
-      "summary_tr": "Santos’un kârı düşük petrol fiyatları nedeniyle %25 düştü; personel sayısını %10 azaltacak",
-      "long_summary": "Santos’un kârı düşük petrol fiyatları nedeniyle %25 düştü; personel sayısını %10 azaltacak",
-      "long_summary_tr": "Santos’un kârı düşük petrol fiyatları nedeniyle %25 düştü; personel sayısını %10 azaltacak",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/santosun-kar-dusuk-petrol-fiyatlar-nedeniyle-25-dustu-personel-saysn-10-azaltacak-3766747",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-18T00:15:15+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
-      "title_tr": "No DNA matches on glove found in Nancy Guthrie case, police say",
-      "summary": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
-      "summary_tr": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
-      "long_summary": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
-      "long_summary_tr": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8004/live/aefcd7a0-0c32-11f1-aea9-35917f4e91eb.jpg",
-      "published_at": "2026-02-18T00:14:44+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
-      "title_tr": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
-      "summary": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog.",
-      "summary_tr": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog.",
-      "long_summary": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog.",
-      "long_summary_tr": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8611/live/5895d6b0-0c5e-11f1-ab36-eb9abcfc18cf.jpg",
-      "published_at": "2026-02-18T00:12:01+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Historic trade deals put India on global stage - but challenges remain",
-      "title_tr": "Historic trade deals put India on global stage - but challenges remain",
-      "summary": "India has signed a string of trade deals recently, but export growth will require deeper reforms, say experts.",
-      "summary_tr": "India has signed a string of trade deals recently, but export growth will require deeper reforms, say experts.",
-      "long_summary": "India has signed a string of trade deals recently, but export growth will require deeper reforms, say experts.",
-      "long_summary_tr": "India has signed a string of trade deals recently, but export growth will require deeper reforms, say experts.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cp81kw4pzd2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2b/live/92a1ee50-0a85-11f1-8b85-1da9bd0ede97.jpg",
-      "published_at": "2026-02-18T00:02:20+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Autocar",
-      "title": "Kia K4",
-      "title_tr": "Kia K4",
-      "summary": "Kia shows Ford, Renault et al that you can launch a rounded petrol hatchback in 2026\n\nWhere in the world a car manufacturer chooses to assemble its models can have enormous significance. With various tariffs, grants and popular opinion dependent on a car’s place of origin, it can really decide its fortunes. It also says something about the centre of gravity of a car maker’s model range.Kia’s European factory in Zilina, Slovakia, was chosen to produce the Ceed (with and without apostrophe), the hatch designed specifically for Europe. But now Ceed production has come to an end, and replacing it in Slovakia is not another petrol-engined hatch but an electric one, the EV4.That doesn’t mean Kia is giving up on the conventional hatch; it is simply turning it into a more global product. Kia is rolling the Ceed and its international siblings, the Forte and the Cerato, into one car, the new Kia K4, which is produced in Pesqueria, Mexico, for the whole world. But it does suggest that for Europe, at least, EVs are where it’s at.Having said all that, Kia clearly isn’t planning on repeating Ford’s ill-fated ‘world car’ experiment, so it insists there’s strong market-specific tuning, and indeed there are some interesting technical differences to note, with different powertrain and bodystyle line-ups for each region.That includes a refreshingly basic specification of a 1.0-litre engine with a manual gearbox, which we have put through the full road test procedure.",
-      "summary_tr": "Kia shows Ford, Renault et al that you can launch a rounded petrol hatchback in 2026\n\nWhere in the world a car manufacturer chooses to assemble its models can have enormous significance. With various tariffs, grants and popular opinion dependent on a car’s place of origin, it can really decide its fortunes. It also says something about the centre of gravity of a car maker’s model range.Kia’s European factory in Zilina, Slovakia, was chosen to produce the Ceed (with and without apostrophe), the hatch designed specifically for Europe. But now Ceed production has come to an end, and replacing it in Slovakia is not another petrol-engined hatch but an electric one, the EV4.That doesn’t mean Kia is giving up on the conventional hatch; it is simply turning it into a more global product. Kia is rolling the Ceed and its international siblings, the Forte and the Cerato, into one car, the new Kia K4, which is produced in Pesqueria, Mexico, for the whole world. But it does suggest that for Europe, at least, EVs are where it’s at.Having said all that, Kia clearly isn’t planning on repeating Ford’s ill-fated ‘world car’ experiment, so it insists there’s strong market-specific tuning, and indeed there are some interesting technical differences to note, with different powertrain and bodystyle line-ups for each region.That includes a refreshingly basic specification of a 1.0-litre engine with a manual gearbox, which we have put through the full road test procedure.",
-      "long_summary": "Kia shows Ford, Renault et al that you can launch a rounded petrol hatchback in 2026\n\nWhere in the world a car manufacturer chooses to assemble its models can have enormous significance. With various tariffs, grants and popular opinion dependent on a car’s place of origin, it can really decide its fortunes. It also says something about the centre of gravity of a car maker’s model range.Kia’s European factory in Zilina, Slovakia, was chosen to produce the Ceed (with and without apostrophe), the",
-      "long_summary_tr": "Kia shows Ford, Renault et al that you can launch a rounded petrol hatchback in 2026\n\nWhere in the world a car manufacturer chooses to assemble its models can have enormous significance. With various tariffs, grants and popular opinion dependent on a car’s place of origin, it can really decide its fortunes. It also says something about the centre of gravity of a car maker’s model range.Kia’s European factory in Zilina, Slovakia, was chosen to produce the Ceed (with and without apostrophe), the",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://www.autocar.co.uk/car-review/kia/k4",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/kia-k4-review-2026-026.jpg?itok=95Ns6N4X",
-      "published_at": "2026-02-18T00:01:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Wolfenstein 3 Can’t Pull Its Punches Like Youngblood",
-      "title_tr": "Wolfenstein 3 Can’t Pull Its Punches Like Youngblood",
-      "summary": "Wolfenstein: Youngblood was one sour batch of sauerkraut. Marinated in a noxious and ill-fitting live-service-adjacent brine, this troubled spin-off (and the mediocre virtual reality title it launched alongside) left a bad taste that has lingered for almost seven years. Developer MachineGames’ adventures with another famous Nazi-killer and increasingly longer AAA development cycles have meant Youngblood’s aftertaste has stuck around longer than it should have.This drought is reportedly almost over, though, since reports forecast the streets will once again run red with Nazi blood sometime soon in a new Wolfenstein game, further backing up light teases from the MachineGames team itself. There’s a lot riding on Wolfenstein 3: a game that has to meet the moment in more ways than one--and can’t follow in Youngblood’s footsteps.Wolfenstein: Youngblood is the fourth entry in MachineGames’ alt-history Wolfenstein series and sets the franchise in the 1980s. But instead of controlling longtime series hero B.J. Blazkowicz in a single-player adventure, Youngblood puts players in the power armor of his twin daughters, Jess and Zofia, and, to its downfall, focuses more on co-op and RPG mechanics.Continue Reading at GameSpot",
-      "summary_tr": "Wolfenstein: Youngblood was one sour batch of sauerkraut. Marinated in a noxious and ill-fitting live-service-adjacent brine, this troubled spin-off (and the mediocre virtual reality title it launched alongside) left a bad taste that has lingered for almost seven years. Developer MachineGames’ adventures with another famous Nazi-killer and increasingly longer AAA development cycles have meant Youngblood’s aftertaste has stuck around longer than it should have.This drought is reportedly almost over, though, since reports forecast the streets will once again run red with Nazi blood sometime soon in a new Wolfenstein game, further backing up light teases from the MachineGames team itself. There’s a lot riding on Wolfenstein 3: a game that has to meet the moment in more ways than one--and can’t follow in Youngblood’s footsteps.Wolfenstein: Youngblood is the fourth entry in MachineGames’ alt-history Wolfenstein series and sets the franchise in the 1980s. But instead of controlling longtime series hero B.J. Blazkowicz in a single-player adventure, Youngblood puts players in the power armor of his twin daughters, Jess and Zofia, and, to its downfall, focuses more on co-op and RPG mechanics.Continue Reading at GameSpot",
-      "long_summary": "Wolfenstein: Youngblood was one sour batch of sauerkraut. Marinated in a noxious and ill-fitting live-service-adjacent brine, this troubled spin-off (and the mediocre virtual reality title it launched alongside) left a bad taste that has lingered for almost seven years. Developer MachineGames’ adventures with another famous Nazi-killer and increasingly longer AAA development cycles have meant Youngblood’s aftertaste has stuck around longer than it should have.This drought is reportedly almost",
-      "long_summary_tr": "Wolfenstein: Youngblood was one sour batch of sauerkraut. Marinated in a noxious and ill-fitting live-service-adjacent brine, this troubled spin-off (and the mediocre virtual reality title it launched alongside) left a bad taste that has lingered for almost seven years. Developer MachineGames’ adventures with another famous Nazi-killer and increasingly longer AAA development cycles have meant Youngblood’s aftertaste has stuck around longer than it should have.This drought is reportedly almost",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/wolfenstein-3-cant-pull-its-punches-like-youngblood/1100-6538235/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1639/16394322/4652981-diablo4skovos.jpg",
-      "published_at": "2026-02-17T23:27:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "NVIDIA, Applied Digital’daki hisselerini sattıktan sonra şirket hisseleri düştü",
-      "title_tr": "NVIDIA, Applied Digital’daki hisselerini sattıktan sonra şirket hisseleri düştü",
-      "summary": "NVIDIA, Applied Digital’daki hisselerini sattıktan sonra şirket hisseleri düştü",
-      "summary_tr": "NVIDIA, Applied Digital’daki hisselerini sattıktan sonra şirket hisseleri düştü",
-      "long_summary": "NVIDIA, Applied Digital’daki hisselerini sattıktan sonra şirket hisseleri düştü",
-      "long_summary_tr": "NVIDIA, Applied Digital’daki hisselerini sattıktan sonra şirket hisseleri düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/nvidia-applied-digitaldaki-hisselerini-sattktan-sonra-sirket-hisseleri-dustu-93CH-3766720",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-17T23:06:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "This TMNT Magic Card Is a Dream for Artifact Creature Decks - Like Warhammer 40K's Necron Dynasties",
-      "title_tr": "This TMNT Magic Card Is a Dream for Artifact Creature Decks - Like Warhammer 40K's Necron Dynasties",
-      "summary": "Krang, Utrom Warlord might be the last thing your playgroup sees - here's why it could be particularly good with the Necron Dynasties deck.",
-      "summary_tr": "Krang, Utrom Warlord might be the last thing your playgroup sees - here's why it could be particularly good with the Necron Dynasties deck.",
-      "long_summary": "Krang, Utrom Warlord might be the last thing your playgroup sees - here's why it could be particularly good with the Necron Dynasties deck.",
-      "long_summary_tr": "Krang, Utrom Warlord might be the last thing your playgroup sees - here's why it could be particularly good with the Necron Dynasties deck.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/tmnt-magic-card-is-a-dream-for-artifact-creature-decks-like-warhammer-40ks-necron-dynasties",
-      "image": "https://assets-prd.ignimgs.com/2026/02/16/krang-header-1771273833829.jpg",
-      "published_at": "2026-02-17T23:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Ronda Rousey vs. Gina Carano Sets May Date for Live Netflix MMA Event",
-      "title_tr": "Ronda Rousey vs. Gina Carano Sets May Date for Live Netflix MMA Event",
-      "summary": "Netflix has announced its first live MMA event will see Ronda Rousey enter the ring against Gina Carano.",
-      "summary_tr": "Netflix has announced its first live MMA event will see Ronda Rousey enter the ring against Gina Carano.",
-      "long_summary": "Netflix has announced its first live MMA event will see Ronda Rousey enter the ring against Gina Carano.",
-      "long_summary_tr": "Netflix has announced its first live MMA event will see Ronda Rousey enter the ring against Gina Carano.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/ronda-rousey-vs-gina-carano-sets-may-date-for-live-netflix-mma-event",
-      "image": "https://assets-prd.ignimgs.com/2026/02/17/rousey-vs-carano-1771366185611.png",
-      "published_at": "2026-02-17T22:57:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Nakai tops women's short program for Japan",
-      "title_tr": "Nakai tops women's short program for Japan",
-      "summary": "JJapan's Ami Nakai leads the women's singles figure skating competition after the short program at the Winter Olympics.",
-      "summary_tr": "JJapan's Ami Nakai leads the women's singles figure skating competition after the short program at the Winter Olympics.",
-      "long_summary": "JJapan's Ami Nakai leads the women's singles figure skating competition after the short program at the Winter Olympics.",
-      "long_summary_tr": "JJapan's Ami Nakai leads the women's singles figure skating competition after the short program at the Winter Olympics.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/videos/c23z45p5gg2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/585a0730-0c53-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-17T22:47:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Watch: Dundee United edge out Spartans in Scottish Cup",
-      "title_tr": "Watch: Dundee United edge out Spartans in Scottish Cup",
-      "summary": "Watch as Dundee United survive an early red card - and a late comeback from League 2 visitors Spartans - to win 2-1 and set up a Scottish Cup quarter-final away to Premiership rivals Falkirk.",
-      "summary_tr": "Watch as Dundee United survive an early red card - and a late comeback from League 2 visitors Spartans - to win 2-1 and set up a Scottish Cup quarter-final away to Premiership rivals Falkirk.",
-      "long_summary": "Watch as Dundee United survive an early red card - and a late comeback from League 2 visitors Spartans - to win 2-1 and set up a Scottish Cup quarter-final away to Premiership rivals Falkirk.",
-      "long_summary_tr": "Watch as Dundee United survive an early red card - and a late comeback from League 2 visitors Spartans - to win 2-1 and set up a Scottish Cup quarter-final away to Premiership rivals Falkirk.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/c1d641qk5geo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f681/live/0dc630a0-0c52-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-17T22:43:44+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "World of Warcraft Now Has a Zillow for Player Housing",
-      "title_tr": "World of Warcraft Now Has a Zillow for Player Housing",
-      "summary": "Blizzard has partnered with real estate website Zillow to create Zillow for Warcraft, a goofy Zillow-like website intended to promote the game's new player housing feature with humor, information, and a free in-game item.",
-      "summary_tr": "Blizzard has partnered with real estate website Zillow to create Zillow for Warcraft, a goofy Zillow-like website intended to promote the game's new player housing feature with humor, information, and a free in-game item.",
-      "long_summary": "Blizzard has partnered with real estate website Zillow to create Zillow for Warcraft, a goofy Zillow-like website intended to promote the game's new player housing feature with humor, information, and a free in-game item.",
-      "long_summary_tr": "Blizzard has partnered with real estate website Zillow to create Zillow for Warcraft, a goofy Zillow-like website intended to promote the game's new player housing feature with humor, information, and a free in-game item.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/world-of-warcraft-now-has-a-zillow-for-player-housing",
-      "image": "https://assets-prd.ignimgs.com/2025/12/04/wowscrnshot-120425-150753-1764883655299.jpg",
-      "published_at": "2026-02-17T22:39:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Rolls-Royce America, Merkava kitleri için 73,5 milyon dolarlık sözleşme aldı",
-      "title_tr": "Rolls-Royce America, Merkava kitleri için 73,5 milyon dolarlık sözleşme aldı",
-      "summary": "Rolls-Royce America, Merkava kitleri için 73,5 milyon dolarlık sözleşme aldı",
-      "summary_tr": "Rolls-Royce America, Merkava kitleri için 73,5 milyon dolarlık sözleşme aldı",
-      "long_summary": "Rolls-Royce America, Merkava kitleri için 73,5 milyon dolarlık sözleşme aldı",
-      "long_summary_tr": "Rolls-Royce America, Merkava kitleri için 73,5 milyon dolarlık sözleşme aldı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/rollsroyce-america-merkava-kitleri-icin-735-milyon-dolarlk-sozlesme-ald-93CH-3766701",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-17T22:33:27+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Ovintiv hisseleri 3 milyar dolarlık Anadarko varlıkları satışı sonrası yükseldi",
-      "title_tr": "Ovintiv hisseleri 3 milyar dolarlık Anadarko varlıkları satışı sonrası yükseldi",
-      "summary": "Ovintiv hisseleri 3 milyar dolarlık Anadarko varlıkları satışı sonrası yükseldi",
-      "summary_tr": "Ovintiv hisseleri 3 milyar dolarlık Anadarko varlıkları satışı sonrası yükseldi",
-      "long_summary": "Ovintiv hisseleri 3 milyar dolarlık Anadarko varlıkları satışı sonrası yükseldi",
-      "long_summary_tr": "Ovintiv hisseleri 3 milyar dolarlık Anadarko varlıkları satışı sonrası yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/ovintiv-hisseleri-3-milyar-dolarlk-anadarko-varlklar-sats-sonras-yukseldi-93CH-3766700",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-17T22:28:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "SGH ve Steel Dynamics, BlueScope Steel teklifini 11 milyar dolara yükseltti",
-      "title_tr": "SGH ve Steel Dynamics, BlueScope Steel teklifini 11 milyar dolara yükseltti",
-      "summary": "SGH ve Steel Dynamics, BlueScope Steel teklifini 11 milyar dolara yükseltti",
-      "summary_tr": "SGH ve Steel Dynamics, BlueScope Steel teklifini 11 milyar dolara yükseltti",
-      "long_summary": "SGH ve Steel Dynamics, BlueScope Steel teklifini 11 milyar dolara yükseltti",
-      "long_summary_tr": "SGH ve Steel Dynamics, BlueScope Steel teklifini 11 milyar dolara yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/sgh-ve-steel-dynamics-bluescope-steel-teklifini-11-milyar-dolara-yukseltti-93CH-3766695",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-17T22:19:12+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Absolutely stunning!' Norway's Frostad wins 'best big air final of all-time'",
-      "title_tr": "'Absolutely stunning!' Norway's Frostad wins 'best big air final of all-time'",
-      "summary": "Austria's Matej Svancer, USA's Mac Forehand, and Norway's Tormod Frostad compete for the medals with the final three runs of a spectacular men's freestyle skiing big air final.",
-      "summary_tr": "Austria's Matej Svancer, USA's Mac Forehand, and Norway's Tormod Frostad compete for the medals with the final three runs of a spectacular men's freestyle skiing big air final.",
-      "long_summary": "Austria's Matej Svancer, USA's Mac Forehand, and Norway's Tormod Frostad compete for the medals with the final three runs of a spectacular men's freestyle skiing big air final.",
-      "long_summary_tr": "Austria's Matej Svancer, USA's Mac Forehand, and Norway's Tormod Frostad compete for the medals with the final three runs of a spectacular men's freestyle skiing big air final.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/videos/c743kg8v0gro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9798/live/fe98a360-0c4c-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-17T22:14:40+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Nakai, 17, tops women's short program as Japan dominate",
-      "title_tr": "Nakai, 17, tops women's short program as Japan dominate",
-      "summary": "Japan dominate the short program in the women's figure skating at Milan-Cortina 2026 with their athletes occupying three of the top four places following the short program.",
-      "summary_tr": "Japan dominate the short program in the women's figure skating at Milan-Cortina 2026 with their athletes occupying three of the top four places following the short program.",
-      "long_summary": "Japan dominate the short program in the women's figure skating at Milan-Cortina 2026 with their athletes occupying three of the top four places following the short program.",
-      "long_summary_tr": "Japan dominate the short program in the women's figure skating at Milan-Cortina 2026 with their athletes occupying three of the top four places following the short program.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/cy8g3je5y80o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1b/live/40d815e0-0c56-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-17T22:10:38+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Trinidad & Tobago seal 'operation don't finish last'",
-      "title_tr": "Trinidad & Tobago seal 'operation don't finish last'",
-      "summary": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
-      "summary_tr": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
-      "long_summary": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
-      "long_summary_tr": "Trinidad and Tobago's bobsleigh team say it is \"mission accomplished\" in their 'operation don't come last' as they finished 25th out of 26 in the Olympic two-man event.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/cedzlee6j9yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0b6/live/4fd9b0f0-0c36-11f1-ae8f-ede6faf9bf6e.jpg",
-      "published_at": "2026-02-17T22:09:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "New York borsası yükselişle kapandı",
-      "title_tr": "New York borsası yükselişle kapandı",
-      "summary": "New York borsası günü sınırlı bir yükselişle tamamladı. Kapanışta Dow Jones endeksi yüzde 0,07 artarak 49.533,19 puana çıktı. S&amp;P 500 endeksi yüzde 0,10 artışla 6.843,22 puana ve Nasdaq endeksi yüzde 0,14 artışla 22.578,38 puana tırmandı.",
-      "summary_tr": "New York borsası günü sınırlı bir yükselişle tamamladı. Kapanışta Dow Jones endeksi yüzde 0,07 artarak 49.533,19 puana çıktı. S&amp;P 500 endeksi yüzde 0,10 artışla 6.843,22 puana ve Nasdaq endeksi yüzde 0,14 artışla 22.578,38 puana tırmandı.",
-      "long_summary": "New York borsası günü sınırlı bir yükselişle tamamladı. Kapanışta Dow Jones endeksi yüzde 0,07 artarak 49.533,19 puana çıktı. S&amp;P 500 endeksi yüzde 0,10 artışla 6.843,22 puana ve Nasdaq endeksi yüzde 0,14 artışla 22.578,38 puana tırmandı.",
-      "long_summary_tr": "New York borsası günü sınırlı bir yükselişle tamamladı. Kapanışta Dow Jones endeksi yüzde 0,07 artarak 49.533,19 puana çıktı. S&amp;P 500 endeksi yüzde 0,10 artışla 6.843,22 puana ve Nasdaq endeksi yüzde 0,14 artışla 22.578,38 puana tırmandı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-kapandi-haberi-815424",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/18/new-cews_cover.jpg",
-      "published_at": "2026-02-17T22:08:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Michelle Dockery and Jasper-Waller Bridge’s Complete Relationship Timeline",
-      "title_tr": "Michelle Dockery and Jasper-Waller Bridge’s Complete Relationship Timeline",
-      "summary": "Michelle Dockery and Jasper-Waller Bridge’s Complete Relationship Timeline",
-      "summary_tr": "Michelle Dockery and Jasper-Waller Bridge’s Complete Relationship Timeline",
-      "long_summary": "Michelle Dockery and Jasper-Waller Bridge’s Complete Relationship Timeline",
-      "long_summary_tr": "Michelle Dockery and Jasper-Waller Bridge’s Complete Relationship Timeline",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a63308895/michelle-dockery-jasper-waller-bridge-relationship-timeline/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2233570764-68bdd42166db9.jpg",
-      "published_at": "2026-02-17T22:03:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Grace Van Patten and Jackson White’s Complete Relationship Timeline",
-      "title_tr": "Grace Van Patten and Jackson White’s Complete Relationship Timeline",
-      "summary": "Grace Van Patten and Jackson White’s Complete Relationship Timeline",
-      "summary_tr": "Grace Van Patten and Jackson White’s Complete Relationship Timeline",
-      "long_summary": "Grace Van Patten and Jackson White’s Complete Relationship Timeline",
-      "long_summary_tr": "Grace Van Patten and Jackson White’s Complete Relationship Timeline",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a62446700/grace-van-patten-jackson-white-relationship-timeline/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/jackson-white-and-grace-van-patten-attend-the-2025-academy-news-photo-1760903785.pjpeg",
-      "published_at": "2026-02-17T21:57:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "The Full Cut of Kill Bill: The Whole Bloody Affair Is Now Available to Watch at Home",
-      "title_tr": "The Full Cut of Kill Bill: The Whole Bloody Affair Is Now Available to Watch at Home",
-      "summary": "You can now buy Kill Bill in its original form on digital.",
-      "summary_tr": "You can now buy Kill Bill in its original form on digital.",
-      "long_summary": "You can now buy Kill Bill in its original form on digital.",
-      "long_summary_tr": "You can now buy Kill Bill in its original form on digital.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/kill-bill-the-whole-bloody-affair-streaming",
-      "image": "https://assets-prd.ignimgs.com/2025/11/21/kill-bill-thumb-1763689964653.jpg",
-      "published_at": "2026-02-17T21:56:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Yargıtay'dan ehliyetsiz sürücü kararı: Sürücünün ehliyeti olmasa da aracına çarpan tazminat öder",
-      "title_tr": "Yargıtay'dan ehliyetsiz sürücü kararı: Sürücünün ehliyeti olmasa da aracına çarpan tazminat öder",
-      "summary": "Yargıtay 4. Hukuk Dairesi, sürücü ehliyetsiz olsa bile, aracına hasar verenden tazminat isteyebileceğine hükmetti.",
-      "summary_tr": "Yargıtay 4. Hukuk Dairesi, sürücü ehliyetsiz olsa bile, aracına hasar verenden tazminat isteyebileceğine hükmetti.",
-      "long_summary": "Yargıtay 4. Hukuk Dairesi, sürücü ehliyetsiz olsa bile, aracına hasar verenden tazminat isteyebileceğine hükmetti.",
-      "long_summary_tr": "Yargıtay 4. Hukuk Dairesi, sürücü ehliyetsiz olsa bile, aracına hasar verenden tazminat isteyebileceğine hükmetti.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/yargitaydan-ehliyetsiz-surucu-karari-surucunun-ehliyeti-olmasa-da-aracina-carpan-tazminat-oder-1712405",
-      "image": "https://images.ntv.com.tr/images/ehliyet-sınavı-752614.jpg",
-      "published_at": "2026-02-17T21:52:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Aydın'da taşkın alarmı: Söke'de dere kenarındaki evler tahliye edildi",
-      "title_tr": "Aydın'da taşkın alarmı: Söke'de dere kenarındaki evler tahliye edildi",
-      "summary": "Aydın'ın Söke ilçesinde etkili olan sağanak yağışın ardından Kızılkilise Deresi'nde su seviyesi kritik noktaya ulaştı. Taşkın riskinin artması üzerine dere kenarında bulunan evler tahliye edildi.",
-      "summary_tr": "Aydın'ın Söke ilçesinde etkili olan sağanak yağışın ardından Kızılkilise Deresi'nde su seviyesi kritik noktaya ulaştı. Taşkın riskinin artması üzerine dere kenarında bulunan evler tahliye edildi.",
-      "long_summary": "Aydın'ın Söke ilçesinde etkili olan sağanak yağışın ardından Kızılkilise Deresi'nde su seviyesi kritik noktaya ulaştı. Taşkın riskinin artması üzerine dere kenarında bulunan evler tahliye edildi.",
-      "long_summary_tr": "Aydın'ın Söke ilçesinde etkili olan sağanak yağışın ardından Kızılkilise Deresi'nde su seviyesi kritik noktaya ulaştı. Taşkın riskinin artması üzerine dere kenarında bulunan evler tahliye edildi.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/aydinda-taskin-alarmi-sokede-dere-kenarindaki-evler-tahliye-edildi-1712408",
-      "image": "https://images.ntv.com.tr/images/AW644244_05-439444.jpg",
-      "published_at": "2026-02-17T21:48:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Tencent Was Quietly Backing Highguard Studio, According to Report",
-      "title_tr": "Tencent Was Quietly Backing Highguard Studio, According to Report",
-      "summary": "Highguard, the free-to-play PvP \"raid shooter\" announced at The Game Awards last year and released to preemptive criticism and mockery only for most of its developers to be laid off just weeks after launch, was apparently financially backed by Tencent, according to a report.",
-      "summary_tr": "Highguard, the free-to-play PvP \"raid shooter\" announced at The Game Awards last year and released to preemptive criticism and mockery only for most of its developers to be laid off just weeks after launch, was apparently financially backed by Tencent, according to a report.",
-      "long_summary": "Highguard, the free-to-play PvP \"raid shooter\" announced at The Game Awards last year and released to preemptive criticism and mockery only for most of its developers to be laid off just weeks after launch, was apparently financially backed by Tencent, according to a report.",
-      "long_summary_tr": "Highguard, the free-to-play PvP \"raid shooter\" announced at The Game Awards last year and released to preemptive criticism and mockery only for most of its developers to be laid off just weeks after launch, was apparently financially backed by Tencent, according to a report.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/tencent-was-quietly-backing-highguard-studio-according-to-report",
-      "image": "https://assets-prd.ignimgs.com/2026/01/27/hg-screenshot-13-1769511429882.png",
-      "published_at": "2026-02-17T21:42:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Otoparktaki soygunda yeni ayrıntılar. Sitenin kayıtları silinmiş",
-      "title_tr": "Otoparktaki soygunda yeni ayrıntılar. Sitenin kayıtları silinmiş",
-      "summary": "Bakırköy'de, site otoparkındaki 2 araçtan 30 milyon dolar çalındığı iddiasına ilişkin 3 ilde düzenlenen operasyonda gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
-      "summary_tr": "Bakırköy'de, site otoparkındaki 2 araçtan 30 milyon dolar çalındığı iddiasına ilişkin 3 ilde düzenlenen operasyonda gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
-      "long_summary": "Bakırköy'de, site otoparkındaki 2 araçtan 30 milyon dolar çalındığı iddiasına ilişkin 3 ilde düzenlenen operasyonda gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
-      "long_summary_tr": "Bakırköy'de, site otoparkındaki 2 araçtan 30 milyon dolar çalındığı iddiasına ilişkin 3 ilde düzenlenen operasyonda gözaltına alınan 11 şüpheliden 9'u tutuklandı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/otoparktaki-30-milyon-dolarlik-soygun-9-supheli-icin-tutuklama-talebi-1712384",
-      "image": "https://images.ntv.com.tr/images/otoparksoygun-100344(3).jpg",
-      "published_at": "2026-02-17T21:41:27+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Vinicius Jr accuses 'coward' Prestianni of racist remark after Benfica-Real halted",
-      "title_tr": "Vinicius Jr accuses 'coward' Prestianni of racist remark after Benfica-Real halted",
-      "summary": "Real Madrid's Champions League knockout play-off tie at Benfica was halted for 10 minutes after Vinicius Jr initially refused to play on following a comment made to him by Benfica's Gianluca Prestianni.",
-      "summary_tr": "Real Madrid's Champions League knockout play-off tie at Benfica was halted for 10 minutes after Vinicius Jr initially refused to play on following a comment made to him by Benfica's Gianluca Prestianni.",
-      "long_summary": "Real Madrid's Champions League knockout play-off tie at Benfica was halted for 10 minutes after Vinicius Jr initially refused to play on following a comment made to him by Benfica's Gianluca Prestianni.",
-      "long_summary_tr": "Real Madrid's Champions League knockout play-off tie at Benfica was halted for 10 minutes after Vinicius Jr initially refused to play on following a comment made to him by Benfica's Gianluca Prestianni.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13508766/benfica-vs-real-madrid-delayed-for-10-minutes-after-vinicius-jr-incident-with-gianluca-prestianni",
-      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-vinicius-jnr-real-madrid_7167711.jpg?20260217214852",
-      "published_at": "2026-02-17T21:41:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "No date for Woods return but Masters 'not off the table'",
-      "title_tr": "No date for Woods return but Masters 'not off the table'",
-      "summary": "Tiger Woods says competing at this year's Masters is \"not off the table\" but the 15-time major champion still has no timetable for his return.",
-      "summary_tr": "Tiger Woods says competing at this year's Masters is \"not off the table\" but the 15-time major champion still has no timetable for his return.",
-      "long_summary": "Tiger Woods says competing at this year's Masters is \"not off the table\" but the 15-time major champion still has no timetable for his return.",
-      "long_summary_tr": "Tiger Woods says competing at this year's Masters is \"not off the table\" but the 15-time major champion still has no timetable for his return.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/golf/articles/ceqvjd0npreo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cce/live/5b407130-0c46-11f1-b8ba-135d136c986f.jpg",
-      "published_at": "2026-02-17T21:39:24+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Iran says 'guiding principles' agreed with US at nuclear talks",
-      "title_tr": "Iran says 'guiding principles' agreed with US at nuclear talks",
-      "summary": "Tehran also says more work is needed to get a deal - the US is yet to comment on the issue.",
-      "summary_tr": "Tehran also says more work is needed to get a deal - the US is yet to comment on the issue.",
-      "long_summary": "Tehran also says more work is needed to get a deal - the US is yet to comment on the issue.",
-      "long_summary_tr": "Tehran also says more work is needed to get a deal - the US is yet to comment on the issue.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cwyknjnd706o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec3/live/b50ab7a0-0be9-11f1-8d90-772c0d7aea09.png",
-      "published_at": "2026-02-17T21:38:33+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "ABD Ticaret Temsilcisi Greer: Çelik ve alüminyum tarifelerinde düzenleme yapılabilir",
-      "title_tr": "ABD Ticaret Temsilcisi Greer: Çelik ve alüminyum tarifelerinde düzenleme yapılabilir",
-      "summary": "ABD Ticaret Temsilcisi Jamieson Greer, çelik ve alüminyum tarifelerinde uyumluluğu sağlamak amacıyla bazı düzenlemeler yapılabileceğini, ancak söz konusu tarifelerin yürürlükte kalmaya devam edeceğini söyledi.",
-      "summary_tr": "ABD Ticaret Temsilcisi Jamieson Greer, çelik ve alüminyum tarifelerinde uyumluluğu sağlamak amacıyla bazı düzenlemeler yapılabileceğini, ancak söz konusu tarifelerin yürürlükte kalmaya devam edeceğini söyledi.",
-      "long_summary": "ABD Ticaret Temsilcisi Jamieson Greer, çelik ve alüminyum tarifelerinde uyumluluğu sağlamak amacıyla bazı düzenlemeler yapılabileceğini, ancak söz konusu tarifelerin yürürlükte kalmaya devam edeceğini söyledi.",
-      "long_summary_tr": "ABD Ticaret Temsilcisi Jamieson Greer, çelik ve alüminyum tarifelerinde uyumluluğu sağlamak amacıyla bazı düzenlemeler yapılabileceğini, ancak söz konusu tarifelerin yürürlükte kalmaya devam edeceğini söyledi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/abd-ticaret-temsilcisi-greer-celik-ve-aluminyum-tarifelerinde-duzenleme-yapilabilir-3769419",
-      "image": null,
-      "published_at": "2026-02-17T21:35:15+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "A Couple invited Sony To Their Wedding, And Got A Gift In Return",
-      "title_tr": "A Couple invited Sony To Their Wedding, And Got A Gift In Return",
-      "summary": "Somewhere, there's a gaming couple on their way to the altar with the blessing of PlayStation. The future bride and groom apparently sent an invitation to Sony to attend their wedding and in return received a handwritten note of congratulations as well as a few game codes.The couple shared their gifts online and it quickly went viral. The note Sony sent them was also visible in the video, and it reads, \"Aidan and Kirsten, congratulations on your marriage!\" A printed message below that line states, \"Congratulations and thank you for playing with us.\"A couple went viral after inviting Sony to their wedding and receiving a handwritten congratulatory card.The gift package included titles like Marvel’s Spider-Man 2 and Horizon Call of the Mountain, plus a Fortnite bundle code. pic.twitter.com/dkF405ipZv  — QNDZY (@QNDZYcom) February 15, 2026              As noted in the post above, the game codes were for Spider-Man 2, Horizon: Call of the Mountain, and a Fortnite bundle. The first and third titles are playable on any PlayStation 5, but the happy couple will need to pick up a PSVR2 to play Call of the Mountain.Continue Reading at GameSpot",
-      "summary_tr": "Somewhere, there's a gaming couple on their way to the altar with the blessing of PlayStation. The future bride and groom apparently sent an invitation to Sony to attend their wedding and in return received a handwritten note of congratulations as well as a few game codes.The couple shared their gifts online and it quickly went viral. The note Sony sent them was also visible in the video, and it reads, \"Aidan and Kirsten, congratulations on your marriage!\" A printed message below that line states, \"Congratulations and thank you for playing with us.\"A couple went viral after inviting Sony to their wedding and receiving a handwritten congratulatory card.The gift package included titles like Marvel’s Spider-Man 2 and Horizon Call of the Mountain, plus a Fortnite bundle code. pic.twitter.com/dkF405ipZv  — QNDZY (@QNDZYcom) February 15, 2026              As noted in the post above, the game codes were for Spider-Man 2, Horizon: Call of the Mountain, and a Fortnite bundle. The first and third titles are playable on any PlayStation 5, but the happy couple will need to pick up a PSVR2 to play Call of the Mountain.Continue Reading at GameSpot",
-      "long_summary": "Somewhere, there's a gaming couple on their way to the altar with the blessing of PlayStation. The future bride and groom apparently sent an invitation to Sony to attend their wedding and in return received a handwritten note of congratulations as well as a few game codes.The couple shared their gifts online and it quickly went viral. The note Sony sent them was also visible in the video, and it reads, \"Aidan and Kirsten, congratulations on your marriage!\" A printed message below that line",
-      "long_summary_tr": "Somewhere, there's a gaming couple on their way to the altar with the blessing of PlayStation. The future bride and groom apparently sent an invitation to Sony to attend their wedding and in return received a handwritten note of congratulations as well as a few game codes.The couple shared their gifts online and it quickly went viral. The note Sony sent them was also visible in the video, and it reads, \"Aidan and Kirsten, congratulations on your marriage!\" A printed message below that line",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/a-couple-invited-sony-to-their-wedding-and-got-a-gift-in-return/1100-6538234/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4652898-playstationlogo.jpg",
-      "published_at": "2026-02-17T21:32:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Real Madrid tie halted over Vinicius racism allegation",
-      "title_tr": "Real Madrid tie halted over Vinicius racism allegation",
-      "summary": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
-      "summary_tr": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
-      "long_summary": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
-      "long_summary_tr": "Real Madrid's Champions League knockout phase play-off tie at Benfica is halted for 10 minutes after Vinicius Junior reports alleged racist abuse.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cpv843x1zgzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8abd/live/30708100-0c5c-11f1-b5e2-dd58fc65f0f6.jpg",
-      "published_at": "2026-02-17T21:31:49+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "title_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/a68046559/best-spring-summer-2026-campaigns/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/baa102c3-2e00-4f0a-9174-9e6cece4fb8c.jpg",
-      "published_at": "2026-02-17T21:28:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Resmi Gazete'de bugün (18.02.2026)",
-      "title_tr": "Resmi Gazete'de bugün (18.02.2026)",
-      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "long_summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "long_summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-18022026-3769418",
-      "image": null,
-      "published_at": "2026-02-17T21:27:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD Başkanı Trump’tan ramazan mesajı",
-      "title_tr": "ABD Başkanı Trump’tan ramazan mesajı",
-      "summary": "ABD Başkanı Donald Trump, ramazan ayının &quot;birçok Amerikalı için kutsal bir zaman&quot; olduğunu belirterek, bu dönemin merhamet ve tevazu gibi ortak değerleri pekiştirdiğini ifade etti.",
-      "summary_tr": "ABD Başkanı Donald Trump, ramazan ayının &quot;birçok Amerikalı için kutsal bir zaman&quot; olduğunu belirterek, bu dönemin merhamet ve tevazu gibi ortak değerleri pekiştirdiğini ifade etti.",
-      "long_summary": "ABD Başkanı Donald Trump, ramazan ayının &quot;birçok Amerikalı için kutsal bir zaman&quot; olduğunu belirterek, bu dönemin merhamet ve tevazu gibi ortak değerleri pekiştirdiğini ifade etti.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, ramazan ayının &quot;birçok Amerikalı için kutsal bir zaman&quot; olduğunu belirterek, bu dönemin merhamet ve tevazu gibi ortak değerleri pekiştirdiğini ifade etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/abd-baskani-trumptan-ramazan-mesaji-haberi-815423",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/18/ramazan-hn2h_cover.jpg",
-      "published_at": "2026-02-17T21:23:00+00:00"
     }
   ]
 }
