@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-02-21T23:37:17.392796+00:00",
+  "updated_at": "2026-02-22T02:50:38.714072+00:00",
   "articles": [
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Match of the Day",
-      "title_tr": "Match of the Day",
-      "summary": "Highlights from five Premier League games, including Man City against Newcastle United.",
-      "summary_tr": "Highlights from five Premier League games, including Man City against Newcastle United.",
-      "long_summary": "Highlights from five Premier League games, including Man City against Newcastle United.",
-      "long_summary_tr": "Highlights from five Premier League games, including Man City against Newcastle United.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n1x24f.jpg",
-      "published_at": "2026-02-22T08:55:00+00:00"
-    },
     {
       "origin": "turkiye",
       "category": "Gündem",
@@ -43,7 +21,337 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-subat-2026-1712979",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-02-21T23:30:00+00:00"
+      "published_at": "2026-02-22T02:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Milyonluk rüşvet havuzu kuran gümrük çetesi çökertildi",
+      "title_tr": "Milyonluk rüşvet havuzu kuran gümrük çetesi çökertildi",
+      "summary": "Gümrük geçişinde rüşvet alan Hatay merkezli çeteye 8 ilde operasyon yapıldı. 2026 yılında rüşvetlere zam yaptıkları ve toplanan milyonlarca lirayı bir havuzda biriktirip memurlar arasında paylaştırdıkları belirlenen şüphelilerden 26'sı tutuklandı.",
+      "summary_tr": "Gümrük geçişinde rüşvet alan Hatay merkezli çeteye 8 ilde operasyon yapıldı. 2026 yılında rüşvetlere zam yaptıkları ve toplanan milyonlarca lirayı bir havuzda biriktirip memurlar arasında paylaştırdıkları belirlenen şüphelilerden 26'sı tutuklandı.",
+      "long_summary": "Gümrük geçişinde rüşvet alan Hatay merkezli çeteye 8 ilde operasyon yapıldı. 2026 yılında rüşvetlere zam yaptıkları ve toplanan milyonlarca lirayı bir havuzda biriktirip memurlar arasında paylaştırdıkları belirlenen şüphelilerden 26'sı tutuklandı.",
+      "long_summary_tr": "Gümrük geçişinde rüşvet alan Hatay merkezli çeteye 8 ilde operasyon yapıldı. 2026 yılında rüşvetlere zam yaptıkları ve toplanan milyonlarca lirayı bir havuzda biriktirip memurlar arasında paylaştırdıkları belirlenen şüphelilerden 26'sı tutuklandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/milyonluk-rusvet-havuzu-kuran-gumruk-cetesi-cokertildi-1712987",
+      "image": "https://images.ntv.com.tr/images/AW647272_03-825534(2).jpg",
+      "published_at": "2026-02-22T02:09:50+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+      "title_tr": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
+      "summary": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
+      "summary_tr": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
+      "long_summary": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
+      "long_summary_tr": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4af5/live/37c8fe00-0f77-11f1-8d59-c3fbefb2b096.jpg",
+      "published_at": "2026-02-22T01:49:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Çocuk kavgasına aileler karıştı. 10 yaralı",
+      "title_tr": "Çocuk kavgasına aileler karıştı. 10 yaralı",
+      "summary": "Şanlıurfa'da çocuklar arasında çıkan kavga, iki aile üyelerinin de karışmasıyla taşlı ve sopalı çatışmaya dönüştü. 1'i ağır 10 kişi yaralandı.",
+      "summary_tr": "Şanlıurfa'da çocuklar arasında çıkan kavga, iki aile üyelerinin de karışmasıyla taşlı ve sopalı çatışmaya dönüştü. 1'i ağır 10 kişi yaralandı.",
+      "long_summary": "Şanlıurfa'da çocuklar arasında çıkan kavga, iki aile üyelerinin de karışmasıyla taşlı ve sopalı çatışmaya dönüştü. 1'i ağır 10 kişi yaralandı.",
+      "long_summary_tr": "Şanlıurfa'da çocuklar arasında çıkan kavga, iki aile üyelerinin de karışmasıyla taşlı ve sopalı çatışmaya dönüştü. 1'i ağır 10 kişi yaralandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cocuk-kavgasina-aileler-karisti-10-yarali-1712986",
+      "image": "https://images.ntv.com.tr/images/36138969-61c0-43bb-81bc-58ef929f6253-829756.webp",
+      "published_at": "2026-02-22T01:39:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Kayseri'de kaybolan kız çocuğu aranıyor",
+      "title_tr": "Kayseri'de kaybolan kız çocuğu aranıyor",
+      "summary": "Kayseri'de dan sabah saatlerinde çıktığı eve geri dönmeyen 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı.",
+      "summary_tr": "Kayseri'de dan sabah saatlerinde çıktığı eve geri dönmeyen 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı.",
+      "long_summary": "Kayseri'de dan sabah saatlerinde çıktığı eve geri dönmeyen 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı.",
+      "long_summary_tr": "Kayseri'de dan sabah saatlerinde çıktığı eve geri dönmeyen 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/kayseride-kaybolan-kiz-cocugu-araniyor-1712985",
+      "image": "https://images.ntv.com.tr/images/AA-20260221-40634463-40634461-KAYSERIDE_KAYBOLAN_16_YASINDAKI_KIZ_COCUGU_ICIN_ARAMA_CALISMASI_BASLATILDI-557919.jpg",
+      "published_at": "2026-02-22T01:25:41+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Tarihi köprüler kapatıldı, yüzlerce dönüm su altında kaldı",
+      "title_tr": "Tarihi köprüler kapatıldı, yüzlerce dönüm su altında kaldı",
+      "summary": "Tunca ve Meriç Nehri'nin debileri yükseldi, Edirne'nin bazı bölgelerinde taşkınlar meydana geldi. Tarihi köprüler trafiğe kapatıldı, yüzlerce dönüm ekili arazi su altında kaldı.",
+      "summary_tr": "Tunca ve Meriç Nehri'nin debileri yükseldi, Edirne'nin bazı bölgelerinde taşkınlar meydana geldi. Tarihi köprüler trafiğe kapatıldı, yüzlerce dönüm ekili arazi su altında kaldı.",
+      "long_summary": "Tunca ve Meriç Nehri'nin debileri yükseldi, Edirne'nin bazı bölgelerinde taşkınlar meydana geldi. Tarihi köprüler trafiğe kapatıldı, yüzlerce dönüm ekili arazi su altında kaldı.",
+      "long_summary_tr": "Tunca ve Meriç Nehri'nin debileri yükseldi, Edirne'nin bazı bölgelerinde taşkınlar meydana geldi. Tarihi köprüler trafiğe kapatıldı, yüzlerce dönüm ekili arazi su altında kaldı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/galeri/turkiye/tarihi-kopruler-kapatildi-yuzlerce-donum-su-altinda-kaldi-1712983",
+      "image": "https://images.ntv.com.tr/images/meriç-771779.jpg",
+      "published_at": "2026-02-22T00:37:28+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Bridgeman leads Genesis by six from McIlroy",
+      "title_tr": "Bridgeman leads Genesis by six from McIlroy",
+      "summary": "Rory McIlroy is second, six shots adrift of leader Jacob Bridgeman, whose second round of seven-under-par 64 cements his place at the top of leaderboard.",
+      "summary_tr": "Rory McIlroy is second, six shots adrift of leader Jacob Bridgeman, whose second round of seven-under-par 64 cements his place at the top of leaderboard.",
+      "long_summary": "Rory McIlroy is second, six shots adrift of leader Jacob Bridgeman, whose second round of seven-under-par 64 cements his place at the top of leaderboard.",
+      "long_summary_tr": "Rory McIlroy is second, six shots adrift of leader Jacob Bridgeman, whose second round of seven-under-par 64 cements his place at the top of leaderboard.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/golf/articles/cz9qkg0w2kwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54d/live/24688990-0f7f-11f1-9271-f173153c0104.jpg",
+      "published_at": "2026-02-22T00:31:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "How football is helping girls fight against forced marriage",
+      "title_tr": "How football is helping girls fight against forced marriage",
+      "summary": "Two sisters in an Indian village talk about how football has changed their lives and helped them push back against child marriage.",
+      "summary_tr": "Two sisters in an Indian village talk about how football has changed their lives and helped them push back against child marriage.",
+      "long_summary": "Two sisters in an Indian village talk about how football has changed their lives and helped them push back against child marriage.",
+      "long_summary_tr": "Two sisters in an Indian village talk about how football has changed their lives and helped them push back against child marriage.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cpv8r34mn0po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad35/live/b77c9800-d1bf-11f0-a892-01d657345866.jpg",
+      "published_at": "2026-02-22T00:30:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Watkins has to respond to pressure of Abraham's arrival at Villa - Rooney",
+      "title_tr": "Watkins has to respond to pressure of Abraham's arrival at Villa - Rooney",
+      "summary": "Match of the Day pundit Wayne Rooney believes Tammy Abraham's arrival at Aston Villa could be key to Ollie Watkins rediscovering his form, as the pressure of competition for his place in the starting line-up is something \"he has to respond to.\"",
+      "summary_tr": "Match of the Day pundit Wayne Rooney believes Tammy Abraham's arrival at Aston Villa could be key to Ollie Watkins rediscovering his form, as the pressure of competition for his place in the starting line-up is something \"he has to respond to.\"",
+      "long_summary": "Match of the Day pundit Wayne Rooney believes Tammy Abraham's arrival at Aston Villa could be key to Ollie Watkins rediscovering his form, as the pressure of competition for his place in the starting line-up is something \"he has to respond to.\"",
+      "long_summary_tr": "Match of the Day pundit Wayne Rooney believes Tammy Abraham's arrival at Aston Villa could be key to Ollie Watkins rediscovering his form, as the pressure of competition for his place in the starting line-up is something \"he has to respond to.\"",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/c70nr8p92epo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f56e/live/d2e496b0-0f81-11f1-9120-a910fc22c6ac.jpg",
+      "published_at": "2026-02-22T00:18:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Vahşeti mavi çanta ayrıntısı çözdü",
+      "title_tr": "Vahşeti mavi çanta ayrıntısı çözdü",
+      "summary": "Aydın'da hırsızlık yapmak için girdiği evlerinde yaşlı çifti öldürdüğünü itiraf eden zanlı tutuklandı. Bir tanığın anlattığı \"mavi çanta\" ayrıntısı üzerine 8 bin saatlik güvenlik kamerası görüntülerini inceleyen polis, vahşeti aydınlattı.",
+      "summary_tr": "Aydın'da hırsızlık yapmak için girdiği evlerinde yaşlı çifti öldürdüğünü itiraf eden zanlı tutuklandı. Bir tanığın anlattığı \"mavi çanta\" ayrıntısı üzerine 8 bin saatlik güvenlik kamerası görüntülerini inceleyen polis, vahşeti aydınlattı.",
+      "long_summary": "Aydın'da hırsızlık yapmak için girdiği evlerinde yaşlı çifti öldürdüğünü itiraf eden zanlı tutuklandı. Bir tanığın anlattığı \"mavi çanta\" ayrıntısı üzerine 8 bin saatlik güvenlik kamerası görüntülerini inceleyen polis, vahşeti aydınlattı.",
+      "long_summary_tr": "Aydın'da hırsızlık yapmak için girdiği evlerinde yaşlı çifti öldürdüğünü itiraf eden zanlı tutuklandı. Bir tanığın anlattığı \"mavi çanta\" ayrıntısı üzerine 8 bin saatlik güvenlik kamerası görüntülerini inceleyen polis, vahşeti aydınlattı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/vahseti-mavi-canta-ayrintisi-cozdu-1712982",
+      "image": "https://images.ntv.com.tr/images/CİNAYETTT-488009-932860.webp",
+      "published_at": "2026-02-22T00:14:51+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "From Venezuela to immigration crackdown, Project 2025 provided Trump's roadmap",
+      "title_tr": "From Venezuela to immigration crackdown, Project 2025 provided Trump's roadmap",
+      "summary": "Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say.",
+      "summary_tr": "Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say.",
+      "long_summary": "Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say.",
+      "long_summary_tr": "Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c5yvvjw8pdvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5306/live/b0f39890-3c96-11ef-8b26-8df2085234c9.jpg",
+      "published_at": "2026-02-22T00:02:26+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Wood outpoints Warrington in rematch lacking spark",
+      "title_tr": "Wood outpoints Warrington in rematch lacking spark",
+      "summary": "Home favourite Leigh Wood comfortably outpoints Josh Warrington in their rematch at Nottingham's Motorpoint Arena.",
+      "summary_tr": "Home favourite Leigh Wood comfortably outpoints Josh Warrington in their rematch at Nottingham's Motorpoint Arena.",
+      "long_summary": "Home favourite Leigh Wood comfortably outpoints Josh Warrington in their rematch at Nottingham's Motorpoint Arena.",
+      "long_summary_tr": "Home favourite Leigh Wood comfortably outpoints Josh Warrington in their rematch at Nottingham's Motorpoint Arena.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/boxing/articles/cy9gxj2ygzno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c236/live/c6b6f870-0f7b-11f1-abca-b56be7523081.jpg",
+      "published_at": "2026-02-22T00:01:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Ireland reignite title bid with record away win over England",
+      "title_tr": "Ireland reignite title bid with record away win over England",
+      "summary": "Ireland reignite title bid with record away win over England",
+      "summary_tr": "Ireland reignite title bid with record away win over England",
+      "long_summary": "Ireland reignite title bid with record away win over England",
+      "long_summary_tr": "Ireland reignite title bid with record away win over England",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/programmes/p0n2hvvm?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n2hvyn.jpg",
+      "published_at": "2026-02-21T23:59:44+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Guardiola tells team to chill with cocktails as Man City pile pressure on Arsenal",
+      "title_tr": "Guardiola tells team to chill with cocktails as Man City pile pressure on Arsenal",
+      "summary": "As Manchester City continue to crank up the pressure on Arsenal, Pep Guardiola tells his players to take three days off to \"enjoy life\" with \"caipirinhas and daiquiris\".",
+      "summary_tr": "As Manchester City continue to crank up the pressure on Arsenal, Pep Guardiola tells his players to take three days off to \"enjoy life\" with \"caipirinhas and daiquiris\".",
+      "long_summary": "As Manchester City continue to crank up the pressure on Arsenal, Pep Guardiola tells his players to take three days off to \"enjoy life\" with \"caipirinhas and daiquiris\".",
+      "long_summary_tr": "As Manchester City continue to crank up the pressure on Arsenal, Pep Guardiola tells his players to take three days off to \"enjoy life\" with \"caipirinhas and daiquiris\".",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/ckgl393k2l0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ed8/live/eff93a60-0f7e-11f1-801d-ed3cff6bf876.jpg",
+      "published_at": "2026-02-21T23:52:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "8 ilde rüşvet ve kaçakçılık operasyonu: 26 tutuklama",
+      "title_tr": "8 ilde rüşvet ve kaçakçılık operasyonu: 26 tutuklama",
+      "summary": "Hatay merkezli 8 ilde düzenlenen rüşvet ve kaçakçılık operasyonunda gözaltına alınan 44 şüpheliden 26’sı tutuklandı",
+      "summary_tr": "Hatay merkezli 8 ilde düzenlenen rüşvet ve kaçakçılık operasyonunda gözaltına alınan 44 şüpheliden 26’sı tutuklandı",
+      "long_summary": "Hatay merkezli 8 ilde düzenlenen rüşvet ve kaçakçılık operasyonunda gözaltına alınan 44 şüpheliden 26’sı tutuklandı",
+      "long_summary_tr": "Hatay merkezli 8 ilde düzenlenen rüşvet ve kaçakçılık operasyonunda gözaltına alınan 44 şüpheliden 26’sı tutuklandı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/hatay-merkezli-8-ilde-rusvet-ve-kacakcilik-operasyonu-26-tutuklama-3863862",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771716280/3863862/jpg/1280x1280",
+      "published_at": "2026-02-21T23:14:11+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Narrow wins can be 'bedrock of success', Hearts boss says",
+      "title_tr": "Narrow wins can be 'bedrock of success', Hearts boss says",
+      "summary": "Heart of Midlothian head coach Derek McInnes suggests history shows narrow wins can be the difference between success and failure as his Scottish Premiership leaders beat Falkirk.",
+      "summary_tr": "Heart of Midlothian head coach Derek McInnes suggests history shows narrow wins can be the difference between success and failure as his Scottish Premiership leaders beat Falkirk.",
+      "long_summary": "Heart of Midlothian head coach Derek McInnes suggests history shows narrow wins can be the difference between success and failure as his Scottish Premiership leaders beat Falkirk.",
+      "long_summary_tr": "Heart of Midlothian head coach Derek McInnes suggests history shows narrow wins can be the difference between success and failure as his Scottish Premiership leaders beat Falkirk.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/c1w5pnnwjvyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46ba/live/18d46f30-0f58-11f1-9a2a-8fa7cf422a25.jpg",
+      "published_at": "2026-02-21T23:13:06+00:00"
     },
     {
       "origin": "yabanci",
@@ -66,6 +374,116 @@
       "url": "https://www.bbc.com/news/articles/c5y4xqlg639o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b563/live/7611d500-07f8-11f1-b589-c9efaa21567b.jpg",
       "published_at": "2026-02-21T23:06:59+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Balkanlar'dan geliyor! Kar ve yağmur uyarısı...",
+      "title_tr": "Balkanlar'dan geliyor! Kar ve yağmur uyarısı...",
+      "summary": "Habertürk Meteoroloji Mühendisi Hüseyin Öztel, Balkanlar'dan gelen soğuk ve yağışlı havanın bugünden itibaren etkisini göstermesini beklediğini söyledi. Yağışlı hava yüksek ve iç kesimlerde kar yağışı olarak bekleniyor. Hava sıcaklıkları ise hissedilir ölçüde düşüyor",
+      "summary_tr": "Habertürk Meteoroloji Mühendisi Hüseyin Öztel, Balkanlar'dan gelen soğuk ve yağışlı havanın bugünden itibaren etkisini göstermesini beklediğini söyledi. Yağışlı hava yüksek ve iç kesimlerde kar yağışı olarak bekleniyor. Hava sıcaklıkları ise hissedilir ölçüde düşüyor",
+      "long_summary": "Habertürk Meteoroloji Mühendisi Hüseyin Öztel, Balkanlar'dan gelen soğuk ve yağışlı havanın bugünden itibaren etkisini göstermesini beklediğini söyledi. Yağışlı hava yüksek ve iç kesimlerde kar yağışı olarak bekleniyor. Hava sıcaklıkları ise hissedilir ölçüde düşüyor",
+      "long_summary_tr": "Habertürk Meteoroloji Mühendisi Hüseyin Öztel, Balkanlar'dan gelen soğuk ve yağışlı havanın bugünden itibaren etkisini göstermesini beklediğini söyledi. Yağışlı hava yüksek ve iç kesimlerde kar yağışı olarak bekleniyor. Hava sıcaklıkları ise hissedilir ölçüde düşüyor",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/balkanlar-dan-geliyor-kar-ve-yagmur-uyarisi-sicakliklar-dusuyor-son-dakika-hava-durumu-3863772",
+      "image": "https://im.haberturk.com/l/2026/02/21/ver1771714986/3863772/jpg/1280x1280",
+      "published_at": "2026-02-21T23:01:01+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "McIlroy lies six shots behind Bridgeman at Genesis Invitational",
+      "title_tr": "McIlroy lies six shots behind Bridgeman at Genesis Invitational",
+      "summary": "Rory McIlroy is in second place but six shots behind leader Jacob Bridgeman going into the final round of The Genesis Invitational on Sunday.",
+      "summary_tr": "Rory McIlroy is in second place but six shots behind leader Jacob Bridgeman going into the final round of The Genesis Invitational on Sunday.",
+      "long_summary": "Rory McIlroy is in second place but six shots behind leader Jacob Bridgeman going into the final round of The Genesis Invitational on Sunday.",
+      "long_summary_tr": "Rory McIlroy is in second place but six shots behind leader Jacob Bridgeman going into the final round of The Genesis Invitational on Sunday.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/golf/news/12040/13510627/the-genesis-invitational-rory-mcilroy-lies-second-but-six-shots-back-from-leader-jacob-bridgeman-after-third-round",
+      "image": "https://e1.365dm.com/26/02/1920x1080/skysports-rory-mcilroy-genesis-invitational_7171520.jpg?20260221233651",
+      "published_at": "2026-02-21T23:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"Zelenskiy, petrol sevkiyatını başlatmadığı sürece destek beklemesin\"",
+      "title_tr": "\"Zelenskiy, petrol sevkiyatını başlatmadığı sürece destek beklemesin\"",
+      "summary": "Macaristan Başbakanı Viktor Orban, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin, petrol sevkiyatını yeniden başlatmadığı sürece ülkesinden herhangi bir destek beklememesi gerektiğini ifade etti.",
+      "summary_tr": "Macaristan Başbakanı Viktor Orban, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin, petrol sevkiyatını yeniden başlatmadığı sürece ülkesinden herhangi bir destek beklememesi gerektiğini ifade etti.",
+      "long_summary": "Macaristan Başbakanı Viktor Orban, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin, petrol sevkiyatını yeniden başlatmadığı sürece ülkesinden herhangi bir destek beklememesi gerektiğini ifade etti.",
+      "long_summary_tr": "Macaristan Başbakanı Viktor Orban, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin, petrol sevkiyatını yeniden başlatmadığı sürece ülkesinden herhangi bir destek beklememesi gerektiğini ifade etti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/zelenskiy-petrol-sevkiyatini-baslatmadigi-surece-destek-beklemesin-3863860",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771713812/3863860/jpg/1280x1280",
+      "published_at": "2026-02-21T22:54:31+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Kamışlı Havalimanı’nın güvenlik denetimi devralındı",
+      "title_tr": "Kamışlı Havalimanı’nın güvenlik denetimi devralındı",
+      "summary": "Suriye İçişleri Bakanlığı, Kamışlı Havalimanı’nın güvenlik denetiminin bakanlığa bağlı birimlerce devralındığını bildirdi. Güvenlik denetiminin devralınmasının ardından havalimanındaki uygulamaların ve koordinasyonun bakanlığa bağlı birimler tarafından yürütüleceği ifade edildi.",
+      "summary_tr": "Suriye İçişleri Bakanlığı, Kamışlı Havalimanı’nın güvenlik denetiminin bakanlığa bağlı birimlerce devralındığını bildirdi. Güvenlik denetiminin devralınmasının ardından havalimanındaki uygulamaların ve koordinasyonun bakanlığa bağlı birimler tarafından yürütüleceği ifade edildi.",
+      "long_summary": "Suriye İçişleri Bakanlığı, Kamışlı Havalimanı’nın güvenlik denetiminin bakanlığa bağlı birimlerce devralındığını bildirdi. Güvenlik denetiminin devralınmasının ardından havalimanındaki uygulamaların ve koordinasyonun bakanlığa bağlı birimler tarafından yürütüleceği ifade edildi.",
+      "long_summary_tr": "Suriye İçişleri Bakanlığı, Kamışlı Havalimanı’nın güvenlik denetiminin bakanlığa bağlı birimlerce devralındığını bildirdi. Güvenlik denetiminin devralınmasının ardından havalimanındaki uygulamaların ve koordinasyonun bakanlığa bağlı birimler tarafından yürütüleceği ifade edildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/kamisli-havalimaninin-guvenlik-denetimi-suriye-yonetimince-devralindi-3863861",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771714415/3863861/jpg/1280x1280",
+      "published_at": "2026-02-21T22:53:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Siyasi liderler birlikte iftar yaptı",
+      "title_tr": "Siyasi liderler birlikte iftar yaptı",
+      "summary": "İstanbul Yenikapı’da Saadet Partisi tarafından \"Adalet Sofraları\" iftar programı düzenlendi",
+      "summary_tr": "İstanbul Yenikapı’da Saadet Partisi tarafından \"Adalet Sofraları\" iftar programı düzenlendi",
+      "long_summary": "İstanbul Yenikapı’da Saadet Partisi tarafından \"Adalet Sofraları\" iftar programı düzenlendi",
+      "long_summary_tr": "İstanbul Yenikapı’da Saadet Partisi tarafından \"Adalet Sofraları\" iftar programı düzenlendi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/siyasi-liderler-birlikte-iftar-yapti-3863858",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771714448/3863858/jpg/1280x1280",
+      "published_at": "2026-02-21T22:52:56+00:00"
     },
     {
       "origin": "yabanci",
@@ -138,6 +556,50 @@
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
+      "source": "Sky Sports",
+      "title": "Wood defeats Warrington as Ryan becomes two-weight champion",
+      "title_tr": "Wood defeats Warrington as Ryan becomes two-weight champion",
+      "summary": "Leigh Wood took a wide unanimous decision victory over Josh Warrington in front of his hometown supporters at the Nottingham Arena.",
+      "summary_tr": "Leigh Wood took a wide unanimous decision victory over Josh Warrington in front of his hometown supporters at the Nottingham Arena.",
+      "long_summary": "Leigh Wood took a wide unanimous decision victory over Josh Warrington in front of his hometown supporters at the Nottingham Arena.",
+      "long_summary_tr": "Leigh Wood took a wide unanimous decision victory over Josh Warrington in front of his hometown supporters at the Nottingham Arena.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/boxing/news/12040/13510535/leigh-wood-defeats-josh-warrington-as-sandy-ryan-becomes-two-weight-world-champion-after-beating-karla-ramos-zamora",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-leigh-wood-josh-warrington_7171512.jpg?20260221231525",
+      "published_at": "2026-02-21T22:38:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Kayseri'de 16 yaşındaki kız çocuğu kayboldu",
+      "title_tr": "Kayseri'de 16 yaşındaki kız çocuğu kayboldu",
+      "summary": "Kayseri'nin Pınarbaşı ilçesinde kayıp başvurusu yapılan 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı",
+      "summary_tr": "Kayseri'nin Pınarbaşı ilçesinde kayıp başvurusu yapılan 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı",
+      "long_summary": "Kayseri'nin Pınarbaşı ilçesinde kayıp başvurusu yapılan 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı",
+      "long_summary_tr": "Kayseri'nin Pınarbaşı ilçesinde kayıp başvurusu yapılan 16 yaşındaki İlknur Çiçek için arama çalışması başlatıldı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/kayseri-de-16-yasindaki-kiz-cocugu-kayboldu-3863859",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771714250/3863859/jpg/1280x1280",
+      "published_at": "2026-02-21T22:36:08+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
       "source": "BBC Sport",
       "title": "Deal with 'noise' or join another club - Arteta",
       "title_tr": "Deal with 'noise' or join another club - Arteta",
@@ -154,6 +616,28 @@
       "url": "https://www.bbc.com/sport/football/articles/czd8y912828o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b777/live/a22c4590-0f40-11f1-9610-6bdfe89c38bb.jpg",
       "published_at": "2026-02-21T22:35:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Pep not expecting Man City to stay perfect in title race after 'massive' win",
+      "title_tr": "Pep not expecting Man City to stay perfect in title race after 'massive' win",
+      "summary": "Pep Guardiola does not expect Man City to stay perfect in the Premier League title race - despite claiming what he described as a \"massive\" win over Newcastle that moves them two points behind leaders Arsenal.",
+      "summary_tr": "Pep Guardiola does not expect Man City to stay perfect in the Premier League title race - despite claiming what he described as a \"massive\" win over Newcastle that moves them two points behind leaders Arsenal.",
+      "long_summary": "Pep Guardiola does not expect Man City to stay perfect in the Premier League title race - despite claiming what he described as a \"massive\" win over Newcastle that moves them two points behind leaders Arsenal.",
+      "long_summary_tr": "Pep Guardiola does not expect Man City to stay perfect in the Premier League title race - despite claiming what he described as a \"massive\" win over Newcastle that moves them two points behind leaders Arsenal.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13510618/man-city-apply-pressure-to-arsenal-in-title-race-with-massive-win-but-pep-guardiola-expecting-to-drop-points",
+      "image": "https://e0.365dm.com/26/02/1920x1080/skysports-donnarumma-gianluigi_7171535.jpg?20260221235347",
+      "published_at": "2026-02-21T22:35:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -288,6 +772,28 @@
       "published_at": "2026-02-21T22:20:00+00:00"
     },
     {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Manyas Gölü kenarında cansız bedeni bulundu",
+      "title_tr": "Manyas Gölü kenarında cansız bedeni bulundu",
+      "summary": "Balıkesir'in Manyas ilçesinde traktörüyle evinden ayrılan Ali Ekin, balık tutmaya gittiği Manyas Gölü kenarında ölü bulundu",
+      "summary_tr": "Balıkesir'in Manyas ilçesinde traktörüyle evinden ayrılan Ali Ekin, balık tutmaya gittiği Manyas Gölü kenarında ölü bulundu",
+      "long_summary": "Balıkesir'in Manyas ilçesinde traktörüyle evinden ayrılan Ali Ekin, balık tutmaya gittiği Manyas Gölü kenarında ölü bulundu",
+      "long_summary_tr": "Balıkesir'in Manyas ilçesinde traktörüyle evinden ayrılan Ali Ekin, balık tutmaya gittiği Manyas Gölü kenarında ölü bulundu",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/manyas-golu-kenarinda-cansiz-bedeni-bulundu-3863857",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771711671/3863857/jpg/1280x1280",
+      "published_at": "2026-02-21T22:14:42+00:00"
+    },
+    {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
@@ -330,6 +836,28 @@
       "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23a3/live/797fa990-0f61-11f1-9120-a910fc22c6ac.jpg",
       "published_at": "2026-02-21T22:09:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Atletico Madrid 3 maç sonra kazandı!",
+      "title_tr": "Atletico Madrid 3 maç sonra kazandı!",
+      "summary": "İspanya La Liga'nın 25. haftasında Atletico Madrid sahasında Espanyol'u ağırladı. 6 gol çıkan mücadeleyi ev sahibi ekip 4-2 kazandı ve 3 maç aradan sonra galip geldi.",
+      "summary_tr": "İspanya La Liga'nın 25. haftasında Atletico Madrid sahasında Espanyol'u ağırladı. 6 gol çıkan mücadeleyi ev sahibi ekip 4-2 kazandı ve 3 maç aradan sonra galip geldi.",
+      "long_summary": "İspanya La Liga'nın 25. haftasında Atletico Madrid sahasında Espanyol'u ağırladı. 6 gol çıkan mücadeleyi ev sahibi ekip 4-2 kazandı ve 3 maç aradan sonra galip geldi.",
+      "long_summary_tr": "İspanya La Liga'nın 25. haftasında Atletico Madrid sahasında Espanyol'u ağırladı. 6 gol çıkan mücadeleyi ev sahibi ekip 4-2 kazandı ve 3 maç aradan sonra galip geldi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/atletico-madrid-4-espanyol-2-mac-sonucu-3863855-spor",
+      "image": "https://im.haberturk.com/l/2026/02/22/ver1771710868/3863855/jpg/1280x1280",
+      "published_at": "2026-02-21T21:59:20+00:00"
     },
     {
       "origin": "yabanci",
@@ -442,6 +970,28 @@
       "published_at": "2026-02-21T21:37:00+00:00"
     },
     {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Survivor dokunulmazlık oyununu kim kazandı?",
+      "title_tr": "Survivor dokunulmazlık oyununu kim kazandı?",
+      "summary": "Survivor Ünlüler ve Gönüllüler'de heyecan, haftanın son dokunulmazlık oyunu ile devam etti. Mavi ve kırmızı takım, haftanın üçüncü dokunulmazlık oyununu kazanmak için kıyasıya bir mücadelenin içine girdi. Dokunulmazlığı kaybeden takım gecenin sonunda eleme potasına gidecek yarışmacıyı belirledi. Peki, Survivor dokunulmazlık oyununu kim kazandı? 21 Şubat Survivor eleme adayı kim oldu? İşte 21 Şubat Cumartesi Survivor'da dokunulmazlığı kazanan takım...",
+      "summary_tr": "Survivor Ünlüler ve Gönüllüler'de heyecan, haftanın son dokunulmazlık oyunu ile devam etti. Mavi ve kırmızı takım, haftanın üçüncü dokunulmazlık oyununu kazanmak için kıyasıya bir mücadelenin içine girdi. Dokunulmazlığı kaybeden takım gecenin sonunda eleme potasına gidecek yarışmacıyı belirledi. Peki, Survivor dokunulmazlık oyununu kim kazandı? 21 Şubat Survivor eleme adayı kim oldu? İşte 21 Şubat Cumartesi Survivor'da dokunulmazlığı kazanan takım...",
+      "long_summary": "Survivor Ünlüler ve Gönüllüler'de heyecan, haftanın son dokunulmazlık oyunu ile devam etti. Mavi ve kırmızı takım, haftanın üçüncü dokunulmazlık oyununu kazanmak için kıyasıya bir mücadelenin içine girdi. Dokunulmazlığı kaybeden takım gecenin sonunda eleme potasına gidecek yarışmacıyı belirledi. Peki, Survivor dokunulmazlık oyununu kim kazandı? 21 Şubat Survivor eleme adayı kim oldu? İşte 21 Şubat Cumartesi Survivor'da dokunulmazlığı kazanan takım...",
+      "long_summary_tr": "Survivor Ünlüler ve Gönüllüler'de heyecan, haftanın son dokunulmazlık oyunu ile devam etti. Mavi ve kırmızı takım, haftanın üçüncü dokunulmazlık oyununu kazanmak için kıyasıya bir mücadelenin içine girdi. Dokunulmazlığı kaybeden takım gecenin sonunda eleme potasına gidecek yarışmacıyı belirledi. Peki, Survivor dokunulmazlık oyununu kim kazandı? 21 Şubat Survivor eleme adayı kim oldu? İşte 21 Şubat Cumartesi Survivor'da dokunulmazlığı kazanan takım...",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/eleme-duellosu-belli-oldu-survivor-dokunulmazlik-oyunu-kim-kazandi-21-subat-cumartesi-survivor-eleme-adayi-kim-oldu-3863803",
+      "image": "https://im.haberturk.com/l/2026/02/21/ver1771709803/3863803/jpg/1280x1280",
+      "published_at": "2026-02-21T21:31:15+00:00"
+    },
+    {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
@@ -550,556 +1100,6 @@
       "url": "https://www.skysports.com/watch/video/13510595/dazn-face-off-verticle",
       "image": "https://e1.365dm.com/26/02/1920x1080/skysports-boxing-dazn-claressa-shields_7171474.jpg?20260221220340",
       "published_at": "2026-02-21T21:26:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Galatasaray'dan hakem tepkisi: Galatasaray’ı bu oyunlarla durduramazsınız!",
-      "title_tr": "Galatasaray'dan hakem tepkisi: Galatasaray’ı bu oyunlarla durduramazsınız!",
-      "summary": "Galatasaray Kulübü, Konyaspor maçının ardından yaptığı açıklamada, iptal edilen gollerine tepki göstererek, Türkiye Futbol Federasyonu&#039;nu göreve davet etti.",
-      "summary_tr": "Galatasaray Kulübü, Konyaspor maçının ardından yaptığı açıklamada, iptal edilen gollerine tepki göstererek, Türkiye Futbol Federasyonu&#039;nu göreve davet etti.",
-      "long_summary": "Galatasaray Kulübü, Konyaspor maçının ardından yaptığı açıklamada, iptal edilen gollerine tepki göstererek, Türkiye Futbol Federasyonu&#039;nu göreve davet etti.",
-      "long_summary_tr": "Galatasaray Kulübü, Konyaspor maçının ardından yaptığı açıklamada, iptal edilen gollerine tepki göstererek, Türkiye Futbol Federasyonu&#039;nu göreve davet etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/spor/galatasaraydan-hakem-tepkisi-galatasarayi-bu-oyunlarla-durduramazsiniz-haberi-815879",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/11/27/galatasaray-f8ud_cover.jpg",
-      "published_at": "2026-02-21T21:25:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Team GB settle for silver as Canada triumph in men's curling final",
-      "title_tr": "Team GB settle for silver as Canada triumph in men's curling final",
-      "summary": "In a repeat of the 2014 Winter Olympics final, Canada defeat Team GB in the men's curling gold medal match as Bruce Mouat's men are beaten 9-6.",
-      "summary_tr": "In a repeat of the 2014 Winter Olympics final, Canada defeat Team GB in the men's curling gold medal match as Bruce Mouat's men are beaten 9-6.",
-      "long_summary": "In a repeat of the 2014 Winter Olympics final, Canada defeat Team GB in the men's curling gold medal match as Bruce Mouat's men are beaten 9-6.",
-      "long_summary_tr": "In a repeat of the 2014 Winter Olympics final, Canada defeat Team GB in the men's curling gold medal match as Bruce Mouat's men are beaten 9-6.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/videos/cwy8x5g8qkjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7f4/live/1807c0a0-0f69-11f1-9120-a910fc22c6ac.jpg",
-      "published_at": "2026-02-21T21:20:16+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Silver sorrow - Team GB's Mouat and Hardie miss out on curling gold",
-      "title_tr": "Silver sorrow - Team GB's Mouat and Hardie miss out on curling gold",
-      "summary": "Team GB'S Grant Hardie and Bruce Mouat emotionally reflect on their defeat to Canada in the men's curling final, having also missed out on gold four years ago in Beijing.",
-      "summary_tr": "Team GB'S Grant Hardie and Bruce Mouat emotionally reflect on their defeat to Canada in the men's curling final, having also missed out on gold four years ago in Beijing.",
-      "long_summary": "Team GB'S Grant Hardie and Bruce Mouat emotionally reflect on their defeat to Canada in the men's curling final, having also missed out on gold four years ago in Beijing.",
-      "long_summary_tr": "Team GB'S Grant Hardie and Bruce Mouat emotionally reflect on their defeat to Canada in the men's curling final, having also missed out on gold four years ago in Beijing.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/videos/cy4wngv1x58o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0ef/live/33ac0410-0f69-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-02-21T21:17:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Termal Söyleşileri’nin İlk Konuğu Prof. Dr. Ahmet Taşağıl Oldu",
-      "title_tr": "Termal Söyleşileri’nin İlk Konuğu Prof. Dr. Ahmet Taşağıl Oldu",
-      "summary": "Termal Kaymakamlığı, Yalova Üniversitesi ve Termal Belediyesi iş birliğiyle düzenlenen Termal Söyleşileri programının ilkinde, tarihçi Ahmet Taşağıl “Avrasya Bozkırlarında Türklerin Eski Tarihi” başlıklı sunumuyla katılımcılarla buluştu.",
-      "summary_tr": "Termal Kaymakamlığı, Yalova Üniversitesi ve Termal Belediyesi iş birliğiyle düzenlenen Termal Söyleşileri programının ilkinde, tarihçi Ahmet Taşağıl “Avrasya Bozkırlarında Türklerin Eski Tarihi” başlıklı sunumuyla katılımcılarla buluştu.",
-      "long_summary": "Termal Kaymakamlığı, Yalova Üniversitesi ve Termal Belediyesi iş birliğiyle düzenlenen Termal Söyleşileri programının ilkinde, tarihçi Ahmet Taşağıl “Avrasya Bozkırlarında Türklerin Eski Tarihi” başlıklı sunumuyla katılımcılarla buluştu.",
-      "long_summary_tr": "Termal Kaymakamlığı, Yalova Üniversitesi ve Termal Belediyesi iş birliğiyle düzenlenen Termal Söyleşileri programının ilkinde, tarihçi Ahmet Taşağıl “Avrasya Bozkırlarında Türklerin Eski Tarihi” başlıklı sunumuyla katılımcılarla buluştu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/termal-soylesilerinin-ilk-konugu-prof-dr-ahmet-tasagil-oldu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-termal-kaymakanlik-universite-belediye-akademisyen-goc-soylesi-program-2.jpg",
-      "published_at": "2026-02-21T21:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Atkin can make it five medals for GB in Italy - Sunday's guide",
-      "title_tr": "Atkin can make it five medals for GB in Italy - Sunday's guide",
-      "summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
-      "summary_tr": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
-      "long_summary": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
-      "long_summary_tr": "What's happening and who to look out for at the 2026 Winter Olympics in Milan-Cortina.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/c338y36kngzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f362/live/71510460-0220-11f1-9972-d3f265c101c6.jpg",
-      "published_at": "2026-02-21T21:14:55+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Gökçe Barajı Sevindiriyor",
-      "title_tr": "Gökçe Barajı Sevindiriyor",
-      "summary": "Yalovalıların içme suyu ihtiyacını karşılayan Gökçe Barajı’ndaki su seviyesinin her geçen gün yükselmesi, Yalova halkını mutlu ediyor.",
-      "summary_tr": "Yalovalıların içme suyu ihtiyacını karşılayan Gökçe Barajı’ndaki su seviyesinin her geçen gün yükselmesi, Yalova halkını mutlu ediyor.",
-      "long_summary": "Yalovalıların içme suyu ihtiyacını karşılayan Gökçe Barajı’ndaki su seviyesinin her geçen gün yükselmesi, Yalova halkını mutlu ediyor.",
-      "long_summary_tr": "Yalovalıların içme suyu ihtiyacını karşılayan Gökçe Barajı’ndaki su seviyesinin her geçen gün yükselmesi, Yalova halkını mutlu ediyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/gokce-baraji-sevindiriyor-1",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-termal-belediye-gokce-baraj-su-seviye-yesil-korfez-birlik-belediye-aciklama-yukselis.jpg",
-      "published_at": "2026-02-21T21:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İran, AB ülkelerinin deniz ve hava kuvvetlerini terör örgütü ilan etti",
-      "title_tr": "İran, AB ülkelerinin deniz ve hava kuvvetlerini terör örgütü ilan etti",
-      "summary": "İran, Avrupa Birliği&#039;nin (AB) İran Devrim Muhafızları Ordusu&#039;nu (DMO) terör örgütü listesine almasına karşılık, AB üyesi ülkelerin deniz ve hava kuvvetlerini &quot;karşı tedbir kapsamında&quot; terör örgütü ilan etti.",
-      "summary_tr": "İran, Avrupa Birliği&#039;nin (AB) İran Devrim Muhafızları Ordusu&#039;nu (DMO) terör örgütü listesine almasına karşılık, AB üyesi ülkelerin deniz ve hava kuvvetlerini &quot;karşı tedbir kapsamında&quot; terör örgütü ilan etti.",
-      "long_summary": "İran, Avrupa Birliği&#039;nin (AB) İran Devrim Muhafızları Ordusu&#039;nu (DMO) terör örgütü listesine almasına karşılık, AB üyesi ülkelerin deniz ve hava kuvvetlerini &quot;karşı tedbir kapsamında&quot; terör örgütü ilan etti.",
-      "long_summary_tr": "İran, Avrupa Birliği&#039;nin (AB) İran Devrim Muhafızları Ordusu&#039;nu (DMO) terör örgütü listesine almasına karşılık, AB üyesi ülkelerin deniz ve hava kuvvetlerini &quot;karşı tedbir kapsamında&quot; terör örgütü ilan etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/iran-ab-ulkelerinin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-haberi-815878",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/19/abd-iran-acyp_cover.png",
-      "published_at": "2026-02-21T21:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Honeywell, Johnson Matthey katalizör anlaşmasından vazgeçebilir",
-      "title_tr": "Honeywell, Johnson Matthey katalizör anlaşmasından vazgeçebilir",
-      "summary": "Honeywell, Johnson Matthey katalizör anlaşmasından vazgeçebilir",
-      "summary_tr": "Honeywell, Johnson Matthey katalizör anlaşmasından vazgeçebilir",
-      "long_summary": "Honeywell, Johnson Matthey katalizör anlaşmasından vazgeçebilir",
-      "long_summary_tr": "Honeywell, Johnson Matthey katalizör anlaşmasından vazgeçebilir",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/honeywell-johnson-matthey-katalizor-anlasmasndan-vazgecebilir-3773321",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-02-21T21:13:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Kadıköy’de Altyapı ve Kanalizasyon Çalışmaları Aralıksız Sürüyor",
-      "title_tr": "Kadıköy’de Altyapı ve Kanalizasyon Çalışmaları Aralıksız Sürüyor",
-      "summary": "Yalova’nın en gözde yerleşim alanlarından Kadıköy’de, belediye ekipleri vatandaşların daha sağlıklı ve modern altyapıya kavuşması için kanalizasyon ve altyapı çalışmalarını sürdürüyor.",
-      "summary_tr": "Yalova’nın en gözde yerleşim alanlarından Kadıköy’de, belediye ekipleri vatandaşların daha sağlıklı ve modern altyapıya kavuşması için kanalizasyon ve altyapı çalışmalarını sürdürüyor.",
-      "long_summary": "Yalova’nın en gözde yerleşim alanlarından Kadıköy’de, belediye ekipleri vatandaşların daha sağlıklı ve modern altyapıya kavuşması için kanalizasyon ve altyapı çalışmalarını sürdürüyor.",
-      "long_summary_tr": "Yalova’nın en gözde yerleşim alanlarından Kadıköy’de, belediye ekipleri vatandaşların daha sağlıklı ve modern altyapıya kavuşması için kanalizasyon ve altyapı çalışmalarını sürdürüyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/kadikoyde-altyapi-ve-kanalizasyon-calismalari-araliksiz-suruyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-kadikoy-belediye-altyapi-calisma-1-1.jpg",
-      "published_at": "2026-02-21T21:13:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova İl Sağlık Müdürlüğü’nden Sigara Bırakmak İsteyenlere Ücretsiz Destek Çağrısı",
-      "title_tr": "Yalova İl Sağlık Müdürlüğü’nden Sigara Bırakmak İsteyenlere Ücretsiz Destek Çağrısı",
-      "summary": "Yalova İl Sağlık Müdürlüğü, il genelinde hizmet veren 5 farklı sigara bırakma polikliniğinde vatandaşlara ücretsiz destek sağlandığını duyurdu. Ayrıca ALO 171 Sigara Bırakma Danışma Hattı’nın 7 gün 24 saat hizmet verdiği hatırlatıldı.",
-      "summary_tr": "Yalova İl Sağlık Müdürlüğü, il genelinde hizmet veren 5 farklı sigara bırakma polikliniğinde vatandaşlara ücretsiz destek sağlandığını duyurdu. Ayrıca ALO 171 Sigara Bırakma Danışma Hattı’nın 7 gün 24 saat hizmet verdiği hatırlatıldı.",
-      "long_summary": "Yalova İl Sağlık Müdürlüğü, il genelinde hizmet veren 5 farklı sigara bırakma polikliniğinde vatandaşlara ücretsiz destek sağlandığını duyurdu. Ayrıca ALO 171 Sigara Bırakma Danışma Hattı’nın 7 gün 24 saat hizmet verdiği hatırlatıldı.",
-      "long_summary_tr": "Yalova İl Sağlık Müdürlüğü, il genelinde hizmet veren 5 farklı sigara bırakma polikliniğinde vatandaşlara ücretsiz destek sağlandığını duyurdu. Ayrıca ALO 171 Sigara Bırakma Danışma Hattı’nın 7 gün 24 saat hizmet verdiği hatırlatıldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-il-saglik-mudurlugunden-sigara-birakmak-isteyenlere-ucretsiz-destek-cagrisi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-il-saglik-mudurlugu-sigara-birakma-yerler-vatandas-cagri-2.jpg",
-      "published_at": "2026-02-21T21:12:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Kadıköy Belediyesi’nde Toplum Bilinci Eğitimi Düzenlendi",
-      "title_tr": "Kadıköy Belediyesi’nde Toplum Bilinci Eğitimi Düzenlendi",
-      "summary": "Yalova İl Jandarma Komutanlığı iş birliğiyle Kadıköy Belediyesi Kültür Evi’nde düzenlenen eğitim programında aile içi şiddet, KADES uygulaması ve madde bağımlılığıyla mücadele konularında vatandaşlar bilgilendirildi.",
-      "summary_tr": "Yalova İl Jandarma Komutanlığı iş birliğiyle Kadıköy Belediyesi Kültür Evi’nde düzenlenen eğitim programında aile içi şiddet, KADES uygulaması ve madde bağımlılığıyla mücadele konularında vatandaşlar bilgilendirildi.",
-      "long_summary": "Yalova İl Jandarma Komutanlığı iş birliğiyle Kadıköy Belediyesi Kültür Evi’nde düzenlenen eğitim programında aile içi şiddet, KADES uygulaması ve madde bağımlılığıyla mücadele konularında vatandaşlar bilgilendirildi.",
-      "long_summary_tr": "Yalova İl Jandarma Komutanlığı iş birliğiyle Kadıköy Belediyesi Kültür Evi’nde düzenlenen eğitim programında aile içi şiddet, KADES uygulaması ve madde bağımlılığıyla mücadele konularında vatandaşlar bilgilendirildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/kadikoy-belediyesinde-toplum-bilinci-egitimi-duzenlendi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-il-jandarma-komutanlik-kadikoy-kultur-ev-kades-aile-siddet-egitim-1.jpg",
-      "published_at": "2026-02-21T21:11:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Team GB face uphill task for four-man bobsleigh medal",
-      "title_tr": "Team GB face uphill task for four-man bobsleigh medal",
-      "summary": "Team GB face an uphill task to win an Olympic medal in the four-man bobsleigh event as they sit seventh at the halfway point in Cortina.",
-      "summary_tr": "Team GB face an uphill task to win an Olympic medal in the four-man bobsleigh event as they sit seventh at the halfway point in Cortina.",
-      "long_summary": "Team GB face an uphill task to win an Olympic medal in the four-man bobsleigh event as they sit seventh at the halfway point in Cortina.",
-      "long_summary_tr": "Team GB face an uphill task to win an Olympic medal in the four-man bobsleigh event as they sit seventh at the halfway point in Cortina.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/c4g265jn0w7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d189/live/5338b070-0f15-11f1-a977-6da7ae3308ca.jpg",
-      "published_at": "2026-02-21T21:10:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bakan Bolat: Avrupa Birliği Komisyonu Türkiye ile ilişkileri ilerletmek istiyor",
-      "title_tr": "Bakan Bolat: Avrupa Birliği Komisyonu Türkiye ile ilişkileri ilerletmek istiyor",
-      "summary": "Ticaret Bakanı Ömer Bolat, ticari diplomasinin Ticaret Bakanlığı'nın en önemli faaliyetleri arasında yer aldığını belirterek, \"200 ülkeyle ekonomik ilişkileri yürütüyoruz. Avrupa Birliği ile Gümrük Birliği'ni geliştirme, yenileme, güncelleme çabası içindeyiz. Avrupa Birliği Komisyonu, Türkiye ile ilişkileri ilerletmek istiyor\" dedi.Ticaret Bakanı Ömer Bolat, Müstakil Sanayici ve İşadamları Derneği'nin (MÜSİAD) Geleneksel İftar Programı'nda yaptığı konuşmada, 35 yıldan bu yana devam eden bu geleneksel iftarın, yılda bir defa kendilerini bir araya getiren büyük bir buluşma olduğunu belirtti.\n\nMÜSİAD'ın kurulduğu dönemden bu yana ekonomide, dış politikada, toplumsal hayattaki sorunlarla ilgilenen, çözümler sunan, projeler geliştiren, Türkiye ve bütün dünyaya yayılarak ulusal ve uluslararası bir güç birliği oluşturan güzide bir kuruluş olduğunu kaydeden Bolat, derneğin Türkiye'ye hizmet etmek gibi bir önceliğinin olduğunu söyledi.\n\nBolat, \"Önce Türkiye, önce halkımız\" diyerek canla başla çalıştıklarını belirterek, \"Türkiye, geçen 23 yılda çok büyük ilerlemeler sağladı. Buna en iyi şahitlik edenler sizlersiniz, vatandaşlarımız ve yurt dışına çıktığımızda bizler buna şahitlik ediyoruz. Ülkemizin yıldızı dünyada gerçekten güçlü bir şekilde parlıyor.\" ifadelerini kullandı.\n\nBugün artık 1,6 trilyon dolarlık bir Türkiye Cumhuriyeti ekonomisinden bahsedildiğini aktaran Bolat, \"Kişi başına milli gelir 23 yılda 5,5 katından fazla artış gösterdi. Türkiye 400 milyar dolarlık bir ihracat hacmine ulaştı. Biliyorsunuz geçen yılı 273,4 milyar dolar mal, 122,2 milyar dolar hizmet ihracatıyla kapattık. Gelecek yıl 400 milyar dolar hedefi için sizlerle birlikte canla başla mücadele ediyoruz.\" diye konuştu.\n\n\"Türk filmleri her gün dünyada 800 milyon kişi tarafından seyrediliyor\"\n\nBakan Bolat, Türk sanayisinin \"enler\" ligi sıralamalarında bazı ürünlerde 5'lerde, bazı ürünlerde 10'larda yer alan bir güce ulaştığını ifade ederek, Avrupa'da çelikte birinci sırada, dünyada müteahhitlikte ikinci sırada, dünyada turizmde dördüncü sırada olunduğunu anımsattı.\n\nTürkiye'ye 1,6 milyon sağlık turistinin geldiğini aktaran Bolat, \"23 yılda 285 milyar dolarlık uluslararası yatırım Türkiye'ye geldi. 88 bin uluslararası şirket, Türkiye ekonomisinin gücüne inanarak burada iş yapmak için Türkiye'ye geldi.\" değerlendirmesinde bulundu.\n\nBolat, bölgedeki birçok ülkenin varlık yokluk mücadelesi verdiği şu ortamda, \"Türkiye Yüzyılı\" hedefleri doğrultusunda \"terörün sona erdirilmiş durumda\" olduğunu aktararak, \"40 yıllık terör bitirilmiş durumda. Güney sınırlarımız artık istikrarlı, huzurlu bir konuma gelmiş durumda.\" diye konuştu.\n\nTürk savunma sanayisinin dünyada ilk 10'a girdiğini ve geçen yılı 10 milyar dolarlık ihracatla kapattığını hatırlatan Bolat, \"Türk sanayi ürünleri, savunma sanayii ürünleri, Türk inşaat sektörü, Türk turizmi, Türk gıda ürünleri kalitesiyle dünyada büyük bir itibar vesilesidir. Türk filmleri de her gün dünyada 800 milyon kişi tarafından seyrediliyor. Türkiye açısından önemli bir yumuşak güç oluşturuyor. Turizme, gastronomiye, ihracatımıza da katkısı oluyor.\" ifadelerini kullandı.\n\n\"Avrupa'daki savunma fonlarından Türk firmalarının da yararlanması için bastırıyoruz\"\n\nBakan Bolat, enflasyonla mücadelede son 1,5 yılda tam 45 puan düşüş sağlandığını belirterek, bazen tarım ürünlerinde gerçekleşen kuraklık, don, sel, ürün sıkıntısı, kuş gribi nedenlerden dolayı bu mücadelenin kolay olmadığını anlattı.\n\nBüyük bir kentsel dönüşüm çabası içerisinde olduklarını aktaran Bolat, \"Ülkemiz deprem kuşağında, binalarımızı sağlamlaştırmak zorundayız. Önemli yatırımlar yapılıyor. Türkiye, hükümetimizin büyük bir çabalarıyla deprem bölgesini ayağa kaldırdı.\" dedi.\n\nBolat, enflasyon düştükçe faizlerin düşeceğini ve imkanların da artacağını vurgulayarak, şunları kaydetti:\n\n\"Biz Ticaret Bakanlığı olarak bu yıl 45 milyar lira ihracat desteği hazırladık, geçen yıl 33 milyar liraydı. İş dünyasının yanında, esnafın, KOBİ'nin, sanayicinin, çiftçinin, emeklinin yanında yer almaya devam edeceğiz. Burada sizlerden desteğinizi esirgememenizi rica ediyoruz. Gerçekten hem dış dünyada büyük acımasız bir rekabet şartları var. Uzak Doğu'dan gelen büyük bir rekabet mücadelesi var. Avrupa pazarlarında, Amerikan pazarında, Afrika'da, Orta Asya'da, Orta Doğu'da bizler de iş dünyasının yanında yer alarak ihracat mücadelesine devam ediyoruz.\"\n\nTicari diplomasinin, Ticaret Bakanlığının en önemli faaliyetleri arasında yer aldığına işaret eden Bolat, \"200 ülkeyle ekonomik ilişkileri yürütüyoruz. Avrupa Birliği ile Gümrük Birliği'ni geliştirme, yenileme, güncelleme çabası içindeyiz. Avrupa Birliği Komisyonu, Türkiye ile ilişkileri ilerletmek istiyor. Türk sanayi ürünlerinin Avrupa projesi içinde kalması ve ihracat kabiliyetlerini artırması için yoğun bir diplomasi faaliyeti yürütüyoruz. Avrupa'daki savunma fonlarından Türk firmalarının da yararlanması için bastırıyoruz. Bu konuda da büyük bir çaba içindeyiz. Avrupa'da Türkiye'nin ekonomik gücü, sanayisinin gücü, savunmasının gücü, ordusunun gücü, teknolojik kabiliyeti çok saygınlıkla karşılanıyor. Bu anlamda Türkiye'nin Gümrük Birliği'nden doğan haklarına halel gelmemesi için büyük bir mücadele veriyoruz.\" değerlendirmesinde bulundu.",
-      "summary_tr": "Ticaret Bakanı Ömer Bolat, ticari diplomasinin Ticaret Bakanlığı'nın en önemli faaliyetleri arasında yer aldığını belirterek, \"200 ülkeyle ekonomik ilişkileri yürütüyoruz. Avrupa Birliği ile Gümrük Birliği'ni geliştirme, yenileme, güncelleme çabası içindeyiz. Avrupa Birliği Komisyonu, Türkiye ile ilişkileri ilerletmek istiyor\" dedi.Ticaret Bakanı Ömer Bolat, Müstakil Sanayici ve İşadamları Derneği'nin (MÜSİAD) Geleneksel İftar Programı'nda yaptığı konuşmada, 35 yıldan bu yana devam eden bu geleneksel iftarın, yılda bir defa kendilerini bir araya getiren büyük bir buluşma olduğunu belirtti.\n\nMÜSİAD'ın kurulduğu dönemden bu yana ekonomide, dış politikada, toplumsal hayattaki sorunlarla ilgilenen, çözümler sunan, projeler geliştiren, Türkiye ve bütün dünyaya yayılarak ulusal ve uluslararası bir güç birliği oluşturan güzide bir kuruluş olduğunu kaydeden Bolat, derneğin Türkiye'ye hizmet etmek gibi bir önceliğinin olduğunu söyledi.\n\nBolat, \"Önce Türkiye, önce halkımız\" diyerek canla başla çalıştıklarını belirterek, \"Türkiye, geçen 23 yılda çok büyük ilerlemeler sağladı. Buna en iyi şahitlik edenler sizlersiniz, vatandaşlarımız ve yurt dışına çıktığımızda bizler buna şahitlik ediyoruz. Ülkemizin yıldızı dünyada gerçekten güçlü bir şekilde parlıyor.\" ifadelerini kullandı.\n\nBugün artık 1,6 trilyon dolarlık bir Türkiye Cumhuriyeti ekonomisinden bahsedildiğini aktaran Bolat, \"Kişi başına milli gelir 23 yılda 5,5 katından fazla artış gösterdi. Türkiye 400 milyar dolarlık bir ihracat hacmine ulaştı. Biliyorsunuz geçen yılı 273,4 milyar dolar mal, 122,2 milyar dolar hizmet ihracatıyla kapattık. Gelecek yıl 400 milyar dolar hedefi için sizlerle birlikte canla başla mücadele ediyoruz.\" diye konuştu.\n\n\"Türk filmleri her gün dünyada 800 milyon kişi tarafından seyrediliyor\"\n\nBakan Bolat, Türk sanayisinin \"enler\" ligi sıralamalarında bazı ürünlerde 5'lerde, bazı ürünlerde 10'larda yer alan bir güce ulaştığını ifade ederek, Avrupa'da çelikte birinci sırada, dünyada müteahhitlikte ikinci sırada, dünyada turizmde dördüncü sırada olunduğunu anımsattı.\n\nTürkiye'ye 1,6 milyon sağlık turistinin geldiğini aktaran Bolat, \"23 yılda 285 milyar dolarlık uluslararası yatırım Türkiye'ye geldi. 88 bin uluslararası şirket, Türkiye ekonomisinin gücüne inanarak burada iş yapmak için Türkiye'ye geldi.\" değerlendirmesinde bulundu.\n\nBolat, bölgedeki birçok ülkenin varlık yokluk mücadelesi verdiği şu ortamda, \"Türkiye Yüzyılı\" hedefleri doğrultusunda \"terörün sona erdirilmiş durumda\" olduğunu aktararak, \"40 yıllık terör bitirilmiş durumda. Güney sınırlarımız artık istikrarlı, huzurlu bir konuma gelmiş durumda.\" diye konuştu.\n\nTürk savunma sanayisinin dünyada ilk 10'a girdiğini ve geçen yılı 10 milyar dolarlık ihracatla kapattığını hatırlatan Bolat, \"Türk sanayi ürünleri, savunma sanayii ürünleri, Türk inşaat sektörü, Türk turizmi, Türk gıda ürünleri kalitesiyle dünyada büyük bir itibar vesilesidir. Türk filmleri de her gün dünyada 800 milyon kişi tarafından seyrediliyor. Türkiye açısından önemli bir yumuşak güç oluşturuyor. Turizme, gastronomiye, ihracatımıza da katkısı oluyor.\" ifadelerini kullandı.\n\n\"Avrupa'daki savunma fonlarından Türk firmalarının da yararlanması için bastırıyoruz\"\n\nBakan Bolat, enflasyonla mücadelede son 1,5 yılda tam 45 puan düşüş sağlandığını belirterek, bazen tarım ürünlerinde gerçekleşen kuraklık, don, sel, ürün sıkıntısı, kuş gribi nedenlerden dolayı bu mücadelenin kolay olmadığını anlattı.\n\nBüyük bir kentsel dönüşüm çabası içerisinde olduklarını aktaran Bolat, \"Ülkemiz deprem kuşağında, binalarımızı sağlamlaştırmak zorundayız. Önemli yatırımlar yapılıyor. Türkiye, hükümetimizin büyük bir çabalarıyla deprem bölgesini ayağa kaldırdı.\" dedi.\n\nBolat, enflasyon düştükçe faizlerin düşeceğini ve imkanların da artacağını vurgulayarak, şunları kaydetti:\n\n\"Biz Ticaret Bakanlığı olarak bu yıl 45 milyar lira ihracat desteği hazırladık, geçen yıl 33 milyar liraydı. İş dünyasının yanında, esnafın, KOBİ'nin, sanayicinin, çiftçinin, emeklinin yanında yer almaya devam edeceğiz. Burada sizlerden desteğinizi esirgememenizi rica ediyoruz. Gerçekten hem dış dünyada büyük acımasız bir rekabet şartları var. Uzak Doğu'dan gelen büyük bir rekabet mücadelesi var. Avrupa pazarlarında, Amerikan pazarında, Afrika'da, Orta Asya'da, Orta Doğu'da bizler de iş dünyasının yanında yer alarak ihracat mücadelesine devam ediyoruz.\"\n\nTicari diplomasinin, Ticaret Bakanlığının en önemli faaliyetleri arasında yer aldığına işaret eden Bolat, \"200 ülkeyle ekonomik ilişkileri yürütüyoruz. Avrupa Birliği ile Gümrük Birliği'ni geliştirme, yenileme, güncelleme çabası içindeyiz. Avrupa Birliği Komisyonu, Türkiye ile ilişkileri ilerletmek istiyor. Türk sanayi ürünlerinin Avrupa projesi içinde kalması ve ihracat kabiliyetlerini artırması için yoğun bir diplomasi faaliyeti yürütüyoruz. Avrupa'daki savunma fonlarından Türk firmalarının da yararlanması için bastırıyoruz. Bu konuda da büyük bir çaba içindeyiz. Avrupa'da Türkiye'nin ekonomik gücü, sanayisinin gücü, savunmasının gücü, ordusunun gücü, teknolojik kabiliyeti çok saygınlıkla karşılanıyor. Bu anlamda Türkiye'nin Gümrük Birliği'nden doğan haklarına halel gelmemesi için büyük bir mücadele veriyoruz.\" değerlendirmesinde bulundu.",
-      "long_summary": "Ticaret Bakanı Ömer Bolat, ticari diplomasinin Ticaret Bakanlığı'nın en önemli faaliyetleri arasında yer aldığını belirterek, \"200 ülkeyle ekonomik ilişkileri yürütüyoruz. Avrupa Birliği ile Gümrük Birliği'ni geliştirme, yenileme, güncelleme çabası içindeyiz. Avrupa Birliği Komisyonu, Türkiye ile ilişkileri ilerletmek istiyor\" dedi.Ticaret Bakanı Ömer Bolat, Müstakil Sanayici ve İşadamları Derneği'nin (MÜSİAD) Geleneksel İftar Programı'nda yaptığı konuşmada, 35 yıldan bu yana devam eden bu",
-      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, ticari diplomasinin Ticaret Bakanlığı'nın en önemli faaliyetleri arasında yer aldığını belirterek, \"200 ülkeyle ekonomik ilişkileri yürütüyoruz. Avrupa Birliği ile Gümrük Birliği'ni geliştirme, yenileme, güncelleme çabası içindeyiz. Avrupa Birliği Komisyonu, Türkiye ile ilişkileri ilerletmek istiyor\" dedi.Ticaret Bakanı Ömer Bolat, Müstakil Sanayici ve İşadamları Derneği'nin (MÜSİAD) Geleneksel İftar Programı'nda yaptığı konuşmada, 35 yıldan bu yana devam eden bu",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/ekonomi/bakan-bolat-avrupa-birligi-komisyonu-turkiye-ile-iliskileri-ilerletmek-istiyor-1580792",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/02/22/bakan-bolat-avrupa-birligi-komisyonu-turkiye-ile-iliskileri-ilerletmek-istiyor-1771708247-816_large.webp",
-      "published_at": "2026-02-21T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova Merkezli Sahte Senet Operasyonu: 2 Tutuklama",
-      "title_tr": "Yalova Merkezli Sahte Senet Operasyonu: 2 Tutuklama",
-      "summary": "Yalova İl Emniyet Müdürlüğü KOM Şube ekiplerince yürütülen soruşturma kapsamında, yurt dışında bulunan bir vatandaş adına sahte senet düzenleyerek taşınmazlarını icra yoluyla satmaya çalışan 5 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 2’si tutuklanırken, 3’ü serbest bırakıldı.",
-      "summary_tr": "Yalova İl Emniyet Müdürlüğü KOM Şube ekiplerince yürütülen soruşturma kapsamında, yurt dışında bulunan bir vatandaş adına sahte senet düzenleyerek taşınmazlarını icra yoluyla satmaya çalışan 5 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 2’si tutuklanırken, 3’ü serbest bırakıldı.",
-      "long_summary": "Yalova İl Emniyet Müdürlüğü KOM Şube ekiplerince yürütülen soruşturma kapsamında, yurt dışında bulunan bir vatandaş adına sahte senet düzenleyerek taşınmazlarını icra yoluyla satmaya çalışan 5 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 2’si tutuklanırken, 3’ü serbest bırakıldı.",
-      "long_summary_tr": "Yalova İl Emniyet Müdürlüğü KOM Şube ekiplerince yürütülen soruşturma kapsamında, yurt dışında bulunan bir vatandaş adına sahte senet düzenleyerek taşınmazlarını icra yoluyla satmaya çalışan 5 şüpheli yakalandı. Adliyeye sevk edilen şüphelilerden 2’si tutuklanırken, 3’ü serbest bırakıldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-merkezli-sahte-senet-operasyonu-2-tutuklama",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-il-emniyet-mudurluk-senet-dolandiricilik-operasyon-tutuklama.jpg",
-      "published_at": "2026-02-21T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova Eğitim ve Araştırma Hastanesi’nde 3. Tur Gebe Okulu Eğitimi Tamamlandı",
-      "title_tr": "Yalova Eğitim ve Araştırma Hastanesi’nde 3. Tur Gebe Okulu Eğitimi Tamamlandı",
-      "summary": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu, anne adaylarını doğuma hazırlamak amacıyla düzenlenen 3. tur eğitim programını başarıyla tamamladı. Eğitimler, uzman doktorlar, ebe ve diyetisyen eşliğinde gerçekleştirildi.",
-      "summary_tr": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu, anne adaylarını doğuma hazırlamak amacıyla düzenlenen 3. tur eğitim programını başarıyla tamamladı. Eğitimler, uzman doktorlar, ebe ve diyetisyen eşliğinde gerçekleştirildi.",
-      "long_summary": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu, anne adaylarını doğuma hazırlamak amacıyla düzenlenen 3. tur eğitim programını başarıyla tamamladı. Eğitimler, uzman doktorlar, ebe ve diyetisyen eşliğinde gerçekleştirildi.",
-      "long_summary_tr": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu, anne adaylarını doğuma hazırlamak amacıyla düzenlenen 3. tur eğitim programını başarıyla tamamladı. Eğitimler, uzman doktorlar, ebe ve diyetisyen eşliğinde gerçekleştirildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-egitim-ve-arastirma-hastanesinde-3-tur-gebe-okulu-egitimi-tamamlandi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-egitim-arastirma-hastane-gebe-okul-egitim-anne-aday-4.jpg",
-      "published_at": "2026-02-21T21:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Başkan Avni Kurt, Şoförler ve Otomobilciler Odası Yönetimini Ağırladı",
-      "title_tr": "Başkan Avni Kurt, Şoförler ve Otomobilciler Odası Yönetimini Ağırladı",
-      "summary": "Çınarcık Belediyesi’nde gerçekleşen ziyarette, Çınarcık Şoförler ve Otomobilciler Odası Başkanı Tahsin Kalfa ve yönetimi ile ilçedeki ulaşım çalışmaları ve şoför esnafının talepleri ele alındı.",
-      "summary_tr": "Çınarcık Belediyesi’nde gerçekleşen ziyarette, Çınarcık Şoförler ve Otomobilciler Odası Başkanı Tahsin Kalfa ve yönetimi ile ilçedeki ulaşım çalışmaları ve şoför esnafının talepleri ele alındı.",
-      "long_summary": "Çınarcık Belediyesi’nde gerçekleşen ziyarette, Çınarcık Şoförler ve Otomobilciler Odası Başkanı Tahsin Kalfa ve yönetimi ile ilçedeki ulaşım çalışmaları ve şoför esnafının talepleri ele alındı.",
-      "long_summary_tr": "Çınarcık Belediyesi’nde gerçekleşen ziyarette, Çınarcık Şoförler ve Otomobilciler Odası Başkanı Tahsin Kalfa ve yönetimi ile ilçedeki ulaşım çalışmaları ve şoför esnafının talepleri ele alındı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/baskan-avni-kurt-soforler-ve-otomobilciler-odasi-yonetimini-agirladi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-cinarcik-belediye-baskan-soforler-otomobilciler-oda-yonetim-kurulu-ziyaret-gorusme.jpg",
-      "published_at": "2026-02-21T21:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Başkan Yele, Çiftlikköy’de Hayata Geçecek Yatırımları Anlattı",
-      "title_tr": "Başkan Yele, Çiftlikköy’de Hayata Geçecek Yatırımları Anlattı",
-      "summary": "Çiftlikköy Belediye Başkanı Adil Yele, Kutsi Aksay’ın Yalova Gözde FM’deki “Kutsi ile Okyanus” programına konuk olarak ilçe gündemi hakkında önemli açıklamalar yaptı.",
-      "summary_tr": "Çiftlikköy Belediye Başkanı Adil Yele, Kutsi Aksay’ın Yalova Gözde FM’deki “Kutsi ile Okyanus” programına konuk olarak ilçe gündemi hakkında önemli açıklamalar yaptı.",
-      "long_summary": "Çiftlikköy Belediye Başkanı Adil Yele, Kutsi Aksay’ın Yalova Gözde FM’deki “Kutsi ile Okyanus” programına konuk olarak ilçe gündemi hakkında önemli açıklamalar yaptı.",
-      "long_summary_tr": "Çiftlikköy Belediye Başkanı Adil Yele, Kutsi Aksay’ın Yalova Gözde FM’deki “Kutsi ile Okyanus” programına konuk olarak ilçe gündemi hakkında önemli açıklamalar yaptı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/baskan-yele-ciftlikkoyde-hayata-gececek-yatirimlari-anlatti",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-ciftlikkoy-belediye-baskan-radyo-program-aciklamalar-yatirimlar-projeler.jpg",
-      "published_at": "2026-02-21T21:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "CHP Yalova Merkez İlçe’den YTSO Çıkarması",
-      "title_tr": "CHP Yalova Merkez İlçe’den YTSO Çıkarması",
-      "summary": "CHP Yalova Merkez İlçe Başkanı Kemal Sürel ve ilçe yönetimi, Yalova’da kurumlara yönelik ziyaretleri kapsamında Yalova Ticaret ve Sanayi Odası’nı ziyaret ederek Yönetim Kurulu Başkanı Cemil Demiryürek ile bir araya geldi. Görüşmede kentin ekonomik gelişimi ve yerel kalkınma başlıkları ele alındı.",
-      "summary_tr": "CHP Yalova Merkez İlçe Başkanı Kemal Sürel ve ilçe yönetimi, Yalova’da kurumlara yönelik ziyaretleri kapsamında Yalova Ticaret ve Sanayi Odası’nı ziyaret ederek Yönetim Kurulu Başkanı Cemil Demiryürek ile bir araya geldi. Görüşmede kentin ekonomik gelişimi ve yerel kalkınma başlıkları ele alındı.",
-      "long_summary": "CHP Yalova Merkez İlçe Başkanı Kemal Sürel ve ilçe yönetimi, Yalova’da kurumlara yönelik ziyaretleri kapsamında Yalova Ticaret ve Sanayi Odası’nı ziyaret ederek Yönetim Kurulu Başkanı Cemil Demiryürek ile bir araya geldi. Görüşmede kentin ekonomik gelişimi ve yerel kalkınma başlıkları ele alındı.",
-      "long_summary_tr": "CHP Yalova Merkez İlçe Başkanı Kemal Sürel ve ilçe yönetimi, Yalova’da kurumlara yönelik ziyaretleri kapsamında Yalova Ticaret ve Sanayi Odası’nı ziyaret ederek Yönetim Kurulu Başkanı Cemil Demiryürek ile bir araya geldi. Görüşmede kentin ekonomik gelişimi ve yerel kalkınma başlıkları ele alındı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/chp-yalova-merkez-ilceden-ytso-cikarmasi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-chp-merkez-ilce-yonetim-ytso-ziyaret-2.jpg",
-      "published_at": "2026-02-21T21:06:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Nasa astronauts' moon mission delayed due to rocket issue",
-      "title_tr": "Nasa astronauts' moon mission delayed due to rocket issue",
-      "summary": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "summary_tr": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "long_summary": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "long_summary_tr": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f8/live/6cc0a920-0f4d-11f1-9a2a-8fa7cf422a25.jpg",
-      "published_at": "2026-02-21T21:05:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Medicana’dan Yalova’ya Onkoloji ve PET Merkezi Gündemi",
-      "title_tr": "Medicana’dan Yalova’ya Onkoloji ve PET Merkezi Gündemi",
-      "summary": "Medicana Bursa Hastanesi yöneticileri, Yalova Kent Konseyi Başkanı Kenan Engin’i ziyaret ederek Yalova’da Onkoloji ve PET Tarama Merkezi açılmasına yönelik ön değerlendirmelerde bulundu.",
-      "summary_tr": "Medicana Bursa Hastanesi yöneticileri, Yalova Kent Konseyi Başkanı Kenan Engin’i ziyaret ederek Yalova’da Onkoloji ve PET Tarama Merkezi açılmasına yönelik ön değerlendirmelerde bulundu.",
-      "long_summary": "Medicana Bursa Hastanesi yöneticileri, Yalova Kent Konseyi Başkanı Kenan Engin’i ziyaret ederek Yalova’da Onkoloji ve PET Tarama Merkezi açılmasına yönelik ön değerlendirmelerde bulundu.",
-      "long_summary_tr": "Medicana Bursa Hastanesi yöneticileri, Yalova Kent Konseyi Başkanı Kenan Engin’i ziyaret ederek Yalova’da Onkoloji ve PET Tarama Merkezi açılmasına yönelik ön değerlendirmelerde bulundu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/medicanadan-yalovaya-onkoloji-ve-pet-merkezi-gundemi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-bursa-medicana-kent-konseyi-onkoloji-kaser-hastalari-pet-merkez-3.jpg",
-      "published_at": "2026-02-21T21:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova Belediyesi Zabıta Ekiplerinden Ramazan’da Sıkı Denetim",
-      "title_tr": "Yalova Belediyesi Zabıta Ekiplerinden Ramazan’da Sıkı Denetim",
-      "summary": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, Ramazan Ayı nedeniyle kent genelindeki fırınlara giderek gramaj ve hijyen denetimi gerçekleştirdi.",
-      "summary_tr": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, Ramazan Ayı nedeniyle kent genelindeki fırınlara giderek gramaj ve hijyen denetimi gerçekleştirdi.",
-      "long_summary": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, Ramazan Ayı nedeniyle kent genelindeki fırınlara giderek gramaj ve hijyen denetimi gerçekleştirdi.",
-      "long_summary_tr": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, Ramazan Ayı nedeniyle kent genelindeki fırınlara giderek gramaj ve hijyen denetimi gerçekleştirdi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-belediyesi-zabita-ekiplerinden-ramazanda-siki-denetim",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-belediyesi-zabita-ekipler-gramaj-hijyen-denetim-4.jpeg",
-      "published_at": "2026-02-21T21:04:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova Barosu, Adalet Bölümü Öğrencilerini Ağırladı",
-      "title_tr": "Yalova Barosu, Adalet Bölümü Öğrencilerini Ağırladı",
-      "summary": "Yalova Adnan Menderes Mesleki ve Teknik Anadolu Lisesi Adalet Bölümü öğrencileri, Yalova Barosu’nu ziyaret ederek baro ve işleyişi hakkında bilgilendirildi.",
-      "summary_tr": "Yalova Adnan Menderes Mesleki ve Teknik Anadolu Lisesi Adalet Bölümü öğrencileri, Yalova Barosu’nu ziyaret ederek baro ve işleyişi hakkında bilgilendirildi.",
-      "long_summary": "Yalova Adnan Menderes Mesleki ve Teknik Anadolu Lisesi Adalet Bölümü öğrencileri, Yalova Barosu’nu ziyaret ederek baro ve işleyişi hakkında bilgilendirildi.",
-      "long_summary_tr": "Yalova Adnan Menderes Mesleki ve Teknik Anadolu Lisesi Adalet Bölümü öğrencileri, Yalova Barosu’nu ziyaret ederek baro ve işleyişi hakkında bilgilendirildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-barosu-adalet-bolumu-ogrencilerini-agirladi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-barosu-adnan-menderes-teknik-anadolu-lise-adalet-bolum-ogreciler-baskan-bilgilendirme-5.jpg",
-      "published_at": "2026-02-21T21:03:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "GB curlers denied Olympic gold at death yet again",
-      "title_tr": "GB curlers denied Olympic gold at death yet again",
-      "summary": "Bruce Mouat's rink are unable to end a 102-year wait for a men's Winter Olympic curling gold - and vanquish their own disappointment from 2022 - as Canada deny Team GB a fourth gold medal of this year's Games.",
-      "summary_tr": "Bruce Mouat's rink are unable to end a 102-year wait for a men's Winter Olympic curling gold - and vanquish their own disappointment from 2022 - as Canada deny Team GB a fourth gold medal of this year's Games.",
-      "long_summary": "Bruce Mouat's rink are unable to end a 102-year wait for a men's Winter Olympic curling gold - and vanquish their own disappointment from 2022 - as Canada deny Team GB a fourth gold medal of this year's Games.",
-      "long_summary_tr": "Bruce Mouat's rink are unable to end a 102-year wait for a men's Winter Olympic curling gold - and vanquish their own disappointment from 2022 - as Canada deny Team GB a fourth gold medal of this year's Games.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/c86y16qe90yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bfb/live/f7b36d30-0f69-11f1-801d-ed3cff6bf876.jpg",
-      "published_at": "2026-02-21T21:02:47+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Resmi Gazete'de bugün (22.02.2026)",
-      "title_tr": "Resmi Gazete'de bugün (22.02.2026)",
-      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "long_summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "long_summary_tr": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/resmi-gazete-de-bugun-22022026-3769838",
-      "image": null,
-      "published_at": "2026-02-21T21:02:14+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Altınova’da Altyapı Çalışmaları Aralıksız Sürüyor",
-      "title_tr": "Altınova’da Altyapı Çalışmaları Aralıksız Sürüyor",
-      "summary": "Altınova Belediyesi, Cumhuriyet Mahallesi Vakfıkebir Caddesi’nde yeni kanalizasyon hattı yapım çalışmaları gerçekleştiriyor.",
-      "summary_tr": "Altınova Belediyesi, Cumhuriyet Mahallesi Vakfıkebir Caddesi’nde yeni kanalizasyon hattı yapım çalışmaları gerçekleştiriyor.",
-      "long_summary": "Altınova Belediyesi, Cumhuriyet Mahallesi Vakfıkebir Caddesi’nde yeni kanalizasyon hattı yapım çalışmaları gerçekleştiriyor.",
-      "long_summary_tr": "Altınova Belediyesi, Cumhuriyet Mahallesi Vakfıkebir Caddesi’nde yeni kanalizasyon hattı yapım çalışmaları gerçekleştiriyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/altinovada-altyapi-calismalari-araliksiz-suruyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/02/haber/yalova-altinova-belediyesi-cumhuriyet-mahallesi-kanalizason-hat-calisma-1.jpeg",
-      "published_at": "2026-02-21T21:02:00+00:00"
     }
   ]
 }
