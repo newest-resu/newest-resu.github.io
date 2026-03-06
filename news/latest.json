@@ -1,6 +1,754 @@
 {
-  "updated_at": "2026-03-06T15:51:05.385651+00:00",
+  "updated_at": "2026-03-06T16:58:45.978192+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Ryan Gosling Had a Surprise Planned for Eva Mendes on The Tonight Show",
+      "title_tr": "Ryan Gosling Had a Surprise Planned for Eva Mendes on The Tonight Show",
+      "summary": "Ryan Gosling Had a Surprise Planned for Eva Mendes on The Tonight Show",
+      "summary_tr": "Ryan Gosling Had a Surprise Planned for Eva Mendes on The Tonight Show",
+      "long_summary": "Ryan Gosling Had a Surprise Planned for Eva Mendes on The Tonight Show",
+      "long_summary_tr": "Ryan Gosling Had a Surprise Planned for Eva Mendes on The Tonight Show",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a70639617/ryan-gosling-eva-mendes-tonight-show-appearance-details/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/e7feaa82-6fa0-43f2-983f-88259d77802b.jpeg",
+      "published_at": "2026-03-06T16:49:14+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "No deal with Iran except ‘unconditional surrender,’ Trump says",
+      "title_tr": "No deal with Iran except ‘unconditional surrender,’ Trump says",
+      "summary": "In a post on Truth Social, President Trump wrote that “IRAN WILL HAVE A GREAT FUTURE” should the Islamic Republic decide to put down its arms.",
+      "summary_tr": "In a post on Truth Social, President Trump wrote that “IRAN WILL HAVE A GREAT FUTURE” should the Islamic Republic decide to put down its arms.",
+      "long_summary": "In a post on Truth Social, President Trump wrote that “IRAN WILL HAVE A GREAT FUTURE” should the Islamic Republic decide to put down its arms.",
+      "long_summary_tr": "In a post on Truth Social, President Trump wrote that “IRAN WILL HAVE A GREAT FUTURE” should the Islamic Republic decide to put down its arms.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/your-military/2026/03/06/no-deal-with-iran-except-unconditional-surrender-trump-says/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DHO3FU7UNNA6ZNLZ7FZJGSADXI.jpg",
+      "published_at": "2026-03-06T16:45:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD Enerji Bakanı'ndan benzin fiyatları öngörüsü",
+      "title_tr": "ABD Enerji Bakanı'ndan benzin fiyatları öngörüsü",
+      "summary": "ABD Enerji Bakanı Chris Wright, Orta Doğu'daki gerilim nedeniyle yükselen benzin fiyatlarının aylar değil, haftalar içinde düşeceğini söyledi. Wright, enerji akışının yeniden sağlanması için Hürmüz Boğazı'ndan tanker geçişlerinin hızlandırılmasının hedeflendiğini belirtti.",
+      "summary_tr": "ABD Enerji Bakanı Chris Wright, Orta Doğu'daki gerilim nedeniyle yükselen benzin fiyatlarının aylar değil, haftalar içinde düşeceğini söyledi. Wright, enerji akışının yeniden sağlanması için Hürmüz Boğazı'ndan tanker geçişlerinin hızlandırılmasının hedeflendiğini belirtti.",
+      "long_summary": "ABD Enerji Bakanı Chris Wright, Orta Doğu'daki gerilim nedeniyle yükselen benzin fiyatlarının aylar değil, haftalar içinde düşeceğini söyledi. Wright, enerji akışının yeniden sağlanması için Hürmüz Boğazı'ndan tanker geçişlerinin hızlandırılmasının hedeflendiğini belirtti.",
+      "long_summary_tr": "ABD Enerji Bakanı Chris Wright, Orta Doğu'daki gerilim nedeniyle yükselen benzin fiyatlarının aylar değil, haftalar içinde düşeceğini söyledi. Wright, enerji akışının yeniden sağlanması için Hürmüz Boğazı'ndan tanker geçişlerinin hızlandırılmasının hedeflendiğini belirtti.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-enerji-bakani-ndan-benzin-fiyatlari-ongorusu-3771223",
+      "image": null,
+      "published_at": "2026-03-06T16:44:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Yıllık 78 milyar dolarlık bir maliyetle karşı karşıyayız",
+      "title_tr": "Cumhurbaşkanı Yardımcısı Yılmaz: Yıllık 78 milyar dolarlık bir maliyetle karşı karşıyayız",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Yeşilay’ın verilerine dayanarak bağımlılığın Türkiye’ye yıllık maliyetinin 78 milyar dolar olduğunu açıkladı.",
+      "summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Yeşilay’ın verilerine dayanarak bağımlılığın Türkiye’ye yıllık maliyetinin 78 milyar dolar olduğunu açıkladı.",
+      "long_summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Yeşilay’ın verilerine dayanarak bağımlılığın Türkiye’ye yıllık maliyetinin 78 milyar dolar olduğunu açıkladı.",
+      "long_summary_tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Yeşilay’ın verilerine dayanarak bağımlılığın Türkiye’ye yıllık maliyetinin 78 milyar dolar olduğunu açıkladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/cumhurbaskani-yardimcisi-yilmaz-yillik-78-milyar-dolarlik-bir-maliyetle-karsi-karsiyayiz-haberi-817373",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/24/cevdet-yilmaz-6iw8_cover.jpg",
+      "published_at": "2026-03-06T16:42:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İran diplomasisi. Dışişleri Bakanı Hakan Fidan dört mevkidaşıyla görüştü",
+      "title_tr": "İran diplomasisi. Dışişleri Bakanı Hakan Fidan dört mevkidaşıyla görüştü",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Ermenistan, Umman, Katar ve Estonya  dışişleri bakanlarıyla telefon görüşmeleri gerçekleştirdi.",
+      "summary_tr": "Dışişleri Bakanı Hakan Fidan, Ermenistan, Umman, Katar ve Estonya  dışişleri bakanlarıyla telefon görüşmeleri gerçekleştirdi.",
+      "long_summary": "Dışişleri Bakanı Hakan Fidan, Ermenistan, Umman, Katar ve Estonya  dışişleri bakanlarıyla telefon görüşmeleri gerçekleştirdi.",
+      "long_summary_tr": "Dışişleri Bakanı Hakan Fidan, Ermenistan, Umman, Katar ve Estonya  dışişleri bakanlarıyla telefon görüşmeleri gerçekleştirdi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidan-ermenistanli-mevkidasi-mirzoyan-ile-telefonda-gorustu-1714815",
+      "image": "https://images.ntv.com.tr/images/hakanfidan-207013.jpg",
+      "published_at": "2026-03-06T16:40:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakan Bolat'tan Made in EU açıklaması",
+      "title_tr": "Bakan Bolat'tan Made in EU açıklaması",
+      "summary": "Ticaret Bakanı Ömer Bolat, AB&#039;nin &quot;Sanayi Hızlandırma Yasası&quot; (Made in EU) taslağında Gümrük Birliği’nin özel konumunun yer almasından duyulan memnuniyeti dile getirerek; Türk üreticilerin AB&#039;deki kamu alımlarına katılımı ve sübvansiyonlardan yararlanması için atılacak adımların kararlılıkla sürdürüleceğini açıkladı.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, AB&#039;nin &quot;Sanayi Hızlandırma Yasası&quot; (Made in EU) taslağında Gümrük Birliği’nin özel konumunun yer almasından duyulan memnuniyeti dile getirerek; Türk üreticilerin AB&#039;deki kamu alımlarına katılımı ve sübvansiyonlardan yararlanması için atılacak adımların kararlılıkla sürdürüleceğini açıkladı.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, AB&#039;nin &quot;Sanayi Hızlandırma Yasası&quot; (Made in EU) taslağında Gümrük Birliği’nin özel konumunun yer almasından duyulan memnuniyeti dile getirerek; Türk üreticilerin AB&#039;deki kamu alımlarına katılımı ve sübvansiyonlardan yararlanması için atılacak adımların kararlılıkla sürdürüleceğini açıkladı.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, AB&#039;nin &quot;Sanayi Hızlandırma Yasası&quot; (Made in EU) taslağında Gümrük Birliği’nin özel konumunun yer almasından duyulan memnuniyeti dile getirerek; Türk üreticilerin AB&#039;deki kamu alımlarına katılımı ve sübvansiyonlardan yararlanması için atılacak adımların kararlılıkla sürdürüleceğini açıkladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/bakan-bolattan-made-in-eu-aciklamasi-haberi-817372",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/17/omer-bolat-2n7s_cover.jpg",
+      "published_at": "2026-03-06T16:38:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'What is a foul? What is a contact?' - Nuno calls for clarity",
+      "title_tr": "'What is a foul? What is a contact?' - Nuno calls for clarity",
+      "summary": "West Ham manager Nuno Espirito Santo is calling for clarity on what constitutes a foul at set-pieces, warning current levels of grappling and blocking are \"almost crazy\".",
+      "summary_tr": "West Ham manager Nuno Espirito Santo is calling for clarity on what constitutes a foul at set-pieces, warning current levels of grappling and blocking are \"almost crazy\".",
+      "long_summary": "West Ham manager Nuno Espirito Santo is calling for clarity on what constitutes a foul at set-pieces, warning current levels of grappling and blocking are \"almost crazy\".",
+      "long_summary_tr": "West Ham manager Nuno Espirito Santo is calling for clarity on what constitutes a foul at set-pieces, warning current levels of grappling and blocking are \"almost crazy\".",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cev7k83zv12o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a9/live/7c9b1df0-1973-11f1-a394-29243d7b0fc8.jpg",
+      "published_at": "2026-03-06T16:34:53+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "US sinking of Iranian navy ship stirs controversy in Australia, India",
+      "title_tr": "US sinking of Iranian navy ship stirs controversy in Australia, India",
+      "summary": "Australia has confirmed that three of its sailors were on board the nuclear-powered attack submarine when it struck the Iranian frigate, though Prime Minister Anthony Albanese has denied that they took part in the action.",
+      "summary_tr": "Australia has confirmed that three of its sailors were on board the nuclear-powered attack submarine when it struck the Iranian frigate, though Prime Minister Anthony Albanese has denied that they took part in the action.",
+      "long_summary": "Australia has confirmed that three of its sailors were on board the nuclear-powered attack submarine when it struck the Iranian frigate, though Prime Minister Anthony Albanese has denied that they took part in the action.",
+      "long_summary_tr": "Australia has confirmed that three of its sailors were on board the nuclear-powered attack submarine when it struck the Iranian frigate, though Prime Minister Anthony Albanese has denied that they took part in the action.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/03/us-sinking-of-iranian-navy-ship-stirs-controversy-in-australia-india/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/8605510-e1734715082534-1024x577.jpg",
+      "published_at": "2026-03-06T16:25:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Autocar",
+      "title": "New MG concept to preview Renault 5 rival",
+      "title_tr": "New MG concept to preview Renault 5 rival",
+      "summary": "Expected to be badged MG 2, the new EV will slot below the new MG 4 Urban in a growing line-up\n\nMG will unveil a concept that previews its long-awaited new small electric car at the Goodwood Festival of Speed in July, the brand has told Autocar.\nExpected to take the MG 2 nameplate, the new four-metre-long model will sit below the new £23,495 MG 4 Urban to give the brand a rival to small EVs such as the Renault 5, BYD Dolphin Surf and upcoming Volkswagen ID Polo.\nThe production car will arrive toward the end of 2027, MG head of Europe William Wang told Autocar.\nThe MG 2 is expected to use the same front-wheel-drive E3 electric platform that underpins the MG 4 Urban, which is priced from £23,495 with a 42.8kWh battery. \nThe small EV could also be offered with the Urban’s forthcoming semi-solid-state battery, which uses a gel-like electrolyte to reduce the impact of cold temperatures on the range as well as improve the safety of the cells.\nThe MG 2 forms part of a new model push by the SAIC-owned brand to increase the number of models it sells in Europe to up to 18 within the next two years, said Wang. \nUK boss David Allison has previously told Autocar that the segment below the MG 4 was “the obvious area of the market that's next to happen” and MG “obviously” had to be in there.\n“I’ve always felt that was the next market that was going to happen, because as Europe transitions towards EVs, inevitably the easiest way of making them more affordable is downsizing,” he added.\nThe response to the launch of the Renault 5 also gave the brand confidence that the market for small, affordable EVs in the UK is much bigger than previously expected. “The Renault 5 has made the job much more important,” he said.\nThe incoming MG 2 will have a much more European-focused design than other models in the line-up to reflect its bigger role in the region, compared with other markets. As such, it will be designed in the UK, said Allison previously.\nThe model is also expected to expand MG’s EV presence in small-car markets like Italy, although current tariffs on China-built EVs would make it a good candidate for MG’s new European plant, which could come on stream as early as 2027. MG has yet to announce the location for the plant.\nAs well as launching smaller-sized models, MG will also expand its range at the bigger end of the market with the S9, a large plug-in hybrid SUV due later this year. Euro NCAP inadvertently announced the model’s European arrival, prior to its official unveiling, when it released its crash test results.\nMG’s sales in the UK are currently dominated by the HS compact SUV in combustion-engined, hybrid and plug-in hybrid formats and the smaller ZS SUV, largely as a hybrid. \nMG’s electric sales shrunk by 23% last year in the UK to account for just a fifth of the brand’s 85,000 total, as hybrids moved into the lead, headed by the ZS. \nHowever, the brand has expanded its EV line-up in recent months to include the S6 and S5 SUVs as well as the MG 4 Urban.",
+      "summary_tr": "Expected to be badged MG 2, the new EV will slot below the new MG 4 Urban in a growing line-up\n\nMG will unveil a concept that previews its long-awaited new small electric car at the Goodwood Festival of Speed in July, the brand has told Autocar.\nExpected to take the MG 2 nameplate, the new four-metre-long model will sit below the new £23,495 MG 4 Urban to give the brand a rival to small EVs such as the Renault 5, BYD Dolphin Surf and upcoming Volkswagen ID Polo.\nThe production car will arrive toward the end of 2027, MG head of Europe William Wang told Autocar.\nThe MG 2 is expected to use the same front-wheel-drive E3 electric platform that underpins the MG 4 Urban, which is priced from £23,495 with a 42.8kWh battery. \nThe small EV could also be offered with the Urban’s forthcoming semi-solid-state battery, which uses a gel-like electrolyte to reduce the impact of cold temperatures on the range as well as improve the safety of the cells.\nThe MG 2 forms part of a new model push by the SAIC-owned brand to increase the number of models it sells in Europe to up to 18 within the next two years, said Wang. \nUK boss David Allison has previously told Autocar that the segment below the MG 4 was “the obvious area of the market that's next to happen” and MG “obviously” had to be in there.\n“I’ve always felt that was the next market that was going to happen, because as Europe transitions towards EVs, inevitably the easiest way of making them more affordable is downsizing,” he added.\nThe response to the launch of the Renault 5 also gave the brand confidence that the market for small, affordable EVs in the UK is much bigger than previously expected. “The Renault 5 has made the job much more important,” he said.\nThe incoming MG 2 will have a much more European-focused design than other models in the line-up to reflect its bigger role in the region, compared with other markets. As such, it will be designed in the UK, said Allison previously.\nThe model is also expected to expand MG’s EV presence in small-car markets like Italy, although current tariffs on China-built EVs would make it a good candidate for MG’s new European plant, which could come on stream as early as 2027. MG has yet to announce the location for the plant.\nAs well as launching smaller-sized models, MG will also expand its range at the bigger end of the market with the S9, a large plug-in hybrid SUV due later this year. Euro NCAP inadvertently announced the model’s European arrival, prior to its official unveiling, when it released its crash test results.\nMG’s sales in the UK are currently dominated by the HS compact SUV in combustion-engined, hybrid and plug-in hybrid formats and the smaller ZS SUV, largely as a hybrid. \nMG’s electric sales shrunk by 23% last year in the UK to account for just a fifth of the brand’s 85,000 total, as hybrids moved into the lead, headed by the ZS. \nHowever, the brand has expanded its EV line-up in recent months to include the S6 and S5 SUVs as well as the MG 4 Urban.",
+      "long_summary": "Expected to be badged MG 2, the new EV will slot below the new MG 4 Urban in a growing line-up\n\nMG will unveil a concept that previews its long-awaited new small electric car at the Goodwood Festival of Speed in July, the brand has told Autocar.\nExpected to take the MG 2 nameplate, the new four-metre-long model will sit below the new £23,495 MG 4 Urban to give the brand a rival to small EVs such as the Renault 5, BYD Dolphin Surf and upcoming Volkswagen ID Polo.\nThe production car will arrive",
+      "long_summary_tr": "Expected to be badged MG 2, the new EV will slot below the new MG 4 Urban in a growing line-up\n\nMG will unveil a concept that previews its long-awaited new small electric car at the Goodwood Festival of Speed in July, the brand has told Autocar.\nExpected to take the MG 2 nameplate, the new four-metre-long model will sit below the new £23,495 MG 4 Urban to give the brand a rival to small EVs such as the Renault 5, BYD Dolphin Surf and upcoming Volkswagen ID Polo.\nThe production car will arrive",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/new-mg-concept-preview-renault-5-rival",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mg2render_0.jpg?itok=qKLJWSdW",
+      "published_at": "2026-03-06T16:21:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "DA Davidson, ABD restoranlarının 2026’da toparlanacağını öngörüyor",
+      "title_tr": "DA Davidson, ABD restoranlarının 2026’da toparlanacağını öngörüyor",
+      "summary": "DA Davidson, ABD restoranlarının 2026’da toparlanacağını öngörüyor",
+      "summary_tr": "DA Davidson, ABD restoranlarının 2026’da toparlanacağını öngörüyor",
+      "long_summary": "DA Davidson, ABD restoranlarının 2026’da toparlanacağını öngörüyor",
+      "long_summary_tr": "DA Davidson, ABD restoranlarının 2026’da toparlanacağını öngörüyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/da-davidson-abd-restoranlarnn-2026da-toparlanacagn-ongoruyor-3798737",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T16:21:09+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Steam Game Briefly Replaced By A Completely Different, Unannounced Project",
+      "title_tr": "Steam Game Briefly Replaced By A Completely Different, Unannounced Project",
+      "summary": "Someone at Teyon apparently made a very big mistake today, as Steam players who purchased RoboCop: Rogue City - Unfinished Business found their game completely erased and replaced by a different title that wasn't formally announced.A user on X who goes by Silent was the first to notice that Unfinished Business was swapped out for Hunter: The Reckoning, a project that appears to be based on a spin-off from the World of Darkness tabletop RPGs.Title screen says Hunter: The Reckoning, but the actual games under that title are by another developer and are 2D text based, unlike whatever this is. Doesn't look very hunter-like either so I doubt this is their Hunting Simulator 3. (Screenshots by @jas0n_098) pic.twitter.com/sikon1Mfvc  — Edness (@EdnessTweets) March 6, 2026              As noted in a later post from Edness, the build in question is dated May 20, 2025, and it appears to be very early in its development and far from finished. The Hunter: The Reckoning files were subsequently pulled from Steam and replaced with the originally intended update for Unfinished Business. It's unknown if Hunter: The Reckoning progressed beyond this build or if it will ever come out. There were three Hunter: The Reckoning video games released between 2002-2003, but none since.Continue Reading at GameSpot",
+      "summary_tr": "Someone at Teyon apparently made a very big mistake today, as Steam players who purchased RoboCop: Rogue City - Unfinished Business found their game completely erased and replaced by a different title that wasn't formally announced.A user on X who goes by Silent was the first to notice that Unfinished Business was swapped out for Hunter: The Reckoning, a project that appears to be based on a spin-off from the World of Darkness tabletop RPGs.Title screen says Hunter: The Reckoning, but the actual games under that title are by another developer and are 2D text based, unlike whatever this is. Doesn't look very hunter-like either so I doubt this is their Hunting Simulator 3. (Screenshots by @jas0n_098) pic.twitter.com/sikon1Mfvc  — Edness (@EdnessTweets) March 6, 2026              As noted in a later post from Edness, the build in question is dated May 20, 2025, and it appears to be very early in its development and far from finished. The Hunter: The Reckoning files were subsequently pulled from Steam and replaced with the originally intended update for Unfinished Business. It's unknown if Hunter: The Reckoning progressed beyond this build or if it will ever come out. There were three Hunter: The Reckoning video games released between 2002-2003, but none since.Continue Reading at GameSpot",
+      "long_summary": "Someone at Teyon apparently made a very big mistake today, as Steam players who purchased RoboCop: Rogue City - Unfinished Business found their game completely erased and replaced by a different title that wasn't formally announced.A user on X who goes by Silent was the first to notice that Unfinished Business was swapped out for Hunter: The Reckoning, a project that appears to be based on a spin-off from the World of Darkness tabletop RPGs.Title screen says Hunter: The Reckoning, but the",
+      "long_summary_tr": "Someone at Teyon apparently made a very big mistake today, as Steam players who purchased RoboCop: Rogue City - Unfinished Business found their game completely erased and replaced by a different title that wasn't formally announced.A user on X who goes by Silent was the first to notice that Unfinished Business was swapped out for Hunter: The Reckoning, a project that appears to be based on a spin-off from the World of Darkness tabletop RPGs.Title screen says Hunter: The Reckoning, but the",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/steam-game-briefly-replaced-by-a-completely-different-unannounced-project/1100-6538633/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4662763-robocoproguecityunfinishedbusinessfiend.jpg",
+      "published_at": "2026-03-06T16:21:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "Pentagon’s new chief data officer to push ‘AI capabilities to warfighters’",
+      "title_tr": "Pentagon’s new chief data officer to push ‘AI capabilities to warfighters’",
+      "summary": "The Pentagon announced two key hires for data and cybersecurity positions.",
+      "summary_tr": "The Pentagon announced two key hires for data and cybersecurity positions.",
+      "long_summary": "The Pentagon announced two key hires for data and cybersecurity positions.",
+      "long_summary_tr": "The Pentagon announced two key hires for data and cybersecurity positions.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/03/pentagons-new-chief-data-officer-to-push-ai-capabilities-to-warfighters/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/240423_DVIDS_army_AI_computer_8273073-scaled-e1713879740102-1024x577.jpg",
+      "published_at": "2026-03-06T16:18:42+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "All About Harry Styles’s Dating History",
+      "title_tr": "All About Harry Styles’s Dating History",
+      "summary": "All About Harry Styles’s Dating History",
+      "summary_tr": "All About Harry Styles’s Dating History",
+      "long_summary": "All About Harry Styles’s Dating History",
+      "long_summary_tr": "All About Harry Styles’s Dating History",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a43149755/harry-styles-dating/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/harry-styles-performs-on-stage-during-the-brit-awards-2023-news-photo-1748198323.pjpeg",
+      "published_at": "2026-03-06T16:18:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "A Streaming Guide to The Bride!",
+      "title_tr": "A Streaming Guide to The Bride!",
+      "summary": "A Streaming Guide to The Bride!",
+      "summary_tr": "A Streaming Guide to The Bride!",
+      "long_summary": "A Streaming Guide to The Bride!",
+      "long_summary_tr": "A Streaming Guide to The Bride!",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a70608915/how-to-watch-the-bride-streaming/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/86d45bd8-8fb0-405d-b366-b309ff786f8e.jpeg",
+      "published_at": "2026-03-06T16:17:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'We don't know what is a foul' - Nuno wants set-piece review",
+      "title_tr": "'We don't know what is a foul' - Nuno wants set-piece review",
+      "summary": "With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.",
+      "summary_tr": "With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.",
+      "long_summary": "With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.",
+      "long_summary_tr": "With increased attention on grappling at corner kicks in the Premier League, West Ham head coach Nuno Espirito Santo wants officials to explain what is and is not a foul.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/cdr2mnmll3po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cab3/live/e00b6cc0-1971-11f1-801d-ed3cff6bf876.jpg",
+      "published_at": "2026-03-06T16:17:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Borsa günü düşüşle tamamladı",
+      "title_tr": "Borsa günü düşüşle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,19 değer kaybederek 12.792,81 puandan tamamladı.",
+      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,19 değer kaybederek 12.792,81 puandan tamamladı.",
+      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,19 değer kaybederek 12.792,81 puandan tamamladı.",
+      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 2,19 değer kaybederek 12.792,81 puandan tamamladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/borsa/borsa-gunu-dususle-tamamladi-haberi-817369",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/08/14/borsa-istanbul-xy5k-cover-34o2-cove-gtie_cover.jpg",
+      "published_at": "2026-03-06T16:12:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "Patriot production delays prompt Switzerland to seek European air-defense fallback",
+      "title_tr": "Patriot production delays prompt Switzerland to seek European air-defense fallback",
+      "summary": "The country will also buy fewer Lockheed Martin F-35 jets than initially planned after unit costs of the fighter increased.",
+      "summary_tr": "The country will also buy fewer Lockheed Martin F-35 jets than initially planned after unit costs of the fighter increased.",
+      "long_summary": "The country will also buy fewer Lockheed Martin F-35 jets than initially planned after unit costs of the fighter increased.",
+      "long_summary_tr": "The country will also buy fewer Lockheed Martin F-35 jets than initially planned after unit costs of the fighter increased.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/global/europe/2026/03/06/patriot-production-delays-prompt-switzerland-to-seek-european-air-defense-fallback/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SF26XJZEJ5HPLK245NYRPFJB4Y.jpg",
+      "published_at": "2026-03-06T16:03:37+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Prenetics hisseleri 40 milyon dolarlık geri alım sonrası yükseldi",
+      "title_tr": "Prenetics hisseleri 40 milyon dolarlık geri alım sonrası yükseldi",
+      "summary": "Prenetics hisseleri 40 milyon dolarlık geri alım sonrası yükseldi",
+      "summary_tr": "Prenetics hisseleri 40 milyon dolarlık geri alım sonrası yükseldi",
+      "long_summary": "Prenetics hisseleri 40 milyon dolarlık geri alım sonrası yükseldi",
+      "long_summary_tr": "Prenetics hisseleri 40 milyon dolarlık geri alım sonrası yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/prenetics-hisseleri-40-milyon-dolarlk-geri-alm-sonras-yukseldi-93CH-3798717",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T16:02:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "163 surrendered rats seek new homes in Massachusetts",
+      "title_tr": "163 surrendered rats seek new homes in Massachusetts",
+      "summary": "‘Rats have a bad reputation, but they actually make really great companion pets.’\nThe post 163 surrendered rats seek new homes in Massachusetts appeared first on Popular Science.",
+      "summary_tr": "‘Rats have a bad reputation, but they actually make really great companion pets.’\nThe post 163 surrendered rats seek new homes in Massachusetts appeared first on Popular Science.",
+      "long_summary": "‘Rats have a bad reputation, but they actually make really great companion pets.’\nThe post 163 surrendered rats seek new homes in Massachusetts appeared first on Popular Science.",
+      "long_summary_tr": "‘Rats have a bad reputation, but they actually make really great companion pets.’\nThe post 163 surrendered rats seek new homes in Massachusetts appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/environment/adopt-pet-rat-massachusetts/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/03/two-rats.png?quality=85",
+      "published_at": "2026-03-06T16:02:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Borthwick banks on bibs to beat Italy and ease brewing crisis",
+      "title_tr": "Borthwick banks on bibs to beat Italy and ease brewing crisis",
+      "summary": "Steve Borthwick has abandoned his philosophy of continuity and cohesion in the hope that selection shock therapy will cure his England side's malaise.",
+      "summary_tr": "Steve Borthwick has abandoned his philosophy of continuity and cohesion in the hope that selection shock therapy will cure his England side's malaise.",
+      "long_summary": "Steve Borthwick has abandoned his philosophy of continuity and cohesion in the hope that selection shock therapy will cure his England side's malaise.",
+      "long_summary_tr": "Steve Borthwick has abandoned his philosophy of continuity and cohesion in the hope that selection shock therapy will cure his England side's malaise.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cvg10jwv442o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f3e/live/bddd1410-1970-11f1-801d-ed3cff6bf876.jpg",
+      "published_at": "2026-03-06T16:01:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Maris Tech hisseleri hisse arzı sonrası düştü",
+      "title_tr": "Maris Tech hisseleri hisse arzı sonrası düştü",
+      "summary": "Maris Tech hisseleri hisse arzı sonrası düştü",
+      "summary_tr": "Maris Tech hisseleri hisse arzı sonrası düştü",
+      "long_summary": "Maris Tech hisseleri hisse arzı sonrası düştü",
+      "long_summary_tr": "Maris Tech hisseleri hisse arzı sonrası düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/maris-tech-hisseleri-hisse-arz-sonras-dustu-93CH-3798715",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T16:00:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Huawei Watch GT 6 için HarmonyOS 6 Beta Çıktı",
+      "title_tr": "Huawei Watch GT 6 için HarmonyOS 6 Beta Çıktı",
+      "summary": "Huawei Watch GT 6 serisi için heyecanla beklenen HarmonyOS 6.0.0.328 beta programı resmen başlatıldı. Şirket, amiral gemisi akıllı saatlerine yepyeni yetenekler kazandıracak bu kapalı yazılım testine kullanıcıları davet ediyor. Huawei Watch GT 6’ya Yeni Özellikler Geliyor Huawei tarafından yapılan açıklamaya göre bu yeni sürüm tam bir yazılım evrimi niteliği taşıyor. Güncelleme ile birlikte akıllı saatlere […]",
+      "summary_tr": "Huawei Watch GT 6 serisi için heyecanla beklenen HarmonyOS 6.0.0.328 beta programı resmen başlatıldı. Şirket, amiral gemisi akıllı saatlerine yepyeni yetenekler kazandıracak bu kapalı yazılım testine kullanıcıları davet ediyor. Huawei Watch GT 6’ya Yeni Özellikler Geliyor Huawei tarafından yapılan açıklamaya göre bu yeni sürüm tam bir yazılım evrimi niteliği taşıyor. Güncelleme ile birlikte akıllı saatlere […]",
+      "long_summary": "Huawei Watch GT 6 serisi için heyecanla beklenen HarmonyOS 6.0.0.328 beta programı resmen başlatıldı. Şirket, amiral gemisi akıllı saatlerine yepyeni yetenekler kazandıracak bu kapalı yazılım testine kullanıcıları davet ediyor. Huawei Watch GT 6’ya Yeni Özellikler Geliyor Huawei tarafından yapılan açıklamaya göre bu yeni sürüm tam bir yazılım evrimi niteliği taşıyor. Güncelleme ile birlikte akıllı saatlere […]",
+      "long_summary_tr": "Huawei Watch GT 6 serisi için heyecanla beklenen HarmonyOS 6.0.0.328 beta programı resmen başlatıldı. Şirket, amiral gemisi akıllı saatlerine yepyeni yetenekler kazandıracak bu kapalı yazılım testine kullanıcıları davet ediyor. Huawei Watch GT 6’ya Yeni Özellikler Geliyor Huawei tarafından yapılan açıklamaya göre bu yeni sürüm tam bir yazılım evrimi niteliği taşıyor. Güncelleme ile birlikte akıllı saatlere […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/huawei-watch-gt-6-icin-harmonyos-6-beta-cikti",
+      "image": null,
+      "published_at": "2026-03-06T16:00:14+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Leeds condemn 'disappointing' Ramadan boos but cite 'mitigating circumstances'",
+      "title_tr": "Leeds condemn 'disappointing' Ramadan boos but cite 'mitigating circumstances'",
+      "summary": "Leeds have condemned the \"unexpected and disappointing\" booing from fans during a scheduled pause for players to break their Ramadan fast in last weekend's defeat to Man City - but set out a number of \"mitigating circumstances\" in their defence.",
+      "summary_tr": "Leeds have condemned the \"unexpected and disappointing\" booing from fans during a scheduled pause for players to break their Ramadan fast in last weekend's defeat to Man City - but set out a number of \"mitigating circumstances\" in their defence.",
+      "long_summary": "Leeds have condemned the \"unexpected and disappointing\" booing from fans during a scheduled pause for players to break their Ramadan fast in last weekend's defeat to Man City - but set out a number of \"mitigating circumstances\" in their defence.",
+      "long_summary_tr": "Leeds have condemned the \"unexpected and disappointing\" booing from fans during a scheduled pause for players to break their Ramadan fast in last weekend's defeat to Man City - but set out a number of \"mitigating circumstances\" in their defence.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13516180/ramadan-booing-leeds-attempt-to-explain-disappointing-and-unexpected-response-from-crowd-during-manchester-city-defeat",
+      "image": "https://e2.365dm.com/26/02/1920x1080/skysports-leeds-man-city_7177979.png?20260228175847",
+      "published_at": "2026-03-06T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Ted Season 2 Exclusive: Go Behind the Scenes of the Special Dungeons & Dragons Episode",
+      "title_tr": "Ted Season 2 Exclusive: Go Behind the Scenes of the Special Dungeons & Dragons Episode",
+      "summary": "The Ted and fantasy universes might not make for the most obvious crossover, but as IGN discovered when it visited the set of the Dungeons & Dragons episode, a huge amount of work went into making sure this was a true tribute to the iconic tabletop game.",
+      "summary_tr": "The Ted and fantasy universes might not make for the most obvious crossover, but as IGN discovered when it visited the set of the Dungeons & Dragons episode, a huge amount of work went into making sure this was a true tribute to the iconic tabletop game.",
+      "long_summary": "The Ted and fantasy universes might not make for the most obvious crossover, but as IGN discovered when it visited the set of the Dungeons & Dragons episode, a huge amount of work went into making sure this was a true tribute to the iconic tabletop game.",
+      "long_summary_tr": "The Ted and fantasy universes might not make for the most obvious crossover, but as IGN discovered when it visited the set of the Dungeons & Dragons episode, a huge amount of work went into making sure this was a true tribute to the iconic tabletop game.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/ted-season-2-exclusive-go-behind-the-scenes-of-the-special-dungeons-dragons-episode",
+      "image": "https://assets-prd.ignimgs.com/2026/03/04/ted-dnd-episode-blogroll-1772664016261.jpg",
+      "published_at": "2026-03-06T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Where To Preorder Toxic Commando, John Carpenter's Official Video Game",
+      "title_tr": "Where To Preorder Toxic Commando, John Carpenter's Official Video Game",
+      "summary": "John Carpenter's Toxic Commando                                                                                            $40 | Releases March 12                                                                                                                                                                                                                                                              Preorder at Amazon (PS5)                                                                                                                                                                           Preorder at Amazon                                                                    Gaming hardware evolves, and trends change, but if there's one constant in life, it's that slaying zombies will always be fun. Later this year, you can continue that fine tradition in John Carpenter's Toxic Commando, a squad-based first-person shooter set in the middle of a zombie apocalypse. The game launches for PlayStation 5, Xbox Series X|S, and PC on March 12, and preorders are available now, including $40 physical PS5 or Xbox Series X editions. Preordering the game gets you a few pieces of bonus DLC.John Carpenter's Toxic Commando Preorder BonusThe preorder bonus for John Carpenter's Toxic Commando is the Leon's Secret Stash DLC. This unlocks a new skin for each of the game's playable characters and upgrades your arsenal with the ACW-20 primary weapon and the Wakizashi melee weapon. You'll also get the \"First In Last Out\" player profile and title.                                                                                                        John Carpenter's Toxic Commando                                                                $40 | Releases March 12                                                                                                                                                                                                                      John Carpenter's Toxic Commando is available in a standard edition that gets you the full game, plus the Leon's Secret Stash DLC preorder bonus if you purchase ahead of launch. Physical PS5 and Xbox Series X versions are available to preorder for $40 at Amazon. Digital preorders are also available.                                                        Preorder at Amazon (PS5)                                                                                                                            Preorder at Amazon                                                                          Set in a world where a corporation has unwittingly unleashed the apocalypse on humanity, Toxic Commando leverages John Carpenter's signature filmmaking style to deliver a co-op shooter with '80s horror and over-the-top action vibes. Developed by Saber Interactive--a company that previously unleashed the undead in the well-received World War Z video game--up to four players can team up to take on the zombie hordes in large open-world maps.Continue Reading at GameSpot",
+      "summary_tr": "John Carpenter's Toxic Commando                                                                                            $40 | Releases March 12                                                                                                                                                                                                                                                              Preorder at Amazon (PS5)                                                                                                                                                                           Preorder at Amazon                                                                    Gaming hardware evolves, and trends change, but if there's one constant in life, it's that slaying zombies will always be fun. Later this year, you can continue that fine tradition in John Carpenter's Toxic Commando, a squad-based first-person shooter set in the middle of a zombie apocalypse. The game launches for PlayStation 5, Xbox Series X|S, and PC on March 12, and preorders are available now, including $40 physical PS5 or Xbox Series X editions. Preordering the game gets you a few pieces of bonus DLC.John Carpenter's Toxic Commando Preorder BonusThe preorder bonus for John Carpenter's Toxic Commando is the Leon's Secret Stash DLC. This unlocks a new skin for each of the game's playable characters and upgrades your arsenal with the ACW-20 primary weapon and the Wakizashi melee weapon. You'll also get the \"First In Last Out\" player profile and title.                                                                                                        John Carpenter's Toxic Commando                                                                $40 | Releases March 12                                                                                                                                                                                                                      John Carpenter's Toxic Commando is available in a standard edition that gets you the full game, plus the Leon's Secret Stash DLC preorder bonus if you purchase ahead of launch. Physical PS5 and Xbox Series X versions are available to preorder for $40 at Amazon. Digital preorders are also available.                                                        Preorder at Amazon (PS5)                                                                                                                            Preorder at Amazon                                                                          Set in a world where a corporation has unwittingly unleashed the apocalypse on humanity, Toxic Commando leverages John Carpenter's signature filmmaking style to deliver a co-op shooter with '80s horror and over-the-top action vibes. Developed by Saber Interactive--a company that previously unleashed the undead in the well-received World War Z video game--up to four players can team up to take on the zombie hordes in large open-world maps.Continue Reading at GameSpot",
+      "long_summary": "John Carpenter's Toxic Commando                                                                                            $40 | Releases March 12                                                                                                                                                                                                                                                              Preorder at Amazon (PS5)                                                                           ",
+      "long_summary_tr": "John Carpenter's Toxic Commando                                                                                            $40 | Releases March 12                                                                                                                                                                                                                                                              Preorder at Amazon (PS5)                                                                           ",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/john-carpenters-toxic-commando-buying-guide/1100-6537789/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4643497-jc-toxic-commando.jpg",
+      "published_at": "2026-03-06T16:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Mercedes-AMG, 4-Kapılı GT'nin iç mekan görsellerini yayınladı!",
+      "title_tr": "Mercedes-AMG, 4-Kapılı GT'nin iç mekan görsellerini yayınladı!",
+      "summary": "AMG.EA tabanlı model, ekranlarla dolu bir kokpite sahip.",
+      "summary_tr": "AMG.EA tabanlı model, ekranlarla dolu bir kokpite sahip.",
+      "long_summary": "AMG.EA tabanlı model, ekranlarla dolu bir kokpite sahip.",
+      "long_summary_tr": "AMG.EA tabanlı model, ekranlarla dolu bir kokpite sahip.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/789233/amg-4kapiligt-ic-mekan/",
+      "image": "https://cdn.motor1.com/images/mgl/lEGEMJ/s3/mercedes-amg-gt-4-turer-2026-cockpit-detail.jpg",
+      "published_at": "2026-03-06T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Nina Dobrev Doesn’t Believe in ‘Dressing Your Age’",
+      "title_tr": "Nina Dobrev Doesn’t Believe in ‘Dressing Your Age’",
+      "summary": "We got her style rules straight from Chloé’s front row.",
+      "summary_tr": "We got her style rules straight from Chloé’s front row.",
+      "long_summary": "We got her style rules straight from Chloé’s front row.",
+      "long_summary_tr": "We got her style rules straight from Chloé’s front row.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/celebrity-style/a70629216/nina-dobrev-chloe-fall-2026-show-personal-style-interview/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ftra0410-69ab030182dcb.jpg",
+      "published_at": "2026-03-06T15:59:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Bakan Bolat, AB ile \"Made in EU\" taslağını görüştü",
+      "title_tr": "Bakan Bolat, AB ile \"Made in EU\" taslağını görüştü",
+      "summary": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu'nun Genişleme ve Komşulu \"Made in EU\" taslağını ele aldıklarını açıkladı. Görüşmede Gümrük Birliği'nin konumu, Türk üreticilerin AB'de kamu alımlarına katılımı ve Türkiye-AB ekonomik entegrasyonunun geliştirilmesine yönelik adımlar değerlendirildi.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu'nun Genişleme ve Komşulu \"Made in EU\" taslağını ele aldıklarını açıkladı. Görüşmede Gümrük Birliği'nin konumu, Türk üreticilerin AB'de kamu alımlarına katılımı ve Türkiye-AB ekonomik entegrasyonunun geliştirilmesine yönelik adımlar değerlendirildi.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu'nun Genişleme ve Komşulu \"Made in EU\" taslağını ele aldıklarını açıkladı. Görüşmede Gümrük Birliği'nin konumu, Türk üreticilerin AB'de kamu alımlarına katılımı ve Türkiye-AB ekonomik entegrasyonunun geliştirilmesine yönelik adımlar değerlendirildi.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu'nun Genişleme ve Komşulu \"Made in EU\" taslağını ele aldıklarını açıkladı. Görüşmede Gümrük Birliği'nin konumu, Türk üreticilerin AB'de kamu alımlarına katılımı ve Türkiye-AB ekonomik entegrasyonunun geliştirilmesine yönelik adımlar değerlendirildi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/bakan-bolat-ab-ile-made-in-eu-taslagini-gorustu-3771222",
+      "image": null,
+      "published_at": "2026-03-06T15:57:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Morgan Stanley’nin En İyi Donanım Hisseleri",
+      "title_tr": "Morgan Stanley’nin En İyi Donanım Hisseleri",
+      "summary": "Morgan Stanley’nin En İyi Donanım Hisseleri",
+      "summary_tr": "Morgan Stanley’nin En İyi Donanım Hisseleri",
+      "long_summary": "Morgan Stanley’nin En İyi Donanım Hisseleri",
+      "long_summary_tr": "Morgan Stanley’nin En İyi Donanım Hisseleri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanleynin-en-iyi-donanm-hisseleri-93CH-3798710",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T15:55:37+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "The Resident Evil Requiem PC Experience Will Get Better Eventually, Capcom Says",
+      "title_tr": "The Resident Evil Requiem PC Experience Will Get Better Eventually, Capcom Says",
+      "summary": "Capcom just released a patch for Resident Evil Requiem that includes a number of fixes, squashing bugs and improving performance on both console and PC. The patch was released alongside an announcement revealing Capcom has plans to implement improvements to DualSense controller support on PC, though there's no word yet on when exactly that will happen.\"A new patch is out now for Resident Evil Requiem, including fixes for some known issues,\" the publisher shared in a recent post on X. \"We've also heard your feedback and are working on adding support for the DualSense wireless controller adaptive trigger and vibration functions for the PC version of the game. This will take some time, but we appreciate your patience.\"There's no telling exactly how much time it will take for Capcom to improve the DualSense experience on PC. But in the meantime, PC players can improve their gameplay experience with some of the hilarious mods recently released for Resident Evil Requiem, including one that gives Leon a Burt Reynolds-esque moustache.Continue Reading at GameSpot",
+      "summary_tr": "Capcom just released a patch for Resident Evil Requiem that includes a number of fixes, squashing bugs and improving performance on both console and PC. The patch was released alongside an announcement revealing Capcom has plans to implement improvements to DualSense controller support on PC, though there's no word yet on when exactly that will happen.\"A new patch is out now for Resident Evil Requiem, including fixes for some known issues,\" the publisher shared in a recent post on X. \"We've also heard your feedback and are working on adding support for the DualSense wireless controller adaptive trigger and vibration functions for the PC version of the game. This will take some time, but we appreciate your patience.\"There's no telling exactly how much time it will take for Capcom to improve the DualSense experience on PC. But in the meantime, PC players can improve their gameplay experience with some of the hilarious mods recently released for Resident Evil Requiem, including one that gives Leon a Burt Reynolds-esque moustache.Continue Reading at GameSpot",
+      "long_summary": "Capcom just released a patch for Resident Evil Requiem that includes a number of fixes, squashing bugs and improving performance on both console and PC. The patch was released alongside an announcement revealing Capcom has plans to implement improvements to DualSense controller support on PC, though there's no word yet on when exactly that will happen.\"A new patch is out now for Resident Evil Requiem, including fixes for some known issues,\" the publisher shared in a recent post on X. \"We've",
+      "long_summary_tr": "Capcom just released a patch for Resident Evil Requiem that includes a number of fixes, squashing bugs and improving performance on both console and PC. The patch was released alongside an announcement revealing Capcom has plans to implement improvements to DualSense controller support on PC, though there's no word yet on when exactly that will happen.\"A new patch is out now for Resident Evil Requiem, including fixes for some known issues,\" the publisher shared in a recent post on X. \"We've",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/the-resident-evil-requiem-pc-experience-will-get-better-eventually-capcom-says/1100-6538632/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1752/17528202/4662764-gracere9.jpg",
+      "published_at": "2026-03-06T15:54:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Day One Biopharmaceuticals hisseleri Servier satın alma anlaşmasıyla yükseldi",
+      "title_tr": "Day One Biopharmaceuticals hisseleri Servier satın alma anlaşmasıyla yükseldi",
+      "summary": "Day One Biopharmaceuticals hisseleri Servier satın alma anlaşmasıyla yükseldi",
+      "summary_tr": "Day One Biopharmaceuticals hisseleri Servier satın alma anlaşmasıyla yükseldi",
+      "long_summary": "Day One Biopharmaceuticals hisseleri Servier satın alma anlaşmasıyla yükseldi",
+      "long_summary_tr": "Day One Biopharmaceuticals hisseleri Servier satın alma anlaşmasıyla yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/day-one-biopharmaceuticals-hisseleri-servier-satn-alma-anlasmasyla-yukseldi-93CH-3798700",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T15:52:40+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Bakan Bolat, AB Komiseri Kos ile “Sanayi Hızlandırma Yasası” taslağını görüştü",
+      "title_tr": "Bakan Bolat, AB Komiseri Kos ile “Sanayi Hızlandırma Yasası” taslağını görüştü",
+      "summary": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu’nun Genişleme ve Komşuluk Politikasından Sorumlu Üyesi Marta Kos ile video konferans görüşmesi gerçekleştirdiğini açıkladı.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu’nun Genişleme ve Komşuluk Politikasından Sorumlu Üyesi Marta Kos ile video konferans görüşmesi gerçekleştirdiğini açıkladı.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu’nun Genişleme ve Komşuluk Politikasından Sorumlu Üyesi Marta Kos ile video konferans görüşmesi gerçekleştirdiğini açıkladı.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, Avrupa Komisyonu’nun Genişleme ve Komşuluk Politikasından Sorumlu Üyesi Marta Kos ile video konferans görüşmesi gerçekleştirdiğini açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/bakan-bolat-ab-komiseri-kos-ile-sanayi-hizlandirma-yasasi-taslagini-gorustu-06-03-26?haber_id=69aaf7622663b328fe331add&lang=tr&category=PICNEWS",
+      "image": "https://news-files.foreks.com/images/1772811941426.jpeg",
+      "published_at": "2026-03-06T15:48:50+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Bebek Otel'in sahibi Muzaffer Yıldırım'ın 6 şirketine TMSF kayyum olarak atandı",
+      "title_tr": "Bebek Otel'in sahibi Muzaffer Yıldırım'ın 6 şirketine TMSF kayyum olarak atandı",
+      "summary": "İstanbul'daki uyuşturucu ve fuhuş soruşturması kapsamında tutuklanan Bebek Otel'in sahibi Muzaffer Yıldırım'ın 6 şirketine Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum atandı.",
+      "summary_tr": "İstanbul'daki uyuşturucu ve fuhuş soruşturması kapsamında tutuklanan Bebek Otel'in sahibi Muzaffer Yıldırım'ın 6 şirketine Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum atandı.",
+      "long_summary": "İstanbul'daki uyuşturucu ve fuhuş soruşturması kapsamında tutuklanan Bebek Otel'in sahibi Muzaffer Yıldırım'ın 6 şirketine Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum atandı.",
+      "long_summary_tr": "İstanbul'daki uyuşturucu ve fuhuş soruşturması kapsamında tutuklanan Bebek Otel'in sahibi Muzaffer Yıldırım'ın 6 şirketine Tasarruf Mevduatı Sigorta Fonu (TMSF) kayyum atandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/bebek-otelin-sahibi-muzaffer-yildirimin-6-sirketine-tmsf-kayyum-olarak-atandi-1714819",
+      "image": "https://images.ntv.com.tr/images/muzaffer-yildirim-go-zalti_31454-337329(2).jpg",
+      "published_at": "2026-03-06T15:48:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Reitar Logtech hisseleri 60 milyon dolarlık yatırımla yükseldi",
+      "title_tr": "Reitar Logtech hisseleri 60 milyon dolarlık yatırımla yükseldi",
+      "summary": "Reitar Logtech hisseleri 60 milyon dolarlık yatırımla yükseldi",
+      "summary_tr": "Reitar Logtech hisseleri 60 milyon dolarlık yatırımla yükseldi",
+      "long_summary": "Reitar Logtech hisseleri 60 milyon dolarlık yatırımla yükseldi",
+      "long_summary_tr": "Reitar Logtech hisseleri 60 milyon dolarlık yatırımla yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/reitar-logtech-hisseleri-60-milyon-dolarlk-yatrmla-yukseldi-93CH-3798684",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T15:45:41+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
@@ -51,6 +799,72 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
+      "title": "Barclays: Yapay zeka kaynaklı satışlar aşırıya kaçtı",
+      "title_tr": "Barclays: Yapay zeka kaynaklı satışlar aşırıya kaçtı",
+      "summary": "Barclays: Yapay zeka kaynaklı satışlar aşırıya kaçtı",
+      "summary_tr": "Barclays: Yapay zeka kaynaklı satışlar aşırıya kaçtı",
+      "long_summary": "Barclays: Yapay zeka kaynaklı satışlar aşırıya kaçtı",
+      "long_summary_tr": "Barclays: Yapay zeka kaynaklı satışlar aşırıya kaçtı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/barclays-yapay-zeka-kaynakl-satslar-asrya-kact-3798672",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-06T15:35:38+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Call Of Duty: Black Ops 7 Is Free This Weekend",
+      "title_tr": "Call Of Duty: Black Ops 7 Is Free This Weekend",
+      "summary": "A free trial for Call of Duty: Black Ops 7 is live now on all platforms, giving players a chance to try the newest Call of Duty game without paying anything for it.The free trial includes 25 multiplayer maps and eight multiplayer modes, along with six Zombies maps and five modes. Check out the image below to see what you can play during the trial, which runs now through March 9 on all platforms.Black Ops 7 is the newest entry in the series, and is the second Black Ops game in as many years, following Black Ops 6 in 2024. This year's new Call of Duty game is rumored to be Modern Warfare 4, with developer Infinity Ward supposedly leading development.Continue Reading at GameSpot",
+      "summary_tr": "A free trial for Call of Duty: Black Ops 7 is live now on all platforms, giving players a chance to try the newest Call of Duty game without paying anything for it.The free trial includes 25 multiplayer maps and eight multiplayer modes, along with six Zombies maps and five modes. Check out the image below to see what you can play during the trial, which runs now through March 9 on all platforms.Black Ops 7 is the newest entry in the series, and is the second Black Ops game in as many years, following Black Ops 6 in 2024. This year's new Call of Duty game is rumored to be Modern Warfare 4, with developer Infinity Ward supposedly leading development.Continue Reading at GameSpot",
+      "long_summary": "A free trial for Call of Duty: Black Ops 7 is live now on all platforms, giving players a chance to try the newest Call of Duty game without paying anything for it.The free trial includes 25 multiplayer maps and eight multiplayer modes, along with six Zombies maps and five modes. Check out the image below to see what you can play during the trial, which runs now through March 9 on all platforms.Black Ops 7 is the newest entry in the series, and is the second Black Ops game in as many years,",
+      "long_summary_tr": "A free trial for Call of Duty: Black Ops 7 is live now on all platforms, giving players a chance to try the newest Call of Duty game without paying anything for it.The free trial includes 25 multiplayer maps and eight multiplayer modes, along with six Zombies maps and five modes. Check out the image below to see what you can play during the trial, which runs now through March 9 on all platforms.Black Ops 7 is the newest entry in the series, and is the second Black Ops game in as many years,",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/call-of-duty-black-ops-7-is-free-this-weekend/1100-6538630/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4662765-screenshot2026-03-06at10.59.45%E2%80%AFam.png",
+      "published_at": "2026-03-06T15:35:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Lingard signs for Brazilian club Corinthians on a free transfer",
+      "title_tr": "Lingard signs for Brazilian club Corinthians on a free transfer",
+      "summary": "Former Manchester United forward Jesse Lingard has ended a two-month wait for a new club by joining Brazil Serie A side Corinthians on a free transfer.",
+      "summary_tr": "Former Manchester United forward Jesse Lingard has ended a two-month wait for a new club by joining Brazil Serie A side Corinthians on a free transfer.",
+      "long_summary": "Former Manchester United forward Jesse Lingard has ended a two-month wait for a new club by joining Brazil Serie A side Corinthians on a free transfer.",
+      "long_summary_tr": "Former Manchester United forward Jesse Lingard has ended a two-month wait for a new club by joining Brazil Serie A side Corinthians on a free transfer.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13516192/jesse-lingard-former-manchester-united-forward-joins-brazil-side-corinthians-on-a-free-transfer",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-lingard-corinthians_7184368.jpg?20260306162007",
+      "published_at": "2026-03-06T15:33:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
       "title": "Whitestone REIT hissesi özel sermaye ilgisiyle yükseldi",
       "title_tr": "Whitestone REIT hissesi özel sermaye ilgisiyle yükseldi",
       "summary": "Whitestone REIT hissesi özel sermaye ilgisiyle yükseldi",
@@ -88,6 +902,28 @@
       "url": "https://www.ntv.com.tr/turkiye/gorevden-uzaklastirilan-tanju-ozcanin-yerine-yeni-baskanvekili-secildi-1714816",
       "image": "https://images.ntv.com.tr/images/AW651488_01-946039.jpg",
       "published_at": "2026-03-06T15:25:39+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Super Mario Galaxy Tickets Are Going On Sale Soon",
+      "title_tr": "Super Mario Galaxy Tickets Are Going On Sale Soon",
+      "summary": "The Super Mario Galaxy Movie is less than a month away, but fans can get their tickets starting next week. Cinemark announced that tickets for the movie will go on sale on March 9, which coincides with the next Nintendo Direct about the film taking place on the same day. We'll get to see the final trailer for the movie, and if it's like any of the others, some sort of special message from Shigeru Miyamoto and Illumination's Chris Meledandri.Promotion and collabs have been heating up for the movie, including a brand-new Dippin' Dots ice cream flavor--which will be released in a special tin on Mario Day (March 10), and of course, the Yoshi popcorn bucket.          The Super Mario Galaxy Movie arrives in theaters on April 1, featuring Chris Pratt, Anya Taylor-Joy, Charlie Day, and Jack Black returning to their respective voices, while Oscar-winner Brie Larson joins up as the serene Rosalina along with Benny Safdie as Bowser Jr. Another one of Mario's archnemesis was speculated to make an appearance after an accidental leak, but is still unconfirmed as of now.Continue Reading at GameSpot",
+      "summary_tr": "The Super Mario Galaxy Movie is less than a month away, but fans can get their tickets starting next week. Cinemark announced that tickets for the movie will go on sale on March 9, which coincides with the next Nintendo Direct about the film taking place on the same day. We'll get to see the final trailer for the movie, and if it's like any of the others, some sort of special message from Shigeru Miyamoto and Illumination's Chris Meledandri.Promotion and collabs have been heating up for the movie, including a brand-new Dippin' Dots ice cream flavor--which will be released in a special tin on Mario Day (March 10), and of course, the Yoshi popcorn bucket.          The Super Mario Galaxy Movie arrives in theaters on April 1, featuring Chris Pratt, Anya Taylor-Joy, Charlie Day, and Jack Black returning to their respective voices, while Oscar-winner Brie Larson joins up as the serene Rosalina along with Benny Safdie as Bowser Jr. Another one of Mario's archnemesis was speculated to make an appearance after an accidental leak, but is still unconfirmed as of now.Continue Reading at GameSpot",
+      "long_summary": "The Super Mario Galaxy Movie is less than a month away, but fans can get their tickets starting next week. Cinemark announced that tickets for the movie will go on sale on March 9, which coincides with the next Nintendo Direct about the film taking place on the same day. We'll get to see the final trailer for the movie, and if it's like any of the others, some sort of special message from Shigeru Miyamoto and Illumination's Chris Meledandri.Promotion and collabs have been heating up for the",
+      "long_summary_tr": "The Super Mario Galaxy Movie is less than a month away, but fans can get their tickets starting next week. Cinemark announced that tickets for the movie will go on sale on March 9, which coincides with the next Nintendo Direct about the film taking place on the same day. We'll get to see the final trailer for the movie, and if it's like any of the others, some sort of special message from Shigeru Miyamoto and Illumination's Chris Meledandri.Promotion and collabs have been heating up for the",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/super-mario-galaxy-tickets-are-going-on-sale-soon/1100-6538631/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1597/15976769/4662762-005_df3bec.jpg",
+      "published_at": "2026-03-06T15:24:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -264,842 +1100,6 @@
       "url": "https://www.bbc.com/news/articles/cd03rj7n0nro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb04/live/8281eaf0-194b-11f1-801d-ed3cff6bf876.jpg",
       "published_at": "2026-03-06T15:17:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "PİYASAYA BAKIŞ- Borsa haftayı yüzde 6,74 değer kaybıyla kapattı",
-      "title_tr": "PİYASAYA BAKIŞ- Borsa haftayı yüzde 6,74 değer kaybıyla kapattı",
-      "summary": "BIST 100 endeksi günü -286,12 puan düşüşle 12792,81 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü -103,97 puan düşüşle kapatması bekleniyordu.ForInvest Haber'in BIST100 endeks...",
-      "summary_tr": "BIST 100 endeksi günü -286,12 puan düşüşle 12792,81 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü -103,97 puan düşüşle kapatması bekleniyordu.ForInvest Haber'in BIST100 endeks...",
-      "long_summary": "BIST 100 endeksi günü -286,12 puan düşüşle 12792,81 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü -103,97 puan düşüşle kapatması bekleniyordu.ForInvest Haber'in BIST100 endeks...",
-      "long_summary_tr": "BIST 100 endeksi günü -286,12 puan düşüşle 12792,81 puandan kapattı.ForInvest Haber anketine göre BIST 100 endeksinin günü -103,97 puan düşüşle kapatması bekleniyordu.ForInvest Haber'in BIST100 endeks...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/piyasaya-bakis-borsa-haftayi-yuzde-6-74-deger-kaybiyla-kapatti-06-03-26?haber_id=69aaefe22663b328fe331a54&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1772810036165.jpeg",
-      "published_at": "2026-03-06T15:16:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Fed/Daly: Zayıf istihdam verisi hemen faiz indirimi gerektirmiyor",
-      "title_tr": "Fed/Daly: Zayıf istihdam verisi hemen faiz indirimi gerektirmiyor",
-      "summary": "San Francisco Fed Başkanı Mary Daly, beklenenden zayıf gelen ABD istihdam raporunun işgücü piyasasına dair endişelerini artırdığını, ancak bunun Fed’in hemen faiz indirimi yapması gerektiği anlamına g...",
-      "summary_tr": "San Francisco Fed Başkanı Mary Daly, beklenenden zayıf gelen ABD istihdam raporunun işgücü piyasasına dair endişelerini artırdığını, ancak bunun Fed’in hemen faiz indirimi yapması gerektiği anlamına g...",
-      "long_summary": "San Francisco Fed Başkanı Mary Daly, beklenenden zayıf gelen ABD istihdam raporunun işgücü piyasasına dair endişelerini artırdığını, ancak bunun Fed’in hemen faiz indirimi yapması gerektiği anlamına g...",
-      "long_summary_tr": "San Francisco Fed Başkanı Mary Daly, beklenenden zayıf gelen ABD istihdam raporunun işgücü piyasasına dair endişelerini artırdığını, ancak bunun Fed’in hemen faiz indirimi yapması gerektiği anlamına g...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/fed-daly-zayif-istihdam-verisi-hemen-faiz-indirimi-gerektirmiyor-06-03-26?haber_id=69aaef192663b328fe331a1f&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1772810002980.jpeg",
-      "published_at": "2026-03-06T15:13:29+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Dışişleri Bakanı Fidan, Ermenistanlı mevkidaşı Mirzoyan ile telefonda görüştü",
-      "title_tr": "Dışişleri Bakanı Fidan, Ermenistanlı mevkidaşı Mirzoyan ile telefonda görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile telefon görüşmesinde, bölgede yaşanan gelişmeleri ele aldı.",
-      "summary_tr": "Dışişleri Bakanı Hakan Fidan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile telefon görüşmesinde, bölgede yaşanan gelişmeleri ele aldı.",
-      "long_summary": "Dışişleri Bakanı Hakan Fidan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile telefon görüşmesinde, bölgede yaşanan gelişmeleri ele aldı.",
-      "long_summary_tr": "Dışişleri Bakanı Hakan Fidan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile telefon görüşmesinde, bölgede yaşanan gelişmeleri ele aldı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidan-ermenistanli-mevkidasi-mirzoyan-ile-telefonda-gorustu-1714815",
-      "image": "https://images.ntv.com.tr/images/hakanfidan-207013.jpg",
-      "published_at": "2026-03-06T15:07:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Borsa İstanbul’da Mart ve Nisan ayları için planlanan nakit temettü ödemeleri",
-      "title_tr": "Borsa İstanbul’da Mart ve Nisan ayları için planlanan nakit temettü ödemeleri",
-      "summary": "Borsa İstanbul’da Mart ve Nisan ayları için planlanan nakit temettü ödemeleri",
-      "summary_tr": "Borsa İstanbul’da Mart ve Nisan ayları için planlanan nakit temettü ödemeleri",
-      "long_summary": "Borsa İstanbul’da Mart ve Nisan ayları için planlanan nakit temettü ödemeleri",
-      "long_summary_tr": "Borsa İstanbul’da Mart ve Nisan ayları için planlanan nakit temettü ödemeleri",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/borsa-istanbulda-mart-ve-nisan-aylar-icin-planlanan-nakit-temettu-odemeleri-3798612",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "published_at": "2026-03-06T15:05:30+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Arc Raiders Was Recording Private Discord DMs",
-      "title_tr": "Arc Raiders Was Recording Private Discord DMs",
-      "summary": "There's a reasonable expectation for privacy that comes with using direct messages, but no should ever count on that. That's what some players may be discovering now that they've learned that Embark Studios' Arc Raiders was recording and storing their Discord DMs.According to Insider Gaming, the issue was uncovered by computer engineer Timothy Meadows. He discovered that when Arc Raiders was linked to players' Discord accounts, it stored their private messages locally on their PCs as well as the Discord tokens needed to access them. If Embark had been intentionally spying on its players, that could have been enough to go through all of their private messages.Embark has already acknowledged the issue and shared a hotfix to take care of it. On the game's Discord channel, Embark stated that \"excessive user information\" had been saved, and the company assured players that their personal info and messages weren't reviewed or stored outside of their own machines. Embark also disclosed that it will conduct an audit to make sure there are no similar incidents now or in the future.Continue Reading at GameSpot",
-      "summary_tr": "There's a reasonable expectation for privacy that comes with using direct messages, but no should ever count on that. That's what some players may be discovering now that they've learned that Embark Studios' Arc Raiders was recording and storing their Discord DMs.According to Insider Gaming, the issue was uncovered by computer engineer Timothy Meadows. He discovered that when Arc Raiders was linked to players' Discord accounts, it stored their private messages locally on their PCs as well as the Discord tokens needed to access them. If Embark had been intentionally spying on its players, that could have been enough to go through all of their private messages.Embark has already acknowledged the issue and shared a hotfix to take care of it. On the game's Discord channel, Embark stated that \"excessive user information\" had been saved, and the company assured players that their personal info and messages weren't reviewed or stored outside of their own machines. Embark also disclosed that it will conduct an audit to make sure there are no similar incidents now or in the future.Continue Reading at GameSpot",
-      "long_summary": "There's a reasonable expectation for privacy that comes with using direct messages, but no should ever count on that. That's what some players may be discovering now that they've learned that Embark Studios' Arc Raiders was recording and storing their Discord DMs.According to Insider Gaming, the issue was uncovered by computer engineer Timothy Meadows. He discovered that when Arc Raiders was linked to players' Discord accounts, it stored their private messages locally on their PCs as well as",
-      "long_summary_tr": "There's a reasonable expectation for privacy that comes with using direct messages, but no should ever count on that. That's what some players may be discovering now that they've learned that Embark Studios' Arc Raiders was recording and storing their Discord DMs.According to Insider Gaming, the issue was uncovered by computer engineer Timothy Meadows. He discovered that when Arc Raiders was linked to players' Discord accounts, it stored their private messages locally on their PCs as well as",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/arc-raiders-was-recording-private-discord-dms/1100-6538629/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4662749-arcraidersduos.jpg",
-      "published_at": "2026-03-06T15:04:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Galaxy A57 ve A37 Sızdırıldı!",
-      "title_tr": "Galaxy A57 ve A37 Sızdırıldı!",
-      "summary": "Samsung’un merakla beklenen orta segment akıllı telefonları Galaxy A37 ve Galaxy A57 modellerinin tüm teknik özellikleri sızdırıldı. Geçtiğimiz ay CAD tabanlı tasarımları ortaya çıkan cihazların, ytechb tarafından paylaşılan renk görselleriyle birlikte bu ay içerisinde resmi olarak tanıtılması bekleniyor. Google AI Modu ve AI Bakışı Türkiye’de! Google, arama deneyimini kökten değiştiren \"Yapay Zeka Modu\" ile \"Yapay […]",
-      "summary_tr": "Samsung’un merakla beklenen orta segment akıllı telefonları Galaxy A37 ve Galaxy A57 modellerinin tüm teknik özellikleri sızdırıldı. Geçtiğimiz ay CAD tabanlı tasarımları ortaya çıkan cihazların, ytechb tarafından paylaşılan renk görselleriyle birlikte bu ay içerisinde resmi olarak tanıtılması bekleniyor. Google AI Modu ve AI Bakışı Türkiye’de! Google, arama deneyimini kökten değiştiren \"Yapay Zeka Modu\" ile \"Yapay […]",
-      "long_summary": "Samsung’un merakla beklenen orta segment akıllı telefonları Galaxy A37 ve Galaxy A57 modellerinin tüm teknik özellikleri sızdırıldı. Geçtiğimiz ay CAD tabanlı tasarımları ortaya çıkan cihazların, ytechb tarafından paylaşılan renk görselleriyle birlikte bu ay içerisinde resmi olarak tanıtılması bekleniyor. Google AI Modu ve AI Bakışı Türkiye’de! Google, arama deneyimini kökten değiştiren \"Yapay Zeka Modu\" ile \"Yapay […]",
-      "long_summary_tr": "Samsung’un merakla beklenen orta segment akıllı telefonları Galaxy A37 ve Galaxy A57 modellerinin tüm teknik özellikleri sızdırıldı. Geçtiğimiz ay CAD tabanlı tasarımları ortaya çıkan cihazların, ytechb tarafından paylaşılan renk görselleriyle birlikte bu ay içerisinde resmi olarak tanıtılması bekleniyor. Google AI Modu ve AI Bakışı Türkiye’de! Google, arama deneyimini kökten değiştiren \"Yapay Zeka Modu\" ile \"Yapay […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/galaxy-a57-ve-a37-sizdirildi",
-      "image": null,
-      "published_at": "2026-03-06T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Ford, silecek sorunu nedeniyle 605 bin aracı geri çağırıyor",
-      "title_tr": "Ford, silecek sorunu nedeniyle 605 bin aracı geri çağırıyor",
-      "summary": "Ford, 2021 yılında olası bir sorundan ilk kez haberdar oldu.",
-      "summary_tr": "Ford, 2021 yılında olası bir sorundan ilk kez haberdar oldu.",
-      "long_summary": "Ford, 2021 yılında olası bir sorundan ilk kez haberdar oldu.",
-      "long_summary_tr": "Ford, 2021 yılında olası bir sorundan ilk kez haberdar oldu.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/789159/ford-silecek-sorunu-geri-cagirma/",
-      "image": "https://cdn.motor1.com/images/mgl/6Z8Z1k/s3/2021-ford-explorer.jpg",
-      "published_at": "2026-03-06T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Autocar",
-      "title": "Plug-in hybrid Lotus Eletre will arrive in June with 939bhp",
-      "title_tr": "Plug-in hybrid Lotus Eletre will arrive in June with 939bhp",
-      "summary": "New SUV, named Eletre X, marks brand's return to combustion power; will sit alongside EV as standalone model\n\nLotus has unveiled the plug-in hybrid version of its Eletre SUV, which will arrive in Europe this summer.\nThe car is significant in that it marks the Geely-brand’s return to combustion engines as a power source after initially promising to go all electric.\nLaunched this week in China, the PHEV is positioned as a stand-alone model and given a new name: For Me in China and the more conventional Eletre X for Europe.\nThe European model will officially launch in June, with sales beginning in October. Pricing has not yet been confirmed; the pure-electric model starts at £84,990.\nThe powertrain couples a 2.0-litre four-cylinder turbo petrol engine with a synchronous motor on each axle for a combined power output of 939bhp, good for a claimed acceleration time of 3.3sec to 62mph. That beats the maximum 892bhp figure for the pure-electric Eletre R.\nLotus is pitching its new PHEV against luxury rivals, with Lotus CEO Feng Qingfeng referencing the Lamborghini Urus and even the Ferrari Purosangue at the launch event. The Urus is now only available as a PHEV with 789bhp.\nThe X is fitted with a 70kWh battery (smaller than the EV's 108kWh pack) that offers an electric-only range of 217 miles, according to Europe's WLTP cycle. Combined range is around 750 miles, Lotus claims.\nThe battery incorporates ‘6C’ fast charging that enables it to be charged from 30% to 80% in eight minutes.\nAdditional technology includes what Lotus calls 6D Digital Dynamic Chassis with an adaptive 48V anti-roll bar that the company says helps prevent the \"boat-like\" feel of some SUVs.\nThe X weighs between 2575kg and 2625kg, depending on the chosen trim and optional extras, roughly aligning with the pure-electric Eletre.\nThe ‘X-hybrid’ technology is similar to that on Lotus sibling brand Zeekr’s 9X luxury SUV, which employs up to three electric motors for a combined 1381bhp, suggesting further upgrades could be had.\nLotus’s pivot to PHEV power opens up the brand to a swathe of wealthy customers who so far have been reluctant to switch to EVs. As well as the Urus, the For Me will go up against the 717bhp Aston Martin DBX and the 748bhp BMW XM.\nLotus has said it is also planning a PHEV version of the Emira sports car as part of a facelift timed to comply with the Euro 7 emissions regulation change in 2027 for existing models.\nThe brand had previously committed to selling only EVs by 2028, but sales of the Eletre and Emeya have been significantly slower than first expected, forcing it to adjust course.\nCEO Feng Qingfeng said the launch of PHEVs will help Lotus’s sales in regions with slower uptake of EVs, such as Italy and Saudi Arabia.\nThe PHEVs are also expected to boost Lotus’s profitability. The company recorded an operating loss of $357 million (£267m) for the first nine months of 2025.",
-      "summary_tr": "New SUV, named Eletre X, marks brand's return to combustion power; will sit alongside EV as standalone model\n\nLotus has unveiled the plug-in hybrid version of its Eletre SUV, which will arrive in Europe this summer.\nThe car is significant in that it marks the Geely-brand’s return to combustion engines as a power source after initially promising to go all electric.\nLaunched this week in China, the PHEV is positioned as a stand-alone model and given a new name: For Me in China and the more conventional Eletre X for Europe.\nThe European model will officially launch in June, with sales beginning in October. Pricing has not yet been confirmed; the pure-electric model starts at £84,990.\nThe powertrain couples a 2.0-litre four-cylinder turbo petrol engine with a synchronous motor on each axle for a combined power output of 939bhp, good for a claimed acceleration time of 3.3sec to 62mph. That beats the maximum 892bhp figure for the pure-electric Eletre R.\nLotus is pitching its new PHEV against luxury rivals, with Lotus CEO Feng Qingfeng referencing the Lamborghini Urus and even the Ferrari Purosangue at the launch event. The Urus is now only available as a PHEV with 789bhp.\nThe X is fitted with a 70kWh battery (smaller than the EV's 108kWh pack) that offers an electric-only range of 217 miles, according to Europe's WLTP cycle. Combined range is around 750 miles, Lotus claims.\nThe battery incorporates ‘6C’ fast charging that enables it to be charged from 30% to 80% in eight minutes.\nAdditional technology includes what Lotus calls 6D Digital Dynamic Chassis with an adaptive 48V anti-roll bar that the company says helps prevent the \"boat-like\" feel of some SUVs.\nThe X weighs between 2575kg and 2625kg, depending on the chosen trim and optional extras, roughly aligning with the pure-electric Eletre.\nThe ‘X-hybrid’ technology is similar to that on Lotus sibling brand Zeekr’s 9X luxury SUV, which employs up to three electric motors for a combined 1381bhp, suggesting further upgrades could be had.\nLotus’s pivot to PHEV power opens up the brand to a swathe of wealthy customers who so far have been reluctant to switch to EVs. As well as the Urus, the For Me will go up against the 717bhp Aston Martin DBX and the 748bhp BMW XM.\nLotus has said it is also planning a PHEV version of the Emira sports car as part of a facelift timed to comply with the Euro 7 emissions regulation change in 2027 for existing models.\nThe brand had previously committed to selling only EVs by 2028, but sales of the Eletre and Emeya have been significantly slower than first expected, forcing it to adjust course.\nCEO Feng Qingfeng said the launch of PHEVs will help Lotus’s sales in regions with slower uptake of EVs, such as Italy and Saudi Arabia.\nThe PHEVs are also expected to boost Lotus’s profitability. The company recorded an operating loss of $357 million (£267m) for the first nine months of 2025.",
-      "long_summary": "New SUV, named Eletre X, marks brand's return to combustion power; will sit alongside EV as standalone model\n\nLotus has unveiled the plug-in hybrid version of its Eletre SUV, which will arrive in Europe this summer.\nThe car is significant in that it marks the Geely-brand’s return to combustion engines as a power source after initially promising to go all electric.\nLaunched this week in China, the PHEV is positioned as a stand-alone model and given a new name: For Me in China and the more",
-      "long_summary_tr": "New SUV, named Eletre X, marks brand's return to combustion power; will sit alongside EV as standalone model\n\nLotus has unveiled the plug-in hybrid version of its Eletre SUV, which will arrive in Europe this summer.\nThe car is significant in that it marks the Geely-brand’s return to combustion engines as a power source after initially promising to go all electric.\nLaunched this week in China, the PHEV is positioned as a stand-alone model and given a new name: For Me in China and the more",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://www.autocar.co.uk/car-news/new-cars/plug-hybrid-lotus-eletre-will-arrive-june-939bhp",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/lotus_eletre_x_front_3_4.jpg?itok=Vv1qDDaB",
-      "published_at": "2026-03-06T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "EN SON DEPREMLER 6 MART 2026 LİSTESİ... Deprem mi oldu, kaç büyüklüğünde deprem oldu?",
-      "title_tr": "EN SON DEPREMLER 6 MART 2026 LİSTESİ... Deprem mi oldu, kaç büyüklüğünde deprem oldu?",
-      "summary": "Bugün ülkemizde 4 ve üzeri 2 deprem meydana geldi. Bu iki deprem tedirgin ederken her zaman olduğu gibi &quot;son depremler&quot; araması sıklaştı. AFAD sık sık kontrol ediliyor. İşte bugün yaşanan sarsıntıların listesi...",
-      "summary_tr": "Bugün ülkemizde 4 ve üzeri 2 deprem meydana geldi. Bu iki deprem tedirgin ederken her zaman olduğu gibi &quot;son depremler&quot; araması sıklaştı. AFAD sık sık kontrol ediliyor. İşte bugün yaşanan sarsıntıların listesi...",
-      "long_summary": "Bugün ülkemizde 4 ve üzeri 2 deprem meydana geldi. Bu iki deprem tedirgin ederken her zaman olduğu gibi &quot;son depremler&quot; araması sıklaştı. AFAD sık sık kontrol ediliyor. İşte bugün yaşanan sarsıntıların listesi...",
-      "long_summary_tr": "Bugün ülkemizde 4 ve üzeri 2 deprem meydana geldi. Bu iki deprem tedirgin ederken her zaman olduğu gibi &quot;son depremler&quot; araması sıklaştı. AFAD sık sık kontrol ediliyor. İşte bugün yaşanan sarsıntıların listesi...",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/en-son-depremler-6-mart-2026-listesi-deprem-mi-oldu-kac-buyuklugunde-deprem-oldu-haberi-817300",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/06/son-depremler-y42y_cover.png",
-      "published_at": "2026-03-06T14:58:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BIST 100’de son bir yılın en sert haftalık düşüşü: Bugün hangi hisseler öne çıktı?",
-      "title_tr": "BIST 100’de son bir yılın en sert haftalık düşüşü: Bugün hangi hisseler öne çıktı?",
-      "summary": "BIST 100’de son bir yılın en sert haftalık düşüşü: Bugün hangi hisseler öne çıktı?",
-      "summary_tr": "BIST 100’de son bir yılın en sert haftalık düşüşü: Bugün hangi hisseler öne çıktı?",
-      "long_summary": "BIST 100’de son bir yılın en sert haftalık düşüşü: Bugün hangi hisseler öne çıktı?",
-      "long_summary_tr": "BIST 100’de son bir yılın en sert haftalık düşüşü: Bugün hangi hisseler öne çıktı?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bist-100de-son-bir-yln-en-sert-haftalk-dususu-bugun-hangi-hisseler-one-ckt-3798606",
-      "image": "https://i-invdn-com.investing.com/news/Istanbul_Stock_Exchange_M_1440056258.jpg",
-      "published_at": "2026-03-06T14:57:50+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "On’s new LightSpray CloudMonster 3 Hyper running shoe is built by robots in 3 minutes flat",
-      "title_tr": "On’s new LightSpray CloudMonster 3 Hyper running shoe is built by robots in 3 minutes flat",
-      "summary": "The On LightSpray Cloudmonster 3 Hyper running shoe relies on a clever automated production process that makes a lighter, more comfortable sneaker.\nThe post On’s new LightSpray CloudMonster 3 Hyper running shoe is built by robots in 3 minutes flat appeared first on Popular Science.",
-      "summary_tr": "The On LightSpray Cloudmonster 3 Hyper running shoe relies on a clever automated production process that makes a lighter, more comfortable sneaker.\nThe post On’s new LightSpray CloudMonster 3 Hyper running shoe is built by robots in 3 minutes flat appeared first on Popular Science.",
-      "long_summary": "The On LightSpray Cloudmonster 3 Hyper running shoe relies on a clever automated production process that makes a lighter, more comfortable sneaker.\nThe post On’s new LightSpray CloudMonster 3 Hyper running shoe is built by robots in 3 minutes flat appeared first on Popular Science.",
-      "long_summary_tr": "The On LightSpray Cloudmonster 3 Hyper running shoe relies on a clever automated production process that makes a lighter, more comfortable sneaker.\nThe post On’s new LightSpray CloudMonster 3 Hyper running shoe is built by robots in 3 minutes flat appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/gear/on-lightspray-cloudmonster-3-running-shoe-design/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/03/oncloud-lightspray-hyper-header.jpg?quality=85",
-      "published_at": "2026-03-06T14:57:16+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Lingard joins Corinthians - what awaits him in Brazil?",
-      "title_tr": "Lingard joins Corinthians - what awaits him in Brazil?",
-      "summary": "Jesse Lingard joins Corinthians, but what can the former England and Manchester United midfielder expect in Brazil?",
-      "summary_tr": "Jesse Lingard joins Corinthians, but what can the former England and Manchester United midfielder expect in Brazil?",
-      "long_summary": "Jesse Lingard joins Corinthians, but what can the former England and Manchester United midfielder expect in Brazil?",
-      "long_summary_tr": "Jesse Lingard joins Corinthians, but what can the former England and Manchester United midfielder expect in Brazil?",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c20zg2w7zwwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8951/live/193c78d0-16f8-11f1-a694-e5c2b699acf9.jpg",
-      "published_at": "2026-03-06T14:51:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Uluslararası yardım işaretiyle gündeme gelmişti. Müebbet hapse çarptırıldı",
-      "title_tr": "Uluslararası yardım işaretiyle gündeme gelmişti. Müebbet hapse çarptırıldı",
-      "summary": "Tokat'ta girdiği büfede uluslararası yardım işaretini yapmasıyla gündeme gelen kadın, işletmecinin hareketi anlamamasıyla 2 saat sonra öldürülmüştü. Görülen kartar duruşmasında zanlı müebbet hapis cezasına çarptırıldı.",
-      "summary_tr": "Tokat'ta girdiği büfede uluslararası yardım işaretini yapmasıyla gündeme gelen kadın, işletmecinin hareketi anlamamasıyla 2 saat sonra öldürülmüştü. Görülen kartar duruşmasında zanlı müebbet hapis cezasına çarptırıldı.",
-      "long_summary": "Tokat'ta girdiği büfede uluslararası yardım işaretini yapmasıyla gündeme gelen kadın, işletmecinin hareketi anlamamasıyla 2 saat sonra öldürülmüştü. Görülen kartar duruşmasında zanlı müebbet hapis cezasına çarptırıldı.",
-      "long_summary_tr": "Tokat'ta girdiği büfede uluslararası yardım işaretini yapmasıyla gündeme gelen kadın, işletmecinin hareketi anlamamasıyla 2 saat sonra öldürülmüştü. Görülen kartar duruşmasında zanlı müebbet hapis cezasına çarptırıldı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/uluslararasi-yardim-isaretiyle-gundeme-gelmisti-sanik-muebbet-hapis-cezasina-carptirildi-1714797",
-      "image": "https://images.ntv.com.tr/images/AW656314_03-551867(2).jpg",
-      "published_at": "2026-03-06T14:51:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BMO, yapay zeka kimlik güvenliği talebine dayanarak Okta’yı yükseltti",
-      "title_tr": "BMO, yapay zeka kimlik güvenliği talebine dayanarak Okta’yı yükseltti",
-      "summary": "BMO, yapay zeka kimlik güvenliği talebine dayanarak Okta’yı yükseltti",
-      "summary_tr": "BMO, yapay zeka kimlik güvenliği talebine dayanarak Okta’yı yükseltti",
-      "long_summary": "BMO, yapay zeka kimlik güvenliği talebine dayanarak Okta’yı yükseltti",
-      "long_summary_tr": "BMO, yapay zeka kimlik güvenliği talebine dayanarak Okta’yı yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bmo-yapay-zeka-kimlik-guvenligi-talebine-dayanarak-oktay-yukseltti-3798591",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-06T14:51:11+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "US economy unexpectedly sheds 92,000 jobs in February",
-      "title_tr": "US economy unexpectedly sheds 92,000 jobs in February",
-      "summary": "The contraction came as a surprise with payrolls down in nearly every sector.",
-      "summary_tr": "The contraction came as a surprise with payrolls down in nearly every sector.",
-      "long_summary": "The contraction came as a surprise with payrolls down in nearly every sector.",
-      "long_summary_tr": "The contraction came as a surprise with payrolls down in nearly every sector.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6efa/live/41eb38e0-1962-11f1-a1cd-a71e69f1cf89.jpg",
-      "published_at": "2026-03-06T14:50:36+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "CoreWeave yapay zeka geleceği için gigavat boyutunda motor kuruyor",
-      "title_tr": "CoreWeave yapay zeka geleceği için gigavat boyutunda motor kuruyor",
-      "summary": "CoreWeave yapay zeka geleceği için gigavat boyutunda motor kuruyor",
-      "summary_tr": "CoreWeave yapay zeka geleceği için gigavat boyutunda motor kuruyor",
-      "long_summary": "CoreWeave yapay zeka geleceği için gigavat boyutunda motor kuruyor",
-      "long_summary_tr": "CoreWeave yapay zeka geleceği için gigavat boyutunda motor kuruyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/coreweave-yapay-zeka-gelecegi-icin-gigavat-boyutunda-motor-kuruyor-3798585",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-06T14:50:13+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BlackRock hisseleri özel kredi fonunda çekimleri sınırladıktan sonra düştü",
-      "title_tr": "BlackRock hisseleri özel kredi fonunda çekimleri sınırladıktan sonra düştü",
-      "summary": "BlackRock hisseleri özel kredi fonunda çekimleri sınırladıktan sonra düştü",
-      "summary_tr": "BlackRock hisseleri özel kredi fonunda çekimleri sınırladıktan sonra düştü",
-      "long_summary": "BlackRock hisseleri özel kredi fonunda çekimleri sınırladıktan sonra düştü",
-      "long_summary_tr": "BlackRock hisseleri özel kredi fonunda çekimleri sınırladıktan sonra düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/blackrock-hisseleri-ozel-kredi-fonunda-cekimleri-snrladktan-sonra-dustu-93CH-3798581",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-06T14:50:06+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Iran will not compete at Winter Paralympics",
-      "title_tr": "Iran will not compete at Winter Paralympics",
-      "summary": "Iran will not take part in the Milan-Cortina Winter Paralympics, the IPC confirms, as the nation's solitary athlete scheduled to compete \"cannot travel safely to Italy\".",
-      "summary_tr": "Iran will not take part in the Milan-Cortina Winter Paralympics, the IPC confirms, as the nation's solitary athlete scheduled to compete \"cannot travel safely to Italy\".",
-      "long_summary": "Iran will not take part in the Milan-Cortina Winter Paralympics, the IPC confirms, as the nation's solitary athlete scheduled to compete \"cannot travel safely to Italy\".",
-      "long_summary_tr": "Iran will not take part in the Milan-Cortina Winter Paralympics, the IPC confirms, as the nation's solitary athlete scheduled to compete \"cannot travel safely to Italy\".",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/articles/c1d6909vvpwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec12/live/84d55200-1965-11f1-9c48-99e6fce1ab35.jpg",
-      "published_at": "2026-03-06T14:49:17+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Tahran'da çok sayıda patlama meydana geldi",
-      "title_tr": "Tahran'da çok sayıda patlama meydana geldi",
-      "summary": "İran&#039;ın başkenti Tahran&#039;da çok sayıda patlama meydana geldi. Bölgeden dumanların yükseldiği aktarıldı.",
-      "summary_tr": "İran&#039;ın başkenti Tahran&#039;da çok sayıda patlama meydana geldi. Bölgeden dumanların yükseldiği aktarıldı.",
-      "long_summary": "İran&#039;ın başkenti Tahran&#039;da çok sayıda patlama meydana geldi. Bölgeden dumanların yükseldiği aktarıldı.",
-      "long_summary_tr": "İran&#039;ın başkenti Tahran&#039;da çok sayıda patlama meydana geldi. Bölgeden dumanların yükseldiği aktarıldı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/tahranda-cok-sayida-patlama-meydana-geldi-haberi-817354",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/06/tahran-patlama-4lve_cover.jpg",
-      "published_at": "2026-03-06T14:49:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Xbox Hardware Business Could Die If Project Helix Doesn't Work Out, Analyst Says",
-      "title_tr": "Xbox Hardware Business Could Die If Project Helix Doesn't Work Out, Analyst Says",
-      "summary": "According to one industry analyst, the Xbox hardware business at Microsoft could die off for good if the new console/PC system, Project Helix, doesn't work out.Dr. Serkan Toto of the research group Kantan Games told GamesRadar, \"This might be Microsoft's last attempt to make their hardware business work.\"He went on to say no one in gaming realistically believes there will another Xbox \"if this next machine fails.\"Continue Reading at GameSpot",
-      "summary_tr": "According to one industry analyst, the Xbox hardware business at Microsoft could die off for good if the new console/PC system, Project Helix, doesn't work out.Dr. Serkan Toto of the research group Kantan Games told GamesRadar, \"This might be Microsoft's last attempt to make their hardware business work.\"He went on to say no one in gaming realistically believes there will another Xbox \"if this next machine fails.\"Continue Reading at GameSpot",
-      "long_summary": "According to one industry analyst, the Xbox hardware business at Microsoft could die off for good if the new console/PC system, Project Helix, doesn't work out.Dr. Serkan Toto of the research group Kantan Games told GamesRadar, \"This might be Microsoft's last attempt to make their hardware business work.\"He went on to say no one in gaming realistically believes there will another Xbox \"if this next machine fails.\"Continue Reading at GameSpot",
-      "long_summary_tr": "According to one industry analyst, the Xbox hardware business at Microsoft could die off for good if the new console/PC system, Project Helix, doesn't work out.Dr. Serkan Toto of the research group Kantan Games told GamesRadar, \"This might be Microsoft's last attempt to make their hardware business work.\"He went on to say no one in gaming realistically believes there will another Xbox \"if this next machine fails.\"Continue Reading at GameSpot",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/xbox-hardware-business-could-die-if-project-helix-doesnt-work-out-analyst-says/1100-6538628/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4662751-xboxsphere.jpeg",
-      "published_at": "2026-03-06T14:49:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "‘New status quo’: Germany reaches for European conventional military dominance",
-      "title_tr": "‘New status quo’: Germany reaches for European conventional military dominance",
-      "summary": "Analysts noted that after decades of underinvestment, Berlin is flipping the script by moving ahead with a seismic increase in defense spending, set to hit a high mark in 2029 of €150 billion a year.",
-      "summary_tr": "Analysts noted that after decades of underinvestment, Berlin is flipping the script by moving ahead with a seismic increase in defense spending, set to hit a high mark in 2029 of €150 billion a year.",
-      "long_summary": "Analysts noted that after decades of underinvestment, Berlin is flipping the script by moving ahead with a seismic increase in defense spending, set to hit a high mark in 2029 of €150 billion a year.",
-      "long_summary_tr": "Analysts noted that after decades of underinvestment, Berlin is flipping the script by moving ahead with a seismic increase in defense spending, set to hit a high mark in 2029 of €150 billion a year.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/03/new-status-quo-germany-reaches-for-european-conventional-military-dominance/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/02/240229_taurus_missile_germany_GettyImages-535764452-scaled-e1709243670892-1024x576.jpg",
-      "published_at": "2026-03-06T14:47:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Diana Shipping, Genco satın alma teklifini hisse başına 23,50 dolara yükseltti",
-      "title_tr": "Diana Shipping, Genco satın alma teklifini hisse başına 23,50 dolara yükseltti",
-      "summary": "Diana Shipping, Genco satın alma teklifini hisse başına 23,50 dolara yükseltti",
-      "summary_tr": "Diana Shipping, Genco satın alma teklifini hisse başına 23,50 dolara yükseltti",
-      "long_summary": "Diana Shipping, Genco satın alma teklifini hisse başına 23,50 dolara yükseltti",
-      "long_summary_tr": "Diana Shipping, Genco satın alma teklifini hisse başına 23,50 dolara yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/diana-shipping-genco-satn-alma-teklifini-hisse-basna-2350-dolara-yukseltti-93CH-3798565",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-06T14:44:48+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Nintendo Direct to Show Off Final Trailer for The Super Mario Galaxy Movie Next Week",
-      "title_tr": "Nintendo Direct to Show Off Final Trailer for The Super Mario Galaxy Movie Next Week",
-      "summary": "Nintendo has announced a Nintendo Direct revealing the final trailer for The Super Mario Galaxy Movie.",
-      "summary_tr": "Nintendo has announced a Nintendo Direct revealing the final trailer for The Super Mario Galaxy Movie.",
-      "long_summary": "Nintendo has announced a Nintendo Direct revealing the final trailer for The Super Mario Galaxy Movie.",
-      "long_summary_tr": "Nintendo has announced a Nintendo Direct revealing the final trailer for The Super Mario Galaxy Movie.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/nintendo-direct-to-show-off-final-trailer-for-the-super-mario-galaxy-movie-next-week",
-      "image": "https://assets-prd.ignimgs.com/2026/01/25/marionew-vcms-1769351427530.jpg",
-      "published_at": "2026-03-06T14:41:49+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Call Of Duty Leaks Turning Into \"Viral Misinformation\" Are Bad For Players, Activision Says",
-      "title_tr": "Call Of Duty Leaks Turning Into \"Viral Misinformation\" Are Bad For Players, Activision Says",
-      "summary": "Activision has shed more light on Call of Duty leaks following the company reportedly taking legal action to get a prominent Call of Duty leak account to stop posting.In a YouTube comment on a TDAWG video, Activision said it understands that \"rumors are part of gaming culture,\" along with \"healthy online speculation.\" But Activision said it draws a line \"when leaks turn into viral misinformation.\" This \"undermines our developers and also distorts player expectations of the games we're making,\" the developer said.\"When that happens, we're going to step in and set the record straight,\" Activision said.Continue Reading at GameSpot",
-      "summary_tr": "Activision has shed more light on Call of Duty leaks following the company reportedly taking legal action to get a prominent Call of Duty leak account to stop posting.In a YouTube comment on a TDAWG video, Activision said it understands that \"rumors are part of gaming culture,\" along with \"healthy online speculation.\" But Activision said it draws a line \"when leaks turn into viral misinformation.\" This \"undermines our developers and also distorts player expectations of the games we're making,\" the developer said.\"When that happens, we're going to step in and set the record straight,\" Activision said.Continue Reading at GameSpot",
-      "long_summary": "Activision has shed more light on Call of Duty leaks following the company reportedly taking legal action to get a prominent Call of Duty leak account to stop posting.In a YouTube comment on a TDAWG video, Activision said it understands that \"rumors are part of gaming culture,\" along with \"healthy online speculation.\" But Activision said it draws a line \"when leaks turn into viral misinformation.\" This \"undermines our developers and also distorts player expectations of the games we're making,\"",
-      "long_summary_tr": "Activision has shed more light on Call of Duty leaks following the company reportedly taking legal action to get a prominent Call of Duty leak account to stop posting.In a YouTube comment on a TDAWG video, Activision said it understands that \"rumors are part of gaming culture,\" along with \"healthy online speculation.\" But Activision said it draws a line \"when leaks turn into viral misinformation.\" This \"undermines our developers and also distorts player expectations of the games we're making,\"",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/call-of-duty-leaks-turning-into-viral-misinformation-are-bad-for-players-activision-says/1100-6538625/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4662736-screenshot2026-03-06at8.47.13%E2%80%AFam.png",
-      "published_at": "2026-03-06T14:39:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Hazine nakit dengesi Şubat'ta 92,4 milyar TL açık verdi",
-      "title_tr": "Hazine nakit dengesi Şubat'ta 92,4 milyar TL açık verdi",
-      "summary": "Hazine'nin nakit gelirleri Şubat ayında 1 trilyon 386 milyar lira, giderleri de 1 trilyon 479 milyar lira olarak gerçekleşti.",
-      "summary_tr": "Hazine'nin nakit gelirleri Şubat ayında 1 trilyon 386 milyar lira, giderleri de 1 trilyon 479 milyar lira olarak gerçekleşti.",
-      "long_summary": "Hazine'nin nakit gelirleri Şubat ayında 1 trilyon 386 milyar lira, giderleri de 1 trilyon 479 milyar lira olarak gerçekleşti.",
-      "long_summary_tr": "Hazine'nin nakit gelirleri Şubat ayında 1 trilyon 386 milyar lira, giderleri de 1 trilyon 479 milyar lira olarak gerçekleşti.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/hazine-nakit-dengesi-subat-ta-92-4-milyar-tl-acik-verdi-3771216",
-      "image": null,
-      "published_at": "2026-03-06T14:37:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Bethell's breakout winter boosts England's future",
-      "title_tr": "Bethell's breakout winter boosts England's future",
-      "summary": "In completing the set of centuries across all formats despite T20 World Cup semi-final defeat by India, Jacob Bethell shows why he is integral to England's future, writes Matthew Henry.",
-      "summary_tr": "In completing the set of centuries across all formats despite T20 World Cup semi-final defeat by India, Jacob Bethell shows why he is integral to England's future, writes Matthew Henry.",
-      "long_summary": "In completing the set of centuries across all formats despite T20 World Cup semi-final defeat by India, Jacob Bethell shows why he is integral to England's future, writes Matthew Henry.",
-      "long_summary_tr": "In completing the set of centuries across all formats despite T20 World Cup semi-final defeat by India, Jacob Bethell shows why he is integral to England's future, writes Matthew Henry.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/cwy8dp1ev4zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ff/live/8b899670-1964-11f1-801d-ed3cff6bf876.jpg",
-      "published_at": "2026-03-06T14:36:21+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "After 5 Years, Star Wars: Knights Of The Old Republic Remake Gets An 11-Word Update",
-      "title_tr": "After 5 Years, Star Wars: Knights Of The Old Republic Remake Gets An 11-Word Update",
-      "summary": "Five years after it was first announced, Saber Interactive's Star Wars: Knights of the Old Republic remake has finally gotten an update--albeit a very predictable one. In a new interview, Saber chief creative officer Tim Willits offered a terse summary on the project's current status.\"Yes, it is still in development. That's all I can say,\" Willits said to IGN.First revealed in 2021, details on the remake of the BioWare classic have essentially been nonexistent for the last couple of years, but reports have surfaced since then of a turbulent development cycle. Back in 2025, it was claimed that developer Aspyr had been removed from the project and that the studio behind the upcoming Hellraiser: Revival, Mad Head Games, was handed the reins to the remake. The same report also claimed that a potential remake of Star Wars: Knights of the Old Republic 2 had been put on hold.Continue Reading at GameSpot",
-      "summary_tr": "Five years after it was first announced, Saber Interactive's Star Wars: Knights of the Old Republic remake has finally gotten an update--albeit a very predictable one. In a new interview, Saber chief creative officer Tim Willits offered a terse summary on the project's current status.\"Yes, it is still in development. That's all I can say,\" Willits said to IGN.First revealed in 2021, details on the remake of the BioWare classic have essentially been nonexistent for the last couple of years, but reports have surfaced since then of a turbulent development cycle. Back in 2025, it was claimed that developer Aspyr had been removed from the project and that the studio behind the upcoming Hellraiser: Revival, Mad Head Games, was handed the reins to the remake. The same report also claimed that a potential remake of Star Wars: Knights of the Old Republic 2 had been put on hold.Continue Reading at GameSpot",
-      "long_summary": "Five years after it was first announced, Saber Interactive's Star Wars: Knights of the Old Republic remake has finally gotten an update--albeit a very predictable one. In a new interview, Saber chief creative officer Tim Willits offered a terse summary on the project's current status.\"Yes, it is still in development. That's all I can say,\" Willits said to IGN.First revealed in 2021, details on the remake of the BioWare classic have essentially been nonexistent for the last couple of years, but",
-      "long_summary_tr": "Five years after it was first announced, Saber Interactive's Star Wars: Knights of the Old Republic remake has finally gotten an update--albeit a very predictable one. In a new interview, Saber chief creative officer Tim Willits offered a terse summary on the project's current status.\"Yes, it is still in development. That's all I can say,\" Willits said to IGN.First revealed in 2021, details on the remake of the BioWare classic have essentially been nonexistent for the last couple of years, but",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/after-5-years-star-wars-knights-of-the-old-republic-remake-gets-an-11-word-update/1100-6538626/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4662735-darth-revan.jpg",
-      "published_at": "2026-03-06T14:36:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "title_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "long_summary_tr": "The Best Spring/Summer 2026 Fashion Campaigns",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/a68046559/best-spring-summer-2026-campaigns/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a91b44c8-1c46-40be-a673-a9825475fd79.jpg",
-      "published_at": "2026-03-06T14:35:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BofA’nın 2026 için en iyi 3 otomotiv hissesi tercihi",
-      "title_tr": "BofA’nın 2026 için en iyi 3 otomotiv hissesi tercihi",
-      "summary": "BofA’nın 2026 için en iyi 3 otomotiv hissesi tercihi",
-      "summary_tr": "BofA’nın 2026 için en iyi 3 otomotiv hissesi tercihi",
-      "long_summary": "BofA’nın 2026 için en iyi 3 otomotiv hissesi tercihi",
-      "long_summary_tr": "BofA’nın 2026 için en iyi 3 otomotiv hissesi tercihi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bofann-2026-icin-en-iyi-3-otomotiv-hissesi-tercihi-93CH-3798542",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-06T14:33:58+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Mart 2026 DS Fiyat Listesi: 2 Premium Modelin Fiyatı Değişti mi?",
-      "title_tr": "Mart 2026 DS Fiyat Listesi: 2 Premium Modelin Fiyatı Değişti mi?",
-      "summary": "Fransız lüks otomobil üreticisi DS, mart ayı boyunca geçerli olacak güncel fiyatlarını açıkladı. Firma bu ay Türkiye'de sattığı iki otomobile de zam yapmadı. İşte sıfır kilometre DS otomobil fiyatları...",
-      "summary_tr": "Fransız lüks otomobil üreticisi DS, mart ayı boyunca geçerli olacak güncel fiyatlarını açıkladı. Firma bu ay Türkiye'de sattığı iki otomobile de zam yapmadı. İşte sıfır kilometre DS otomobil fiyatları...",
-      "long_summary": "Fransız lüks otomobil üreticisi DS, mart ayı boyunca geçerli olacak güncel fiyatlarını açıkladı. Firma bu ay Türkiye'de sattığı iki otomobile de zam yapmadı. İşte sıfır kilometre DS otomobil fiyatları...",
-      "long_summary_tr": "Fransız lüks otomobil üreticisi DS, mart ayı boyunca geçerli olacak güncel fiyatlarını açıkladı. Firma bu ay Türkiye'de sattığı iki otomobile de zam yapmadı. İşte sıfır kilometre DS otomobil fiyatları...",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/mart-2026-ds-fiyat-listesi-h213382.html",
-      "image": "https://imgrosetta.webtekno.com/file/651562/651562-640xauto.jpg",
-      "published_at": "2026-03-06T14:31:37+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Mart 2026 Alfa Romeo Fiyat Listesi: Gırtlak Dolu Tonale'de Zam Var!",
-      "title_tr": "Mart 2026 Alfa Romeo Fiyat Listesi: Gırtlak Dolu Tonale'de Zam Var!",
-      "summary": "Alfa Romeo'nun mart ayı boyunca geçerli olacak güncel fiyatları belli oldu. Firma bu ay sadece Tonale'in üst donanım seçeneğine zam yaptı. İşte sıfır kilometre Alfa Romeo fiyatları...",
-      "summary_tr": "Alfa Romeo'nun mart ayı boyunca geçerli olacak güncel fiyatları belli oldu. Firma bu ay sadece Tonale'in üst donanım seçeneğine zam yaptı. İşte sıfır kilometre Alfa Romeo fiyatları...",
-      "long_summary": "Alfa Romeo'nun mart ayı boyunca geçerli olacak güncel fiyatları belli oldu. Firma bu ay sadece Tonale'in üst donanım seçeneğine zam yaptı. İşte sıfır kilometre Alfa Romeo fiyatları...",
-      "long_summary_tr": "Alfa Romeo'nun mart ayı boyunca geçerli olacak güncel fiyatları belli oldu. Firma bu ay sadece Tonale'in üst donanım seçeneğine zam yaptı. İşte sıfır kilometre Alfa Romeo fiyatları...",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/mart-2026-alfa-romeo-fiyat-listesi-h213369.html",
-      "image": "https://imgrosetta.webtekno.com/file/651535/651535-640xauto.jpg",
-      "published_at": "2026-03-06T14:31:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "[6-9 Mart] Toplam Değeri 6 Bin TL'yi Aşan 4 Oyun, Xbox'ta Bu Hafta Sonu Ücretsiz",
-      "title_tr": "[6-9 Mart] Toplam Değeri 6 Bin TL'yi Aşan 4 Oyun, Xbox'ta Bu Hafta Sonu Ücretsiz",
-      "summary": "Xbox Free Play Days kapsamında bu hafta ücretsiz olacak oyunlar açıklandı. Oyunseverler bu hafta da birbirinden eğlenceli oyunlara ücretsiz olarak erişebilecek.",
-      "summary_tr": "Xbox Free Play Days kapsamında bu hafta ücretsiz olacak oyunlar açıklandı. Oyunseverler bu hafta da birbirinden eğlenceli oyunlara ücretsiz olarak erişebilecek.",
-      "long_summary": "Xbox Free Play Days kapsamında bu hafta ücretsiz olacak oyunlar açıklandı. Oyunseverler bu hafta da birbirinden eğlenceli oyunlara ücretsiz olarak erişebilecek.",
-      "long_summary_tr": "Xbox Free Play Days kapsamında bu hafta ücretsiz olacak oyunlar açıklandı. Oyunseverler bu hafta da birbirinden eğlenceli oyunlara ücretsiz olarak erişebilecek.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/6-9-mart-xbox-ucretsiz-oyun-h213357.html",
-      "image": "https://imgrosetta.webtekno.com/file/651514/651514-640xauto.jpg",
-      "published_at": "2026-03-06T14:30:51+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "TECNO ve ARM Güçlerini Birleştirdi",
-      "title_tr": "TECNO ve ARM Güçlerini Birleştirdi",
-      "summary": "Mobil teknoloji dünyası, yapay zekayı bir “pazarlama terimi” olmaktan çıkarıp günlük hayatın merkezine yerleştiren devasa bir kırılma noktasına şahitlik ediyor. Barselona’da düzenlenen MWC 2026 (Dünya Mobil Kongresi), bu dönüşümün en somut kanıtlarından birine ev sahipliği yaptı. Küresel teknoloji devi TECNO, yarı iletken dünyasının mimarı Arm ile stratejik bir ortaklığa imza atarak, akıllı telefonlarda “Cihaz Üstü […]",
-      "summary_tr": "Mobil teknoloji dünyası, yapay zekayı bir “pazarlama terimi” olmaktan çıkarıp günlük hayatın merkezine yerleştiren devasa bir kırılma noktasına şahitlik ediyor. Barselona’da düzenlenen MWC 2026 (Dünya Mobil Kongresi), bu dönüşümün en somut kanıtlarından birine ev sahipliği yaptı. Küresel teknoloji devi TECNO, yarı iletken dünyasının mimarı Arm ile stratejik bir ortaklığa imza atarak, akıllı telefonlarda “Cihaz Üstü […]",
-      "long_summary": "Mobil teknoloji dünyası, yapay zekayı bir “pazarlama terimi” olmaktan çıkarıp günlük hayatın merkezine yerleştiren devasa bir kırılma noktasına şahitlik ediyor. Barselona’da düzenlenen MWC 2026 (Dünya Mobil Kongresi), bu dönüşümün en somut kanıtlarından birine ev sahipliği yaptı. Küresel teknoloji devi TECNO, yarı iletken dünyasının mimarı Arm ile stratejik bir ortaklığa imza atarak, akıllı telefonlarda “Cihaz Üstü […]",
-      "long_summary_tr": "Mobil teknoloji dünyası, yapay zekayı bir “pazarlama terimi” olmaktan çıkarıp günlük hayatın merkezine yerleştiren devasa bir kırılma noktasına şahitlik ediyor. Barselona’da düzenlenen MWC 2026 (Dünya Mobil Kongresi), bu dönüşümün en somut kanıtlarından birine ev sahipliği yaptı. Küresel teknoloji devi TECNO, yarı iletken dünyasının mimarı Arm ile stratejik bir ortaklığa imza atarak, akıllı telefonlarda “Cihaz Üstü […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/tecno-ve-arm-guclerini-birlestirdi",
-      "image": null,
-      "published_at": "2026-03-06T14:30:05+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Hürmüz krizi enerji piyasasını sarstı: Brent petrolün varil fiyatı 90 doları aştı",
-      "title_tr": "Hürmüz krizi enerji piyasasını sarstı: Brent petrolün varil fiyatı 90 doları aştı",
-      "summary": "ABD-İsrail ile İran arasında artan çatışmalar ve Hürmüz Boğazı’ndaki enerji ticaretine yönelik riskler petrol piyasalarını sarstı. Uluslararası piyasalarda Brent petrolün varil fiyatı yaklaşık yüzde 5,7 yükselerek 90 doların üzerine çıktı ve Nisan 2024’ten bu yana en yüksek seviyesini gördü.",
-      "summary_tr": "ABD-İsrail ile İran arasında artan çatışmalar ve Hürmüz Boğazı’ndaki enerji ticaretine yönelik riskler petrol piyasalarını sarstı. Uluslararası piyasalarda Brent petrolün varil fiyatı yaklaşık yüzde 5,7 yükselerek 90 doların üzerine çıktı ve Nisan 2024’ten bu yana en yüksek seviyesini gördü.",
-      "long_summary": "ABD-İsrail ile İran arasında artan çatışmalar ve Hürmüz Boğazı’ndaki enerji ticaretine yönelik riskler petrol piyasalarını sarstı. Uluslararası piyasalarda Brent petrolün varil fiyatı yaklaşık yüzde 5,7 yükselerek 90 doların üzerine çıktı ve Nisan 2024’ten bu yana en yüksek seviyesini gördü.",
-      "long_summary_tr": "ABD-İsrail ile İran arasında artan çatışmalar ve Hürmüz Boğazı’ndaki enerji ticaretine yönelik riskler petrol piyasalarını sarstı. Uluslararası piyasalarda Brent petrolün varil fiyatı yaklaşık yüzde 5,7 yükselerek 90 doların üzerine çıktı ve Nisan 2024’ten bu yana en yüksek seviyesini gördü.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/emtia/hurmuz-krizi-enerji-piyasasini-sarsti-brent-petrolun-varil-fiyati-90-dolari-asti-haberi-817353",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2023/02/15/petrol-brent-petrol-azyg_cover.png",
-      "published_at": "2026-03-06T14:29:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Nintendo Direct For Mario Galaxy Movie Coming Soon, As Yoshi Popcorn Bucket Revealed",
-      "title_tr": "Nintendo Direct For Mario Galaxy Movie Coming Soon, As Yoshi Popcorn Bucket Revealed",
-      "summary": "Nintendo has announced the next Nintendo Direct, and it's coming up very soon. A Nintendo Direct dedicated to The Super Mario Galaxy Movie will be held on Monday, March 9 at 2 PM PT / 5 PM ET.This event will include the final trailer for The Super Mario Galaxy Movie, and, if it's like previous Directs for Nintendo movies, we may see and hear from Shigeru Miyamoto and Illumination's Chris Meledandri.The Nintendo Direct will not, however, feature any game information, Nintendo clarified to help set expectations.Continue Reading at GameSpot",
-      "summary_tr": "Nintendo has announced the next Nintendo Direct, and it's coming up very soon. A Nintendo Direct dedicated to The Super Mario Galaxy Movie will be held on Monday, March 9 at 2 PM PT / 5 PM ET.This event will include the final trailer for The Super Mario Galaxy Movie, and, if it's like previous Directs for Nintendo movies, we may see and hear from Shigeru Miyamoto and Illumination's Chris Meledandri.The Nintendo Direct will not, however, feature any game information, Nintendo clarified to help set expectations.Continue Reading at GameSpot",
-      "long_summary": "Nintendo has announced the next Nintendo Direct, and it's coming up very soon. A Nintendo Direct dedicated to The Super Mario Galaxy Movie will be held on Monday, March 9 at 2 PM PT / 5 PM ET.This event will include the final trailer for The Super Mario Galaxy Movie, and, if it's like previous Directs for Nintendo movies, we may see and hear from Shigeru Miyamoto and Illumination's Chris Meledandri.The Nintendo Direct will not, however, feature any game information, Nintendo clarified to help",
-      "long_summary_tr": "Nintendo has announced the next Nintendo Direct, and it's coming up very soon. A Nintendo Direct dedicated to The Super Mario Galaxy Movie will be held on Monday, March 9 at 2 PM PT / 5 PM ET.This event will include the final trailer for The Super Mario Galaxy Movie, and, if it's like previous Directs for Nintendo movies, we may see and hear from Shigeru Miyamoto and Illumination's Chris Meledandri.The Nintendo Direct will not, however, feature any game information, Nintendo clarified to help",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/nintendo-direct-for-mario-galaxy-movie-coming-soon-as-yoshi-popcorn-bucket-revealed/1100-6538627/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4662746-screenshot2026-03-06at9.17.47%E2%80%AFam.png",
-      "published_at": "2026-03-06T14:29:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Trump'tan İran'a koşulsuz teslimiyet çağrısı",
-      "title_tr": "Trump'tan İran'a koşulsuz teslimiyet çağrısı",
-      "summary": "ABD Başkanı Donald Trump, İran'a yönelik \"koşulsuz teslim olma\" çağrısı yaptı.",
-      "summary_tr": "ABD Başkanı Donald Trump, İran'a yönelik \"koşulsuz teslim olma\" çağrısı yaptı.",
-      "long_summary": "ABD Başkanı Donald Trump, İran'a yönelik \"koşulsuz teslim olma\" çağrısı yaptı.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, İran'a yönelik \"koşulsuz teslim olma\" çağrısı yaptı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/trump-tan-iran-a-kosulsuz-teslim-olma-cagrisi-3771212",
-      "image": null,
-      "published_at": "2026-03-06T14:26:05+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "The Search For The One Piece Has Turned Into A Real-World Quest",
-      "title_tr": "The Search For The One Piece Has Turned Into A Real-World Quest",
-      "summary": "What is the One Piece? That's the question that has been at the heart of the titular manga series for decades, and one that fans might finally get an answer to--if they don't mind getting a little wet. To celebrate the long-running manga reaching over 600 million sales worldwide, manga creator and author Eiichiro Oda has written the secret to One Piece on a piece of paper, sealed it inside a specially designed capsule, and left it at the bottom of the ocean.Oda's stunt was assisted by the Japan Agency for Marine-Earth Science and Technology, with the location of the capsule remaining undisclosed. Naturally, this has spurred speculation and investigation across the globe, with the Reddit community working to pinpoint where exactly one of the answers to the biggest secrets in manga is resting. What we do know is that the capsule is positioned 651 meters below sea level, so even if it is located, some serious equipment will be needed to retrieve the paper and not be crushed by the ocean depths.           Continue Reading at GameSpot",
-      "summary_tr": "What is the One Piece? That's the question that has been at the heart of the titular manga series for decades, and one that fans might finally get an answer to--if they don't mind getting a little wet. To celebrate the long-running manga reaching over 600 million sales worldwide, manga creator and author Eiichiro Oda has written the secret to One Piece on a piece of paper, sealed it inside a specially designed capsule, and left it at the bottom of the ocean.Oda's stunt was assisted by the Japan Agency for Marine-Earth Science and Technology, with the location of the capsule remaining undisclosed. Naturally, this has spurred speculation and investigation across the globe, with the Reddit community working to pinpoint where exactly one of the answers to the biggest secrets in manga is resting. What we do know is that the capsule is positioned 651 meters below sea level, so even if it is located, some serious equipment will be needed to retrieve the paper and not be crushed by the ocean depths.           Continue Reading at GameSpot",
-      "long_summary": "What is the One Piece? That's the question that has been at the heart of the titular manga series for decades, and one that fans might finally get an answer to--if they don't mind getting a little wet. To celebrate the long-running manga reaching over 600 million sales worldwide, manga creator and author Eiichiro Oda has written the secret to One Piece on a piece of paper, sealed it inside a specially designed capsule, and left it at the bottom of the ocean.Oda's stunt was assisted by the Japan",
-      "long_summary_tr": "What is the One Piece? That's the question that has been at the heart of the titular manga series for decades, and one that fans might finally get an answer to--if they don't mind getting a little wet. To celebrate the long-running manga reaching over 600 million sales worldwide, manga creator and author Eiichiro Oda has written the secret to One Piece on a piece of paper, sealed it inside a specially designed capsule, and left it at the bottom of the ocean.Oda's stunt was assisted by the Japan",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/the-search-for-the-one-piece-has-turned-into-a-real-world-quest/1100-6538623/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1601/16018044/4662710-one-piece.jpg",
-      "published_at": "2026-03-06T14:23:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "PFDK’den bahis soruşturmasında 474 kişiye men cezası",
-      "title_tr": "PFDK’den bahis soruşturmasında 474 kişiye men cezası",
-      "summary": "Türkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu (PFDK), bahis soruşturması kapsamında profesyonel liglerde görev yapan fizyoterapist, masör, tercüman ve doktorların da aralarında bulunduğu 474 kişiye 45 gün ile 12 ay arasında hak mahrumiyeti cezası verdi. Kurul, 33 kişi hakkında ise ceza tayinine yer olmadığına karar verdi.",
-      "summary_tr": "Türkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu (PFDK), bahis soruşturması kapsamında profesyonel liglerde görev yapan fizyoterapist, masör, tercüman ve doktorların da aralarında bulunduğu 474 kişiye 45 gün ile 12 ay arasında hak mahrumiyeti cezası verdi. Kurul, 33 kişi hakkında ise ceza tayinine yer olmadığına karar verdi.",
-      "long_summary": "Türkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu (PFDK), bahis soruşturması kapsamında profesyonel liglerde görev yapan fizyoterapist, masör, tercüman ve doktorların da aralarında bulunduğu 474 kişiye 45 gün ile 12 ay arasında hak mahrumiyeti cezası verdi. Kurul, 33 kişi hakkında ise ceza tayinine yer olmadığına karar verdi.",
-      "long_summary_tr": "Türkiye Futbol Federasyonu Profesyonel Futbol Disiplin Kurulu (PFDK), bahis soruşturması kapsamında profesyonel liglerde görev yapan fizyoterapist, masör, tercüman ve doktorların da aralarında bulunduğu 474 kişiye 45 gün ile 12 ay arasında hak mahrumiyeti cezası verdi. Kurul, 33 kişi hakkında ise ceza tayinine yer olmadığına karar verdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/spor/pfdkden-bahis-sorusturmasinda-474-kisiye-men-cezasi-haberi-817351",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/20/pfdk-gnyi_cover.jpg",
-      "published_at": "2026-03-06T14:22:00+00:00"
     }
   ]
 }
