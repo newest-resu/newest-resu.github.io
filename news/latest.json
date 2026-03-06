@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-03-05T22:45:09.017938+00:00",
+  "updated_at": "2026-03-06T00:01:27.461862+00:00",
   "articles": [
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Pressure mounts on Tudor as Tottenham lose at home to Palace",
-      "title_tr": "Pressure mounts on Tudor as Tottenham lose at home to Palace",
-      "summary": "Tottenham stay just one point above the relegation zone following a 3-1 home defeat to Crystal Palace in the Premier League, with Tottenham having to play more than 45 minutes with ten men after Micky van de Ven was sent off.",
-      "summary_tr": "Tottenham stay just one point above the relegation zone following a 3-1 home defeat to Crystal Palace in the Premier League, with Tottenham having to play more than 45 minutes with ten men after Micky van de Ven was sent off.",
-      "long_summary": "Tottenham stay just one point above the relegation zone following a 3-1 home defeat to Crystal Palace in the Premier League, with Tottenham having to play more than 45 minutes with ten men after Micky van de Ven was sent off.",
-      "long_summary_tr": "Tottenham stay just one point above the relegation zone following a 3-1 home defeat to Crystal Palace in the Premier League, with Tottenham having to play more than 45 minutes with ten men after Micky van de Ven was sent off.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/cz6ee6pj192o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961d/live/596590e0-18e2-11f1-9120-a910fc22c6ac.jpg",
-      "published_at": "2026-03-05T22:36:29+00:00"
-    },
     {
       "origin": "turkiye",
       "category": "Gündem",
@@ -43,7 +21,315 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-06-mart-2026-1714699",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-03-05T22:30:02+00:00"
+      "published_at": "2026-03-05T23:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Scientists discover a hidden force that helps wire the brain",
+      "title_tr": "Scientists discover a hidden force that helps wire the brain",
+      "summary": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+      "summary_tr": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+      "long_summary": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+      "long_summary_tr": "Growing neurons rely on chemical cues to find their targets, but new research shows that the brain’s physical properties help shape those signals. Scientists discovered that tissue stiffness can trigger the production of guidance molecules through a force-sensing protein called Piezo1. This protein not only detects mechanical forces but also helps maintain the structure of brain tissue. The discovery reveals a powerful link between the brain’s physical environment and how its wiring is built.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260304184233.htm",
+      "image": null,
+      "published_at": "2026-03-05T23:26:24+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+      "title_tr": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+      "summary_tr": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+      "long_summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+      "long_summary_tr": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62c4/live/d67046d0-1887-11f1-aff7-a32b6621d3cc.jpg",
+      "published_at": "2026-03-05T23:13:57+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
+      "title_tr": "Finland plans to lift decades-old ban on hosting nuclear weapons",
+      "summary": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
+      "summary_tr": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
+      "long_summary": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
+      "long_summary_tr": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70c7/live/a72a7ff0-18df-11f1-8e18-c962acd329dd.jpg",
+      "published_at": "2026-03-05T23:12:16+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The National Videogame Museum Obtains One-of-a-kind Nintendo PlayStation",
+      "title_tr": "The National Videogame Museum Obtains One-of-a-kind Nintendo PlayStation",
+      "summary": "The National Videogame Museum (NVM) has announced the acquisition of a wildly rare and strange artifact of video game history: a Nintendo PlayStation.",
+      "summary_tr": "The National Videogame Museum (NVM) has announced the acquisition of a wildly rare and strange artifact of video game history: a Nintendo PlayStation.",
+      "long_summary": "The National Videogame Museum (NVM) has announced the acquisition of a wildly rare and strange artifact of video game history: a Nintendo PlayStation.",
+      "long_summary_tr": "The National Videogame Museum (NVM) has announced the acquisition of a wildly rare and strange artifact of video game history: a Nintendo PlayStation.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/the-national-videogame-museum-obtains-one-of-a-kind-nintendo-playstation",
+      "image": "https://assets1.ignimgs.com/2020/02/14/nintendo-playstation-1581639866298.jpg",
+      "published_at": "2026-03-05T23:10:06+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Littler beats Clayton to Cardiff win after Big Fish and nine-dart near-miss",
+      "title_tr": "Littler beats Clayton to Cardiff win after Big Fish and nine-dart near-miss",
+      "summary": "Luke Littler secured his first night win of the season after beating home favourite Jonny Clayton 6-4 in an enthralling Night Five final in Cardiff.",
+      "summary_tr": "Luke Littler secured his first night win of the season after beating home favourite Jonny Clayton 6-4 in an enthralling Night Five final in Cardiff.",
+      "long_summary": "Luke Littler secured his first night win of the season after beating home favourite Jonny Clayton 6-4 in an enthralling Night Five final in Cardiff.",
+      "long_summary_tr": "Luke Littler secured his first night win of the season after beating home favourite Jonny Clayton 6-4 in an enthralling Night Five final in Cardiff.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/darts/news/12040/13515871/premier-league-darts-luke-littler-beats-jonny-clayton-in-cardiff-final-to-secure-impressive-first-night-win-of-season",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-luke-littler-darts_7183582.jpg?20260305212354",
+      "published_at": "2026-03-05T23:03:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "The Best Books About Carolyn Bessette Kennedy and JFK Jr. For Love Story Fans",
+      "title_tr": "The Best Books About Carolyn Bessette Kennedy and JFK Jr. For Love Story Fans",
+      "summary": "Below, find 11 titles that go beyond the popular FX series.",
+      "summary_tr": "Below, find 11 titles that go beyond the popular FX series.",
+      "long_summary": "Below, find 11 titles that go beyond the popular FX series.",
+      "long_summary_tr": "Below, find 11 titles that go beyond the popular FX series.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/books/g70437418/best-carolyn-bessette-kennedy-jfk-jr-books/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-800607-6998b7f438fea.png",
+      "published_at": "2026-03-05T23:02:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Littler spoils Welsh party with Premier League win",
+      "title_tr": "Littler spoils Welsh party with Premier League win",
+      "summary": "Luke Littler beats Premier League leader Jonny Clayton 6-4 in a top class final at Utilita Arena in Cardiff.",
+      "summary_tr": "Luke Littler beats Premier League leader Jonny Clayton 6-4 in a top class final at Utilita Arena in Cardiff.",
+      "long_summary": "Luke Littler beats Premier League leader Jonny Clayton 6-4 in a top class final at Utilita Arena in Cardiff.",
+      "long_summary_tr": "Luke Littler beats Premier League leader Jonny Clayton 6-4 in a top class final at Utilita Arena in Cardiff.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/darts/articles/cy0ddxq2rdpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0c/live/6f192370-18e2-11f1-8e18-c962acd329dd.jpg",
+      "published_at": "2026-03-05T23:01:08+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Echoes of Aincrad Preview: Already an Anime-Styled Single-Player Action-RPG Delight",
+      "title_tr": "Echoes of Aincrad Preview: Already an Anime-Styled Single-Player Action-RPG Delight",
+      "summary": "If the single-player action-RPG Echoes of Aincrad can nail what it’s aiming for, it should, based on what we've played so far, be a chance for seasoned vets and newcomers alike to get into the Sword Art Online world.",
+      "summary_tr": "If the single-player action-RPG Echoes of Aincrad can nail what it’s aiming for, it should, based on what we've played so far, be a chance for seasoned vets and newcomers alike to get into the Sword Art Online world.",
+      "long_summary": "If the single-player action-RPG Echoes of Aincrad can nail what it’s aiming for, it should, based on what we've played so far, be a chance for seasoned vets and newcomers alike to get into the Sword Art Online world.",
+      "long_summary_tr": "If the single-player action-RPG Echoes of Aincrad can nail what it’s aiming for, it should, based on what we've played so far, be a chance for seasoned vets and newcomers alike to get into the Sword Art Online world.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/echoes-of-aincrad-preview-already-an-anime-styled-single-player-action-rpg-delight",
+      "image": "https://assets-prd.ignimgs.com/2026/03/04/echoes-of-aincrad-sword-art-online-preview-blogroll-1772666145553.jpg",
+      "published_at": "2026-03-05T23:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "One Of My Favorite TTRPGs Is Kicking Butt On Kickstarter",
+      "title_tr": "One Of My Favorite TTRPGs Is Kicking Butt On Kickstarter",
+      "summary": "Dungeons & Dragons is practically synonymous with \"tabletop role-playing games,\" but sometimes you want something a little different. Or at least I do. And in the wake of Wizard of the Coast's 2023 OGL fiasco, a ton of TTRPGs that are D&D-like but different in their own way popped up--Critical Role's Daggerheart, Kobold Press' Tales of the Valiant, The Arcane Library's Shadowdark, Gila RPGs' Dragon Slayers, and MCDM Productions' Draw Steel, just to name a few. My favorite of the lot (so far--time and money prevents me from playing everything I want to try) is Nimble, which originally existed as an alternative ruleset for D&D 5e in 2023, but then it evolved into its own system in 2024 with a Backerkit crowdfunder that exceeded its $5,000 goal by over $260,000. Now, Nimble is on Kickstarter for a reprint and expansion, and it has overshot its $50,000 goal by $663,000 with a week to go (as of publishing this article).Nimble is a system built on speed. It accomplishes this by being more efficient than a lot of other combat-driven TTRPGs. Just comparing it to D&D 5.5e, Nimble has four ability scores instead of six, and 10 skills instead of 18 (which is too many, WotC!). These changes make for a smaller and easier-to-track character sheet. This also makes it very easy to onboard new players, even if they've never played a TTRPG. Instead of keeping track of the pages of notes you'd need for something like D&D, Nimble only asks you to keep on top of what amounts to half a page of numbers when you're first starting out. In Nimble, you can understand your character at a glance.Combat is where Nimble really shines, though. There aren't a ton of weapons and spells but each does something unique and is useful, and since initiative puts emphasis on the players going before enemy creatures and attacks almost always hit, every player feels suitably heroic whenever combat happens. A simple and easy-to-remember action economy and loosy-goosey handling of initiative order ensures the Game Master can keep battles feeling punchy and fast-paced as well, controlling the tempo of every scene and creating avenues for the players to be both creative and tactical. My biggest qualm with D&D, especially at the higher levels of play, is that a single combat encounter can last for three to four hours (sometimes longer!). In Nimble, the longest encounter I've ever had was an hour. I like having room for the exploration and social pillars in my sessions, which typically only last for three hours.Continue Reading at GameSpot",
+      "summary_tr": "Dungeons & Dragons is practically synonymous with \"tabletop role-playing games,\" but sometimes you want something a little different. Or at least I do. And in the wake of Wizard of the Coast's 2023 OGL fiasco, a ton of TTRPGs that are D&D-like but different in their own way popped up--Critical Role's Daggerheart, Kobold Press' Tales of the Valiant, The Arcane Library's Shadowdark, Gila RPGs' Dragon Slayers, and MCDM Productions' Draw Steel, just to name a few. My favorite of the lot (so far--time and money prevents me from playing everything I want to try) is Nimble, which originally existed as an alternative ruleset for D&D 5e in 2023, but then it evolved into its own system in 2024 with a Backerkit crowdfunder that exceeded its $5,000 goal by over $260,000. Now, Nimble is on Kickstarter for a reprint and expansion, and it has overshot its $50,000 goal by $663,000 with a week to go (as of publishing this article).Nimble is a system built on speed. It accomplishes this by being more efficient than a lot of other combat-driven TTRPGs. Just comparing it to D&D 5.5e, Nimble has four ability scores instead of six, and 10 skills instead of 18 (which is too many, WotC!). These changes make for a smaller and easier-to-track character sheet. This also makes it very easy to onboard new players, even if they've never played a TTRPG. Instead of keeping track of the pages of notes you'd need for something like D&D, Nimble only asks you to keep on top of what amounts to half a page of numbers when you're first starting out. In Nimble, you can understand your character at a glance.Combat is where Nimble really shines, though. There aren't a ton of weapons and spells but each does something unique and is useful, and since initiative puts emphasis on the players going before enemy creatures and attacks almost always hit, every player feels suitably heroic whenever combat happens. A simple and easy-to-remember action economy and loosy-goosey handling of initiative order ensures the Game Master can keep battles feeling punchy and fast-paced as well, controlling the tempo of every scene and creating avenues for the players to be both creative and tactical. My biggest qualm with D&D, especially at the higher levels of play, is that a single combat encounter can last for three to four hours (sometimes longer!). In Nimble, the longest encounter I've ever had was an hour. I like having room for the exploration and social pillars in my sessions, which typically only last for three hours.Continue Reading at GameSpot",
+      "long_summary": "Dungeons & Dragons is practically synonymous with \"tabletop role-playing games,\" but sometimes you want something a little different. Or at least I do. And in the wake of Wizard of the Coast's 2023 OGL fiasco, a ton of TTRPGs that are D&D-like but different in their own way popped up--Critical Role's Daggerheart, Kobold Press' Tales of the Valiant, The Arcane Library's Shadowdark, Gila RPGs' Dragon Slayers, and MCDM Productions' Draw Steel, just to name a few. My favorite of the lot (so",
+      "long_summary_tr": "Dungeons & Dragons is practically synonymous with \"tabletop role-playing games,\" but sometimes you want something a little different. Or at least I do. And in the wake of Wizard of the Coast's 2023 OGL fiasco, a ton of TTRPGs that are D&D-like but different in their own way popped up--Critical Role's Daggerheart, Kobold Press' Tales of the Valiant, The Arcane Library's Shadowdark, Gila RPGs' Dragon Slayers, and MCDM Productions' Draw Steel, just to name a few. My favorite of the lot (so",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/one-of-my-favorite-ttrpgs-is-kicking-butt-on-kickstarter/1100-6538616/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1587/15875866/4662595-feature.png",
+      "published_at": "2026-03-05T23:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'I believe more than before' - Tudor positive despite defeat by Palace",
+      "title_tr": "'I believe more than before' - Tudor positive despite defeat by Palace",
+      "summary": "Tottenham Hotspur head coach Igor Tudor believes the club will be able to avoid relegation from the Premier League, insisting \"the moment will pass\" after watching his side lose 3-1 at home to Crystal Palace to remain one point above the relegation zone.",
+      "summary_tr": "Tottenham Hotspur head coach Igor Tudor believes the club will be able to avoid relegation from the Premier League, insisting \"the moment will pass\" after watching his side lose 3-1 at home to Crystal Palace to remain one point above the relegation zone.",
+      "long_summary": "Tottenham Hotspur head coach Igor Tudor believes the club will be able to avoid relegation from the Premier League, insisting \"the moment will pass\" after watching his side lose 3-1 at home to Crystal Palace to remain one point above the relegation zone.",
+      "long_summary_tr": "Tottenham Hotspur head coach Igor Tudor believes the club will be able to avoid relegation from the Premier League, insisting \"the moment will pass\" after watching his side lose 3-1 at home to Crystal Palace to remain one point above the relegation zone.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/czd88dlevv2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaf/live/45b73cd0-18e5-11f1-b048-c9424b2cf5fd.jpg",
+      "published_at": "2026-03-05T22:54:20+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Messi and Inter Miami meet Trump at White House",
+      "title_tr": "Messi and Inter Miami meet Trump at White House",
+      "summary": "Lionel Messi and his Inter Miami team-mates meet US president Donald Trump at the White House to commemorate the club's MLS Cup championship.",
+      "summary_tr": "Lionel Messi and his Inter Miami team-mates meet US president Donald Trump at the White House to commemorate the club's MLS Cup championship.",
+      "long_summary": "Lionel Messi and his Inter Miami team-mates meet US president Donald Trump at the White House to commemorate the club's MLS Cup championship.",
+      "long_summary_tr": "Lionel Messi and his Inter Miami team-mates meet US president Donald Trump at the White House to commemorate the club's MLS Cup championship.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cq6qjr0rle4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e041/live/e385f750-18de-11f1-8e18-c962acd329dd.jpg",
+      "published_at": "2026-03-05T22:45:35+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Truist’e göre yükseliş potansiyeli olan 4 konut inşaat hissesi",
+      "title_tr": "Truist’e göre yükseliş potansiyeli olan 4 konut inşaat hissesi",
+      "summary": "Truist’e göre yükseliş potansiyeli olan 4 konut inşaat hissesi",
+      "summary_tr": "Truist’e göre yükseliş potansiyeli olan 4 konut inşaat hissesi",
+      "long_summary": "Truist’e göre yükseliş potansiyeli olan 4 konut inşaat hissesi",
+      "long_summary_tr": "Truist’e göre yükseliş potansiyeli olan 4 konut inşaat hissesi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/truiste-gore-yukselis-potansiyeli-olan-4-konut-insaat-hissesi-93CH-3797102",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-05T22:43:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Truist’e Göre Alınabilecek 4 Konut İnşaat Hissesi",
+      "title_tr": "Truist’e Göre Alınabilecek 4 Konut İnşaat Hissesi",
+      "summary": "Truist’e Göre Alınabilecek 4 Konut İnşaat Hissesi",
+      "summary_tr": "Truist’e Göre Alınabilecek 4 Konut İnşaat Hissesi",
+      "long_summary": "Truist’e Göre Alınabilecek 4 Konut İnşaat Hissesi",
+      "long_summary_tr": "Truist’e Göre Alınabilecek 4 Konut İnşaat Hissesi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/truiste-gore-alnabilecek-4-konut-insaat-hissesi-93CH-3797097",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-05T22:41:18+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Pressure mounts on Tudor as Tottenham lose at home to Palace",
+      "title_tr": "Pressure mounts on Tudor as Tottenham lose at home to Palace",
+      "summary": "Tottenham stay just one point above the Premier League relegation zone following a 3-1 home defeat by Crystal Palace, having had to play more than 45 minutes with 10 men after Micky van de Ven was sent off.",
+      "summary_tr": "Tottenham stay just one point above the Premier League relegation zone following a 3-1 home defeat by Crystal Palace, having had to play more than 45 minutes with 10 men after Micky van de Ven was sent off.",
+      "long_summary": "Tottenham stay just one point above the Premier League relegation zone following a 3-1 home defeat by Crystal Palace, having had to play more than 45 minutes with 10 men after Micky van de Ven was sent off.",
+      "long_summary_tr": "Tottenham stay just one point above the Premier League relegation zone following a 3-1 home defeat by Crystal Palace, having had to play more than 45 minutes with 10 men after Micky van de Ven was sent off.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/cz6ee6pj192o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961d/live/596590e0-18e2-11f1-9120-a910fc22c6ac.jpg",
+      "published_at": "2026-03-05T22:36:29+00:00"
     },
     {
       "origin": "yabanci",
@@ -198,6 +484,50 @@
       "url": "https://www.elle.com/culture/movies-tv/a70626795/vladimir-netflix-show-book-differences-julia-may-jonas-interview-2026/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/65959814-defd-459b-989e-687651383232.png",
       "published_at": "2026-03-05T22:17:26+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
+      "title_tr": "Trump cuts his losses on Noem after controversial tenure at homeland security",
+      "summary": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months.",
+      "summary_tr": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months.",
+      "long_summary": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months.",
+      "long_summary_tr": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2f/live/37ef2870-18df-11f1-9120-a910fc22c6ac.jpg",
+      "published_at": "2026-03-05T22:16:24+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "How relegation could cost Spurs more than £250m",
+      "title_tr": "How relegation could cost Spurs more than £250m",
+      "summary": "BBC Sport explores the potential financial impact should Spurs be relegated to the Championship.",
+      "summary_tr": "BBC Sport explores the potential financial impact should Spurs be relegated to the Championship.",
+      "long_summary": "BBC Sport explores the potential financial impact should Spurs be relegated to the Championship.",
+      "long_summary_tr": "BBC Sport explores the potential financial impact should Spurs be relegated to the Championship.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cvg11ypd7gko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bec1/live/f3c0af70-188e-11f1-aff7-a32b6621d3cc.jpg",
+      "published_at": "2026-03-05T22:06:49+00:00"
     },
     {
       "origin": "yabanci",
@@ -733,12 +1063,12 @@
       "category_slug": "oyun_dijital",
       "is_local": false,
       "source": "IGN",
-      "title": "Capcom Spotlight March 2026: Everything Announced (Updating Live!)",
-      "title_tr": "Capcom Spotlight March 2026: Everything Announced (Updating Live!)",
-      "summary": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight is on its way today, promising updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Pragmata, and much more. We'll be gather all the biggest moments and reveals right here as they happen, so be sure to keep checking back often!",
-      "summary_tr": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight is on its way today, promising updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Pragmata, and much more. We'll be gather all the biggest moments and reveals right here as they happen, so be sure to keep checking back often!",
-      "long_summary": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight is on its way today, promising updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Pragmata, and much more. We'll be gather all the biggest moments and reveals right here as they happen, so be sure to keep checking back often!",
-      "long_summary_tr": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight is on its way today, promising updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Pragmata, and much more. We'll be gather all the biggest moments and reveals right here as they happen, so be sure to keep checking back often!",
+      "title": "Capcom Spotlight March 2026: Everything Announced",
+      "title_tr": "Capcom Spotlight March 2026: Everything Announced",
+      "summary": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight has arrived with updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Onimusha: Way of the Sword, Pragmata, and much more. Check out all the biggest moments right here.",
+      "summary_tr": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight has arrived with updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Onimusha: Way of the Sword, Pragmata, and much more. Check out all the biggest moments right here.",
+      "long_summary": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight has arrived with updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Onimusha: Way of the Sword, Pragmata, and much more. Check out all the biggest moments right here.",
+      "long_summary_tr": "Hot off the zombified heels of Resident Evil Requiem, a brand-new Capcom Spotlight has arrived with updates on Street Fighter 6, Monster Hunter Stories 3: Twisted Reflection, Onimusha: Way of the Sword, Pragmata, and much more. Check out all the biggest moments right here.",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
@@ -746,7 +1076,7 @@
         "Oyun sektöründe rekabet artabilir"
       ],
       "url": "https://www.ign.com/articles/capcom-spotlight-march-2026-everything-announced",
-      "image": "https://assets-prd.ignimgs.com/2026/03/05/capcomspotlight-blogroll-1772737462172.jpg",
+      "image": "https://assets-prd.ignimgs.com/2026/03/05/capcom-1772751933204.png",
       "published_at": "2026-03-05T21:13:13+00:00"
     },
     {
@@ -770,336 +1100,6 @@
       "url": "https://www.yalovagazetesi.com/armutlu-ve-koru-liderligini-surdurdu",
       "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/spor/armutlu-ve-koru-liderligini-surdurdu.jpeg",
       "published_at": "2026-03-05T21:13:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Sinema Tutkunlarına Müjde: 13 Yeni Film ve Oscar Adaylı Yapımlar",
-      "title_tr": "Yalova’da Sinema Tutkunlarına Müjde: 13 Yeni Film ve Oscar Adaylı Yapımlar",
-      "summary": "Yalova Özdilek Cinetime, 6 Mart Cuma günü itibarıyla güncellenen programıyla 13 farklı filmi sinemaseverlerle buluşturuyor.",
-      "summary_tr": "Yalova Özdilek Cinetime, 6 Mart Cuma günü itibarıyla güncellenen programıyla 13 farklı filmi sinemaseverlerle buluşturuyor.",
-      "long_summary": "Yalova Özdilek Cinetime, 6 Mart Cuma günü itibarıyla güncellenen programıyla 13 farklı filmi sinemaseverlerle buluşturuyor.",
-      "long_summary_tr": "Yalova Özdilek Cinetime, 6 Mart Cuma günü itibarıyla güncellenen programıyla 13 farklı filmi sinemaseverlerle buluşturuyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-sinema-tutkunlarina-mujde-13-yeni-film-ve-oscar-adayli-yapimlar",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-ozdilek-cinetime-yeni-hafta-13-film-yerli-yabanci-hollywood-filistin-sinema.jpg",
-      "published_at": "2026-03-05T21:12:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Kaçak Tütün Operasyonu: 27 Bin Makaron Ele Geçirildi",
-      "title_tr": "Yalova’da Kaçak Tütün Operasyonu: 27 Bin Makaron Ele Geçirildi",
-      "summary": "Yalova İl Jandarma Komutanlığı, Çınarcık ilçesi Esenköy’de yürüttüğü kaçakçılık operasyonunda 27 bin makaron ve 16 kilogram kıyılmış tütün ele geçirdi.",
-      "summary_tr": "Yalova İl Jandarma Komutanlığı, Çınarcık ilçesi Esenköy’de yürüttüğü kaçakçılık operasyonunda 27 bin makaron ve 16 kilogram kıyılmış tütün ele geçirdi.",
-      "long_summary": "Yalova İl Jandarma Komutanlığı, Çınarcık ilçesi Esenköy’de yürüttüğü kaçakçılık operasyonunda 27 bin makaron ve 16 kilogram kıyılmış tütün ele geçirdi.",
-      "long_summary_tr": "Yalova İl Jandarma Komutanlığı, Çınarcık ilçesi Esenköy’de yürüttüğü kaçakçılık operasyonunda 27 bin makaron ve 16 kilogram kıyılmış tütün ele geçirdi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-kacak-tutun-operasyonu-27-bin-makaron-ele-gecirildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-il-jandarma-komutanlik-kacak-sigara-makaron-operasyon.jpeg",
-      "published_at": "2026-03-05T21:11:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Subaşı’nda Oyunculuk Eğitimi Başlıyor",
-      "title_tr": "Subaşı’nda Oyunculuk Eğitimi Başlıyor",
-      "summary": "Subaşı Belediyesi, tiyatro ve dizi oyunculuğuna meraklı herkese kapılarını açıyor. Ekrem Bozgül’ün eğitmenliğinde 7’den 77’ye tüm yaş grupları sahneyle tanışacak.",
-      "summary_tr": "Subaşı Belediyesi, tiyatro ve dizi oyunculuğuna meraklı herkese kapılarını açıyor. Ekrem Bozgül’ün eğitmenliğinde 7’den 77’ye tüm yaş grupları sahneyle tanışacak.",
-      "long_summary": "Subaşı Belediyesi, tiyatro ve dizi oyunculuğuna meraklı herkese kapılarını açıyor. Ekrem Bozgül’ün eğitmenliğinde 7’den 77’ye tüm yaş grupları sahneyle tanışacak.",
-      "long_summary_tr": "Subaşı Belediyesi, tiyatro ve dizi oyunculuğuna meraklı herkese kapılarını açıyor. Ekrem Bozgül’ün eğitmenliğinde 7’den 77’ye tüm yaş grupları sahneyle tanışacak.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/subasinda-oyunculuk-egitimi-basliyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/subasinda-oyunculuk-egitimi-basliyor-1.jpg",
-      "published_at": "2026-03-05T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Arakçi: Türkiye’ye saldırmak için hiçbir nedenimiz yok",
-      "title_tr": "Arakçi: Türkiye’ye saldırmak için hiçbir nedenimiz yok",
-      "summary": "İran Dışişleri Bakanı Abbas Arakçi, Türkiye’ye yönelik füze iddialarını reddederek, “Türkiye iyi bir komşumuzdur, saldırmak için hiçbir nedenimiz yok” dedi. Arakçi, İran’ın hedefinin yalnızca bölgedeki ABD üsleri ve tesisleri olduğunu belirtti.",
-      "summary_tr": "İran Dışişleri Bakanı Abbas Arakçi, Türkiye’ye yönelik füze iddialarını reddederek, “Türkiye iyi bir komşumuzdur, saldırmak için hiçbir nedenimiz yok” dedi. Arakçi, İran’ın hedefinin yalnızca bölgedeki ABD üsleri ve tesisleri olduğunu belirtti.",
-      "long_summary": "İran Dışişleri Bakanı Abbas Arakçi, Türkiye’ye yönelik füze iddialarını reddederek, “Türkiye iyi bir komşumuzdur, saldırmak için hiçbir nedenimiz yok” dedi. Arakçi, İran’ın hedefinin yalnızca bölgedeki ABD üsleri ve tesisleri olduğunu belirtti.",
-      "long_summary_tr": "İran Dışişleri Bakanı Abbas Arakçi, Türkiye’ye yönelik füze iddialarını reddederek, “Türkiye iyi bir komşumuzdur, saldırmak için hiçbir nedenimiz yok” dedi. Arakçi, İran’ın hedefinin yalnızca bölgedeki ABD üsleri ve tesisleri olduğunu belirtti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/arakci-turkiyeye-saldirmak-icin-hicbir-nedenimiz-yok-haberi-817284",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/31/abbas-arakci-ouaf_cover.jpg",
-      "published_at": "2026-03-05T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalovalılar Sanata Doyacak: Frankenstein Uyarlaması Yalova’da",
-      "title_tr": "Yalovalılar Sanata Doyacak: Frankenstein Uyarlaması Yalova’da",
-      "summary": "Kadrosunda Christian Bale, Jessie Buckley ve Jake Gyllenhaal gibi birçok Hollywod yıldızının bulunduğu “The Bride!”, 6 Mart Cuma günü Yalova Özdilek Cinetime’da vizyona girdi.",
-      "summary_tr": "Kadrosunda Christian Bale, Jessie Buckley ve Jake Gyllenhaal gibi birçok Hollywod yıldızının bulunduğu “The Bride!”, 6 Mart Cuma günü Yalova Özdilek Cinetime’da vizyona girdi.",
-      "long_summary": "Kadrosunda Christian Bale, Jessie Buckley ve Jake Gyllenhaal gibi birçok Hollywod yıldızının bulunduğu “The Bride!”, 6 Mart Cuma günü Yalova Özdilek Cinetime’da vizyona girdi.",
-      "long_summary_tr": "Kadrosunda Christian Bale, Jessie Buckley ve Jake Gyllenhaal gibi birçok Hollywod yıldızının bulunduğu “The Bride!”, 6 Mart Cuma günü Yalova Özdilek Cinetime’da vizyona girdi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovalilar-sanata-doyacak-frankenstein-uyarlamasi-yalovada",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/ust-manset/yalova-ozdilek-cinetime-frankenstein-yeni-uarlama-the-bride-gelin-holywood-starlar-3.jpg",
-      "published_at": "2026-03-05T21:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Otobüs Duraklarındaki İzinsiz Afişlere Zabıta Müdahalesi",
-      "title_tr": "Otobüs Duraklarındaki İzinsiz Afişlere Zabıta Müdahalesi",
-      "summary": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, şehir estetiğini korumak ve kamu alanlarının izinsiz kullanımını önlemek amacıyla kent genelinde denetimlerini sürdürüyor.",
-      "summary_tr": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, şehir estetiğini korumak ve kamu alanlarının izinsiz kullanımını önlemek amacıyla kent genelinde denetimlerini sürdürüyor.",
-      "long_summary": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, şehir estetiğini korumak ve kamu alanlarının izinsiz kullanımını önlemek amacıyla kent genelinde denetimlerini sürdürüyor.",
-      "long_summary_tr": "Yalova Belediyesi Zabıta Müdürlüğü ekipleri, şehir estetiğini korumak ve kamu alanlarının izinsiz kullanımını önlemek amacıyla kent genelinde denetimlerini sürdürüyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/otobus-duraklarindaki-izinsiz-afislere-zabita-mudahalesi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-zabita-mudurluk-ekipler-durak-izinsiz-afis-denetim-1.JPG",
-      "published_at": "2026-03-05T21:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "AFAD’dan Yalova’da Deprem Haftası Farkındalık Etkinliği",
-      "title_tr": "AFAD’dan Yalova’da Deprem Haftası Farkındalık Etkinliği",
-      "summary": "1–7 Mart Deprem Haftası kapsamında Yalova Valiliği İl Afet ve Acil Durum Müdürlüğü (AFAD) tarafından Yalova Merkez Cevdet Aydın Parkı’nda bilgilendirme standı kuruldu.",
-      "summary_tr": "1–7 Mart Deprem Haftası kapsamında Yalova Valiliği İl Afet ve Acil Durum Müdürlüğü (AFAD) tarafından Yalova Merkez Cevdet Aydın Parkı’nda bilgilendirme standı kuruldu.",
-      "long_summary": "1–7 Mart Deprem Haftası kapsamında Yalova Valiliği İl Afet ve Acil Durum Müdürlüğü (AFAD) tarafından Yalova Merkez Cevdet Aydın Parkı’nda bilgilendirme standı kuruldu.",
-      "long_summary_tr": "1–7 Mart Deprem Haftası kapsamında Yalova Valiliği İl Afet ve Acil Durum Müdürlüğü (AFAD) tarafından Yalova Merkez Cevdet Aydın Parkı’nda bilgilendirme standı kuruldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/afaddan-yalovada-deprem-haftasi-farkindalik-etkinligi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-valilik-acil-afet-mudurluk-afad-deprem-haftasi-stant-farkindalik-calisma-2.jpeg",
-      "published_at": "2026-03-05T21:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da “Rosa Luxemburg” Oyunu Sanatseverlerle Buluştu",
-      "title_tr": "Yalova’da “Rosa Luxemburg” Oyunu Sanatseverlerle Buluştu",
-      "summary": "Yalova Belediyesi’nin kültür ve sanat etkinlikleri kapsamında sahnelenen “Rosa Luxemburg” adlı tiyatro oyunu, Yalovalı sanatseverlerle buluştu.",
-      "summary_tr": "Yalova Belediyesi’nin kültür ve sanat etkinlikleri kapsamında sahnelenen “Rosa Luxemburg” adlı tiyatro oyunu, Yalovalı sanatseverlerle buluştu.",
-      "long_summary": "Yalova Belediyesi’nin kültür ve sanat etkinlikleri kapsamında sahnelenen “Rosa Luxemburg” adlı tiyatro oyunu, Yalovalı sanatseverlerle buluştu.",
-      "long_summary_tr": "Yalova Belediyesi’nin kültür ve sanat etkinlikleri kapsamında sahnelenen “Rosa Luxemburg” adlı tiyatro oyunu, Yalovalı sanatseverlerle buluştu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-rosa-luxemburg-oyunu-sanatseverlerle-bulustu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-belediyesi-rosa-luxemburg-tiyatro-1.jpeg",
-      "published_at": "2026-03-05T21:06:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Hal Müdürlüğü Ekipleri’nden Marketlerde Künye Denetimi",
-      "title_tr": "Hal Müdürlüğü Ekipleri’nden Marketlerde Künye Denetimi",
-      "summary": "Yalova Belediyesi Hal Müdürlüğü ekipleri, şehir genelindeki işletmelerde denetimler gerçekleştirdi.",
-      "summary_tr": "Yalova Belediyesi Hal Müdürlüğü ekipleri, şehir genelindeki işletmelerde denetimler gerçekleştirdi.",
-      "long_summary": "Yalova Belediyesi Hal Müdürlüğü ekipleri, şehir genelindeki işletmelerde denetimler gerçekleştirdi.",
-      "long_summary_tr": "Yalova Belediyesi Hal Müdürlüğü ekipleri, şehir genelindeki işletmelerde denetimler gerçekleştirdi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/hal-mudurlugu-ekiplerinden-marketlerde-kunye-denetimi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-belediyesi-hal-ekipler-isletme-meyve-sebze-denetim-2.jpeg",
-      "published_at": "2026-03-05T21:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Su Yönetiminde Yeni Dönem 26 Alt Bölge Oluşturuluyor",
-      "title_tr": "Yalova’da Su Yönetiminde Yeni Dönem 26 Alt Bölge Oluşturuluyor",
-      "summary": "Yalova Belediyesi, içme suyu dağıtım sisteminin daha etkin ve sürdürülebilir şekilde yönetilmesi amacıyla önemli bir altyapı çalışmasını hayata geçirdi.",
-      "summary_tr": "Yalova Belediyesi, içme suyu dağıtım sisteminin daha etkin ve sürdürülebilir şekilde yönetilmesi amacıyla önemli bir altyapı çalışmasını hayata geçirdi.",
-      "long_summary": "Yalova Belediyesi, içme suyu dağıtım sisteminin daha etkin ve sürdürülebilir şekilde yönetilmesi amacıyla önemli bir altyapı çalışmasını hayata geçirdi.",
-      "long_summary_tr": "Yalova Belediyesi, içme suyu dağıtım sisteminin daha etkin ve sürdürülebilir şekilde yönetilmesi amacıyla önemli bir altyapı çalışmasını hayata geçirdi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-su-yonetiminde-yeni-donem-26-alt-bolge-olusturuluyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalova-belediye-bayraktepe-mahalle-su-altyapi-calisma-1.jpeg",
-      "published_at": "2026-03-05T21:04:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Kooperatif Üyeleri Gıda Güvenliğiyle Tanıştı",
-      "title_tr": "Yalova’da Kooperatif Üyeleri Gıda Güvenliğiyle Tanıştı",
-      "summary": "Yalova’da kooperatif üyeleri, güvenilir gıda üretimi için hijyen ve gıda güvenliği eğitiminden geçti.",
-      "summary_tr": "Yalova’da kooperatif üyeleri, güvenilir gıda üretimi için hijyen ve gıda güvenliği eğitiminden geçti.",
-      "long_summary": "Yalova’da kooperatif üyeleri, güvenilir gıda üretimi için hijyen ve gıda güvenliği eğitiminden geçti.",
-      "long_summary_tr": "Yalova’da kooperatif üyeleri, güvenilir gıda üretimi için hijyen ve gıda güvenliği eğitiminden geçti.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-kooperatif-uyeleri-gida-guvenligiyle-tanisti",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/yalovada-kooperatif-uyeleri-gida-guvenligiyle-tanisti-2.jpg",
-      "published_at": "2026-03-05T21:03:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Nothing Announces the Phone 4a Pro and a New Set of Over-Ear Headphones",
-      "title_tr": "Nothing Announces the Phone 4a Pro and a New Set of Over-Ear Headphones",
-      "summary": "Nothing Announces the Phone 4a Pro and a New Set of Over-Ear Headphones",
-      "summary_tr": "Nothing Announces the Phone 4a Pro and a New Set of Over-Ear Headphones",
-      "long_summary": "Nothing Announces the Phone 4a Pro and a New Set of Over-Ear Headphones",
-      "long_summary_tr": "Nothing Announces the Phone 4a Pro and a New Set of Over-Ear Headphones",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/nothing-announces-the-phone-4a-pro-and-a-new-set-of-over-ear-headphones",
-      "image": "https://assets-prd.ignimgs.com/2026/03/05/nothing-phone-4a-pro-promo-pic-1772738353793.jpg",
-      "published_at": "2026-03-05T21:02:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Kadın Girişimciler Yapay Zekada Geleceği Tartıştı",
-      "title_tr": "Kadın Girişimciler Yapay Zekada Geleceği Tartıştı",
-      "summary": "YTSO ve Yalova Tekmer, yapay zeka odaklı girişimcilik semineri düzenledi.",
-      "summary_tr": "YTSO ve Yalova Tekmer, yapay zeka odaklı girişimcilik semineri düzenledi.",
-      "long_summary": "YTSO ve Yalova Tekmer, yapay zeka odaklı girişimcilik semineri düzenledi.",
-      "long_summary_tr": "YTSO ve Yalova Tekmer, yapay zeka odaklı girişimcilik semineri düzenledi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/kadin-girisimciler-yapay-zekada-gelecegi-tartisti",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/kadin-girisimciler-yapay-zekada-gelecegi-tartisti-1.jpg",
-      "published_at": "2026-03-05T21:02:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çiftlikköy’de Sağlık Farkındalığı Artıyor",
-      "title_tr": "Çiftlikköy’de Sağlık Farkındalığı Artıyor",
-      "summary": "Yalova İl Sağlık Müdürlüğü, Ramazan ayı boyunca Çiftlikköy’de kurduğu sağlık istasyonu ve bilgilendirme etkinlikleriyle vatandaşlara sağlıklı yaşam, acil sağlık hizmetleri ve koruyucu sağlık konularında farkındalık kazandırıyor.",
-      "summary_tr": "Yalova İl Sağlık Müdürlüğü, Ramazan ayı boyunca Çiftlikköy’de kurduğu sağlık istasyonu ve bilgilendirme etkinlikleriyle vatandaşlara sağlıklı yaşam, acil sağlık hizmetleri ve koruyucu sağlık konularında farkındalık kazandırıyor.",
-      "long_summary": "Yalova İl Sağlık Müdürlüğü, Ramazan ayı boyunca Çiftlikköy’de kurduğu sağlık istasyonu ve bilgilendirme etkinlikleriyle vatandaşlara sağlıklı yaşam, acil sağlık hizmetleri ve koruyucu sağlık konularında farkındalık kazandırıyor.",
-      "long_summary_tr": "Yalova İl Sağlık Müdürlüğü, Ramazan ayı boyunca Çiftlikköy’de kurduğu sağlık istasyonu ve bilgilendirme etkinlikleriyle vatandaşlara sağlıklı yaşam, acil sağlık hizmetleri ve koruyucu sağlık konularında farkındalık kazandırıyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ciftlikkoyde-saglik-farkindaligi-artiyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/ciftlikkoyde-saglik-farkindaligi-artiyor-2.jpg",
-      "published_at": "2026-03-05T21:01:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Son dakika: İsrail'e füze yağmuru başladı",
-      "title_tr": "Son dakika: İsrail'e füze yağmuru başladı",
-      "summary": "Son dakika haberine göre, İran tarafından fırlatılan yeni füzeler İsrail’e yöneldi. Gökyüzünde birden fazla başlığa bölünen füzeleri “Demir Kubbe” engelleyemedi. İsrail semalarında görülen füzelerin bir kısmının ülke topraklarına düştüğü belirtildi.",
-      "summary_tr": "Son dakika haberine göre, İran tarafından fırlatılan yeni füzeler İsrail’e yöneldi. Gökyüzünde birden fazla başlığa bölünen füzeleri “Demir Kubbe” engelleyemedi. İsrail semalarında görülen füzelerin bir kısmının ülke topraklarına düştüğü belirtildi.",
-      "long_summary": "Son dakika haberine göre, İran tarafından fırlatılan yeni füzeler İsrail’e yöneldi. Gökyüzünde birden fazla başlığa bölünen füzeleri “Demir Kubbe” engelleyemedi. İsrail semalarında görülen füzelerin bir kısmının ülke topraklarına düştüğü belirtildi.",
-      "long_summary_tr": "Son dakika haberine göre, İran tarafından fırlatılan yeni füzeler İsrail’e yöneldi. Gökyüzünde birden fazla başlığa bölünen füzeleri “Demir Kubbe” engelleyemedi. İsrail semalarında görülen füzelerin bir kısmının ülke topraklarına düştüğü belirtildi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/son-dakika-israile-fuze-yagmuru-basladi-haberi-817282",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/06/v1-vb2d_cover.jpg",
-      "published_at": "2026-03-05T21:01:00+00:00"
     }
   ]
 }
