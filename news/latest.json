@@ -1,6 +1,380 @@
 {
-  "updated_at": "2026-03-07T18:49:11.819268+00:00",
+  "updated_at": "2026-03-07T19:33:47.573975+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Italy plunge England into crisis with landmark win",
+      "title_tr": "Italy plunge England into crisis with landmark win",
+      "summary": "England spiral to another Six Nations defeat which raises far-reaching questions about their direction 18 months out from the Rugby World Cup.",
+      "summary_tr": "England spiral to another Six Nations defeat which raises far-reaching questions about their direction 18 months out from the Rugby World Cup.",
+      "long_summary": "England spiral to another Six Nations defeat which raises far-reaching questions about their direction 18 months out from the Rugby World Cup.",
+      "long_summary_tr": "England spiral to another Six Nations defeat which raises far-reaching questions about their direction 18 months out from the Rugby World Cup.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cp85pqgrgmvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece3/live/ebb31340-1a55-11f1-83d5-4db8b4c1972d.jpg",
+      "published_at": "2026-03-07T19:27:49+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+      "title_tr": "Dozens killed as Israeli special forces raid Lebanese village in search of 40-year-old remains",
+      "summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "summary_tr": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "long_summary": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "long_summary_tr": "Overnight, one Israeli operation saw at least 41 people killed and 40 injured, according to the Lebanese health ministry.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cy8l2p2l3v0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2caa/live/28e2d850-1a5a-11f1-868f-4fb5e9a9e1f8.jpg",
+      "published_at": "2026-03-07T19:16:44+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Fidan’dan İran açıklaması: “Saldırmayan yere biz de saldırmayacağız” mesajı önemli",
+      "title_tr": "Fidan’dan İran açıklaması: “Saldırmayan yere biz de saldırmayacağız” mesajı önemli",
+      "summary": "Dışişleri Bakanı Hakan Fidan, İran Cumhurbaşkanı Mesud Pezeşkiyan’ın “Saldırmayan bir yere biz de saldırmayacağız.” açıklamasının Türkiye’nin vurguladığı yaklaşım açısından önemli olduğunu belirtti.",
+      "summary_tr": "Dışişleri Bakanı Hakan Fidan, İran Cumhurbaşkanı Mesud Pezeşkiyan’ın “Saldırmayan bir yere biz de saldırmayacağız.” açıklamasının Türkiye’nin vurguladığı yaklaşım açısından önemli olduğunu belirtti.",
+      "long_summary": "Dışişleri Bakanı Hakan Fidan, İran Cumhurbaşkanı Mesud Pezeşkiyan’ın “Saldırmayan bir yere biz de saldırmayacağız.” açıklamasının Türkiye’nin vurguladığı yaklaşım açısından önemli olduğunu belirtti.",
+      "long_summary_tr": "Dışişleri Bakanı Hakan Fidan, İran Cumhurbaşkanı Mesud Pezeşkiyan’ın “Saldırmayan bir yere biz de saldırmayacağız.” açıklamasının Türkiye’nin vurguladığı yaklaşım açısından önemli olduğunu belirtti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/fidandan-iran-aciklamasi-saldirmayan-yere-biz-de-saldirmayacagiz-mesaji-onemli-haberi-817459",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/01/09/hakan-fidan-vhpi_cover.jpg",
+      "published_at": "2026-03-07T19:14:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Evinde sahte içki içti, saatler sonra ölü bulundu",
+      "title_tr": "Evinde sahte içki içti, saatler sonra ölü bulundu",
+      "summary": "Amasya'da evinde sahte içki içtiği iddia bir şahıs, saatler sonra ölü halde bulundu.",
+      "summary_tr": "Amasya'da evinde sahte içki içtiği iddia bir şahıs, saatler sonra ölü halde bulundu.",
+      "long_summary": "Amasya'da evinde sahte içki içtiği iddia bir şahıs, saatler sonra ölü halde bulundu.",
+      "long_summary_tr": "Amasya'da evinde sahte içki içtiği iddia bir şahıs, saatler sonra ölü halde bulundu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/evinde-sahte-icki-icti-saatler-sonra-olu-bulundu-1714952",
+      "image": "https://images.ntv.com.tr/images/AW657141_02-715143.jpg",
+      "published_at": "2026-03-07T19:13:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+      "title_tr": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
+      "summary": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
+      "summary_tr": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
+      "long_summary": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
+      "long_summary_tr": "Four people were killed in Michigan and two died in Oklahoma, officials say, as severe storms swept across parts of the US.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f39/live/79a3db40-1a55-11f1-83d5-4db8b4c1972d.jpg",
+      "published_at": "2026-03-07T19:09:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İsrail ordusunun Lübnan'ın güneyindeki beldelere yoğun saldırıları sürüyor",
+      "title_tr": "İsrail ordusunun Lübnan'ın güneyindeki beldelere yoğun saldırıları sürüyor",
+      "summary": "İsrail ordusunun, akşam saatlerinden bu yana Lübnan'ın güneyindeki 20 beldeye düzenlediği hava saldırıları sonucu 2 kişi öldü, 2'si sağlık çalışanı çok sayıda kişi yaralandı.Lübnan resmi ajansı NNA'nın haberine göre, İsrail uçakları akşam saatlerinden bu yana güneydeki Doğu Yahmur, Duveyir, Ansar, Ankun, Ernun, Batı Sir, Reşaf, Sarbin, Sinay, Sırayfa, Zerariye, Kuvtariyyet-u Riz, Hirbit Silim, Beyt Lif, Yatır, Kefra, Bırayki, Deyr Suryan, Tayba ve Zibdin beldelerini hedef aldı.\n\nSırayfa beldesine yapılan saldırıda 2 kişinin öldüğü, çok sayıda kişinin de yaralandığı ifade edildi.\n\nErnun'da ise Lübnan Kızılhaç ekiplerinden 2 sağlık görevlisinin hafif yaralandığı bildirildi.\n\nÖte yandan Hizbullah da füze ve insansız hava araçlarıyla İsrail'e yönelik 10'dan fazla saldırı düzenlediğini açıkladı.\n\nİSRAİL'İN LÜBNAN'A SALDIRILARI\n\nİsrail ordusundan 2 Mart'ta yapılan açıklamada, Lübnan'dan füze atıldığının tespit edilmesinin ardından ülkenin kuzeyinde sirenlerin devreye girdiği belirtilmişti.\n\nArdından, Lübnan geneline hava saldırıları başlattığını duyuran ve başkent Beyrut'u hedef alan İsrail ordusu, havadan ve denizden yoğun saldırılar düzenlediği Lübnan'da kara işgalini genişletme kararı almıştı.\n\nLübnan Sağlık Bakanlığı, İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda 294 kişinin öldüğünü, 1023 kişinin ise yaralandığını açıklamıştı.",
+      "summary_tr": "İsrail ordusunun, akşam saatlerinden bu yana Lübnan'ın güneyindeki 20 beldeye düzenlediği hava saldırıları sonucu 2 kişi öldü, 2'si sağlık çalışanı çok sayıda kişi yaralandı.Lübnan resmi ajansı NNA'nın haberine göre, İsrail uçakları akşam saatlerinden bu yana güneydeki Doğu Yahmur, Duveyir, Ansar, Ankun, Ernun, Batı Sir, Reşaf, Sarbin, Sinay, Sırayfa, Zerariye, Kuvtariyyet-u Riz, Hirbit Silim, Beyt Lif, Yatır, Kefra, Bırayki, Deyr Suryan, Tayba ve Zibdin beldelerini hedef aldı.\n\nSırayfa beldesine yapılan saldırıda 2 kişinin öldüğü, çok sayıda kişinin de yaralandığı ifade edildi.\n\nErnun'da ise Lübnan Kızılhaç ekiplerinden 2 sağlık görevlisinin hafif yaralandığı bildirildi.\n\nÖte yandan Hizbullah da füze ve insansız hava araçlarıyla İsrail'e yönelik 10'dan fazla saldırı düzenlediğini açıkladı.\n\nİSRAİL'İN LÜBNAN'A SALDIRILARI\n\nİsrail ordusundan 2 Mart'ta yapılan açıklamada, Lübnan'dan füze atıldığının tespit edilmesinin ardından ülkenin kuzeyinde sirenlerin devreye girdiği belirtilmişti.\n\nArdından, Lübnan geneline hava saldırıları başlattığını duyuran ve başkent Beyrut'u hedef alan İsrail ordusu, havadan ve denizden yoğun saldırılar düzenlediği Lübnan'da kara işgalini genişletme kararı almıştı.\n\nLübnan Sağlık Bakanlığı, İsrail'in 2 Mart'tan bu yana Lübnan'a düzenlediği saldırılarda 294 kişinin öldüğünü, 1023 kişinin ise yaralandığını açıklamıştı.",
+      "long_summary": "İsrail ordusunun, akşam saatlerinden bu yana Lübnan'ın güneyindeki 20 beldeye düzenlediği hava saldırıları sonucu 2 kişi öldü, 2'si sağlık çalışanı çok sayıda kişi yaralandı.Lübnan resmi ajansı NNA'nın haberine göre, İsrail uçakları akşam saatlerinden bu yana güneydeki Doğu Yahmur, Duveyir, Ansar, Ankun, Ernun, Batı Sir, Reşaf, Sarbin, Sinay, Sırayfa, Zerariye, Kuvtariyyet-u Riz, Hirbit Silim, Beyt Lif, Yatır, Kefra, Bırayki, Deyr Suryan, Tayba ve Zibdin beldelerini hedef aldı.\n\nSırayfa",
+      "long_summary_tr": "İsrail ordusunun, akşam saatlerinden bu yana Lübnan'ın güneyindeki 20 beldeye düzenlediği hava saldırıları sonucu 2 kişi öldü, 2'si sağlık çalışanı çok sayıda kişi yaralandı.Lübnan resmi ajansı NNA'nın haberine göre, İsrail uçakları akşam saatlerinden bu yana güneydeki Doğu Yahmur, Duveyir, Ansar, Ankun, Ernun, Batı Sir, Reşaf, Sarbin, Sinay, Sırayfa, Zerariye, Kuvtariyyet-u Riz, Hirbit Silim, Beyt Lif, Yatır, Kefra, Bırayki, Deyr Suryan, Tayba ve Zibdin beldelerini hedef aldı.\n\nSırayfa",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/israil-ordusunun-lubnan-in-guneyindeki-beldelere-yogun-saldirilari-suruyor-1591052",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/israil-ordusunun-lubnan-in-guneyindeki-beldelere-yogun-saldirilari-suruyor-1772910626-378_large.webp",
+      "published_at": "2026-03-07T19:09:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İran'ın başkenti Tahran'a yeni hava saldırısı! Şiddetli patlamalar...",
+      "title_tr": "İran'ın başkenti Tahran'a yeni hava saldırısı! Şiddetli patlamalar...",
+      "summary": "ABD Başkanı Donald Trump'ın, \"İran bugün çok ağır bir darbe alacak.\" açıklamasından sonra Tahran'a yeni hava saldırısı başladı. İsrail ve ABD Tahran'ın birçok noktasını füzelerle hedef aldı. Şehrin farklı bölgelerinden dumanlar yükseldiği görüldü.ABD-İsrail- İran arasındaki çatışmalar devam ederken, Tahran zor bir gece geçiriyor. ABD Başkanı Donald Trump'ın İran'a çok sert bir saldırı dalgasının başlayacağını açıklamasının ardından Tahran'a füzeler düşmeye başladı.\n\nTAHRAN YİNE FÜZELERLE HEDEF ALINDI\n\nABD ve İsrail orduları, Tahran'da pek çok noktayı füzelerle vurdu. Şehirde şiddetli patlamalar yaşandı. Tahran'ın birçok noktasından yükselen dumanlar kameralara yansıdı.\n\nTrump gündüz yaptığı açıklamasında, \"Bugün İran çok sert bir şekilde vurulacak\" ifadelerini kullanmıştı.\n\n\"KESİN ÖLÜM RİSKİYLE KARŞI KARŞIYA KALABİLİRLER\"\n\nTrump ayrıca İran'ın tutumuna yönelik sert eleştirilerde bulunarak, İran'ın \"kötü davranışları\" nedeniyle bazı bölgelerin ve insan gruplarının hedef haline gelebileceğini söyledi.\n\nABD Başkanı açıklamasında şu ifadeleri kullandı: \"İran'ın kötü davranışları nedeniyle, şu ana kadar hedef alınması düşünülmeyen bölgeler ve insan grupları, tamamen yok edilme ve kesin ölümle karşı karşıya kalma riskiyle karşı karşıya.\"\n\nGERİLİM TIRMANIYOR\n\nTrump'ın açıklamaları, ABD ile İran arasındaki gerilimin daha da tırmanabileceği yorumlarına yol açtı. Orta Doğu'da çatışmaların sekizinci gününde taraflar karşılıklı saldırılar düzenlerken, bölgede tansiyon yüksek seyrini sürdürüyor.\n\nUzmanlar, savaşın genişlemesi halinde bölgedeki çatışmaların daha büyük bir krize dönüşebileceği uyarısında bulunuyor.\n\nABD-İSRAİL'İN İRAN'A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü. İran Sağlık Bakanlığı Sözcüsü Hüseyin Kermanpur, ABD-İsrail saldırılarında 926 kişinin hayatını kaybettiğini duyurdu.",
+      "summary_tr": "ABD Başkanı Donald Trump'ın, \"İran bugün çok ağır bir darbe alacak.\" açıklamasından sonra Tahran'a yeni hava saldırısı başladı. İsrail ve ABD Tahran'ın birçok noktasını füzelerle hedef aldı. Şehrin farklı bölgelerinden dumanlar yükseldiği görüldü.ABD-İsrail- İran arasındaki çatışmalar devam ederken, Tahran zor bir gece geçiriyor. ABD Başkanı Donald Trump'ın İran'a çok sert bir saldırı dalgasının başlayacağını açıklamasının ardından Tahran'a füzeler düşmeye başladı.\n\nTAHRAN YİNE FÜZELERLE HEDEF ALINDI\n\nABD ve İsrail orduları, Tahran'da pek çok noktayı füzelerle vurdu. Şehirde şiddetli patlamalar yaşandı. Tahran'ın birçok noktasından yükselen dumanlar kameralara yansıdı.\n\nTrump gündüz yaptığı açıklamasında, \"Bugün İran çok sert bir şekilde vurulacak\" ifadelerini kullanmıştı.\n\n\"KESİN ÖLÜM RİSKİYLE KARŞI KARŞIYA KALABİLİRLER\"\n\nTrump ayrıca İran'ın tutumuna yönelik sert eleştirilerde bulunarak, İran'ın \"kötü davranışları\" nedeniyle bazı bölgelerin ve insan gruplarının hedef haline gelebileceğini söyledi.\n\nABD Başkanı açıklamasında şu ifadeleri kullandı: \"İran'ın kötü davranışları nedeniyle, şu ana kadar hedef alınması düşünülmeyen bölgeler ve insan grupları, tamamen yok edilme ve kesin ölümle karşı karşıya kalma riskiyle karşı karşıya.\"\n\nGERİLİM TIRMANIYOR\n\nTrump'ın açıklamaları, ABD ile İran arasındaki gerilimin daha da tırmanabileceği yorumlarına yol açtı. Orta Doğu'da çatışmaların sekizinci gününde taraflar karşılıklı saldırılar düzenlerken, bölgede tansiyon yüksek seyrini sürdürüyor.\n\nUzmanlar, savaşın genişlemesi halinde bölgedeki çatışmaların daha büyük bir krize dönüşebileceği uyarısında bulunuyor.\n\nABD-İSRAİL'İN İRAN'A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü. İran Sağlık Bakanlığı Sözcüsü Hüseyin Kermanpur, ABD-İsrail saldırılarında 926 kişinin hayatını kaybettiğini duyurdu.",
+      "long_summary": "ABD Başkanı Donald Trump'ın, \"İran bugün çok ağır bir darbe alacak.\" açıklamasından sonra Tahran'a yeni hava saldırısı başladı. İsrail ve ABD Tahran'ın birçok noktasını füzelerle hedef aldı. Şehrin farklı bölgelerinden dumanlar yükseldiği görüldü.ABD-İsrail- İran arasındaki çatışmalar devam ederken, Tahran zor bir gece geçiriyor. ABD Başkanı Donald Trump'ın İran'a çok sert bir saldırı dalgasının başlayacağını açıklamasının ardından Tahran'a füzeler düşmeye başladı.\n\nTAHRAN YİNE FÜZELERLE HEDEF",
+      "long_summary_tr": "ABD Başkanı Donald Trump'ın, \"İran bugün çok ağır bir darbe alacak.\" açıklamasından sonra Tahran'a yeni hava saldırısı başladı. İsrail ve ABD Tahran'ın birçok noktasını füzelerle hedef aldı. Şehrin farklı bölgelerinden dumanlar yükseldiği görüldü.ABD-İsrail- İran arasındaki çatışmalar devam ederken, Tahran zor bir gece geçiriyor. ABD Başkanı Donald Trump'ın İran'a çok sert bir saldırı dalgasının başlayacağını açıklamasının ardından Tahran'a füzeler düşmeye başladı.\n\nTAHRAN YİNE FÜZELERLE HEDEF",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/iran-in-baskenti-tahran-a-yeni-hava-saldirisi-siddetli-patlamalar-1591049",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/iran-in-baskenti-tahran-a-yeni-hava-saldirisi-siddetli-patlamalar-1772910529-501_large.webp",
+      "published_at": "2026-03-07T19:08:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Altın değerinde 3 puan! Galatasaray, Beşiktaş'ı mağlup etti",
+      "title_tr": "Altın değerinde 3 puan! Galatasaray, Beşiktaş'ı mağlup etti",
+      "summary": "Trendyol Süper Lig'in 25. haftasındaki derbide Galatasaray, Beşiktaş'ı Victor Osimhen'in golüyle 1-0 yendi. Puanını 61'e çıkaran sarı-kırmızılılar, şampiyonluk yolunda kritik bir virajı kayıpsız geçti.Trendyol Süper Lig'in 25. haftasındaki derbide Beşiktaş ile Galatasaray karşı karşıya geldi. Tüpraş Stadyumu'nda oynanan mücadeleyi Galatasaray, 1-0'lık skorla kazandı.\n\nİLK TEHLİKE BEŞİKTAŞ'TAN\n\n15. dakikada Olaitan, ceza sahası sol çaprazından yayın içindeki Asllani'ye pasını çıkardı. Asllani'nin kaleyi cepheden gören noktadan yaptığı vuruşta top, az farkla dışarı çıktı.\n\nSARA'NIN ŞUTU ERSİN'DE KALDI\n\n21. dakikada ceza sahası dışından Gabriel Sara'nın sert şutunda meşin yuvarlak kaleci Ersin Destanoğlu'nda kaldı.\n\nGALATASARAY ÖNE GEÇTİ\n\n39. dakikada Galatasaray öne geçti. Sane'nin sağ iç koridordan kale önüne yaptığı ortaya boş pozisyonda kafa vuruşunu yapan Osimhen, topu filelere gönderdi.\n\nOH ÇERÇEVEYİ BULAMADI\n\nMaçın 51. dakikasında Hyeon-Gyu Oh ceza sahasının sol tarafından şık bir ilk dokunuşla topu kontrol etti, çaprazdan sol ayakla kaleyi düşündü ancak çerçeveyi bulamadı.\n\nDERBİDE KIRMIZI KART\n\nMücadelenin 61. dakikasında Galatasaray 10 kişi kaldı. Leroy Sane ikili mücadelede Rıdvan Yılmaz'ın ayak bileğine bastı, pozisyonu önce devam ettiren hakem VAR uyarısıyla monitöre gitti ve sarı kartlı Sane'ye direkt kırmızı kart çıkardı.\n\nSON ANDA UĞURCAN ÇAKIR\n\nBeşiktaş, 68. dakikada gole çok yaklaştı. Siyah-beyazlıların atağı sağ kanattan gelişti, Murillo ceza sahasında son çizgiye inip geriye çevirdi, Orkun Kökçü gol vuruşunu yaptı ama Beşiktaş yine Uğurcan Çakır'a takıldı.\n\nMUTLAK GOL KAÇTI\n\nBeşiktaş, 85. dakikada Ndidi'yle gole çok yaklaştı... Rakip yarı sahaya yerleşen Beşiktaş sabırla pas yaptı, sol kanattan Rıdvan ortaladı, ceza sahasına kafalardan seken top Ndidi'nin önünde kaldı, tribünler gol diye ayağa kalktı ama Nijeryalı istediği vuruşu yapamadı.\n\nDEV DERBİDE ALTIN DEĞERİNDE 3 PUAN\n\nKarşılaşmanın geri kalan bölümünde Beşiktaş'ın baskısı sonuç vermedi ve mücadeleyi Galatasaray kazandı. Bu sonuçla birlikte puanını 61'e çıkaran Galatasaray, kritik bir virajı kayıpsız geçmeyi başardı. Beşiktaş ise 46 puanda kaldı. Ligin bir sonraki maç haftasında Galatasaray, sahasında RAMS Başakşehir'i ağırlayacak. Beşiktaş, Gençlerbirliği deplasmanına konuk olacak.",
+      "summary_tr": "Trendyol Süper Lig'in 25. haftasındaki derbide Galatasaray, Beşiktaş'ı Victor Osimhen'in golüyle 1-0 yendi. Puanını 61'e çıkaran sarı-kırmızılılar, şampiyonluk yolunda kritik bir virajı kayıpsız geçti.Trendyol Süper Lig'in 25. haftasındaki derbide Beşiktaş ile Galatasaray karşı karşıya geldi. Tüpraş Stadyumu'nda oynanan mücadeleyi Galatasaray, 1-0'lık skorla kazandı.\n\nİLK TEHLİKE BEŞİKTAŞ'TAN\n\n15. dakikada Olaitan, ceza sahası sol çaprazından yayın içindeki Asllani'ye pasını çıkardı. Asllani'nin kaleyi cepheden gören noktadan yaptığı vuruşta top, az farkla dışarı çıktı.\n\nSARA'NIN ŞUTU ERSİN'DE KALDI\n\n21. dakikada ceza sahası dışından Gabriel Sara'nın sert şutunda meşin yuvarlak kaleci Ersin Destanoğlu'nda kaldı.\n\nGALATASARAY ÖNE GEÇTİ\n\n39. dakikada Galatasaray öne geçti. Sane'nin sağ iç koridordan kale önüne yaptığı ortaya boş pozisyonda kafa vuruşunu yapan Osimhen, topu filelere gönderdi.\n\nOH ÇERÇEVEYİ BULAMADI\n\nMaçın 51. dakikasında Hyeon-Gyu Oh ceza sahasının sol tarafından şık bir ilk dokunuşla topu kontrol etti, çaprazdan sol ayakla kaleyi düşündü ancak çerçeveyi bulamadı.\n\nDERBİDE KIRMIZI KART\n\nMücadelenin 61. dakikasında Galatasaray 10 kişi kaldı. Leroy Sane ikili mücadelede Rıdvan Yılmaz'ın ayak bileğine bastı, pozisyonu önce devam ettiren hakem VAR uyarısıyla monitöre gitti ve sarı kartlı Sane'ye direkt kırmızı kart çıkardı.\n\nSON ANDA UĞURCAN ÇAKIR\n\nBeşiktaş, 68. dakikada gole çok yaklaştı. Siyah-beyazlıların atağı sağ kanattan gelişti, Murillo ceza sahasında son çizgiye inip geriye çevirdi, Orkun Kökçü gol vuruşunu yaptı ama Beşiktaş yine Uğurcan Çakır'a takıldı.\n\nMUTLAK GOL KAÇTI\n\nBeşiktaş, 85. dakikada Ndidi'yle gole çok yaklaştı... Rakip yarı sahaya yerleşen Beşiktaş sabırla pas yaptı, sol kanattan Rıdvan ortaladı, ceza sahasına kafalardan seken top Ndidi'nin önünde kaldı, tribünler gol diye ayağa kalktı ama Nijeryalı istediği vuruşu yapamadı.\n\nDEV DERBİDE ALTIN DEĞERİNDE 3 PUAN\n\nKarşılaşmanın geri kalan bölümünde Beşiktaş'ın baskısı sonuç vermedi ve mücadeleyi Galatasaray kazandı. Bu sonuçla birlikte puanını 61'e çıkaran Galatasaray, kritik bir virajı kayıpsız geçmeyi başardı. Beşiktaş ise 46 puanda kaldı. Ligin bir sonraki maç haftasında Galatasaray, sahasında RAMS Başakşehir'i ağırlayacak. Beşiktaş, Gençlerbirliği deplasmanına konuk olacak.",
+      "long_summary": "Trendyol Süper Lig'in 25. haftasındaki derbide Galatasaray, Beşiktaş'ı Victor Osimhen'in golüyle 1-0 yendi. Puanını 61'e çıkaran sarı-kırmızılılar, şampiyonluk yolunda kritik bir virajı kayıpsız geçti.Trendyol Süper Lig'in 25. haftasındaki derbide Beşiktaş ile Galatasaray karşı karşıya geldi. Tüpraş Stadyumu'nda oynanan mücadeleyi Galatasaray, 1-0'lık skorla kazandı.\n\nİLK TEHLİKE BEŞİKTAŞ'TAN\n\n15. dakikada Olaitan, ceza sahası sol çaprazından yayın içindeki Asllani'ye pasını çıkardı.",
+      "long_summary_tr": "Trendyol Süper Lig'in 25. haftasındaki derbide Galatasaray, Beşiktaş'ı Victor Osimhen'in golüyle 1-0 yendi. Puanını 61'e çıkaran sarı-kırmızılılar, şampiyonluk yolunda kritik bir virajı kayıpsız geçti.Trendyol Süper Lig'in 25. haftasındaki derbide Beşiktaş ile Galatasaray karşı karşıya geldi. Tüpraş Stadyumu'nda oynanan mücadeleyi Galatasaray, 1-0'lık skorla kazandı.\n\nİLK TEHLİKE BEŞİKTAŞ'TAN\n\n15. dakikada Olaitan, ceza sahası sol çaprazından yayın içindeki Asllani'ye pasını çıkardı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/altin-degerinde-3-puan-galatasaray-besiktas-i-maglup-etti-1591046",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/altin-degerinde-3-puan-galatasaray-besiktas-i-maglup-etti-1772910496-820_large.webp",
+      "published_at": "2026-03-07T19:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Redmi Pad 2’ye Küçük Kardeş Geliyor!",
+      "title_tr": "Redmi Pad 2’ye Küçük Kardeş Geliyor!",
+      "summary": "Geçtiğimiz yılın Haziran ayında piyasaya sürülen 11 inç ekranlı Redmi Pad 2 modelinin ardından, üretici firma yepyeni ve daha küçük bir tablet üzerinde çalışıyor. Son gelişmelere göre, şirket çok daha kompakt boyutlara sahip yeni bir Redmi Pad 2 versiyonu ile kullanıcıların karşısına çıkmaya hazırlanıyor. Yeni M4 iPad Air ve M4 iPad Pro Karşı Karşıya! Yeni […]",
+      "summary_tr": "Geçtiğimiz yılın Haziran ayında piyasaya sürülen 11 inç ekranlı Redmi Pad 2 modelinin ardından, üretici firma yepyeni ve daha küçük bir tablet üzerinde çalışıyor. Son gelişmelere göre, şirket çok daha kompakt boyutlara sahip yeni bir Redmi Pad 2 versiyonu ile kullanıcıların karşısına çıkmaya hazırlanıyor. Yeni M4 iPad Air ve M4 iPad Pro Karşı Karşıya! Yeni […]",
+      "long_summary": "Geçtiğimiz yılın Haziran ayında piyasaya sürülen 11 inç ekranlı Redmi Pad 2 modelinin ardından, üretici firma yepyeni ve daha küçük bir tablet üzerinde çalışıyor. Son gelişmelere göre, şirket çok daha kompakt boyutlara sahip yeni bir Redmi Pad 2 versiyonu ile kullanıcıların karşısına çıkmaya hazırlanıyor. Yeni M4 iPad Air ve M4 iPad Pro Karşı Karşıya! Yeni […]",
+      "long_summary_tr": "Geçtiğimiz yılın Haziran ayında piyasaya sürülen 11 inç ekranlı Redmi Pad 2 modelinin ardından, üretici firma yepyeni ve daha küçük bir tablet üzerinde çalışıyor. Son gelişmelere göre, şirket çok daha kompakt boyutlara sahip yeni bir Redmi Pad 2 versiyonu ile kullanıcıların karşısına çıkmaya hazırlanıyor. Yeni M4 iPad Air ve M4 iPad Pro Karşı Karşıya! Yeni […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/redmi-pad-2ye-kucuk-kardes-geliyor",
+      "image": null,
+      "published_at": "2026-03-07T19:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Galatasaray Beşiktaş'ı 1-0 mağlup etmeyi başardı",
+      "title_tr": "Galatasaray Beşiktaş'ı 1-0 mağlup etmeyi başardı",
+      "summary": "Son dakika gelişmesi...Trendyol Süper Lig’in 25. haftasında Galatasaray Beşiktaş&#039;ı 1-0 mağlup etmeyi başardı.",
+      "summary_tr": "Son dakika gelişmesi...Trendyol Süper Lig’in 25. haftasında Galatasaray Beşiktaş&#039;ı 1-0 mağlup etmeyi başardı.",
+      "long_summary": "Son dakika gelişmesi...Trendyol Süper Lig’in 25. haftasında Galatasaray Beşiktaş&#039;ı 1-0 mağlup etmeyi başardı.",
+      "long_summary_tr": "Son dakika gelişmesi...Trendyol Süper Lig’in 25. haftasında Galatasaray Beşiktaş&#039;ı 1-0 mağlup etmeyi başardı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/galatasaray-besiktasi-1-0-maglup-etmeyi-basardi-haberi-817458",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/07/derbi-okec_cover.jpg",
+      "published_at": "2026-03-07T19:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Winter Paralympics daily guide: 10 golds on offer on Sunday",
+      "title_tr": "Winter Paralympics daily guide: 10 golds on offer on Sunday",
+      "summary": "Your guide to what's happening and when and who to look out for at the 2026 Winter Paralympics in Milan-Cortina.",
+      "summary_tr": "Your guide to what's happening and when and who to look out for at the 2026 Winter Paralympics in Milan-Cortina.",
+      "long_summary": "Your guide to what's happening and when and who to look out for at the 2026 Winter Paralympics in Milan-Cortina.",
+      "long_summary_tr": "Your guide to what's happening and when and who to look out for at the 2026 Winter Paralympics in Milan-Cortina.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/articles/czr0643d8gmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94fc/live/416db760-16e4-11f1-8420-a53022a9aaa5.jpg",
+      "published_at": "2026-03-07T18:58:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Wigan overpower Toulouse to maintain 100% start",
+      "title_tr": "Wigan overpower Toulouse to maintain 100% start",
+      "summary": "Wigan Warriors run in four tries in 14 minutes as they overpower Toulouse Olympique to maintain their 100% winning start to their Super League season.",
+      "summary_tr": "Wigan Warriors run in four tries in 14 minutes as they overpower Toulouse Olympique to maintain their 100% winning start to their Super League season.",
+      "long_summary": "Wigan Warriors run in four tries in 14 minutes as they overpower Toulouse Olympique to maintain their 100% winning start to their Super League season.",
+      "long_summary_tr": "Wigan Warriors run in four tries in 14 minutes as they overpower Toulouse Olympique to maintain their 100% winning start to their Super League season.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-league/articles/c4gj58mlgn9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/701a/live/b29eb190-1a4b-11f1-b449-2d7b4e4d7c93.jpg",
+      "published_at": "2026-03-07T18:56:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Trafikte ailenin yolunu kesti. 370 bin TL ceza kesildi",
+      "title_tr": "Trafikte ailenin yolunu kesti. 370 bin TL ceza kesildi",
+      "summary": "Adana'da trafikte yol verme meselesi nedeniyle çıkan tartışmada, içinde ailenin bulunduğu otomobilin önünü kesip aracın camına vuran şüphelilerden birine 370 bin TL idari para cezası kesildi.",
+      "summary_tr": "Adana'da trafikte yol verme meselesi nedeniyle çıkan tartışmada, içinde ailenin bulunduğu otomobilin önünü kesip aracın camına vuran şüphelilerden birine 370 bin TL idari para cezası kesildi.",
+      "long_summary": "Adana'da trafikte yol verme meselesi nedeniyle çıkan tartışmada, içinde ailenin bulunduğu otomobilin önünü kesip aracın camına vuran şüphelilerden birine 370 bin TL idari para cezası kesildi.",
+      "long_summary_tr": "Adana'da trafikte yol verme meselesi nedeniyle çıkan tartışmada, içinde ailenin bulunduğu otomobilin önünü kesip aracın camına vuran şüphelilerden birine 370 bin TL idari para cezası kesildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/trafikte-ailenin-yolunu-kesti-370-bin-tl-ceza-kesildi-1714951",
+      "image": "https://images.ntv.com.tr/images/AW657146_01-120748.jpg",
+      "published_at": "2026-03-07T18:55:45+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Antalya'da esnaf kooperatifi ve pazarcılar odasına yönelik operasyonda 12 kişi tutuklandı",
+      "title_tr": "Antalya'da esnaf kooperatifi ve pazarcılar odasına yönelik operasyonda 12 kişi tutuklandı",
+      "summary": "Antalya'da esnaf kefalet kooperatifi ve pazarcılar odasına yönelik yürütülen soruşturma kapsamında, \"rüşvet\", \"nitelikli dolandırıcılık\", \"resmi belgede sahtecilik\" ve \"görevi kötüye kullanma\" suçlarından yakalanan 84 şüpheliden 12'si tutuklandı.",
+      "summary_tr": "Antalya'da esnaf kefalet kooperatifi ve pazarcılar odasına yönelik yürütülen soruşturma kapsamında, \"rüşvet\", \"nitelikli dolandırıcılık\", \"resmi belgede sahtecilik\" ve \"görevi kötüye kullanma\" suçlarından yakalanan 84 şüpheliden 12'si tutuklandı.",
+      "long_summary": "Antalya'da esnaf kefalet kooperatifi ve pazarcılar odasına yönelik yürütülen soruşturma kapsamında, \"rüşvet\", \"nitelikli dolandırıcılık\", \"resmi belgede sahtecilik\" ve \"görevi kötüye kullanma\" suçlarından yakalanan 84 şüpheliden 12'si tutuklandı.",
+      "long_summary_tr": "Antalya'da esnaf kefalet kooperatifi ve pazarcılar odasına yönelik yürütülen soruşturma kapsamında, \"rüşvet\", \"nitelikli dolandırıcılık\", \"resmi belgede sahtecilik\" ve \"görevi kötüye kullanma\" suçlarından yakalanan 84 şüpheliden 12'si tutuklandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/antalyada-esnaf-kooperatifi-ve-pazarcilar-odasina-yonelik-operasyonda-12-kisi-tutuklandi-1714949",
+      "image": "https://images.ntv.com.tr/images/gözaltı-538385",
+      "published_at": "2026-03-07T18:46:54+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Katar'daki Hamad Uluslararası Havalimanı hava sahası kapalı kalmaya devam edecek",
+      "title_tr": "Katar'daki Hamad Uluslararası Havalimanı hava sahası kapalı kalmaya devam edecek",
+      "summary": "Katar'daki Hamad Uluslararası Havalimanı, mevcut bölgesel gelişmeler nedeniyle ülke hava sahasının geçici olarak kapalı kalmaya devam edeceğini bildirdi.Hamad Uluslararası Havalimanından yapılan açıklamada, yolculara bu aşamada havalimanına gitmemeleri ve uçuş durumlarıyla ilgili olarak doğrudan ilgili hava yolu şirketleriyle iletişime geçmeleri çağrısı yapıldı.\n\nAçıklamada, halen gerçekleştirilen bazı uçuşların ise Katar Sivil Havacılık Otoritesi tarafından verilen geçici izin kapsamında, yolcu tahliye ve geri dönüşlerini sağlamak amacıyla açılan sınırlı bir hava koridoru üzerinden gerçekleştirildiği belirtildi.\n\nSöz konusu uçuşların ilgili kurumların koordinasyonu ve yetkilendirmesiyle yürütüldüğü ifade edilen açıklamada, tarifeli uçuşların, yetkili makamlarca Katar hava sahasının açıldığının teyit edilmesinin ardından başlayacağı kaydedildi.",
+      "summary_tr": "Katar'daki Hamad Uluslararası Havalimanı, mevcut bölgesel gelişmeler nedeniyle ülke hava sahasının geçici olarak kapalı kalmaya devam edeceğini bildirdi.Hamad Uluslararası Havalimanından yapılan açıklamada, yolculara bu aşamada havalimanına gitmemeleri ve uçuş durumlarıyla ilgili olarak doğrudan ilgili hava yolu şirketleriyle iletişime geçmeleri çağrısı yapıldı.\n\nAçıklamada, halen gerçekleştirilen bazı uçuşların ise Katar Sivil Havacılık Otoritesi tarafından verilen geçici izin kapsamında, yolcu tahliye ve geri dönüşlerini sağlamak amacıyla açılan sınırlı bir hava koridoru üzerinden gerçekleştirildiği belirtildi.\n\nSöz konusu uçuşların ilgili kurumların koordinasyonu ve yetkilendirmesiyle yürütüldüğü ifade edilen açıklamada, tarifeli uçuşların, yetkili makamlarca Katar hava sahasının açıldığının teyit edilmesinin ardından başlayacağı kaydedildi.",
+      "long_summary": "Katar'daki Hamad Uluslararası Havalimanı, mevcut bölgesel gelişmeler nedeniyle ülke hava sahasının geçici olarak kapalı kalmaya devam edeceğini bildirdi.Hamad Uluslararası Havalimanından yapılan açıklamada, yolculara bu aşamada havalimanına gitmemeleri ve uçuş durumlarıyla ilgili olarak doğrudan ilgili hava yolu şirketleriyle iletişime geçmeleri çağrısı yapıldı.\n\nAçıklamada, halen gerçekleştirilen bazı uçuşların ise Katar Sivil Havacılık Otoritesi tarafından verilen geçici izin kapsamında,",
+      "long_summary_tr": "Katar'daki Hamad Uluslararası Havalimanı, mevcut bölgesel gelişmeler nedeniyle ülke hava sahasının geçici olarak kapalı kalmaya devam edeceğini bildirdi.Hamad Uluslararası Havalimanından yapılan açıklamada, yolculara bu aşamada havalimanına gitmemeleri ve uçuş durumlarıyla ilgili olarak doğrudan ilgili hava yolu şirketleriyle iletişime geçmeleri çağrısı yapıldı.\n\nAçıklamada, halen gerçekleştirilen bazı uçuşların ise Katar Sivil Havacılık Otoritesi tarafından verilen geçici izin kapsamında,",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/katar-daki-hamad-uluslararasi-havalimani-hava-sahasi-kapali-kalmaya-devam-edecek-1591043",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/katar-daki-hamad-uluslararasi-havalimani-hava-sahasi-kapali-kalmaya-devam-edecek-1772908691-272_large.webp",
+      "published_at": "2026-03-07T18:45:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Cumhurbaşkanı Erdoğan, IKBY Başkanı Barzani ile telefonda görüştü",
+      "title_tr": "Cumhurbaşkanı Erdoğan, IKBY Başkanı Barzani ile telefonda görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani ile telefonda görüştü.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani ile telefonda görüştü.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani ile telefonda görüştü.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Irak Kürt Bölgesel Yönetimi Başkanı Neçirvan Barzani ile telefonda görüştü.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ikby-baskani-barzani-ile-telefonda-gorustu-1714948",
+      "image": "https://images.ntv.com.tr/images/erdoğan-757844(6).jpg",
+      "published_at": "2026-03-07T18:44:08+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İran'dan atılan füze. Dışişleri Bakanı Hakan Fidan: Provokasyona gelmeyiz",
+      "title_tr": "İran'dan atılan füze. Dışişleri Bakanı Hakan Fidan: Provokasyona gelmeyiz",
+      "summary": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
+      "summary_tr": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
+      "long_summary": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
+      "long_summary_tr": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/iran-atilan-fuze-disisleri-bakani-hakan-fidan-provokasyona-gelmeyiz-1714937",
+      "image": "https://images.ntv.com.tr/images/HakanFidan-705672.jpg",
+      "published_at": "2026-03-07T18:42:31+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Ekonomi",
@@ -75,10 +449,10 @@
       "source": "Bursa Hakimiyet",
       "title": "Bakan Fidan: Savaşın sona ermesi için her türlü diplomatik çabayı sürdürmekteyiz",
       "title_tr": "Bakan Fidan: Savaşın sona ermesi için her türlü diplomatik çabayı sürdürmekteyiz",
-      "summary": "Dışişleri Bakanı Hakan Fidan, \"İsrail'in tüm bölgede istikrarsızlık olmasını strateji olarak benimsediğini belirterek, \"Biz ise dost ve kardeş ülkelerle beraber İsrail'in bu tutumuna karşı barıştan yana bir politika benimsemiş durumdayız. Bugün de savaşın sona ermesi için her türlü diplomatik çabayı sürdürmekteyiz.\" dedi.Ayrıntılar geliyor..",
-      "summary_tr": "Dışişleri Bakanı Hakan Fidan, \"İsrail'in tüm bölgede istikrarsızlık olmasını strateji olarak benimsediğini belirterek, \"Biz ise dost ve kardeş ülkelerle beraber İsrail'in bu tutumuna karşı barıştan yana bir politika benimsemiş durumdayız. Bugün de savaşın sona ermesi için her türlü diplomatik çabayı sürdürmekteyiz.\" dedi.Ayrıntılar geliyor..",
-      "long_summary": "Dışişleri Bakanı Hakan Fidan, \"İsrail'in tüm bölgede istikrarsızlık olmasını strateji olarak benimsediğini belirterek, \"Biz ise dost ve kardeş ülkelerle beraber İsrail'in bu tutumuna karşı barıştan yana bir politika benimsemiş durumdayız. Bugün de savaşın sona ermesi için her türlü diplomatik çabayı sürdürmekteyiz.\" dedi.Ayrıntılar geliyor..",
-      "long_summary_tr": "Dışişleri Bakanı Hakan Fidan, \"İsrail'in tüm bölgede istikrarsızlık olmasını strateji olarak benimsediğini belirterek, \"Biz ise dost ve kardeş ülkelerle beraber İsrail'in bu tutumuna karşı barıştan yana bir politika benimsemiş durumdayız. Bugün de savaşın sona ermesi için her türlü diplomatik çabayı sürdürmekteyiz.\" dedi.Ayrıntılar geliyor..",
+      "summary": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.Türkiye ve Dönem Başkanı Azerbaycan'ın yanı sıra üye ülkeler Kazakistan, Kırgızistan ve Özbekistan'ın temsil edileceği toplantıda, teşkilat bünyesindeki son gelişmeler ve gelecek dönemde atılacak adımlar değerlendirilecek, güncel küresel ve bölgesel meseleler hakkında kapsamlı istişareler gerçekleştirildi.\n\nDışişleri Bakanı Fidan toplantının ardından açıklamalarda bulundu. \n\nFidan, “Uluslararası hukukun hiçe sayıldığı bu günlerde Türk dünyası olarak daha fazla dayanışma göstermemiz gerektiğinin farkındayız.” dedi. \n\nBakan Fidan'ın açıklamasından öne çıkanlar şöyle;\n\n“Orta Doğu'da yaşanan gelişmeleri yakından takip ediyoruz. Savaşın daha fazla yayılmasını istemiyoruz. Bugünde tek seçenek diplomasidir diyoruz ve buna devam ediyoruz. İsrail'in yayılmacı ve bölücü gündemi bilinmektedir. Biz ise dost ve kardeş ülkelerle birlikte barıştan yana tutum sergiledik. Diğer taraftan üçüncü ülkeleri hedef alan saldırıları da en güçlü biçimde kınadığımızı belirtmek istiyorum. \n\nÜlkemiz ve Azerbaycan'ın hedef alınması riski göstermektedir. \n\nBölgedeki çatışmalar terör örgütlerine ortam hazırlıyor. Tırmanan gerginlik aynı zamanda enerji arz güvenliğini tehlikeye atmaktadır. Bölgede bulunan vatandaşlarımızın durumunu da yakından takip etmekteyiz.\"\n\n\n\nPEZEŞKİYAN'IN AÇIKLAMALARI\n\n“Savaşın başından itibaren hatta savaştan önce İranlı dostlarımızla yıllardır ne söylüyorsak hala aynı şeyi söylüyoruz. Bir saldırı gelmediği sürece o ülkelere saldırı yaparak baskı üretme amacı doğru değil. Amerika ile büyük bir problem içindesiniz, sizin hiç olmazsa bölgedeki istikrarı, komşularla iyi ilişkiyi esas alan, sorunları masaya yatıran taraf olun dedik. Kendilerine saldırmayan ülkelerin sivil alt yapılarına saldırmak doğru değil. Bu bölgede İsrail yayılmacılığının da ekmeğine yağ sürmek olur. Sayın Pezeşkiyan'ın açıklaması da bu yönde.” \n\nTÜRKİYE'YE DÜŞEN FÜZE\n\n“Bize atılan füze hava sahamıza girerken vuruldu. Biz kolay kolay provokasyona gelen bir ülke değiliz. İranlı arkadaşlarımızla konuştuk, eğer yolunu kaybetmiş bir füze ise başka konu ama bunun devamı gelecekse ki bizim size tavsiyemiz 'aman dikkat edin böyle bir maceraya İran'da kimse atılmasın'. İran'dan başka füze gelmemesi gerektiğini ilettik. Türkiye şimdiye kadar barışa olan hizmeti ortaya koymuştur.”\n\nKÜRT GRUPLARA SİLAH İDDİASI\n\n“İran'da sivil savaş çıkarmayı hedefleyen etnik ve dinsel tüm senaryolara karşıyız. Hem batıyı hem doğuyu bu senaryolara karşı uyarıyoruz. Umuyoruz bölgedeki Kürt kanaat önderlerinin bu türden tarihi bir sorumluluğu sırtlanacak yanlış içinde olmazlar. İran büyük bir ülkedir, buradaki her türlü iç kriz bölgeye çarpan etkisi ile yayılır. Bunu durdurmanın da şu anda arayışı içindeyiz.”\n\n\n\nCUMHURBAŞKANI ERDOĞAN TDT BAKANLARINI KABUL ETTİ\n\nCumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı Gayriresmi toplantısı kapsamında İstanbul'da bulunan Genel sekreter Kubanıçbek Ömüraliyev ile üye ülkelerin dışişleri bakanlarını kabul etti. \n\nDolmabahçe Çalışma Ofisi'ndeki kabulde, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov, Özbekistan Dışişleri Bakanı Bahtiyor Saidov, Kırgızistan Dışişleri Bakanı Ceenbek Kulubayev ile Kazakistan Dışişleri Bakan Yardımcısı Alibek Bakayev yer aldı. \n\nGörüşmede ayrıca Dışişleri Bakanı Hakan Fidan, Enerji ve Tabii kaynaklar bakanı Alparslan Bayraktar ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran'da yer aldı.\n\nTÜRK DEVLETLERİ TEŞKİLATI\n\nTürk Dili Konuşan Ülkeler İşbirliği Konseyi, 3 Ekim 2009'da Türkiye, Azerbaycan, Kazakistan ve Kırgızistan arasında imzalanan Nahçıvan Anlaşması ile kuruldu. Konseyin ismi, 2021'de İstanbul Zirvesi'nde alınan bir kararla \"Türk Devletleri Teşkilatı\" (TDT) olarak değiştirildi.\n\nTeşkilatın ana hedefleri, Türk devletleri arasında karşılıklı güven ortamının pekiştirilmesi, siyasi dayanışmanın güçlendirilmesi, ekonomik ve teknik işbirliğinin geliştirilmesi ve derinleştirilmesi, Türk dünyasının tarihi ve kültürel birikimlerinin kayıt altına alınması ve tanıtılmasını sağlamak.\n\nSekretaryası İstanbul'da bulunan TDT'nin, halihazırda 5 üyesi (Türkiye, Azerbaycan, Kırgızistan, Kazakistan, Özbekistan) ve 4 gözlemcisi (Macaristan, Türkmenistan, KKTC, Ekonomik İşbirliği Teşkilatı) bulunuyor.\n\nTeşkilatın müteakip Gayriresmi Zirvesi, bu yılın ilk yarısında Kazakistan'ın Türkistan şehrinde düzenlenecek.\n\nYılın ikinci yarısında yapılacak olan TDT 13. Zirvesi'ne ise Türkiye ev sahipliği yapacak.",
+      "summary_tr": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.Türkiye ve Dönem Başkanı Azerbaycan'ın yanı sıra üye ülkeler Kazakistan, Kırgızistan ve Özbekistan'ın temsil edileceği toplantıda, teşkilat bünyesindeki son gelişmeler ve gelecek dönemde atılacak adımlar değerlendirilecek, güncel küresel ve bölgesel meseleler hakkında kapsamlı istişareler gerçekleştirildi.\n\nDışişleri Bakanı Fidan toplantının ardından açıklamalarda bulundu. \n\nFidan, “Uluslararası hukukun hiçe sayıldığı bu günlerde Türk dünyası olarak daha fazla dayanışma göstermemiz gerektiğinin farkındayız.” dedi. \n\nBakan Fidan'ın açıklamasından öne çıkanlar şöyle;\n\n“Orta Doğu'da yaşanan gelişmeleri yakından takip ediyoruz. Savaşın daha fazla yayılmasını istemiyoruz. Bugünde tek seçenek diplomasidir diyoruz ve buna devam ediyoruz. İsrail'in yayılmacı ve bölücü gündemi bilinmektedir. Biz ise dost ve kardeş ülkelerle birlikte barıştan yana tutum sergiledik. Diğer taraftan üçüncü ülkeleri hedef alan saldırıları da en güçlü biçimde kınadığımızı belirtmek istiyorum. \n\nÜlkemiz ve Azerbaycan'ın hedef alınması riski göstermektedir. \n\nBölgedeki çatışmalar terör örgütlerine ortam hazırlıyor. Tırmanan gerginlik aynı zamanda enerji arz güvenliğini tehlikeye atmaktadır. Bölgede bulunan vatandaşlarımızın durumunu da yakından takip etmekteyiz.\"\n\n\n\nPEZEŞKİYAN'IN AÇIKLAMALARI\n\n“Savaşın başından itibaren hatta savaştan önce İranlı dostlarımızla yıllardır ne söylüyorsak hala aynı şeyi söylüyoruz. Bir saldırı gelmediği sürece o ülkelere saldırı yaparak baskı üretme amacı doğru değil. Amerika ile büyük bir problem içindesiniz, sizin hiç olmazsa bölgedeki istikrarı, komşularla iyi ilişkiyi esas alan, sorunları masaya yatıran taraf olun dedik. Kendilerine saldırmayan ülkelerin sivil alt yapılarına saldırmak doğru değil. Bu bölgede İsrail yayılmacılığının da ekmeğine yağ sürmek olur. Sayın Pezeşkiyan'ın açıklaması da bu yönde.” \n\nTÜRKİYE'YE DÜŞEN FÜZE\n\n“Bize atılan füze hava sahamıza girerken vuruldu. Biz kolay kolay provokasyona gelen bir ülke değiliz. İranlı arkadaşlarımızla konuştuk, eğer yolunu kaybetmiş bir füze ise başka konu ama bunun devamı gelecekse ki bizim size tavsiyemiz 'aman dikkat edin böyle bir maceraya İran'da kimse atılmasın'. İran'dan başka füze gelmemesi gerektiğini ilettik. Türkiye şimdiye kadar barışa olan hizmeti ortaya koymuştur.”\n\nKÜRT GRUPLARA SİLAH İDDİASI\n\n“İran'da sivil savaş çıkarmayı hedefleyen etnik ve dinsel tüm senaryolara karşıyız. Hem batıyı hem doğuyu bu senaryolara karşı uyarıyoruz. Umuyoruz bölgedeki Kürt kanaat önderlerinin bu türden tarihi bir sorumluluğu sırtlanacak yanlış içinde olmazlar. İran büyük bir ülkedir, buradaki her türlü iç kriz bölgeye çarpan etkisi ile yayılır. Bunu durdurmanın da şu anda arayışı içindeyiz.”\n\n\n\nCUMHURBAŞKANI ERDOĞAN TDT BAKANLARINI KABUL ETTİ\n\nCumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı Gayriresmi toplantısı kapsamında İstanbul'da bulunan Genel sekreter Kubanıçbek Ömüraliyev ile üye ülkelerin dışişleri bakanlarını kabul etti. \n\nDolmabahçe Çalışma Ofisi'ndeki kabulde, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov, Özbekistan Dışişleri Bakanı Bahtiyor Saidov, Kırgızistan Dışişleri Bakanı Ceenbek Kulubayev ile Kazakistan Dışişleri Bakan Yardımcısı Alibek Bakayev yer aldı. \n\nGörüşmede ayrıca Dışişleri Bakanı Hakan Fidan, Enerji ve Tabii kaynaklar bakanı Alparslan Bayraktar ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran'da yer aldı.\n\nTÜRK DEVLETLERİ TEŞKİLATI\n\nTürk Dili Konuşan Ülkeler İşbirliği Konseyi, 3 Ekim 2009'da Türkiye, Azerbaycan, Kazakistan ve Kırgızistan arasında imzalanan Nahçıvan Anlaşması ile kuruldu. Konseyin ismi, 2021'de İstanbul Zirvesi'nde alınan bir kararla \"Türk Devletleri Teşkilatı\" (TDT) olarak değiştirildi.\n\nTeşkilatın ana hedefleri, Türk devletleri arasında karşılıklı güven ortamının pekiştirilmesi, siyasi dayanışmanın güçlendirilmesi, ekonomik ve teknik işbirliğinin geliştirilmesi ve derinleştirilmesi, Türk dünyasının tarihi ve kültürel birikimlerinin kayıt altına alınması ve tanıtılmasını sağlamak.\n\nSekretaryası İstanbul'da bulunan TDT'nin, halihazırda 5 üyesi (Türkiye, Azerbaycan, Kırgızistan, Kazakistan, Özbekistan) ve 4 gözlemcisi (Macaristan, Türkmenistan, KKTC, Ekonomik İşbirliği Teşkilatı) bulunuyor.\n\nTeşkilatın müteakip Gayriresmi Zirvesi, bu yılın ilk yarısında Kazakistan'ın Türkistan şehrinde düzenlenecek.\n\nYılın ikinci yarısında yapılacak olan TDT 13. Zirvesi'ne ise Türkiye ev sahipliği yapacak.",
+      "long_summary": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.Türkiye ve Dönem Başkanı Azerbaycan'ın yanı sıra üye ülkeler Kazakistan, Kırgızistan ve Özbekistan'ın temsil edileceği toplantıda, teşkilat bünyesindeki son gelişmeler ve gelecek dönemde atılacak",
+      "long_summary_tr": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.Türkiye ve Dönem Başkanı Azerbaycan'ın yanı sıra üye ülkeler Kazakistan, Kırgızistan ve Özbekistan'ın temsil edileceği toplantıda, teşkilat bünyesindeki son gelişmeler ve gelecek dönemde atılacak",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
@@ -90,26 +464,26 @@
       "published_at": "2026-03-07T18:36:00+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "NTV",
-      "title": "İran atılan füze. Dışişleri Bakanı Hakan Fidan: Provokasyona gelmeyiz",
-      "title_tr": "İran atılan füze. Dışişleri Bakanı Hakan Fidan: Provokasyona gelmeyiz",
-      "summary": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
-      "summary_tr": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
-      "long_summary": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
-      "long_summary_tr": "Türk Devletleri Teşkilatı (TDT) Gayriresmi Toplantısı'nın ardından konuşan Dışişleri Bakanı Hakan Fidan, \"Savaşın daha fazla yayılmasını istemiyoruz\" ifadelerini kullandı. Türkiye'ye düşen füzeyle ilgili ise \"Provokasyona gelmeyiz\" derken \"İran'dan başka füze gelmemesi gerektiğini ilettik.\" dedi.",
+      "source": "Sky Sports",
+      "title": "History for Italy as England's Six Nations misery continues in Rome",
+      "title_tr": "History for Italy as England's Six Nations misery continues in Rome",
+      "summary": "England's worst nightmares became reality as Italy recorded a historic 23-18 Six Nations victory at the Stadio Olimpico, beating them for the first time.",
+      "summary_tr": "England's worst nightmares became reality as Italy recorded a historic 23-18 Six Nations victory at the Stadio Olimpico, beating them for the first time.",
+      "long_summary": "England's worst nightmares became reality as Italy recorded a historic 23-18 Six Nations victory at the Stadio Olimpico, beating them for the first time.",
+      "long_summary_tr": "England's worst nightmares became reality as Italy recorded a historic 23-18 Six Nations victory at the Stadio Olimpico, beating them for the first time.",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/iran-atilan-fuze-disisleri-bakani-hakan-fidan-provokasyona-gelmeyiz-1714937",
-      "image": "https://images.ntv.com.tr/images/HakanFidan-705672.jpg",
-      "published_at": "2026-03-07T18:33:26+00:00"
+      "url": "https://www.skysports.com/rugby-union/news/12040/13516540/italy-23-18-england-azzurri-claim-first-ever-victory-over-england-in-six-nations-to-pile-misery-on-steve-borthwicks-men",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-italy-england-rugby_7185471.jpg?20260307185526",
+      "published_at": "2026-03-07T18:30:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -154,6 +528,28 @@
       "url": "https://www.dunya.com/video-galeri/gundem/dubaide-gokdelende-patlama-meydana-geldi-video-817456",
       "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/07/patlama-0qyg_cover.jpg",
       "published_at": "2026-03-07T18:29:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Back injury forces McIlroy to withdraw at Bay Hill",
+      "title_tr": "Back injury forces McIlroy to withdraw at Bay Hill",
+      "summary": "A back injury sees Rory McIlroy withdraw from the Arnold Palmer Invitational in Orlando before the third round.",
+      "summary_tr": "A back injury sees Rory McIlroy withdraw from the Arnold Palmer Invitational in Orlando before the third round.",
+      "long_summary": "A back injury sees Rory McIlroy withdraw from the Arnold Palmer Invitational in Orlando before the third round.",
+      "long_summary_tr": "A back injury sees Rory McIlroy withdraw from the Arnold Palmer Invitational in Orlando before the third round.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/golf/articles/clyzpndpzpno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/a7b4a0c0-1a4e-11f1-9612-252b49723ecb.jpg",
+      "published_at": "2026-03-07T18:27:29+00:00"
     },
     {
       "origin": "yabanci",
@@ -704,402 +1100,6 @@
       "url": "https://www.skysports.com/racing/news/12040/13516589/sandown-scorer-scorpio-rising-to-the-top-for-olly-murphy",
       "image": "https://e1.365dm.com/26/03/1920x1080/skysports-sandown-park-sean-bowen_7185327.jpg?20260307172159",
       "published_at": "2026-03-07T17:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kuveyt: Son 48 saatte 12 balistik füze ile 23 İHA engellendi",
-      "title_tr": "Kuveyt: Son 48 saatte 12 balistik füze ile 23 İHA engellendi",
-      "summary": "Kuveyt Savunma Bakanlığı, son 48 saat içinde tespit edilen 14 balistik füzeden 12'sinin engellenerek imha edildiğini, tehdit bölgesi dışında kalan iki füzenin etkisiz hale getirildiğini ve ayrıca tespit edilen 23 insansız hava aracının (İHA) tamamının engellendiğini açıkladı.Savunma Bakanlığı Sözcüsü Albay Suud el-Atvan, düzenlediği basın brifinginde, \"Silahlı kuvvetler son 48 saat içinde 14 balistik füze tespit etti. Bunlardan 12'si imha edildi, diğer ikisi ise tehdit bölgesinin dışında kaldığı için etkisiz hale getirildi.\" dedi.\n\nAtvan, silahlı kuvvetlerin ayrıca \"23 İHA’yı başarıyla etkisiz hale getirdiğini, bunun sonucunda küçük maddi hasar meydana geldiğini ve can kaybı olmadığını\" söyledi.\n\nÖte yandan Kuveyt televizyonunda yayımlanan bilgilendirme toplantısında konuşan İçişleri Bakanlığı Sözcüsü Tuğgeneral Nasır Busalib ise dün geceden bu yana bomba imha ekiplerinin düşen şarapnel ve tanımlanamayan cisimlerle ilgili 64 saha ihbarına müdahale ettiğini belirtti.\n\nBusalib, 28 Şubat'ta başlayan İran saldırılarından bu yana bu tür ihbarların toplam sayısının 229'a ulaştığını, tüm vakalara hızlı ve etkili şekilde müdahale edildiğini vurguladı.\n\nSivil Savunma Genel Müdürlüğü'nün aynı tarihten bu yana 67 kez sirenleri devreye soktuğunu aktaran Busalib, vatandaşlar ve ülkede yaşayan yabancılara sosyal medya paylaşımlarında yasal düzenlemelere uymaları çağrısında bulundu.\n\nBusalib, askeri operasyonlar, füzeler veya kamu düzenini bozabilecek görüntü ve videoların paylaşılmaması gerektiğini ifade etti.\n\nKuveyt Ulusal Muhafızları Sözcüsü Tuğgeneral Cadan Fazıl Cadan da birliklerinin bugün şafak vakti bir insansız hava aracını herhangi bir can kaybı veya maddi hasar olmadan etkisiz hale getirdiğini açıkladı.\n\nABD-İsrail’in İran’a saldırıları\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİran Sağlık Bakanlığı Sözcüsü Hüseyin Kermanpur, ABD-İsrail saldırılarında 926 kişinin hayatını kaybettiğini duyurdu.",
-      "summary_tr": "Kuveyt Savunma Bakanlığı, son 48 saat içinde tespit edilen 14 balistik füzeden 12'sinin engellenerek imha edildiğini, tehdit bölgesi dışında kalan iki füzenin etkisiz hale getirildiğini ve ayrıca tespit edilen 23 insansız hava aracının (İHA) tamamının engellendiğini açıkladı.Savunma Bakanlığı Sözcüsü Albay Suud el-Atvan, düzenlediği basın brifinginde, \"Silahlı kuvvetler son 48 saat içinde 14 balistik füze tespit etti. Bunlardan 12'si imha edildi, diğer ikisi ise tehdit bölgesinin dışında kaldığı için etkisiz hale getirildi.\" dedi.\n\nAtvan, silahlı kuvvetlerin ayrıca \"23 İHA’yı başarıyla etkisiz hale getirdiğini, bunun sonucunda küçük maddi hasar meydana geldiğini ve can kaybı olmadığını\" söyledi.\n\nÖte yandan Kuveyt televizyonunda yayımlanan bilgilendirme toplantısında konuşan İçişleri Bakanlığı Sözcüsü Tuğgeneral Nasır Busalib ise dün geceden bu yana bomba imha ekiplerinin düşen şarapnel ve tanımlanamayan cisimlerle ilgili 64 saha ihbarına müdahale ettiğini belirtti.\n\nBusalib, 28 Şubat'ta başlayan İran saldırılarından bu yana bu tür ihbarların toplam sayısının 229'a ulaştığını, tüm vakalara hızlı ve etkili şekilde müdahale edildiğini vurguladı.\n\nSivil Savunma Genel Müdürlüğü'nün aynı tarihten bu yana 67 kez sirenleri devreye soktuğunu aktaran Busalib, vatandaşlar ve ülkede yaşayan yabancılara sosyal medya paylaşımlarında yasal düzenlemelere uymaları çağrısında bulundu.\n\nBusalib, askeri operasyonlar, füzeler veya kamu düzenini bozabilecek görüntü ve videoların paylaşılmaması gerektiğini ifade etti.\n\nKuveyt Ulusal Muhafızları Sözcüsü Tuğgeneral Cadan Fazıl Cadan da birliklerinin bugün şafak vakti bir insansız hava aracını herhangi bir can kaybı veya maddi hasar olmadan etkisiz hale getirdiğini açıkladı.\n\nABD-İsrail’in İran’a saldırıları\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİran Sağlık Bakanlığı Sözcüsü Hüseyin Kermanpur, ABD-İsrail saldırılarında 926 kişinin hayatını kaybettiğini duyurdu.",
-      "long_summary": "Kuveyt Savunma Bakanlığı, son 48 saat içinde tespit edilen 14 balistik füzeden 12'sinin engellenerek imha edildiğini, tehdit bölgesi dışında kalan iki füzenin etkisiz hale getirildiğini ve ayrıca tespit edilen 23 insansız hava aracının (İHA) tamamının engellendiğini açıkladı.Savunma Bakanlığı Sözcüsü Albay Suud el-Atvan, düzenlediği basın brifinginde, \"Silahlı kuvvetler son 48 saat içinde 14 balistik füze tespit etti. Bunlardan 12'si imha edildi, diğer ikisi ise tehdit bölgesinin dışında",
-      "long_summary_tr": "Kuveyt Savunma Bakanlığı, son 48 saat içinde tespit edilen 14 balistik füzeden 12'sinin engellenerek imha edildiğini, tehdit bölgesi dışında kalan iki füzenin etkisiz hale getirildiğini ve ayrıca tespit edilen 23 insansız hava aracının (İHA) tamamının engellendiğini açıkladı.Savunma Bakanlığı Sözcüsü Albay Suud el-Atvan, düzenlediği basın brifinginde, \"Silahlı kuvvetler son 48 saat içinde 14 balistik füze tespit etti. Bunlardan 12'si imha edildi, diğer ikisi ise tehdit bölgesinin dışında",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/kuveyt-son-48-saatte-12-balistik-fuze-ile-23-iha-engellendi-1590995",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/kuveyt-son-48-saatte-12-balistik-fuze-ile-23-iha-engellendi-1772903389-998_large.webp",
-      "published_at": "2026-03-07T17:09:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Mondo Man overcomes last-flight drama in Imperial Cup",
-      "title_tr": "Mondo Man overcomes last-flight drama in Imperial Cup",
-      "summary": "Caoilin Quinn and Mondo Man survived high drama at the final hurdle as class prevailed in the Betfair Imperial Cup at Sandown – but a Royal Ascot bid could be more likely than seeking a quickfire bonus at next week’s Cheltenham Festival.",
-      "summary_tr": "Caoilin Quinn and Mondo Man survived high drama at the final hurdle as class prevailed in the Betfair Imperial Cup at Sandown – but a Royal Ascot bid could be more likely than seeking a quickfire bonus at next week’s Cheltenham Festival.",
-      "long_summary": "Caoilin Quinn and Mondo Man survived high drama at the final hurdle as class prevailed in the Betfair Imperial Cup at Sandown – but a Royal Ascot bid could be more likely than seeking a quickfire bonus at next week’s Cheltenham Festival.",
-      "long_summary_tr": "Caoilin Quinn and Mondo Man survived high drama at the final hurdle as class prevailed in the Betfair Imperial Cup at Sandown – but a Royal Ascot bid could be more likely than seeking a quickfire bonus at next week’s Cheltenham Festival.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/racing/news/12040/13516586/sandown-park-mondo-man-overcomes-last-flight-drama-in-imperial-cup",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-sandown-park-imperial-cup_7185305.jpg?20260307171143",
-      "published_at": "2026-03-07T17:06:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Cumhurbaşkanı Erdoğan ve İngiltere Başbakanı Starmer'den kritik görüşme",
-      "title_tr": "Cumhurbaşkanı Erdoğan ve İngiltere Başbakanı Starmer'den kritik görüşme",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Krallık Başbakanı Keir Starmer ile bir telefon görüşmesi gerçekleştirdi.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Krallık Başbakanı Keir Starmer ile bir telefon görüşmesi gerçekleştirdi.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Krallık Başbakanı Keir Starmer ile bir telefon görüşmesi gerçekleştirdi.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Krallık Başbakanı Keir Starmer ile bir telefon görüşmesi gerçekleştirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-ve-ingiltere-basbakani-starmerden-kritik-gorusme-haberi-817453",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2022/08/17/erdogan-telefon-Sy3v_cover.jpg",
-      "published_at": "2026-03-07T17:06:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Rapper-politician Balendra Shah set to be Nepal's next prime minister",
-      "title_tr": "Rapper-politician Balendra Shah set to be Nepal's next prime minister",
-      "summary": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-      "summary_tr": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-      "long_summary": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-      "long_summary_tr": "Thursday's general election was the first since violent youth-led protests toppled the government in September.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c93w6y0lnd9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740d/live/6f99d390-1a3f-11f1-bbcf-6dca17345a4c.jpg",
-      "published_at": "2026-03-07T17:02:29+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Epic Games Yeni Ücretsiz Oyunlarını Açıkladı",
-      "title_tr": "Epic Games Yeni Ücretsiz Oyunlarını Açıkladı",
-      "summary": "Her hafta olduğu gibi bu hafta da Epic Games ücretsiz oyunları ile oyun kütüphanemizi şenlendirmeye geldi. Epic Games bu haftanın ücretsiz oyunlarını erişime açarken 12 ve 19 Mart tarihleri arasında bedava dağıtacağı yapımları da resmen duyurdu. Eğer siz de kütüphanenize kalıcı olarak ekleyebileceğiniz yepyeni maceralara atılmak istiyorsanız doğru yerdesiniz. Gelin bu haftanın sürprizlerine birlikte göz […]",
-      "summary_tr": "Her hafta olduğu gibi bu hafta da Epic Games ücretsiz oyunları ile oyun kütüphanemizi şenlendirmeye geldi. Epic Games bu haftanın ücretsiz oyunlarını erişime açarken 12 ve 19 Mart tarihleri arasında bedava dağıtacağı yapımları da resmen duyurdu. Eğer siz de kütüphanenize kalıcı olarak ekleyebileceğiniz yepyeni maceralara atılmak istiyorsanız doğru yerdesiniz. Gelin bu haftanın sürprizlerine birlikte göz […]",
-      "long_summary": "Her hafta olduğu gibi bu hafta da Epic Games ücretsiz oyunları ile oyun kütüphanemizi şenlendirmeye geldi. Epic Games bu haftanın ücretsiz oyunlarını erişime açarken 12 ve 19 Mart tarihleri arasında bedava dağıtacağı yapımları da resmen duyurdu. Eğer siz de kütüphanenize kalıcı olarak ekleyebileceğiniz yepyeni maceralara atılmak istiyorsanız doğru yerdesiniz. Gelin bu haftanın sürprizlerine birlikte göz […]",
-      "long_summary_tr": "Her hafta olduğu gibi bu hafta da Epic Games ücretsiz oyunları ile oyun kütüphanemizi şenlendirmeye geldi. Epic Games bu haftanın ücretsiz oyunlarını erişime açarken 12 ve 19 Mart tarihleri arasında bedava dağıtacağı yapımları da resmen duyurdu. Eğer siz de kütüphanenize kalıcı olarak ekleyebileceğiniz yepyeni maceralara atılmak istiyorsanız doğru yerdesiniz. Gelin bu haftanın sürprizlerine birlikte göz […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/epic-games-yeni-ucretsiz-oyunlarini-acikladi",
-      "image": null,
-      "published_at": "2026-03-07T17:00:43+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Gazprom uyardı: Avrupa’daki doğal gaz depolarındaki kışlık stok tükendi",
-      "title_tr": "Gazprom uyardı: Avrupa’daki doğal gaz depolarındaki kışlık stok tükendi",
-      "summary": "Rus enerji şirketi Gazprom, Avrupa’daki doğal gaz depolarındaki doluluk oranının yüzde 30’un altına düştüğünü ve kışa hazırlık için doldurulan tüm gazın şubat ortasında tükendiğini açıkladı",
-      "summary_tr": "Rus enerji şirketi Gazprom, Avrupa’daki doğal gaz depolarındaki doluluk oranının yüzde 30’un altına düştüğünü ve kışa hazırlık için doldurulan tüm gazın şubat ortasında tükendiğini açıkladı",
-      "long_summary": "Rus enerji şirketi Gazprom, Avrupa’daki doğal gaz depolarındaki doluluk oranının yüzde 30’un altına düştüğünü ve kışa hazırlık için doldurulan tüm gazın şubat ortasında tükendiğini açıkladı",
-      "long_summary_tr": "Rus enerji şirketi Gazprom, Avrupa’daki doğal gaz depolarındaki doluluk oranının yüzde 30’un altına düştüğünü ve kışa hazırlık için doldurulan tüm gazın şubat ortasında tükendiğini açıkladı",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/gazprom-uyardi-avrupadaki-dogal-gaz-depolarindaki-kislik-stok-tukendi-haberi-817452",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/07/29/gazprom-ndnn-cover-sgtp_cover.jpg",
-      "published_at": "2026-03-07T17:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Jeep, Wrangler’ın en zayıf noktasını düzeltti!",
-      "title_tr": "Jeep, Wrangler’ın en zayıf noktasını düzeltti!",
-      "summary": "Güncellenmiş bir şasi kirişiyle Gladiator ve Wrangler’ın devrilme riski azaltıldı.",
-      "summary_tr": "Güncellenmiş bir şasi kirişiyle Gladiator ve Wrangler’ın devrilme riski azaltıldı.",
-      "long_summary": "Güncellenmiş bir şasi kirişiyle Gladiator ve Wrangler’ın devrilme riski azaltıldı.",
-      "long_summary_tr": "Güncellenmiş bir şasi kirişiyle Gladiator ve Wrangler’ın devrilme riski azaltıldı.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/789299/jeep-wrangler-devrilme-riski-duzeltti/",
-      "image": "https://cdn.motor1.com/images/mgl/1ZwZrw/s3/2026-jeep-wrangler-crash-test.jpg",
-      "published_at": "2026-03-07T17:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Lady Gaga Says She and Michael Polansky Are Getting ‘Married Soon’",
-      "title_tr": "Lady Gaga Says She and Michael Polansky Are Getting ‘Married Soon’",
-      "summary": "Lady Gaga Says She and Michael Polansky Are Getting ‘Married Soon’",
-      "summary_tr": "Lady Gaga Says She and Michael Polansky Are Getting ‘Married Soon’",
-      "long_summary": "Lady Gaga Says She and Michael Polansky Are Getting ‘Married Soon’",
-      "long_summary_tr": "Lady Gaga Says She and Michael Polansky Are Getting ‘Married Soon’",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a70650871/lady-gaga-michael-polansky-getting-married-soon/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b7ac0084-8e69-433a-a86f-392c0ea89c6f.jpeg",
-      "published_at": "2026-03-07T16:58:34+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Scotland destroy France Grand Slam dreams after stunning win",
-      "title_tr": "Scotland destroy France Grand Slam dreams after stunning win",
-      "summary": "Rampant Scotland annihilate French Grand Slam dreams with a stunning seven-try victory at Murrayfield that blows the Six Nations championship wide open.",
-      "summary_tr": "Rampant Scotland annihilate French Grand Slam dreams with a stunning seven-try victory at Murrayfield that blows the Six Nations championship wide open.",
-      "long_summary": "Rampant Scotland annihilate French Grand Slam dreams with a stunning seven-try victory at Murrayfield that blows the Six Nations championship wide open.",
-      "long_summary_tr": "Rampant Scotland annihilate French Grand Slam dreams with a stunning seven-try victory at Murrayfield that blows the Six Nations championship wide open.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/videos/c5yq8q8n90vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/587d/live/a56a6b00-1a40-11f1-801d-ed3cff6bf876.jpg",
-      "published_at": "2026-03-07T16:57:11+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Sezen Aksu'nun uğruna şarkı yazdığı dizi için final kararı",
-      "title_tr": "Sezen Aksu'nun uğruna şarkı yazdığı dizi için final kararı",
-      "summary": "Show TV’de perşembe akşamları ekranlara gelen, FARO ve Gold Yapım imzalı ‘Veliaht’ dizisi için final kararı verildi.Reytinglerde bir türlü istediği başarıyı yakalayamayan fenomen dizi için final kararı verildi.\n\nBirsen Altuntaş'ın haberine göre; dizi Kars’taki çekimlerini tamamladıktan sonra İstanbul’a dönecek ve 26. bölümünü çekerek ekran macerasını sonlandıracak.\n\nDiziyi çok seven ve bitmesini istemeyen Sezen Aksu geçen hafta Zafer’in (Bora Akkaş) hayatını kaybettiği sahneden çok etkilenmiş ve “Kar” adlı şarkı yazmıştı.",
-      "summary_tr": "Show TV’de perşembe akşamları ekranlara gelen, FARO ve Gold Yapım imzalı ‘Veliaht’ dizisi için final kararı verildi.Reytinglerde bir türlü istediği başarıyı yakalayamayan fenomen dizi için final kararı verildi.\n\nBirsen Altuntaş'ın haberine göre; dizi Kars’taki çekimlerini tamamladıktan sonra İstanbul’a dönecek ve 26. bölümünü çekerek ekran macerasını sonlandıracak.\n\nDiziyi çok seven ve bitmesini istemeyen Sezen Aksu geçen hafta Zafer’in (Bora Akkaş) hayatını kaybettiği sahneden çok etkilenmiş ve “Kar” adlı şarkı yazmıştı.",
-      "long_summary": "Show TV’de perşembe akşamları ekranlara gelen, FARO ve Gold Yapım imzalı ‘Veliaht’ dizisi için final kararı verildi.Reytinglerde bir türlü istediği başarıyı yakalayamayan fenomen dizi için final kararı verildi.\n\nBirsen Altuntaş'ın haberine göre; dizi Kars’taki çekimlerini tamamladıktan sonra İstanbul’a dönecek ve 26. bölümünü çekerek ekran macerasını sonlandıracak.\n\nDiziyi çok seven ve bitmesini istemeyen Sezen Aksu geçen hafta Zafer’in (Bora Akkaş) hayatını kaybettiği sahneden çok etkilenmiş",
-      "long_summary_tr": "Show TV’de perşembe akşamları ekranlara gelen, FARO ve Gold Yapım imzalı ‘Veliaht’ dizisi için final kararı verildi.Reytinglerde bir türlü istediği başarıyı yakalayamayan fenomen dizi için final kararı verildi.\n\nBirsen Altuntaş'ın haberine göre; dizi Kars’taki çekimlerini tamamladıktan sonra İstanbul’a dönecek ve 26. bölümünü çekerek ekran macerasını sonlandıracak.\n\nDiziyi çok seven ve bitmesini istemeyen Sezen Aksu geçen hafta Zafer’in (Bora Akkaş) hayatını kaybettiği sahneden çok etkilenmiş",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/magazin/sezen-aksu-nun-ugruna-sarki-yazdigi-dizi-icin-final-karari-1590992",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/sezen-aksu-nun-ugruna-sarki-yazdigi-dizi-icin-final-karari-1772902657-595_large.webp",
-      "published_at": "2026-03-07T16:57:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "BAE lideri savaşın başından bu yana ilk kez kamuoyuna konuştu: Kolay av değiliz",
-      "title_tr": "BAE lideri savaşın başından bu yana ilk kez kamuoyuna konuştu: Kolay av değiliz",
-      "summary": "Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayed Al Nahyan, ABD ve İsrail’in İran’a başlattığı savaş ve İran’ın BAE’yi de hedef alan misilleme saldırılarının ardından yaptığı ilk kamuoyu açıklamasında ülkesinin “kolay bir av olmadığını” söyledi ve Tahran’ı “düşman” olarak nitelendirdi. İran’ın misilleme saldırılarında yaralanan sivillerin tedavi gördüğü bir hastaneyi ziyaret ettiği sırada Abu Dabi TV’de yayımlanan açıklamalarında Al Nahyan, “BAE güzeldir, BAE örnek alınacak bir modeldir, ancak size söylüyorum, buna aldanmayın, BAE’nin eli uzanabilir ve güçlüdür, eti acıdır ve biz kolay bir av değildir” ifadelerini kullandı.\n\nÜlkesinin savaş zamanında olduğunu vurgulaya Al Nahyan, “Ülkemize, halkımıza ve aramızda yaşayan herkese karşı görevimizi yerine getiriyoruz. Allah BAE’yi, halkını ve içinde yaşayan herkesi korusun, ona güvenlik ve esenlik versin” dedi.\n\nABD ve İsrail'in İran'a başlattığı savaşa karşılık İran da bölgedeki ülkelerde ABD ve İsrail bağlantılarını hedef alıyor. BAE de savaşın ilk gününden bu yana İran'dan gönderilen füzelerin hedefi oluyor. \n\nİran Cumhurbaşkanı Mesud Pezeşkiyan, bugün yaptığı açıklamada İran geçici liderlik konseyinin aldığı karara göre komşu ülkelerin artık hedef alınmayacağını açıkladı. Pezeşkiyan, yalnızca bu ülkelerden İran’a yönelik bir saldırı başlatılması durumunda karşılık verileceğini söyledi.  \n\nÖte yandan BAE akşam saatlerinde İran'dan gönderilen yeni bir grup füzeye müdahale edildiğini açıkladı.",
-      "summary_tr": "Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayed Al Nahyan, ABD ve İsrail’in İran’a başlattığı savaş ve İran’ın BAE’yi de hedef alan misilleme saldırılarının ardından yaptığı ilk kamuoyu açıklamasında ülkesinin “kolay bir av olmadığını” söyledi ve Tahran’ı “düşman” olarak nitelendirdi. İran’ın misilleme saldırılarında yaralanan sivillerin tedavi gördüğü bir hastaneyi ziyaret ettiği sırada Abu Dabi TV’de yayımlanan açıklamalarında Al Nahyan, “BAE güzeldir, BAE örnek alınacak bir modeldir, ancak size söylüyorum, buna aldanmayın, BAE’nin eli uzanabilir ve güçlüdür, eti acıdır ve biz kolay bir av değildir” ifadelerini kullandı.\n\nÜlkesinin savaş zamanında olduğunu vurgulaya Al Nahyan, “Ülkemize, halkımıza ve aramızda yaşayan herkese karşı görevimizi yerine getiriyoruz. Allah BAE’yi, halkını ve içinde yaşayan herkesi korusun, ona güvenlik ve esenlik versin” dedi.\n\nABD ve İsrail'in İran'a başlattığı savaşa karşılık İran da bölgedeki ülkelerde ABD ve İsrail bağlantılarını hedef alıyor. BAE de savaşın ilk gününden bu yana İran'dan gönderilen füzelerin hedefi oluyor. \n\nİran Cumhurbaşkanı Mesud Pezeşkiyan, bugün yaptığı açıklamada İran geçici liderlik konseyinin aldığı karara göre komşu ülkelerin artık hedef alınmayacağını açıkladı. Pezeşkiyan, yalnızca bu ülkelerden İran’a yönelik bir saldırı başlatılması durumunda karşılık verileceğini söyledi.  \n\nÖte yandan BAE akşam saatlerinde İran'dan gönderilen yeni bir grup füzeye müdahale edildiğini açıkladı.",
-      "long_summary": "Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayed Al Nahyan, ABD ve İsrail’in İran’a başlattığı savaş ve İran’ın BAE’yi de hedef alan misilleme saldırılarının ardından yaptığı ilk kamuoyu açıklamasında ülkesinin “kolay bir av olmadığını” söyledi ve Tahran’ı “düşman” olarak nitelendirdi. İran’ın misilleme saldırılarında yaralanan sivillerin tedavi gördüğü bir hastaneyi ziyaret ettiği sırada Abu Dabi TV’de yayımlanan açıklamalarında Al Nahyan, “BAE güzeldir, BAE örnek alınacak bir",
-      "long_summary_tr": "Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayed Al Nahyan, ABD ve İsrail’in İran’a başlattığı savaş ve İran’ın BAE’yi de hedef alan misilleme saldırılarının ardından yaptığı ilk kamuoyu açıklamasında ülkesinin “kolay bir av olmadığını” söyledi ve Tahran’ı “düşman” olarak nitelendirdi. İran’ın misilleme saldırılarında yaralanan sivillerin tedavi gördüğü bir hastaneyi ziyaret ettiği sırada Abu Dabi TV’de yayımlanan açıklamalarında Al Nahyan, “BAE güzeldir, BAE örnek alınacak bir",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/bae-lideri-savasin-basindan-bu-yana-ilk-kez-kamuoyuna-konustu-kolay-av-degiliz-1590989",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/bae-lideri-savasin-basindan-bu-yana-ilk-kez-kamuoyuna-konustu-kolay-av-degiliz-1772902625-406_large.webp",
-      "published_at": "2026-03-07T16:56:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "title_tr": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-      "summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-      "summary_tr": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-      "long_summary": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-      "long_summary_tr": "Seyed Ali Mousavi says Iran has a \"right to self-defence\" if the UK directly joins US-Israeli attacks.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cq6qp458zv1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/84801090-1a2a-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-07T16:53:57+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Exceptional' Dowman and Salmon make history as Gunners survive scare",
-      "title_tr": "'Exceptional' Dowman and Salmon make history as Gunners survive scare",
-      "summary": "Arsenal needed their big guns to come off the bench to help them past Mansfield, but it was 16-year-olds Max Dowman and Marli Salmon who made history.",
-      "summary_tr": "Arsenal needed their big guns to come off the bench to help them past Mansfield, but it was 16-year-olds Max Dowman and Marli Salmon who made history.",
-      "long_summary": "Arsenal needed their big guns to come off the bench to help them past Mansfield, but it was 16-year-olds Max Dowman and Marli Salmon who made history.",
-      "long_summary_tr": "Arsenal needed their big guns to come off the bench to help them past Mansfield, but it was 16-year-olds Max Dowman and Marli Salmon who made history.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cy0329x8eleo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ec/live/facd6240-1a3c-11f1-bbcf-6dca17345a4c.jpg",
-      "published_at": "2026-03-07T16:50:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursaspor’da kötü gidişat devam ediyor!",
-      "title_tr": "Bursaspor’da kötü gidişat devam ediyor!",
-      "summary": "Bursaspor Basketbol, deplasmanda Bahçeşehir Kolejine 39 sayı farkla 100-61 mağlup oldu.Türkiye Sigorta Basketbol Süper Ligi'nin 21. haftasında Bahçeşehir Koleji ile Bursaspor Basketbol takımları, Sinan Erdem Spor Salonu' nda karşılaştı.\n\n\n\nKarşılaşmada Bahçeşehir Koleji, 39 sayı farkla 100-61 galip geldi.\n\nYeşil-beyazlılar üst üste 6’ıncı yenilgisini aldı.",
-      "summary_tr": "Bursaspor Basketbol, deplasmanda Bahçeşehir Kolejine 39 sayı farkla 100-61 mağlup oldu.Türkiye Sigorta Basketbol Süper Ligi'nin 21. haftasında Bahçeşehir Koleji ile Bursaspor Basketbol takımları, Sinan Erdem Spor Salonu' nda karşılaştı.\n\n\n\nKarşılaşmada Bahçeşehir Koleji, 39 sayı farkla 100-61 galip geldi.\n\nYeşil-beyazlılar üst üste 6’ıncı yenilgisini aldı.",
-      "long_summary": "Bursaspor Basketbol, deplasmanda Bahçeşehir Kolejine 39 sayı farkla 100-61 mağlup oldu.Türkiye Sigorta Basketbol Süper Ligi'nin 21. haftasında Bahçeşehir Koleji ile Bursaspor Basketbol takımları, Sinan Erdem Spor Salonu' nda karşılaştı.\n\n\n\nKarşılaşmada Bahçeşehir Koleji, 39 sayı farkla 100-61 galip geldi.\n\nYeşil-beyazlılar üst üste 6’ıncı yenilgisini aldı.",
-      "long_summary_tr": "Bursaspor Basketbol, deplasmanda Bahçeşehir Kolejine 39 sayı farkla 100-61 mağlup oldu.Türkiye Sigorta Basketbol Süper Ligi'nin 21. haftasında Bahçeşehir Koleji ile Bursaspor Basketbol takımları, Sinan Erdem Spor Salonu' nda karşılaştı.\n\n\n\nKarşılaşmada Bahçeşehir Koleji, 39 sayı farkla 100-61 galip geldi.\n\nYeşil-beyazlılar üst üste 6’ıncı yenilgisini aldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursaspor/bursaspor-da-kotu-gidisat-devam-ediyor-1590986",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/bursaspor-da-kotu-gidisat-devam-ediyor-1772902174-944_large.webp",
-      "published_at": "2026-03-07T16:46:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "ABD üçüncü uçak gemisini Orta Doğu'ya hareket etmek üzere hazırlıyor",
-      "title_tr": "ABD üçüncü uçak gemisini Orta Doğu'ya hareket etmek üzere hazırlıyor",
-      "summary": "Orta Doğu'da tansiyon her geçen gün yükseliyor. Daha önce \"USS Gerald R. Ford\" ve \"USS Abraham Lincoln (CVN-72)\" gemilerini bölgeye gönderen ABD, şimdi de \"USS George H.W. Bush\" gemisinin bölgeye göndermeye hazırlanıyor.ABD Donanmasına ait \"USS George H.W. Bush\" uçak gemisinin, Doğu Akdeniz'e doğru yola çıkmak için hazırlıklarını tamamladığı bildirildi.\n\nABD ÜÇÜNCÜ UÇAK GEMİSİNİ ORTA DOĞU'YA GÖNDERİYOR\n\nABD, üçüncü bir uçak gemisini İran'a saldırıları için bölgeye konuşlandırmaya hazırlanıyor. Hatteras Adası açıklarında hazırlıklarını tamamlayan \"USS George H.W. Bush\" uçak gemisinin, yakında Doğu Akdeniz'e doğru yola çıkması bekleniyor.\n\nOnlarca saldırı uçağının konuşlandırıldığı uçak gemisinde, ayrıca güdümlü füze destroyerleri olacak.\n\n\n\n\n\nUSS Gerald R. Ford\n\nİKİ UÇAK GEMİSİ UMMAN DENİZİ'NDE FAALİYETTE\n\nABD Donanmasına ait \"USS Gerald R. Ford\" gemisi Kızıldeniz'de, \"USS Abraham Lincoln (CVN-72)\" uçak gemisi ise Umman Denizi'nde faaliyet gösteriyor.\n\n\n\nUSS Abraham Lincoln",
-      "summary_tr": "Orta Doğu'da tansiyon her geçen gün yükseliyor. Daha önce \"USS Gerald R. Ford\" ve \"USS Abraham Lincoln (CVN-72)\" gemilerini bölgeye gönderen ABD, şimdi de \"USS George H.W. Bush\" gemisinin bölgeye göndermeye hazırlanıyor.ABD Donanmasına ait \"USS George H.W. Bush\" uçak gemisinin, Doğu Akdeniz'e doğru yola çıkmak için hazırlıklarını tamamladığı bildirildi.\n\nABD ÜÇÜNCÜ UÇAK GEMİSİNİ ORTA DOĞU'YA GÖNDERİYOR\n\nABD, üçüncü bir uçak gemisini İran'a saldırıları için bölgeye konuşlandırmaya hazırlanıyor. Hatteras Adası açıklarında hazırlıklarını tamamlayan \"USS George H.W. Bush\" uçak gemisinin, yakında Doğu Akdeniz'e doğru yola çıkması bekleniyor.\n\nOnlarca saldırı uçağının konuşlandırıldığı uçak gemisinde, ayrıca güdümlü füze destroyerleri olacak.\n\n\n\n\n\nUSS Gerald R. Ford\n\nİKİ UÇAK GEMİSİ UMMAN DENİZİ'NDE FAALİYETTE\n\nABD Donanmasına ait \"USS Gerald R. Ford\" gemisi Kızıldeniz'de, \"USS Abraham Lincoln (CVN-72)\" uçak gemisi ise Umman Denizi'nde faaliyet gösteriyor.\n\n\n\nUSS Abraham Lincoln",
-      "long_summary": "Orta Doğu'da tansiyon her geçen gün yükseliyor. Daha önce \"USS Gerald R. Ford\" ve \"USS Abraham Lincoln (CVN-72)\" gemilerini bölgeye gönderen ABD, şimdi de \"USS George H.W. Bush\" gemisinin bölgeye göndermeye hazırlanıyor.ABD Donanmasına ait \"USS George H.W. Bush\" uçak gemisinin, Doğu Akdeniz'e doğru yola çıkmak için hazırlıklarını tamamladığı bildirildi.\n\nABD ÜÇÜNCÜ UÇAK GEMİSİNİ ORTA DOĞU'YA GÖNDERİYOR\n\nABD, üçüncü bir uçak gemisini İran'a saldırıları için bölgeye konuşlandırmaya hazırlanıyor.",
-      "long_summary_tr": "Orta Doğu'da tansiyon her geçen gün yükseliyor. Daha önce \"USS Gerald R. Ford\" ve \"USS Abraham Lincoln (CVN-72)\" gemilerini bölgeye gönderen ABD, şimdi de \"USS George H.W. Bush\" gemisinin bölgeye göndermeye hazırlanıyor.ABD Donanmasına ait \"USS George H.W. Bush\" uçak gemisinin, Doğu Akdeniz'e doğru yola çıkmak için hazırlıklarını tamamladığı bildirildi.\n\nABD ÜÇÜNCÜ UÇAK GEMİSİNİ ORTA DOĞU'YA GÖNDERİYOR\n\nABD, üçüncü bir uçak gemisini İran'a saldırıları için bölgeye konuşlandırmaya hazırlanıyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/abd-ucuncu-ucak-gemisini-orta-dogu-ya-hareket-etmek-uzere-hazirliyor-1590983",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/abd-ucuncu-ucak-gemisini-orta-dogu-ya-hareket-etmek-uzere-hazirliyor-1772901850-786_large.webp",
-      "published_at": "2026-03-07T16:43:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Erdoğan, Türk Devletleri Teşkilatı heyetini kabul etti",
-      "title_tr": "Erdoğan, Türk Devletleri Teşkilatı heyetini kabul etti",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Gayriresmi Teşkilatı toplantısı kapsamında İstanbul&#039;da bulunan TDT Genel Sekreteri Kubanıçbek Ömüraliyev ile üye ülkelerin dışişleri bakanlarını kabul etti.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Gayriresmi Teşkilatı toplantısı kapsamında İstanbul&#039;da bulunan TDT Genel Sekreteri Kubanıçbek Ömüraliyev ile üye ülkelerin dışişleri bakanlarını kabul etti.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Gayriresmi Teşkilatı toplantısı kapsamında İstanbul&#039;da bulunan TDT Genel Sekreteri Kubanıçbek Ömüraliyev ile üye ülkelerin dışişleri bakanlarını kabul etti.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Gayriresmi Teşkilatı toplantısı kapsamında İstanbul&#039;da bulunan TDT Genel Sekreteri Kubanıçbek Ömüraliyev ile üye ülkelerin dışişleri bakanlarını kabul etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/erdogan-turk-devletleri-teskilati-heyetini-kabul-etti-haberi-817451",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/07/erdogan-oq7d_cover.jpg",
-      "published_at": "2026-03-07T16:40:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursa'da kamyonetle çarpışan motosikletteki 2 kişi yaralandı!",
-      "title_tr": "Bursa'da kamyonetle çarpışan motosikletteki 2 kişi yaralandı!",
-      "summary": "Bursa’nın İznik ilçesinde kamyonet ile kafa kafaya çarpışan motosikletin sürücüsü A.S. ile arkasındaki M.A. yaralandı. Kaza anı ise çevredeki bir binanın güvenlik kamerasına yansıdı.Kaza, saat 16.30 sıralarında İznik Çevre Yolu'nda meydana geldi.\n\n\n\nA.S. idaresindeki 16 PCJ 61 plakalı motosiklet ile karşı yönden gelen M.Y. yönetimindeki 16 TS 757 plakalı kamyonet kafa kafaya çarpıştı. Çarpışmanın etkisiyle motosiklet sürücüsü A.S. ile arkasında yolcu konumunda bulunan M.A. yola savruldu. Çevredekilerin ihbarı üzerine kaza yerine sağlık ve polis ekipleri sevk edildi. Kazada yola savrularak yaralanan iki kişi, sağlık ekiplerinin ilk müdahalesinin ardından ambulansla İznik Devlet Hastanesi’ne kaldırıldı. Yaralıların tedavisinin sürdüğü öğrenildi. Kazanı anı ise çevredeki bir binanın güvenlik kamerasına yansıdı.\n\n\n\nPolis, kazayla ilgili soruşturma başlattı.",
-      "summary_tr": "Bursa’nın İznik ilçesinde kamyonet ile kafa kafaya çarpışan motosikletin sürücüsü A.S. ile arkasındaki M.A. yaralandı. Kaza anı ise çevredeki bir binanın güvenlik kamerasına yansıdı.Kaza, saat 16.30 sıralarında İznik Çevre Yolu'nda meydana geldi.\n\n\n\nA.S. idaresindeki 16 PCJ 61 plakalı motosiklet ile karşı yönden gelen M.Y. yönetimindeki 16 TS 757 plakalı kamyonet kafa kafaya çarpıştı. Çarpışmanın etkisiyle motosiklet sürücüsü A.S. ile arkasında yolcu konumunda bulunan M.A. yola savruldu. Çevredekilerin ihbarı üzerine kaza yerine sağlık ve polis ekipleri sevk edildi. Kazada yola savrularak yaralanan iki kişi, sağlık ekiplerinin ilk müdahalesinin ardından ambulansla İznik Devlet Hastanesi’ne kaldırıldı. Yaralıların tedavisinin sürdüğü öğrenildi. Kazanı anı ise çevredeki bir binanın güvenlik kamerasına yansıdı.\n\n\n\nPolis, kazayla ilgili soruşturma başlattı.",
-      "long_summary": "Bursa’nın İznik ilçesinde kamyonet ile kafa kafaya çarpışan motosikletin sürücüsü A.S. ile arkasındaki M.A. yaralandı. Kaza anı ise çevredeki bir binanın güvenlik kamerasına yansıdı.Kaza, saat 16.30 sıralarında İznik Çevre Yolu'nda meydana geldi.\n\n\n\nA.S. idaresindeki 16 PCJ 61 plakalı motosiklet ile karşı yönden gelen M.Y. yönetimindeki 16 TS 757 plakalı kamyonet kafa kafaya çarpıştı. Çarpışmanın etkisiyle motosiklet sürücüsü A.S. ile arkasında yolcu konumunda bulunan M.A. yola savruldu.",
-      "long_summary_tr": "Bursa’nın İznik ilçesinde kamyonet ile kafa kafaya çarpışan motosikletin sürücüsü A.S. ile arkasındaki M.A. yaralandı. Kaza anı ise çevredeki bir binanın güvenlik kamerasına yansıdı.Kaza, saat 16.30 sıralarında İznik Çevre Yolu'nda meydana geldi.\n\n\n\nA.S. idaresindeki 16 PCJ 61 plakalı motosiklet ile karşı yönden gelen M.Y. yönetimindeki 16 TS 757 plakalı kamyonet kafa kafaya çarpıştı. Çarpışmanın etkisiyle motosiklet sürücüsü A.S. ile arkasında yolcu konumunda bulunan M.A. yola savruldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-kamyonetle-carpisan-motosikletteki-2-kisi-yaralandi-1590980",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/07/bursa-da-kamyonetle-carpisan-motosikletteki-2-kisi-yaralandi-1772901526-459_large.webp",
-      "published_at": "2026-03-07T16:38:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Incredible' Bronze remains England's gold standard",
-      "title_tr": "'Incredible' Bronze remains England's gold standard",
-      "summary": "Lucy Bronze made her 145th senior appearance for England on Saturday. Few have been better performances.",
-      "summary_tr": "Lucy Bronze made her 145th senior appearance for England on Saturday. Few have been better performances.",
-      "long_summary": "Lucy Bronze made her 145th senior appearance for England on Saturday. Few have been better performances.",
-      "long_summary_tr": "Lucy Bronze made her 145th senior appearance for England on Saturday. Few have been better performances.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cly2pj43mg4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926d/live/0eb70a40-1a3d-11f1-801d-ed3cff6bf876.jpg",
-      "published_at": "2026-03-07T16:30:35+00:00"
     }
   ]
 }
