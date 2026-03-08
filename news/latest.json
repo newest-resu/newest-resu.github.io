@@ -1,6 +1,424 @@
 {
-  "updated_at": "2026-03-08T19:32:45.236894+00:00",
+  "updated_at": "2026-03-08T20:38:26.910320+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "All About Kate Harrison, Chloë Grace Moretz’s Wife",
+      "title_tr": "All About Kate Harrison, Chloë Grace Moretz’s Wife",
+      "summary": "All About Kate Harrison, Chloë Grace Moretz’s Wife",
+      "summary_tr": "All About Kate Harrison, Chloë Grace Moretz’s Wife",
+      "long_summary": "All About Kate Harrison, Chloë Grace Moretz’s Wife",
+      "long_summary_tr": "All About Kate Harrison, Chloë Grace Moretz’s Wife",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a60659344/who-is-kate-harrison-chloe-grace-moretz-girlfriend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/17e31203-6335-4bbd-92a1-9fb024b59309.jpg",
+      "published_at": "2026-03-08T20:33:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Yangın çıkan apartmanda can pazarı: 30 kişiyi itfaiye kurtardı",
+      "title_tr": "Yangın çıkan apartmanda can pazarı: 30 kişiyi itfaiye kurtardı",
+      "summary": "Hatay'da bir apartmanda çıkan yangında mahsur kalan 30 kişi itfaiye ekipleri tarafından kurtarıldı. Dumandan etkilenen 1'i bebek 3 kişi hastanede tedavi altına alındı.",
+      "summary_tr": "Hatay'da bir apartmanda çıkan yangında mahsur kalan 30 kişi itfaiye ekipleri tarafından kurtarıldı. Dumandan etkilenen 1'i bebek 3 kişi hastanede tedavi altına alındı.",
+      "long_summary": "Hatay'da bir apartmanda çıkan yangında mahsur kalan 30 kişi itfaiye ekipleri tarafından kurtarıldı. Dumandan etkilenen 1'i bebek 3 kişi hastanede tedavi altına alındı.",
+      "long_summary_tr": "Hatay'da bir apartmanda çıkan yangında mahsur kalan 30 kişi itfaiye ekipleri tarafından kurtarıldı. Dumandan etkilenen 1'i bebek 3 kişi hastanede tedavi altına alındı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/yangin-cikan-apartmanda-can-pazari-30-kisiyi-itfaiye-kurtardi-1715096",
+      "image": "https://images.ntv.com.tr/images/AW657746_01-170157.jpg",
+      "published_at": "2026-03-08T20:05:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Deprem nedeniyle Yunanistan'ın Yanya kentinde eğitime ara verildi",
+      "title_tr": "Deprem nedeniyle Yunanistan'ın Yanya kentinde eğitime ara verildi",
+      "summary": "Yunanistan’ın Yanya kentinde bugün meydana gelen 5,3 büyüklüğündeki depremin ardından, kent sınırlarındaki tüm okulların yarın tedbir amaçlı kapalı olacağı bildirildi.",
+      "summary_tr": "Yunanistan’ın Yanya kentinde bugün meydana gelen 5,3 büyüklüğündeki depremin ardından, kent sınırlarındaki tüm okulların yarın tedbir amaçlı kapalı olacağı bildirildi.",
+      "long_summary": "Yunanistan’ın Yanya kentinde bugün meydana gelen 5,3 büyüklüğündeki depremin ardından, kent sınırlarındaki tüm okulların yarın tedbir amaçlı kapalı olacağı bildirildi.",
+      "long_summary_tr": "Yunanistan’ın Yanya kentinde bugün meydana gelen 5,3 büyüklüğündeki depremin ardından, kent sınırlarındaki tüm okulların yarın tedbir amaçlı kapalı olacağı bildirildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/deprem-nedeniyle-yunanistanin-yanya-kentinde-egitime-ara-verildi-haberi-817550",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/yy2-5u2o_cover.jpg",
+      "published_at": "2026-03-08T20:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bakan Uraloğlu duyurdu: O ülkelere uçuşlar 4 gün daha durduruldu!",
+      "title_tr": "Bakan Uraloğlu duyurdu: O ülkelere uçuşlar 4 gün daha durduruldu!",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını duyurdu.Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, ABD ve İsrail'in İran'a saldırıları sonucu havayolu şirketlerinin Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını açıkladı. \n\nUraloğlu şunları yazdı: \n\n\"Ortadoğu'da yaşanan gelişmeler ışığında hava sahalarındaki gelişmeleri yakından takip ediyoruz. Mevcut durumda İran, İsrail, Irak, Katar, Bahreyn, Kuveyt ve Suriye'de (Halep hariç) hava sahası kapalılık NOTAM'ları devam etmektedir. Umman, Ürdün ve Suudi Arabistan'da kısmi sivil uçuşlar sürerken Birleşik Arap Emirlikleri'nde hava ulaşımı kontrollü ve sınırlı şekilde sürdürülmektedir. \n\nHava sahalarındaki gelişmeler doğrultusunda havayolu taşıyıcılarımız, bölgedeki bazı noktalara yönelik seferlerini güvenlik riskleri nedeniyle 9 Mart gün sonuna kadar durdurmuştu.\n\nAncak yapılan değerlendirmeler sonucunda devam eden riskler nedeniyle THY, AJet, Pegasus ve SunExpress tarafından Irak, Suriye, Lübnan ve Ürdün uçuşları 13 Mart 2026 gün sonuna kadar iptal edilmiştir. Pegasus 12 Mart'a, THY ise 20 Mart'a kadar İran seferlerini planlamadan çıkarmıştır.\n\nDoha, Dubai, Kuveyt, Bahreyn, Abu Dabi ve Dammam'a yapılması planlanan uçuşlar da yine 13 Mart  gün sonuna kadar iptal edilmiştir. \n\nTürk Hava Yolları'na ve Pegasus'a ait iki uçak Tahran İmam Humeyni Uluslararası Havalimanı'nda beklemektedir. Tailwind Havayolları'nın Irak menşeli bir şirkete kiraladığı bir uçak Irak'ta bulunmaktadır. \n\nHava sahası ve havalimanlarındaki gelişmeler doğrultusunda ilgili birimlerimiz koordineli şekilde çalışmalarını sürdürmektedir.\"",
+      "summary_tr": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını duyurdu.Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, ABD ve İsrail'in İran'a saldırıları sonucu havayolu şirketlerinin Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını açıkladı. \n\nUraloğlu şunları yazdı: \n\n\"Ortadoğu'da yaşanan gelişmeler ışığında hava sahalarındaki gelişmeleri yakından takip ediyoruz. Mevcut durumda İran, İsrail, Irak, Katar, Bahreyn, Kuveyt ve Suriye'de (Halep hariç) hava sahası kapalılık NOTAM'ları devam etmektedir. Umman, Ürdün ve Suudi Arabistan'da kısmi sivil uçuşlar sürerken Birleşik Arap Emirlikleri'nde hava ulaşımı kontrollü ve sınırlı şekilde sürdürülmektedir. \n\nHava sahalarındaki gelişmeler doğrultusunda havayolu taşıyıcılarımız, bölgedeki bazı noktalara yönelik seferlerini güvenlik riskleri nedeniyle 9 Mart gün sonuna kadar durdurmuştu.\n\nAncak yapılan değerlendirmeler sonucunda devam eden riskler nedeniyle THY, AJet, Pegasus ve SunExpress tarafından Irak, Suriye, Lübnan ve Ürdün uçuşları 13 Mart 2026 gün sonuna kadar iptal edilmiştir. Pegasus 12 Mart'a, THY ise 20 Mart'a kadar İran seferlerini planlamadan çıkarmıştır.\n\nDoha, Dubai, Kuveyt, Bahreyn, Abu Dabi ve Dammam'a yapılması planlanan uçuşlar da yine 13 Mart  gün sonuna kadar iptal edilmiştir. \n\nTürk Hava Yolları'na ve Pegasus'a ait iki uçak Tahran İmam Humeyni Uluslararası Havalimanı'nda beklemektedir. Tailwind Havayolları'nın Irak menşeli bir şirkete kiraladığı bir uçak Irak'ta bulunmaktadır. \n\nHava sahası ve havalimanlarındaki gelişmeler doğrultusunda ilgili birimlerimiz koordineli şekilde çalışmalarını sürdürmektedir.\"",
+      "long_summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını duyurdu.Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, ABD ve İsrail'in İran'a saldırıları sonucu havayolu şirketlerinin Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını açıkladı. \n\nUraloğlu şunları yazdı: \n\n\"Ortadoğu'da yaşanan gelişmeler ışığında hava sahalarındaki gelişmeleri yakından takip ediyoruz. Mevcut durumda İran, İsrail, Irak, Katar,",
+      "long_summary_tr": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını duyurdu.Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, ABD ve İsrail'in İran'a saldırıları sonucu havayolu şirketlerinin Körfez ülkelerine yönelik durdurulan seferlerinin süresinin uzatıldığını açıkladı. \n\nUraloğlu şunları yazdı: \n\n\"Ortadoğu'da yaşanan gelişmeler ışığında hava sahalarındaki gelişmeleri yakından takip ediyoruz. Mevcut durumda İran, İsrail, Irak, Katar,",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/bakan-uraloglu-duyurdu-o-ulkelere-ucuslar-4-gun-daha-durduruldu-1591577",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/bakan-uraloglu-duyurdu-o-ulkelere-ucuslar-4-gun-daha-durduruldu-1773001707-242_large.webp",
+      "published_at": "2026-03-08T20:04:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'Shameful' pitch invasion by Celtic and Rangers fans condemned by police",
+      "title_tr": "'Shameful' pitch invasion by Celtic and Rangers fans condemned by police",
+      "summary": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
+      "summary_tr": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
+      "long_summary": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
+      "long_summary_tr": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cy4w22znlyvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de0/live/931ad1a0-1b09-11f1-870b-03d961994130.jpg",
+      "published_at": "2026-03-08T20:01:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İran'ın yeni dini liderini Hüseyin Ali Eshkevari duyurdu: Mücteba Hamaney ile devam edilecek",
+      "title_tr": "İran'ın yeni dini liderini Hüseyin Ali Eshkevari duyurdu: Mücteba Hamaney ile devam edilecek",
+      "summary": "Önce Umman'da başlayan ardından İsviçre'nin Cenevre kentinde devam eden müzakereler sürerken masayı deviren ABD'nin, yanına İsrail'i de alarak İran'a saldırmasının üzerinden 1 hafta geçti.Saldırıların ilk gününde İran'ın dini lideri Ali Hamaney öldürülürken bugün Uzmanlar Meclisi toplanarak yeni dini lideri belirledi.\n\nMeclisin yeni liderin ismini duyurmama kararı ise akşam saatlerinde yapılan iki açıklamayla bozulmuş oldu.\n\nİran Uzmanlar Meclisi üyesi Hüseyin Ali Eshkevari \"İran liderliğinde Hamaney'in adı devam edecek.\" açıklamasıyla öldürülen Ali Hamaney'in oğlu Mücteba Hamaney'in İran'ın yeni dini lideri olduğunu duyurmuş oldu.",
+      "summary_tr": "Önce Umman'da başlayan ardından İsviçre'nin Cenevre kentinde devam eden müzakereler sürerken masayı deviren ABD'nin, yanına İsrail'i de alarak İran'a saldırmasının üzerinden 1 hafta geçti.Saldırıların ilk gününde İran'ın dini lideri Ali Hamaney öldürülürken bugün Uzmanlar Meclisi toplanarak yeni dini lideri belirledi.\n\nMeclisin yeni liderin ismini duyurmama kararı ise akşam saatlerinde yapılan iki açıklamayla bozulmuş oldu.\n\nİran Uzmanlar Meclisi üyesi Hüseyin Ali Eshkevari \"İran liderliğinde Hamaney'in adı devam edecek.\" açıklamasıyla öldürülen Ali Hamaney'in oğlu Mücteba Hamaney'in İran'ın yeni dini lideri olduğunu duyurmuş oldu.",
+      "long_summary": "Önce Umman'da başlayan ardından İsviçre'nin Cenevre kentinde devam eden müzakereler sürerken masayı deviren ABD'nin, yanına İsrail'i de alarak İran'a saldırmasının üzerinden 1 hafta geçti.Saldırıların ilk gününde İran'ın dini lideri Ali Hamaney öldürülürken bugün Uzmanlar Meclisi toplanarak yeni dini lideri belirledi.\n\nMeclisin yeni liderin ismini duyurmama kararı ise akşam saatlerinde yapılan iki açıklamayla bozulmuş oldu.\n\nİran Uzmanlar Meclisi üyesi Hüseyin Ali Eshkevari \"İran liderliğinde",
+      "long_summary_tr": "Önce Umman'da başlayan ardından İsviçre'nin Cenevre kentinde devam eden müzakereler sürerken masayı deviren ABD'nin, yanına İsrail'i de alarak İran'a saldırmasının üzerinden 1 hafta geçti.Saldırıların ilk gününde İran'ın dini lideri Ali Hamaney öldürülürken bugün Uzmanlar Meclisi toplanarak yeni dini lideri belirledi.\n\nMeclisin yeni liderin ismini duyurmama kararı ise akşam saatlerinde yapılan iki açıklamayla bozulmuş oldu.\n\nİran Uzmanlar Meclisi üyesi Hüseyin Ali Eshkevari \"İran liderliğinde",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/iran-in-yeni-dini-liderini-huseyin-ali-eshkevari-duyurdu-mucteba-hamaney-ile-devam-edilecek-1591574",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/iran-in-yeni-dini-liderini-huseyin-ali-eshkevari-duyurdu-mucteba-hamaney-ile-devam-edilecek-1773001621-86_large.webp",
+      "published_at": "2026-03-08T20:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Scientists say this simple diet change could transform your gut health",
+      "title_tr": "Scientists say this simple diet change could transform your gut health",
+      "summary": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding beneficial gut microbes to helping regulate blood sugar and cholesterol. Researchers say getting enough fiber may even lower the risk of conditions like obesity, diabetes, and certain cancers.",
+      "summary_tr": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding beneficial gut microbes to helping regulate blood sugar and cholesterol. Researchers say getting enough fiber may even lower the risk of conditions like obesity, diabetes, and certain cancers.",
+      "long_summary": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding beneficial gut microbes to helping regulate blood sugar and cholesterol. Researchers say getting enough fiber may even lower the risk of conditions like obesity, diabetes, and certain cancers.",
+      "long_summary_tr": "A growing trend called “fibermaxxing” is putting dietary fiber in the spotlight—and for good reason. Fiber plays a powerful role in keeping the body healthy, from supporting digestion and feeding beneficial gut microbes to helping regulate blood sugar and cholesterol. Researchers say getting enough fiber may even lower the risk of conditions like obesity, diabetes, and certain cancers.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/03/260307213252.htm",
+      "image": null,
+      "published_at": "2026-03-08T19:57:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İstanbul Beyoğlu'nda metruk binada korkutan yangın",
+      "title_tr": "İstanbul Beyoğlu'nda metruk binada korkutan yangın",
+      "summary": "İstanbul Beyoğlu'nda metruk bir binada çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.Edinilen bilgiye göre, Piyelapaşa Mahallesi, Sosyal Meskenler Sokak üzerinde bulunan tek katlı metruk binada 21.00'da evsizlerin ısınmak için yaktığı ateşten dolayı yangın çıktı. Alevler kısa sürede büyüyerek binayı sardı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Polis ekipleri çevrede güvenlik önlemi alırken, itfaiye ekipleri de alevleri söndürmek için çalışma başlattı. Metruk binanın çatısına da sıçrayan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Olayda ölen ya da yaralanan olmazken, yangınla ilgili inceleme başlatıldı.\n\n\"ÇOCUKLARIMIN CAN GÜVENLİĞİ YOK\"\n\nBurhan Ekmen isimli vatandaş, \"Burası metruk bina, her yere şikayet ettik. Tinerciler gelip kalıyor. Benim evim hemen yan tarafta, çoluğum çocuğumun can güvenliği yok. Burası elbet yanacaktı bugüne denk geldi. Alevler o kadar yükseldi ki benim binama sıçrayabilirdi\" dedi.",
+      "summary_tr": "İstanbul Beyoğlu'nda metruk bir binada çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.Edinilen bilgiye göre, Piyelapaşa Mahallesi, Sosyal Meskenler Sokak üzerinde bulunan tek katlı metruk binada 21.00'da evsizlerin ısınmak için yaktığı ateşten dolayı yangın çıktı. Alevler kısa sürede büyüyerek binayı sardı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Polis ekipleri çevrede güvenlik önlemi alırken, itfaiye ekipleri de alevleri söndürmek için çalışma başlattı. Metruk binanın çatısına da sıçrayan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Olayda ölen ya da yaralanan olmazken, yangınla ilgili inceleme başlatıldı.\n\n\"ÇOCUKLARIMIN CAN GÜVENLİĞİ YOK\"\n\nBurhan Ekmen isimli vatandaş, \"Burası metruk bina, her yere şikayet ettik. Tinerciler gelip kalıyor. Benim evim hemen yan tarafta, çoluğum çocuğumun can güvenliği yok. Burası elbet yanacaktı bugüne denk geldi. Alevler o kadar yükseldi ki benim binama sıçrayabilirdi\" dedi.",
+      "long_summary": "İstanbul Beyoğlu'nda metruk bir binada çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.Edinilen bilgiye göre, Piyelapaşa Mahallesi, Sosyal Meskenler Sokak üzerinde bulunan tek katlı metruk binada 21.00'da evsizlerin ısınmak için yaktığı ateşten dolayı yangın çıktı. Alevler kısa sürede büyüyerek binayı sardı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Polis ekipleri çevrede güvenlik önlemi alırken, itfaiye ekipleri de alevleri söndürmek için çalışma",
+      "long_summary_tr": "İstanbul Beyoğlu'nda metruk bir binada çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü.Edinilen bilgiye göre, Piyelapaşa Mahallesi, Sosyal Meskenler Sokak üzerinde bulunan tek katlı metruk binada 21.00'da evsizlerin ısınmak için yaktığı ateşten dolayı yangın çıktı. Alevler kısa sürede büyüyerek binayı sardı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. Polis ekipleri çevrede güvenlik önlemi alırken, itfaiye ekipleri de alevleri söndürmek için çalışma",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/istanbul-beyoglu-nda-metruk-binada-korkutan-yangin-1591571",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/istanbul-beyoglu-nda-metruk-binada-korkutan-yangin-1773001553-151_large.webp",
+      "published_at": "2026-03-08T19:54:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Kiplimo regains world half-marathon record in Lisbon",
+      "title_tr": "Kiplimo regains world half-marathon record in Lisbon",
+      "summary": "Uganda's Jacob Kiplimo regains the world half-marathon record as he claimed victory in Lisbon on Sunday.",
+      "summary_tr": "Uganda's Jacob Kiplimo regains the world half-marathon record as he claimed victory in Lisbon on Sunday.",
+      "long_summary": "Uganda's Jacob Kiplimo regains the world half-marathon record as he claimed victory in Lisbon on Sunday.",
+      "long_summary_tr": "Uganda's Jacob Kiplimo regains the world half-marathon record as he claimed victory in Lisbon on Sunday.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/athletics/articles/c7vj9g4mp55o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5800/live/1f08f790-1b24-11f1-ac7f-bf4e01fe4a63.jpg",
+      "published_at": "2026-03-08T19:49:46+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Sadettin Saran: Adil rekabet ortamı istiyoruz",
+      "title_tr": "Sadettin Saran: Adil rekabet ortamı istiyoruz",
+      "summary": "Fenerbahçe Başkanı Sadettin Saran, Fenerbahçe’nin hakkını yedirmemek için ellerinden gelen her şeyi yaptıklarını söyleyerek, \"Adil rekabet ortamı istiyoruz\" dedi.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, konuk ettiği Samsunspor’u 2-1 mağlup etti. Mücadelenin ardından basın mensuplarına açıklamalarda bulunan Sadettin Saran, \"Futboldan memnun muyuz? Çok değiliz. Bunu da kendi aramızda masaya yatıracağız. Mücadeleden, mücadele ruhundan, son dakikaya kadar pes etmemeden gibi konularda oyuncularımızla gurur duyuyoruz. Başından beri zaten böyle bir takım oluşturmak istedik\" ifadelerini kullandı.\n\n\"Adil rekabet ortamı istiyoruz\"\n\nMücadele görev yapan hakem Oğuzhan Çakır’ın performansıyla ilgili de değerlendirmede bulunan Saran, \"Bir de hakemlere değinmek istiyorum. Dün de bugün de, hep beraber izledik, izlediniz, görüyorsunuz. Biz adil rekabet istiyoruz. Adil rekabet ortamı istiyoruz. Maalesef bu oluşturulamıyor. Korkarım bu gidişle biz kendi üstümüze düşeni inanın fazlasıyla yapıyoruz. Yapmaya da devam edeceğiz. Fenerbahçe’nin hakkını yedirmiyoruz, yedirmeyeceğiz. Yedirmemek için elimizden geleni yapıyoruz, yapacağız da. Korkarım ki bu böyle devam ederse sene sonuna maç yönetecek hakem kalmayacak\" diye konuştu.\n\n\"Taraftarımız olmadan şampiyon olamayız\"\n\nSarı-lacivertli taraftara seslenen Saran, onlar olmadan şampiyon olmalarının mümkün olmadığını söyleyerek, \"Taraftarımıza da seslenmek istiyorum. Taraftarımız olmadan şampiyon olamayız. Bunu hep söylüyorum. 90 dakika, maçın sonuna kadar taraftarımızın desteğine ihtiyacımız var. Aksi takdirde şampiyon olamayız. Oyuncularıma da güveniyorum, mücadele ruhuna da güveniyorum. Şampiyon olacağımıza inanıyoruz. Hep beraber inanıyoruz. Taraftarımız olmadan şampiyon olamayız. Lütfen son saniyeye kadar destek, ful destek, tam destek\" şeklinde konuştu.",
+      "summary_tr": "Fenerbahçe Başkanı Sadettin Saran, Fenerbahçe’nin hakkını yedirmemek için ellerinden gelen her şeyi yaptıklarını söyleyerek, \"Adil rekabet ortamı istiyoruz\" dedi.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, konuk ettiği Samsunspor’u 2-1 mağlup etti. Mücadelenin ardından basın mensuplarına açıklamalarda bulunan Sadettin Saran, \"Futboldan memnun muyuz? Çok değiliz. Bunu da kendi aramızda masaya yatıracağız. Mücadeleden, mücadele ruhundan, son dakikaya kadar pes etmemeden gibi konularda oyuncularımızla gurur duyuyoruz. Başından beri zaten böyle bir takım oluşturmak istedik\" ifadelerini kullandı.\n\n\"Adil rekabet ortamı istiyoruz\"\n\nMücadele görev yapan hakem Oğuzhan Çakır’ın performansıyla ilgili de değerlendirmede bulunan Saran, \"Bir de hakemlere değinmek istiyorum. Dün de bugün de, hep beraber izledik, izlediniz, görüyorsunuz. Biz adil rekabet istiyoruz. Adil rekabet ortamı istiyoruz. Maalesef bu oluşturulamıyor. Korkarım bu gidişle biz kendi üstümüze düşeni inanın fazlasıyla yapıyoruz. Yapmaya da devam edeceğiz. Fenerbahçe’nin hakkını yedirmiyoruz, yedirmeyeceğiz. Yedirmemek için elimizden geleni yapıyoruz, yapacağız da. Korkarım ki bu böyle devam ederse sene sonuna maç yönetecek hakem kalmayacak\" diye konuştu.\n\n\"Taraftarımız olmadan şampiyon olamayız\"\n\nSarı-lacivertli taraftara seslenen Saran, onlar olmadan şampiyon olmalarının mümkün olmadığını söyleyerek, \"Taraftarımıza da seslenmek istiyorum. Taraftarımız olmadan şampiyon olamayız. Bunu hep söylüyorum. 90 dakika, maçın sonuna kadar taraftarımızın desteğine ihtiyacımız var. Aksi takdirde şampiyon olamayız. Oyuncularıma da güveniyorum, mücadele ruhuna da güveniyorum. Şampiyon olacağımıza inanıyoruz. Hep beraber inanıyoruz. Taraftarımız olmadan şampiyon olamayız. Lütfen son saniyeye kadar destek, ful destek, tam destek\" şeklinde konuştu.",
+      "long_summary": "Fenerbahçe Başkanı Sadettin Saran, Fenerbahçe’nin hakkını yedirmemek için ellerinden gelen her şeyi yaptıklarını söyleyerek, \"Adil rekabet ortamı istiyoruz\" dedi.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, konuk ettiği Samsunspor’u 2-1 mağlup etti. Mücadelenin ardından basın mensuplarına açıklamalarda bulunan Sadettin Saran, \"Futboldan memnun muyuz? Çok değiliz. Bunu da kendi aramızda masaya yatıracağız. Mücadeleden, mücadele ruhundan, son dakikaya kadar pes etmemeden gibi konularda",
+      "long_summary_tr": "Fenerbahçe Başkanı Sadettin Saran, Fenerbahçe’nin hakkını yedirmemek için ellerinden gelen her şeyi yaptıklarını söyleyerek, \"Adil rekabet ortamı istiyoruz\" dedi.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, konuk ettiği Samsunspor’u 2-1 mağlup etti. Mücadelenin ardından basın mensuplarına açıklamalarda bulunan Sadettin Saran, \"Futboldan memnun muyuz? Çok değiliz. Bunu da kendi aramızda masaya yatıracağız. Mücadeleden, mücadele ruhundan, son dakikaya kadar pes etmemeden gibi konularda",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/sadettin-saran-adil-rekabet-ortami-istiyoruz-1591568",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/sadettin-saran-adil-rekabet-ortami-istiyoruz-1773001207-161_large.webp",
+      "published_at": "2026-03-08T19:47:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Tenis Spor Kulübü Meclis Kararına Endişeli",
+      "title_tr": "Yalova Tenis Spor Kulübü Meclis Kararına Endişeli",
+      "summary": "Yalova Belediye Meclisi’nin Mart Ayı Olağan Toplantısı’nda Yalova Tenis Spor Kulübünün mevcut yerinden çıkarılıp bölgesinin ticari konut alanı olarak değerlendirilmesine ilişkin kararın oy birliğiyle alınmasının ardından Yalova Tenis Spor Kulübü kapılarını Yalova Gazetesi’ne açtı.",
+      "summary_tr": "Yalova Belediye Meclisi’nin Mart Ayı Olağan Toplantısı’nda Yalova Tenis Spor Kulübünün mevcut yerinden çıkarılıp bölgesinin ticari konut alanı olarak değerlendirilmesine ilişkin kararın oy birliğiyle alınmasının ardından Yalova Tenis Spor Kulübü kapılarını Yalova Gazetesi’ne açtı.",
+      "long_summary": "Yalova Belediye Meclisi’nin Mart Ayı Olağan Toplantısı’nda Yalova Tenis Spor Kulübünün mevcut yerinden çıkarılıp bölgesinin ticari konut alanı olarak değerlendirilmesine ilişkin kararın oy birliğiyle alınmasının ardından Yalova Tenis Spor Kulübü kapılarını Yalova Gazetesi’ne açtı.",
+      "long_summary_tr": "Yalova Belediye Meclisi’nin Mart Ayı Olağan Toplantısı’nda Yalova Tenis Spor Kulübünün mevcut yerinden çıkarılıp bölgesinin ticari konut alanı olarak değerlendirilmesine ilişkin kararın oy birliğiyle alınmasının ardından Yalova Tenis Spor Kulübü kapılarını Yalova Gazetesi’ne açtı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-tenis-spor-kulubu-meclis-kararina-endiseli",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/manset/yalova-tenis-spor-kulup-akademi-belediye-meclis-karar-tasinma-endise-tepki-12.JPG",
+      "published_at": "2026-03-08T19:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Jennifer Lopez’s Complete Dating History, From Ojani Noa to Ben Affleck",
+      "title_tr": "Jennifer Lopez’s Complete Dating History, From Ojani Noa to Ben Affleck",
+      "summary": "Jennifer Lopez’s Complete Dating History, From Ojani Noa to Ben Affleck",
+      "summary_tr": "Jennifer Lopez’s Complete Dating History, From Ojani Noa to Ben Affleck",
+      "long_summary": "Jennifer Lopez’s Complete Dating History, From Ojani Noa to Ben Affleck",
+      "long_summary_tr": "Jennifer Lopez’s Complete Dating History, From Ojani Noa to Ben Affleck",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a61471692/jennifer-lopez-dating-history-explained/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2151826400-668d9e957b567.jpg",
+      "published_at": "2026-03-08T19:43:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Eskişehir'de kontrolden çıkan otomobil takla attı: 1 yaralı",
+      "title_tr": "Eskişehir'de kontrolden çıkan otomobil takla attı: 1 yaralı",
+      "summary": "Eskişehir'de kontrolden çıkan otomobilin takla attığı kazada 1 kişi yaralandı.Olay, saat 22.00 sıralarında Sümer Mahallesi Ulusal Egemenlik Bulvarı'nda meydana geldi. Edinilen bilgilere göre, Sazova Mahallesi istikametine doğru seyir halinde olan E.B. (21) idaresindeki 05 AAV 683 plakalı otomobil, sürücüsünün kontrolünden çıktı. Refüje girip takla atan araç, bir ağaca çarptıktan sonra yan yattı. Kazada yaralanan sürücü araçta sıkıştı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve polis ekipleri sevk edildi. İtfaiye ekiplerinin çalışması sonucu araçtan çıkarılan yaralı sürücü, ambulansla Eskişehir Osmangazi Üniversitesi (ESOGÜ) Tıp Fakültesi Hastanesi'ne kaldırıldı. İtfaiye ekipleri ayrıca, kullanılamaz hale gelen aracın akü bağlantılarını tedbiren söktü.\n\nPolis ekipleri kazayla ilgili inceleme başlattı.",
+      "summary_tr": "Eskişehir'de kontrolden çıkan otomobilin takla attığı kazada 1 kişi yaralandı.Olay, saat 22.00 sıralarında Sümer Mahallesi Ulusal Egemenlik Bulvarı'nda meydana geldi. Edinilen bilgilere göre, Sazova Mahallesi istikametine doğru seyir halinde olan E.B. (21) idaresindeki 05 AAV 683 plakalı otomobil, sürücüsünün kontrolünden çıktı. Refüje girip takla atan araç, bir ağaca çarptıktan sonra yan yattı. Kazada yaralanan sürücü araçta sıkıştı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve polis ekipleri sevk edildi. İtfaiye ekiplerinin çalışması sonucu araçtan çıkarılan yaralı sürücü, ambulansla Eskişehir Osmangazi Üniversitesi (ESOGÜ) Tıp Fakültesi Hastanesi'ne kaldırıldı. İtfaiye ekipleri ayrıca, kullanılamaz hale gelen aracın akü bağlantılarını tedbiren söktü.\n\nPolis ekipleri kazayla ilgili inceleme başlattı.",
+      "long_summary": "Eskişehir'de kontrolden çıkan otomobilin takla attığı kazada 1 kişi yaralandı.Olay, saat 22.00 sıralarında Sümer Mahallesi Ulusal Egemenlik Bulvarı'nda meydana geldi. Edinilen bilgilere göre, Sazova Mahallesi istikametine doğru seyir halinde olan E.B. (21) idaresindeki 05 AAV 683 plakalı otomobil, sürücüsünün kontrolünden çıktı. Refüje girip takla atan araç, bir ağaca çarptıktan sonra yan yattı. Kazada yaralanan sürücü araçta sıkıştı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve polis ekipleri",
+      "long_summary_tr": "Eskişehir'de kontrolden çıkan otomobilin takla attığı kazada 1 kişi yaralandı.Olay, saat 22.00 sıralarında Sümer Mahallesi Ulusal Egemenlik Bulvarı'nda meydana geldi. Edinilen bilgilere göre, Sazova Mahallesi istikametine doğru seyir halinde olan E.B. (21) idaresindeki 05 AAV 683 plakalı otomobil, sürücüsünün kontrolünden çıktı. Refüje girip takla atan araç, bir ağaca çarptıktan sonra yan yattı. Kazada yaralanan sürücü araçta sıkıştı.\n\nİhbar üzerine olay yerine sağlık, itfaiye ve polis ekipleri",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/eskisehir-de-kontrolden-cikan-otomobil-takla-atti-1-yarali-1591565",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/eskisehir-de-kontrolden-cikan-otomobil-takla-atti-1-yarali-1773001160-772_large.webp",
+      "published_at": "2026-03-08T19:41:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Macron ve Pezeşkiyan telefonda görüştü",
+      "title_tr": "Macron ve Pezeşkiyan telefonda görüştü",
+      "summary": "Fransa Cumhurbaşkanı Emmanuel Macron ile İran Cumhurbaşkanı Mesud Pezeşkiyan telefon görüşmesi gerçekleştirdi.Fransa Cumhurbaşkanı Emmanuel Macron, İran Cumhurbaşkanı Mesud Pezeşkiyan ile telefon görüşmesi gerçekleştirdi. Macron, yaptığı açıklamada, Pezeşkiyan’a İran tarafından 4 Kasım 2025’te 3 yıl sonra serbest bırakılan ve şu anda Fransa Büyükelçiliği'nde bulunan Cecile Kohler ve Jacques Paris'in güvenliğinin ve Fransa'ya dönüşünün mutlak bir öncelik olduğunu belirtti.\nPezeşkiyan ile görüşmesinde İran’ın ABD ve İsrail’in saldırılarına misilleme olarak Arap ülkelerine saldırılar düzenlemesine değinen Macron, \"İran'ın bölge ülkelerine yönelik saldırılarını derhal durdurması gerektiğini vurguladım\" dedi.\n\nMacron, \"İran ayrıca, Hürmüz Boğazı'nın fiilen kapatılmasını sona erdirerek deniz seyrüsefer özgürlüğünü garanti altına almalıdır. Son olarak, İran'ın nükleer ve balistik programlarının geliştirilmesi ve bölgedeki istikrarı bozucu faaliyetlerinin tamamı karşısında, mevcut krizin kaynağı olan bu durumlara ilişkin derin endişelerimizi yineledim. Bu hayati zorlukların üstesinden gelmek, gerilimin tırmanmasını durdurmak ve barışı korumak için diplomatik bir çözüm her zamankinden daha fazla gereklidir. İletişimde kalmaya karar verdik\" ifadelerini kullandı.",
+      "summary_tr": "Fransa Cumhurbaşkanı Emmanuel Macron ile İran Cumhurbaşkanı Mesud Pezeşkiyan telefon görüşmesi gerçekleştirdi.Fransa Cumhurbaşkanı Emmanuel Macron, İran Cumhurbaşkanı Mesud Pezeşkiyan ile telefon görüşmesi gerçekleştirdi. Macron, yaptığı açıklamada, Pezeşkiyan’a İran tarafından 4 Kasım 2025’te 3 yıl sonra serbest bırakılan ve şu anda Fransa Büyükelçiliği'nde bulunan Cecile Kohler ve Jacques Paris'in güvenliğinin ve Fransa'ya dönüşünün mutlak bir öncelik olduğunu belirtti.\nPezeşkiyan ile görüşmesinde İran’ın ABD ve İsrail’in saldırılarına misilleme olarak Arap ülkelerine saldırılar düzenlemesine değinen Macron, \"İran'ın bölge ülkelerine yönelik saldırılarını derhal durdurması gerektiğini vurguladım\" dedi.\n\nMacron, \"İran ayrıca, Hürmüz Boğazı'nın fiilen kapatılmasını sona erdirerek deniz seyrüsefer özgürlüğünü garanti altına almalıdır. Son olarak, İran'ın nükleer ve balistik programlarının geliştirilmesi ve bölgedeki istikrarı bozucu faaliyetlerinin tamamı karşısında, mevcut krizin kaynağı olan bu durumlara ilişkin derin endişelerimizi yineledim. Bu hayati zorlukların üstesinden gelmek, gerilimin tırmanmasını durdurmak ve barışı korumak için diplomatik bir çözüm her zamankinden daha fazla gereklidir. İletişimde kalmaya karar verdik\" ifadelerini kullandı.",
+      "long_summary": "Fransa Cumhurbaşkanı Emmanuel Macron ile İran Cumhurbaşkanı Mesud Pezeşkiyan telefon görüşmesi gerçekleştirdi.Fransa Cumhurbaşkanı Emmanuel Macron, İran Cumhurbaşkanı Mesud Pezeşkiyan ile telefon görüşmesi gerçekleştirdi. Macron, yaptığı açıklamada, Pezeşkiyan’a İran tarafından 4 Kasım 2025’te 3 yıl sonra serbest bırakılan ve şu anda Fransa Büyükelçiliği'nde bulunan Cecile Kohler ve Jacques Paris'in güvenliğinin ve Fransa'ya dönüşünün mutlak bir öncelik olduğunu belirtti.\nPezeşkiyan ile",
+      "long_summary_tr": "Fransa Cumhurbaşkanı Emmanuel Macron ile İran Cumhurbaşkanı Mesud Pezeşkiyan telefon görüşmesi gerçekleştirdi.Fransa Cumhurbaşkanı Emmanuel Macron, İran Cumhurbaşkanı Mesud Pezeşkiyan ile telefon görüşmesi gerçekleştirdi. Macron, yaptığı açıklamada, Pezeşkiyan’a İran tarafından 4 Kasım 2025’te 3 yıl sonra serbest bırakılan ve şu anda Fransa Büyükelçiliği'nde bulunan Cecile Kohler ve Jacques Paris'in güvenliğinin ve Fransa'ya dönüşünün mutlak bir öncelik olduğunu belirtti.\nPezeşkiyan ile",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/macron-ve-pezeskiyan-telefonda-gorustu-1591562",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/macron-ve-pezeskiyan-telefonda-gorustu-1773001105-520_large.webp",
+      "published_at": "2026-03-08T19:37:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Türkiye, KKTC’ye 6 Adet F-16 Konuşlandıracak",
+      "title_tr": "Türkiye, KKTC’ye 6 Adet F-16 Konuşlandıracak",
+      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
+      "summary_tr": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
+      "long_summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
+      "long_summary_tr": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/turkiye-kktcye-6-adet-f-16-konuslandiracak",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/03/haber/ulusal/turkiye-kktc-f16-ucak.png",
+      "published_at": "2026-03-08T19:37:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Best Deals Today: Mario Switch Games, Splatoon 3, Mario Kart World, and More",
+      "title_tr": "The Best Deals Today: Mario Switch Games, Splatoon 3, Mario Kart World, and More",
+      "summary": "The Best Deals Today: Mario Switch Games, Splatoon 3, Mario Kart World, and More",
+      "summary_tr": "The Best Deals Today: Mario Switch Games, Splatoon 3, Mario Kart World, and More",
+      "long_summary": "The Best Deals Today: Mario Switch Games, Splatoon 3, Mario Kart World, and More",
+      "long_summary_tr": "The Best Deals Today: Mario Switch Games, Splatoon 3, Mario Kart World, and More",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/best-deals-for-march-8-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/03/08/daily-deals-march-8-1772998490211.png",
+      "published_at": "2026-03-08T19:35:46+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Vladimir Almost Had a Very Different Finale. Here’s Why It Ended in Flames.",
+      "title_tr": "Vladimir Almost Had a Very Different Finale. Here’s Why It Ended in Flames.",
+      "summary": "The Netflix adaptation of Julia May Jonas’s debut novel takes a bold approach to its conclusion.",
+      "summary_tr": "The Netflix adaptation of Julia May Jonas’s debut novel takes a bold approach to its conclusion.",
+      "long_summary": "The Netflix adaptation of Julia May Jonas’s debut novel takes a bold approach to its conclusion.",
+      "long_summary_tr": "The Netflix adaptation of Julia May Jonas’s debut novel takes a bold approach to its conclusion.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a70662185/vladimir-netflix-finale-ending-explained/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/8780db69-b515-4ca8-a936-e88e1b0e7d34.png",
+      "published_at": "2026-03-08T19:32:59+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Karabük'te kaldırım taşı çalan 2 zanlı yakalandı",
+      "title_tr": "Karabük'te kaldırım taşı çalan 2 zanlı yakalandı",
+      "summary": "Karabük'te yenileme çalışmaları kapsamında refüje bırakılan kaldırım taşlarını otomobilin bagajına yükleyerek çalarken cep telefonu kamerasına yansıyan 2 şüpheli, polis ekiplerince yakalandı.Olay, Şirinevler Mahallesi 75. Yıl Kavşağı'nda meydana geldi. Karabük Belediyesi tarafından kaldırım yenileme çalışmaları kapsamında refüje bırakılan taşları fark eden 2 kişi, bir süre çevreyi kontrol ettikten sonra taşları otomobilin bagajına yüklemeye başladı. Şüpheliler kısa sürede çok sayıda kaldırım taşını araca koydu. Taşları otomobile yükleyen şüpheliler, geldikleri araçla Karabük Eğitim ve Araştırma Hastanesi yönüne doğru hızla uzaklaştı. O anlar ise çevrede bulunan bir vatandaş tarafından cep telefonu kamerasıyla kaydedildi. Görüntülerin ortaya çıkmasının ardından polis ekipleri şüphelilerin kimliklerini belirlemek ve yakalamak için çalışma başlattı. Yapılan çalışmalar sonucu hırsızlık şüphelisi 2 kişi yakalanarak gözaltına alındı. Şüphelilerin emniyetteki işlemleri sürüyor.",
+      "summary_tr": "Karabük'te yenileme çalışmaları kapsamında refüje bırakılan kaldırım taşlarını otomobilin bagajına yükleyerek çalarken cep telefonu kamerasına yansıyan 2 şüpheli, polis ekiplerince yakalandı.Olay, Şirinevler Mahallesi 75. Yıl Kavşağı'nda meydana geldi. Karabük Belediyesi tarafından kaldırım yenileme çalışmaları kapsamında refüje bırakılan taşları fark eden 2 kişi, bir süre çevreyi kontrol ettikten sonra taşları otomobilin bagajına yüklemeye başladı. Şüpheliler kısa sürede çok sayıda kaldırım taşını araca koydu. Taşları otomobile yükleyen şüpheliler, geldikleri araçla Karabük Eğitim ve Araştırma Hastanesi yönüne doğru hızla uzaklaştı. O anlar ise çevrede bulunan bir vatandaş tarafından cep telefonu kamerasıyla kaydedildi. Görüntülerin ortaya çıkmasının ardından polis ekipleri şüphelilerin kimliklerini belirlemek ve yakalamak için çalışma başlattı. Yapılan çalışmalar sonucu hırsızlık şüphelisi 2 kişi yakalanarak gözaltına alındı. Şüphelilerin emniyetteki işlemleri sürüyor.",
+      "long_summary": "Karabük'te yenileme çalışmaları kapsamında refüje bırakılan kaldırım taşlarını otomobilin bagajına yükleyerek çalarken cep telefonu kamerasına yansıyan 2 şüpheli, polis ekiplerince yakalandı.Olay, Şirinevler Mahallesi 75. Yıl Kavşağı'nda meydana geldi. Karabük Belediyesi tarafından kaldırım yenileme çalışmaları kapsamında refüje bırakılan taşları fark eden 2 kişi, bir süre çevreyi kontrol ettikten sonra taşları otomobilin bagajına yüklemeye başladı. Şüpheliler kısa sürede çok sayıda kaldırım",
+      "long_summary_tr": "Karabük'te yenileme çalışmaları kapsamında refüje bırakılan kaldırım taşlarını otomobilin bagajına yükleyerek çalarken cep telefonu kamerasına yansıyan 2 şüpheli, polis ekiplerince yakalandı.Olay, Şirinevler Mahallesi 75. Yıl Kavşağı'nda meydana geldi. Karabük Belediyesi tarafından kaldırım yenileme çalışmaları kapsamında refüje bırakılan taşları fark eden 2 kişi, bir süre çevreyi kontrol ettikten sonra taşları otomobilin bagajına yüklemeye başladı. Şüpheliler kısa sürede çok sayıda kaldırım",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/karabuk-te-kaldirim-tasi-calan-2-zanli-yakalandi-1591559",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/karabuk-te-kaldirim-tasi-calan-2-zanli-yakalandi-1773001036-915_large.webp",
+      "published_at": "2026-03-08T19:32:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Konya'da çardak yangınında 65 buzağı telef oldu",
+      "title_tr": "Konya'da çardak yangınında 65 buzağı telef oldu",
+      "summary": "Konya'nın Karapınar ilçesinde bir çardakta çıkan yangında 65 buzağı telef oldu.Yangın, Börcük Yaylası'nda meydana geldi. İddiaya göre, Z.T.'ye ait çardakta iki buzağının dünyaya gelmesinin ardından, yeni doğan buzağıların üşümemesi için çardak içerisine ısıtıcı konuldu. Bir süre sonra ısıtıcının devrilmesi sonucu çardakta yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. Ekiplerin müdahalesiyle yangın kontrol altına alınarak diğer çardaklara sıçramadan söndürüldü. Yangında çardakta bulunan 65 buzağı telef oldu.",
+      "summary_tr": "Konya'nın Karapınar ilçesinde bir çardakta çıkan yangında 65 buzağı telef oldu.Yangın, Börcük Yaylası'nda meydana geldi. İddiaya göre, Z.T.'ye ait çardakta iki buzağının dünyaya gelmesinin ardından, yeni doğan buzağıların üşümemesi için çardak içerisine ısıtıcı konuldu. Bir süre sonra ısıtıcının devrilmesi sonucu çardakta yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. Ekiplerin müdahalesiyle yangın kontrol altına alınarak diğer çardaklara sıçramadan söndürüldü. Yangında çardakta bulunan 65 buzağı telef oldu.",
+      "long_summary": "Konya'nın Karapınar ilçesinde bir çardakta çıkan yangında 65 buzağı telef oldu.Yangın, Börcük Yaylası'nda meydana geldi. İddiaya göre, Z.T.'ye ait çardakta iki buzağının dünyaya gelmesinin ardından, yeni doğan buzağıların üşümemesi için çardak içerisine ısıtıcı konuldu. Bir süre sonra ısıtıcının devrilmesi sonucu çardakta yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. Ekiplerin müdahalesiyle yangın kontrol altına alınarak diğer çardaklara sıçramadan söndürüldü. Yangında",
+      "long_summary_tr": "Konya'nın Karapınar ilçesinde bir çardakta çıkan yangında 65 buzağı telef oldu.Yangın, Börcük Yaylası'nda meydana geldi. İddiaya göre, Z.T.'ye ait çardakta iki buzağının dünyaya gelmesinin ardından, yeni doğan buzağıların üşümemesi için çardak içerisine ısıtıcı konuldu. Bir süre sonra ısıtıcının devrilmesi sonucu çardakta yangın çıktı. İhbar üzerine olay yerine itfaiye ekipleri sevk edildi. Ekiplerin müdahalesiyle yangın kontrol altına alınarak diğer çardaklara sıçramadan söndürüldü. Yangında",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/konya-da-cardak-yangininda-65-buzagi-telef-oldu-1591556",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/konya-da-cardak-yangininda-65-buzagi-telef-oldu-1773001000-741_large.webp",
+      "published_at": "2026-03-08T19:29:00+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Magazin",
@@ -22,6 +440,28 @@
       "url": "https://www.elle.com/culture/celebrities/a40678077/ryan-gosling-eva-mendes-relationship-timeline/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/e5ac4537-48e6-4d7e-9cde-b9077f15fc18.jpeg",
       "published_at": "2026-03-08T19:26:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Konya'da yolun karşısına geçerken otomobilin çarptığı yaya yaralandı",
+      "title_tr": "Konya'da yolun karşısına geçerken otomobilin çarptığı yaya yaralandı",
+      "summary": "Konya’da karşıdan karşıya geçerken otomobilin çarptığı yaya yaralandı.Kaza, saat 20.15 sıralarında merkez Selçuklu ilçesi Sancak Mahallesi Doktor Sadık Ahmet Caddesi üzerinde meydana geldi. Edinilen bilgiye göre, sürücüsünün ismi öğrenilemeyen 70 AB 787 plakalı otomobil karşıdan karşıya geçen M.D.’ye çarptı. Kazada M.D. yaralandı. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Sağlık ekipleri tarafından ilk müdahalesi yapılan yaralı, ambulansla Selçuk Üniversitesi Tıp\n\nFakültesi Hastanesine kaldırılarak tedavi altına alındı. Öte yandan, M.D.’nin kulağında kulaklık olduğu iddia edilirken, yaralının çeşitli yerlerinde kırıklar olduğu öğrenildi.\n\nKazayla ilgili tahkikat başlatıldı.",
+      "summary_tr": "Konya’da karşıdan karşıya geçerken otomobilin çarptığı yaya yaralandı.Kaza, saat 20.15 sıralarında merkez Selçuklu ilçesi Sancak Mahallesi Doktor Sadık Ahmet Caddesi üzerinde meydana geldi. Edinilen bilgiye göre, sürücüsünün ismi öğrenilemeyen 70 AB 787 plakalı otomobil karşıdan karşıya geçen M.D.’ye çarptı. Kazada M.D. yaralandı. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Sağlık ekipleri tarafından ilk müdahalesi yapılan yaralı, ambulansla Selçuk Üniversitesi Tıp\n\nFakültesi Hastanesine kaldırılarak tedavi altına alındı. Öte yandan, M.D.’nin kulağında kulaklık olduğu iddia edilirken, yaralının çeşitli yerlerinde kırıklar olduğu öğrenildi.\n\nKazayla ilgili tahkikat başlatıldı.",
+      "long_summary": "Konya’da karşıdan karşıya geçerken otomobilin çarptığı yaya yaralandı.Kaza, saat 20.15 sıralarında merkez Selçuklu ilçesi Sancak Mahallesi Doktor Sadık Ahmet Caddesi üzerinde meydana geldi. Edinilen bilgiye göre, sürücüsünün ismi öğrenilemeyen 70 AB 787 plakalı otomobil karşıdan karşıya geçen M.D.’ye çarptı. Kazada M.D. yaralandı. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Sağlık ekipleri tarafından ilk müdahalesi yapılan yaralı, ambulansla Selçuk Üniversitesi",
+      "long_summary_tr": "Konya’da karşıdan karşıya geçerken otomobilin çarptığı yaya yaralandı.Kaza, saat 20.15 sıralarında merkez Selçuklu ilçesi Sancak Mahallesi Doktor Sadık Ahmet Caddesi üzerinde meydana geldi. Edinilen bilgiye göre, sürücüsünün ismi öğrenilemeyen 70 AB 787 plakalı otomobil karşıdan karşıya geçen M.D.’ye çarptı. Kazada M.D. yaralandı. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Sağlık ekipleri tarafından ilk müdahalesi yapılan yaralı, ambulansla Selçuk Üniversitesi",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/konya-da-yolun-karsisina-gecerken-otomobilin-carptigi-yaya-yaralandi-1591553",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/konya-da-yolun-karsisina-gecerken-otomobilin-carptigi-yaya-yaralandi-1773000743-917_large.webp",
+      "published_at": "2026-03-08T19:25:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -69,6 +509,28 @@
     },
     {
       "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "ABD’nin batırdığı İran’a ait IRIS Dena fırkateyninde can kaybı 104’e yükseldi",
+      "title_tr": "ABD’nin batırdığı İran’a ait IRIS Dena fırkateyninde can kaybı 104’e yükseldi",
+      "summary": "ABD’nin Sri Lanka açıklarında batırdığı İran Donanması’na ait IRIS Dena fırkateyninde hayatını kaybedenlerin sayısı 104’e yükseldi.İran ordusu, ABD’nin Sri Lanka açıklarında 4 Mart’ta batırdığı İran donanmasına ait IRIS Dena firkateynindeki can kaybına ilişkin açıklama yaptı. Ordu, daha önce en az 80 kişinin hayatını kaybettiği açıklanan saldırıda, 104 kişinin hayatını kaybettiğin, 32 kişinin de yaralandığını bildirdi. Ordu, \"4 Mart’ta Milan 2026 Tatbikatı'ndan dönüş yolunda olan IRIS Dena fırkateyni, ABD donanmasının vahşi saldırısına uğradı. Gemide 136 kişi bulunuyordu. Bunlardan 104’ü hayatını kaybetti, hayatını kaybedenlerden 20’si ise kayıp. Ayrıca 32 kişi yaralandı ve Sri Lanka’daki bir hastanede tedavi altına alındı\" dedi.\n\nABD Donanması’nın söz konusu saldırıyı savaş bölgesinden yüzlerce mil uzaklıkta, önceden herhangi bir uyarıda bulunmadan gerçekleştirdiğini ifade eden ordu, \"Saldırıyla uluslararası teamül kuralları, insancıl hukuk ilkeleri ve uluslararası denizcilik düzenlemeleri ihlal edildi. IRIS Dena fırkateynine ateş açılması sonucu deniz güvenliğini sağlamak ve deniz diplomasisini güçlendirmek amacıyla tatbikata katılan 104 askeri personel hayatını kaybetti\" dedi.\n\nIRIS DENA FIRKATEYNİ SALDIRISI\n\nHindistan’da 4 Mart’ta düzenlenen Milan 2026 tatbikatına katıldıktan sonra İran’a dönmekte olan İran Donanması’na ait \"IRIS Dena\" fırkateyni, Hint Okyanusu’nda Sri Lanka açıklarında saldırıya uğramıştı. Uluslararası sularda meydana gelen olayın ardından gemiden yardım çağrısı yapıldığı ve bölgeye Sri Lanka Donanması’na bağlı ekiplerin sevk edildiği bildirilmişti. Arama-kurtarma çalışmalarında denizden çıkarılan yaralı personelin Sri Lanka’daki hastanelere götürülerek tedavi altına alındığı aktarılmıştı. Sri Lanka Dışişleri Bakanı Yardımcısı Arun Hemachandra, yerel basına yaptığı açıklamada olayda en az 80 kişinin hayatını kaybettiğini açıklamıştı.",
+      "summary_tr": "ABD’nin Sri Lanka açıklarında batırdığı İran Donanması’na ait IRIS Dena fırkateyninde hayatını kaybedenlerin sayısı 104’e yükseldi.İran ordusu, ABD’nin Sri Lanka açıklarında 4 Mart’ta batırdığı İran donanmasına ait IRIS Dena firkateynindeki can kaybına ilişkin açıklama yaptı. Ordu, daha önce en az 80 kişinin hayatını kaybettiği açıklanan saldırıda, 104 kişinin hayatını kaybettiğin, 32 kişinin de yaralandığını bildirdi. Ordu, \"4 Mart’ta Milan 2026 Tatbikatı'ndan dönüş yolunda olan IRIS Dena fırkateyni, ABD donanmasının vahşi saldırısına uğradı. Gemide 136 kişi bulunuyordu. Bunlardan 104’ü hayatını kaybetti, hayatını kaybedenlerden 20’si ise kayıp. Ayrıca 32 kişi yaralandı ve Sri Lanka’daki bir hastanede tedavi altına alındı\" dedi.\n\nABD Donanması’nın söz konusu saldırıyı savaş bölgesinden yüzlerce mil uzaklıkta, önceden herhangi bir uyarıda bulunmadan gerçekleştirdiğini ifade eden ordu, \"Saldırıyla uluslararası teamül kuralları, insancıl hukuk ilkeleri ve uluslararası denizcilik düzenlemeleri ihlal edildi. IRIS Dena fırkateynine ateş açılması sonucu deniz güvenliğini sağlamak ve deniz diplomasisini güçlendirmek amacıyla tatbikata katılan 104 askeri personel hayatını kaybetti\" dedi.\n\nIRIS DENA FIRKATEYNİ SALDIRISI\n\nHindistan’da 4 Mart’ta düzenlenen Milan 2026 tatbikatına katıldıktan sonra İran’a dönmekte olan İran Donanması’na ait \"IRIS Dena\" fırkateyni, Hint Okyanusu’nda Sri Lanka açıklarında saldırıya uğramıştı. Uluslararası sularda meydana gelen olayın ardından gemiden yardım çağrısı yapıldığı ve bölgeye Sri Lanka Donanması’na bağlı ekiplerin sevk edildiği bildirilmişti. Arama-kurtarma çalışmalarında denizden çıkarılan yaralı personelin Sri Lanka’daki hastanelere götürülerek tedavi altına alındığı aktarılmıştı. Sri Lanka Dışişleri Bakanı Yardımcısı Arun Hemachandra, yerel basına yaptığı açıklamada olayda en az 80 kişinin hayatını kaybettiğini açıklamıştı.",
+      "long_summary": "ABD’nin Sri Lanka açıklarında batırdığı İran Donanması’na ait IRIS Dena fırkateyninde hayatını kaybedenlerin sayısı 104’e yükseldi.İran ordusu, ABD’nin Sri Lanka açıklarında 4 Mart’ta batırdığı İran donanmasına ait IRIS Dena firkateynindeki can kaybına ilişkin açıklama yaptı. Ordu, daha önce en az 80 kişinin hayatını kaybettiği açıklanan saldırıda, 104 kişinin hayatını kaybettiğin, 32 kişinin de yaralandığını bildirdi. Ordu, \"4 Mart’ta Milan 2026 Tatbikatı'ndan dönüş yolunda olan IRIS Dena",
+      "long_summary_tr": "ABD’nin Sri Lanka açıklarında batırdığı İran Donanması’na ait IRIS Dena fırkateyninde hayatını kaybedenlerin sayısı 104’e yükseldi.İran ordusu, ABD’nin Sri Lanka açıklarında 4 Mart’ta batırdığı İran donanmasına ait IRIS Dena firkateynindeki can kaybına ilişkin açıklama yaptı. Ordu, daha önce en az 80 kişinin hayatını kaybettiği açıklanan saldırıda, 104 kişinin hayatını kaybettiğin, 32 kişinin de yaralandığını bildirdi. Ordu, \"4 Mart’ta Milan 2026 Tatbikatı'ndan dönüş yolunda olan IRIS Dena",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/abd-nin-batirdigi-iran-a-ait-iris-dena-firkateyninde-can-kaybi-104-e-yukseldi-1591550",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/abd-nin-batirdigi-iran-a-ait-iris-dena-firkateyninde-can-kaybi-104-e-yukseldi-1773000692-775_large.webp",
+      "published_at": "2026-03-08T19:19:00+00:00"
+    },
+    {
+      "origin": "turkiye",
       "category": "Gündem",
       "category_slug": "gundem",
       "is_local": false,
@@ -90,6 +552,28 @@
       "published_at": "2026-03-08T19:16:45+00:00"
     },
     {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Tekirdağ'da dolandırdığı kişiden aldığı yüklü miktarda altınla kaçarken yakalandı",
+      "title_tr": "Tekirdağ'da dolandırdığı kişiden aldığı yüklü miktarda altınla kaçarken yakalandı",
+      "summary": "Tekirdağ’ın Süleymanpaşa ilçesinde kendisini polis olarak tanıtarak bir vatandaşı dolandırmaya çalışan şüpheli, emniyet güçlerinin takibi sonucu yakalanarak tutuklandı. Altınova Mahallesi’nde meydana gelen olayda, yüklü miktarda ziynet eşyası sahibine teslim edilmek üzere muhafaza altına alındı.Tekirdağ'da kendisini polis olarak tanıtıp, dolandırmaya çalıştığı F.D.’den aldığı yüklü miktarda altınlarla kaçmak isteyen Ö.F.U., polis tarafından yakalandı.\n\nSüleymanpaşa ilçesi Altınova Mahallesi'nde yaşayan F.D.'yi telefonla arayan kişi, kendisini polis olarak tanıtıp, banka hesaplarının FETÖ tarafından kullanıldığını, örgüt üyelerine yönelik operasyon yürütüldüğünü belirterek, evindeki altınları gelen görevliye teslim etmesini istedi. F.D., 3 Mart’ta saat 05.30 sıralarında gelen Ö.F.U.’ya, evdeki altınları koyduğu poşetleri verdi. Ancak durumdan şüphelenen F.D., poşetleri geri almaya çalıştı. Şüpheli F.D.’yi itekleyip yerde sürükleyerek elindeki iki poşet dolusu altını zorla alıp, kaçtı. F.D.'nin durumu bildirmesi üzerine İl Emniyet Müdürlüğü Asayiş Şube Müdürlüğü ekipleri, Ö.F.U.'yu Altınova Mahallesi çevre yolunda takip sonucu yakaladı.\n\nYAKALANAN ŞAHIS TUTUKLANDI\n\nYakalanan Ö.F.U.'nun yanındaki çantada 216 çeyrek altın, 15 yarım altın, 47 ata lira, 4 kulplu tam altın, 1 beşibiryerde altın, 56 1 gram paketli altın, 1 adet 0,5 gram altın, 2 adet toplam 20 gram paketli altın, 16 farklı ağırlıklarda altın bilezik, 1 altın kolye, 1 altın bileklik ele geçirildi. Emniyetteki işlemlerini ardından adliyeye sevk edilen Ö.F.U., çıkarıldığı mahkemede, 'Nitelikli dolandırıcılık ve nitelikli yağma' suçlarından tutuklandı.",
+      "summary_tr": "Tekirdağ’ın Süleymanpaşa ilçesinde kendisini polis olarak tanıtarak bir vatandaşı dolandırmaya çalışan şüpheli, emniyet güçlerinin takibi sonucu yakalanarak tutuklandı. Altınova Mahallesi’nde meydana gelen olayda, yüklü miktarda ziynet eşyası sahibine teslim edilmek üzere muhafaza altına alındı.Tekirdağ'da kendisini polis olarak tanıtıp, dolandırmaya çalıştığı F.D.’den aldığı yüklü miktarda altınlarla kaçmak isteyen Ö.F.U., polis tarafından yakalandı.\n\nSüleymanpaşa ilçesi Altınova Mahallesi'nde yaşayan F.D.'yi telefonla arayan kişi, kendisini polis olarak tanıtıp, banka hesaplarının FETÖ tarafından kullanıldığını, örgüt üyelerine yönelik operasyon yürütüldüğünü belirterek, evindeki altınları gelen görevliye teslim etmesini istedi. F.D., 3 Mart’ta saat 05.30 sıralarında gelen Ö.F.U.’ya, evdeki altınları koyduğu poşetleri verdi. Ancak durumdan şüphelenen F.D., poşetleri geri almaya çalıştı. Şüpheli F.D.’yi itekleyip yerde sürükleyerek elindeki iki poşet dolusu altını zorla alıp, kaçtı. F.D.'nin durumu bildirmesi üzerine İl Emniyet Müdürlüğü Asayiş Şube Müdürlüğü ekipleri, Ö.F.U.'yu Altınova Mahallesi çevre yolunda takip sonucu yakaladı.\n\nYAKALANAN ŞAHIS TUTUKLANDI\n\nYakalanan Ö.F.U.'nun yanındaki çantada 216 çeyrek altın, 15 yarım altın, 47 ata lira, 4 kulplu tam altın, 1 beşibiryerde altın, 56 1 gram paketli altın, 1 adet 0,5 gram altın, 2 adet toplam 20 gram paketli altın, 16 farklı ağırlıklarda altın bilezik, 1 altın kolye, 1 altın bileklik ele geçirildi. Emniyetteki işlemlerini ardından adliyeye sevk edilen Ö.F.U., çıkarıldığı mahkemede, 'Nitelikli dolandırıcılık ve nitelikli yağma' suçlarından tutuklandı.",
+      "long_summary": "Tekirdağ’ın Süleymanpaşa ilçesinde kendisini polis olarak tanıtarak bir vatandaşı dolandırmaya çalışan şüpheli, emniyet güçlerinin takibi sonucu yakalanarak tutuklandı. Altınova Mahallesi’nde meydana gelen olayda, yüklü miktarda ziynet eşyası sahibine teslim edilmek üzere muhafaza altına alındı.Tekirdağ'da kendisini polis olarak tanıtıp, dolandırmaya çalıştığı F.D.’den aldığı yüklü miktarda altınlarla kaçmak isteyen Ö.F.U., polis tarafından yakalandı.\n\nSüleymanpaşa ilçesi Altınova Mahallesi'nde",
+      "long_summary_tr": "Tekirdağ’ın Süleymanpaşa ilçesinde kendisini polis olarak tanıtarak bir vatandaşı dolandırmaya çalışan şüpheli, emniyet güçlerinin takibi sonucu yakalanarak tutuklandı. Altınova Mahallesi’nde meydana gelen olayda, yüklü miktarda ziynet eşyası sahibine teslim edilmek üzere muhafaza altına alındı.Tekirdağ'da kendisini polis olarak tanıtıp, dolandırmaya çalıştığı F.D.’den aldığı yüklü miktarda altınlarla kaçmak isteyen Ö.F.U., polis tarafından yakalandı.\n\nSüleymanpaşa ilçesi Altınova Mahallesi'nde",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/tekirdag-da-dolandirdigi-kisiden-aldigi-yuklu-miktarda-altinla-kacarken-yakalandi-1591547",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/tekirdag-da-dolandirdigi-kisiden-aldigi-yuklu-miktarda-altinla-kacarken-yakalandi-1773000626-33_large.webp",
+      "published_at": "2026-03-08T19:15:00+00:00"
+    },
+    {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
@@ -97,10 +581,10 @@
       "source": "BBC Sport",
       "title": "'Sloppy' England display against Italy shows 'lack of confidence'",
       "title_tr": "'Sloppy' England display against Italy shows 'lack of confidence'",
-      "summary": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, which saw Steve Borthwick's side lose 23-18 in the Six Nations at the Stadio Olimpico in Rome.",
-      "summary_tr": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, which saw Steve Borthwick's side lose 23-18 in the Six Nations at the Stadio Olimpico in Rome.",
-      "long_summary": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, which saw Steve Borthwick's side lose 23-18 in the Six Nations at the Stadio Olimpico in Rome.",
-      "long_summary_tr": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, which saw Steve Borthwick's side lose 23-18 in the Six Nations at the Stadio Olimpico in Rome.",
+      "summary": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, as coach Steve Borthwick's side lost 23-18 in Rome.",
+      "summary_tr": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, as coach Steve Borthwick's side lost 23-18 in Rome.",
+      "long_summary": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, as coach Steve Borthwick's side lost 23-18 in Rome.",
+      "long_summary_tr": "Rugby Special's John Barclay and Sam Warburton believes there is a \"lack of clarity\" within the England squad after a \"disjointed\" performance against Italy, as coach Steve Borthwick's side lost 23-18 in Rome.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
@@ -110,6 +594,72 @@
       "url": "https://www.bbc.com/sport/rugby-union/videos/cgqgp54kx97o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cbf/live/b50943b0-1b21-11f1-b048-c9424b2cf5fd.jpg",
       "published_at": "2026-03-08T19:13:06+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "ABD-İsrail'in İran'a saldırılarından sonra Irak'ın petrol üretimi yüzde 60 düştü",
+      "title_tr": "ABD-İsrail'in İran'a saldırılarından sonra Irak'ın petrol üretimi yüzde 60 düştü",
+      "summary": "Irak Petrol Bakanlığı, ABD ve İsrail’in İran’a yönelik başlattığı askeri operasyonların ardından ülkedeki günlük petrol üretiminde keskin bir düşüş yaşandığını bildirdi. Saha ve Lisans İşleri Şirketi Genel Müdür Yardımcısı Kazım Abdulhasan Kerim, üretim rakamlarındaki gerilemeye dair resmi verileri paylaştı.Irak'ta günlük petrol üretiminin, ABD-İsrail'in İran'a yönelik saldırılarından sonra yaklaşık yüzde 60 düştüğü bildirildi.\n\nIrak Petrol Bakanlığı bünyesindeki Saha ve Lisans İşleri Şirketi Genel Müdür Yardımcısı Kazım Abdulhasan Kerim, ülkenin petrol üretimiyle ilgili açıklama yaptı.\n\nKerim, ülkedeki petrol üretiminin ABD-İsrail'in İran'a yönelik saldırılarından sonra yaklaşık yüzde 60 düştüğünü, günlük 3,3 milyon varilden 1,3 milyon varile gerilediğini kaydetti.\n\nBasra vilayetinin güneybatısındaki Bercisiye petrol bölgesinin 2 insansız hava aracıyla (İHA) hedef alındığını ve bölgede faaliyet gösteren yabancı firmalardan birinin depolarında hasar oluştuğunu ifade eden Kerim, petrol üretim tesislerinin ise etkilenmediğini aktardı.\n\nIrak, 3 Mart Salı günü Hürmüz Boğazı'nın kapanması sonucu azalan ihracat nedeniyle ham petrol üretimini düşüreceğini duyurmuştu.\n\nABD VE İSRAİL'İN İRAN'A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Vasington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİran'ın Birleşmiş Milletler (BM) Daimi Temsilcisi Said İravani, BM'de yaptığı açıklamada, saldırıların başlamasından bu yana en az 1332 İranlı sivilin hayatını kaybettiğini, binlerce kişinin yaralandığını duyurdu.",
+      "summary_tr": "Irak Petrol Bakanlığı, ABD ve İsrail’in İran’a yönelik başlattığı askeri operasyonların ardından ülkedeki günlük petrol üretiminde keskin bir düşüş yaşandığını bildirdi. Saha ve Lisans İşleri Şirketi Genel Müdür Yardımcısı Kazım Abdulhasan Kerim, üretim rakamlarındaki gerilemeye dair resmi verileri paylaştı.Irak'ta günlük petrol üretiminin, ABD-İsrail'in İran'a yönelik saldırılarından sonra yaklaşık yüzde 60 düştüğü bildirildi.\n\nIrak Petrol Bakanlığı bünyesindeki Saha ve Lisans İşleri Şirketi Genel Müdür Yardımcısı Kazım Abdulhasan Kerim, ülkenin petrol üretimiyle ilgili açıklama yaptı.\n\nKerim, ülkedeki petrol üretiminin ABD-İsrail'in İran'a yönelik saldırılarından sonra yaklaşık yüzde 60 düştüğünü, günlük 3,3 milyon varilden 1,3 milyon varile gerilediğini kaydetti.\n\nBasra vilayetinin güneybatısındaki Bercisiye petrol bölgesinin 2 insansız hava aracıyla (İHA) hedef alındığını ve bölgede faaliyet gösteren yabancı firmalardan birinin depolarında hasar oluştuğunu ifade eden Kerim, petrol üretim tesislerinin ise etkilenmediğini aktardı.\n\nIrak, 3 Mart Salı günü Hürmüz Boğazı'nın kapanması sonucu azalan ihracat nedeniyle ham petrol üretimini düşüreceğini duyurmuştu.\n\nABD VE İSRAİL'İN İRAN'A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Vasington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİran'ın Birleşmiş Milletler (BM) Daimi Temsilcisi Said İravani, BM'de yaptığı açıklamada, saldırıların başlamasından bu yana en az 1332 İranlı sivilin hayatını kaybettiğini, binlerce kişinin yaralandığını duyurdu.",
+      "long_summary": "Irak Petrol Bakanlığı, ABD ve İsrail’in İran’a yönelik başlattığı askeri operasyonların ardından ülkedeki günlük petrol üretiminde keskin bir düşüş yaşandığını bildirdi. Saha ve Lisans İşleri Şirketi Genel Müdür Yardımcısı Kazım Abdulhasan Kerim, üretim rakamlarındaki gerilemeye dair resmi verileri paylaştı.Irak'ta günlük petrol üretiminin, ABD-İsrail'in İran'a yönelik saldırılarından sonra yaklaşık yüzde 60 düştüğü bildirildi.\n\nIrak Petrol Bakanlığı bünyesindeki Saha ve Lisans İşleri Şirketi",
+      "long_summary_tr": "Irak Petrol Bakanlığı, ABD ve İsrail’in İran’a yönelik başlattığı askeri operasyonların ardından ülkedeki günlük petrol üretiminde keskin bir düşüş yaşandığını bildirdi. Saha ve Lisans İşleri Şirketi Genel Müdür Yardımcısı Kazım Abdulhasan Kerim, üretim rakamlarındaki gerilemeye dair resmi verileri paylaştı.Irak'ta günlük petrol üretiminin, ABD-İsrail'in İran'a yönelik saldırılarından sonra yaklaşık yüzde 60 düştüğü bildirildi.\n\nIrak Petrol Bakanlığı bünyesindeki Saha ve Lisans İşleri Şirketi",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/abd-israil-in-iran-a-saldirilarindan-sonra-irak-in-petrol-uretimi-yuzde-60-dustu-1591544",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/abd-israil-in-iran-a-saldirilarindan-sonra-irak-in-petrol-uretimi-yuzde-60-dustu-1773000530-893_large.webp",
+      "published_at": "2026-03-08T19:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Uzmanı uyardı: Gereksiz aspirin bu tetkiklere yol açıyor",
+      "title_tr": "Uzmanı uyardı: Gereksiz aspirin bu tetkiklere yol açıyor",
+      "summary": "Samsun Ondokuz Mayıs Üniversitesi'nden (OMÜ) Dr. Öğr. Üyesi Özgür Kılıç, son yıllarda artan aspirin kullanımına ilişkin, \"Aspirin kullanan bazı hastalar bize halsizlik ve çabuk yorulma gibi şikayetlerle başvurabiliyor. Bu durumlarda hastalarda mide veya bağırsak kaynaklı kanama olup olmadığını araştırmak için endoskopi ve kolonoskopi gibi tetkikler yapmak zorunda kalıyoruz. Çoğu zaman bu tetkiklerin nedeni, gereksiz yere kullanılan aspirindir\" dedi.OMÜ Tıp Fakültesi Dahili Tıp Bilimleri Bölümü İç Hastalıkları Anabilim Dalı Dr. Öğr. Üyesi Özgür Kılıç, \"Son yıllarda aspirin kullanımı konusunda toplumda ciddi bir kafa karışıklığı olduğunu görüyoruz. Uzun yıllar boyunca kalp hastalığı riski taşıyan kişilere koruyucu amaçla düşük doz aspirin kullanımı önerilirdi. Ancak son yıllarda yapılan geniş ve güçlü bilimsel çalışmalar, kalp krizi veya inme geçirmemiş kişilerde aspirinin koruyucu amaçla rutin kullanımının çoğu zaman beklenen faydayı sağlamadığını, buna karşılık bazı önemli riskler oluşturabileceğini ortaya koydu. Bu nedenle modern tıp rehberlerinde bu yaklaşım, büyük ölçüde terk edildi\" diye konuştu.\n\nEN ÖNEMLİ YAN ETKİSİ, KANAMA RİSKİ\n\nDr. Kılıç, \"Aspirin aslında çok önemli bir ilaçtır. Çünkü trombosit dediğimiz pıhtılaşma hücrelerinin birbirine yapışmasını engeller. Bu sayede damar içinde pıhtı oluşumunu azaltır. Bu nedenle kalp krizi geçirmiş, stent takılmış veya inme geçirmiş hastalarda damarların yeniden tıkanmasını önlemek için yaygın olarak kullanılır. Bu durumlarda aspirin gerçekten hayat kurtarıcı bir ilaçtır. Ancak her ilaç gibi aspirinin de faydalı etkilerinin yanında yan etkileri vardır. En önemli yan etkilerinden biri, kanama riskidir. Özellikle mide ve bağırsak sisteminde kanamaya neden olabilir. Bazen büyük bir kanama şeklinde ortaya çıkabilir, bazen de fark edilmeyen küçük kanamalar yaparak zamanla demir eksikliği anemisine yol açabilir. Bu nedenle uzun süre aspirin kullanan bazı hastalar bize halsizlik ve çabuk yorulma gibi şikayetlerle başvurabiliyor. Bu durumlarda hastalarda mide veya bağırsak kaynaklı kanama olup olmadığını araştırmak için endoskopi ve kolonoskopi gibi tetkikler yapmak zorunda kalıyoruz. Çoğu zaman bu tetkiklerin nedeni, gereksiz yere kullanılan aspirindir. Bu durum hem hastalar için fiziksel ve psikolojik stres oluşturmakta hem de sağlık sistemi açısından gereksiz iş yükü ve maliyet yaratmaktadır\" dedi.\n\n'DÜŞÜK DOZ ASPİRİN DE CİDDİ KANAMALARA NEDEN OLABİLİR'\n\nPandemide aspirin kullanımının arttığını söyleyen Dr. Kılıç, \"O dönemde bazı kişiler, COVID-19'un pıhtılaşma riskini artırabileceği düşüncesi ile kendi kendilerine aspirin kullanmaya başladılar. Ancak bugün geldiğimiz noktada, o dönemde başlanmış olan aspirinin mutlaka bir uzman doktor tarafından yeniden değerlendirilmesi gerekir. Gereksiz yere devam edilmesi doğru değildir. Bir diğer sorun da halk arasında 'bebek aspirini zararsızdır' şeklinde yanlış bir algının oluşmuş olmasıdır. Tadının daha hoş olması veya dozunun düşük olması, bu ilacın tamamen zararsız olduğu anlamına gelmez. Düşük doz aspirin de ciddi kanamalara neden olabilir. Bu nedenle en önemli mesaj şu; aspirin çok değerli bir ilaçtır ama doğru hastada ve doğru endikasyonla kullanıldığında faydalıdır. Kişilerin kendi kendilerine 'kalp krizi olmasın' düşüncesi ile aspirin kullanmaları doğru değildir. Aspirinin başlanmasına da kesilmesine de mutlaka ilgili uzman doktor karar vermelidir. Unutulmamalıdır ki her ilaç gibi aspirin de hem dost hem düşman yüzü olan bir ilaçtır. Doğru kullanıldığında hayat kurtarır, yanlış kullanıldığında ise ciddi sağlık sorunlarına yol açabilir\" diye konuştu.",
+      "summary_tr": "Samsun Ondokuz Mayıs Üniversitesi'nden (OMÜ) Dr. Öğr. Üyesi Özgür Kılıç, son yıllarda artan aspirin kullanımına ilişkin, \"Aspirin kullanan bazı hastalar bize halsizlik ve çabuk yorulma gibi şikayetlerle başvurabiliyor. Bu durumlarda hastalarda mide veya bağırsak kaynaklı kanama olup olmadığını araştırmak için endoskopi ve kolonoskopi gibi tetkikler yapmak zorunda kalıyoruz. Çoğu zaman bu tetkiklerin nedeni, gereksiz yere kullanılan aspirindir\" dedi.OMÜ Tıp Fakültesi Dahili Tıp Bilimleri Bölümü İç Hastalıkları Anabilim Dalı Dr. Öğr. Üyesi Özgür Kılıç, \"Son yıllarda aspirin kullanımı konusunda toplumda ciddi bir kafa karışıklığı olduğunu görüyoruz. Uzun yıllar boyunca kalp hastalığı riski taşıyan kişilere koruyucu amaçla düşük doz aspirin kullanımı önerilirdi. Ancak son yıllarda yapılan geniş ve güçlü bilimsel çalışmalar, kalp krizi veya inme geçirmemiş kişilerde aspirinin koruyucu amaçla rutin kullanımının çoğu zaman beklenen faydayı sağlamadığını, buna karşılık bazı önemli riskler oluşturabileceğini ortaya koydu. Bu nedenle modern tıp rehberlerinde bu yaklaşım, büyük ölçüde terk edildi\" diye konuştu.\n\nEN ÖNEMLİ YAN ETKİSİ, KANAMA RİSKİ\n\nDr. Kılıç, \"Aspirin aslında çok önemli bir ilaçtır. Çünkü trombosit dediğimiz pıhtılaşma hücrelerinin birbirine yapışmasını engeller. Bu sayede damar içinde pıhtı oluşumunu azaltır. Bu nedenle kalp krizi geçirmiş, stent takılmış veya inme geçirmiş hastalarda damarların yeniden tıkanmasını önlemek için yaygın olarak kullanılır. Bu durumlarda aspirin gerçekten hayat kurtarıcı bir ilaçtır. Ancak her ilaç gibi aspirinin de faydalı etkilerinin yanında yan etkileri vardır. En önemli yan etkilerinden biri, kanama riskidir. Özellikle mide ve bağırsak sisteminde kanamaya neden olabilir. Bazen büyük bir kanama şeklinde ortaya çıkabilir, bazen de fark edilmeyen küçük kanamalar yaparak zamanla demir eksikliği anemisine yol açabilir. Bu nedenle uzun süre aspirin kullanan bazı hastalar bize halsizlik ve çabuk yorulma gibi şikayetlerle başvurabiliyor. Bu durumlarda hastalarda mide veya bağırsak kaynaklı kanama olup olmadığını araştırmak için endoskopi ve kolonoskopi gibi tetkikler yapmak zorunda kalıyoruz. Çoğu zaman bu tetkiklerin nedeni, gereksiz yere kullanılan aspirindir. Bu durum hem hastalar için fiziksel ve psikolojik stres oluşturmakta hem de sağlık sistemi açısından gereksiz iş yükü ve maliyet yaratmaktadır\" dedi.\n\n'DÜŞÜK DOZ ASPİRİN DE CİDDİ KANAMALARA NEDEN OLABİLİR'\n\nPandemide aspirin kullanımının arttığını söyleyen Dr. Kılıç, \"O dönemde bazı kişiler, COVID-19'un pıhtılaşma riskini artırabileceği düşüncesi ile kendi kendilerine aspirin kullanmaya başladılar. Ancak bugün geldiğimiz noktada, o dönemde başlanmış olan aspirinin mutlaka bir uzman doktor tarafından yeniden değerlendirilmesi gerekir. Gereksiz yere devam edilmesi doğru değildir. Bir diğer sorun da halk arasında 'bebek aspirini zararsızdır' şeklinde yanlış bir algının oluşmuş olmasıdır. Tadının daha hoş olması veya dozunun düşük olması, bu ilacın tamamen zararsız olduğu anlamına gelmez. Düşük doz aspirin de ciddi kanamalara neden olabilir. Bu nedenle en önemli mesaj şu; aspirin çok değerli bir ilaçtır ama doğru hastada ve doğru endikasyonla kullanıldığında faydalıdır. Kişilerin kendi kendilerine 'kalp krizi olmasın' düşüncesi ile aspirin kullanmaları doğru değildir. Aspirinin başlanmasına da kesilmesine de mutlaka ilgili uzman doktor karar vermelidir. Unutulmamalıdır ki her ilaç gibi aspirin de hem dost hem düşman yüzü olan bir ilaçtır. Doğru kullanıldığında hayat kurtarır, yanlış kullanıldığında ise ciddi sağlık sorunlarına yol açabilir\" diye konuştu.",
+      "long_summary": "Samsun Ondokuz Mayıs Üniversitesi'nden (OMÜ) Dr. Öğr. Üyesi Özgür Kılıç, son yıllarda artan aspirin kullanımına ilişkin, \"Aspirin kullanan bazı hastalar bize halsizlik ve çabuk yorulma gibi şikayetlerle başvurabiliyor. Bu durumlarda hastalarda mide veya bağırsak kaynaklı kanama olup olmadığını araştırmak için endoskopi ve kolonoskopi gibi tetkikler yapmak zorunda kalıyoruz. Çoğu zaman bu tetkiklerin nedeni, gereksiz yere kullanılan aspirindir\" dedi.OMÜ Tıp Fakültesi Dahili Tıp Bilimleri Bölümü",
+      "long_summary_tr": "Samsun Ondokuz Mayıs Üniversitesi'nden (OMÜ) Dr. Öğr. Üyesi Özgür Kılıç, son yıllarda artan aspirin kullanımına ilişkin, \"Aspirin kullanan bazı hastalar bize halsizlik ve çabuk yorulma gibi şikayetlerle başvurabiliyor. Bu durumlarda hastalarda mide veya bağırsak kaynaklı kanama olup olmadığını araştırmak için endoskopi ve kolonoskopi gibi tetkikler yapmak zorunda kalıyoruz. Çoğu zaman bu tetkiklerin nedeni, gereksiz yere kullanılan aspirindir\" dedi.OMÜ Tıp Fakültesi Dahili Tıp Bilimleri Bölümü",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/saglik/uzmani-uyardi-gereksiz-aspirin-bu-tetkiklere-yol-aciyor-1591541",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/uzmani-uyardi-gereksiz-aspirin-bu-tetkiklere-yol-aciyor-1773000476-893_large.webp",
+      "published_at": "2026-03-08T19:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Telefon hattı kopyalanıp arkadaşlarından para istendi: Başkasının canı yanmasın",
+      "title_tr": "Telefon hattı kopyalanıp arkadaşlarından para istendi: Başkasının canı yanmasın",
+      "summary": "Antalya’nın Gazipaşa ilçesinde yaşayan Sezer Sarı, telefon hattının kopyalanması yöntemiyle gerçekleştirilen bir dolandırıcılık olayının mağduru olduğunu belirterek adli makamlara şikayette bulundu. Dolandırıcıların, kopyalanan hat üzerinden WhatsApp hesabı açarak mağdurun yakınlarından para talep ettiği bildirildi.Antalya’nın Gazipaşa ilçesinde telefon hattının kopyalandığını iddia eden bir vatandaş dolandırıcılık olayının mağduru oldu. Kendi adına açılan WhatsApp hesabı üzerinden arkadaşlarından para istendiğini belirten Sezer Sarı, \"Benim canım yandı, başkasının yanmasın\" diyerek vatandaşların dikkatli olmasını istedi.\n\nGazipaşa’da yaşayan Sezer Sarı, son dönemde yaygınlaşan yeni bir dolandırıcılık yönteminin mağduru oldu. Normal bir telefon görüşmesiyle başlayan sürecin kısa sürede dolandırıcılığa dönüştüğünü söyleyen Sarı, yaşadıklarını anlattı. İddiaya göre kendisini arayan kişiler, Tivibu kurulumu için talep oluşturulduğunu belirterek kendisinden bilgi almak istediklerini söyledi. Ancak Sarı, böyle bir talebi olmadığını belirterek durumu kabul etmedi. Görüşme sırasında Türk Telekom üzerinden telefonuna bir onay kodu geldiğini belirten Sezer Sarı, daha sonra hattının kopyalandığını öğrendiğini söyledi.\n\nARKADAŞLARINDAN PARA TALEBİNDE BULUNULMUŞ\n\nHattın kopyalanmasının ardından dolandırıcıların kendi adına yeni bir WhatsApp hesabı oluşturduklarını söyleyen Sarı, bu süreçte telefonunun sürekli meşgul çaldığını ve arama kısıtlamasına alındığını fark ettiğini, bu nedenle gelen aramaları cevaplayamadığını belirtti. Sarı, dolandırıcıların WhatsApp üzerinden telefon rehberinde bulunan kişilere mesaj gönderdiği ve acil nakit ihtiyacı olduğu belirtilerek para talebinde bulunduğunu öğrendiğini söyledi. Bazı arkadaşlarının bu mesajları gerçek zannederek farklı miktarlarda kendilerine gönderilen IBAN’a para gönderdiklerini belirten Sarı, yaşanan durumun kendisini oldukça zor durumda bıraktığını dile getirdi.\n\n\"BENİM CANIM YANDI, BAŞKASININKİ YANMASIN\"\n\nDolandırıcıların mesajlarda kendi adını kullanmadığını, ancak aynı soyadı taşıyan yeğeni ve amcasının isimlerini kullanarak güven sağlamaya çalıştıklarını da ifade eden Sarı, durumu fark eder etmez yetkililere giderek şikayetçi olduğunu belirtti. Benzer olayların başkalarının da başına gelmemesi için dikkatli olunması gerektiğini vurgulayarak vatandaşlara şu uyarıda bulanan Sarı, \"Benim canım yandı, başkasının canı yanmasın. Tanımadığınız kişilerden gelen aramalara dikkat edin. Telefonunuza gelen doğrulama kodlarını kesinlikle kimseyle paylaşmayın. Böyle durumlarda hemen operatörünüzle ve emniyetle iletişime geçin\" dedi.\n\nYetkililer ise son dönemde telefon hattı kopyalama ve WhatsApp hesaplarının ele geçirilmesi yöntemiyle yapılan dolandırıcılık vakalarında artış yaşandığını belirterek vatandaşları dikkatli olmaları konusunda uyardı.",
+      "summary_tr": "Antalya’nın Gazipaşa ilçesinde yaşayan Sezer Sarı, telefon hattının kopyalanması yöntemiyle gerçekleştirilen bir dolandırıcılık olayının mağduru olduğunu belirterek adli makamlara şikayette bulundu. Dolandırıcıların, kopyalanan hat üzerinden WhatsApp hesabı açarak mağdurun yakınlarından para talep ettiği bildirildi.Antalya’nın Gazipaşa ilçesinde telefon hattının kopyalandığını iddia eden bir vatandaş dolandırıcılık olayının mağduru oldu. Kendi adına açılan WhatsApp hesabı üzerinden arkadaşlarından para istendiğini belirten Sezer Sarı, \"Benim canım yandı, başkasının yanmasın\" diyerek vatandaşların dikkatli olmasını istedi.\n\nGazipaşa’da yaşayan Sezer Sarı, son dönemde yaygınlaşan yeni bir dolandırıcılık yönteminin mağduru oldu. Normal bir telefon görüşmesiyle başlayan sürecin kısa sürede dolandırıcılığa dönüştüğünü söyleyen Sarı, yaşadıklarını anlattı. İddiaya göre kendisini arayan kişiler, Tivibu kurulumu için talep oluşturulduğunu belirterek kendisinden bilgi almak istediklerini söyledi. Ancak Sarı, böyle bir talebi olmadığını belirterek durumu kabul etmedi. Görüşme sırasında Türk Telekom üzerinden telefonuna bir onay kodu geldiğini belirten Sezer Sarı, daha sonra hattının kopyalandığını öğrendiğini söyledi.\n\nARKADAŞLARINDAN PARA TALEBİNDE BULUNULMUŞ\n\nHattın kopyalanmasının ardından dolandırıcıların kendi adına yeni bir WhatsApp hesabı oluşturduklarını söyleyen Sarı, bu süreçte telefonunun sürekli meşgul çaldığını ve arama kısıtlamasına alındığını fark ettiğini, bu nedenle gelen aramaları cevaplayamadığını belirtti. Sarı, dolandırıcıların WhatsApp üzerinden telefon rehberinde bulunan kişilere mesaj gönderdiği ve acil nakit ihtiyacı olduğu belirtilerek para talebinde bulunduğunu öğrendiğini söyledi. Bazı arkadaşlarının bu mesajları gerçek zannederek farklı miktarlarda kendilerine gönderilen IBAN’a para gönderdiklerini belirten Sarı, yaşanan durumun kendisini oldukça zor durumda bıraktığını dile getirdi.\n\n\"BENİM CANIM YANDI, BAŞKASININKİ YANMASIN\"\n\nDolandırıcıların mesajlarda kendi adını kullanmadığını, ancak aynı soyadı taşıyan yeğeni ve amcasının isimlerini kullanarak güven sağlamaya çalıştıklarını da ifade eden Sarı, durumu fark eder etmez yetkililere giderek şikayetçi olduğunu belirtti. Benzer olayların başkalarının da başına gelmemesi için dikkatli olunması gerektiğini vurgulayarak vatandaşlara şu uyarıda bulanan Sarı, \"Benim canım yandı, başkasının canı yanmasın. Tanımadığınız kişilerden gelen aramalara dikkat edin. Telefonunuza gelen doğrulama kodlarını kesinlikle kimseyle paylaşmayın. Böyle durumlarda hemen operatörünüzle ve emniyetle iletişime geçin\" dedi.\n\nYetkililer ise son dönemde telefon hattı kopyalama ve WhatsApp hesaplarının ele geçirilmesi yöntemiyle yapılan dolandırıcılık vakalarında artış yaşandığını belirterek vatandaşları dikkatli olmaları konusunda uyardı.",
+      "long_summary": "Antalya’nın Gazipaşa ilçesinde yaşayan Sezer Sarı, telefon hattının kopyalanması yöntemiyle gerçekleştirilen bir dolandırıcılık olayının mağduru olduğunu belirterek adli makamlara şikayette bulundu. Dolandırıcıların, kopyalanan hat üzerinden WhatsApp hesabı açarak mağdurun yakınlarından para talep ettiği bildirildi.Antalya’nın Gazipaşa ilçesinde telefon hattının kopyalandığını iddia eden bir vatandaş dolandırıcılık olayının mağduru oldu. Kendi adına açılan WhatsApp hesabı üzerinden",
+      "long_summary_tr": "Antalya’nın Gazipaşa ilçesinde yaşayan Sezer Sarı, telefon hattının kopyalanması yöntemiyle gerçekleştirilen bir dolandırıcılık olayının mağduru olduğunu belirterek adli makamlara şikayette bulundu. Dolandırıcıların, kopyalanan hat üzerinden WhatsApp hesabı açarak mağdurun yakınlarından para talep ettiği bildirildi.Antalya’nın Gazipaşa ilçesinde telefon hattının kopyalandığını iddia eden bir vatandaş dolandırıcılık olayının mağduru oldu. Kendi adına açılan WhatsApp hesabı üzerinden",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/telefon-hatti-kopyalanip-arkadaslarindan-para-istendi-baskasinin-cani-yanmasin-1591538",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/telefon-hatti-kopyalanip-arkadaslarindan-para-istendi-baskasinin-cani-yanmasin-1773000423-146_large.webp",
+      "published_at": "2026-03-08T19:03:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -161,6 +711,50 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
+      "title": "New Zealand's hearts broken again as India add to white-ball dynasty",
+      "title_tr": "New Zealand's hearts broken again as India add to white-ball dynasty",
+      "summary": "\"I wouldn't mind breaking a few hearts,\" said New Zealand captain Mitchell Santner on the eve of the T20 World Cup final against India in their opponents' homeland.",
+      "summary_tr": "\"I wouldn't mind breaking a few hearts,\" said New Zealand captain Mitchell Santner on the eve of the T20 World Cup final against India in their opponents' homeland.",
+      "long_summary": "\"I wouldn't mind breaking a few hearts,\" said New Zealand captain Mitchell Santner on the eve of the T20 World Cup final against India in their opponents' homeland.",
+      "long_summary_tr": "\"I wouldn't mind breaking a few hearts,\" said New Zealand captain Mitchell Santner on the eve of the T20 World Cup final against India in their opponents' homeland.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/cricket/news/12040/13517034/t20-world-cup-virtually-unbeatable-india-add-to-white-ball-dynasty-as-new-zealands-hearts-broken-again-in-final",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-india-mens-t20-cricket_7186175.jpg?20260308162421",
+      "published_at": "2026-03-08T19:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Fenerbahçe'ye yıldız isimden kötü haber: Cezalı duruma düştü",
+      "title_tr": "Fenerbahçe'ye yıldız isimden kötü haber: Cezalı duruma düştü",
+      "summary": "Süper Lig’in 25. haftasında Fenerbahçe konuk ettiği Samsunspor'u 3-2 mağlup etti. Karşılaşmada sarı kart gören sarı-lacivertlilerin yıldız ismi cezalı duruma düştü.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, evinde Samsunspor ile karşılaştı. Sarı-lacivertlilerde Brezilyalı kaleci Ederson, ilk yarının bitiminde hakem Oğuzhan Çakır’a itirazda bulununca sarı kart gördü. Ederson, bu kartla cezalı duruma düştü.\n\nBrezilyalı kaleci, gelecek hafta oynanacak Fatih Karagümrük müsabakasında forma giyemeyecek.\n\nEderson, bu sezon Antalyaspor, Galatasaray ve Trabzonspor maçlarında sarı kart görürken, 19 maçta da kaleyi korudu.",
+      "summary_tr": "Süper Lig’in 25. haftasında Fenerbahçe konuk ettiği Samsunspor'u 3-2 mağlup etti. Karşılaşmada sarı kart gören sarı-lacivertlilerin yıldız ismi cezalı duruma düştü.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, evinde Samsunspor ile karşılaştı. Sarı-lacivertlilerde Brezilyalı kaleci Ederson, ilk yarının bitiminde hakem Oğuzhan Çakır’a itirazda bulununca sarı kart gördü. Ederson, bu kartla cezalı duruma düştü.\n\nBrezilyalı kaleci, gelecek hafta oynanacak Fatih Karagümrük müsabakasında forma giyemeyecek.\n\nEderson, bu sezon Antalyaspor, Galatasaray ve Trabzonspor maçlarında sarı kart görürken, 19 maçta da kaleyi korudu.",
+      "long_summary": "Süper Lig’in 25. haftasında Fenerbahçe konuk ettiği Samsunspor'u 3-2 mağlup etti. Karşılaşmada sarı kart gören sarı-lacivertlilerin yıldız ismi cezalı duruma düştü.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, evinde Samsunspor ile karşılaştı. Sarı-lacivertlilerde Brezilyalı kaleci Ederson, ilk yarının bitiminde hakem Oğuzhan Çakır’a itirazda bulununca sarı kart gördü. Ederson, bu kartla cezalı duruma düştü.\n\nBrezilyalı kaleci, gelecek hafta oynanacak Fatih Karagümrük müsabakasında forma",
+      "long_summary_tr": "Süper Lig’in 25. haftasında Fenerbahçe konuk ettiği Samsunspor'u 3-2 mağlup etti. Karşılaşmada sarı kart gören sarı-lacivertlilerin yıldız ismi cezalı duruma düştü.Trendyol Süper Lig’in 25. haftasında Fenerbahçe, evinde Samsunspor ile karşılaştı. Sarı-lacivertlilerde Brezilyalı kaleci Ederson, ilk yarının bitiminde hakem Oğuzhan Çakır’a itirazda bulununca sarı kart gördü. Ederson, bu kartla cezalı duruma düştü.\n\nBrezilyalı kaleci, gelecek hafta oynanacak Fatih Karagümrük müsabakasında forma",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/fenerbahce-ye-yildiz-isimden-kotu-haber-cezali-duruma-dustu-1591535",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/fenerbahce-ye-yildiz-isimden-kotu-haber-cezali-duruma-dustu-1773000377-497_large.webp",
+      "published_at": "2026-03-08T18:59:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
       "title": "Police Scotland confirm arrests made after 'despicable' Old Firm pitch invasion",
       "title_tr": "Police Scotland confirm arrests made after 'despicable' Old Firm pitch invasion",
       "summary": "Police Scotland say arrests have been made following the Old Firm pitch invasion and condemned the \"despicable display\" which ensued at Ibrox after Celtic beat Rangers on penalties in the Scottish Cup quarter-final.",
@@ -176,6 +770,28 @@
       "url": "https://www.skysports.com/football/news/12040/13517001/old-firm-pitch-invasion-rangers-boss-danny-r246hl-condemns-fan-behaviour-after-celtic-loss-as-scottish-fa-launch-investigation",
       "image": "https://e0.365dm.com/26/03/1920x1080/skysports-old-firm-celtic-rangers_7186345.jpg?20260308190529",
       "published_at": "2026-03-08T18:54:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "ABD'de Kansas Kenti Uluslararası Havalimanı tahliye edildi",
+      "title_tr": "ABD'de Kansas Kenti Uluslararası Havalimanı tahliye edildi",
+      "summary": "ABD'nin Missouri eyaletinde bulunan Kansas City Uluslararası Havalimanı, bildirilen potansiyel bir \"tehdit\" nedeniyle geçici süreliğine boşaltıldı. Federal Soruşturma Bürosu ve yerel havacılık birimleri olayla ilgili geniş çaplı inceleme başlattı.ABD’nin Missouri eyaletindeki Kansas Kenti Uluslararası Havalimanı potansiyel bir “tehdit” nedeniyle tahliye edildi.\n\nKansas City Havacılık Departmanı, Federal Soruşturma Bürosu (FBI) yetkililerinin, Kansas City Uluslararası Havalimanı'nda potansiyel bir \"tehdit\"i araştırdığını duyurdu.\n\nHavalimanı sözcüsü Jackson Overstreet, Associated Press'e yaptığı açıklamada, tehdidin yerel saatle 11.50'de bildirildiğini ve bu noktada tüm terminalin tahliye edildiğini, alana iniş yapan uçakların da pistte bekletildiğini söyledi.\n\n\"BİRDENBİRE BİR HAVAALANI ÇALIŞANI 'DERHAL TAHLİYE EDİN' DEDİ\"\n\nYerel medyaya konuşan bir yolcu, \"Birdenbire bir havaalanı çalışanı 'derhal tahliye edin' dedi, insanlar hızla ayağa kalkıp oradan dışarı koştular.\" ifadelerini kullandı.\n\nTahliye sırasında yaklaşık 2 bin kişinin terminalden çıkarıldığı belirtildi.\n\nTahliyeden yaklaşık 2 saat sonra terminallerin yeniden açıldığı ancak soruşturma ekiplerinin otoparklarda aramalarına devam ettiği bildirildi.",
+      "summary_tr": "ABD'nin Missouri eyaletinde bulunan Kansas City Uluslararası Havalimanı, bildirilen potansiyel bir \"tehdit\" nedeniyle geçici süreliğine boşaltıldı. Federal Soruşturma Bürosu ve yerel havacılık birimleri olayla ilgili geniş çaplı inceleme başlattı.ABD’nin Missouri eyaletindeki Kansas Kenti Uluslararası Havalimanı potansiyel bir “tehdit” nedeniyle tahliye edildi.\n\nKansas City Havacılık Departmanı, Federal Soruşturma Bürosu (FBI) yetkililerinin, Kansas City Uluslararası Havalimanı'nda potansiyel bir \"tehdit\"i araştırdığını duyurdu.\n\nHavalimanı sözcüsü Jackson Overstreet, Associated Press'e yaptığı açıklamada, tehdidin yerel saatle 11.50'de bildirildiğini ve bu noktada tüm terminalin tahliye edildiğini, alana iniş yapan uçakların da pistte bekletildiğini söyledi.\n\n\"BİRDENBİRE BİR HAVAALANI ÇALIŞANI 'DERHAL TAHLİYE EDİN' DEDİ\"\n\nYerel medyaya konuşan bir yolcu, \"Birdenbire bir havaalanı çalışanı 'derhal tahliye edin' dedi, insanlar hızla ayağa kalkıp oradan dışarı koştular.\" ifadelerini kullandı.\n\nTahliye sırasında yaklaşık 2 bin kişinin terminalden çıkarıldığı belirtildi.\n\nTahliyeden yaklaşık 2 saat sonra terminallerin yeniden açıldığı ancak soruşturma ekiplerinin otoparklarda aramalarına devam ettiği bildirildi.",
+      "long_summary": "ABD'nin Missouri eyaletinde bulunan Kansas City Uluslararası Havalimanı, bildirilen potansiyel bir \"tehdit\" nedeniyle geçici süreliğine boşaltıldı. Federal Soruşturma Bürosu ve yerel havacılık birimleri olayla ilgili geniş çaplı inceleme başlattı.ABD’nin Missouri eyaletindeki Kansas Kenti Uluslararası Havalimanı potansiyel bir “tehdit” nedeniyle tahliye edildi.\n\nKansas City Havacılık Departmanı, Federal Soruşturma Bürosu (FBI) yetkililerinin, Kansas City Uluslararası Havalimanı'nda potansiyel",
+      "long_summary_tr": "ABD'nin Missouri eyaletinde bulunan Kansas City Uluslararası Havalimanı, bildirilen potansiyel bir \"tehdit\" nedeniyle geçici süreliğine boşaltıldı. Federal Soruşturma Bürosu ve yerel havacılık birimleri olayla ilgili geniş çaplı inceleme başlattı.ABD’nin Missouri eyaletindeki Kansas Kenti Uluslararası Havalimanı potansiyel bir “tehdit” nedeniyle tahliye edildi.\n\nKansas City Havacılık Departmanı, Federal Soruşturma Bürosu (FBI) yetkililerinin, Kansas City Uluslararası Havalimanı'nda potansiyel",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/abd-de-kansas-kenti-uluslararasi-havalimani-tahliye-edildi-1591532",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/abd-de-kansas-kenti-uluslararasi-havalimani-tahliye-edildi-1773000332-726_large.webp",
+      "published_at": "2026-03-08T18:53:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -244,26 +860,48 @@
       "published_at": "2026-03-08T18:48:52+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Shameful' pitch invasion by Celtic and Rangers fans condemned by police",
-      "title_tr": "'Shameful' pitch invasion by Celtic and Rangers fans condemned by police",
-      "summary": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
-      "summary_tr": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
-      "long_summary": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
-      "long_summary_tr": "Arrests were made with both police officers and fans injured during clashes following Celtic's 4-2 win on penalties.",
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Isparta'da bir haftada 43 aranan şahıs yakalandı",
+      "title_tr": "Isparta'da bir haftada 43 aranan şahıs yakalandı",
+      "summary": "Isparta'da polis ekiplerince son bir haftada gerçekleştirilen denetimlerde 25 binin üzerinde kişi sorgulanırken, 43 aranan şahıs yakalandı. Denetimlerde 14 binden fazla araç da kontrol edildi.Isparta İl Emniyet Müdürlüğü ekiplerince il genelinde polis sorumluluk bölgelerinde son bir haftada kapsamlı denetimler gerçekleştirildi. Yapılan uygulamalarda toplam 25 bin 179 şahıs sorgulanırken, çeşitli suçlardan aranması bulunan 43 kişi yakalandı. Ayrıca ekipler tarafından gerçekleştirilen trafik denetimlerinde ise 14 bin 820 araç kontrol edildi. Denetimlerde kusuru tespit edilen araç sürücülerine ilgili mevzuat kapsamında idari işlem uygulandı.",
+      "summary_tr": "Isparta'da polis ekiplerince son bir haftada gerçekleştirilen denetimlerde 25 binin üzerinde kişi sorgulanırken, 43 aranan şahıs yakalandı. Denetimlerde 14 binden fazla araç da kontrol edildi.Isparta İl Emniyet Müdürlüğü ekiplerince il genelinde polis sorumluluk bölgelerinde son bir haftada kapsamlı denetimler gerçekleştirildi. Yapılan uygulamalarda toplam 25 bin 179 şahıs sorgulanırken, çeşitli suçlardan aranması bulunan 43 kişi yakalandı. Ayrıca ekipler tarafından gerçekleştirilen trafik denetimlerinde ise 14 bin 820 araç kontrol edildi. Denetimlerde kusuru tespit edilen araç sürücülerine ilgili mevzuat kapsamında idari işlem uygulandı.",
+      "long_summary": "Isparta'da polis ekiplerince son bir haftada gerçekleştirilen denetimlerde 25 binin üzerinde kişi sorgulanırken, 43 aranan şahıs yakalandı. Denetimlerde 14 binden fazla araç da kontrol edildi.Isparta İl Emniyet Müdürlüğü ekiplerince il genelinde polis sorumluluk bölgelerinde son bir haftada kapsamlı denetimler gerçekleştirildi. Yapılan uygulamalarda toplam 25 bin 179 şahıs sorgulanırken, çeşitli suçlardan aranması bulunan 43 kişi yakalandı. Ayrıca ekipler tarafından gerçekleştirilen trafik",
+      "long_summary_tr": "Isparta'da polis ekiplerince son bir haftada gerçekleştirilen denetimlerde 25 binin üzerinde kişi sorgulanırken, 43 aranan şahıs yakalandı. Denetimlerde 14 binden fazla araç da kontrol edildi.Isparta İl Emniyet Müdürlüğü ekiplerince il genelinde polis sorumluluk bölgelerinde son bir haftada kapsamlı denetimler gerçekleştirildi. Yapılan uygulamalarda toplam 25 bin 179 şahıs sorgulanırken, çeşitli suçlardan aranması bulunan 43 kişi yakalandı. Ayrıca ekipler tarafından gerçekleştirilen trafik",
       "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/cy4w22znlyvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de0/live/931ad1a0-1b09-11f1-870b-03d961994130.jpg",
-      "published_at": "2026-03-08T18:47:55+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/isparta-da-bir-haftada-43-aranan-sahis-yakalandi-1591529",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/isparta-da-bir-haftada-43-aranan-sahis-yakalandi-1773000226-888_large.webp",
+      "published_at": "2026-03-08T18:48:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa'da Sultan Yıldırım Bayezid Han vefatının 623. yılında anıldı",
+      "title_tr": "Bursa'da Sultan Yıldırım Bayezid Han vefatının 623. yılında anıldı",
+      "summary": "Osmanlı Devleti'nin dördüncü padişahı Sultan Yıldırım Bayezid Han, vefatının 623'üncü sene-i devriyesinde Bursa'da düzenlenen programla anıldı.Kültür ve Turizm Bakanlığı, Vakıflar Genel Müdürlüğü, Bursa İl Müftülüğü ve Bursa İl Kültür ve Turizm Müdürlüğü iş birliğinde düzenlenen anma programına Bursa Vali Yardımcısı Rıza Gençoğlu, Yıldırım Kaymakamı Metin Esen, AK Parti Bursa Milletvekili Mustafa Yavuz, Vakıflar Bursa Bölge Müdürü Haluk Yıldız ve çok sayıda davetli katıldı. Yıldırım Bayezid Camii'nde ikindi namazının ardından katılımcılar, Yıldırım Bayezid Türbesi'nde bir araya gelerek Kur'an-ı Kerim tilaveti ve dualarla Sultan Yıldırım Bayezid Han'ı rahmetle andı.\n\n\n\nProgram kapsamında türbe içerisinde yapılan duayı cami imamı Uğur Gedik okudu. Program, edilen duaların ardından sona erdi.",
+      "summary_tr": "Osmanlı Devleti'nin dördüncü padişahı Sultan Yıldırım Bayezid Han, vefatının 623'üncü sene-i devriyesinde Bursa'da düzenlenen programla anıldı.Kültür ve Turizm Bakanlığı, Vakıflar Genel Müdürlüğü, Bursa İl Müftülüğü ve Bursa İl Kültür ve Turizm Müdürlüğü iş birliğinde düzenlenen anma programına Bursa Vali Yardımcısı Rıza Gençoğlu, Yıldırım Kaymakamı Metin Esen, AK Parti Bursa Milletvekili Mustafa Yavuz, Vakıflar Bursa Bölge Müdürü Haluk Yıldız ve çok sayıda davetli katıldı. Yıldırım Bayezid Camii'nde ikindi namazının ardından katılımcılar, Yıldırım Bayezid Türbesi'nde bir araya gelerek Kur'an-ı Kerim tilaveti ve dualarla Sultan Yıldırım Bayezid Han'ı rahmetle andı.\n\n\n\nProgram kapsamında türbe içerisinde yapılan duayı cami imamı Uğur Gedik okudu. Program, edilen duaların ardından sona erdi.",
+      "long_summary": "Osmanlı Devleti'nin dördüncü padişahı Sultan Yıldırım Bayezid Han, vefatının 623'üncü sene-i devriyesinde Bursa'da düzenlenen programla anıldı.Kültür ve Turizm Bakanlığı, Vakıflar Genel Müdürlüğü, Bursa İl Müftülüğü ve Bursa İl Kültür ve Turizm Müdürlüğü iş birliğinde düzenlenen anma programına Bursa Vali Yardımcısı Rıza Gençoğlu, Yıldırım Kaymakamı Metin Esen, AK Parti Bursa Milletvekili Mustafa Yavuz, Vakıflar Bursa Bölge Müdürü Haluk Yıldız ve çok sayıda davetli katıldı. Yıldırım Bayezid",
+      "long_summary_tr": "Osmanlı Devleti'nin dördüncü padişahı Sultan Yıldırım Bayezid Han, vefatının 623'üncü sene-i devriyesinde Bursa'da düzenlenen programla anıldı.Kültür ve Turizm Bakanlığı, Vakıflar Genel Müdürlüğü, Bursa İl Müftülüğü ve Bursa İl Kültür ve Turizm Müdürlüğü iş birliğinde düzenlenen anma programına Bursa Vali Yardımcısı Rıza Gençoğlu, Yıldırım Kaymakamı Metin Esen, AK Parti Bursa Milletvekili Mustafa Yavuz, Vakıflar Bursa Bölge Müdürü Haluk Yıldız ve çok sayıda davetli katıldı. Yıldırım Bayezid",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-sultan-yildirim-bayezid-han-vefatinin-623-yilinda-anildi-1591526",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/bursa-da-sultan-yildirim-bayezid-han-vefatinin-623-yilinda-anildi-1773000198-717_large.webp",
+      "published_at": "2026-03-08T18:43:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -286,6 +924,28 @@
       "url": "https://www.dunya.com/gundem/orduda-egitime-kar-engeli-haberi-817541",
       "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/ordu-nk7x_cover.jpg",
       "published_at": "2026-03-08T18:40:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Eskişehir'de vatandaşı 2 milyon 411 bin TL dolandıran şüpheli yakalandı",
+      "title_tr": "Eskişehir'de vatandaşı 2 milyon 411 bin TL dolandıran şüpheli yakalandı",
+      "summary": "Eskişehir'de kendisini polis-savcı olarak tanıtarak bir kişi yaklaşık 2 milyon 411 bin TL dolandıran şahıs, polis ekiplerince yakalandı.Edinilen bilgilere göre, 5-6 Mart tarihlerinde 2 farklı dolandırıcılık olayı meydana geldi. 5 Mart'ta gerçekleşen olayda; vatandaşa telefon ile ulaşarak emniyetten aradığını ve eve gelip arama yapacaklarını söyleyen şahsın toplam değeri yaklaşık 2 milyon TL olan 50 gram altın, 3 adet bilezik, 2 adet çeyrek altın, 125 gram altın, 6 adet çeyrek altın, 2 adet cumhuriyet altını ve 500 euro dolandırdığı tespit edildi. 6 Mart 2026 tarihinde gerçekleşen olayda ise; vatandaşa yine telefon ile ulaşarak emniyetten aradığını ve yaşlılara yardım ettiklerini, evde bulunan altınların fotoğrafını çekerek koruma altına alacaklarını ve geri iade edeceklerini söyleyen şahsın toplam değeri yaklaşık 411 bin 500 TL değerinde 4 adet çeyrek altın, 6 adet gram altın, 2 adet bilezik ve 400 dolar dolandırdığı belirlendi.\n\nPOLİS EKİPLERİNCE YAKALANAN DOLANDIRICI TUTUKLANDI\n\nKendisini polis-savcı olarak tanıtan nitelikli dolandırıcılık şüphelisinin yakalanmasına yönelik İl Emniyet Müdürlüğü ekiplerince çalışma yapıldı. Ekiplerin kapsamlı çalışmaları sonucunda, şüphelinin E.Y. isimli şahıs olduğu tespit edildi. İkametinde bin 200 Euro ve 33 bin 940 TL ele geçirilen E.Y.'nin sevk edildiği adli makamlarca tutuklandığı öğrenildi.",
+      "summary_tr": "Eskişehir'de kendisini polis-savcı olarak tanıtarak bir kişi yaklaşık 2 milyon 411 bin TL dolandıran şahıs, polis ekiplerince yakalandı.Edinilen bilgilere göre, 5-6 Mart tarihlerinde 2 farklı dolandırıcılık olayı meydana geldi. 5 Mart'ta gerçekleşen olayda; vatandaşa telefon ile ulaşarak emniyetten aradığını ve eve gelip arama yapacaklarını söyleyen şahsın toplam değeri yaklaşık 2 milyon TL olan 50 gram altın, 3 adet bilezik, 2 adet çeyrek altın, 125 gram altın, 6 adet çeyrek altın, 2 adet cumhuriyet altını ve 500 euro dolandırdığı tespit edildi. 6 Mart 2026 tarihinde gerçekleşen olayda ise; vatandaşa yine telefon ile ulaşarak emniyetten aradığını ve yaşlılara yardım ettiklerini, evde bulunan altınların fotoğrafını çekerek koruma altına alacaklarını ve geri iade edeceklerini söyleyen şahsın toplam değeri yaklaşık 411 bin 500 TL değerinde 4 adet çeyrek altın, 6 adet gram altın, 2 adet bilezik ve 400 dolar dolandırdığı belirlendi.\n\nPOLİS EKİPLERİNCE YAKALANAN DOLANDIRICI TUTUKLANDI\n\nKendisini polis-savcı olarak tanıtan nitelikli dolandırıcılık şüphelisinin yakalanmasına yönelik İl Emniyet Müdürlüğü ekiplerince çalışma yapıldı. Ekiplerin kapsamlı çalışmaları sonucunda, şüphelinin E.Y. isimli şahıs olduğu tespit edildi. İkametinde bin 200 Euro ve 33 bin 940 TL ele geçirilen E.Y.'nin sevk edildiği adli makamlarca tutuklandığı öğrenildi.",
+      "long_summary": "Eskişehir'de kendisini polis-savcı olarak tanıtarak bir kişi yaklaşık 2 milyon 411 bin TL dolandıran şahıs, polis ekiplerince yakalandı.Edinilen bilgilere göre, 5-6 Mart tarihlerinde 2 farklı dolandırıcılık olayı meydana geldi. 5 Mart'ta gerçekleşen olayda; vatandaşa telefon ile ulaşarak emniyetten aradığını ve eve gelip arama yapacaklarını söyleyen şahsın toplam değeri yaklaşık 2 milyon TL olan 50 gram altın, 3 adet bilezik, 2 adet çeyrek altın, 125 gram altın, 6 adet çeyrek altın, 2 adet",
+      "long_summary_tr": "Eskişehir'de kendisini polis-savcı olarak tanıtarak bir kişi yaklaşık 2 milyon 411 bin TL dolandıran şahıs, polis ekiplerince yakalandı.Edinilen bilgilere göre, 5-6 Mart tarihlerinde 2 farklı dolandırıcılık olayı meydana geldi. 5 Mart'ta gerçekleşen olayda; vatandaşa telefon ile ulaşarak emniyetten aradığını ve eve gelip arama yapacaklarını söyleyen şahsın toplam değeri yaklaşık 2 milyon TL olan 50 gram altın, 3 adet bilezik, 2 adet çeyrek altın, 125 gram altın, 6 adet çeyrek altın, 2 adet",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/eskisehir-de-vatandasi-2-milyon-411-bin-tl-dolandiran-supheli-yakalandi-1591523",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/eskisehir-de-vatandasi-2-milyon-411-bin-tl-dolandiran-supheli-yakalandi-1773000134-393_large.webp",
+      "published_at": "2026-03-08T18:38:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -330,6 +990,28 @@
       "url": "https://www.skysports.com/watch/video/13517030/qpr-0-4-middlesbrough-championship-highlights",
       "image": "https://e2.365dm.com/26/03/1920x1080/skysports-qpr-boro_7186311.jpg?20260308183748",
       "published_at": "2026-03-08T18:35:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa Keles'te yaşlı adamın şüpheli ölümü",
+      "title_tr": "Bursa Keles'te yaşlı adamın şüpheli ölümü",
+      "summary": "Bursa'nın Keles ilçesinde 67 yaşındaki adamın cansız bedeni çobanlar tarafından bulundu.Edinilen bilgiye göre, Keles ilçesi Gelemiç Mahallesi'nde yaşayan 67 yaşındaki Nejdet Özkaya, sabah saatlerinde hayvanları için çam burçağı toplamak üzere evinden ayrıldı. Köylüler saat 12.30 sıralarında silah sesi duyduklarında avcıların olduğunu düşünüp herhangi bir ihbarda bulunmadı. Saat 15.35 sıralarında Küçükovacık Mahallesi Çamlık alanında bir çoban ağaçların altında yatan birini fark etti. İlk etapta ağaçtan düştüğü tahmin ettiği Özkaya'nın yerde kanlar içinde olduğunu gören çoban jandarmaya ve ailesine haber verdi. Yapılan incelemede Özkaya'nın omzundan 1 adet domuz kurşunuyla vurulduğunu tespit edildi.",
+      "summary_tr": "Bursa'nın Keles ilçesinde 67 yaşındaki adamın cansız bedeni çobanlar tarafından bulundu.Edinilen bilgiye göre, Keles ilçesi Gelemiç Mahallesi'nde yaşayan 67 yaşındaki Nejdet Özkaya, sabah saatlerinde hayvanları için çam burçağı toplamak üzere evinden ayrıldı. Köylüler saat 12.30 sıralarında silah sesi duyduklarında avcıların olduğunu düşünüp herhangi bir ihbarda bulunmadı. Saat 15.35 sıralarında Küçükovacık Mahallesi Çamlık alanında bir çoban ağaçların altında yatan birini fark etti. İlk etapta ağaçtan düştüğü tahmin ettiği Özkaya'nın yerde kanlar içinde olduğunu gören çoban jandarmaya ve ailesine haber verdi. Yapılan incelemede Özkaya'nın omzundan 1 adet domuz kurşunuyla vurulduğunu tespit edildi.",
+      "long_summary": "Bursa'nın Keles ilçesinde 67 yaşındaki adamın cansız bedeni çobanlar tarafından bulundu.Edinilen bilgiye göre, Keles ilçesi Gelemiç Mahallesi'nde yaşayan 67 yaşındaki Nejdet Özkaya, sabah saatlerinde hayvanları için çam burçağı toplamak üzere evinden ayrıldı. Köylüler saat 12.30 sıralarında silah sesi duyduklarında avcıların olduğunu düşünüp herhangi bir ihbarda bulunmadı. Saat 15.35 sıralarında Küçükovacık Mahallesi Çamlık alanında bir çoban ağaçların altında yatan birini fark etti. İlk etapta",
+      "long_summary_tr": "Bursa'nın Keles ilçesinde 67 yaşındaki adamın cansız bedeni çobanlar tarafından bulundu.Edinilen bilgiye göre, Keles ilçesi Gelemiç Mahallesi'nde yaşayan 67 yaşındaki Nejdet Özkaya, sabah saatlerinde hayvanları için çam burçağı toplamak üzere evinden ayrıldı. Köylüler saat 12.30 sıralarında silah sesi duyduklarında avcıların olduğunu düşünüp herhangi bir ihbarda bulunmadı. Saat 15.35 sıralarında Küçükovacık Mahallesi Çamlık alanında bir çoban ağaçların altında yatan birini fark etti. İlk etapta",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-keles-te-yasli-adamin-supheli-olumu-1591520",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/bursa-keles-te-yasli-adamin-supheli-olumu-1772999918-726_large.webp",
+      "published_at": "2026-03-08T18:34:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -399,707 +1081,25 @@
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "İstanbul'da 30 milyon dolarlık otopark soygunu. Üç kişi daha yakalandı",
-      "title_tr": "İstanbul'da 30 milyon dolarlık otopark soygunu. Üç kişi daha yakalandı",
-      "summary": "İstanbul'da site otoparkındaki 2 araçtan 30 milyon dolar çalınmasına ilişkin soruşturmada 3 şüpheli daha gözaltına alındı.",
-      "summary_tr": "İstanbul'da site otoparkındaki 2 araçtan 30 milyon dolar çalınmasına ilişkin soruşturmada 3 şüpheli daha gözaltına alındı.",
-      "long_summary": "İstanbul'da site otoparkındaki 2 araçtan 30 milyon dolar çalınmasına ilişkin soruşturmada 3 şüpheli daha gözaltına alındı.",
-      "long_summary_tr": "İstanbul'da site otoparkındaki 2 araçtan 30 milyon dolar çalınmasına ilişkin soruşturmada 3 şüpheli daha gözaltına alındı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/istanbulda-30-milyon-dolarlik-otopark-soygunu-uc-kisi-daha-yakalandi-1715082",
-      "image": "https://images.ntv.com.tr/images/otoparksoygun-100344-509729.png",
-      "published_at": "2026-03-08T18:18:37+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Irak'ın petrol üretiminde sert düşüş",
-      "title_tr": "Irak'ın petrol üretiminde sert düşüş",
-      "summary": "ABD-İsrail ile İran arasındaki savaşın etkisiyle Irak'ın petrol üretimi yüzde 60 düştü.",
-      "summary_tr": "ABD-İsrail ile İran arasındaki savaşın etkisiyle Irak'ın petrol üretimi yüzde 60 düştü.",
-      "long_summary": "ABD-İsrail ile İran arasındaki savaşın etkisiyle Irak'ın petrol üretimi yüzde 60 düştü.",
-      "long_summary_tr": "ABD-İsrail ile İran arasındaki savaşın etkisiyle Irak'ın petrol üretimi yüzde 60 düştü.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/irak-in-petrol-uretiminde-sert-dusus-3771265",
-      "image": null,
-      "published_at": "2026-03-08T18:17:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Ordu'da eğitime kar engeli",
-      "title_tr": "Ordu'da eğitime kar engeli",
-      "summary": "Ordu'nun bazı ilçelerinde olumsuz hava koşulları nedeniyle eğitime yarın ara verildi.",
-      "summary_tr": "Ordu'nun bazı ilçelerinde olumsuz hava koşulları nedeniyle eğitime yarın ara verildi.",
-      "long_summary": "Ordu'nun bazı ilçelerinde olumsuz hava koşulları nedeniyle eğitime yarın ara verildi.",
-      "long_summary_tr": "Ordu'nun bazı ilçelerinde olumsuz hava koşulları nedeniyle eğitime yarın ara verildi.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/orduda-egitime-kar-engeli-1715083",
-      "image": "https://images.ntv.com.tr/images/AA-20260227-40682804-40682802-ORDUDA_KAR_ETKILI_OLDU-990430.jpg",
-      "published_at": "2026-03-08T18:16:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Disgraceful scenes as toxicity spills over in Old Firm cup tie'",
-      "title_tr": "'Disgraceful scenes as toxicity spills over in Old Firm cup tie'",
-      "summary": "As if the ugliness of the 120 minutes wasn't enough there was disgrace as Rangers and Celtic fans invaded the pitch at Ibrox, writes Tom English.",
-      "summary_tr": "As if the ugliness of the 120 minutes wasn't enough there was disgrace as Rangers and Celtic fans invaded the pitch at Ibrox, writes Tom English.",
-      "long_summary": "As if the ugliness of the 120 minutes wasn't enough there was disgrace as Rangers and Celtic fans invaded the pitch at Ibrox, writes Tom English.",
-      "long_summary_tr": "As if the ugliness of the 120 minutes wasn't enough there was disgrace as Rangers and Celtic fans invaded the pitch at Ibrox, writes Tom English.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c5ykrzp9d26o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec7d/live/17011cf0-1b18-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-08T18:13:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İran'dan petrol tehdidi: 200 doların üzerine çıkabilir",
-      "title_tr": "İran'dan petrol tehdidi: 200 doların üzerine çıkabilir",
-      "summary": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD ve İsrail’in İran’daki yakıt ve enerji altyapısını hedef alan saldırıların durdurulmaması halinde benzer karşılıkların verileceğini söyleyerek, &quot;Eğer petrolün varil fiyatının 200 doların üzerine çıkmasına dayanabilecekseniz bu oyunu sürdürün&quot; dedi.",
-      "summary_tr": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD ve İsrail’in İran’daki yakıt ve enerji altyapısını hedef alan saldırıların durdurulmaması halinde benzer karşılıkların verileceğini söyleyerek, &quot;Eğer petrolün varil fiyatının 200 doların üzerine çıkmasına dayanabilecekseniz bu oyunu sürdürün&quot; dedi.",
-      "long_summary": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD ve İsrail’in İran’daki yakıt ve enerji altyapısını hedef alan saldırıların durdurulmaması halinde benzer karşılıkların verileceğini söyleyerek, &quot;Eğer petrolün varil fiyatının 200 doların üzerine çıkmasına dayanabilecekseniz bu oyunu sürdürün&quot; dedi.",
-      "long_summary_tr": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD ve İsrail’in İran’daki yakıt ve enerji altyapısını hedef alan saldırıların durdurulmaması halinde benzer karşılıkların verileceğini söyleyerek, &quot;Eğer petrolün varil fiyatının 200 doların üzerine çıkmasına dayanabilecekseniz bu oyunu sürdürün&quot; dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/irandan-petrol-tehdidi-200-dolarin-uzerine-cikabilir-haberi-817539",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/cc1-hpeq_cover.jpg",
-      "published_at": "2026-03-08T18:07:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "India outclass New Zealand to retain T20 World Cup",
-      "title_tr": "India outclass New Zealand to retain T20 World Cup",
-      "summary": "India put on a show with bat and ball on their way to a dominant 96-run win over New Zealand, as the host nation retain their ICC Men's T20 World Cup title at the Narendra Modi Stadium in Ahmedabad.",
-      "summary_tr": "India put on a show with bat and ball on their way to a dominant 96-run win over New Zealand, as the host nation retain their ICC Men's T20 World Cup title at the Narendra Modi Stadium in Ahmedabad.",
-      "long_summary": "India put on a show with bat and ball on their way to a dominant 96-run win over New Zealand, as the host nation retain their ICC Men's T20 World Cup title at the Narendra Modi Stadium in Ahmedabad.",
-      "long_summary_tr": "India put on a show with bat and ball on their way to a dominant 96-run win over New Zealand, as the host nation retain their ICC Men's T20 World Cup title at the Narendra Modi Stadium in Ahmedabad.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/videos/cwy82ezn421o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d0/live/8f2be660-1b18-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-08T18:06:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Sivo hat-trick takes Leeds to Castleford victory as Hull KR bounce back",
-      "title_tr": "Sivo hat-trick takes Leeds to Castleford victory as Hull KR bounce back",
-      "summary": "Maika Sivo scored a hat-trick as Leeds claimed a 22-4 Betfred Super League win over Castleford.",
-      "summary_tr": "Maika Sivo scored a hat-trick as Leeds claimed a 22-4 Betfred Super League win over Castleford.",
-      "long_summary": "Maika Sivo scored a hat-trick as Leeds claimed a 22-4 Betfred Super League win over Castleford.",
-      "long_summary_tr": "Maika Sivo scored a hat-trick as Leeds claimed a 22-4 Betfred Super League win over Castleford.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-league/news/12040/13517015/super-league-maika-sivo-hat-trick-takes-leeds-to-win-over-castleford-as-hull-kr-bounce-back-against-huddersfield",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-maika-sivo-leeds_7186283.jpg?20260308181104",
-      "published_at": "2026-03-08T18:04:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Xbox Cephesinde Kriz: Özel Oyunlar Geri Mi Dönüyor?",
-      "title_tr": "Xbox Cephesinde Kriz: Özel Oyunlar Geri Mi Dönüyor?",
-      "summary": "Oyun dünyasının dev isimlerinden Microsoft cephesinde yaşanan radikal yönetim değişiklikleri, oyuncuların kafasındaki soru işaretlerini artırmaya devam ediyor. Phil Spencer tarafından alınan ani emeklilik kararının ardından Microsoft Gaming CEO koltuğuna oturan Asha Sharma, geçtiğimiz günlerde Xbox özel oyunlarının geri dönebileceğine dair bazı heyecan verici sinyaller vermişti. Ancak güvenilir kaynaklardan gelen son sızıntılar, bu beklentilerin tamamen boşa […]",
-      "summary_tr": "Oyun dünyasının dev isimlerinden Microsoft cephesinde yaşanan radikal yönetim değişiklikleri, oyuncuların kafasındaki soru işaretlerini artırmaya devam ediyor. Phil Spencer tarafından alınan ani emeklilik kararının ardından Microsoft Gaming CEO koltuğuna oturan Asha Sharma, geçtiğimiz günlerde Xbox özel oyunlarının geri dönebileceğine dair bazı heyecan verici sinyaller vermişti. Ancak güvenilir kaynaklardan gelen son sızıntılar, bu beklentilerin tamamen boşa […]",
-      "long_summary": "Oyun dünyasının dev isimlerinden Microsoft cephesinde yaşanan radikal yönetim değişiklikleri, oyuncuların kafasındaki soru işaretlerini artırmaya devam ediyor. Phil Spencer tarafından alınan ani emeklilik kararının ardından Microsoft Gaming CEO koltuğuna oturan Asha Sharma, geçtiğimiz günlerde Xbox özel oyunlarının geri dönebileceğine dair bazı heyecan verici sinyaller vermişti. Ancak güvenilir kaynaklardan gelen son sızıntılar, bu beklentilerin tamamen boşa […]",
-      "long_summary_tr": "Oyun dünyasının dev isimlerinden Microsoft cephesinde yaşanan radikal yönetim değişiklikleri, oyuncuların kafasındaki soru işaretlerini artırmaya devam ediyor. Phil Spencer tarafından alınan ani emeklilik kararının ardından Microsoft Gaming CEO koltuğuna oturan Asha Sharma, geçtiğimiz günlerde Xbox özel oyunlarının geri dönebileceğine dair bazı heyecan verici sinyaller vermişti. Ancak güvenilir kaynaklardan gelen son sızıntılar, bu beklentilerin tamamen boşa […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/xbox-cephesinde-kriz-ozel-oyunlar-geri-mi-donuyor",
-      "image": null,
-      "published_at": "2026-03-08T18:00:19+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Bottom of the league, magic in the cup - Port Vale's 'incredible' run",
-      "title_tr": "Bottom of the league, magic in the cup - Port Vale's 'incredible' run",
-      "summary": "Port Vale are bottom of League One, but they have reached the FA Cup quarter-finals for only the second time in their history.",
-      "summary_tr": "Port Vale are bottom of League One, but they have reached the FA Cup quarter-finals for only the second time in their history.",
-      "long_summary": "Port Vale are bottom of League One, but they have reached the FA Cup quarter-finals for only the second time in their history.",
-      "long_summary_tr": "Port Vale are bottom of League One, but they have reached the FA Cup quarter-finals for only the second time in their history.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cy8g22120pdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/d73819f0-1b14-11f1-a489-ff7ad54780bc.jpg",
-      "published_at": "2026-03-08T17:58:57+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "ABD Enerji Bakanı: Petrol fiyatlarındaki \"korku primi\" geçici",
-      "title_tr": "ABD Enerji Bakanı: Petrol fiyatlarındaki \"korku primi\" geçici",
-      "summary": "ABD Enerji Bakanı Chris Wright, küresel enerji arzının yeterli olduğunu ve petrol fiyatlarındaki yükselişin kalıcı olmayacak bir \"korku primini\" yansıttığını savunarak Orta Doğu savaşına ilişkin piyas...",
-      "summary_tr": "ABD Enerji Bakanı Chris Wright, küresel enerji arzının yeterli olduğunu ve petrol fiyatlarındaki yükselişin kalıcı olmayacak bir \"korku primini\" yansıttığını savunarak Orta Doğu savaşına ilişkin piyas...",
-      "long_summary": "ABD Enerji Bakanı Chris Wright, küresel enerji arzının yeterli olduğunu ve petrol fiyatlarındaki yükselişin kalıcı olmayacak bir \"korku primini\" yansıttığını savunarak Orta Doğu savaşına ilişkin piyas...",
-      "long_summary_tr": "ABD Enerji Bakanı Chris Wright, küresel enerji arzının yeterli olduğunu ve petrol fiyatlarındaki yükselişin kalıcı olmayacak bir \"korku primini\" yansıttığını savunarak Orta Doğu savaşına ilişkin piyas...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/abd-enerji-bakani-petrol-fiyatlarindaki-korku-primi-gecici-08-03-26?haber_id=69adb4a02663b328fe33234a&lang=tr&category=PICNEWS",
-      "image": "https://news-files.foreks.com/images/1772990927829.jpeg",
-      "published_at": "2026-03-08T17:40:48+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Türkiye, KKTC'ye 6 adet F-16 gönderiyor",
-      "title_tr": "Türkiye, KKTC'ye 6 adet F-16 gönderiyor",
-      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
-      "summary_tr": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
-      "long_summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
-      "long_summary_tr": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Sivil Havacılık Dairesi Müdür Vekili Aşkın Meşeli, Türkiye’nin yarın KKTC’ye 6 adet F-16 savaş uçağı göndereceğini açıkladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/turkiye-kktcye-6-adet-f-16-gonderiyor-haberi-817537",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/cc1-mzcn_cover.jpg",
-      "published_at": "2026-03-08T17:39:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Brilliant' Bumrah takes two wickets in two balls",
-      "title_tr": "'Brilliant' Bumrah takes two wickets in two balls",
-      "summary": "Jasprit Bumrah bowls Jimmy Neesham and Matthew Henry in back-to-back balls, to help India beat New Zealand to retain the ICC Men's T20 World Cup.",
-      "summary_tr": "Jasprit Bumrah bowls Jimmy Neesham and Matthew Henry in back-to-back balls, to help India beat New Zealand to retain the ICC Men's T20 World Cup.",
-      "long_summary": "Jasprit Bumrah bowls Jimmy Neesham and Matthew Henry in back-to-back balls, to help India beat New Zealand to retain the ICC Men's T20 World Cup.",
-      "long_summary_tr": "Jasprit Bumrah bowls Jimmy Neesham and Matthew Henry in back-to-back balls, to help India beat New Zealand to retain the ICC Men's T20 World Cup.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/videos/c4gq4ypzy0qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c1/live/c479d290-1b14-11f1-9120-a910fc22c6ac.jpg",
-      "published_at": "2026-03-08T17:35:21+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "See Harry Styles’s Surprise Appearance During Ryan Gosling’s SNL Monologue",
-      "title_tr": "See Harry Styles’s Surprise Appearance During Ryan Gosling’s SNL Monologue",
-      "summary": "See Harry Styles’s Surprise Appearance During Ryan Gosling’s SNL Monologue",
-      "summary_tr": "See Harry Styles’s Surprise Appearance During Ryan Gosling’s SNL Monologue",
-      "long_summary": "See Harry Styles’s Surprise Appearance During Ryan Gosling’s SNL Monologue",
-      "long_summary_tr": "See Harry Styles’s Surprise Appearance During Ryan Gosling’s SNL Monologue",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a70662043/harry-styles-surprise-saturday-night-live-appearance-ryan-gosling-monologue/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ba5d7241-6453-4a8f-ba26-af40e05370be.jpeg",
-      "published_at": "2026-03-08T17:34:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Grace Gummer on Balenciaga, Caroline Kennedy, and Personal Style",
-      "title_tr": "Grace Gummer on Balenciaga, Caroline Kennedy, and Personal Style",
-      "summary": "(And yes, there is a Love Story group chat.)",
-      "summary_tr": "(And yes, there is a Love Story group chat.)",
-      "long_summary": "(And yes, there is a Love Story group chat.)",
-      "long_summary_tr": "(And yes, there is a Love Story group chat.)",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/celebrity-style/a70644512/grace-gummer-getting-ready-diary-diary-balenciaga-fall-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gracehed1-69ad9a3ae4c1f.jpg",
-      "published_at": "2026-03-08T17:34:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Superb India crush New Zealand to defend T20 title",
-      "title_tr": "Superb India crush New Zealand to defend T20 title",
-      "summary": "India banish the ghosts of 2023 by emphatically beating New Zealand by 96 runs in Ahmedabad to defend their T20 World Cup title.",
-      "summary_tr": "India banish the ghosts of 2023 by emphatically beating New Zealand by 96 runs in Ahmedabad to defend their T20 World Cup title.",
-      "long_summary": "India banish the ghosts of 2023 by emphatically beating New Zealand by 96 runs in Ahmedabad to defend their T20 World Cup title.",
-      "long_summary_tr": "India banish the ghosts of 2023 by emphatically beating New Zealand by 96 runs in Ahmedabad to defend their T20 World Cup title.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/c15x2denz30o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca07/live/1f19fea0-1b10-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-08T17:29:31+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Eubank-Benn, Wardley, Usyk & Itauma all winners at Boxing Board awards",
-      "title_tr": "Eubank-Benn, Wardley, Usyk & Itauma all winners at Boxing Board awards",
-      "summary": "Conor Benn’s first fight with Chris Eubank Jr won the Contest of the Year prize at the prestigious British Boxing Board of Control awards.",
-      "summary_tr": "Conor Benn’s first fight with Chris Eubank Jr won the Contest of the Year prize at the prestigious British Boxing Board of Control awards.",
-      "long_summary": "Conor Benn’s first fight with Chris Eubank Jr won the Contest of the Year prize at the prestigious British Boxing Board of Control awards.",
-      "long_summary_tr": "Conor Benn’s first fight with Chris Eubank Jr won the Contest of the Year prize at the prestigious British Boxing Board of Control awards.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/boxing/news/12040/13516989/chris-eubank-jr-vs-conor-benn-fabio-wardley-oleksandr-usyk-and-moses-itauma-all-winners-at-boxing-board-awards",
-      "image": "https://e0.365dm.com/25/04/1920x1080/skysports-chris-eubank-jr-conor_6898394.jpg?20250426223509",
-      "published_at": "2026-03-08T17:17:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "India hammer New Zealand in final to make T20 World Cup history",
-      "title_tr": "India hammer New Zealand in final to make T20 World Cup history",
-      "summary": "India became the first men's side to win the T20 World Cup three times and the first to claim back-to-back titles with an emphatic 96-run victory over New Zealand continuing their white-ball dominance.",
-      "summary_tr": "India became the first men's side to win the T20 World Cup three times and the first to claim back-to-back titles with an emphatic 96-run victory over New Zealand continuing their white-ball dominance.",
-      "long_summary": "India became the first men's side to win the T20 World Cup three times and the first to claim back-to-back titles with an emphatic 96-run victory over New Zealand continuing their white-ball dominance.",
-      "long_summary_tr": "India became the first men's side to win the T20 World Cup three times and the first to claim back-to-back titles with an emphatic 96-run victory over New Zealand continuing their white-ball dominance.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/cricket/news/12040/13516965/t20-world-cup-final-india-thrash-new-zealand-to-make-history-with-third-title-and-first-for-any-team-on-home-turf",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-india-win-t20-world-cup_7186237.jpg?20260308173300",
-      "published_at": "2026-03-08T17:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Rahm ends winless drought after helping LIV players out of Middle East",
-      "title_tr": "Rahm ends winless drought after helping LIV players out of Middle East",
-      "summary": "Jon Rahm ended an 18-month worldwide winless run by claiming an impressive three-shot victory at the LIV Golf League event in Hong Kong.",
-      "summary_tr": "Jon Rahm ended an 18-month worldwide winless run by claiming an impressive three-shot victory at the LIV Golf League event in Hong Kong.",
-      "long_summary": "Jon Rahm ended an 18-month worldwide winless run by claiming an impressive three-shot victory at the LIV Golf League event in Hong Kong.",
-      "long_summary_tr": "Jon Rahm ended an 18-month worldwide winless run by claiming an impressive three-shot victory at the LIV Golf League event in Hong Kong.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/golf/news/12040/13516951/liv-golf-league-jon-rahm-ends-18-month-winless-drought-in-hong-kong-and-explains-support-to-players-stuck-in-middle-east-during-conflict",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-jon-rahm-golf-liv-golf-hong-kong_7186161.jpg?20260308160940",
-      "published_at": "2026-03-08T17:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Hull KR beat Huddersfield for first Super League win",
-      "title_tr": "Hull KR beat Huddersfield for first Super League win",
-      "summary": "Defending Super League champions Hull KR get up and running in 2026 with a 32-6 victory at winless Huddersfield Giants.",
-      "summary_tr": "Defending Super League champions Hull KR get up and running in 2026 with a 32-6 victory at winless Huddersfield Giants.",
-      "long_summary": "Defending Super League champions Hull KR get up and running in 2026 with a 32-6 victory at winless Huddersfield Giants.",
-      "long_summary_tr": "Defending Super League champions Hull KR get up and running in 2026 with a 32-6 victory at winless Huddersfield Giants.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-league/articles/ce82rp7r870o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22f2/live/1eb482e0-1b0c-11f1-870b-03d961994130.jpg",
-      "published_at": "2026-03-08T17:10:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Defending champion Littler into UK Open semis",
-      "title_tr": "Defending champion Littler into UK Open semis",
-      "summary": "World number one Luke Littler beats 2022 winner Danny Noppert to reach the semi-finals of the UK Open in Minehead.",
-      "summary_tr": "World number one Luke Littler beats 2022 winner Danny Noppert to reach the semi-finals of the UK Open in Minehead.",
-      "long_summary": "World number one Luke Littler beats 2022 winner Danny Noppert to reach the semi-finals of the UK Open in Minehead.",
-      "long_summary_tr": "World number one Luke Littler beats 2022 winner Danny Noppert to reach the semi-finals of the UK Open in Minehead.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/darts/articles/cn8792njdylo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba05/live/1a7e7720-1b08-11f1-870b-03d961994130.jpg",
-      "published_at": "2026-03-08T17:06:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Audi, multimedya temaları için ekstra ücret talep ediyor",
-      "title_tr": "Audi, multimedya temaları için ekstra ücret talep ediyor",
-      "summary": "ABD'deki müşteriler, zevkini yansıtmak için para harcamak zorunda.",
-      "summary_tr": "ABD'deki müşteriler, zevkini yansıtmak için para harcamak zorunda.",
-      "long_summary": "ABD'deki müşteriler, zevkini yansıtmak için para harcamak zorunda.",
-      "long_summary_tr": "ABD'deki müşteriler, zevkini yansıtmak için para harcamak zorunda.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/789317/audi-multimedya-temasi-opsiyon/",
-      "image": "https://cdn.motor1.com/images/mgl/wlWBgo/s3/audi-themes-halloween-2025.jpg",
-      "published_at": "2026-03-08T17:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Bursaspor'a görkemli karşılama",
-      "title_tr": "Bursaspor'a görkemli karşılama",
-      "summary": "Şampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı. Yakılan meşaleler adeta geceyi aydınlattı.Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı.\n\nTaraftarlar şampiyonluk yolunda çok önemli bir galibiyet alan yeşil beyazlıları meşaleler ve tezahüratlarla yalnız bırakmadı.\n\n\n\n\nŞampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı. Yakılan meşaleler adeta geceyi aydınlattı. pic.twitter.com/RMnmJTZKUL\n— BH Spor (@bhsporcom) March 8, 2026",
-      "summary_tr": "Şampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı. Yakılan meşaleler adeta geceyi aydınlattı.Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı.\n\nTaraftarlar şampiyonluk yolunda çok önemli bir galibiyet alan yeşil beyazlıları meşaleler ve tezahüratlarla yalnız bırakmadı.\n\n\n\n\nŞampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı. Yakılan meşaleler adeta geceyi aydınlattı. pic.twitter.com/RMnmJTZKUL\n— BH Spor (@bhsporcom) March 8, 2026",
-      "long_summary": "Şampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı. Yakılan meşaleler adeta geceyi aydınlattı.Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı.\n\nTaraftarlar şampiyonluk yolunda çok önemli bir galibiyet alan yeşil beyazlıları meşaleler ve tezahüratlarla yalnız bırakmadı.\n\n\n\n\nŞampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir",
-      "long_summary_tr": "Şampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı. Yakılan meşaleler adeta geceyi aydınlattı.Bursaspor’u, Muş deplasmanı dönüşü Yenişehir Havaalanı’nda binlerce taraftar karşıladı.\n\nTaraftarlar şampiyonluk yolunda çok önemli bir galibiyet alan yeşil beyazlıları meşaleler ve tezahüratlarla yalnız bırakmadı.\n\n\n\n\nŞampiyonluk yolunda önemli bir galibiyet elde eden Bursaspor’u, Muş deplasmanı dönüşü Yenişehir",
+      "title": "Suriye Cumhurbaşkanı Şara ile Katar Emiri Şeyh Temim bölgedeki gelişmeleri görüştü",
+      "title_tr": "Suriye Cumhurbaşkanı Şara ile Katar Emiri Şeyh Temim bölgedeki gelişmeleri görüştü",
+      "summary": "Suriye Cumhurbaşkanı Ahmed Şara ile Katar Emiri Şeyh Temim bin Hamed Al Sani, bölgedeki son gelişmeler ve sahadaki hızlı değişimleri ele aldı.Katar Emirlik Divanı’ndan yapılan yazılı açıklamaya göre, Şeyh Temim ve Şara bir telefon görüşmesi gerçekleştirdi. Şeyh Temim ve Şara, bölgedeki son gelişmeleri ve sahadaki hızlı değişimleri değerlendirdi.\n\nSuriye Cumhurbaşkanı Şara'nın, İran’ın Katar ve bölge ülkelerine yönelik devam eden saldırgan tutumunu kınadığı belirtilen açıklamada, bunun devletlerin egemenliğinin ihlali ve bölgenin güvenlik ile istikrarına yönelik bir tehdit oluşturduğunu ifade edildi.\n\nLiderlerin, bölgede gerilimin derhal durdurulmasının önemine dikkati çektiği açıklamada, durumun daha fazla tırmanmasının ve bölgenin kaosa sürüklenmesinin önlenmesi gerektiği vurgulandı.\n\nAçıklamada ayrıca, gerilimin düşürülmesi için uygun koşulların oluşturulması amacıyla bölgesel ve uluslararası çabaların artırılması gerektiği belirtildi.\n\nŞeyh Temim ve Şara, siyasi ve diplomatik yolların Birleşmiş Milletler (BM) ilkeleri ve BM Şartı çerçevesinde sürdürülmesinin bölgesel güvenlik ve istikrarın güçlendirilmesine katkı sağlayacağını ifade etti.\n\nABD-İSRAİL’İN İRAN’A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİranlı yetkililere göre, ABD-İsrail saldırılarında bin 332 kişi hayatını kaybetti.",
+      "summary_tr": "Suriye Cumhurbaşkanı Ahmed Şara ile Katar Emiri Şeyh Temim bin Hamed Al Sani, bölgedeki son gelişmeler ve sahadaki hızlı değişimleri ele aldı.Katar Emirlik Divanı’ndan yapılan yazılı açıklamaya göre, Şeyh Temim ve Şara bir telefon görüşmesi gerçekleştirdi. Şeyh Temim ve Şara, bölgedeki son gelişmeleri ve sahadaki hızlı değişimleri değerlendirdi.\n\nSuriye Cumhurbaşkanı Şara'nın, İran’ın Katar ve bölge ülkelerine yönelik devam eden saldırgan tutumunu kınadığı belirtilen açıklamada, bunun devletlerin egemenliğinin ihlali ve bölgenin güvenlik ile istikrarına yönelik bir tehdit oluşturduğunu ifade edildi.\n\nLiderlerin, bölgede gerilimin derhal durdurulmasının önemine dikkati çektiği açıklamada, durumun daha fazla tırmanmasının ve bölgenin kaosa sürüklenmesinin önlenmesi gerektiği vurgulandı.\n\nAçıklamada ayrıca, gerilimin düşürülmesi için uygun koşulların oluşturulması amacıyla bölgesel ve uluslararası çabaların artırılması gerektiği belirtildi.\n\nŞeyh Temim ve Şara, siyasi ve diplomatik yolların Birleşmiş Milletler (BM) ilkeleri ve BM Şartı çerçevesinde sürdürülmesinin bölgesel güvenlik ve istikrarın güçlendirilmesine katkı sağlayacağını ifade etti.\n\nABD-İSRAİL’İN İRAN’A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİranlı yetkililere göre, ABD-İsrail saldırılarında bin 332 kişi hayatını kaybetti.",
+      "long_summary": "Suriye Cumhurbaşkanı Ahmed Şara ile Katar Emiri Şeyh Temim bin Hamed Al Sani, bölgedeki son gelişmeler ve sahadaki hızlı değişimleri ele aldı.Katar Emirlik Divanı’ndan yapılan yazılı açıklamaya göre, Şeyh Temim ve Şara bir telefon görüşmesi gerçekleştirdi. Şeyh Temim ve Şara, bölgedeki son gelişmeleri ve sahadaki hızlı değişimleri değerlendirdi.\n\nSuriye Cumhurbaşkanı Şara'nın, İran’ın Katar ve bölge ülkelerine yönelik devam eden saldırgan tutumunu kınadığı belirtilen açıklamada, bunun",
+      "long_summary_tr": "Suriye Cumhurbaşkanı Ahmed Şara ile Katar Emiri Şeyh Temim bin Hamed Al Sani, bölgedeki son gelişmeler ve sahadaki hızlı değişimleri ele aldı.Katar Emirlik Divanı’ndan yapılan yazılı açıklamaya göre, Şeyh Temim ve Şara bir telefon görüşmesi gerçekleştirdi. Şeyh Temim ve Şara, bölgedeki son gelişmeleri ve sahadaki hızlı değişimleri değerlendirdi.\n\nSuriye Cumhurbaşkanı Şara'nın, İran’ın Katar ve bölge ülkelerine yönelik devam eden saldırgan tutumunu kınadığı belirtilen açıklamada, bunun",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/bursaspor/bursaspor-gorkemli-karsilama-1591457",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/bursaspor-gorkemli-karsilama-1772997304-63_large.webp",
-      "published_at": "2026-03-08T16:54:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Sivas'ta yıkım sırasında bitişikteki bina hasar gördü, 21 daireli bina tahliye edildi",
-      "title_tr": "Sivas'ta yıkım sırasında bitişikteki bina hasar gördü, 21 daireli bina tahliye edildi",
-      "summary": "Sivas'ta bir binanın yıkımı esnasında, bitişiğinde yer alan başka bir yapının ana taşıyıcı kolonunda hasar meydana geldi, 21 daireli binada oturanlar tahliye edildi.İnönü Bulvarı üzerinde bulunan binanın yıkımı esnasında bitişiğinde bulunan sağlam binanın kolonlarından sesler gelmesi üzerine itfaiyeden yardım istendi. Yetkililer tarafından binada yapılan incelemede taşıyıcı kolanlarda hasar oluştuğu tespit edildi. Ağır hasarlı olarak raporlandırılan binada oturanlar tahliye edildi.\nBölgede gerekli güvenlik önlemleri alındı. 21 daireli binada teknik ekipler tarafından detaylı hasar tespit çalışmaları başlatıldı.",
-      "summary_tr": "Sivas'ta bir binanın yıkımı esnasında, bitişiğinde yer alan başka bir yapının ana taşıyıcı kolonunda hasar meydana geldi, 21 daireli binada oturanlar tahliye edildi.İnönü Bulvarı üzerinde bulunan binanın yıkımı esnasında bitişiğinde bulunan sağlam binanın kolonlarından sesler gelmesi üzerine itfaiyeden yardım istendi. Yetkililer tarafından binada yapılan incelemede taşıyıcı kolanlarda hasar oluştuğu tespit edildi. Ağır hasarlı olarak raporlandırılan binada oturanlar tahliye edildi.\nBölgede gerekli güvenlik önlemleri alındı. 21 daireli binada teknik ekipler tarafından detaylı hasar tespit çalışmaları başlatıldı.",
-      "long_summary": "Sivas'ta bir binanın yıkımı esnasında, bitişiğinde yer alan başka bir yapının ana taşıyıcı kolonunda hasar meydana geldi, 21 daireli binada oturanlar tahliye edildi.İnönü Bulvarı üzerinde bulunan binanın yıkımı esnasında bitişiğinde bulunan sağlam binanın kolonlarından sesler gelmesi üzerine itfaiyeden yardım istendi. Yetkililer tarafından binada yapılan incelemede taşıyıcı kolanlarda hasar oluştuğu tespit edildi. Ağır hasarlı olarak raporlandırılan binada oturanlar tahliye edildi.\nBölgede",
-      "long_summary_tr": "Sivas'ta bir binanın yıkımı esnasında, bitişiğinde yer alan başka bir yapının ana taşıyıcı kolonunda hasar meydana geldi, 21 daireli binada oturanlar tahliye edildi.İnönü Bulvarı üzerinde bulunan binanın yıkımı esnasında bitişiğinde bulunan sağlam binanın kolonlarından sesler gelmesi üzerine itfaiyeden yardım istendi. Yetkililer tarafından binada yapılan incelemede taşıyıcı kolanlarda hasar oluştuğu tespit edildi. Ağır hasarlı olarak raporlandırılan binada oturanlar tahliye edildi.\nBölgede",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/sivas-ta-yikim-sirasinda-bitisikteki-bina-hasar-gordu-21-daireli-bina-tahliye-edildi-1591454",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/sivas-ta-yikim-sirasinda-bitisikteki-bina-hasar-gordu-21-daireli-bina-tahliye-edildi-1772997116-129_large.webp",
-      "published_at": "2026-03-08T16:48:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kars'ta silahlı sopalı kavga güvenlik kamerasında: 2 yaralı",
-      "title_tr": "Kars'ta silahlı sopalı kavga güvenlik kamerasında: 2 yaralı",
-      "summary": "Kars'ta iki grup arasında çıkan kavgada silahlar çekildi, sopalar havada uçuştu. 2 kişinin yaralandığı kavga anı güvenlik kamerasına yansıdı.Olay, iftar saatinde İstasyon Mahallesi Ünal Özgödek Caddesi üzerinde meydana geldi. Cadde üzerinde karşılaşan iki grup arasında henüz bilinmeyen bir nedenden dolayı tartışma çıktı. Kısa sürede tartışmada silahlar çekildi, taşların ve sopaların kullanıldığı kavga meydan muharebesine döndü. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Olayda yaralanan 2 kişi, sağlık ekiplerince yapılan ilk müdahalelerinin ardından ambulanslarla hastaneye sevk edildi. Hastaneye sevk edilen yaralıların durumlarının iyi olduğu öğrenildi.\n\nGüvenlik kamerasına yansıyan görüntülerde tarafların birbirlerine sopalarla saldırdığı, birbirlerine tekme tokat vurmaları ve kaçmaları yer alıyor. Öte yandan polis, kavgaya karışan kişilerin yakalaması için çalışma başlattı.",
-      "summary_tr": "Kars'ta iki grup arasında çıkan kavgada silahlar çekildi, sopalar havada uçuştu. 2 kişinin yaralandığı kavga anı güvenlik kamerasına yansıdı.Olay, iftar saatinde İstasyon Mahallesi Ünal Özgödek Caddesi üzerinde meydana geldi. Cadde üzerinde karşılaşan iki grup arasında henüz bilinmeyen bir nedenden dolayı tartışma çıktı. Kısa sürede tartışmada silahlar çekildi, taşların ve sopaların kullanıldığı kavga meydan muharebesine döndü. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Olayda yaralanan 2 kişi, sağlık ekiplerince yapılan ilk müdahalelerinin ardından ambulanslarla hastaneye sevk edildi. Hastaneye sevk edilen yaralıların durumlarının iyi olduğu öğrenildi.\n\nGüvenlik kamerasına yansıyan görüntülerde tarafların birbirlerine sopalarla saldırdığı, birbirlerine tekme tokat vurmaları ve kaçmaları yer alıyor. Öte yandan polis, kavgaya karışan kişilerin yakalaması için çalışma başlattı.",
-      "long_summary": "Kars'ta iki grup arasında çıkan kavgada silahlar çekildi, sopalar havada uçuştu. 2 kişinin yaralandığı kavga anı güvenlik kamerasına yansıdı.Olay, iftar saatinde İstasyon Mahallesi Ünal Özgödek Caddesi üzerinde meydana geldi. Cadde üzerinde karşılaşan iki grup arasında henüz bilinmeyen bir nedenden dolayı tartışma çıktı. Kısa sürede tartışmada silahlar çekildi, taşların ve sopaların kullanıldığı kavga meydan muharebesine döndü. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.",
-      "long_summary_tr": "Kars'ta iki grup arasında çıkan kavgada silahlar çekildi, sopalar havada uçuştu. 2 kişinin yaralandığı kavga anı güvenlik kamerasına yansıdı.Olay, iftar saatinde İstasyon Mahallesi Ünal Özgödek Caddesi üzerinde meydana geldi. Cadde üzerinde karşılaşan iki grup arasında henüz bilinmeyen bir nedenden dolayı tartışma çıktı. Kısa sürede tartışmada silahlar çekildi, taşların ve sopaların kullanıldığı kavga meydan muharebesine döndü. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/kars-ta-silahli-sopali-kavga-guvenlik-kamerasinda-2-yarali-1591451",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/kars-ta-silahli-sopali-kavga-guvenlik-kamerasinda-2-yarali-1772996829-40_large.webp",
-      "published_at": "2026-03-08T16:43:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 08 Mart 2026",
-      "title_tr": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 08 Mart 2026",
-      "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 08 Mart 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Çanakkale'de? Çanakkale son deprem büyüklüğü ne kadar? Çanakkale'de ve Çanakkale yakınındaki depremler nelerdir? Çanakkale'de anlık deprem mi oldu? Son dakika Çanakkale canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD Çanakkale deprem haberleri.. Çanakkale'de hangi ilçelerde deprem oldu ve hangi ilçelerde en çok hissedildi? Bugün Çanakkale'de deprem mi oldu? Deprem Çanakkale'de ne zaman ve kaç şiddetinde oldu? En son Çanakkale'de nerede deprem oldu? Çanakkale deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde...",
-      "summary_tr": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 08 Mart 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Çanakkale'de? Çanakkale son deprem büyüklüğü ne kadar? Çanakkale'de ve Çanakkale yakınındaki depremler nelerdir? Çanakkale'de anlık deprem mi oldu? Son dakika Çanakkale canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD Çanakkale deprem haberleri.. Çanakkale'de hangi ilçelerde deprem oldu ve hangi ilçelerde en çok hissedildi? Bugün Çanakkale'de deprem mi oldu? Deprem Çanakkale'de ne zaman ve kaç şiddetinde oldu? En son Çanakkale'de nerede deprem oldu? Çanakkale deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde...",
-      "long_summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 08 Mart 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Çanakkale'de? Çanakkale son deprem büyüklüğü ne kadar? Çanakkale'de ve Çanakkale yakınındaki depremler nelerdir? Çanakkale'de anlık deprem mi oldu? Son dakika Çanakkale canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD",
-      "long_summary_tr": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 08 Mart 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Çanakkale'de? Çanakkale son deprem büyüklüğü ne kadar? Çanakkale'de ve Çanakkale yakınındaki depremler nelerdir? Çanakkale'de anlık deprem mi oldu? Son dakika Çanakkale canlı deprem haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/son-dakika-canakkalede-deprem-mi-oldu-az-once-deprem-canakkalede-nerede-oldu-canakkale-deprem-kandilli-ve-afad-son-depremler-listesi-08-mart-2026-1715073",
-      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-03-08T16:40:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kongo Demokratik Cumhuriyeti’nde koltan madeninde meydana gelen heyelanda 55 kişi öldü",
-      "title_tr": "Kongo Demokratik Cumhuriyeti’nde koltan madeninde meydana gelen heyelanda 55 kişi öldü",
-      "summary": "Kongo Demokratik Cumhuriyeti’nin (KDC) doğusundaki Kuzey Kivu eyaletinin Rubaya bölgesinde bulunan koltan maden sahasında meydana gelen toprak kaymasında en az 55 maden işçisi hayatını kaybetti.Ulusal basındaki haberlere göre, Rubaya maden bölgesinde bulunan Gakombe adlı maden sahasında şiddetli yağışların ardından toprak kayması meydana geldi.\n\nGöçük altında kalan en az 55 maden işçisi yaşamını yitirirken, maden sahasında arama kurtarma çalışmaları devam ediyor.\n\nZengin yer altı rezervine sahip ülkenin, madencilik faaliyetlerinin büyük ölçüde denetimsiz yürütülmesi ve güvenlik altyapısının bulunmaması nedeniyle bu tür göçükler sık sık yaşanıyor.\n\nAynı bölgede bulunan başka bir maden sahasında 3 Mart 2026’da meydana gelen heyelanda 200’den fazla işçi hayatını kaybetmişti.",
-      "summary_tr": "Kongo Demokratik Cumhuriyeti’nin (KDC) doğusundaki Kuzey Kivu eyaletinin Rubaya bölgesinde bulunan koltan maden sahasında meydana gelen toprak kaymasında en az 55 maden işçisi hayatını kaybetti.Ulusal basındaki haberlere göre, Rubaya maden bölgesinde bulunan Gakombe adlı maden sahasında şiddetli yağışların ardından toprak kayması meydana geldi.\n\nGöçük altında kalan en az 55 maden işçisi yaşamını yitirirken, maden sahasında arama kurtarma çalışmaları devam ediyor.\n\nZengin yer altı rezervine sahip ülkenin, madencilik faaliyetlerinin büyük ölçüde denetimsiz yürütülmesi ve güvenlik altyapısının bulunmaması nedeniyle bu tür göçükler sık sık yaşanıyor.\n\nAynı bölgede bulunan başka bir maden sahasında 3 Mart 2026’da meydana gelen heyelanda 200’den fazla işçi hayatını kaybetmişti.",
-      "long_summary": "Kongo Demokratik Cumhuriyeti’nin (KDC) doğusundaki Kuzey Kivu eyaletinin Rubaya bölgesinde bulunan koltan maden sahasında meydana gelen toprak kaymasında en az 55 maden işçisi hayatını kaybetti.Ulusal basındaki haberlere göre, Rubaya maden bölgesinde bulunan Gakombe adlı maden sahasında şiddetli yağışların ardından toprak kayması meydana geldi.\n\nGöçük altında kalan en az 55 maden işçisi yaşamını yitirirken, maden sahasında arama kurtarma çalışmaları devam ediyor.\n\nZengin yer altı rezervine",
-      "long_summary_tr": "Kongo Demokratik Cumhuriyeti’nin (KDC) doğusundaki Kuzey Kivu eyaletinin Rubaya bölgesinde bulunan koltan maden sahasında meydana gelen toprak kaymasında en az 55 maden işçisi hayatını kaybetti.Ulusal basındaki haberlere göre, Rubaya maden bölgesinde bulunan Gakombe adlı maden sahasında şiddetli yağışların ardından toprak kayması meydana geldi.\n\nGöçük altında kalan en az 55 maden işçisi yaşamını yitirirken, maden sahasında arama kurtarma çalışmaları devam ediyor.\n\nZengin yer altı rezervine",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/kongo-demokratik-cumhuriyeti-nde-koltan-madeninde-meydana-gelen-heyelanda-55-kisi-oldu-1591448",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/kongo-demokratik-cumhuriyeti-nde-koltan-madeninde-meydana-gelen-heyelanda-55-kisi-oldu-1772996766-344_large.webp",
-      "published_at": "2026-03-08T16:38:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "TZOB Başkanı Bayraktar: Çiftçi destek bekliyor",
-      "title_tr": "TZOB Başkanı Bayraktar: Çiftçi destek bekliyor",
-      "summary": "Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, aşırı yağışların tarım alanlarında oluşturduğu zararı incelemek üzere Aydın&#039;a geldi. Bayraktar, &quot;Afetler tarımı vurdu, çiftçi destek bekliyor&quot; dedi.",
-      "summary_tr": "Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, aşırı yağışların tarım alanlarında oluşturduğu zararı incelemek üzere Aydın&#039;a geldi. Bayraktar, &quot;Afetler tarımı vurdu, çiftçi destek bekliyor&quot; dedi.",
-      "long_summary": "Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, aşırı yağışların tarım alanlarında oluşturduğu zararı incelemek üzere Aydın&#039;a geldi. Bayraktar, &quot;Afetler tarımı vurdu, çiftçi destek bekliyor&quot; dedi.",
-      "long_summary_tr": "Türkiye Ziraat Odaları Birliği (TZOB) Genel Başkanı Şemsi Bayraktar, aşırı yağışların tarım alanlarında oluşturduğu zararı incelemek üzere Aydın&#039;a geldi. Bayraktar, &quot;Afetler tarımı vurdu, çiftçi destek bekliyor&quot; dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/tzob-baskani-bayraktar-ciftci-destek-bekliyor-haberi-817531",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/cc1-nejl_cover.jpg",
-      "published_at": "2026-03-08T16:36:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Mamie Gummer Shares How She Prepped for Celine’s Winter 2026 Show",
-      "title_tr": "Mamie Gummer Shares How She Prepped for Celine’s Winter 2026 Show",
-      "summary": "“‘En route.’ That’s French for ‘not late yet.’”",
-      "summary_tr": "“‘En route.’ That’s French for ‘not late yet.’”",
-      "long_summary": "“‘En route.’ That’s French for ‘not late yet.’”",
-      "long_summary_tr": "“‘En route.’ That’s French for ‘not late yet.’”",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/celebrity-style/g70645029/mamie-gummer-getting-ready-diary-celine-winter-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/celine-mamie-gummer-pierremouton-dscf5101-69ad90bdd3636.jpg",
-      "published_at": "2026-03-08T16:35:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kocaeli’de 183 dolandırıcılık dosyasından aranan şahıs yakalandı",
-      "title_tr": "Kocaeli’de 183 dolandırıcılık dosyasından aranan şahıs yakalandı",
-      "summary": "Kocaeli’de 183 ayrı dolandırıcılık suçundan hakkında kesinleşmiş 28 yıl 15 gün hapis cezası bulunan şahıs, polis ekiplerinin düzenlediği operasyonla yakalandı.Kocaeli İl Emniyet Müdürlüğü ekiplerince aranan şahısların yakalanmasına yönelik yürütülen çalışmalar kapsamında, dolandırıcılık suçundan 183 ayrı dosyadan hakkında toplam 28 yıl 15 gün kesinleşmiş hapis cezası bulunan H.G. (41), Çayırova ilçesinde düzenlenen operasyonla yakalandı. Emniyet Müdürlüğü’ndeki işlemleri tamamlanan hükümlü, aynı gün sevk edildiği adli makamlarca tutuklanarak cezaevine gönderildi.",
-      "summary_tr": "Kocaeli’de 183 ayrı dolandırıcılık suçundan hakkında kesinleşmiş 28 yıl 15 gün hapis cezası bulunan şahıs, polis ekiplerinin düzenlediği operasyonla yakalandı.Kocaeli İl Emniyet Müdürlüğü ekiplerince aranan şahısların yakalanmasına yönelik yürütülen çalışmalar kapsamında, dolandırıcılık suçundan 183 ayrı dosyadan hakkında toplam 28 yıl 15 gün kesinleşmiş hapis cezası bulunan H.G. (41), Çayırova ilçesinde düzenlenen operasyonla yakalandı. Emniyet Müdürlüğü’ndeki işlemleri tamamlanan hükümlü, aynı gün sevk edildiği adli makamlarca tutuklanarak cezaevine gönderildi.",
-      "long_summary": "Kocaeli’de 183 ayrı dolandırıcılık suçundan hakkında kesinleşmiş 28 yıl 15 gün hapis cezası bulunan şahıs, polis ekiplerinin düzenlediği operasyonla yakalandı.Kocaeli İl Emniyet Müdürlüğü ekiplerince aranan şahısların yakalanmasına yönelik yürütülen çalışmalar kapsamında, dolandırıcılık suçundan 183 ayrı dosyadan hakkında toplam 28 yıl 15 gün kesinleşmiş hapis cezası bulunan H.G. (41), Çayırova ilçesinde düzenlenen operasyonla yakalandı. Emniyet Müdürlüğü’ndeki işlemleri tamamlanan hükümlü,",
-      "long_summary_tr": "Kocaeli’de 183 ayrı dolandırıcılık suçundan hakkında kesinleşmiş 28 yıl 15 gün hapis cezası bulunan şahıs, polis ekiplerinin düzenlediği operasyonla yakalandı.Kocaeli İl Emniyet Müdürlüğü ekiplerince aranan şahısların yakalanmasına yönelik yürütülen çalışmalar kapsamında, dolandırıcılık suçundan 183 ayrı dosyadan hakkında toplam 28 yıl 15 gün kesinleşmiş hapis cezası bulunan H.G. (41), Çayırova ilçesinde düzenlenen operasyonla yakalandı. Emniyet Müdürlüğü’ndeki işlemleri tamamlanan hükümlü,",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/kocaeli-de-183-dolandiricilik-dosyasindan-aranan-sahis-yakalandi-1591445",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/kocaeli-de-183-dolandiricilik-dosyasindan-aranan-sahis-yakalandi-1772996694-854_large.webp",
-      "published_at": "2026-03-08T16:33:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "İsrail, 10 Filistinli kadının cenazesini alıkoymayı sürdürüyor",
-      "title_tr": "İsrail, 10 Filistinli kadının cenazesini alıkoymayı sürdürüyor",
-      "summary": "İsrail makamlarının, 10 Filistinli kadının cenazesini yakınlarına teslim etmeme konusunda ısrar ettiği bildirildi.Şehitlerin Cenazelerinin Geri Alınması İçin Ulusal Kampanya adlı Filistin örgütü, 8 Mart Dünya Kadınlar Günü münasebetiyle bir açıklama yayımladı. Açıklamada, İsrail yönetiminin çeşitli şekillerde hayatını kaybetmiş 10 Filistinli kadının cenazesini alıkoymaya devam ettiği kaydedildi.\n\n\"İşgalci İsrail yetkililerinin, insani değerlere, uluslararası hukuka ve ailelerin kızlarına ve oğullarına veda etme ve onları onurlu bir şekilde defnetme haklarına açıkça aykırı tutum sergilediği\" belirtilen açıklamada, çeşitli şartlar altında vefat etmiş olan 10 Filistinli kadının cesetlerini sayılar mezarlığında ve morglarda tutmaya devam ettiği vurgulandı.\n\nİsrail Yüksek Mahkemesi, Eylül 2019'da aldığı kararla askeri komutana, ordu tarafından öldürülen Filistinlilerin cesetlerini alıkoyma ve \"gelecekteki pazarlık kozu\" olarak kullanmak üzere geçici olarak gömme yetkisi vermişti.\n\nİsrail, ailesine teslim etmediği Filistinlilerin naaşını ise \"Sayılar Mezarlığı\" adı verilen ve üzerinde isimler yerine yalnızca sayıların bulunduğu mezarlara defnediyor.",
-      "summary_tr": "İsrail makamlarının, 10 Filistinli kadının cenazesini yakınlarına teslim etmeme konusunda ısrar ettiği bildirildi.Şehitlerin Cenazelerinin Geri Alınması İçin Ulusal Kampanya adlı Filistin örgütü, 8 Mart Dünya Kadınlar Günü münasebetiyle bir açıklama yayımladı. Açıklamada, İsrail yönetiminin çeşitli şekillerde hayatını kaybetmiş 10 Filistinli kadının cenazesini alıkoymaya devam ettiği kaydedildi.\n\n\"İşgalci İsrail yetkililerinin, insani değerlere, uluslararası hukuka ve ailelerin kızlarına ve oğullarına veda etme ve onları onurlu bir şekilde defnetme haklarına açıkça aykırı tutum sergilediği\" belirtilen açıklamada, çeşitli şartlar altında vefat etmiş olan 10 Filistinli kadının cesetlerini sayılar mezarlığında ve morglarda tutmaya devam ettiği vurgulandı.\n\nİsrail Yüksek Mahkemesi, Eylül 2019'da aldığı kararla askeri komutana, ordu tarafından öldürülen Filistinlilerin cesetlerini alıkoyma ve \"gelecekteki pazarlık kozu\" olarak kullanmak üzere geçici olarak gömme yetkisi vermişti.\n\nİsrail, ailesine teslim etmediği Filistinlilerin naaşını ise \"Sayılar Mezarlığı\" adı verilen ve üzerinde isimler yerine yalnızca sayıların bulunduğu mezarlara defnediyor.",
-      "long_summary": "İsrail makamlarının, 10 Filistinli kadının cenazesini yakınlarına teslim etmeme konusunda ısrar ettiği bildirildi.Şehitlerin Cenazelerinin Geri Alınması İçin Ulusal Kampanya adlı Filistin örgütü, 8 Mart Dünya Kadınlar Günü münasebetiyle bir açıklama yayımladı. Açıklamada, İsrail yönetiminin çeşitli şekillerde hayatını kaybetmiş 10 Filistinli kadının cenazesini alıkoymaya devam ettiği kaydedildi.\n\n\"İşgalci İsrail yetkililerinin, insani değerlere, uluslararası hukuka ve ailelerin kızlarına ve",
-      "long_summary_tr": "İsrail makamlarının, 10 Filistinli kadının cenazesini yakınlarına teslim etmeme konusunda ısrar ettiği bildirildi.Şehitlerin Cenazelerinin Geri Alınması İçin Ulusal Kampanya adlı Filistin örgütü, 8 Mart Dünya Kadınlar Günü münasebetiyle bir açıklama yayımladı. Açıklamada, İsrail yönetiminin çeşitli şekillerde hayatını kaybetmiş 10 Filistinli kadının cenazesini alıkoymaya devam ettiği kaydedildi.\n\n\"İşgalci İsrail yetkililerinin, insani değerlere, uluslararası hukuka ve ailelerin kızlarına ve",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/israil-10-filistinli-kadinin-cenazesini-alikoymayi-surduruyor-1591442",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/israil-10-filistinli-kadinin-cenazesini-alikoymayi-surduruyor-1772996606-972_large.webp",
-      "published_at": "2026-03-08T16:27:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Charli XCX Says She Wants to ‘Quit Music’ and Pivot Her Career",
-      "title_tr": "Charli XCX Says She Wants to ‘Quit Music’ and Pivot Her Career",
-      "summary": "Charli XCX Says She Wants to ‘Quit Music’ and Pivot Her Career",
-      "summary_tr": "Charli XCX Says She Wants to ‘Quit Music’ and Pivot Her Career",
-      "long_summary": "Charli XCX Says She Wants to ‘Quit Music’ and Pivot Her Career",
-      "long_summary_tr": "Charli XCX Says She Wants to ‘Quit Music’ and Pivot Her Career",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a70660364/charli-xcx-quit-music-for-acting/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/e5466c69-a64f-4b33-b5b6-31780e3014db.jpeg",
-      "published_at": "2026-03-08T16:23:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Muğla'da kadınlar Günü'nde karısını öldüren şahıs tutukland",
-      "title_tr": "Muğla'da kadınlar Günü'nde karısını öldüren şahıs tutukland",
-      "summary": "Muğla'nın Kavaklıdere ilçesinde eşini bıçaklayarak öldüren şahıs, sevk edildiği adli makamlarca tutuklandı.Olay, Çamlıbel Mahallesi yayla evleri mevkiindeki bir evde gece saatlerinde meydana geldi. Edinilen bilgiye göre, A.B. (51) ile eşi Sermin Bacak (42) arasında henüz belirlenemeyen bir sebeple tartışma çıktı. Kısa sürede büyüyen tartışma bıçaklı kavgaya dönüştü. Yaşanan boğuşma sırasında Sermin Bacak, eşinin bıçak darbesiyle ağır yaralandı. İhbar üzerine bölgeye sağlık ve jandarma ekipleri sevk edildi. Kısa sürede olay yerine gelen sağlık ekipleri yaptıkları kontrollerde Bacak'ın hayatını kaybettiğini belirledi. Olayın yaşandığı evde jandarma ve olay yeri inceleme ekipleri detaylı çalışma yaparken, Sermin Bacak'ın cansız bedeni otopsi yapılmak üzere Muğla Adli Tıp Kurumu morguna ardından da Fethiye ilçesine gönderildiği ve 9 Mart Pazartesi günü toprağa verileceği öğrenildi.\n\nTUTUKLANDI\n\nGözaltına alınan zanlı A.B.'nin ilk ifadesinde, tartışma sırasında eşinin eline bıçak aldığını, kendisinin ise bıçağı engellemeye çalıştığı sırada yaşanan boğuşma neticesinde bıçağın eşine saplandığını iddia ettiği öğrenildi. Jandarmadaki işlemleri tamamlanan A.B. Yatağan Adliyesi'ne sevk edildi. A.B. çıkartıldığı mahkemece tutuklanarak cezaevine gönderildi.",
-      "summary_tr": "Muğla'nın Kavaklıdere ilçesinde eşini bıçaklayarak öldüren şahıs, sevk edildiği adli makamlarca tutuklandı.Olay, Çamlıbel Mahallesi yayla evleri mevkiindeki bir evde gece saatlerinde meydana geldi. Edinilen bilgiye göre, A.B. (51) ile eşi Sermin Bacak (42) arasında henüz belirlenemeyen bir sebeple tartışma çıktı. Kısa sürede büyüyen tartışma bıçaklı kavgaya dönüştü. Yaşanan boğuşma sırasında Sermin Bacak, eşinin bıçak darbesiyle ağır yaralandı. İhbar üzerine bölgeye sağlık ve jandarma ekipleri sevk edildi. Kısa sürede olay yerine gelen sağlık ekipleri yaptıkları kontrollerde Bacak'ın hayatını kaybettiğini belirledi. Olayın yaşandığı evde jandarma ve olay yeri inceleme ekipleri detaylı çalışma yaparken, Sermin Bacak'ın cansız bedeni otopsi yapılmak üzere Muğla Adli Tıp Kurumu morguna ardından da Fethiye ilçesine gönderildiği ve 9 Mart Pazartesi günü toprağa verileceği öğrenildi.\n\nTUTUKLANDI\n\nGözaltına alınan zanlı A.B.'nin ilk ifadesinde, tartışma sırasında eşinin eline bıçak aldığını, kendisinin ise bıçağı engellemeye çalıştığı sırada yaşanan boğuşma neticesinde bıçağın eşine saplandığını iddia ettiği öğrenildi. Jandarmadaki işlemleri tamamlanan A.B. Yatağan Adliyesi'ne sevk edildi. A.B. çıkartıldığı mahkemece tutuklanarak cezaevine gönderildi.",
-      "long_summary": "Muğla'nın Kavaklıdere ilçesinde eşini bıçaklayarak öldüren şahıs, sevk edildiği adli makamlarca tutuklandı.Olay, Çamlıbel Mahallesi yayla evleri mevkiindeki bir evde gece saatlerinde meydana geldi. Edinilen bilgiye göre, A.B. (51) ile eşi Sermin Bacak (42) arasında henüz belirlenemeyen bir sebeple tartışma çıktı. Kısa sürede büyüyen tartışma bıçaklı kavgaya dönüştü. Yaşanan boğuşma sırasında Sermin Bacak, eşinin bıçak darbesiyle ağır yaralandı. İhbar üzerine bölgeye sağlık ve jandarma ekipleri",
-      "long_summary_tr": "Muğla'nın Kavaklıdere ilçesinde eşini bıçaklayarak öldüren şahıs, sevk edildiği adli makamlarca tutuklandı.Olay, Çamlıbel Mahallesi yayla evleri mevkiindeki bir evde gece saatlerinde meydana geldi. Edinilen bilgiye göre, A.B. (51) ile eşi Sermin Bacak (42) arasında henüz belirlenemeyen bir sebeple tartışma çıktı. Kısa sürede büyüyen tartışma bıçaklı kavgaya dönüştü. Yaşanan boğuşma sırasında Sermin Bacak, eşinin bıçak darbesiyle ağır yaralandı. İhbar üzerine bölgeye sağlık ve jandarma ekipleri",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/mugla-da-kadinlar-gunu-nde-karisini-olduren-sahis-tutukland-1591439",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/mugla-da-kadinlar-gunu-nde-karisini-olduren-sahis-tutukland-1772996526-609_large.webp",
-      "published_at": "2026-03-08T16:23:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/dunya/suriye-cumhurbaskani-sara-ile-katar-emiri-seyh-temim-bolgedeki-gelismeleri-gorustu-1591517",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/08/suriye-cumhurbaskani-sara-ile-katar-emiri-seyh-temim-bolgedeki-gelismeleri-gorustu-1772999867-490_large.webp",
+      "published_at": "2026-03-08T18:29:00+00:00"
     }
   ]
 }
