@@ -1,6 +1,864 @@
 {
-  "updated_at": "2026-03-11T16:01:47.652723+00:00",
+  "updated_at": "2026-03-11T17:07:13.297567+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Motor1",
+      "title": "Ferrari, daha güçlü bir Purosangue geliştiriyor!",
+      "title_tr": "Ferrari, daha güçlü bir Purosangue geliştiriyor!",
+      "summary": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
+      "summary_tr": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
+      "long_summary": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
+      "long_summary_tr": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://tr.motor1.com/news/789709/ferrari-daha-guclu-purosangue/",
+      "image": "https://cdn.motor1.com/images/mgl/Kb7yWQ/s3/ferrari-purosangue-first-drive-review.jpg",
+      "published_at": "2026-03-11T17:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Cumhurbaşkanı Erdoğan iftar programında konuşuyor",
+      "title_tr": "Cumhurbaşkanı Erdoğan iftar programında konuşuyor",
+      "summary": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
+      "summary_tr": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
+      "long_summary": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
+      "long_summary_tr": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-iftar-programinda-konusuyor-1715550",
+      "image": "https://images.ntv.com.tr/images/AA-20260218-40596416-40596414-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-310259(2).jpg",
+      "published_at": "2026-03-11T16:59:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
+      "title_tr": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
+      "summary": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
+      "summary_tr": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
+      "long_summary": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
+      "long_summary_tr": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/fitch-petrol-soku-gecici-kalrsa-kuresel-buyume-istikrarl-olacak-93CH-3805142",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:56:02+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Il Etait Temps wins Queen Mother Champion Chase",
+      "title_tr": "Il Etait Temps wins Queen Mother Champion Chase",
+      "summary": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
+      "summary_tr": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
+      "long_summary": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
+      "long_summary_tr": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/horse-racing/articles/cpqw8v5dzz3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4467/live/729e4240-1d66-11f1-8078-f393eb24ebf7.jpg",
+      "published_at": "2026-03-11T16:47:17+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakan Bolat: Türkiye-Fransa iş birliği genişliyor",
+      "title_tr": "Bakan Bolat: Türkiye-Fransa iş birliği genişliyor",
+      "summary": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/bakan-bolat-turkiye-fransa-is-birligi-genisliyor-haberi-817951",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/tt1-aanm_cover.jpg",
+      "published_at": "2026-03-11T16:47:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+      "title_tr": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
+      "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+      "summary_tr": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+      "long_summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+      "long_summary_tr": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd7/live/59400920-1d64-11f1-8078-f393eb24ebf7.jpg",
+      "published_at": "2026-03-11T16:45:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Hayvanlar hızlı kilo alsın diye Kurban Bayramı öncesi insanlık dışı görüntü. Bakanlık inceleme başlattı",
+      "title_tr": "Hayvanlar hızlı kilo alsın diye Kurban Bayramı öncesi insanlık dışı görüntü. Bakanlık inceleme başlattı",
+      "summary": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "summary_tr": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "long_summary": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "long_summary_tr": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/hayvanlar-hizli-kilo-alsin-diye-kurban-bayrami-oncesi-insanlik-disi-goruntu-bakanlik-inceleme-baslatti-1715551",
+      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-02-22185628copy-485772.jpg",
+      "published_at": "2026-03-11T16:45:21+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Macron: G7 petrol rezervlerini önümüzdeki günlerde piyasaya sürecek",
+      "title_tr": "Macron: G7 petrol rezervlerini önümüzdeki günlerde piyasaya sürecek",
+      "summary": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
+      "summary_tr": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
+      "long_summary": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
+      "long_summary_tr": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/macron-g7-petrol-rezervlerini-onumuzdeki-gunlerde-piyasaya-surecek-3771608",
+      "image": null,
+      "published_at": "2026-03-11T16:42:58+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "These are Ukraine’s $1,000 interceptor drones the Pentagon wants to buy",
+      "title_tr": "These are Ukraine’s $1,000 interceptor drones the Pentagon wants to buy",
+      "summary": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
+      "summary_tr": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
+      "long_summary": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
+      "long_summary_tr": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/03/11/these-are-ukraines-1000-interceptor-drones-the-pentagon-wants-to-buy/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JYR33GA4H5AHNOB2WO7RIQAVME.jpg",
+      "published_at": "2026-03-11T16:38:14+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
+      "title_tr": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
+      "summary": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
+      "summary_tr": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
+      "long_summary": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
+      "long_summary_tr": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/uluslararasi-enerji-ajansi-ndan-rekor-petrol-salimi-3771605",
+      "image": null,
+      "published_at": "2026-03-11T16:37:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Perakende satışlar Ocak'ta da arttı",
+      "title_tr": "Perakende satışlar Ocak'ta da arttı",
+      "summary": "Perakende satışlar Ocak'ta da arttı",
+      "summary_tr": "Perakende satışlar Ocak'ta da arttı",
+      "long_summary": "Perakende satışlar Ocak'ta da arttı",
+      "long_summary_tr": "Perakende satışlar Ocak'ta da arttı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/perakende-satislar-ocak-ta-da-artti-3771604",
+      "image": null,
+      "published_at": "2026-03-11T16:37:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Nomura, Nio için tavsiyesini yükseltti",
+      "title_tr": "Nomura, Nio için tavsiyesini yükseltti",
+      "summary": "Nomura, Nio için tavsiyesini yükseltti",
+      "summary_tr": "Nomura, Nio için tavsiyesini yükseltti",
+      "long_summary": "Nomura, Nio için tavsiyesini yükseltti",
+      "long_summary_tr": "Nomura, Nio için tavsiyesini yükseltti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/nomura-nio-icin-tavsiyesini-yukseltti-3805126",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:36:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
+      "title_tr": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
+      "summary": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
+      "summary_tr": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
+      "long_summary": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
+      "long_summary_tr": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/papa-johns-hisseleri-satn-alma-teklifi-haberinin-ardndan-yukseldi-93CH-3805109",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:28:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "ABD’den uyarı: İran’ın kullandığı limanlardan uzak durun",
+      "title_tr": "ABD’den uyarı: İran’ın kullandığı limanlardan uzak durun",
+      "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
+      "summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
+      "long_summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
+      "long_summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/abdden-uyari-iranin-kullandigi-limanlardan-uzak-durun-haberi-817950",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/03/abd-qct5_cover.jpg",
+      "published_at": "2026-03-11T16:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Enerji Bakanı Bayraktar açıkladı: Enerji kesintisi olacak mı?",
+      "title_tr": "Enerji Bakanı Bayraktar açıkladı: Enerji kesintisi olacak mı?",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
+      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
+      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
+      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/enerji/enerji-bakani-bayraktar-acikladi-enerji-kesintisi-olacak-mi-haberi-817949",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/03/25/alparslan-bayraktar-xinz_cover.jpg",
+      "published_at": "2026-03-11T16:22:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Zootopia 2 Is Now Streaming on Disney+",
+      "title_tr": "Zootopia 2 Is Now Streaming on Disney+",
+      "summary": "Zootopia 2 is now available on Disney+.",
+      "summary_tr": "Zootopia 2 is now available on Disney+.",
+      "long_summary": "Zootopia 2 is now available on Disney+.",
+      "long_summary_tr": "Zootopia 2 is now available on Disney+.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/zootopia-2-streaming-disney-plus",
+      "image": "https://assets-prd.ignimgs.com/2025/05/20/zootopiathumb-1747757535411.png",
+      "published_at": "2026-03-11T16:21:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
+      "title_tr": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
+      "summary": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
+      "summary_tr": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
+      "long_summary": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
+      "long_summary_tr": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/ubs-demir-cevheri-ureticilerini-marj-ve-maliyete-gore-sralad-93CH-3805095",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:20:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
+      "title_tr": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
+      "summary": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
+      "summary_tr": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
+      "long_summary": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
+      "long_summary_tr": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/musk-teslaxai-ortak-projesi-macrohard-tantt-93CH-3805094",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:19:39+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "WhatsApp’tan Çocuklar için Güvenli Hesap Dönemi",
+      "title_tr": "WhatsApp’tan Çocuklar için Güvenli Hesap Dönemi",
+      "summary": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
+      "summary_tr": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
+      "long_summary": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
+      "long_summary_tr": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/whatsapptan-cocuklar-icin-guvenli-hesap-donemi",
+      "image": null,
+      "published_at": "2026-03-11T16:19:31+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Civil War shipwreck remains in ‘fantastic’ shape on ocean floor",
+      "title_tr": "Civil War shipwreck remains in ‘fantastic’ shape on ocean floor",
+      "summary": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
+      "summary_tr": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
+      "long_summary": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
+      "long_summary_tr": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/science/civil-war-monitor-shipwreck-3d-scans/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/03/USS-Monitor-Scan.png?quality=85",
+      "published_at": "2026-03-11T16:18:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Borsa günü yükselişle tamamladı",
+      "title_tr": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
+      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
+      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
+      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/haberler/borsa-gunu-yukselisle-tamamladi-haberi-817948",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/bb1-xrmn_cover.jpg",
+      "published_at": "2026-03-11T16:18:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Microsoft's GDC 2026 Keynote Live Report: 'Building for the Future With Xbox'",
+      "title_tr": "Microsoft's GDC 2026 Keynote Live Report: 'Building for the Future With Xbox'",
+      "summary": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
+      "summary_tr": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
+      "long_summary": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
+      "long_summary_tr": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/microsofts-gdc-2026-keynote-live-report-building-for-the-future-with-xbox",
+      "image": "https://assets-prd.ignimgs.com/2026/03/11/xbox-project-helix-gdc-live-blogroll-1773244871435.jpg",
+      "published_at": "2026-03-11T16:16:01+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Iranian minister says country will not play in World Cup",
+      "title_tr": "Iranian minister says country will not play in World Cup",
+      "summary": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
+      "summary_tr": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
+      "long_summary": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
+      "long_summary_tr": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cx2d5r92rk0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793b/live/337565f0-1d5a-11f1-9120-a910fc22c6ac.jpg",
+      "published_at": "2026-03-11T16:15:39+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
+      "title_tr": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
+      "summary": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
+      "summary_tr": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
+      "long_summary": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
+      "long_summary_tr": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/mcdonalds-nisanda-yeni-deger-teklifleri-sunacak--wsj-93CH-3805081",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:11:32+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Baseus 100W Multi-Port USB Charger Packs a Handy Digital Display for Just $30",
+      "title_tr": "The Baseus 100W Multi-Port USB Charger Packs a Handy Digital Display for Just $30",
+      "summary": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
+      "summary_tr": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
+      "long_summary": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
+      "long_summary_tr": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/baseus-100w-usb-c-charger-deals-for-handheld-gaming-pcs-has-digital-display",
+      "image": "https://assets-prd.ignimgs.com/2026/03/10/baseuspicogochargerdisplay-1773173203307.jpg",
+      "published_at": "2026-03-11T16:10:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Shopbop’s Sale Section Is Hiding Staud, Reformation, and Bottega Veneta",
+      "title_tr": "Shopbop’s Sale Section Is Hiding Staud, Reformation, and Bottega Veneta",
+      "summary": "Take up to 70 percent off spring wardrobe upgrades.",
+      "summary_tr": "Take up to 70 percent off spring wardrobe upgrades.",
+      "long_summary": "Take up to 70 percent off spring wardrobe upgrades.",
+      "long_summary_tr": "Take up to 70 percent off spring wardrobe upgrades.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/shopping/a70639996/shopbop-sale-march-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/guests-wear-beige-long-puff-sleeves-mini-dress-black-boots-news-photo-1773152630.pjpeg",
+      "published_at": "2026-03-11T16:09:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'Hiding in plain sight' - but why have Aberdeen moved for Robinson now?",
+      "title_tr": "'Hiding in plain sight' - but why have Aberdeen moved for Robinson now?",
+      "summary": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
+      "summary_tr": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
+      "long_summary": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
+      "long_summary_tr": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cy7j4npegg6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b798/live/75f81840-1d3d-11f1-8f41-53e6be7ade48.jpg",
+      "published_at": "2026-03-11T16:08:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Scotland's 'flex', Irish selection and a 'Triple Crown final'",
+      "title_tr": "Scotland's 'flex', Irish selection and a 'Triple Crown final'",
+      "summary": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
+      "summary_tr": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
+      "long_summary": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
+      "long_summary_tr": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/rugby-union/articles/czx7qe25099o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bed/live/ca163070-1d5a-11f1-a1ef-cb226cd714d6.jpg",
+      "published_at": "2026-03-11T16:06:46+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
+      "is_local": false,
+      "source": "Autocar",
+      "title": "Alfa Romeo GTV: a humble Fiat hatchback turned into a 150mph star",
+      "title_tr": "Alfa Romeo GTV: a humble Fiat hatchback turned into a 150mph star",
+      "summary": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater coupe designed by Giorgetto Giugiaro, as its much-admired predecessor had been, and while this Alfetta-based coupe had its issues – a habit of dissolving, the fractious relationship between its rear-mounted gearbox and a reluctant gearlever – it was a sophisticated beast of some charm.\nThe new GTV and its Spider convertible sister would inevitably be front-wheel drive being Tipo-based, and there were plenty of critics, this columnist included, who reckoned that this source platform would prove inadequate for the task.\nBut not if one Giancarlo Travaglio had his way. Travaglio was Alfa Romeo’s chief chassis man back in the early ‘90s, he and his colleagues selecting for benchmarks the long-forgotten (but rather brilliant) Honda Civic VTi hatch of the era, and the front-drive Lotus Elan.\nAt the Spider’s launch Travaglio told me of his habit of performing 115mph drifts “to learn about chassis equilibrium”, and of his enthusiasm for the Elan.\nMuch of whose dynamic magic stemmed from clever suspension and subframe bushing that effected firm but fluent control over the wheels and their geometries while in frenzied rotating motion, a development not lost on Alfa’s chassis team.\nEarly on in their development life the GTV and Spider had been narrower, their rear-ends suspended by some disappointingly simple chassis design that would have instantly betrayed their humble Tipo beginnings. But part-way through the programme there emerged an ultimately aborted plan to relaunch Alfa Romeo in the US, market research demanding that the cars appear more imposing. Around the same time Fiat Auto CEO Paolo Cantarella, a genuine car nut, decided that the Spider and GTV chassis weren't good enough.\nSo, the crude rear suspension was ditched in favour of a multi-link system mounted to a super-stiff alloy subframe, the back-axle kinematics designed to provide a controlled smidgen of rear-wheel steering.\nAt low to middling cornering forces the rear wheels would counter-steer, while at high speeds – Travaglio’s 125mph drifts, no doubt – they would steer fractionally in phase with the fronts.\nThere wasn’t the scope (or the skill) for this scribbler to confirm the Alfa’s behaviour at 115 squealing mph, but at lower speeds it cornered with an understeer-banishing obedience that was both a joy and a surprise. And, you could lift-off mid-bend and find the car tightening its line. It wasn’t as much fun as a tail-out drift in a Mazda MX-5, but it was definitely entertaining and a bit more dependable in rain.\nHeightening the fun was Alfa’s new range of Twin Spark motors. These were completely new engines, featuring one big and one small spark plug per cylinder for a total of eight, twin cams, the lobes of the inlet shaft flicking between two positions for deeper breathing and just as unusually, a pair of balancer shafts for smoothness.\nThe result in 2.0 litre form was 150bhp, 138lb ft of torque, plenty of rort and a 7000rpm redline. In fact, this engine would see 7300rpm before the rev limiter called curfew.\nThe Alfa Romeo GTV was three times as stiff as the Spider to make the better driver’s car and it had four seats to the Spider’s pair, though the rearmost duo were good only for the desperate. Or more likely your luggage, much potential bootspace ceded to the fuel tank, which had to be relocated to allow for the bulkier new rear suspension. The trade-off was worth it though, the GTV’s dynamics delivering on the promise of its style.\nWhich was pretty dramatic back in 1995. We’d seen wedge-shaped cars before, but this Enrico Fumia design was different, the deep scalpel cut running from front wing through doors and rear wing to loop around the back window or in the case of the Spider, the base of the body-coloured tonneau cover.\nClever. It was new, fresh and arresting, as were the quartet of headlamps punched through the Alfa’s composite plastic bonnet. Tiny front lights were something new back then, though lifting the huge bonnet revealed a larger rectangular lamp unit that the clamshell part-masked when closed.\nBoth GTV and Spider managed to live 10-year lives, which was pretty good for speciality cars, the GTV’s career boosted by the later availability of Alfa’s famously sonorous 3.0 V6 and a six-speed gearbox. A couple of light but effective titivations also maintained interest.\nBut while the GTV in particular gave a good on-road account of itself it wasn’t long before its chassis was eclipsed by the march of the hot hatch, and irritations like the never-settled ride and the laughably compact boot began to date it. Plenty of enthusiasts would have preferred rear-wheel drive, too.",
+      "summary_tr": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater coupe designed by Giorgetto Giugiaro, as its much-admired predecessor had been, and while this Alfetta-based coupe had its issues – a habit of dissolving, the fractious relationship between its rear-mounted gearbox and a reluctant gearlever – it was a sophisticated beast of some charm.\nThe new GTV and its Spider convertible sister would inevitably be front-wheel drive being Tipo-based, and there were plenty of critics, this columnist included, who reckoned that this source platform would prove inadequate for the task.\nBut not if one Giancarlo Travaglio had his way. Travaglio was Alfa Romeo’s chief chassis man back in the early ‘90s, he and his colleagues selecting for benchmarks the long-forgotten (but rather brilliant) Honda Civic VTi hatch of the era, and the front-drive Lotus Elan.\nAt the Spider’s launch Travaglio told me of his habit of performing 115mph drifts “to learn about chassis equilibrium”, and of his enthusiasm for the Elan.\nMuch of whose dynamic magic stemmed from clever suspension and subframe bushing that effected firm but fluent control over the wheels and their geometries while in frenzied rotating motion, a development not lost on Alfa’s chassis team.\nEarly on in their development life the GTV and Spider had been narrower, their rear-ends suspended by some disappointingly simple chassis design that would have instantly betrayed their humble Tipo beginnings. But part-way through the programme there emerged an ultimately aborted plan to relaunch Alfa Romeo in the US, market research demanding that the cars appear more imposing. Around the same time Fiat Auto CEO Paolo Cantarella, a genuine car nut, decided that the Spider and GTV chassis weren't good enough.\nSo, the crude rear suspension was ditched in favour of a multi-link system mounted to a super-stiff alloy subframe, the back-axle kinematics designed to provide a controlled smidgen of rear-wheel steering.\nAt low to middling cornering forces the rear wheels would counter-steer, while at high speeds – Travaglio’s 125mph drifts, no doubt – they would steer fractionally in phase with the fronts.\nThere wasn’t the scope (or the skill) for this scribbler to confirm the Alfa’s behaviour at 115 squealing mph, but at lower speeds it cornered with an understeer-banishing obedience that was both a joy and a surprise. And, you could lift-off mid-bend and find the car tightening its line. It wasn’t as much fun as a tail-out drift in a Mazda MX-5, but it was definitely entertaining and a bit more dependable in rain.\nHeightening the fun was Alfa’s new range of Twin Spark motors. These were completely new engines, featuring one big and one small spark plug per cylinder for a total of eight, twin cams, the lobes of the inlet shaft flicking between two positions for deeper breathing and just as unusually, a pair of balancer shafts for smoothness.\nThe result in 2.0 litre form was 150bhp, 138lb ft of torque, plenty of rort and a 7000rpm redline. In fact, this engine would see 7300rpm before the rev limiter called curfew.\nThe Alfa Romeo GTV was three times as stiff as the Spider to make the better driver’s car and it had four seats to the Spider’s pair, though the rearmost duo were good only for the desperate. Or more likely your luggage, much potential bootspace ceded to the fuel tank, which had to be relocated to allow for the bulkier new rear suspension. The trade-off was worth it though, the GTV’s dynamics delivering on the promise of its style.\nWhich was pretty dramatic back in 1995. We’d seen wedge-shaped cars before, but this Enrico Fumia design was different, the deep scalpel cut running from front wing through doors and rear wing to loop around the back window or in the case of the Spider, the base of the body-coloured tonneau cover.\nClever. It was new, fresh and arresting, as were the quartet of headlamps punched through the Alfa’s composite plastic bonnet. Tiny front lights were something new back then, though lifting the huge bonnet revealed a larger rectangular lamp unit that the clamshell part-masked when closed.\nBoth GTV and Spider managed to live 10-year lives, which was pretty good for speciality cars, the GTV’s career boosted by the later availability of Alfa’s famously sonorous 3.0 V6 and a six-speed gearbox. A couple of light but effective titivations also maintained interest.\nBut while the GTV in particular gave a good on-road account of itself it wasn’t long before its chassis was eclipsed by the march of the hot hatch, and irritations like the never-settled ride and the laughably compact boot began to date it. Plenty of enthusiasts would have preferred rear-wheel drive, too.",
+      "long_summary": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater",
+      "long_summary_tr": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater",
+      "why_important": [
+        "Ulaşım ve araç kullanımını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
+      ],
+      "url": "https://www.autocar.co.uk/car-news/used-cars/alfa-romeo-gtv-humble-fiat-hatchback-turned-150mph-star",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/alfagtv.jpg?itok=lc7qf3Rr",
+      "published_at": "2026-03-11T16:05:41+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Çanakkale Boğazı'nda gemi karaya oturdu",
+      "title_tr": "Çanakkale Boğazı'nda gemi karaya oturdu",
+      "summary": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
+      "summary_tr": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
+      "long_summary": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
+      "long_summary_tr": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/canakkale-bogazinda-gemi-karaya-oturdu-1715549",
+      "image": "https://images.ntv.com.tr/images/AA-20260311-40794355-40794354-CANAKKALE_BOGAZINDA_MAKINE_ARIZASI_YASAYAN_GEMI_KARAYA_OTURDU-293558.jpg",
+      "published_at": "2026-03-11T16:03:08+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
+      "title_tr": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
+      "summary": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
+      "summary_tr": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
+      "long_summary": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
+      "long_summary_tr": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/navitas-semiconductor-hisseleri-yeni-sic-urun-lansmanyla-20-yukseldi-93CH-3805058",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T16:02:07+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "iPhone 18 Pro’da Küçültülmüş Dynamic Island Olmayabilir",
+      "title_tr": "iPhone 18 Pro’da Küçültülmüş Dynamic Island Olmayabilir",
+      "summary": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
+      "summary_tr": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
+      "long_summary": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
+      "long_summary_tr": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/iphone-18-proda-kucultulmus-dynamic-island-olmayabilir",
+      "image": null,
+      "published_at": "2026-03-11T16:01:28+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "Anduril to buy space/missile tracking firm ExoAnalytic",
+      "title_tr": "Anduril to buy space/missile tracking firm ExoAnalytic",
+      "summary": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
+      "summary_tr": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
+      "long_summary": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
+      "long_summary_tr": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/03/anduril-to-buy-space-missile-tracking-firm-exoanalytic/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/12/Screen-Shot-2023-12-16-at-10.53.21-AM-e1716998768725-1024x576.png",
+      "published_at": "2026-03-11T16:01:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+      "title_tr": "'Even under missiles we carry on living' - how young Iranians are coping with war",
+      "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+      "summary_tr": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+      "long_summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+      "long_summary_tr": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d430/live/f5efa5c0-1d62-11f1-b048-c9424b2cf5fd.jpg",
+      "published_at": "2026-03-11T16:00:34+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "'Give him the keys to the city!' - Sivo receives February's POTM!",
+      "title_tr": "'Give him the keys to the city!' - Sivo receives February's POTM!",
+      "summary": "Leeds Rhinos Maika Sivo received February's player of the month.",
+      "summary_tr": "Leeds Rhinos Maika Sivo received February's player of the month.",
+      "long_summary": "Leeds Rhinos Maika Sivo received February's player of the month.",
+      "long_summary_tr": "Leeds Rhinos Maika Sivo received February's player of the month.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13518191/maika-sivo-receives-februarys-player-of-the-month-give-him-the-keys-to-the-city",
+      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-rugby-league-sivo_7188924.jpg?20260311122832",
+      "published_at": "2026-03-11T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Hall secures February's try of the month after THAT 'sensational' Sivo effort!",
+      "title_tr": "Hall secures February's try of the month after THAT 'sensational' Sivo effort!",
+      "summary": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
+      "summary_tr": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
+      "long_summary": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
+      "long_summary_tr": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13518192/ryan-hall-secures-februarys-try-of-the-month-after-that-sensational-maika-sivo-effort",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-rugby-league-hall_7188928.jpg?20260311123218",
+      "published_at": "2026-03-11T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Alienware Area-51 16 Gaming Laptops with RTX 50 Series GPUs Have Been Restocked at Dell Outlet",
+      "title_tr": "Alienware Area-51 16 Gaming Laptops with RTX 50 Series GPUs Have Been Restocked at Dell Outlet",
+      "summary": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
+      "summary_tr": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
+      "long_summary": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
+      "long_summary_tr": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-area-51-16-gaming-laptop-deals-at-dell-outlet",
+      "image": "https://assets-prd.ignimgs.com/2026/03/10/alienwarearea5116-1773167392679.jpg",
+      "published_at": "2026-03-11T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Alienware's Flagship Area-51 Ryzen X3D Edition RTX 5090 Gaming PC Drops to $4,650",
+      "title_tr": "Alienware's Flagship Area-51 Ryzen X3D Edition RTX 5090 Gaming PC Drops to $4,650",
+      "summary": "Alienware's biggest and most powerful gaming PC for 2026.",
+      "summary_tr": "Alienware's biggest and most powerful gaming PC for 2026.",
+      "long_summary": "Alienware's biggest and most powerful gaming PC for 2026.",
+      "long_summary_tr": "Alienware's biggest and most powerful gaming PC for 2026.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4650",
+      "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg",
+      "published_at": "2026-03-11T16:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The FlashForge Adventure 5M CoreXY 3D Printer Drops to Just $176 with Free Delivery",
+      "title_tr": "The FlashForge Adventure 5M CoreXY 3D Printer Drops to Just $176 with Free Delivery",
+      "summary": "The best 3D printer for beginners.",
+      "summary_tr": "The best 3D printer for beginners.",
+      "long_summary": "The best 3D printer for beginners.",
+      "long_summary_tr": "The best 3D printer for beginners.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/flashforge-adventure-5m-3d-printer-deal-at-aliexpress-for-176",
+      "image": "https://assets-prd.ignimgs.com/2026/03/10/flashforgeadventurer5m-1773176046639.jpg",
+      "published_at": "2026-03-11T16:00:00+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Otomobil",
@@ -28,6 +886,50 @@
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
+      "source": "Investing TR",
+      "title": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
+      "title_tr": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
+      "summary": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
+      "summary_tr": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
+      "long_summary": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
+      "long_summary_tr": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/goldman-samsung-ve-sk-hynix-icin-hedefleri-yukseltti-3805056",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T15:59:17+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Large WW2 bomb defused after Dresden evacuated",
+      "title_tr": "Large WW2 bomb defused after Dresden evacuated",
+      "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "summary_tr": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "long_summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "long_summary_tr": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg",
+      "published_at": "2026-03-11T15:55:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
       "source": "Bloomberg HT",
       "title": "Halkbank'tan ABD'deki dava sürecine ilişkin yeni açıklama",
       "title_tr": "Halkbank'tan ABD'deki dava sürecine ilişkin yeni açıklama",
@@ -44,6 +946,28 @@
       "url": "https://www.bloomberght.com/halkbank-tan-abd-deki-dava-surecine-iliskin-yeni-aciklama-3771599",
       "image": null,
       "published_at": "2026-03-11T15:53:29+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Bristol Bears' Capon to stand trial over rape charge",
+      "title_tr": "Bristol Bears' Capon to stand trial over rape charge",
+      "summary": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
+      "summary_tr": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
+      "long_summary": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
+      "long_summary_tr": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cy036ek1165o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fa/live/3925fb70-1ca8-11f1-83d3-51ba8f4a8c59.jpg",
+      "published_at": "2026-03-11T15:52:24+00:00"
     },
     {
       "origin": "yabanci",
@@ -66,6 +990,50 @@
       "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
       "published_at": "2026-03-11T15:51:11+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "'Being abused by an English rider is not nice' - jockeys clash at Cheltenham",
+      "title_tr": "'Being abused by an English rider is not nice' - jockeys clash at Cheltenham",
+      "summary": "Irish jockey Declan Queally accuses English counterpart Nico de Boinville of \"abusing\" him before the opening race of day two at the Cheltenham Festival.",
+      "summary_tr": "Irish jockey Declan Queally accuses English counterpart Nico de Boinville of \"abusing\" him before the opening race of day two at the Cheltenham Festival.",
+      "long_summary": "Irish jockey Declan Queally accuses English counterpart Nico de Boinville of \"abusing\" him before the opening race of day two at the Cheltenham Festival.",
+      "long_summary_tr": "Irish jockey Declan Queally accuses English counterpart Nico de Boinville of \"abusing\" him before the opening race of day two at the Cheltenham Festival.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/horse-racing/articles/c99j8gg2xeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8368/live/b52f18d0-1d5e-11f1-ad66-d1cd1a931a5d.jpg",
+      "published_at": "2026-03-11T15:50:54+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Rachel Zegler Reflects on Snow White and West Side Story Backlash: 'I Refuse To Assimilate For Anybody's Comfort'",
+      "title_tr": "Rachel Zegler Reflects on Snow White and West Side Story Backlash: 'I Refuse To Assimilate For Anybody's Comfort'",
+      "summary": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
+      "summary_tr": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
+      "long_summary": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
+      "long_summary_tr": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/rachel-zegler-reflects-on-snow-white-and-west-side-story-backlash-i-refuse-to-assimilate-for-anybodys-comfort",
+      "image": "https://assets-prd.ignimgs.com/2025/05/13/snowwhitethumb-1747153738196.png",
+      "published_at": "2026-03-11T15:47:11+00:00"
     },
     {
       "origin": "turkiye",
@@ -108,7 +1076,7 @@
         "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
       "url": "https://breakingdefense.com/2026/03/australia-to-get-40-more-bluebottle-unmanned-surface-vessels/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/RAN_Ocius_Bluebottle_USV_20220518APS8493230_0281A-e1773243629606.jpg",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/RAN_Ocius_Bluebottle_USV_20220518APS8493230_0281A-e1773245535707.jpg",
       "published_at": "2026-03-11T15:41:11+00:00"
     },
     {
@@ -132,974 +1100,6 @@
       "url": "https://shiftdelete.net/xiaomi-18-pro-maxin-ekran-ve-kamera-detaylari-ortaya-cikti",
       "image": null,
       "published_at": "2026-03-11T15:40:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "İngiliz milletvekillerinden İsrail'e yaptırım çağrısı",
-      "title_tr": "İngiliz milletvekillerinden İsrail'e yaptırım çağrısı",
-      "summary": "İngiltere Parlamentosu'nda İsrail'e yönelik silah ambargosu ve ticari yaptırımlar uygulanmasını içeren önergeye 60’tan fazla milletvekili destek verdi.",
-      "summary_tr": "İngiltere Parlamentosu'nda İsrail'e yönelik silah ambargosu ve ticari yaptırımlar uygulanmasını içeren önergeye 60’tan fazla milletvekili destek verdi.",
-      "long_summary": "İngiltere Parlamentosu'nda İsrail'e yönelik silah ambargosu ve ticari yaptırımlar uygulanmasını içeren önergeye 60’tan fazla milletvekili destek verdi.",
-      "long_summary_tr": "İngiltere Parlamentosu'nda İsrail'e yönelik silah ambargosu ve ticari yaptırımlar uygulanmasını içeren önergeye 60’tan fazla milletvekili destek verdi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/ingiliz-milletvekillerinden-israil-e-yaptirim-cagrisi-3771598",
-      "image": null,
-      "published_at": "2026-03-11T15:39:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Gazprom: Ukrayna, TürkAkım ve Mavi Akım'a saldırdı",
-      "title_tr": "Gazprom: Ukrayna, TürkAkım ve Mavi Akım'a saldırdı",
-      "summary": "Rus enerji şirketi Gazprom, Ukrayna&#039;nın TürkAkım ve Mavi Akım doğal gaz boru hatlarına sevkiyat yapılan tesislere son iki hafta içerisinde 12 defa saldırdığını ve saldırıların püskürtüldüğünü bildirdi.",
-      "summary_tr": "Rus enerji şirketi Gazprom, Ukrayna&#039;nın TürkAkım ve Mavi Akım doğal gaz boru hatlarına sevkiyat yapılan tesislere son iki hafta içerisinde 12 defa saldırdığını ve saldırıların püskürtüldüğünü bildirdi.",
-      "long_summary": "Rus enerji şirketi Gazprom, Ukrayna&#039;nın TürkAkım ve Mavi Akım doğal gaz boru hatlarına sevkiyat yapılan tesislere son iki hafta içerisinde 12 defa saldırdığını ve saldırıların püskürtüldüğünü bildirdi.",
-      "long_summary_tr": "Rus enerji şirketi Gazprom, Ukrayna&#039;nın TürkAkım ve Mavi Akım doğal gaz boru hatlarına sevkiyat yapılan tesislere son iki hafta içerisinde 12 defa saldırdığını ve saldırıların püskürtüldüğünü bildirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/gazprom-ukrayna-turkakim-ve-mavi-akima-saldirdi-haberi-817941",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/gg1-d6b5_cover.jpg",
-      "published_at": "2026-03-11T15:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Doomsday scenario' for Spurs after 'blows' - Van de Ven",
-      "title_tr": "'Doomsday scenario' for Spurs after 'blows' - Van de Ven",
-      "summary": "Micky Van de Ven says Tottenham found themselves in a \"doomsday scenario\" against Atletico Madrid, adding the club is \"just taking blow after blow\".",
-      "summary_tr": "Micky Van de Ven says Tottenham found themselves in a \"doomsday scenario\" against Atletico Madrid, adding the club is \"just taking blow after blow\".",
-      "long_summary": "Micky Van de Ven says Tottenham found themselves in a \"doomsday scenario\" against Atletico Madrid, adding the club is \"just taking blow after blow\".",
-      "long_summary_tr": "Micky Van de Ven says Tottenham found themselves in a \"doomsday scenario\" against Atletico Madrid, adding the club is \"just taking blow after blow\".",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cqlgxeqz053o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d35/live/8760a6c0-1d55-11f1-a00b-6f91831af046.jpg",
-      "published_at": "2026-03-11T15:26:51+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
-      "title_tr": "French aid worker among three killed in drone strikes in rebel-held DR Congo city",
-      "summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "summary_tr": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "long_summary": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "long_summary_tr": "Witnesses say drone strikes hit a residential building frequently occupied by expatriates and aid workers in Goma.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cvgj8veg0gno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0c6/live/607ec730-1d4b-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-11T15:24:57+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "DLSS 4.5 Dinamik Multi Frame Gen Geliyor: Çıkış Tarihi Açıklandı!",
-      "title_tr": "DLSS 4.5 Dinamik Multi Frame Gen Geliyor: Çıkış Tarihi Açıklandı!",
-      "summary": "NVIDIA, DLSS 4.5 Dinamik Multi Frame Generation teknolojisinin oyunculara sunulacağı tarihi açıkladı.",
-      "summary_tr": "NVIDIA, DLSS 4.5 Dinamik Multi Frame Generation teknolojisinin oyunculara sunulacağı tarihi açıkladı.",
-      "long_summary": "NVIDIA, DLSS 4.5 Dinamik Multi Frame Generation teknolojisinin oyunculara sunulacağı tarihi açıkladı.",
-      "long_summary_tr": "NVIDIA, DLSS 4.5 Dinamik Multi Frame Generation teknolojisinin oyunculara sunulacağı tarihi açıkladı.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/dlss-4-5-dinamik-multi-frame-gen-cikis-tarihi-h213574.html",
-      "image": "https://imgrosetta.webtekno.com/file/652077/652077-640xauto.jpg",
-      "published_at": "2026-03-11T15:22:09+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Xiaomi, Hem Çok Akıllı Hem Çok Ucuz Mijia Çamaşır Makinesi Tanıttı",
-      "title_tr": "Xiaomi, Hem Çok Akıllı Hem Çok Ucuz Mijia Çamaşır Makinesi Tanıttı",
-      "summary": "Xiaomi, uygun fiyatlı yeni Mijia çamaşır makinesini tanıttı. Cihaz, harika özellikleri ucuza sunuyor.",
-      "summary_tr": "Xiaomi, uygun fiyatlı yeni Mijia çamaşır makinesini tanıttı. Cihaz, harika özellikleri ucuza sunuyor.",
-      "long_summary": "Xiaomi, uygun fiyatlı yeni Mijia çamaşır makinesini tanıttı. Cihaz, harika özellikleri ucuza sunuyor.",
-      "long_summary_tr": "Xiaomi, uygun fiyatlı yeni Mijia çamaşır makinesini tanıttı. Cihaz, harika özellikleri ucuza sunuyor.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/xiaomi-10-kg-mijia-camasir-makinesi-h213604.html",
-      "image": "https://imgrosetta.webtekno.com/file/652135/652135-640xauto.jpg",
-      "published_at": "2026-03-11T15:21:19+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "ABD'de oynanacak: İran'dan Dünya Kupası kararı",
-      "title_tr": "ABD'de oynanacak: İran'dan Dünya Kupası kararı",
-      "summary": "İran Gençlik ve Spor Bakanı Ahmed Donyamali, ABD-İsrail'in saldırıları altındaki ülkesinin milli futbol takımının, ABD'de oynanacak 2026 FIFA Dünya Kupası’na katılmasının mümkün olmadığını söyledi.",
-      "summary_tr": "İran Gençlik ve Spor Bakanı Ahmed Donyamali, ABD-İsrail'in saldırıları altındaki ülkesinin milli futbol takımının, ABD'de oynanacak 2026 FIFA Dünya Kupası’na katılmasının mümkün olmadığını söyledi.",
-      "long_summary": "İran Gençlik ve Spor Bakanı Ahmed Donyamali, ABD-İsrail'in saldırıları altındaki ülkesinin milli futbol takımının, ABD'de oynanacak 2026 FIFA Dünya Kupası’na katılmasının mümkün olmadığını söyledi.",
-      "long_summary_tr": "İran Gençlik ve Spor Bakanı Ahmed Donyamali, ABD-İsrail'in saldırıları altındaki ülkesinin milli futbol takımının, ABD'de oynanacak 2026 FIFA Dünya Kupası’na katılmasının mümkün olmadığını söyledi.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/abdde-oynanacak-irandan-dunya-kupasi-karari-1715545",
-      "image": "https://images.ntv.com.tr/images/thumbs_b_c_6d4e468353025d5601745f766ca4ab2f-335090.jpg",
-      "published_at": "2026-03-11T15:20:51+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "PİYASAYA BAKIŞ- Borsa günü artıda kapattı",
-      "title_tr": "PİYASAYA BAKIŞ- Borsa günü artıda kapattı",
-      "summary": "PİYASAYA BAKIŞ- Borsa günü artıda kapattı",
-      "summary_tr": "PİYASAYA BAKIŞ- Borsa günü artıda kapattı",
-      "long_summary": "PİYASAYA BAKIŞ- Borsa günü artıda kapattı",
-      "long_summary_tr": "PİYASAYA BAKIŞ- Borsa günü artıda kapattı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/piyasaya-bakis-borsa-gunu-artda-kapatt-3805016",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6208D_M.jpg",
-      "published_at": "2026-03-11T15:20:30+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Launch: Fashion News to Know This March",
-      "title_tr": "The Launch: Fashion News to Know This March",
-      "summary": "The Launch: Fashion News to Know This March",
-      "summary_tr": "The Launch: Fashion News to Know This March",
-      "long_summary": "The Launch: Fashion News to Know This March",
-      "long_summary_tr": "The Launch: Fashion News to Know This March",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/a70574295/best-fashion-launches-march-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0ce892b0-499b-4d99-bd9c-f36b51155a70.jpeg",
-      "published_at": "2026-03-11T15:18:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Howmet’e yatırımcı gününden sonra analistlerden övgü yağdı",
-      "title_tr": "Howmet’e yatırımcı gününden sonra analistlerden övgü yağdı",
-      "summary": "Howmet’e yatırımcı gününden sonra analistlerden övgü yağdı",
-      "summary_tr": "Howmet’e yatırımcı gününden sonra analistlerden övgü yağdı",
-      "long_summary": "Howmet’e yatırımcı gününden sonra analistlerden övgü yağdı",
-      "long_summary_tr": "Howmet’e yatırımcı gününden sonra analistlerden övgü yağdı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/howmete-yatrmc-gununden-sonra-analistlerden-ovgu-yagd-3805006",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T15:13:43+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Silent Hill: Townfall Is Up for Preorder Before Getting a Confirmed Release Date",
-      "title_tr": "Silent Hill: Townfall Is Up for Preorder Before Getting a Confirmed Release Date",
-      "summary": "Preorders are live for Silent Hill: Townfall on PS5. While its release date is still to be determined, here's where you can find it and preorder a copy for $49.99.",
-      "summary_tr": "Preorders are live for Silent Hill: Townfall on PS5. While its release date is still to be determined, here's where you can find it and preorder a copy for $49.99.",
-      "long_summary": "Preorders are live for Silent Hill: Townfall on PS5. While its release date is still to be determined, here's where you can find it and preorder a copy for $49.99.",
-      "long_summary_tr": "Preorders are live for Silent Hill: Townfall on PS5. While its release date is still to be determined, here's where you can find it and preorder a copy for $49.99.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/silent-hill-townfall-where-to-buy",
-      "image": "https://assets-prd.ignimgs.com/2026/03/11/silent-hill-townfall-preorder-1773236422720.jpg",
-      "published_at": "2026-03-11T15:12:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Former Xbox Front Man Major Nelson Just Joined the Company Behind the Commodore 64 Retro Revival",
-      "title_tr": "Former Xbox Front Man Major Nelson Just Joined the Company Behind the Commodore 64 Retro Revival",
-      "summary": "Former Xbox community chief Larry Hryb, aka Major Nelson, has joined the company behind the Commodore 64 revival as Community Development Advisor after he was laid off from game engine Unity in January.",
-      "summary_tr": "Former Xbox community chief Larry Hryb, aka Major Nelson, has joined the company behind the Commodore 64 revival as Community Development Advisor after he was laid off from game engine Unity in January.",
-      "long_summary": "Former Xbox community chief Larry Hryb, aka Major Nelson, has joined the company behind the Commodore 64 revival as Community Development Advisor after he was laid off from game engine Unity in January.",
-      "long_summary_tr": "Former Xbox community chief Larry Hryb, aka Major Nelson, has joined the company behind the Commodore 64 revival as Community Development Advisor after he was laid off from game engine Unity in January.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/former-xbox-front-man-major-nelson-just-joined-the-company-behind-the-commodore-64-retro-revival",
-      "image": "https://assets-prd.ignimgs.com/2026/03/11/larry-hryb-002-1773241589568.jpg",
-      "published_at": "2026-03-11T15:07:27+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Marvel Tōkon: Fighting Souls Is Up for Preorder - Here's What Comes in Each Edition",
-      "title_tr": "Marvel Tōkon: Fighting Souls Is Up for Preorder - Here's What Comes in Each Edition",
-      "summary": "Everything you need to know to preorder Marvel Tōkon: Fighting Souls, including release date, pricing, and what comes in each edition.",
-      "summary_tr": "Everything you need to know to preorder Marvel Tōkon: Fighting Souls, including release date, pricing, and what comes in each edition.",
-      "long_summary": "Everything you need to know to preorder Marvel Tōkon: Fighting Souls, including release date, pricing, and what comes in each edition.",
-      "long_summary_tr": "Everything you need to know to preorder Marvel Tōkon: Fighting Souls, including release date, pricing, and what comes in each edition.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-where-to-buy",
-      "image": "https://assets-prd.ignimgs.com/2026/03/11/untitled-design-3-1773240251661.png",
-      "published_at": "2026-03-11T15:05:57+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Autocar",
-      "title": "A110 EV still Alpine's focus but ICE variant adds 'growth possibilities'",
-      "title_tr": "A110 EV still Alpine's focus but ICE variant adds 'growth possibilities'",
-      "summary": "Boss Krief confirms new electric platform can also accommodate \"engine, gearbox, fuel tank and all you need\"\n\nThe next-generation Alpine A110 could be fitted with a combustion engine, brand boss Philippe Krief has confirmed – although he insists the first focus is on developing an uncompromised electric sports car.\nThe new model is due to arrive next year as the successor to the current two-seater in coupe and convertible form, and will sit on a bespoke new architecture, the Alpine Performance Platform (APP). \nAs previously reported by Autocar, the APP will also be used by the Renault 5 Turbo E, and is designed to accept an innovative powertrain featuring a pair of rear motors, with extensive torque vectoring used in a bid to offer the same ‘lightweight’ feel as the current combustion model. In-wheel motors, as seen on the 5 Turbo 3E, could eventually be offered, too.\nAlpine has now shown more details of the platform, which use 800V technology, has an aluminium architecture to reduce weight and increase agility, and has two split battery packs – one stacked in the front of the car, the other in the rear – to allow the car to sit lower and feature a 40/60 front-rear balance.\nKrief said that split battery design “is a technical complication”, but added “it was necessary because otherwise the car would have been too high”.\nKrief declined to give details of the battery size, adding that the focus was “that we are developing a sports car, so we want the performance to be track ready”. He said the A110 would offer more than 340 miles of range, a figure he added was set so that it could complete three laps of the Nordschleife with “the full potential and capacities of the battery”. \n\nThe front battery pack is stacked up and largely sits where a combustion engine would, which Krief said presented “an opportunity” to adapt the platform to accept one. He said: “We asked what it would mean to make the platform compatible with an ICE. If the answer would have been that it would make the electric car worse, there’s no way we’d have done it. But with some small modifications on the platform we can accommodate an engine, gearbox, fuel tank and all you need.”\nKrief declined to give details of what combustion unit might go into the A110, but did admit that it would likely only be offered in certain markets, particularly the USA where EV target rules were recently rolled back making an electric A110 less appealing to buyers. He added: “This segment is about 350,000 vehicles per year, and 50% of that is in the US, with 25% in Asia. For now, our business is to focus on the 25% in Europe, but naturally the growth could come from the US, so we wanted to keep that possibility.”\nNotably, Alpine is also developing a 2+2 version of the A110, which Krief said will offer more than 370 miles of range. That is because the different use car of that car, and stretching the platform to allow for the two rear seats, meant the batteries could be placed under the floor in a skateboard design.\nKrief said that Alpine’s current focus was purely on developing the A110 family because of its importance to the firm, and confirmed that plans under previous management for a pair of large SUVs had been scrapped.",
-      "summary_tr": "Boss Krief confirms new electric platform can also accommodate \"engine, gearbox, fuel tank and all you need\"\n\nThe next-generation Alpine A110 could be fitted with a combustion engine, brand boss Philippe Krief has confirmed – although he insists the first focus is on developing an uncompromised electric sports car.\nThe new model is due to arrive next year as the successor to the current two-seater in coupe and convertible form, and will sit on a bespoke new architecture, the Alpine Performance Platform (APP). \nAs previously reported by Autocar, the APP will also be used by the Renault 5 Turbo E, and is designed to accept an innovative powertrain featuring a pair of rear motors, with extensive torque vectoring used in a bid to offer the same ‘lightweight’ feel as the current combustion model. In-wheel motors, as seen on the 5 Turbo 3E, could eventually be offered, too.\nAlpine has now shown more details of the platform, which use 800V technology, has an aluminium architecture to reduce weight and increase agility, and has two split battery packs – one stacked in the front of the car, the other in the rear – to allow the car to sit lower and feature a 40/60 front-rear balance.\nKrief said that split battery design “is a technical complication”, but added “it was necessary because otherwise the car would have been too high”.\nKrief declined to give details of the battery size, adding that the focus was “that we are developing a sports car, so we want the performance to be track ready”. He said the A110 would offer more than 340 miles of range, a figure he added was set so that it could complete three laps of the Nordschleife with “the full potential and capacities of the battery”. \n\nThe front battery pack is stacked up and largely sits where a combustion engine would, which Krief said presented “an opportunity” to adapt the platform to accept one. He said: “We asked what it would mean to make the platform compatible with an ICE. If the answer would have been that it would make the electric car worse, there’s no way we’d have done it. But with some small modifications on the platform we can accommodate an engine, gearbox, fuel tank and all you need.”\nKrief declined to give details of what combustion unit might go into the A110, but did admit that it would likely only be offered in certain markets, particularly the USA where EV target rules were recently rolled back making an electric A110 less appealing to buyers. He added: “This segment is about 350,000 vehicles per year, and 50% of that is in the US, with 25% in Asia. For now, our business is to focus on the 25% in Europe, but naturally the growth could come from the US, so we wanted to keep that possibility.”\nNotably, Alpine is also developing a 2+2 version of the A110, which Krief said will offer more than 370 miles of range. That is because the different use car of that car, and stretching the platform to allow for the two rear seats, meant the batteries could be placed under the floor in a skateboard design.\nKrief said that Alpine’s current focus was purely on developing the A110 family because of its importance to the firm, and confirmed that plans under previous management for a pair of large SUVs had been scrapped.",
-      "long_summary": "Boss Krief confirms new electric platform can also accommodate \"engine, gearbox, fuel tank and all you need\"\n\nThe next-generation Alpine A110 could be fitted with a combustion engine, brand boss Philippe Krief has confirmed – although he insists the first focus is on developing an uncompromised electric sports car.\nThe new model is due to arrive next year as the successor to the current two-seater in coupe and convertible form, and will sit on a bespoke new architecture, the Alpine Performance",
-      "long_summary_tr": "Boss Krief confirms new electric platform can also accommodate \"engine, gearbox, fuel tank and all you need\"\n\nThe next-generation Alpine A110 could be fitted with a combustion engine, brand boss Philippe Krief has confirmed – although he insists the first focus is on developing an uncompromised electric sports car.\nThe new model is due to arrive next year as the successor to the current two-seater in coupe and convertible form, and will sit on a bespoke new architecture, the Alpine Performance",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://www.autocar.co.uk/car-news/new-cars/a110-ev-still-alpines-focus-ice-variant-adds-growth-possibilities",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/alpine_app_platform_side.jpg?itok=6PXsQGxL",
-      "published_at": "2026-03-11T15:05:43+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "No evidence Swiss bus fire was terrorism, officials say",
-      "title_tr": "No evidence Swiss bus fire was terrorism, officials say",
-      "summary": "Initial reports suggest a man with \"psychological problems\" set himself on fire on the bus, according to police.",
-      "summary_tr": "Initial reports suggest a man with \"psychological problems\" set himself on fire on the bus, according to police.",
-      "long_summary": "Initial reports suggest a man with \"psychological problems\" set himself on fire on the bus, according to police.",
-      "long_summary_tr": "Initial reports suggest a man with \"psychological problems\" set himself on fire on the bus, according to police.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c5y4wdlyy9xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d1/live/8627cf80-1ccf-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-11T15:04:47+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "The Forge Codes (March 2026)",
-      "title_tr": "The Forge Codes (March 2026)",
-      "summary": "We've got the latest codes here for The Forge on Roblox, giving you free rewards, including rerolls, so you can change your class.",
-      "summary_tr": "We've got the latest codes here for The Forge on Roblox, giving you free rewards, including rerolls, so you can change your class.",
-      "long_summary": "We've got the latest codes here for The Forge on Roblox, giving you free rewards, including rerolls, so you can change your class.",
-      "long_summary_tr": "We've got the latest codes here for The Forge on Roblox, giving you free rewards, including rerolls, so you can change your class.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/the-forge-codes",
-      "image": "https://assets-prd.ignimgs.com/2025/11/27/image-38-1764262802725.png",
-      "published_at": "2026-03-11T15:00:12+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Ferrari boss ‘very pleased’ with Hamilton's 2026 start",
-      "title_tr": "Ferrari boss ‘very pleased’ with Hamilton's 2026 start",
-      "summary": "Frederic Vasseur says Ferrari still have \"tonnes of things to improve\" in order to build on their competitive opening to F1's new era and that he was \"very pleased\" with Lewis Hamilton's start to his second season at the team.",
-      "summary_tr": "Frederic Vasseur says Ferrari still have \"tonnes of things to improve\" in order to build on their competitive opening to F1's new era and that he was \"very pleased\" with Lewis Hamilton's start to his second season at the team.",
-      "long_summary": "Frederic Vasseur says Ferrari still have \"tonnes of things to improve\" in order to build on their competitive opening to F1's new era and that he was \"very pleased\" with Lewis Hamilton's start to his second season at the team.",
-      "long_summary_tr": "Frederic Vasseur says Ferrari still have \"tonnes of things to improve\" in order to build on their competitive opening to F1's new era and that he was \"very pleased\" with Lewis Hamilton's start to his second season at the team.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/f1/news/12040/13517792/ferrari-boss-frederic-vasseur-very-pleased-with-lewis-hamiltons-f1-2026-start-and-sets-out-teams-focus-for-improvement",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-lewis-hamilton-ferrari_7188075.jpg?20260310170727",
-      "published_at": "2026-03-11T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Porsche, 911’in üstünde yer alan bir halo model planlıyor",
-      "title_tr": "Porsche, 911’in üstünde yer alan bir halo model planlıyor",
-      "summary": "Nihayet bir hiper otomobil geliyor.",
-      "summary_tr": "Nihayet bir hiper otomobil geliyor.",
-      "long_summary": "Nihayet bir hiper otomobil geliyor.",
-      "long_summary_tr": "Nihayet bir hiper otomobil geliyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/789670/porsche-911-ustunde-yeni-halo/",
-      "image": "https://cdn.motor1.com/images/mgl/YAlePq/s3/porsche-mission-x-concept.jpg",
-      "published_at": "2026-03-11T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Kitzbuhel climbs to the top of Brown Advisory mountain",
-      "title_tr": "Kitzbuhel climbs to the top of Brown Advisory mountain",
-      "summary": "Kitzbuhel roared back to top form with an exhibition of jumping from the front before edging out Final Demand in a tremendous finish to the Brown Advisory Novices’ Chase at the Cheltenham Festival.",
-      "summary_tr": "Kitzbuhel roared back to top form with an exhibition of jumping from the front before edging out Final Demand in a tremendous finish to the Brown Advisory Novices’ Chase at the Cheltenham Festival.",
-      "long_summary": "Kitzbuhel roared back to top form with an exhibition of jumping from the front before edging out Final Demand in a tremendous finish to the Brown Advisory Novices’ Chase at the Cheltenham Festival.",
-      "long_summary_tr": "Kitzbuhel roared back to top form with an exhibition of jumping from the front before edging out Final Demand in a tremendous finish to the Brown Advisory Novices’ Chase at the Cheltenham Festival.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/racing/news/12040/13518263/cheltenham-festival-kitzbuhel-climbs-to-the-top-of-brown-advisory-mountain",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-cheltenham-kitzbuhel_7189084.png?20260311150110",
-      "published_at": "2026-03-11T14:57:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Maersk küresel yakıt arzının yeterli olduğunu söyledi",
-      "title_tr": "Maersk küresel yakıt arzının yeterli olduğunu söyledi",
-      "summary": "Maersk küresel yakıt arzının yeterli olduğunu söyledi",
-      "summary_tr": "Maersk küresel yakıt arzının yeterli olduğunu söyledi",
-      "long_summary": "Maersk küresel yakıt arzının yeterli olduğunu söyledi",
-      "long_summary_tr": "Maersk küresel yakıt arzının yeterli olduğunu söyledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/maersk-kuresel-yakt-arznn-yeterli-oldugunu-soyledi-93CH-3804966",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:56:35+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Germany’s Rheinmetall predicts $16.8B annual order boom, will ‘focus entirely’ on defense",
-      "title_tr": "Germany’s Rheinmetall predicts $16.8B annual order boom, will ‘focus entirely’ on defense",
-      "summary": "The “tense security situation underpins the promising position of the Group,” said the European prime.",
-      "summary_tr": "The “tense security situation underpins the promising position of the Group,” said the European prime.",
-      "long_summary": "The “tense security situation underpins the promising position of the Group,” said the European prime.",
-      "long_summary_tr": "The “tense security situation underpins the promising position of the Group,” said the European prime.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/03/germanys-rheinmetall-predicts-16-8b-annual-order-boom-will-focus-entirely-on-defense/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/IMG_4735-e1757686682324-1024x577.jpg",
-      "published_at": "2026-03-11T14:54:02+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "İran bağlantılı siber saldırı haberiyle Stryker hisseleri %3,4 düştü",
-      "title_tr": "İran bağlantılı siber saldırı haberiyle Stryker hisseleri %3,4 düştü",
-      "summary": "İran bağlantılı siber saldırı haberiyle Stryker hisseleri %3,4 düştü",
-      "summary_tr": "İran bağlantılı siber saldırı haberiyle Stryker hisseleri %3,4 düştü",
-      "long_summary": "İran bağlantılı siber saldırı haberiyle Stryker hisseleri %3,4 düştü",
-      "long_summary_tr": "İran bağlantılı siber saldırı haberiyle Stryker hisseleri %3,4 düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/iran-baglantl-siber-saldr-haberiyle-stryker-hisseleri-34-dustu-93CH-3804958",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:52:54+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Predator: Badlands Director Dan Trachtenberg Explains Why He Held His Ground on Sidekick Character Bud Despite His Editor Telling Him He Sounded Like Jar Jar Binks",
-      "title_tr": "Predator: Badlands Director Dan Trachtenberg Explains Why He Held His Ground on Sidekick Character Bud Despite His Editor Telling Him He Sounded Like Jar Jar Binks",
-      "summary": "Predator: Badlands, as anyone who’s seen the film will know, is not your typical Predator movie. This is something widely discussed and debated, but one thing you’d never get in the prior Predator movies is a character like Bud.",
-      "summary_tr": "Predator: Badlands, as anyone who’s seen the film will know, is not your typical Predator movie. This is something widely discussed and debated, but one thing you’d never get in the prior Predator movies is a character like Bud.",
-      "long_summary": "Predator: Badlands, as anyone who’s seen the film will know, is not your typical Predator movie. This is something widely discussed and debated, but one thing you’d never get in the prior Predator movies is a character like Bud.",
-      "long_summary_tr": "Predator: Badlands, as anyone who’s seen the film will know, is not your typical Predator movie. This is something widely discussed and debated, but one thing you’d never get in the prior Predator movies is a character like Bud.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/predator-badlands-director-dan-trachtenberg-explains-why-he-held-his-ground-on-sidekick-character-bud-despite-his-editor-telling-him-he-sounded-like-jar-jar-binks",
-      "image": "https://assets-prd.ignimgs.com/2026/03/11/bud-main-1773240652014.jpg",
-      "published_at": "2026-03-11T14:52:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Meta veri merkezi büyümesi için dört özel yapay zeka çipi tanıttı",
-      "title_tr": "Meta veri merkezi büyümesi için dört özel yapay zeka çipi tanıttı",
-      "summary": "Meta veri merkezi büyümesi için dört özel yapay zeka çipi tanıttı",
-      "summary_tr": "Meta veri merkezi büyümesi için dört özel yapay zeka çipi tanıttı",
-      "long_summary": "Meta veri merkezi büyümesi için dört özel yapay zeka çipi tanıttı",
-      "long_summary_tr": "Meta veri merkezi büyümesi için dört özel yapay zeka çipi tanıttı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/meta-veri-merkezi-buyumesi-icin-dort-ozel-yapay-zeka-cipi-tantt-3804952",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:48:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "title_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "summary": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "summary_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "long_summary": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "long_summary_tr": "BIST 100’de bugün en çok hangi hisseler kazandırdı?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bist-100de-bugun-en-cok-hangi-hisseler-kazandrd-3804948",
-      "image": null,
-      "published_at": "2026-03-11T14:45:31+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Fed faiz kararı ne zaman? Amerikan Merkez Bankası faizleri indirecek mi?",
-      "title_tr": "Fed faiz kararı ne zaman? Amerikan Merkez Bankası faizleri indirecek mi?",
-      "summary": "Bugün ABD&#039;de enflasyon rakamları açıklandı. ABD TÜFE yıllık beklentiler doğrultusunda yüzde 2.4 geldi. Şimdi Fed&#039;in nasıl bir adım atacağı merak ediliyor. Öte yandan &quot;Fed faiz kararı ne zaman&quot; sorusu da sıkça geliyor.",
-      "summary_tr": "Bugün ABD&#039;de enflasyon rakamları açıklandı. ABD TÜFE yıllık beklentiler doğrultusunda yüzde 2.4 geldi. Şimdi Fed&#039;in nasıl bir adım atacağı merak ediliyor. Öte yandan &quot;Fed faiz kararı ne zaman&quot; sorusu da sıkça geliyor.",
-      "long_summary": "Bugün ABD&#039;de enflasyon rakamları açıklandı. ABD TÜFE yıllık beklentiler doğrultusunda yüzde 2.4 geldi. Şimdi Fed&#039;in nasıl bir adım atacağı merak ediliyor. Öte yandan &quot;Fed faiz kararı ne zaman&quot; sorusu da sıkça geliyor.",
-      "long_summary_tr": "Bugün ABD&#039;de enflasyon rakamları açıklandı. ABD TÜFE yıllık beklentiler doğrultusunda yüzde 2.4 geldi. Şimdi Fed&#039;in nasıl bir adım atacağı merak ediliyor. Öte yandan &quot;Fed faiz kararı ne zaman&quot; sorusu da sıkça geliyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-amerikan-merkez-bankasi-faizleri-indirecek-mi-haberi-817936",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/fed-0oko_cover.png",
-      "published_at": "2026-03-11T14:44:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "Yellowstone’s first grizzly bear of 2026 emerges from his den",
-      "title_tr": "Yellowstone’s first grizzly bear of 2026 emerges from his den",
-      "summary": "After months without food, he's hungry.\nThe post Yellowstone’s first grizzly bear of 2026 emerges from his den appeared first on Popular Science.",
-      "summary_tr": "After months without food, he's hungry.\nThe post Yellowstone’s first grizzly bear of 2026 emerges from his den appeared first on Popular Science.",
-      "long_summary": "After months without food, he's hungry.\nThe post Yellowstone’s first grizzly bear of 2026 emerges from his den appeared first on Popular Science.",
-      "long_summary_tr": "After months without food, he's hungry.\nThe post Yellowstone’s first grizzly bear of 2026 emerges from his den appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/yellowstone-first-grizzly-bear-2026/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/03/yellowstone-grizzly.png?quality=85",
-      "published_at": "2026-03-11T14:43:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "İran’da ağır yaralanan Türk TIR şoförü kurtarılamadı",
-      "title_tr": "İran’da ağır yaralanan Türk TIR şoförü kurtarılamadı",
-      "summary": "Afganistan dönüşünde İran’ın Tebriz şehrinde TIR'ına füzenin şarapnel parçasının isabet etmesiyle ağır yaralanan Hataylı Hüseyin Fırat, 6 gün süren hayat mücadelesini kaybetti.",
-      "summary_tr": "Afganistan dönüşünde İran’ın Tebriz şehrinde TIR'ına füzenin şarapnel parçasının isabet etmesiyle ağır yaralanan Hataylı Hüseyin Fırat, 6 gün süren hayat mücadelesini kaybetti.",
-      "long_summary": "Afganistan dönüşünde İran’ın Tebriz şehrinde TIR'ına füzenin şarapnel parçasının isabet etmesiyle ağır yaralanan Hataylı Hüseyin Fırat, 6 gün süren hayat mücadelesini kaybetti.",
-      "long_summary_tr": "Afganistan dönüşünde İran’ın Tebriz şehrinde TIR'ına füzenin şarapnel parçasının isabet etmesiyle ağır yaralanan Hataylı Hüseyin Fırat, 6 gün süren hayat mücadelesini kaybetti.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/iranda-agir-yaralanan-turk-tir-soforu-kurtarilamadi-1715544",
-      "image": "https://images.ntv.com.tr/images/sofor-414879.jpg",
-      "published_at": "2026-03-11T14:42:33+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Gibson sold for £190K at inaugural Hundred auction",
-      "title_tr": "Gibson sold for £190K at inaugural Hundred auction",
-      "summary": "All-rounder Danielle Gibson, pace bowler Issy Wong and 18-year-old spinner Tilly Corteen-Coleman receive deals in excess of £100,000 in the inaugural Hundred auction.",
-      "summary_tr": "All-rounder Danielle Gibson, pace bowler Issy Wong and 18-year-old spinner Tilly Corteen-Coleman receive deals in excess of £100,000 in the inaugural Hundred auction.",
-      "long_summary": "All-rounder Danielle Gibson, pace bowler Issy Wong and 18-year-old spinner Tilly Corteen-Coleman receive deals in excess of £100,000 in the inaugural Hundred auction.",
-      "long_summary_tr": "All-rounder Danielle Gibson, pace bowler Issy Wong and 18-year-old spinner Tilly Corteen-Coleman receive deals in excess of £100,000 in the inaugural Hundred auction.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/cyv9lnn70d6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61f2/live/603fdee0-1d4a-11f1-8b0f-cbba15e33cb7.jpg",
-      "published_at": "2026-03-11T14:36:22+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Trump: İran’da hedef alınacak hiçbir şey kalmadı",
-      "title_tr": "Trump: İran’da hedef alınacak hiçbir şey kalmadı",
-      "summary": "ABD Başkanı Donald Trump, İran&#039;la savaşın kendisi ne zaman isterse o zaman biteceğini belirterek, İran’da hedef alınacak neredeyse hiçbir şeyin kalmadığını ifade etti.",
-      "summary_tr": "ABD Başkanı Donald Trump, İran&#039;la savaşın kendisi ne zaman isterse o zaman biteceğini belirterek, İran’da hedef alınacak neredeyse hiçbir şeyin kalmadığını ifade etti.",
-      "long_summary": "ABD Başkanı Donald Trump, İran&#039;la savaşın kendisi ne zaman isterse o zaman biteceğini belirterek, İran’da hedef alınacak neredeyse hiçbir şeyin kalmadığını ifade etti.",
-      "long_summary_tr": "ABD Başkanı Donald Trump, İran&#039;la savaşın kendisi ne zaman isterse o zaman biteceğini belirterek, İran’da hedef alınacak neredeyse hiçbir şeyin kalmadığını ifade etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/trump-iranda-hedef-alinacak-hicbir-sey-kalmadi-haberi-817931",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/ii-udpe_cover.jpg",
-      "published_at": "2026-03-11T14:33:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "After Falling Big, Nintendo Stock Soars 10% After Pokemon Pokopia Releases",
-      "title_tr": "After Falling Big, Nintendo Stock Soars 10% After Pokemon Pokopia Releases",
-      "summary": "Nintendo's share price surged by 10% today after the release of Pokemon Pokopia, a charming and cozy game that has players rebuilding a desolate world into a utopia. Bloomberg was first to report on the uptick in Nintendo's share price on the Japanese stock market.Nintendo's share price has been on a general downward trajectory since November of last year, so the uptick recently is good news for investors. However, Nintendo's share price remains down 2.3% over the past 12 months (but up more than 63% in the past five years).Nintendo does not own the Pokemon IP or The Pokemon Company, but is heavily financially invested in the company. Nintendo is the publisher of Pokopia on Switch 2, so the game enjoying success might have the knock-on effect of driving people to buy a Switch 2.Continue Reading at GameSpot",
-      "summary_tr": "Nintendo's share price surged by 10% today after the release of Pokemon Pokopia, a charming and cozy game that has players rebuilding a desolate world into a utopia. Bloomberg was first to report on the uptick in Nintendo's share price on the Japanese stock market.Nintendo's share price has been on a general downward trajectory since November of last year, so the uptick recently is good news for investors. However, Nintendo's share price remains down 2.3% over the past 12 months (but up more than 63% in the past five years).Nintendo does not own the Pokemon IP or The Pokemon Company, but is heavily financially invested in the company. Nintendo is the publisher of Pokopia on Switch 2, so the game enjoying success might have the knock-on effect of driving people to buy a Switch 2.Continue Reading at GameSpot",
-      "long_summary": "Nintendo's share price surged by 10% today after the release of Pokemon Pokopia, a charming and cozy game that has players rebuilding a desolate world into a utopia. Bloomberg was first to report on the uptick in Nintendo's share price on the Japanese stock market.Nintendo's share price has been on a general downward trajectory since November of last year, so the uptick recently is good news for investors. However, Nintendo's share price remains down 2.3% over the past 12 months (but up more",
-      "long_summary_tr": "Nintendo's share price surged by 10% today after the release of Pokemon Pokopia, a charming and cozy game that has players rebuilding a desolate world into a utopia. Bloomberg was first to report on the uptick in Nintendo's share price on the Japanese stock market.Nintendo's share price has been on a general downward trajectory since November of last year, so the uptick recently is good news for investors. However, Nintendo's share price remains down 2.3% over the past 12 months (but up more",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/after-falling-big-nintendo-stock-soars-10-after-pokemon-pokopia-releases/1100-6538716/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664786-screenshot2026-03-11at10.52.30%E2%80%AFam.png",
-      "published_at": "2026-03-11T14:32:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "F1 Sprint format: How does it work in 2026?",
-      "title_tr": "F1 Sprint format: How does it work in 2026?",
-      "summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
-      "summary_tr": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
-      "long_summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
-      "long_summary_tr": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/f1/news/12040/13518235/f1-sprint-schedule-points-results-format-explained-qualifying-race-and-venues-for-2026-season",
-      "image": "https://e2.365dm.com/25/10/1920x1080/skysports-spa-belgium-sprint_7051059.jpg?20251014173844",
-      "published_at": "2026-03-11T14:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "New York karışık seyirle açıldı",
-      "title_tr": "New York karışık seyirle açıldı",
-      "summary": "New York borsası, Orta Doğu&#039;daki gerilim devam ederken ABD&#039;de enflasyonun şubatta beklentiler dahilinde seyrettiğini gösteren veriler sonrası güne karışık seyirle başladı.",
-      "summary_tr": "New York borsası, Orta Doğu&#039;daki gerilim devam ederken ABD&#039;de enflasyonun şubatta beklentiler dahilinde seyrettiğini gösteren veriler sonrası güne karışık seyirle başladı.",
-      "long_summary": "New York borsası, Orta Doğu&#039;daki gerilim devam ederken ABD&#039;de enflasyonun şubatta beklentiler dahilinde seyrettiğini gösteren veriler sonrası güne karışık seyirle başladı.",
-      "long_summary_tr": "New York borsası, Orta Doğu&#039;daki gerilim devam ederken ABD&#039;de enflasyonun şubatta beklentiler dahilinde seyrettiğini gösteren veriler sonrası güne karışık seyirle başladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/haberler/new-york-karisik-seyirle-acildi-haberi-817929",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/vv1-orjz_cover.jpg",
-      "published_at": "2026-03-11T14:26:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "King Rasko Grey powers to Turners glory for Mullins",
-      "title_tr": "King Rasko Grey powers to Turners glory for Mullins",
-      "summary": "King Rasko Grey gained ample compensation for his near-miss at Leopardstown last month when handing Willie Mullins a record-extending eighth Turners Novices’ Hurdle at Cheltenham.",
-      "summary_tr": "King Rasko Grey gained ample compensation for his near-miss at Leopardstown last month when handing Willie Mullins a record-extending eighth Turners Novices’ Hurdle at Cheltenham.",
-      "long_summary": "King Rasko Grey gained ample compensation for his near-miss at Leopardstown last month when handing Willie Mullins a record-extending eighth Turners Novices’ Hurdle at Cheltenham.",
-      "long_summary_tr": "King Rasko Grey gained ample compensation for his near-miss at Leopardstown last month when handing Willie Mullins a record-extending eighth Turners Novices’ Hurdle at Cheltenham.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/racing/news/12040/13518254/cheltenham-festival-king-rasko-grey-powers-to-turners-glory-for-willie-mullins",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-king-rasko-grey-cheltenham-festival_7189051.png?20260311142823",
-      "published_at": "2026-03-11T14:25:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Şubat ayında uçak biletleri yıllık bazda yüzde 7,1 arttı",
-      "title_tr": "Şubat ayında uçak biletleri yıllık bazda yüzde 7,1 arttı",
-      "summary": "Şubat ayında uçak biletleri yıllık bazda yüzde 7,1 arttı",
-      "summary_tr": "Şubat ayında uçak biletleri yıllık bazda yüzde 7,1 arttı",
-      "long_summary": "Şubat ayında uçak biletleri yıllık bazda yüzde 7,1 arttı",
-      "long_summary_tr": "Şubat ayında uçak biletleri yıllık bazda yüzde 7,1 arttı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/subat-aynda-ucak-biletleri-yllk-bazda-yuzde-71-artt-93CH-3804906",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:24:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "KKR, BDC baskısı altında işlem görmeyen kredi fonlarında fırsat görüyor",
-      "title_tr": "KKR, BDC baskısı altında işlem görmeyen kredi fonlarında fırsat görüyor",
-      "summary": "KKR, BDC baskısı altında işlem görmeyen kredi fonlarında fırsat görüyor",
-      "summary_tr": "KKR, BDC baskısı altında işlem görmeyen kredi fonlarında fırsat görüyor",
-      "long_summary": "KKR, BDC baskısı altında işlem görmeyen kredi fonlarında fırsat görüyor",
-      "long_summary_tr": "KKR, BDC baskısı altında işlem görmeyen kredi fonlarında fırsat görüyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/kkr-bdc-basks-altnda-islem-gormeyen-kredi-fonlarnda-frsat-goruyor-93CH-3804903",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:24:16+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Jack Black Wants  To Keep Making More Super Mario Movies",
-      "title_tr": "Jack Black Wants  To Keep Making More Super Mario Movies",
-      "summary": "Jack Black's performance as Bowser in The Super Mario Bros. Movie was one of the highlights of the film, and he'll be reprising his role next month in The Super Mario Galaxy Movie. And if Black has his way, he'll be returning for several Mario sequels as well.\"I was chomping [sic] at the bit [to come back],\" Black told Fandango during a group interview with the cast. \"Are you kidding me? To get back in here and party again with this group, with some new special surprises. And once again, I think it's a marvel to behold. It's just an explosion of color and fun and joy. I'm always down to party with Bowser in this universe. Hopefully, we'll be making several more.\"During the same interview, Black noted that it was difficult to find Bowser's voice during the production of the first film. But he found the experience to be rewarding.Continue Reading at GameSpot",
-      "summary_tr": "Jack Black's performance as Bowser in The Super Mario Bros. Movie was one of the highlights of the film, and he'll be reprising his role next month in The Super Mario Galaxy Movie. And if Black has his way, he'll be returning for several Mario sequels as well.\"I was chomping [sic] at the bit [to come back],\" Black told Fandango during a group interview with the cast. \"Are you kidding me? To get back in here and party again with this group, with some new special surprises. And once again, I think it's a marvel to behold. It's just an explosion of color and fun and joy. I'm always down to party with Bowser in this universe. Hopefully, we'll be making several more.\"During the same interview, Black noted that it was difficult to find Bowser's voice during the production of the first film. But he found the experience to be rewarding.Continue Reading at GameSpot",
-      "long_summary": "Jack Black's performance as Bowser in The Super Mario Bros. Movie was one of the highlights of the film, and he'll be reprising his role next month in The Super Mario Galaxy Movie. And if Black has his way, he'll be returning for several Mario sequels as well.\"I was chomping [sic] at the bit [to come back],\" Black told Fandango during a group interview with the cast. \"Are you kidding me? To get back in here and party again with this group, with some new special surprises. And once again, I",
-      "long_summary_tr": "Jack Black's performance as Bowser in The Super Mario Bros. Movie was one of the highlights of the film, and he'll be reprising his role next month in The Super Mario Galaxy Movie. And if Black has his way, he'll be returning for several Mario sequels as well.\"I was chomping [sic] at the bit [to come back],\" Black told Fandango during a group interview with the cast. \"Are you kidding me? To get back in here and party again with this group, with some new special surprises. And once again, I",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/jack-black-wants-to-keep-making-more-super-mario-movies/1100-6538714/?ftag=CAD-01-10abi2f",
-      "image": "https://www.gamespot.com/a/uploads/screen_medium/1837/18375603/4664765-supermariogalaxymoviebowser.jpg",
-      "published_at": "2026-03-11T14:23:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "MEB, ek atama sonuçları açıklandı",
-      "title_tr": "MEB, ek atama sonuçları açıklandı",
-      "summary": "Milli Eğitim Bakanlığı (MEB), \"2025 Yılı Sözleşmeli Öğretmen Ataması\" kapsamında gerçekleştirilen yerleştirmelerin ardından boş kalan pozisyonlara yönelik ek atama sonuçlarını açıkladı.",
-      "summary_tr": "Milli Eğitim Bakanlığı (MEB), \"2025 Yılı Sözleşmeli Öğretmen Ataması\" kapsamında gerçekleştirilen yerleştirmelerin ardından boş kalan pozisyonlara yönelik ek atama sonuçlarını açıkladı.",
-      "long_summary": "Milli Eğitim Bakanlığı (MEB), \"2025 Yılı Sözleşmeli Öğretmen Ataması\" kapsamında gerçekleştirilen yerleştirmelerin ardından boş kalan pozisyonlara yönelik ek atama sonuçlarını açıkladı.",
-      "long_summary_tr": "Milli Eğitim Bakanlığı (MEB), \"2025 Yılı Sözleşmeli Öğretmen Ataması\" kapsamında gerçekleştirilen yerleştirmelerin ardından boş kalan pozisyonlara yönelik ek atama sonuçlarını açıkladı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/meb-ek-atama-sonuclari-aciklandi-1715542",
-      "image": "https://images.ntv.com.tr/images/AW659985_01-954337.jpg",
-      "published_at": "2026-03-11T14:21:37+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "IPL fixtures 2026: Defending champs RCB take on Sunrisers in opening match",
-      "title_tr": "IPL fixtures 2026: Defending champs RCB take on Sunrisers in opening match",
-      "summary": "The opening two weeks of the Indian Premier League (IPL) schedule have been announced, with defending champions Royal Challengers Bengaluru (RCB) taking on Sunrisers Hyderabad (SRH) at the M. Chinnaswamy Stadium in Bengaluru in the opening match.",
-      "summary_tr": "The opening two weeks of the Indian Premier League (IPL) schedule have been announced, with defending champions Royal Challengers Bengaluru (RCB) taking on Sunrisers Hyderabad (SRH) at the M. Chinnaswamy Stadium in Bengaluru in the opening match.",
-      "long_summary": "The opening two weeks of the Indian Premier League (IPL) schedule have been announced, with defending champions Royal Challengers Bengaluru (RCB) taking on Sunrisers Hyderabad (SRH) at the M. Chinnaswamy Stadium in Bengaluru in the opening match.",
-      "long_summary_tr": "The opening two weeks of the Indian Premier League (IPL) schedule have been announced, with defending champions Royal Challengers Bengaluru (RCB) taking on Sunrisers Hyderabad (SRH) at the M. Chinnaswamy Stadium in Bengaluru in the opening match.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/cricket/news/12040/13518249/indian-premier-league-fixtures-2026-defending-champions-royal-challengers-bengaluru-play-in-first-match-against-sunrisers-hyderabad",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-ipl-indian-premier-league_7189086.jpg?20260311150754",
-      "published_at": "2026-03-11T14:19:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Bernstein, Smucker’ı kahve maliyetleri ve aktivist baskısıyla yükseltti",
-      "title_tr": "Bernstein, Smucker’ı kahve maliyetleri ve aktivist baskısıyla yükseltti",
-      "summary": "Bernstein, Smucker’ı kahve maliyetleri ve aktivist baskısıyla yükseltti",
-      "summary_tr": "Bernstein, Smucker’ı kahve maliyetleri ve aktivist baskısıyla yükseltti",
-      "long_summary": "Bernstein, Smucker’ı kahve maliyetleri ve aktivist baskısıyla yükseltti",
-      "long_summary_tr": "Bernstein, Smucker’ı kahve maliyetleri ve aktivist baskısıyla yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bernstein-smucker-kahve-maliyetleri-ve-aktivist-basksyla-yukseltti-3804886",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:15:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Trump İran’da hedef alınacak ’neredeyse hiçbir şey kalmadı’ diyor",
-      "title_tr": "Trump İran’da hedef alınacak ’neredeyse hiçbir şey kalmadı’ diyor",
-      "summary": "Trump İran’da hedef alınacak ’neredeyse hiçbir şey kalmadı’ diyor",
-      "summary_tr": "Trump İran’da hedef alınacak ’neredeyse hiçbir şey kalmadı’ diyor",
-      "long_summary": "Trump İran’da hedef alınacak ’neredeyse hiçbir şey kalmadı’ diyor",
-      "long_summary_tr": "Trump İran’da hedef alınacak ’neredeyse hiçbir şey kalmadı’ diyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/trump-iranda-hedef-alnacak-neredeyse-hicbir-sey-kalmad-diyor-3804884",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T14:14:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
-      "title_tr": "EU and UK demand Israel stop surge in West Bank settler violence since Iran war",
-      "summary": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
-      "summary_tr": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
-      "long_summary": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
-      "long_summary_tr": "Six Palestinians have been killed during attacks by settlers in the West Bank since the start of Israel's war, the UN says.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c620vwl97vyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6d4/live/fb87bbe0-1d4d-11f1-801d-ed3cff6bf876.jpg",
-      "published_at": "2026-03-11T14:13:52+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Xbox 'Ubisoft Yayımcı' İndirimleri Başladı (Ubisoft Oyunlarında Büyük İndirimler Var)",
-      "title_tr": "Xbox 'Ubisoft Yayımcı' İndirimleri Başladı (Ubisoft Oyunlarında Büyük İndirimler Var)",
-      "summary": "Xbox, bugün kendi mağazasında Ubisoft oyunlarını kapsayan yeni indirimlerini başlattı. İşte indirimlerde en dikkat çeken oyunlar!",
-      "summary_tr": "Xbox, bugün kendi mağazasında Ubisoft oyunlarını kapsayan yeni indirimlerini başlattı. İşte indirimlerde en dikkat çeken oyunlar!",
-      "long_summary": "Xbox, bugün kendi mağazasında Ubisoft oyunlarını kapsayan yeni indirimlerini başlattı. İşte indirimlerde en dikkat çeken oyunlar!",
-      "long_summary_tr": "Xbox, bugün kendi mağazasında Ubisoft oyunlarını kapsayan yeni indirimlerini başlattı. İşte indirimlerde en dikkat çeken oyunlar!",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/2026-xbox-ubisoft-yayimci-indirimleri-h213571.html",
-      "image": "https://imgrosetta.webtekno.com/file/652057/652057-640xauto.jpg",
-      "published_at": "2026-03-11T14:11:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Steam Kule Savunma Festivali İndirimleri Başladı (Strateji Severler Buraya)",
-      "title_tr": "Steam Kule Savunma Festivali İndirimleri Başladı (Strateji Severler Buraya)",
-      "summary": "Steam'in birçok farklı indiriminin ardından bugün de Kule Savunma Festivali indirimleri başladı. Peki indirimlerde satın almaya değer hangi oyunlar var?",
-      "summary_tr": "Steam'in birçok farklı indiriminin ardından bugün de Kule Savunma Festivali indirimleri başladı. Peki indirimlerde satın almaya değer hangi oyunlar var?",
-      "long_summary": "Steam'in birçok farklı indiriminin ardından bugün de Kule Savunma Festivali indirimleri başladı. Peki indirimlerde satın almaya değer hangi oyunlar var?",
-      "long_summary_tr": "Steam'in birçok farklı indiriminin ardından bugün de Kule Savunma Festivali indirimleri başladı. Peki indirimlerde satın almaya değer hangi oyunlar var?",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/2026-steam-kule-savunma-festivali-indirimleri-h213562.html",
-      "image": "https://imgrosetta.webtekno.com/file/652042/652042-640xauto.jpg",
-      "published_at": "2026-03-11T14:11:35+00:00"
     }
   ]
 }
