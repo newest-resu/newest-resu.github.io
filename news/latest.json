@@ -1,489 +1,49 @@
 {
-  "updated_at": "2026-03-11T17:07:13.297567+00:00",
+  "updated_at": "2026-03-11T19:08:21.875487+00:00",
   "articles": [
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Ferrari, daha güçlü bir Purosangue geliştiriyor!",
-      "title_tr": "Ferrari, daha güçlü bir Purosangue geliştiriyor!",
-      "summary": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
-      "summary_tr": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
-      "long_summary": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
-      "long_summary_tr": "V12 motoru koruyan model, yılın ikinci yarısında üretime girebilir.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/789709/ferrari-daha-guclu-purosangue/",
-      "image": "https://cdn.motor1.com/images/mgl/Kb7yWQ/s3/ferrari-purosangue-first-drive-review.jpg",
-      "published_at": "2026-03-11T17:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Cumhurbaşkanı Erdoğan iftar programında konuşuyor",
-      "title_tr": "Cumhurbaşkanı Erdoğan iftar programında konuşuyor",
-      "summary": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
-      "summary_tr": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
-      "long_summary": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
-      "long_summary_tr": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde katıldığı iftar programında açıklamalarda bulunuyor.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-iftar-programinda-konusuyor-1715550",
-      "image": "https://images.ntv.com.tr/images/AA-20260218-40596416-40596414-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-310259(2).jpg",
-      "published_at": "2026-03-11T16:59:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
-      "title_tr": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
-      "summary": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
-      "summary_tr": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
-      "long_summary": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
-      "long_summary_tr": "Fitch: Petrol şoku geçici kalırsa küresel büyüme istikrarlı olacak",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/fitch-petrol-soku-gecici-kalrsa-kuresel-buyume-istikrarl-olacak-93CH-3805142",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:56:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Il Etait Temps wins Queen Mother Champion Chase",
-      "title_tr": "Il Etait Temps wins Queen Mother Champion Chase",
-      "summary": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
-      "summary_tr": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
-      "long_summary": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
-      "long_summary_tr": "Il Etait Temps powers over the line in the Queen Mother Champion Chase to earn trainer Willie Mullins his third win of day two at Cheltenham Festival.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/horse-racing/articles/cpqw8v5dzz3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4467/live/729e4240-1d66-11f1-8078-f393eb24ebf7.jpg",
-      "published_at": "2026-03-11T16:47:17+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Bakan Bolat: Türkiye-Fransa iş birliği genişliyor",
-      "title_tr": "Bakan Bolat: Türkiye-Fransa iş birliği genişliyor",
-      "summary": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
-      "summary_tr": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
-      "long_summary": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
-      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile Türkiye-Fransa ekonomik ilişkilerini değerlendirdiklerini belirterek, &quot;Türkiye–Fransa ekonomik ortaklığını kazan-kazan ilkesi çerçevesinde daha üst seviyeye taşıma konusunda mutabık kaldık.&quot; ifadesini kullandı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/bakan-bolat-turkiye-fransa-is-birligi-genisliyor-haberi-817951",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/tt1-aanm_cover.jpg",
-      "published_at": "2026-03-11T16:47:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-      "title_tr": "Bowen: Trump has called for an Iran uprising but the lessons from Iraq in 1991 loom large",
-      "summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
-      "summary_tr": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
-      "long_summary": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
-      "long_summary_tr": "The US president might learn that starting wars is much easier than ending them, writes the BBC's international editor.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cn0znx4xrl9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cd7/live/59400920-1d64-11f1-8078-f393eb24ebf7.jpg",
-      "published_at": "2026-03-11T16:45:28+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Hayvanlar hızlı kilo alsın diye Kurban Bayramı öncesi insanlık dışı görüntü. Bakanlık inceleme başlattı",
-      "title_tr": "Hayvanlar hızlı kilo alsın diye Kurban Bayramı öncesi insanlık dışı görüntü. Bakanlık inceleme başlattı",
-      "summary": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
-      "summary_tr": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
-      "long_summary": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
-      "long_summary_tr": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/hayvanlar-hizli-kilo-alsin-diye-kurban-bayrami-oncesi-insanlik-disi-goruntu-bakanlik-inceleme-baslatti-1715551",
-      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-02-22185628copy-485772.jpg",
-      "published_at": "2026-03-11T16:45:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Macron: G7 petrol rezervlerini önümüzdeki günlerde piyasaya sürecek",
-      "title_tr": "Macron: G7 petrol rezervlerini önümüzdeki günlerde piyasaya sürecek",
-      "summary": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
-      "summary_tr": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
-      "long_summary": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
-      "long_summary_tr": "Fransa Cumhurbaşkanı Macron, Uluslararası Enerji Ajansı'nın (IEA) piyasaya sürülmesi konusunda uzlaşı sağladığı 400 milyon varillik petrol rezervinin yaklaşık 14,5 milyon varillik bölümünün Fransa tarafından sağlanacağını belirtti.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/macron-g7-petrol-rezervlerini-onumuzdeki-gunlerde-piyasaya-surecek-3771608",
-      "image": null,
-      "published_at": "2026-03-11T16:42:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "These are Ukraine’s $1,000 interceptor drones the Pentagon wants to buy",
-      "title_tr": "These are Ukraine’s $1,000 interceptor drones the Pentagon wants to buy",
-      "summary": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
-      "summary_tr": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
-      "long_summary": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
-      "long_summary_tr": "Ukraine spent years perfecting cheap drone killers. After burning through billions of missiles in three days, the U.S. and its allies are asking for help.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/03/11/these-are-ukraines-1000-interceptor-drones-the-pentagon-wants-to-buy/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JYR33GA4H5AHNOB2WO7RIQAVME.jpg",
-      "published_at": "2026-03-11T16:38:14+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
-      "title_tr": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
-      "summary": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
-      "summary_tr": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
-      "long_summary": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
-      "long_summary_tr": "Uluslararası Enerji Ajansı'ndan rekor petrol salımı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/uluslararasi-enerji-ajansi-ndan-rekor-petrol-salimi-3771605",
-      "image": null,
-      "published_at": "2026-03-11T16:37:04+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Perakende satışlar Ocak'ta da arttı",
-      "title_tr": "Perakende satışlar Ocak'ta da arttı",
-      "summary": "Perakende satışlar Ocak'ta da arttı",
-      "summary_tr": "Perakende satışlar Ocak'ta da arttı",
-      "long_summary": "Perakende satışlar Ocak'ta da arttı",
-      "long_summary_tr": "Perakende satışlar Ocak'ta da arttı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/perakende-satislar-ocak-ta-da-artti-3771604",
-      "image": null,
-      "published_at": "2026-03-11T16:37:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Nomura, Nio için tavsiyesini yükseltti",
-      "title_tr": "Nomura, Nio için tavsiyesini yükseltti",
-      "summary": "Nomura, Nio için tavsiyesini yükseltti",
-      "summary_tr": "Nomura, Nio için tavsiyesini yükseltti",
-      "long_summary": "Nomura, Nio için tavsiyesini yükseltti",
-      "long_summary_tr": "Nomura, Nio için tavsiyesini yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/nomura-nio-icin-tavsiyesini-yukseltti-3805126",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:36:48+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
-      "title_tr": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
-      "summary": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
-      "summary_tr": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
-      "long_summary": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
-      "long_summary_tr": "Papa John’s hisseleri satın alma teklifi haberinin ardından yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/papa-johns-hisseleri-satn-alma-teklifi-haberinin-ardndan-yukseldi-93CH-3805109",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:28:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD’den uyarı: İran’ın kullandığı limanlardan uzak durun",
-      "title_tr": "ABD’den uyarı: İran’ın kullandığı limanlardan uzak durun",
-      "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
-      "summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
-      "long_summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
-      "long_summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran’ın Hürmüz Boğazı boyunca bazı sivil limanları askeri operasyonlarda kullandığını iddia ederek sivillere bu limanlardan uzak durmaları çağrısında bulundu.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/abdden-uyari-iranin-kullandigi-limanlardan-uzak-durun-haberi-817950",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/03/abd-qct5_cover.jpg",
-      "published_at": "2026-03-11T16:28:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Enerji Bakanı Bayraktar açıkladı: Enerji kesintisi olacak mı?",
-      "title_tr": "Enerji Bakanı Bayraktar açıkladı: Enerji kesintisi olacak mı?",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
-      "summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
-      "long_summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
-      "long_summary_tr": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye’de enerji arzında herhangi bir kesinti beklenmediğini belirterek gerekli tedbirlerin alındığını söyledi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/enerji/enerji-bakani-bayraktar-acikladi-enerji-kesintisi-olacak-mi-haberi-817949",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/03/25/alparslan-bayraktar-xinz_cover.jpg",
-      "published_at": "2026-03-11T16:22:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Zootopia 2 Is Now Streaming on Disney+",
-      "title_tr": "Zootopia 2 Is Now Streaming on Disney+",
-      "summary": "Zootopia 2 is now available on Disney+.",
-      "summary_tr": "Zootopia 2 is now available on Disney+.",
-      "long_summary": "Zootopia 2 is now available on Disney+.",
-      "long_summary_tr": "Zootopia 2 is now available on Disney+.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/zootopia-2-streaming-disney-plus",
-      "image": "https://assets-prd.ignimgs.com/2025/05/20/zootopiathumb-1747757535411.png",
-      "published_at": "2026-03-11T16:21:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
-      "title_tr": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
-      "summary": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
-      "summary_tr": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
-      "long_summary": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
-      "long_summary_tr": "UBS, demir cevheri üreticilerini marj ve maliyete göre sıraladı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/ubs-demir-cevheri-ureticilerini-marj-ve-maliyete-gore-sralad-93CH-3805095",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:20:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
-      "title_tr": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
-      "summary": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
-      "summary_tr": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
-      "long_summary": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
-      "long_summary_tr": "Musk, Tesla-xAI ortak projesi Macrohard’ı tanıttı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/musk-teslaxai-ortak-projesi-macrohard-tantt-93CH-3805094",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:19:39+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "WhatsApp’tan Çocuklar için Güvenli Hesap Dönemi",
-      "title_tr": "WhatsApp’tan Çocuklar için Güvenli Hesap Dönemi",
-      "summary": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
-      "summary_tr": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
-      "long_summary": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
-      "long_summary_tr": "Dünyanın en popüler mesajlaşma platformları arasında yer alan WhatsApp 13 yaş altı kullanıcılar için ebeveyn denetimli yeni hesap türünü resmen duyurdu. Geliştirici kadro bu özel hesapların sadece mesajlaşma ve arama özelliklerine erişebileceğini ve kullanıcılara reklam gösterilmeyeceğini açıkladı. Uygulama mağazalarında 13 yaş sınırı bulunmasına rağmen pek çok çocuğun ebeveynleriyle iletişim kurmak için bu platformu aktif olarak […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/whatsapptan-cocuklar-icin-guvenli-hesap-donemi",
-      "image": null,
-      "published_at": "2026-03-11T16:19:31+00:00"
-    },
     {
       "origin": "yabanci",
       "category": "Bilim",
       "category_slug": "bilim",
       "is_local": false,
       "source": "Popular Science",
-      "title": "Civil War shipwreck remains in ‘fantastic’ shape on ocean floor",
-      "title_tr": "Civil War shipwreck remains in ‘fantastic’ shape on ocean floor",
-      "summary": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
-      "summary_tr": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
-      "long_summary": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
-      "long_summary_tr": "The USS Monitor was an ironclad ship nicknamed a 'Yankee cheesebox.'\nThe post Civil War shipwreck remains in ‘fantastic’ shape on ocean floor appeared first on Popular Science.",
+      "title": "British man powers DIY car with discarded vapes",
+      "title_tr": "British man powers DIY car with discarded vapes",
+      "summary": "The souped-up G-Wiz EV has a range of 18 miles and topped 40 miles per hour.\nThe post British man powers DIY car with discarded vapes appeared first on Popular Science.",
+      "summary_tr": "The souped-up G-Wiz EV has a range of 18 miles and topped 40 miles per hour.\nThe post British man powers DIY car with discarded vapes appeared first on Popular Science.",
+      "long_summary": "The souped-up G-Wiz EV has a range of 18 miles and topped 40 miles per hour.\nThe post British man powers DIY car with discarded vapes appeared first on Popular Science.",
+      "long_summary_tr": "The souped-up G-Wiz EV has a range of 18 miles and topped 40 miles per hour.\nThe post British man powers DIY car with discarded vapes appeared first on Popular Science.",
       "why_important": [
         "Teknolojik ve akademik gelişmelere katkı sağlaması"
       ],
       "possible_impacts": [
         "Yeni keşifler farklı alanlara yön verebilir"
       ],
-      "url": "https://www.popsci.com/science/civil-war-monitor-shipwreck-3d-scans/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/03/USS-Monitor-Scan.png?quality=85",
-      "published_at": "2026-03-11T16:18:57+00:00"
+      "url": "https://www.popsci.com/environment/car-built-discarded-vapes/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/03/vape-battery-car-lead.png?quality=85",
+      "published_at": "2026-03-11T19:03:00+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Borsa günü yükselişle tamamladı",
-      "title_tr": "Borsa günü yükselişle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
-      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
-      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
-      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,19 değer kazanarak 13.200,38 puandan tamamladı.",
+      "source": "NTV",
+      "title": "Vatandaş APP plakayı yanlış anladı, APP yazan plakaları da iade etti",
+      "title_tr": "Vatandaş APP plakayı yanlış anladı, APP yazan plakaları da iade etti",
+      "summary": "APP adı verilen sahte plakaların iadesi sırasında APP grubu plakalar da iade edildi. Vatandaşlar APP yazan plakaların da sahte olduğunu düşünüyor.",
+      "summary_tr": "APP adı verilen sahte plakaların iadesi sırasında APP grubu plakalar da iade edildi. Vatandaşlar APP yazan plakaların da sahte olduğunu düşünüyor.",
+      "long_summary": "APP adı verilen sahte plakaların iadesi sırasında APP grubu plakalar da iade edildi. Vatandaşlar APP yazan plakaların da sahte olduğunu düşünüyor.",
+      "long_summary_tr": "APP adı verilen sahte plakaların iadesi sırasında APP grubu plakalar da iade edildi. Vatandaşlar APP yazan plakaların da sahte olduğunu düşünüyor.",
       "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.dunya.com/finans/haberler/borsa-gunu-yukselisle-tamamladi-haberi-817948",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/bb1-xrmn_cover.jpg",
-      "published_at": "2026-03-11T16:18:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Microsoft's GDC 2026 Keynote Live Report: 'Building for the Future With Xbox'",
-      "title_tr": "Microsoft's GDC 2026 Keynote Live Report: 'Building for the Future With Xbox'",
-      "summary": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
-      "summary_tr": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
-      "long_summary": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
-      "long_summary_tr": "Microsoft is set to hold a keynote at the Game Developers Conference to shed light on its plans for the future of Xbox, and IGN will be in the room to bring you all the news as it happens.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/microsofts-gdc-2026-keynote-live-report-building-for-the-future-with-xbox",
-      "image": "https://assets-prd.ignimgs.com/2026/03/11/xbox-project-helix-gdc-live-blogroll-1773244871435.jpg",
-      "published_at": "2026-03-11T16:16:01+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/vatandas-app-plakayi-yanlis-anladi-app-yazan-plakalari-da-iade-etti-1715555",
+      "image": "https://images.ntv.com.tr/images/AW659843_01-629531.jpg",
+      "published_at": "2026-03-11T18:59:53+00:00"
     },
     {
       "origin": "yabanci",
@@ -491,65 +51,87 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Iranian minister says country will not play in World Cup",
-      "title_tr": "Iranian minister says country will not play in World Cup",
-      "summary": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
-      "summary_tr": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
-      "long_summary": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
-      "long_summary_tr": "Iran is not in a position to participate in the 2026 World Cup, says the country's Minister of Sports and Youth.",
+      "title": "Spurs owner to leave Tudor future to club executives",
+      "title_tr": "Spurs owner to leave Tudor future to club executives",
+      "summary": "Tottenham owner Enic does not plan to step in and take the decision over Igor Tudor's future out of the hands of the club's executive team despite the manager's poor start.",
+      "summary_tr": "Tottenham owner Enic does not plan to step in and take the decision over Igor Tudor's future out of the hands of the club's executive team despite the manager's poor start.",
+      "long_summary": "Tottenham owner Enic does not plan to step in and take the decision over Igor Tudor's future out of the hands of the club's executive team despite the manager's poor start.",
+      "long_summary_tr": "Tottenham owner Enic does not plan to step in and take the decision over Igor Tudor's future out of the hands of the club's executive team despite the manager's poor start.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/football/articles/cx2d5r92rk0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/793b/live/337565f0-1d5a-11f1-9120-a910fc22c6ac.jpg",
-      "published_at": "2026-03-11T16:15:39+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
-      "title_tr": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
-      "summary": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
-      "summary_tr": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
-      "long_summary": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
-      "long_summary_tr": "McDonald’s Nisan’da yeni değer teklifleri sunacak - WSJ",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/mcdonalds-nisanda-yeni-deger-teklifleri-sunacak--wsj-93CH-3805081",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:11:32+00:00"
+      "url": "https://www.bbc.com/sport/football/articles/czx4eg5gk03o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52f/live/d1933260-1d75-11f1-a77a-39b849d4606b.jpg",
+      "published_at": "2026-03-11T18:46:54+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "IGN",
-      "title": "The Baseus 100W Multi-Port USB Charger Packs a Handy Digital Display for Just $30",
-      "title_tr": "The Baseus 100W Multi-Port USB Charger Packs a Handy Digital Display for Just $30",
-      "summary": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
-      "summary_tr": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
-      "long_summary": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
-      "long_summary_tr": "The ideal charger for your Xbox Ally X, Steam Deck, Apple iPhone 17, Samsung Galaxy S26 Ultra, and more.",
+      "source": "Sky Sports",
+      "title": "Fact To File 'in a different league' to Ryanair rivals, says Brennan",
+      "title_tr": "Fact To File 'in a different league' to Ryanair rivals, says Brennan",
+      "summary": "With two days completed at the Cheltenham Festival, Matt Chapman and Paddy Brennan turn their attention to Thursday's card on the latest episode of Unbridled.",
+      "summary_tr": "With two days completed at the Cheltenham Festival, Matt Chapman and Paddy Brennan turn their attention to Thursday's card on the latest episode of Unbridled.",
+      "long_summary": "With two days completed at the Cheltenham Festival, Matt Chapman and Paddy Brennan turn their attention to Thursday's card on the latest episode of Unbridled.",
+      "long_summary_tr": "With two days completed at the Cheltenham Festival, Matt Chapman and Paddy Brennan turn their attention to Thursday's card on the latest episode of Unbridled.",
       "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.ign.com/articles/baseus-100w-usb-c-charger-deals-for-handheld-gaming-pcs-has-digital-display",
-      "image": "https://assets-prd.ignimgs.com/2026/03/10/baseuspicogochargerdisplay-1773173203307.jpg",
-      "published_at": "2026-03-11T16:10:00+00:00"
+      "url": "https://www.skysports.com/racing/news/12040/13518154/cheltenham-tips-matt-chapman-and-paddy-brennan-assess-the-ryanair-chase-and-thursday-handicaps",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-racing-unbridled_7188879.jpg?20260311115237",
+      "published_at": "2026-03-11T18:45:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "ABD bütçesi şubatta 307,5 milyar dolar açık verdi",
+      "title_tr": "ABD bütçesi şubatta 307,5 milyar dolar açık verdi",
+      "summary": "ABD federal hükümetinin bütçe açığı, şubatta geçen yılın aynı ayına göre yaklaşık yüzde 0,2 artarak 307,5 milyar dolara çıktı.",
+      "summary_tr": "ABD federal hükümetinin bütçe açığı, şubatta geçen yılın aynı ayına göre yaklaşık yüzde 0,2 artarak 307,5 milyar dolara çıktı.",
+      "long_summary": "ABD federal hükümetinin bütçe açığı, şubatta geçen yılın aynı ayına göre yaklaşık yüzde 0,2 artarak 307,5 milyar dolara çıktı.",
+      "long_summary_tr": "ABD federal hükümetinin bütçe açığı, şubatta geçen yılın aynı ayına göre yaklaşık yüzde 0,2 artarak 307,5 milyar dolara çıktı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/abd-butcesi-subatta-3075-milyar-dolar-acik-verdi-haberi-817957",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/abd-zvdb_cover.jpg",
+      "published_at": "2026-03-11T18:43:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "MHP Milletvekili Kaşlı, kesin ihraç talebiyle disiplin kuruluna sevk edildi",
+      "title_tr": "MHP Milletvekili Kaşlı, kesin ihraç talebiyle disiplin kuruluna sevk edildi",
+      "summary": "MHP Aksaray Milletvekili Ramazan Kaşlı'nın, kesin ihraç talebiyle disiplin kuruluna sevk edildiği bildirildi.",
+      "summary_tr": "MHP Aksaray Milletvekili Ramazan Kaşlı'nın, kesin ihraç talebiyle disiplin kuruluna sevk edildiği bildirildi.",
+      "long_summary": "MHP Aksaray Milletvekili Ramazan Kaşlı'nın, kesin ihraç talebiyle disiplin kuruluna sevk edildiği bildirildi.",
+      "long_summary_tr": "MHP Aksaray Milletvekili Ramazan Kaşlı'nın, kesin ihraç talebiyle disiplin kuruluna sevk edildiği bildirildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/mhp-milletvekili-kasli-kesin-ihrac-talebiyle-disiplin-kuruluna-sevk-edildi-1715557",
+      "image": "https://images.ntv.com.tr/images/MHP-729330.jpg",
+      "published_at": "2026-03-11T18:42:10+00:00"
     },
     {
       "origin": "yabanci",
@@ -557,87 +139,131 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "Shopbop’s Sale Section Is Hiding Staud, Reformation, and Bottega Veneta",
-      "title_tr": "Shopbop’s Sale Section Is Hiding Staud, Reformation, and Bottega Veneta",
-      "summary": "Take up to 70 percent off spring wardrobe upgrades.",
-      "summary_tr": "Take up to 70 percent off spring wardrobe upgrades.",
-      "long_summary": "Take up to 70 percent off spring wardrobe upgrades.",
-      "long_summary_tr": "Take up to 70 percent off spring wardrobe upgrades.",
+      "title": "A Streaming Guide to Hamnet",
+      "title_tr": "A Streaming Guide to Hamnet",
+      "summary": "A Streaming Guide to Hamnet",
+      "summary_tr": "A Streaming Guide to Hamnet",
+      "long_summary": "A Streaming Guide to Hamnet",
+      "long_summary_tr": "A Streaming Guide to Hamnet",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/fashion/shopping/a70639996/shopbop-sale-march-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/guests-wear-beige-long-puff-sleeves-mini-dress-black-boots-news-photo-1773152630.pjpeg",
-      "published_at": "2026-03-11T16:09:00+00:00"
+      "url": "https://www.elle.com/culture/movies-tv/a69500517/how-to-watch-hamnet-streaming/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/4238-d005-00229-r-692723589d038.jpg",
+      "published_at": "2026-03-11T18:39:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "NYT: İran’daki okul saldırısı ABD hatası",
+      "title_tr": "NYT: İran’daki okul saldırısı ABD hatası",
+      "summary": "New York Times, İran’ın Hürmüzgan eyaletindeki ilkokula düzenlenen ve 175 kişinin hayatını kaybettiği saldırının, ABD ordusunun yanlış hedeflemesi sonucu gerçekleştiğini bildirdi.",
+      "summary_tr": "New York Times, İran’ın Hürmüzgan eyaletindeki ilkokula düzenlenen ve 175 kişinin hayatını kaybettiği saldırının, ABD ordusunun yanlış hedeflemesi sonucu gerçekleştiğini bildirdi.",
+      "long_summary": "New York Times, İran’ın Hürmüzgan eyaletindeki ilkokula düzenlenen ve 175 kişinin hayatını kaybettiği saldırının, ABD ordusunun yanlış hedeflemesi sonucu gerçekleştiğini bildirdi.",
+      "long_summary_tr": "New York Times, İran’ın Hürmüzgan eyaletindeki ilkokula düzenlenen ve 175 kişinin hayatını kaybettiği saldırının, ABD ordusunun yanlış hedeflemesi sonucu gerçekleştiğini bildirdi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/nyt-irandaki-okul-saldirisi-abd-hatasi-haberi-817956",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/okul-saldirisi-qmtf_cover.jpg",
+      "published_at": "2026-03-11T18:35:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "A Guide to Watching Sinners",
+      "title_tr": "A Guide to Watching Sinners",
+      "summary": "A Guide to Watching Sinners",
+      "summary_tr": "A Guide to Watching Sinners",
+      "long_summary": "A Guide to Watching Sinners",
+      "long_summary_tr": "A Guide to Watching Sinners",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a64516774/how-to-watch-sinners-streaming/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/rev-1-grc-tt-0026r-high-res-jpeg-6801b337e6f7c.jpeg",
+      "published_at": "2026-03-11T18:32:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Canadian PM Mark Carney inches closer to majority, as fourth MP defects to Liberals",
+      "title_tr": "Canadian PM Mark Carney inches closer to majority, as fourth MP defects to Liberals",
+      "summary": "Lori Idlout, formerly of the NDP, has become the latest lawmaker in the current parliament to cross the floor.",
+      "summary_tr": "Lori Idlout, formerly of the NDP, has become the latest lawmaker in the current parliament to cross the floor.",
+      "long_summary": "Lori Idlout, formerly of the NDP, has become the latest lawmaker in the current parliament to cross the floor.",
+      "long_summary_tr": "Lori Idlout, formerly of the NDP, has become the latest lawmaker in the current parliament to cross the floor.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c0e5jwz0703o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8323/live/9ee99e90-1cf2-11f1-bb35-653e5995a61a.jpg",
+      "published_at": "2026-03-11T18:30:25+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Hiding in plain sight' - but why have Aberdeen moved for Robinson now?",
-      "title_tr": "'Hiding in plain sight' - but why have Aberdeen moved for Robinson now?",
-      "summary": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
-      "summary_tr": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
-      "long_summary": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
-      "long_summary_tr": "All the signs were Aberdeen would wait until the summer to appoint a new manager - so why have they moved for Stephen Robinson now?",
+      "source": "Sky Sports",
+      "title": "Jorgensen starts ahead of Sanchez in goal for Chelsea at PSG LIVE!",
+      "title_tr": "Jorgensen starts ahead of Sanchez in goal for Chelsea at PSG LIVE!",
+      "summary": "Jorgensen starts ahead of Sanchez in goal for Chelsea at PSG LIVE!",
+      "summary_tr": "Jorgensen starts ahead of Sanchez in goal for Chelsea at PSG LIVE!",
+      "long_summary": "Jorgensen starts ahead of Sanchez in goal for Chelsea at PSG LIVE!",
+      "long_summary_tr": "Jorgensen starts ahead of Sanchez in goal for Chelsea at PSG LIVE!",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/football/articles/cy7j4npegg6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b798/live/75f81840-1d3d-11f1-8f41-53e6be7ade48.jpg",
-      "published_at": "2026-03-11T16:08:07+00:00"
+      "url": "https://www.skysports.com/football/paris-saint-germain-vs-chelsea/live/554898",
+      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-robert-sanchez-filip-jorgensen_7045332.jpg?20251007191201",
+      "published_at": "2026-03-11T18:30:00+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
+      "category": "Dünya",
+      "category_slug": "dunya",
       "is_local": false,
-      "source": "BBC Sport",
-      "title": "Scotland's 'flex', Irish selection and a 'Triple Crown final'",
-      "title_tr": "Scotland's 'flex', Irish selection and a 'Triple Crown final'",
-      "summary": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
-      "summary_tr": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
-      "long_summary": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
-      "long_summary_tr": "On the Ireland Rugby Social, Conor Murray and Andrew Trimble discuss Scotland's confidence and Andy Farrell's selection dilemma before Saturday's Six Nations Triple Crown decider in Dublin.",
+      "source": "BBC World",
+      "title": "Three brothers arrested after explosion at US embassy in Oslo",
+      "title_tr": "Three brothers arrested after explosion at US embassy in Oslo",
+      "summary": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
+      "summary_tr": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
+      "long_summary": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
+      "long_summary_tr": "Norway's police attorney says the authorities are investigating whether a foreign state actor was involved.",
       "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
+        "Uluslararası dengeleri ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+        "Uluslararası ilişkilerde dengeler değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/czx7qe25099o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bed/live/ca163070-1d5a-11f1-a1ef-cb226cd714d6.jpg",
-      "published_at": "2026-03-11T16:06:46+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Autocar",
-      "title": "Alfa Romeo GTV: a humble Fiat hatchback turned into a 150mph star",
-      "title_tr": "Alfa Romeo GTV: a humble Fiat hatchback turned into a 150mph star",
-      "summary": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater coupe designed by Giorgetto Giugiaro, as its much-admired predecessor had been, and while this Alfetta-based coupe had its issues – a habit of dissolving, the fractious relationship between its rear-mounted gearbox and a reluctant gearlever – it was a sophisticated beast of some charm.\nThe new GTV and its Spider convertible sister would inevitably be front-wheel drive being Tipo-based, and there were plenty of critics, this columnist included, who reckoned that this source platform would prove inadequate for the task.\nBut not if one Giancarlo Travaglio had his way. Travaglio was Alfa Romeo’s chief chassis man back in the early ‘90s, he and his colleagues selecting for benchmarks the long-forgotten (but rather brilliant) Honda Civic VTi hatch of the era, and the front-drive Lotus Elan.\nAt the Spider’s launch Travaglio told me of his habit of performing 115mph drifts “to learn about chassis equilibrium”, and of his enthusiasm for the Elan.\nMuch of whose dynamic magic stemmed from clever suspension and subframe bushing that effected firm but fluent control over the wheels and their geometries while in frenzied rotating motion, a development not lost on Alfa’s chassis team.\nEarly on in their development life the GTV and Spider had been narrower, their rear-ends suspended by some disappointingly simple chassis design that would have instantly betrayed their humble Tipo beginnings. But part-way through the programme there emerged an ultimately aborted plan to relaunch Alfa Romeo in the US, market research demanding that the cars appear more imposing. Around the same time Fiat Auto CEO Paolo Cantarella, a genuine car nut, decided that the Spider and GTV chassis weren't good enough.\nSo, the crude rear suspension was ditched in favour of a multi-link system mounted to a super-stiff alloy subframe, the back-axle kinematics designed to provide a controlled smidgen of rear-wheel steering.\nAt low to middling cornering forces the rear wheels would counter-steer, while at high speeds – Travaglio’s 125mph drifts, no doubt – they would steer fractionally in phase with the fronts.\nThere wasn’t the scope (or the skill) for this scribbler to confirm the Alfa’s behaviour at 115 squealing mph, but at lower speeds it cornered with an understeer-banishing obedience that was both a joy and a surprise. And, you could lift-off mid-bend and find the car tightening its line. It wasn’t as much fun as a tail-out drift in a Mazda MX-5, but it was definitely entertaining and a bit more dependable in rain.\nHeightening the fun was Alfa’s new range of Twin Spark motors. These were completely new engines, featuring one big and one small spark plug per cylinder for a total of eight, twin cams, the lobes of the inlet shaft flicking between two positions for deeper breathing and just as unusually, a pair of balancer shafts for smoothness.\nThe result in 2.0 litre form was 150bhp, 138lb ft of torque, plenty of rort and a 7000rpm redline. In fact, this engine would see 7300rpm before the rev limiter called curfew.\nThe Alfa Romeo GTV was three times as stiff as the Spider to make the better driver’s car and it had four seats to the Spider’s pair, though the rearmost duo were good only for the desperate. Or more likely your luggage, much potential bootspace ceded to the fuel tank, which had to be relocated to allow for the bulkier new rear suspension. The trade-off was worth it though, the GTV’s dynamics delivering on the promise of its style.\nWhich was pretty dramatic back in 1995. We’d seen wedge-shaped cars before, but this Enrico Fumia design was different, the deep scalpel cut running from front wing through doors and rear wing to loop around the back window or in the case of the Spider, the base of the body-coloured tonneau cover.\nClever. It was new, fresh and arresting, as were the quartet of headlamps punched through the Alfa’s composite plastic bonnet. Tiny front lights were something new back then, though lifting the huge bonnet revealed a larger rectangular lamp unit that the clamshell part-masked when closed.\nBoth GTV and Spider managed to live 10-year lives, which was pretty good for speciality cars, the GTV’s career boosted by the later availability of Alfa’s famously sonorous 3.0 V6 and a six-speed gearbox. A couple of light but effective titivations also maintained interest.\nBut while the GTV in particular gave a good on-road account of itself it wasn’t long before its chassis was eclipsed by the march of the hot hatch, and irritations like the never-settled ride and the laughably compact boot began to date it. Plenty of enthusiasts would have preferred rear-wheel drive, too.",
-      "summary_tr": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater coupe designed by Giorgetto Giugiaro, as its much-admired predecessor had been, and while this Alfetta-based coupe had its issues – a habit of dissolving, the fractious relationship between its rear-mounted gearbox and a reluctant gearlever – it was a sophisticated beast of some charm.\nThe new GTV and its Spider convertible sister would inevitably be front-wheel drive being Tipo-based, and there were plenty of critics, this columnist included, who reckoned that this source platform would prove inadequate for the task.\nBut not if one Giancarlo Travaglio had his way. Travaglio was Alfa Romeo’s chief chassis man back in the early ‘90s, he and his colleagues selecting for benchmarks the long-forgotten (but rather brilliant) Honda Civic VTi hatch of the era, and the front-drive Lotus Elan.\nAt the Spider’s launch Travaglio told me of his habit of performing 115mph drifts “to learn about chassis equilibrium”, and of his enthusiasm for the Elan.\nMuch of whose dynamic magic stemmed from clever suspension and subframe bushing that effected firm but fluent control over the wheels and their geometries while in frenzied rotating motion, a development not lost on Alfa’s chassis team.\nEarly on in their development life the GTV and Spider had been narrower, their rear-ends suspended by some disappointingly simple chassis design that would have instantly betrayed their humble Tipo beginnings. But part-way through the programme there emerged an ultimately aborted plan to relaunch Alfa Romeo in the US, market research demanding that the cars appear more imposing. Around the same time Fiat Auto CEO Paolo Cantarella, a genuine car nut, decided that the Spider and GTV chassis weren't good enough.\nSo, the crude rear suspension was ditched in favour of a multi-link system mounted to a super-stiff alloy subframe, the back-axle kinematics designed to provide a controlled smidgen of rear-wheel steering.\nAt low to middling cornering forces the rear wheels would counter-steer, while at high speeds – Travaglio’s 125mph drifts, no doubt – they would steer fractionally in phase with the fronts.\nThere wasn’t the scope (or the skill) for this scribbler to confirm the Alfa’s behaviour at 115 squealing mph, but at lower speeds it cornered with an understeer-banishing obedience that was both a joy and a surprise. And, you could lift-off mid-bend and find the car tightening its line. It wasn’t as much fun as a tail-out drift in a Mazda MX-5, but it was definitely entertaining and a bit more dependable in rain.\nHeightening the fun was Alfa’s new range of Twin Spark motors. These were completely new engines, featuring one big and one small spark plug per cylinder for a total of eight, twin cams, the lobes of the inlet shaft flicking between two positions for deeper breathing and just as unusually, a pair of balancer shafts for smoothness.\nThe result in 2.0 litre form was 150bhp, 138lb ft of torque, plenty of rort and a 7000rpm redline. In fact, this engine would see 7300rpm before the rev limiter called curfew.\nThe Alfa Romeo GTV was three times as stiff as the Spider to make the better driver’s car and it had four seats to the Spider’s pair, though the rearmost duo were good only for the desperate. Or more likely your luggage, much potential bootspace ceded to the fuel tank, which had to be relocated to allow for the bulkier new rear suspension. The trade-off was worth it though, the GTV’s dynamics delivering on the promise of its style.\nWhich was pretty dramatic back in 1995. We’d seen wedge-shaped cars before, but this Enrico Fumia design was different, the deep scalpel cut running from front wing through doors and rear wing to loop around the back window or in the case of the Spider, the base of the body-coloured tonneau cover.\nClever. It was new, fresh and arresting, as were the quartet of headlamps punched through the Alfa’s composite plastic bonnet. Tiny front lights were something new back then, though lifting the huge bonnet revealed a larger rectangular lamp unit that the clamshell part-masked when closed.\nBoth GTV and Spider managed to live 10-year lives, which was pretty good for speciality cars, the GTV’s career boosted by the later availability of Alfa’s famously sonorous 3.0 V6 and a six-speed gearbox. A couple of light but effective titivations also maintained interest.\nBut while the GTV in particular gave a good on-road account of itself it wasn’t long before its chassis was eclipsed by the march of the hot hatch, and irritations like the never-settled ride and the laughably compact boot began to date it. Plenty of enthusiasts would have preferred rear-wheel drive, too.",
-      "long_summary": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater",
-      "long_summary_tr": "We look back at the unlikely story of Alfa's Fiat-based sports car - that can now be snapped up for less than £5000\n\nThe base metal wasn’t so promising. A platform that started life beneath the boxily functional, galvanised bodywork of the 1988 Fiat Tipo was to be the core building block of a car that had created legends for its maker, and was sufficiently difficult to replace that it had been out of production for seven years.\nThe outgoing Alfa Romeo GTV was a rear-wheel drive four-seater",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://www.autocar.co.uk/car-news/used-cars/alfa-romeo-gtv-humble-fiat-hatchback-turned-150mph-star",
-      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/alfagtv.jpg?itok=lc7qf3Rr",
-      "published_at": "2026-03-11T16:05:41+00:00"
+      "url": "https://www.bbc.com/news/articles/cx2grl7lrrmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/994a/live/148b98d0-1d78-11f1-a77a-39b849d4606b.png",
+      "published_at": "2026-03-11T18:28:46+00:00"
     },
     {
       "origin": "turkiye",
@@ -645,285 +271,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "Çanakkale Boğazı'nda gemi karaya oturdu",
-      "title_tr": "Çanakkale Boğazı'nda gemi karaya oturdu",
-      "summary": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
-      "summary_tr": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
-      "long_summary": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
-      "long_summary_tr": "Çanakkale Boğazı'nda geçişi sırasında bir gemi makina arızası yaparak karaya oturdu. Çanakkale Boğazı çift yönlü olarak trafiğe kapatıldı.",
+      "title": "Cumhurbaşkanına hakaret iddiası. Başsavcılık soruşturma başlattı",
+      "title_tr": "Cumhurbaşkanına hakaret iddiası. Başsavcılık soruşturma başlattı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı, sosyal medyada \"Ekrem İmamoğlu Cumhurbaşkanlığı Aday Ofisi\" hesabı hakkında soruşturma başlattı.",
+      "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, sosyal medyada \"Ekrem İmamoğlu Cumhurbaşkanlığı Aday Ofisi\" hesabı hakkında soruşturma başlattı.",
+      "long_summary": "İstanbul Cumhuriyet Başsavcılığı, sosyal medyada \"Ekrem İmamoğlu Cumhurbaşkanlığı Aday Ofisi\" hesabı hakkında soruşturma başlattı.",
+      "long_summary_tr": "İstanbul Cumhuriyet Başsavcılığı, sosyal medyada \"Ekrem İmamoğlu Cumhurbaşkanlığı Aday Ofisi\" hesabı hakkında soruşturma başlattı.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/canakkale-bogazinda-gemi-karaya-oturdu-1715549",
-      "image": "https://images.ntv.com.tr/images/AA-20260311-40794355-40794354-CANAKKALE_BOGAZINDA_MAKINE_ARIZASI_YASAYAN_GEMI_KARAYA_OTURDU-293558.jpg",
-      "published_at": "2026-03-11T16:03:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
-      "title_tr": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
-      "summary": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
-      "summary_tr": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
-      "long_summary": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
-      "long_summary_tr": "Navitas Semiconductor hisseleri yeni SiC ürün lansmanıyla %20 yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/navitas-semiconductor-hisseleri-yeni-sic-urun-lansmanyla-20-yukseldi-93CH-3805058",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T16:02:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "iPhone 18 Pro’da Küçültülmüş Dynamic Island Olmayabilir",
-      "title_tr": "iPhone 18 Pro’da Küçültülmüş Dynamic Island Olmayabilir",
-      "summary": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
-      "summary_tr": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
-      "long_summary": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
-      "long_summary_tr": "Akıllı telefon dünyasının en çok konuşulan serilerinden 1 tanesi olan iPhone 18 ailesi hakkında sızıntılar gelmeye devam ediyor. Teknoloji devi Apple tarafından geliştirilen yeni nesil amiral gemisi modellerinde Dynamic Island çentiğinin küçüleceğine dair uzun süredir güçlü iddialar dolaşıyordu. Ancak sektörün güvenilir sızıntı kaynaklarından gelen en taze bilgiler, donanım tutkunlarını biraz hayal kırıklığına uğratacak gibi görünüyor. […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/iphone-18-proda-kucultulmus-dynamic-island-olmayabilir",
-      "image": null,
-      "published_at": "2026-03-11T16:01:28+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Anduril to buy space/missile tracking firm ExoAnalytic",
-      "title_tr": "Anduril to buy space/missile tracking firm ExoAnalytic",
-      "summary": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
-      "summary_tr": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
-      "long_summary": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
-      "long_summary_tr": "Anduril intends to “fully absorb” ExoAnalytic’s team of some 130 people rather than create a separate subsidiary, a senior Anduril exec said.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/03/anduril-to-buy-space-missile-tracking-firm-exoanalytic/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/12/Screen-Shot-2023-12-16-at-10.53.21-AM-e1716998768725-1024x576.png",
-      "published_at": "2026-03-11T16:01:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-      "title_tr": "'Even under missiles we carry on living' - how young Iranians are coping with war",
-      "summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
-      "summary_tr": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
-      "long_summary": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
-      "long_summary_tr": "Iranians say they are sheltering at home and rarely venturing out on near-empty streets as the US-Israeli bombing campaign continues.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c1mj1pyrzryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d430/live/f5efa5c0-1d62-11f1-b048-c9424b2cf5fd.jpg",
-      "published_at": "2026-03-11T16:00:34+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "'Give him the keys to the city!' - Sivo receives February's POTM!",
-      "title_tr": "'Give him the keys to the city!' - Sivo receives February's POTM!",
-      "summary": "Leeds Rhinos Maika Sivo received February's player of the month.",
-      "summary_tr": "Leeds Rhinos Maika Sivo received February's player of the month.",
-      "long_summary": "Leeds Rhinos Maika Sivo received February's player of the month.",
-      "long_summary_tr": "Leeds Rhinos Maika Sivo received February's player of the month.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13518191/maika-sivo-receives-februarys-player-of-the-month-give-him-the-keys-to-the-city",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-rugby-league-sivo_7188924.jpg?20260311122832",
-      "published_at": "2026-03-11T16:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Hall secures February's try of the month after THAT 'sensational' Sivo effort!",
-      "title_tr": "Hall secures February's try of the month after THAT 'sensational' Sivo effort!",
-      "summary": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
-      "summary_tr": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
-      "long_summary": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
-      "long_summary_tr": "Leeds Rhinos Ryan Hall takes February's try of the month with the help of Maika Sivo's superb assist.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13518192/ryan-hall-secures-februarys-try-of-the-month-after-that-sensational-maika-sivo-effort",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-rugby-league-hall_7188928.jpg?20260311123218",
-      "published_at": "2026-03-11T16:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Alienware Area-51 16 Gaming Laptops with RTX 50 Series GPUs Have Been Restocked at Dell Outlet",
-      "title_tr": "Alienware Area-51 16 Gaming Laptops with RTX 50 Series GPUs Have Been Restocked at Dell Outlet",
-      "summary": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
-      "summary_tr": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
-      "long_summary": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
-      "long_summary_tr": "Save big on Alienware's best gaming laptop and get the exact same warranty as buying new.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/alienware-area-51-16-gaming-laptop-deals-at-dell-outlet",
-      "image": "https://assets-prd.ignimgs.com/2026/03/10/alienwarearea5116-1773167392679.jpg",
-      "published_at": "2026-03-11T16:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Alienware's Flagship Area-51 Ryzen X3D Edition RTX 5090 Gaming PC Drops to $4,650",
-      "title_tr": "Alienware's Flagship Area-51 Ryzen X3D Edition RTX 5090 Gaming PC Drops to $4,650",
-      "summary": "Alienware's biggest and most powerful gaming PC for 2026.",
-      "summary_tr": "Alienware's biggest and most powerful gaming PC for 2026.",
-      "long_summary": "Alienware's biggest and most powerful gaming PC for 2026.",
-      "long_summary_tr": "Alienware's biggest and most powerful gaming PC for 2026.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/alienware-area-51-9800x3d-rtx-5090-gaming-pc-deal-down-to-4650",
-      "image": "https://assets-prd.ignimgs.com/2026/02/10/alienwarearea51ryzen-1770751108036.jpg",
-      "published_at": "2026-03-11T16:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "The FlashForge Adventure 5M CoreXY 3D Printer Drops to Just $176 with Free Delivery",
-      "title_tr": "The FlashForge Adventure 5M CoreXY 3D Printer Drops to Just $176 with Free Delivery",
-      "summary": "The best 3D printer for beginners.",
-      "summary_tr": "The best 3D printer for beginners.",
-      "long_summary": "The best 3D printer for beginners.",
-      "long_summary_tr": "The best 3D printer for beginners.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/flashforge-adventure-5m-3d-printer-deal-at-aliexpress-for-176",
-      "image": "https://assets-prd.ignimgs.com/2026/03/10/flashforgeadventurer5m-1773176046639.jpg",
-      "published_at": "2026-03-11T16:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Audi: \"Müşteriler için en önemli şey dış görünüş\"",
-      "title_tr": "Audi: \"Müşteriler için en önemli şey dış görünüş\"",
-      "summary": "Audi'nin yeni spor otomobili, içte ve dışta radikal tasarım değişiklikleri getirecek.",
-      "summary_tr": "Audi'nin yeni spor otomobili, içte ve dışta radikal tasarım değişiklikleri getirecek.",
-      "long_summary": "Audi'nin yeni spor otomobili, içte ve dışta radikal tasarım değişiklikleri getirecek.",
-      "long_summary_tr": "Audi'nin yeni spor otomobili, içte ve dışta radikal tasarım değişiklikleri getirecek.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/789674/audi-dis-gorunus-cok-onemli/",
-      "image": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
-      "published_at": "2026-03-11T16:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
-      "title_tr": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
-      "summary": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
-      "summary_tr": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
-      "long_summary": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
-      "long_summary_tr": "Goldman, Samsung ve SK Hynix için hedefleri yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/goldman-samsung-ve-sk-hynix-icin-hedefleri-yukseltti-3805056",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-03-11T15:59:17+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Large WW2 bomb defused after Dresden evacuated",
-      "title_tr": "Large WW2 bomb defused after Dresden evacuated",
-      "summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
-      "summary_tr": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
-      "long_summary": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
-      "long_summary_tr": "The city's biggest ever evacuation comes after the British flying bomb was discovered near a collapsed bridge.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c1781gr5n9go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/231635c0-1cc1-11f1-8452-d983fe428cc5.jpg",
-      "published_at": "2026-03-11T15:55:47+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskanina-hakaret-iddiasi-bassavcilik-sorusturma-baslatti-1715556",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_c2fa7a1d2e0b34002f935574c0a050d6-226156.jpg",
+      "published_at": "2026-03-11T18:24:34+00:00"
     },
     {
       "origin": "turkiye",
@@ -931,21 +293,43 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Bloomberg HT",
-      "title": "Halkbank'tan ABD'deki dava sürecine ilişkin yeni açıklama",
-      "title_tr": "Halkbank'tan ABD'deki dava sürecine ilişkin yeni açıklama",
-      "summary": "Halkbank, ABD'de 2019'dan bu yana devam eden ceza davasının uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması'nın ABD Güney New York Bölge Mahkemesi'nde görüşülerek yürürlüğe girdiğini açıkladı.",
-      "summary_tr": "Halkbank, ABD'de 2019'dan bu yana devam eden ceza davasının uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması'nın ABD Güney New York Bölge Mahkemesi'nde görüşülerek yürürlüğe girdiğini açıkladı.",
-      "long_summary": "Halkbank, ABD'de 2019'dan bu yana devam eden ceza davasının uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması'nın ABD Güney New York Bölge Mahkemesi'nde görüşülerek yürürlüğe girdiğini açıkladı.",
-      "long_summary_tr": "Halkbank, ABD'de 2019'dan bu yana devam eden ceza davasının uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması'nın ABD Güney New York Bölge Mahkemesi'nde görüşülerek yürürlüğe girdiğini açıkladı.",
+      "title": "AB, Rusya yaptırımlarının gevşetilmesine karşı",
+      "title_tr": "AB, Rusya yaptırımlarının gevşetilmesine karşı",
+      "summary": "AB kurumlarının liderleri, Rusya'ya yönelik yaptırımların kaldırılmasının gündemde olmadığını belirterek Rus petrolüne uygulanan tavan fiyat mekanizmasının sürdürülmesi gerektiğini vurguladı.",
+      "summary_tr": "AB kurumlarının liderleri, Rusya'ya yönelik yaptırımların kaldırılmasının gündemde olmadığını belirterek Rus petrolüne uygulanan tavan fiyat mekanizmasının sürdürülmesi gerektiğini vurguladı.",
+      "long_summary": "AB kurumlarının liderleri, Rusya'ya yönelik yaptırımların kaldırılmasının gündemde olmadığını belirterek Rus petrolüne uygulanan tavan fiyat mekanizmasının sürdürülmesi gerektiğini vurguladı.",
+      "long_summary_tr": "AB kurumlarının liderleri, Rusya'ya yönelik yaptırımların kaldırılmasının gündemde olmadığını belirterek Rus petrolüne uygulanan tavan fiyat mekanizmasının sürdürülmesi gerektiğini vurguladı.",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/halkbank-tan-abd-deki-dava-surecine-iliskin-yeni-aciklama-3771599",
+      "url": "https://www.bloomberght.com/ab-rusya-yaptirimlarinin-gevsetilmesine-karsi-3771616",
       "image": null,
-      "published_at": "2026-03-11T15:53:29+00:00"
+      "published_at": "2026-03-11T18:16:21+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Microsoft Reveals Project Helix Features at Next-Gen Xbox GDC Talk, Alpha Versions to Be Sent to Devs in 2027",
+      "title_tr": "Microsoft Reveals Project Helix Features at Next-Gen Xbox GDC Talk, Alpha Versions to Be Sent to Devs in 2027",
+      "summary": "Microsoft has revealed early features of Project Helix, its next-gen Xbox, while confirming plans to send alpha versions of the hardware to developers in 2027.",
+      "summary_tr": "Microsoft has revealed early features of Project Helix, its next-gen Xbox, while confirming plans to send alpha versions of the hardware to developers in 2027.",
+      "long_summary": "Microsoft has revealed early features of Project Helix, its next-gen Xbox, while confirming plans to send alpha versions of the hardware to developers in 2027.",
+      "long_summary_tr": "Microsoft has revealed early features of Project Helix, its next-gen Xbox, while confirming plans to send alpha versions of the hardware to developers in 2027.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/microsoft-reveals-project-helix-features-at-next-gen-xbox-gdc-talk-alpha-versions-to-be-sent-to-devs-in-2027",
+      "image": "https://assets-prd.ignimgs.com/2023/05/03/xbox-showcase-1683121552988.jpg",
+      "published_at": "2026-03-11T18:15:58+00:00"
     },
     {
       "origin": "yabanci",
@@ -953,43 +337,351 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Bristol Bears' Capon to stand trial over rape charge",
-      "title_tr": "Bristol Bears' Capon to stand trial over rape charge",
-      "summary": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
-      "summary_tr": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
-      "long_summary": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
-      "long_summary_tr": "Will Capon, 26, denied the charge when he appeared at court on Friday.",
+      "title": "Two-tier system among proposals for PGA Tour future",
+      "title_tr": "Two-tier system among proposals for PGA Tour future",
+      "summary": "Promotion and relegation between different tiers of tournaments is proposed by PGA Tour boss Brian Rolapp while unveiling his latest vision for the future of professional golf.",
+      "summary_tr": "Promotion and relegation between different tiers of tournaments is proposed by PGA Tour boss Brian Rolapp while unveiling his latest vision for the future of professional golf.",
+      "long_summary": "Promotion and relegation between different tiers of tournaments is proposed by PGA Tour boss Brian Rolapp while unveiling his latest vision for the future of professional golf.",
+      "long_summary_tr": "Promotion and relegation between different tiers of tournaments is proposed by PGA Tour boss Brian Rolapp while unveiling his latest vision for the future of professional golf.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/cy036ek1165o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5fa/live/3925fb70-1ca8-11f1-83d3-51ba8f4a8c59.jpg",
-      "published_at": "2026-03-11T15:52:24+00:00"
+      "url": "https://www.bbc.com/sport/golf/articles/cgjzedpy1njo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c6/live/f128bbf0-1d6f-11f1-9120-a910fc22c6ac.jpg",
+      "published_at": "2026-03-11T18:06:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Trump: İran'ı sert vurduk ama henüz bitirmedik",
+      "title_tr": "Trump: İran'ı sert vurduk ama henüz bitirmedik",
+      "summary": "Trump, İran'a yönelik saldırıların şu ana kadar çok başarılı olduğunu savunarak İran'ın donanması, hava kuvvetleri ve hava savunma sistemlerinin büyük ölçüde etkisiz hale getirildiğini, operasyonların ise henüz sona ermediğini belirtti.",
+      "summary_tr": "Trump, İran'a yönelik saldırıların şu ana kadar çok başarılı olduğunu savunarak İran'ın donanması, hava kuvvetleri ve hava savunma sistemlerinin büyük ölçüde etkisiz hale getirildiğini, operasyonların ise henüz sona ermediğini belirtti.",
+      "long_summary": "Trump, İran'a yönelik saldırıların şu ana kadar çok başarılı olduğunu savunarak İran'ın donanması, hava kuvvetleri ve hava savunma sistemlerinin büyük ölçüde etkisiz hale getirildiğini, operasyonların ise henüz sona ermediğini belirtti.",
+      "long_summary_tr": "Trump, İran'a yönelik saldırıların şu ana kadar çok başarılı olduğunu savunarak İran'ın donanması, hava kuvvetleri ve hava savunma sistemlerinin büyük ölçüde etkisiz hale getirildiğini, operasyonların ise henüz sona ermediğini belirtti.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/trump-iran-i-sert-vurduk-ama-henuz-bitirmedik-3771612",
+      "image": null,
+      "published_at": "2026-03-11T18:01:44+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "BBC World",
-      "title": "Countries agree to record release of emergency oil reserves as prices surge",
-      "title_tr": "Countries agree to record release of emergency oil reserves as prices surge",
-      "summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "summary_tr": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "long_summary": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
-      "long_summary_tr": "The G7 group of nations welcomes the idea of releasing oil in response to the surge in prices since the US-Israel war with Iran began",
+      "source": "BBC Sport",
+      "title": "Germans protest against Russia on Paralympic podium",
+      "title_tr": "Germans protest against Russia on Paralympic podium",
+      "summary": "German cross-country skiers turn their backs on the Russian gold medallists on the Winter Paralympics podium in protest against the nation's inclusion at the Games.",
+      "summary_tr": "German cross-country skiers turn their backs on the Russian gold medallists on the Winter Paralympics podium in protest against the nation's inclusion at the Games.",
+      "long_summary": "German cross-country skiers turn their backs on the Russian gold medallists on the Winter Paralympics podium in protest against the nation's inclusion at the Games.",
+      "long_summary_tr": "German cross-country skiers turn their backs on the Russian gold medallists on the Winter Paralympics podium in protest against the nation's inclusion at the Games.",
       "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/cly093xxlzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ac/live/9c070350-1d3a-11f1-8a7a-4725a6287ab3.jpg",
-      "published_at": "2026-03-11T15:51:11+00:00"
+      "url": "https://www.bbc.com/sport/articles/c9wn01jd12wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/027c/live/0607d760-1d37-11f1-8a7a-4725a6287ab3.jpg",
+      "published_at": "2026-03-11T18:01:41+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Bob Olinger backed to retain Stayers' crown",
+      "title_tr": "Bob Olinger backed to retain Stayers' crown",
+      "summary": "Ahead of day three at the Cheltenham Festival, the Weekend Winners panel discussed their best betting angles of the day.",
+      "summary_tr": "Ahead of day three at the Cheltenham Festival, the Weekend Winners panel discussed their best betting angles of the day.",
+      "long_summary": "Ahead of day three at the Cheltenham Festival, the Weekend Winners panel discussed their best betting angles of the day.",
+      "long_summary_tr": "Ahead of day three at the Cheltenham Festival, the Weekend Winners panel discussed their best betting angles of the day.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/racing/news/12040/13517300/cheltenham-tips-bob-olinger-fancied-to-retain-stayers-hurdle-crown-for-henry-de-bromhead",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-rachael-blackmore_7184401.jpg?20260306165456",
+      "published_at": "2026-03-11T18:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Explore the human body in stunning, 3D detail with a new online tool",
+      "title_tr": "Explore the human body in stunning, 3D detail with a new online tool",
+      "summary": "The free Human Organ Atlas gives users an up-close-and-personal look at 56 human organs.\nThe post Explore the human body in stunning, 3D detail with a new online tool appeared first on Popular Science.",
+      "summary_tr": "The free Human Organ Atlas gives users an up-close-and-personal look at 56 human organs.\nThe post Explore the human body in stunning, 3D detail with a new online tool appeared first on Popular Science.",
+      "long_summary": "The free Human Organ Atlas gives users an up-close-and-personal look at 56 human organs.\nThe post Explore the human body in stunning, 3D detail with a new online tool appeared first on Popular Science.",
+      "long_summary_tr": "The free Human Organ Atlas gives users an up-close-and-personal look at 56 human organs.\nThe post Explore the human body in stunning, 3D detail with a new online tool appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/health/human-organ-atlas/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/03/hoa-organs.png?quality=85",
+      "published_at": "2026-03-11T18:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Walmart Has the Lowest Price on an Nvidia GeForce RTX 5070 12GB Graphics Card in 2026",
+      "title_tr": "Walmart Has the Lowest Price on an Nvidia GeForce RTX 5070 12GB Graphics Card in 2026",
+      "summary": "For a limited time, it includes a free download voucher for Resident Evil: Requiem.",
+      "summary_tr": "For a limited time, it includes a free download voucher for Resident Evil: Requiem.",
+      "long_summary": "For a limited time, it includes a free download voucher for Resident Evil: Requiem.",
+      "long_summary_tr": "For a limited time, it includes a free download voucher for Resident Evil: Requiem.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/pny-geforce-rtx-5070-graphics-card-deal-includes-resident-evil-requiem",
+      "image": "https://assets-prd.ignimgs.com/2026/03/11/pnygeforcertx5070re-1773251349009.jpg",
+      "published_at": "2026-03-11T18:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "The Best PS5 Deals This Week: Save On RPGs, Preowned Games, And Accessories - March 11, 2026",
+      "title_tr": "The Best PS5 Deals This Week: Save On RPGs, Preowned Games, And Accessories - March 11, 2026",
+      "summary": "This is an interesting week for PS5 deals. A lot of PS5 games are getting new price cuts, including generous discounts for Final Fantasy Tactics: The Ivalice Chronicles and Dragon Quest III HD-2D Remake. And if you'd like to save even more cash, GameFly is running a preowned sale that further slashes prices on some of the best games of the past few years. However, some events that have been running for weeks are drying up, limiting the number of accessories on sale, and stocks are running low for at least one popular PS5 console bundle. But if you need a cheap game, controller, or headset, there are plenty of fantastic options available right now.Here's a look at the best PS5 deals for the week of March 9 - 13, 2026, including price cuts on games, accessories, and consoles.Best PS5 Game DealsCode Vein 2 is available for $60.15 (was $70), which is its lowest price since launching in January. Though it earned mixed reviews, it offers intense boss fights, a unique combat system, and plenty of endearing moments with its memorable cast of characters. If you're a fan of souls-likes, be sure to check it out.Continue Reading at GameSpot",
+      "summary_tr": "This is an interesting week for PS5 deals. A lot of PS5 games are getting new price cuts, including generous discounts for Final Fantasy Tactics: The Ivalice Chronicles and Dragon Quest III HD-2D Remake. And if you'd like to save even more cash, GameFly is running a preowned sale that further slashes prices on some of the best games of the past few years. However, some events that have been running for weeks are drying up, limiting the number of accessories on sale, and stocks are running low for at least one popular PS5 console bundle. But if you need a cheap game, controller, or headset, there are plenty of fantastic options available right now.Here's a look at the best PS5 deals for the week of March 9 - 13, 2026, including price cuts on games, accessories, and consoles.Best PS5 Game DealsCode Vein 2 is available for $60.15 (was $70), which is its lowest price since launching in January. Though it earned mixed reviews, it offers intense boss fights, a unique combat system, and plenty of endearing moments with its memorable cast of characters. If you're a fan of souls-likes, be sure to check it out.Continue Reading at GameSpot",
+      "long_summary": "This is an interesting week for PS5 deals. A lot of PS5 games are getting new price cuts, including generous discounts for Final Fantasy Tactics: The Ivalice Chronicles and Dragon Quest III HD-2D Remake. And if you'd like to save even more cash, GameFly is running a preowned sale that further slashes prices on some of the best games of the past few years. However, some events that have been running for weeks are drying up, limiting the number of accessories on sale, and stocks are running low",
+      "long_summary_tr": "This is an interesting week for PS5 deals. A lot of PS5 games are getting new price cuts, including generous discounts for Final Fantasy Tactics: The Ivalice Chronicles and Dragon Quest III HD-2D Remake. And if you'd like to save even more cash, GameFly is running a preowned sale that further slashes prices on some of the best games of the past few years. However, some events that have been running for weeks are drying up, limiting the number of accessories on sale, and stocks are running low",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/the-best-ps5-deals-this-week-games-accessories-consoles-and-more/1100-6538557/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1701/17013431/4664828-ps5deals3-1126.png",
+      "published_at": "2026-03-11T18:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Barış Göktürk, Fenerbahçe'de 2027 yılı için adaylığını açıkladı",
+      "title_tr": "Barış Göktürk, Fenerbahçe'de 2027 yılı için adaylığını açıkladı",
+      "summary": "Eski Fenerbahçe Futbol AŞ Yönetim Kurulu Üyesi Barış Göktürk, 2027 yılında gerçekleştirilecek olağan seçimli genel kurulda başkan adayı olacağını açıkladı.",
+      "summary_tr": "Eski Fenerbahçe Futbol AŞ Yönetim Kurulu Üyesi Barış Göktürk, 2027 yılında gerçekleştirilecek olağan seçimli genel kurulda başkan adayı olacağını açıkladı.",
+      "long_summary": "Eski Fenerbahçe Futbol AŞ Yönetim Kurulu Üyesi Barış Göktürk, 2027 yılında gerçekleştirilecek olağan seçimli genel kurulda başkan adayı olacağını açıkladı.",
+      "long_summary_tr": "Eski Fenerbahçe Futbol AŞ Yönetim Kurulu Üyesi Barış Göktürk, 2027 yılında gerçekleştirilecek olağan seçimli genel kurulda başkan adayı olacağını açıkladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/baris-gokturk-fenerbahcede-2027-yili-icin-adayligini-acikladi-haberi-817954",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/baris-gokturk-xez7_cover.jpg",
+      "published_at": "2026-03-11T17:59:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Son dakika! FBI'dan kritik uyarı: İran, California'ya saldırabilir",
+      "title_tr": "Son dakika! FBI'dan kritik uyarı: İran, California'ya saldırabilir",
+      "summary": "Son dakika ABD basının iddiasına göre FBI, İran’ın kamikaze dronlarla ABD’nin California ve batı kıyısına saldırı ihtimaline karşı yerel polis departmanlarını uyardı.",
+      "summary_tr": "Son dakika ABD basının iddiasına göre FBI, İran’ın kamikaze dronlarla ABD’nin California ve batı kıyısına saldırı ihtimaline karşı yerel polis departmanlarını uyardı.",
+      "long_summary": "Son dakika ABD basının iddiasına göre FBI, İran’ın kamikaze dronlarla ABD’nin California ve batı kıyısına saldırı ihtimaline karşı yerel polis departmanlarını uyardı.",
+      "long_summary_tr": "Son dakika ABD basının iddiasına göre FBI, İran’ın kamikaze dronlarla ABD’nin California ve batı kıyısına saldırı ihtimaline karşı yerel polis departmanlarını uyardı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/son-dakika-fbidan-kritik-uyari-iran-californiaya-saldirabilir-haberi-817955",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/ff1-4jwh_cover.jpg",
+      "published_at": "2026-03-11T17:59:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Your Guide to the Cast of Scarpetta Season 1",
+      "title_tr": "Your Guide to the Cast of Scarpetta Season 1",
+      "summary": "Nicole Kidman and Jamie Lee Curtis aren’t the only Hollywood heavyweights in the series.",
+      "summary_tr": "Nicole Kidman and Jamie Lee Curtis aren’t the only Hollywood heavyweights in the series.",
+      "long_summary": "Nicole Kidman and Jamie Lee Curtis aren’t the only Hollywood heavyweights in the series.",
+      "long_summary_tr": "Nicole Kidman and Jamie Lee Curtis aren’t the only Hollywood heavyweights in the series.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a70710953/scarpetta-season-1-cast-characters/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/scpt-s1-ut-107-250306-chocon-00143r-f-6924e4fd257f4.jpg",
+      "published_at": "2026-03-11T17:57:11+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Irak'ın başkenti Bağdat'ta 4 İHA düşürüldü",
+      "title_tr": "Irak'ın başkenti Bağdat'ta 4 İHA düşürüldü",
+      "summary": "Irak'ın başkenti Bağdat'ta, güvenlik güçleri tarafından 4 İHA'nın düşürüldüğü bildirildi.Irak Güvenlik Medya Hücresi Başkanı Korgeneral Saad Maan, Irak resmi haber ajansı INA’ya yaptığı açıklamada, başkentteki Uluslararası Bağdat Havaalanı yakınında 4 İHA'nın düşürüldüğünü belirtti.\n\nİHA'ların Irak güvenlik güçleri tarafından düşürüldüğünü kaydeden Maan, olayda can kaybı yaşanmadığını ifade etti.\n\nMaan, Uluslararası Bağdat Havaalanı'nın güvenliğini sağlamak için gereken tedbirlerin alındığını aktardı.",
+      "summary_tr": "Irak'ın başkenti Bağdat'ta, güvenlik güçleri tarafından 4 İHA'nın düşürüldüğü bildirildi.Irak Güvenlik Medya Hücresi Başkanı Korgeneral Saad Maan, Irak resmi haber ajansı INA’ya yaptığı açıklamada, başkentteki Uluslararası Bağdat Havaalanı yakınında 4 İHA'nın düşürüldüğünü belirtti.\n\nİHA'ların Irak güvenlik güçleri tarafından düşürüldüğünü kaydeden Maan, olayda can kaybı yaşanmadığını ifade etti.\n\nMaan, Uluslararası Bağdat Havaalanı'nın güvenliğini sağlamak için gereken tedbirlerin alındığını aktardı.",
+      "long_summary": "Irak'ın başkenti Bağdat'ta, güvenlik güçleri tarafından 4 İHA'nın düşürüldüğü bildirildi.Irak Güvenlik Medya Hücresi Başkanı Korgeneral Saad Maan, Irak resmi haber ajansı INA’ya yaptığı açıklamada, başkentteki Uluslararası Bağdat Havaalanı yakınında 4 İHA'nın düşürüldüğünü belirtti.\n\nİHA'ların Irak güvenlik güçleri tarafından düşürüldüğünü kaydeden Maan, olayda can kaybı yaşanmadığını ifade etti.\n\nMaan, Uluslararası Bağdat Havaalanı'nın güvenliğini sağlamak için gereken tedbirlerin alındığını",
+      "long_summary_tr": "Irak'ın başkenti Bağdat'ta, güvenlik güçleri tarafından 4 İHA'nın düşürüldüğü bildirildi.Irak Güvenlik Medya Hücresi Başkanı Korgeneral Saad Maan, Irak resmi haber ajansı INA’ya yaptığı açıklamada, başkentteki Uluslararası Bağdat Havaalanı yakınında 4 İHA'nın düşürüldüğünü belirtti.\n\nİHA'ların Irak güvenlik güçleri tarafından düşürüldüğünü kaydeden Maan, olayda can kaybı yaşanmadığını ifade etti.\n\nMaan, Uluslararası Bağdat Havaalanı'nın güvenliğini sağlamak için gereken tedbirlerin alındığını",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/irak-in-baskenti-bagdat-ta-4-iha-dusuruldu-1593878",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/irak-in-baskenti-bagdat-ta-4-iha-dusuruldu-1773255240-823_large.webp",
+      "published_at": "2026-03-11T17:52:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "\"Orta Doğu'daki çatışmaların maliyeti günde 1 milyar dolar\"",
+      "title_tr": "\"Orta Doğu'daki çatışmaların maliyeti günde 1 milyar dolar\"",
+      "summary": "Birleşmiş Milletler Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Tom Fletcher, ABD ve İsrail'in İran'a yönelik saldırılarıyla başlayan Orta Doğu'daki çatışmaların günlük yaklaşık 1 milyar dolarlık maliyete yol açtığını söyledi.",
+      "summary_tr": "Birleşmiş Milletler Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Tom Fletcher, ABD ve İsrail'in İran'a yönelik saldırılarıyla başlayan Orta Doğu'daki çatışmaların günlük yaklaşık 1 milyar dolarlık maliyete yol açtığını söyledi.",
+      "long_summary": "Birleşmiş Milletler Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Tom Fletcher, ABD ve İsrail'in İran'a yönelik saldırılarıyla başlayan Orta Doğu'daki çatışmaların günlük yaklaşık 1 milyar dolarlık maliyete yol açtığını söyledi.",
+      "long_summary_tr": "Birleşmiş Milletler Genel Sekreter Yardımcısı ve Acil Yardım Koordinatörü Tom Fletcher, ABD ve İsrail'in İran'a yönelik saldırılarıyla başlayan Orta Doğu'daki çatışmaların günlük yaklaşık 1 milyar dolarlık maliyete yol açtığını söyledi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/orta-dogu-daki-catismalarin-maliyeti-gunde-1-milyar-dolar-3771611",
+      "image": null,
+      "published_at": "2026-03-11T17:51:38+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Kevin Blake tips 20/1 Thursday Cheltenham Festival fancy",
+      "title_tr": "Kevin Blake tips 20/1 Thursday Cheltenham Festival fancy",
+      "summary": "We are at the halfway point of the Cheltenham Festival. Thankfully and mercifully, the wonderful exploits of Johnnywho in the Ultima Handicap Chase on day one and Il Etait Temps in Wednesday's Champion Chase will ensure that this column finishes the week in profit.",
+      "summary_tr": "We are at the halfway point of the Cheltenham Festival. Thankfully and mercifully, the wonderful exploits of Johnnywho in the Ultima Handicap Chase on day one and Il Etait Temps in Wednesday's Champion Chase will ensure that this column finishes the week in profit.",
+      "long_summary": "We are at the halfway point of the Cheltenham Festival. Thankfully and mercifully, the wonderful exploits of Johnnywho in the Ultima Handicap Chase on day one and Il Etait Temps in Wednesday's Champion Chase will ensure that this column finishes the week in profit.",
+      "long_summary_tr": "We are at the halfway point of the Cheltenham Festival. Thankfully and mercifully, the wonderful exploits of Johnnywho in the Ultima Handicap Chase on day one and Il Etait Temps in Wednesday's Champion Chase will ensure that this column finishes the week in profit.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/racing/news/12040/13518319/cheltenham-tips-20-1-selection-from-kevin-blake-in-the-pertemps",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-kevin-blake-cheltenham-festival_7187169.jpg?20260309170831",
+      "published_at": "2026-03-11T17:51:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Jefferies’e Göre Takip Edilmesi Gereken En İyi Bakır Hisseleri",
+      "title_tr": "Jefferies’e Göre Takip Edilmesi Gereken En İyi Bakır Hisseleri",
+      "summary": "Jefferies’e Göre Takip Edilmesi Gereken En İyi Bakır Hisseleri",
+      "summary_tr": "Jefferies’e Göre Takip Edilmesi Gereken En İyi Bakır Hisseleri",
+      "long_summary": "Jefferies’e Göre Takip Edilmesi Gereken En İyi Bakır Hisseleri",
+      "long_summary_tr": "Jefferies’e Göre Takip Edilmesi Gereken En İyi Bakır Hisseleri",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/jefferiese-gore-takip-edilmesi-gereken-en-iyi-bakr-hisseleri-93CH-3805212",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T17:49:12+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Aktivist yatırımcı CEO’nun görevden alınmasını istiyor",
+      "title_tr": "Aktivist yatırımcı CEO’nun görevden alınmasını istiyor",
+      "summary": "Aktivist yatırımcı CEO’nun görevden alınmasını istiyor",
+      "summary_tr": "Aktivist yatırımcı CEO’nun görevden alınmasını istiyor",
+      "long_summary": "Aktivist yatırımcı CEO’nun görevden alınmasını istiyor",
+      "long_summary_tr": "Aktivist yatırımcı CEO’nun görevden alınmasını istiyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/aktivist-yatrmc-ceonun-gorevden-alnmasn-istiyor-93CH-3805210",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T17:46:26+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İzmir'de trafikte tehlikeli araç kullanan sürücüye 380 bin lira idari para cezası uygulandı",
+      "title_tr": "İzmir'de trafikte tehlikeli araç kullanan sürücüye 380 bin lira idari para cezası uygulandı",
+      "summary": "İzmir'de trafikte tehlikeli araç kullanan sürücüye 380 bin lira idari para cezası uygulandı, ticari araç 60 gün süreyle trafikten men edildi.Trafik Denetleme Şube Müdürlüğü ekipleri, bazı sosyal medya hesaplarında 35 BYJ 240 plakalı hafif ticari aracın İzmir Çevreyolu İzmir Atatürk Organize Sanayi Bölgesi (AOSB) mevkisinden Bornova istikametinde seyir halindeyken başka bir aracın önünü kestiği ve sürücüsünün araçtan inerek saldırgan davranışlarda bulunduğu görüntülerinin paylaşılması üzerine çalışma başlattı.\n\nTicari aracı kullananın E.E. (44) olduğunu belirleyen ekipler, sürücüye Karayolları Trafik Kanunu'nun ilgili maddelerinden toplam 380 bin, araç sahibine de 40 bin lira idari para cezası uyguladı. Ekipler ayrıca, E.E'nin ehliyetine 60 gün süreyle el koyarak, aracı 60 gün süreyle trafikten men etti.",
+      "summary_tr": "İzmir'de trafikte tehlikeli araç kullanan sürücüye 380 bin lira idari para cezası uygulandı, ticari araç 60 gün süreyle trafikten men edildi.Trafik Denetleme Şube Müdürlüğü ekipleri, bazı sosyal medya hesaplarında 35 BYJ 240 plakalı hafif ticari aracın İzmir Çevreyolu İzmir Atatürk Organize Sanayi Bölgesi (AOSB) mevkisinden Bornova istikametinde seyir halindeyken başka bir aracın önünü kestiği ve sürücüsünün araçtan inerek saldırgan davranışlarda bulunduğu görüntülerinin paylaşılması üzerine çalışma başlattı.\n\nTicari aracı kullananın E.E. (44) olduğunu belirleyen ekipler, sürücüye Karayolları Trafik Kanunu'nun ilgili maddelerinden toplam 380 bin, araç sahibine de 40 bin lira idari para cezası uyguladı. Ekipler ayrıca, E.E'nin ehliyetine 60 gün süreyle el koyarak, aracı 60 gün süreyle trafikten men etti.",
+      "long_summary": "İzmir'de trafikte tehlikeli araç kullanan sürücüye 380 bin lira idari para cezası uygulandı, ticari araç 60 gün süreyle trafikten men edildi.Trafik Denetleme Şube Müdürlüğü ekipleri, bazı sosyal medya hesaplarında 35 BYJ 240 plakalı hafif ticari aracın İzmir Çevreyolu İzmir Atatürk Organize Sanayi Bölgesi (AOSB) mevkisinden Bornova istikametinde seyir halindeyken başka bir aracın önünü kestiği ve sürücüsünün araçtan inerek saldırgan davranışlarda bulunduğu görüntülerinin paylaşılması üzerine",
+      "long_summary_tr": "İzmir'de trafikte tehlikeli araç kullanan sürücüye 380 bin lira idari para cezası uygulandı, ticari araç 60 gün süreyle trafikten men edildi.Trafik Denetleme Şube Müdürlüğü ekipleri, bazı sosyal medya hesaplarında 35 BYJ 240 plakalı hafif ticari aracın İzmir Çevreyolu İzmir Atatürk Organize Sanayi Bölgesi (AOSB) mevkisinden Bornova istikametinde seyir halindeyken başka bir aracın önünü kestiği ve sürücüsünün araçtan inerek saldırgan davranışlarda bulunduğu görüntülerinin paylaşılması üzerine",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/izmir-de-trafikte-tehlikeli-arac-kullanan-surucuye-380-bin-lira-idari-para-cezasi-uygulandi-1593875",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/izmir-de-trafikte-tehlikeli-arac-kullanan-surucuye-380-bin-lira-idari-para-cezasi-uygulandi-1773255151-946_large.webp",
+      "published_at": "2026-03-11T17:46:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -1011,7 +703,139 @@
       ],
       "url": "https://www.bbc.com/sport/horse-racing/articles/c99j8gg2xeno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8368/live/b52f18d0-1d5e-11f1-ad66-d1cd1a931a5d.jpg",
-      "published_at": "2026-03-11T15:50:54+00:00"
+      "published_at": "2026-03-11T17:45:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Niğde'de yaşlı adam evinde ölü bulundu",
+      "title_tr": "Niğde'de yaşlı adam evinde ölü bulundu",
+      "summary": "Niğde'nin yaşlı bir adam yalnız yaşadığı evinde ölü bulundu.Edinilen bilgiye göre, Tepebağları mevkiinde yalnız yaşayan N.B.‘den (76) alamayan yakınları durumdan şüphelenerek yetkililere bilgi verdi. İhbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Polis ekiplerinin eşliğinde eve giren sağlık görevlileri yaptıkları ilk kontrolde N.B.'nin hayatını kaybettiğini belirledi. Olay yerinde yapılan incelemelerin ardından yaşlı adamın cenazesi Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi morguna kaldırıldı. N.B.'nin kesin ölüm nedeni yapılacak otopsinin ardından netlik kazanacağı öğrenilirken, polis ekipleri olayla ilgili inceleme başlattı.",
+      "summary_tr": "Niğde'nin yaşlı bir adam yalnız yaşadığı evinde ölü bulundu.Edinilen bilgiye göre, Tepebağları mevkiinde yalnız yaşayan N.B.‘den (76) alamayan yakınları durumdan şüphelenerek yetkililere bilgi verdi. İhbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Polis ekiplerinin eşliğinde eve giren sağlık görevlileri yaptıkları ilk kontrolde N.B.'nin hayatını kaybettiğini belirledi. Olay yerinde yapılan incelemelerin ardından yaşlı adamın cenazesi Niğde Ömer Halisdemir Üniversitesi Eğitim ve Araştırma Hastanesi morguna kaldırıldı. N.B.'nin kesin ölüm nedeni yapılacak otopsinin ardından netlik kazanacağı öğrenilirken, polis ekipleri olayla ilgili inceleme başlattı.",
+      "long_summary": "Niğde'nin yaşlı bir adam yalnız yaşadığı evinde ölü bulundu.Edinilen bilgiye göre, Tepebağları mevkiinde yalnız yaşayan N.B.‘den (76) alamayan yakınları durumdan şüphelenerek yetkililere bilgi verdi. İhbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Polis ekiplerinin eşliğinde eve giren sağlık görevlileri yaptıkları ilk kontrolde N.B.'nin hayatını kaybettiğini belirledi. Olay yerinde yapılan incelemelerin ardından yaşlı adamın cenazesi Niğde Ömer Halisdemir Üniversitesi Eğitim ve",
+      "long_summary_tr": "Niğde'nin yaşlı bir adam yalnız yaşadığı evinde ölü bulundu.Edinilen bilgiye göre, Tepebağları mevkiinde yalnız yaşayan N.B.‘den (76) alamayan yakınları durumdan şüphelenerek yetkililere bilgi verdi. İhbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Polis ekiplerinin eşliğinde eve giren sağlık görevlileri yaptıkları ilk kontrolde N.B.'nin hayatını kaybettiğini belirledi. Olay yerinde yapılan incelemelerin ardından yaşlı adamın cenazesi Niğde Ömer Halisdemir Üniversitesi Eğitim ve",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/nigde-de-yasli-adam-evinde-olu-bulundu-1593872",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/nigde-de-yasli-adam-evinde-olu-bulundu-1773254790-367_large.webp",
+      "published_at": "2026-03-11T17:42:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Gen terapi denemesi sonrası Solid Biosciences hisseleri düştü",
+      "title_tr": "Gen terapi denemesi sonrası Solid Biosciences hisseleri düştü",
+      "summary": "Gen terapi denemesi sonrası Solid Biosciences hisseleri düştü",
+      "summary_tr": "Gen terapi denemesi sonrası Solid Biosciences hisseleri düştü",
+      "long_summary": "Gen terapi denemesi sonrası Solid Biosciences hisseleri düştü",
+      "long_summary_tr": "Gen terapi denemesi sonrası Solid Biosciences hisseleri düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/gen-terapi-denemesi-sonras-solid-biosciences-hisseleri-dustu-93CH-3805200",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-03-11T17:39:13+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Romanya'da savaş paniği! ABD'nin talebi kabul edildi",
+      "title_tr": "Romanya'da savaş paniği! ABD'nin talebi kabul edildi",
+      "summary": "Romanya Cumhurbaşkanı Nicușor Dan, ABD'nin Romanya'daki hava üslerini kullanma talebinin mecliste görüşüleceğini belirterek, ülkesi için herhangi bir güvenlik endişesi bulunmadığını söyledi. Romanya, ABD'nin ülkedeki hava üslerini kullanma talebini kabul etti. Rumenlerin Birlik İttifakı (AUR) Başkanı George Simion, partisinin Romanya'yı savaşa götüren talebi oylamayacaklarını söylemişti.Dan'ın liderlik ettiği Romanya Milli Savunma Konseyi, ABD'nin Romanya'nın Karadeniz kıyısındaki Köstence yakınlarında bulunan Mihail Kogalniceanu Hava Üssü ve ülkenin orta kesimlerinde yer alan Campia Turzii Hava Üssü'ne asker ve savaş uçağı konuşlandırma talebini görüşmek üzere başkent Bükreş'te toplandı.\n\n\"KONU BUGÜN MECLİS'TE GÖRÜŞÜLECEK\"\n\nGörüşmenin ardından düzenlenen basın toplantısında konuşan Dan, yakıt ikmal uçakları ve uydu iletişim ekipmanları dahil ABD'nin Romanya'daki hava üslerini kullanma talebini detaylı görüştüklerini kaydederek, \"Konu bugün mecliste görüşülecek. Onaylanması durumunda ABD, ortaklığımız çerçevesinde üsleri kullanabilecek. ABD'nin talebi savunma amaçlı. Vatandaşlarımızın endişelenmesini gerektirecek bir durum yok. Romanya güvende.\" dedi. Romanya vatandaşı 5 bin 700 kişinin Orta Doğu'daki kriz nedeniyle ülkelerine döndüğü bilgisini paylaşan Dan, ülkesini ekonomik olarak da etkileyen çatışmaların sona ermesi için diplomatik çalışmalar yürüttüğünü dile getirdi.\n\nUlusal medyada yer alan haberlerde, ABD'nin Mihail Kogalniceanu Hava Üssü'ne havada askeri uçaklara yakıt ikmali yapmak için kullanılan iki tanker uçağının konuşlandırılması için talepte bulunduğu ve Romanya'ya yaklaşık 500 askerini göndermeyi planladığı aktarıldı.\n\nKARAR KABUL EDİLDİ\n\nRomanya Meclisi, ABD'nin ülkedeki hava üslerini kullanma talebini oy çokluğuyla onayladı. Romanya Cumhurbaşkanı Nicușor Dan'ın talebi üzerine mecliste ABD'nin Romanya'nın Karadeniz kıyısındaki Köstence yakınlarında bulunan Mihail Kogalniceanu Hava Üssü ve ülkenin orta kesimlerinde yer alan Campia Turzii Hava Üssü'ne asker ve savaş uçağı konuşlandırma isteği görüşüldü.\n\nOy çokluğuyla kabul edilen talep doğrultusunda ABD'nin Romanya'daki üslere asker ve teçhizat konuşlandıracağı ifade edildi.\n\nSAVAŞ PANİĞİ\n\nBu arada, ABD'nin talebine karşı çıkan muhalefet, meclisteki konuşmaları düdük ve ıslık çalarak yarıda kesti. Rumenlerin Birlik İttifakı (AUR) Başkanı George Simion, partisinin Romanya'yı savaşa götüren talebi oylamayacaklarını söylemişti.\n\nABD-İSRAİL'İN İRAN'A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİranlı yetkililere göre, ABD-İsrail saldırılarında 1332 kişi hayatını kaybetti.",
+      "summary_tr": "Romanya Cumhurbaşkanı Nicușor Dan, ABD'nin Romanya'daki hava üslerini kullanma talebinin mecliste görüşüleceğini belirterek, ülkesi için herhangi bir güvenlik endişesi bulunmadığını söyledi. Romanya, ABD'nin ülkedeki hava üslerini kullanma talebini kabul etti. Rumenlerin Birlik İttifakı (AUR) Başkanı George Simion, partisinin Romanya'yı savaşa götüren talebi oylamayacaklarını söylemişti.Dan'ın liderlik ettiği Romanya Milli Savunma Konseyi, ABD'nin Romanya'nın Karadeniz kıyısındaki Köstence yakınlarında bulunan Mihail Kogalniceanu Hava Üssü ve ülkenin orta kesimlerinde yer alan Campia Turzii Hava Üssü'ne asker ve savaş uçağı konuşlandırma talebini görüşmek üzere başkent Bükreş'te toplandı.\n\n\"KONU BUGÜN MECLİS'TE GÖRÜŞÜLECEK\"\n\nGörüşmenin ardından düzenlenen basın toplantısında konuşan Dan, yakıt ikmal uçakları ve uydu iletişim ekipmanları dahil ABD'nin Romanya'daki hava üslerini kullanma talebini detaylı görüştüklerini kaydederek, \"Konu bugün mecliste görüşülecek. Onaylanması durumunda ABD, ortaklığımız çerçevesinde üsleri kullanabilecek. ABD'nin talebi savunma amaçlı. Vatandaşlarımızın endişelenmesini gerektirecek bir durum yok. Romanya güvende.\" dedi. Romanya vatandaşı 5 bin 700 kişinin Orta Doğu'daki kriz nedeniyle ülkelerine döndüğü bilgisini paylaşan Dan, ülkesini ekonomik olarak da etkileyen çatışmaların sona ermesi için diplomatik çalışmalar yürüttüğünü dile getirdi.\n\nUlusal medyada yer alan haberlerde, ABD'nin Mihail Kogalniceanu Hava Üssü'ne havada askeri uçaklara yakıt ikmali yapmak için kullanılan iki tanker uçağının konuşlandırılması için talepte bulunduğu ve Romanya'ya yaklaşık 500 askerini göndermeyi planladığı aktarıldı.\n\nKARAR KABUL EDİLDİ\n\nRomanya Meclisi, ABD'nin ülkedeki hava üslerini kullanma talebini oy çokluğuyla onayladı. Romanya Cumhurbaşkanı Nicușor Dan'ın talebi üzerine mecliste ABD'nin Romanya'nın Karadeniz kıyısındaki Köstence yakınlarında bulunan Mihail Kogalniceanu Hava Üssü ve ülkenin orta kesimlerinde yer alan Campia Turzii Hava Üssü'ne asker ve savaş uçağı konuşlandırma isteği görüşüldü.\n\nOy çokluğuyla kabul edilen talep doğrultusunda ABD'nin Romanya'daki üslere asker ve teçhizat konuşlandıracağı ifade edildi.\n\nSAVAŞ PANİĞİ\n\nBu arada, ABD'nin talebine karşı çıkan muhalefet, meclisteki konuşmaları düdük ve ıslık çalarak yarıda kesti. Rumenlerin Birlik İttifakı (AUR) Başkanı George Simion, partisinin Romanya'yı savaşa götüren talebi oylamayacaklarını söylemişti.\n\nABD-İSRAİL'İN İRAN'A SALDIRILARI\n\nİsrail ve ABD, Tahran ile Washington yönetimleri arasında müzakereler sürerken 28 Şubat'ta İran'a askeri saldırı başlattı.\n\nİran da İsrail'in yanı sıra ABD üslerinin bulunduğu Katar, Birleşik Arap Emirlikleri (BAE) ve Bahreyn başta olmak üzere bazı bölge ülkelerinde belirlediği hedeflere saldırılarla karşılık verdi.\n\nABD-İsrail saldırılarında, İran lideri Ayetullah Ali Hamaney'in yanı sıra çok sayıda üst düzey yetkili öldü.\n\nİranlı yetkililere göre, ABD-İsrail saldırılarında 1332 kişi hayatını kaybetti.",
+      "long_summary": "Romanya Cumhurbaşkanı Nicușor Dan, ABD'nin Romanya'daki hava üslerini kullanma talebinin mecliste görüşüleceğini belirterek, ülkesi için herhangi bir güvenlik endişesi bulunmadığını söyledi. Romanya, ABD'nin ülkedeki hava üslerini kullanma talebini kabul etti. Rumenlerin Birlik İttifakı (AUR) Başkanı George Simion, partisinin Romanya'yı savaşa götüren talebi oylamayacaklarını söylemişti.Dan'ın liderlik ettiği Romanya Milli Savunma Konseyi, ABD'nin Romanya'nın Karadeniz kıyısındaki Köstence",
+      "long_summary_tr": "Romanya Cumhurbaşkanı Nicușor Dan, ABD'nin Romanya'daki hava üslerini kullanma talebinin mecliste görüşüleceğini belirterek, ülkesi için herhangi bir güvenlik endişesi bulunmadığını söyledi. Romanya, ABD'nin ülkedeki hava üslerini kullanma talebini kabul etti. Rumenlerin Birlik İttifakı (AUR) Başkanı George Simion, partisinin Romanya'yı savaşa götüren talebi oylamayacaklarını söylemişti.Dan'ın liderlik ettiği Romanya Milli Savunma Konseyi, ABD'nin Romanya'nın Karadeniz kıyısındaki Köstence",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/romanya-da-savas-panigi-abd-nin-talebi-kabul-edildi-1593869",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/romanya-da-savas-panigi-abd-nin-talebi-kabul-edildi-1773254743-113_large.webp",
+      "published_at": "2026-03-11T17:38:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Hayvanlar hızlı kilo alsın diye Kurban Bayramı öncesi insanlık dışı görüntü. Bakanlık inceleme başlattı",
+      "title_tr": "Hayvanlar hızlı kilo alsın diye Kurban Bayramı öncesi insanlık dışı görüntü. Bakanlık inceleme başlattı",
+      "summary": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "summary_tr": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "long_summary": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "long_summary_tr": "Sosyal medyada Kurban Bayramı öncesi hayvanların hızlı kilo alması için çamur içinde tutulduğu görüntüler tepki çekti. Tarım ve Orman Bakanlığı görüntüler hakkında inceleme başlattı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/hayvanlar-hizli-kilo-alsin-diye-kurban-bayrami-oncesi-insanlik-disi-goruntu-bakanlik-inceleme-baslatti-1715551",
+      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-02-22185628copy-485772.jpg",
+      "published_at": "2026-03-11T17:33:59+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı hakkında soruşturma",
+      "title_tr": "Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı hakkında soruşturma",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı, Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı 'CAOIletisim' hakkında Cumhurbaşkanına hakaret ve dezenformasyon suçları kapsamında soruşturma başlattı.Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı ile ilgili soruşturma başlatıldı. Açıklama İstanbul Cumhuriyet Başsavcılığı'ndan geldi.\n\n\"RE'SEN SORUŞTURMA BAŞLATILMIŞTIR\"\n\nAçıklamada şu ifadelere yer verildi:\n\n\"@CAOiletisim isimli X sosyal medya hesabı üzerinden yapılan paylaşımlar ile ilgili olarak Cumhuriyet Başsavcılığımızca TCK 217/A ve TCK 299 maddelerinde düzenlenen suçlar yönünden re’sen soruşturma başlatılmıştır.\n\nKamuoyuna saygıyla duyurulur.\"",
+      "summary_tr": "İstanbul Cumhuriyet Başsavcılığı, Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı 'CAOIletisim' hakkında Cumhurbaşkanına hakaret ve dezenformasyon suçları kapsamında soruşturma başlattı.Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı ile ilgili soruşturma başlatıldı. Açıklama İstanbul Cumhuriyet Başsavcılığı'ndan geldi.\n\n\"RE'SEN SORUŞTURMA BAŞLATILMIŞTIR\"\n\nAçıklamada şu ifadelere yer verildi:\n\n\"@CAOiletisim isimli X sosyal medya hesabı üzerinden yapılan paylaşımlar ile ilgili olarak Cumhuriyet Başsavcılığımızca TCK 217/A ve TCK 299 maddelerinde düzenlenen suçlar yönünden re’sen soruşturma başlatılmıştır.\n\nKamuoyuna saygıyla duyurulur.\"",
+      "long_summary": "İstanbul Cumhuriyet Başsavcılığı, Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı 'CAOIletisim' hakkında Cumhurbaşkanına hakaret ve dezenformasyon suçları kapsamında soruşturma başlattı.Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı ile ilgili soruşturma başlatıldı. Açıklama İstanbul Cumhuriyet Başsavcılığı'ndan geldi.\n\n\"RE'SEN SORUŞTURMA BAŞLATILMIŞTIR\"\n\nAçıklamada şu ifadelere yer verildi:\n\n\"@CAOiletisim isimli X sosyal medya hesabı üzerinden yapılan paylaşımlar ile ilgili olarak",
+      "long_summary_tr": "İstanbul Cumhuriyet Başsavcılığı, Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı 'CAOIletisim' hakkında Cumhurbaşkanına hakaret ve dezenformasyon suçları kapsamında soruşturma başlattı.Ekrem İmamoğlu'nun Cumhurbaşkanlığı Aday Ofisi hesabı ile ilgili soruşturma başlatıldı. Açıklama İstanbul Cumhuriyet Başsavcılığı'ndan geldi.\n\n\"RE'SEN SORUŞTURMA BAŞLATILMIŞTIR\"\n\nAçıklamada şu ifadelere yer verildi:\n\n\"@CAOiletisim isimli X sosyal medya hesabı üzerinden yapılan paylaşımlar ile ilgili olarak",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/ekrem-imamoglu-nun-cumhurbaskanligi-aday-ofisi-hesabi-hakkinda-sorusturma-1593866",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/ekrem-imamoglu-nun-cumhurbaskanligi-aday-ofisi-hesabi-hakkinda-sorusturma-1773254685-950_large.webp",
+      "published_at": "2026-03-11T17:33:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Ravens sign Hendrickson on four-year $112m contract",
+      "title_tr": "Ravens sign Hendrickson on four-year $112m contract",
+      "summary": "Four-time Pro Bowl edge rusher Trey Hendrickson has agreed on a four-year, $112m contract with the Baltimore Ravens.",
+      "summary_tr": "Four-time Pro Bowl edge rusher Trey Hendrickson has agreed on a four-year, $112m contract with the Baltimore Ravens.",
+      "long_summary": "Four-time Pro Bowl edge rusher Trey Hendrickson has agreed on a four-year, $112m contract with the Baltimore Ravens.",
+      "long_summary_tr": "Four-time Pro Bowl edge rusher Trey Hendrickson has agreed on a four-year, $112m contract with the Baltimore Ravens.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/nfl/news/12040/13518313/trey-hendrickson-ravens-agree-four-year-112m-contract-after-pulling-plug-on-maxx-crosby-deal-due-to-failed-physical",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-cincinnati-bengals_7189202.jpg?20260311174322",
+      "published_at": "2026-03-11T17:33:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -1019,43 +843,87 @@
       "category_slug": "oyun_dijital",
       "is_local": false,
       "source": "IGN",
-      "title": "Rachel Zegler Reflects on Snow White and West Side Story Backlash: 'I Refuse To Assimilate For Anybody's Comfort'",
-      "title_tr": "Rachel Zegler Reflects on Snow White and West Side Story Backlash: 'I Refuse To Assimilate For Anybody's Comfort'",
-      "summary": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
-      "summary_tr": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
-      "long_summary": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
-      "long_summary_tr": "Snow White star Rachel Zegler has dealt with an intense amount of backlash for portraying the titular character in Disney’s 2025 live action remake — and now, she’s opening up about how the hate affected her.",
+      "title": "The Best Live TV Streaming Services With Free Trials in 2026",
+      "title_tr": "The Best Live TV Streaming Services With Free Trials in 2026",
+      "summary": "Time to test some TV options?",
+      "summary_tr": "Time to test some TV options?",
+      "long_summary": "Time to test some TV options?",
+      "long_summary_tr": "Time to test some TV options?",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.ign.com/articles/rachel-zegler-reflects-on-snow-white-and-west-side-story-backlash-i-refuse-to-assimilate-for-anybodys-comfort",
-      "image": "https://assets-prd.ignimgs.com/2025/05/13/snowwhitethumb-1747153738196.png",
-      "published_at": "2026-03-11T15:47:11+00:00"
+      "url": "https://www.ign.com/articles/best-live-tv-streaming-services-with-free-trials",
+      "image": "https://assets-prd.ignimgs.com/2025/05/09/live-tv-streaming-free-trials-1-1746821231226.jpg",
+      "published_at": "2026-03-11T17:32:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Goal Zero Yeti 1500 6G review: A rugged portable power station that isn’t afraid to get dirty",
+      "title_tr": "Goal Zero Yeti 1500 6G review: A rugged portable power station that isn’t afraid to get dirty",
+      "summary": "This $1,500 portable power station is only a little bigger than a typical toaster, but it's powerful enough to run full-sized appliances and more.\nThe post Goal Zero Yeti 1500 6G review: A rugged portable power station that isn’t afraid to get dirty appeared first on Popular Science.",
+      "summary_tr": "This $1,500 portable power station is only a little bigger than a typical toaster, but it's powerful enough to run full-sized appliances and more.\nThe post Goal Zero Yeti 1500 6G review: A rugged portable power station that isn’t afraid to get dirty appeared first on Popular Science.",
+      "long_summary": "This $1,500 portable power station is only a little bigger than a typical toaster, but it's powerful enough to run full-sized appliances and more.\nThe post Goal Zero Yeti 1500 6G review: A rugged portable power station that isn’t afraid to get dirty appeared first on Popular Science.",
+      "long_summary_tr": "This $1,500 portable power station is only a little bigger than a typical toaster, but it's powerful enough to run full-sized appliances and more.\nThe post Goal Zero Yeti 1500 6G review: A rugged portable power station that isn’t afraid to get dirty appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/gear/goal-zero-yeti-1500-6g-portable-power-station-review/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/03/goal-zero-yeti-1500-6G-main.jpg?quality=85",
+      "published_at": "2026-03-11T17:31:05+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Halkbank davasında kritik gelişme: ABD ile uzlaşma anlaşması yürürlüğe girdi",
-      "title_tr": "Halkbank davasında kritik gelişme: ABD ile uzlaşma anlaşması yürürlüğe girdi",
-      "summary": "Halkbank, ABD’de 2019’dan bu yana devam eden ceza davasına ilişkin önemli bir gelişmeyi Kamuyu Aydınlatma Platformu’na (KAP) bildirdi. Banka ile ABD Adalet Bakanlığı’na bağlı Güney New York Bölge Savcılığı arasında davanın uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması, ABD Güney New York Bölge Mahkemesi’nde görüşülerek yürürlüğe girdi.",
-      "summary_tr": "Halkbank, ABD’de 2019’dan bu yana devam eden ceza davasına ilişkin önemli bir gelişmeyi Kamuyu Aydınlatma Platformu’na (KAP) bildirdi. Banka ile ABD Adalet Bakanlığı’na bağlı Güney New York Bölge Savcılığı arasında davanın uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması, ABD Güney New York Bölge Mahkemesi’nde görüşülerek yürürlüğe girdi.",
-      "long_summary": "Halkbank, ABD’de 2019’dan bu yana devam eden ceza davasına ilişkin önemli bir gelişmeyi Kamuyu Aydınlatma Platformu’na (KAP) bildirdi. Banka ile ABD Adalet Bakanlığı’na bağlı Güney New York Bölge Savcılığı arasında davanın uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması, ABD Güney New York Bölge Mahkemesi’nde görüşülerek yürürlüğe girdi.",
-      "long_summary_tr": "Halkbank, ABD’de 2019’dan bu yana devam eden ceza davasına ilişkin önemli bir gelişmeyi Kamuyu Aydınlatma Platformu’na (KAP) bildirdi. Banka ile ABD Adalet Bakanlığı’na bağlı Güney New York Bölge Savcılığı arasında davanın uzlaşma yoluyla sonlandırılması amacıyla imzalanan Kovuşturmanın Ertelenmesi Anlaşması, ABD Güney New York Bölge Mahkemesi’nde görüşülerek yürürlüğe girdi.",
+      "source": "NTV",
+      "title": "Cumhurbaşkanı Erdoğan'dan çağrı. \"Artık gözyaşları dursun, çatışmalar bitsin istiyoruz\"",
+      "title_tr": "Cumhurbaşkanı Erdoğan'dan çağrı. \"Artık gözyaşları dursun, çatışmalar bitsin istiyoruz\"",
+      "summary": "Cumhurbaşkanı Erdoğan, Türkiye'nin İran krizindeki tavrının net olduğunu belirterek, \"Türkiye barışın tarafındadır. Artık bölgemizde gözyaşları dinsin, çatışmalar dursun, sulh ve sükun hakim olsun istiyoruz\" ifadelerini kullandı.",
+      "summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin İran krizindeki tavrının net olduğunu belirterek, \"Türkiye barışın tarafındadır. Artık bölgemizde gözyaşları dinsin, çatışmalar dursun, sulh ve sükun hakim olsun istiyoruz\" ifadelerini kullandı.",
+      "long_summary": "Cumhurbaşkanı Erdoğan, Türkiye'nin İran krizindeki tavrının net olduğunu belirterek, \"Türkiye barışın tarafındadır. Artık bölgemizde gözyaşları dinsin, çatışmalar dursun, sulh ve sükun hakim olsun istiyoruz\" ifadelerini kullandı.",
+      "long_summary_tr": "Cumhurbaşkanı Erdoğan, Türkiye'nin İran krizindeki tavrının net olduğunu belirterek, \"Türkiye barışın tarafındadır. Artık bölgemizde gözyaşları dinsin, çatışmalar dursun, sulh ve sükun hakim olsun istiyoruz\" ifadelerini kullandı.",
       "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.dunya.com/sirketler/halkbank-davasinda-kritik-gelisme-abd-ile-uzlasma-anlasmasi-yururluge-girdi-haberi-817942",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/halkbank-7flu_cover.jpg",
-      "published_at": "2026-03-11T15:42:00+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-iftar-programinda-konusuyor-1715550",
+      "image": "https://images.ntv.com.tr/images/AA-20260218-40596416-40596414-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-310259(2).jpg",
+      "published_at": "2026-03-11T17:31:03+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "Xbox Project Helix Gets Key Updates, Including When Devs Will Get The System",
+      "title_tr": "Xbox Project Helix Gets Key Updates, Including When Devs Will Get The System",
+      "summary": "Today at the Game Developers Conference in San Francisco, Microsoft held a panel discussion during which Xbox next-gen VP Jason Ronald shared new insight into the company's plans for the future of the platform, including the recently announced Project Helix console/PC platform.Xbox executive Jason Ronald announced that alpha versions of Project Helix devkits will begin to go out to developers in 2027. Devkits are early versions of new consoles that developers often get access to prior to launch so they can starting building games for the final system.\"We're continuing to push innovation for our next 25 years with our team hard at work on our next-generation first-party console: Project Helix is designed to play your Xbox console and PC games, delivering leading performance and ushering in the next generation of console gaming,\" Ronald said.Continue Reading at GameSpot",
+      "summary_tr": "Today at the Game Developers Conference in San Francisco, Microsoft held a panel discussion during which Xbox next-gen VP Jason Ronald shared new insight into the company's plans for the future of the platform, including the recently announced Project Helix console/PC platform.Xbox executive Jason Ronald announced that alpha versions of Project Helix devkits will begin to go out to developers in 2027. Devkits are early versions of new consoles that developers often get access to prior to launch so they can starting building games for the final system.\"We're continuing to push innovation for our next 25 years with our team hard at work on our next-generation first-party console: Project Helix is designed to play your Xbox console and PC games, delivering leading performance and ushering in the next generation of console gaming,\" Ronald said.Continue Reading at GameSpot",
+      "long_summary": "Today at the Game Developers Conference in San Francisco, Microsoft held a panel discussion during which Xbox next-gen VP Jason Ronald shared new insight into the company's plans for the future of the platform, including the recently announced Project Helix console/PC platform.Xbox executive Jason Ronald announced that alpha versions of Project Helix devkits will begin to go out to developers in 2027. Devkits are early versions of new consoles that developers often get access to prior to launch",
+      "long_summary_tr": "Today at the Game Developers Conference in San Francisco, Microsoft held a panel discussion during which Xbox next-gen VP Jason Ronald shared new insight into the company's plans for the future of the platform, including the recently announced Project Helix console/PC platform.Xbox executive Jason Ronald announced that alpha versions of Project Helix devkits will begin to go out to developers in 2027. Devkits are early versions of new consoles that developers often get access to prior to launch",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/xbox-project-helix-gets-key-updates-including-when-developers-will-get-the-system/1100-6538718/?ftag=CAD-01-10abi2f",
+      "image": "https://www.gamespot.com/a/uploads/screen_medium/1179/11799911/4664823-screenshot2026-03-11at1.37.57%E2%80%AFpm.png",
+      "published_at": "2026-03-11T17:31:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -1063,43 +931,175 @@
       "category_slug": "savunma_askeri",
       "is_local": false,
       "source": "Breaking Defense",
-      "title": "Australia to get 40 more Bluebottle unmanned surface vessels",
-      "title_tr": "Australia to get 40 more Bluebottle unmanned surface vessels",
-      "summary": "Australian navy chief Vice Admiral Mark Hammond said that the Bluebottle was an extremely durable asset, noting that “these things have remained on station as the cyclones have rolled through, and they’ve remained operational.”",
-      "summary_tr": "Australian navy chief Vice Admiral Mark Hammond said that the Bluebottle was an extremely durable asset, noting that “these things have remained on station as the cyclones have rolled through, and they’ve remained operational.”",
-      "long_summary": "Australian navy chief Vice Admiral Mark Hammond said that the Bluebottle was an extremely durable asset, noting that “these things have remained on station as the cyclones have rolled through, and they’ve remained operational.”",
-      "long_summary_tr": "Australian navy chief Vice Admiral Mark Hammond said that the Bluebottle was an extremely durable asset, noting that “these things have remained on station as the cyclones have rolled through, and they’ve remained operational.”",
+      "title": "Air denial is not air control, and the Air Force should not pretend it is",
+      "title_tr": "Air denial is not air control, and the Air Force should not pretend it is",
+      "summary": "A doctrine of air denial leads to stalemates and drawn out conflicts, while air superiority can lead to decisive victory, Lt. Col. Grant “SWAT” Georgulis writes.",
+      "summary_tr": "A doctrine of air denial leads to stalemates and drawn out conflicts, while air superiority can lead to decisive victory, Lt. Col. Grant “SWAT” Georgulis writes.",
+      "long_summary": "A doctrine of air denial leads to stalemates and drawn out conflicts, while air superiority can lead to decisive victory, Lt. Col. Grant “SWAT” Georgulis writes.",
+      "long_summary_tr": "A doctrine of air denial leads to stalemates and drawn out conflicts, while air superiority can lead to decisive victory, Lt. Col. Grant “SWAT” Georgulis writes.",
       "why_important": [
         "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
         "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://breakingdefense.com/2026/03/australia-to-get-40-more-bluebottle-unmanned-surface-vessels/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/RAN_Ocius_Bluebottle_USV_20220518APS8493230_0281A-e1773245535707.jpg",
-      "published_at": "2026-03-11T15:41:11+00:00"
+      "url": "https://breakingdefense.com/2026/03/air-denial-is-not-air-control-and-the-air-force-should-not-pretend-it-is/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/11/9384786-scaled-e1763151520317-1024x577.jpg",
+      "published_at": "2026-03-11T17:30:03+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Xiaomi 18 Pro Max’ın Ekran ve Kamera Detayları Ortaya Çıktı",
-      "title_tr": "Xiaomi 18 Pro Max’ın Ekran ve Kamera Detayları Ortaya Çıktı",
-      "summary": "Akıllı telefon dünyasında heyecan verici gelişmeler yaşanmaya devam ediyor. Teknoloji devi Xiaomi önümüzdeki Eylül ayında Çin pazarında yepyeni amiral gemisi serisini tanıtmaya hazırlanıyor. Başlangıç aşamasında Xiaomi 18, Xiaomi 18 Pro ve Xiaomi 18 Pro Max modellerinden oluşması beklenen bu iddialı seriye, yıl sonuna doğru en üst düzey donanımlara sahip Xiaomi 18 Ultra modelinin de katılması […]",
-      "summary_tr": "Akıllı telefon dünyasında heyecan verici gelişmeler yaşanmaya devam ediyor. Teknoloji devi Xiaomi önümüzdeki Eylül ayında Çin pazarında yepyeni amiral gemisi serisini tanıtmaya hazırlanıyor. Başlangıç aşamasında Xiaomi 18, Xiaomi 18 Pro ve Xiaomi 18 Pro Max modellerinden oluşması beklenen bu iddialı seriye, yıl sonuna doğru en üst düzey donanımlara sahip Xiaomi 18 Ultra modelinin de katılması […]",
-      "long_summary": "Akıllı telefon dünyasında heyecan verici gelişmeler yaşanmaya devam ediyor. Teknoloji devi Xiaomi önümüzdeki Eylül ayında Çin pazarında yepyeni amiral gemisi serisini tanıtmaya hazırlanıyor. Başlangıç aşamasında Xiaomi 18, Xiaomi 18 Pro ve Xiaomi 18 Pro Max modellerinden oluşması beklenen bu iddialı seriye, yıl sonuna doğru en üst düzey donanımlara sahip Xiaomi 18 Ultra modelinin de katılması […]",
-      "long_summary_tr": "Akıllı telefon dünyasında heyecan verici gelişmeler yaşanmaya devam ediyor. Teknoloji devi Xiaomi önümüzdeki Eylül ayında Çin pazarında yepyeni amiral gemisi serisini tanıtmaya hazırlanıyor. Başlangıç aşamasında Xiaomi 18, Xiaomi 18 Pro ve Xiaomi 18 Pro Max modellerinden oluşması beklenen bu iddialı seriye, yıl sonuna doğru en üst düzey donanımlara sahip Xiaomi 18 Ultra modelinin de katılması […]",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Lübnan’da İsrail'in saldırıları nedeniyle can kaybı 634’e yükseldi",
+      "title_tr": "Lübnan’da İsrail'in saldırıları nedeniyle can kaybı 634’e yükseldi",
+      "summary": "Lübnan Sağlık Bakanlığı, İsrail’in düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkladı.İsrail’in Lübnan’a düzenlediği saldırılarda can kaybı her geçen gün artıyor. Lübnan Sağlık Bakanlığı, İsrail’in 2 Mart’tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkldı.",
+      "summary_tr": "Lübnan Sağlık Bakanlığı, İsrail’in düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkladı.İsrail’in Lübnan’a düzenlediği saldırılarda can kaybı her geçen gün artıyor. Lübnan Sağlık Bakanlığı, İsrail’in 2 Mart’tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkldı.",
+      "long_summary": "Lübnan Sağlık Bakanlığı, İsrail’in düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkladı.İsrail’in Lübnan’a düzenlediği saldırılarda can kaybı her geçen gün artıyor. Lübnan Sağlık Bakanlığı, İsrail’in 2 Mart’tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkldı.",
+      "long_summary_tr": "Lübnan Sağlık Bakanlığı, İsrail’in düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkladı.İsrail’in Lübnan’a düzenlediği saldırılarda can kaybı her geçen gün artıyor. Lübnan Sağlık Bakanlığı, İsrail’in 2 Mart’tan bu yana düzenlediği saldırılarda hayatını kaybedenlerin sayısının 634’e yükseldiğini açıkldı.",
       "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://shiftdelete.net/xiaomi-18-pro-maxin-ekran-ve-kamera-detaylari-ortaya-cikti",
+      "url": "https://www.bursahakimiyet.com.tr/dunya/lubnan-da-israil-in-saldirilari-nedeniyle-can-kaybi-634-e-yukseldi-1593863",
+      "image": "https://www.bursahakimiyet.com.tr/static/2023/11/01/israil-in-gazze-ye-saldirilarinda-can-kaybi-8-bin-796-ya-yukseldi-1698865348-945_large.webp",
+      "published_at": "2026-03-11T17:29:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Trump'tan İran mesajı: Henüz bitirmedik",
+      "title_tr": "Trump'tan İran mesajı: Henüz bitirmedik",
+      "summary": "ABD Başkanı Donald Trump, İran&#039;a düzenledikleri saldırılarda bu ülkenin askeri kapasitesini büyük oranda ortadan kaldırdıklarını savunarak &quot;İran’ı daha önce tarihte hiçbir ülkeyi olmadığı kadar sert şekilde vurduk ancak henüz bitirmedik.&quot; dedi. Trump daha önceki açıklamasında da &quot;İran&#039;da vuracak pek bir yer kalmadı, istediğim zaman savaşı bitiririm&quot; demişti.",
+      "summary_tr": "ABD Başkanı Donald Trump, İran&#039;a düzenledikleri saldırılarda bu ülkenin askeri kapasitesini büyük oranda ortadan kaldırdıklarını savunarak &quot;İran’ı daha önce tarihte hiçbir ülkeyi olmadığı kadar sert şekilde vurduk ancak henüz bitirmedik.&quot; dedi. Trump daha önceki açıklamasında da &quot;İran&#039;da vuracak pek bir yer kalmadı, istediğim zaman savaşı bitiririm&quot; demişti.",
+      "long_summary": "ABD Başkanı Donald Trump, İran&#039;a düzenledikleri saldırılarda bu ülkenin askeri kapasitesini büyük oranda ortadan kaldırdıklarını savunarak &quot;İran’ı daha önce tarihte hiçbir ülkeyi olmadığı kadar sert şekilde vurduk ancak henüz bitirmedik.&quot; dedi. Trump daha önceki açıklamasında da &quot;İran&#039;da vuracak pek bir yer kalmadı, istediğim zaman savaşı bitiririm&quot; demişti.",
+      "long_summary_tr": "ABD Başkanı Donald Trump, İran&#039;a düzenledikleri saldırılarda bu ülkenin askeri kapasitesini büyük oranda ortadan kaldırdıklarını savunarak &quot;İran’ı daha önce tarihte hiçbir ülkeyi olmadığı kadar sert şekilde vurduk ancak henüz bitirmedik.&quot; dedi. Trump daha önceki açıklamasında da &quot;İran&#039;da vuracak pek bir yer kalmadı, istediğim zaman savaşı bitiririm&quot; demişti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/trumptan-iran-mesaji-henuz-bitirmedik-haberi-817953",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/11/trump-z9w0_cover.jpg",
+      "published_at": "2026-03-11T17:28:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "Iran war may force US to shift missile defenses from South Korea, Seoul says",
+      "title_tr": "Iran war may force US to shift missile defenses from South Korea, Seoul says",
+      "summary": "The U.S. Army operates only a small number of THAAD batteries across the world, meaning a deployment can affect multiple theaters.",
+      "summary_tr": "The U.S. Army operates only a small number of THAAD batteries across the world, meaning a deployment can affect multiple theaters.",
+      "long_summary": "The U.S. Army operates only a small number of THAAD batteries across the world, meaning a deployment can affect multiple theaters.",
+      "long_summary_tr": "The U.S. Army operates only a small number of THAAD batteries across the world, meaning a deployment can affect multiple theaters.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/your-military/2026/03/11/iran-war-may-force-us-to-shift-missile-defenses-from-south-korea-seoul-says/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ZNZ626IANNDGVNL3OIMJLUQOJM.jpg",
+      "published_at": "2026-03-11T17:27:45+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "ABD-İran savaşı ortasında tarihin en büyük petrol adımı!",
+      "title_tr": "ABD-İran savaşı ortasında tarihin en büyük petrol adımı!",
+      "summary": "ABD-İran arasındaki savaş ve gerilimin Hürmüz Boğazı'nda yankılanması petrol piyasasını sarstı. Uluslararası Enerji Ajansı (IEA), İran’ın savaş kaynaklı tedarik kesintilerini gidermek için rekor miktarda 400 milyon varil petrolü serbest bırakmayı kabul etti.ABD ve İran savaşı küresel petrol gelişmelerini derinden etkiledi. Petrol ve benzin fiyatları Hürmüz Boğazı kararıyla bir anda fırladı ve sonrasında toparlanma sürecine girdi.\n\nSAVAŞ SEBEBİYLE PETROL KARARI\n\nUluslararası Enerji Ajansı, İran savaşı nedeniyle tetiklenen arz kesintisini gidermek için 400 milyon varil petrolün serbest bırakılması konusunda anlaştı.\n\n32 ÜLKENİN OY BİRLİĞİ\n\nUluslararası Enerji Ajansı (IEA), stokların piyasaya ne zaman sürüleceğine dair bir zaman çizelgesi belirlemedi. Rezervlerin, 32 üye ülkesinin her birinin koşullarına uygun bir zaman dilimi içinde serbest bırakılacağını belirtti.\n\nTAM 400 MİLYON VARİL PİYASADA OLACAK\n\nIEA Başkanı Fatih Birol, \"Uluslararası Enerji Ajansı'na 32 üye ülke bugün oy birliğiyle, acil durum rezervlerindeki 400 milyon varil petrolün piyasaya sunulmasına karar verildi\" dedi.\n\nUluslararası Enerji Ajansı (IEA) başkanı, bu salınımın arz kesintisinin acil etkilerini gidermeyi amaçladığını söyledi. Ancak Birol, küresel pazara istikrarlı petrol ve doğalgaz akışını geri getirmek için Hürmüz Boğazı’ndan tanker trafiğinin yeniden başlaması gerektiğini belirtti.",
+      "summary_tr": "ABD-İran arasındaki savaş ve gerilimin Hürmüz Boğazı'nda yankılanması petrol piyasasını sarstı. Uluslararası Enerji Ajansı (IEA), İran’ın savaş kaynaklı tedarik kesintilerini gidermek için rekor miktarda 400 milyon varil petrolü serbest bırakmayı kabul etti.ABD ve İran savaşı küresel petrol gelişmelerini derinden etkiledi. Petrol ve benzin fiyatları Hürmüz Boğazı kararıyla bir anda fırladı ve sonrasında toparlanma sürecine girdi.\n\nSAVAŞ SEBEBİYLE PETROL KARARI\n\nUluslararası Enerji Ajansı, İran savaşı nedeniyle tetiklenen arz kesintisini gidermek için 400 milyon varil petrolün serbest bırakılması konusunda anlaştı.\n\n32 ÜLKENİN OY BİRLİĞİ\n\nUluslararası Enerji Ajansı (IEA), stokların piyasaya ne zaman sürüleceğine dair bir zaman çizelgesi belirlemedi. Rezervlerin, 32 üye ülkesinin her birinin koşullarına uygun bir zaman dilimi içinde serbest bırakılacağını belirtti.\n\nTAM 400 MİLYON VARİL PİYASADA OLACAK\n\nIEA Başkanı Fatih Birol, \"Uluslararası Enerji Ajansı'na 32 üye ülke bugün oy birliğiyle, acil durum rezervlerindeki 400 milyon varil petrolün piyasaya sunulmasına karar verildi\" dedi.\n\nUluslararası Enerji Ajansı (IEA) başkanı, bu salınımın arz kesintisinin acil etkilerini gidermeyi amaçladığını söyledi. Ancak Birol, küresel pazara istikrarlı petrol ve doğalgaz akışını geri getirmek için Hürmüz Boğazı’ndan tanker trafiğinin yeniden başlaması gerektiğini belirtti.",
+      "long_summary": "ABD-İran arasındaki savaş ve gerilimin Hürmüz Boğazı'nda yankılanması petrol piyasasını sarstı. Uluslararası Enerji Ajansı (IEA), İran’ın savaş kaynaklı tedarik kesintilerini gidermek için rekor miktarda 400 milyon varil petrolü serbest bırakmayı kabul etti.ABD ve İran savaşı küresel petrol gelişmelerini derinden etkiledi. Petrol ve benzin fiyatları Hürmüz Boğazı kararıyla bir anda fırladı ve sonrasında toparlanma sürecine girdi.\n\nSAVAŞ SEBEBİYLE PETROL KARARI\n\nUluslararası Enerji Ajansı, İran",
+      "long_summary_tr": "ABD-İran arasındaki savaş ve gerilimin Hürmüz Boğazı'nda yankılanması petrol piyasasını sarstı. Uluslararası Enerji Ajansı (IEA), İran’ın savaş kaynaklı tedarik kesintilerini gidermek için rekor miktarda 400 milyon varil petrolü serbest bırakmayı kabul etti.ABD ve İran savaşı küresel petrol gelişmelerini derinden etkiledi. Petrol ve benzin fiyatları Hürmüz Boğazı kararıyla bir anda fırladı ve sonrasında toparlanma sürecine girdi.\n\nSAVAŞ SEBEBİYLE PETROL KARARI\n\nUluslararası Enerji Ajansı, İran",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/abd-iran-savasi-ortasinda-tarihin-en-buyuk-petrol-adimi-1593860",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/abd-iran-savasi-ortasinda-tarihin-en-buyuk-petrol-adimi-1773254528-935_large.webp",
+      "published_at": "2026-03-11T17:26:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Bolat: Fransa ile ekonomik ortaklığımızı üst seviyeye taşıyoruz",
+      "title_tr": "Bolat: Fransa ile ekonomik ortaklığımızı üst seviyeye taşıyoruz",
+      "summary": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile yapılan görüşmede Türkiye-Fransa ticaret ve yatırım ilişkilerini değerlendirdiklerini belirterek ekonomik ortaklığın güçlendirilmesi konusunda mutabakata vardıklarını açıkladı.",
+      "summary_tr": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile yapılan görüşmede Türkiye-Fransa ticaret ve yatırım ilişkilerini değerlendirdiklerini belirterek ekonomik ortaklığın güçlendirilmesi konusunda mutabakata vardıklarını açıkladı.",
+      "long_summary": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile yapılan görüşmede Türkiye-Fransa ticaret ve yatırım ilişkilerini değerlendirdiklerini belirterek ekonomik ortaklığın güçlendirilmesi konusunda mutabakata vardıklarını açıkladı.",
+      "long_summary_tr": "Ticaret Bakanı Ömer Bolat, Fransa Dış Ticaret ve Yatırımlardan Sorumlu Bakanı Nicolas Forissier ile yapılan görüşmede Türkiye-Fransa ticaret ve yatırım ilişkilerini değerlendirdiklerini belirterek ekonomik ortaklığın güçlendirilmesi konusunda mutabakata vardıklarını açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/bolat-fransa-ile-ekonomik-ortakligimizi-ust-seviyeye-tasiyoruz-3771610",
       "image": null,
-      "published_at": "2026-03-11T15:40:54+00:00"
+      "published_at": "2026-03-11T17:23:06+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Oscars 2026: How to Watch and Everything Else You Should Know",
+      "title_tr": "Oscars 2026: How to Watch and Everything Else You Should Know",
+      "summary": "We are just a few short days away from the 98th Academy Awards. Here's how you can watch it, plus who the hosts, presenters, and performers are, and so much more.",
+      "summary_tr": "We are just a few short days away from the 98th Academy Awards. Here's how you can watch it, plus who the hosts, presenters, and performers are, and so much more.",
+      "long_summary": "We are just a few short days away from the 98th Academy Awards. Here's how you can watch it, plus who the hosts, presenters, and performers are, and so much more.",
+      "long_summary_tr": "We are just a few short days away from the 98th Academy Awards. Here's how you can watch it, plus who the hosts, presenters, and performers are, and so much more.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/oscars-2026-how-to-watch",
+      "image": "https://assets-prd.ignimgs.com/2026/03/10/oscars-1773170505969.png",
+      "published_at": "2026-03-11T17:22:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İran’da ABD-İsrail bağlantılı olduğu öne sürülen 6 kişi gözaltına alındı",
+      "title_tr": "İran’da ABD-İsrail bağlantılı olduğu öne sürülen 6 kişi gözaltına alındı",
+      "summary": "İran’ın Huzistan eyaletinde düzenlenen operasyonda ABD ve İsrail bağlantılı olduğu öne sürülen 6 kişi gözaltına alındı.İran’ın Huzistan eyaletinde ABD ve İsrail bağlantılı olduğu öne sürülen bir silahlı gruba yönelik operasyon düzenlendi. İran basınında yer alan haberlere göre, İran İstihbarat Bakanlığı’na bağlı güvenlik birimlerinin yürüttüğü operasyonda söz konusu grubun lideri ile birlikte toplam 6 kişi gözaltına alındı.\n\nHaberde, şüphelilerin saklandıkları yerlere düzenlenen baskınlarda ateşli silahların yanı sıra patlamaya hazır 4 el yapımı bomba ile bomba yapımında kullanılan ekipmanların ele geçirildiği bildirildi.",
+      "summary_tr": "İran’ın Huzistan eyaletinde düzenlenen operasyonda ABD ve İsrail bağlantılı olduğu öne sürülen 6 kişi gözaltına alındı.İran’ın Huzistan eyaletinde ABD ve İsrail bağlantılı olduğu öne sürülen bir silahlı gruba yönelik operasyon düzenlendi. İran basınında yer alan haberlere göre, İran İstihbarat Bakanlığı’na bağlı güvenlik birimlerinin yürüttüğü operasyonda söz konusu grubun lideri ile birlikte toplam 6 kişi gözaltına alındı.\n\nHaberde, şüphelilerin saklandıkları yerlere düzenlenen baskınlarda ateşli silahların yanı sıra patlamaya hazır 4 el yapımı bomba ile bomba yapımında kullanılan ekipmanların ele geçirildiği bildirildi.",
+      "long_summary": "İran’ın Huzistan eyaletinde düzenlenen operasyonda ABD ve İsrail bağlantılı olduğu öne sürülen 6 kişi gözaltına alındı.İran’ın Huzistan eyaletinde ABD ve İsrail bağlantılı olduğu öne sürülen bir silahlı gruba yönelik operasyon düzenlendi. İran basınında yer alan haberlere göre, İran İstihbarat Bakanlığı’na bağlı güvenlik birimlerinin yürüttüğü operasyonda söz konusu grubun lideri ile birlikte toplam 6 kişi gözaltına alındı.\n\nHaberde, şüphelilerin saklandıkları yerlere düzenlenen baskınlarda",
+      "long_summary_tr": "İran’ın Huzistan eyaletinde düzenlenen operasyonda ABD ve İsrail bağlantılı olduğu öne sürülen 6 kişi gözaltına alındı.İran’ın Huzistan eyaletinde ABD ve İsrail bağlantılı olduğu öne sürülen bir silahlı gruba yönelik operasyon düzenlendi. İran basınında yer alan haberlere göre, İran İstihbarat Bakanlığı’na bağlı güvenlik birimlerinin yürüttüğü operasyonda söz konusu grubun lideri ile birlikte toplam 6 kişi gözaltına alındı.\n\nHaberde, şüphelilerin saklandıkları yerlere düzenlenen baskınlarda",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/iran-da-abd-israil-baglantili-oldugu-one-surulen-6-kisi-gozaltina-alindi-1593857",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/11/iran-da-abd-israil-baglantili-oldugu-one-surulen-6-kisi-gozaltina-alindi-1773254480-25_large.webp",
+      "published_at": "2026-03-11T17:21:00+00:00"
     }
   ]
 }
