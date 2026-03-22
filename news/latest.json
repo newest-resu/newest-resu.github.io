@@ -1,18 +1,348 @@
 {
-  "updated_at": "2026-03-22T18:50:38.933804+00:00",
+  "updated_at": "2026-03-22T19:35:46.296154+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Russian attacks kill six in Ukraine, officials say",
+      "title_tr": "Russian attacks kill six in Ukraine, officials say",
+      "summary": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
+      "summary_tr": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
+      "long_summary": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
+      "long_summary_tr": "The deaths were reported in four south-eastern Ukrainian regions in the past 24 hours.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9be/live/f94c8cc0-24ff-11f1-ba46-637c713acadc.jpg",
+      "published_at": "2026-03-22T19:29:06+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "MİT Başkanı Kalın, Hamas heyetiyle görüştü",
+      "title_tr": "MİT Başkanı Kalın, Hamas heyetiyle görüştü",
+      "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da, Hamas Siyasi Büro üyeleri ile görüşme gerçekleştirdi.",
+      "summary_tr": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da, Hamas Siyasi Büro üyeleri ile görüşme gerçekleştirdi.",
+      "long_summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da, Hamas Siyasi Büro üyeleri ile görüşme gerçekleştirdi.",
+      "long_summary_tr": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da, Hamas Siyasi Büro üyeleri ile görüşme gerçekleştirdi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/mit-baskani-kalin-hamas-heyetiyle-gorustu-haberi-819115",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/t1-t8qs_cover.jpg",
+      "published_at": "2026-03-22T19:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "El frenini çekmeyi unuttuğu aracını durdurmaya çalışırken yaşamını yitirdi",
+      "title_tr": "El frenini çekmeyi unuttuğu aracını durdurmaya çalışırken yaşamını yitirdi",
+      "summary": "Karabük'ün Eskipazar ilçesinde el freni çekilmediği için hareket eden ve kara yoluna çıkan otomobile başka bir araç çarptı. Kazada aracını durdurmaya çalışan sürücü hayatını kaybetti, üç kişi yaralandı.",
+      "summary_tr": "Karabük'ün Eskipazar ilçesinde el freni çekilmediği için hareket eden ve kara yoluna çıkan otomobile başka bir araç çarptı. Kazada aracını durdurmaya çalışan sürücü hayatını kaybetti, üç kişi yaralandı.",
+      "long_summary": "Karabük'ün Eskipazar ilçesinde el freni çekilmediği için hareket eden ve kara yoluna çıkan otomobile başka bir araç çarptı. Kazada aracını durdurmaya çalışan sürücü hayatını kaybetti, üç kişi yaralandı.",
+      "long_summary_tr": "Karabük'ün Eskipazar ilçesinde el freni çekilmediği için hareket eden ve kara yoluna çıkan otomobile başka bir araç çarptı. Kazada aracını durdurmaya çalışan sürücü hayatını kaybetti, üç kişi yaralandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/el-frenini-cekmeyi-unuttugu-aracini-durdurmaya-calisirken-yasamini-yitirdi-1717037",
+      "image": "https://images.ntv.com.tr/images/AW667198_01-570166.jpg",
+      "published_at": "2026-03-22T19:26:52+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "MİT Başkanı Kalın, İstanbul'da Hamas heyetiyle görüştü",
+      "title_tr": "MİT Başkanı Kalın, İstanbul'da Hamas heyetiyle görüştü",
+      "summary": "Milli İstihbarat Teşkilatı Başkanı İbrahim Kalın İstanbul'da Hamas Siyasi Büro üyeleri ile bir görüşme gerçekleştirdi.",
+      "summary_tr": "Milli İstihbarat Teşkilatı Başkanı İbrahim Kalın İstanbul'da Hamas Siyasi Büro üyeleri ile bir görüşme gerçekleştirdi.",
+      "long_summary": "Milli İstihbarat Teşkilatı Başkanı İbrahim Kalın İstanbul'da Hamas Siyasi Büro üyeleri ile bir görüşme gerçekleştirdi.",
+      "long_summary_tr": "Milli İstihbarat Teşkilatı Başkanı İbrahim Kalın İstanbul'da Hamas Siyasi Büro üyeleri ile bir görüşme gerçekleştirdi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/mit-baskani-kalin-istanbulda-hamas-heyetiyle-gorustu-1717039",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_7e172f9b45ac5d325b04106306c820da-569108.jpg",
+      "published_at": "2026-03-22T19:20:28+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "GB's Hunter Bell storms to first global 1500m title",
-      "title_tr": "GB's Hunter Bell storms to first global 1500m title",
-      "summary": "Great Britain's Georgia Hunter Bell storms to her first global title as she claimed 1500m gold at the World Athletics Indoor Championships in Poland.",
-      "summary_tr": "Great Britain's Georgia Hunter Bell storms to her first global title as she claimed 1500m gold at the World Athletics Indoor Championships in Poland.",
-      "long_summary": "Great Britain's Georgia Hunter Bell storms to her first global title as she claimed 1500m gold at the World Athletics Indoor Championships in Poland.",
-      "long_summary_tr": "Great Britain's Georgia Hunter Bell storms to her first global title as she claimed 1500m gold at the World Athletics Indoor Championships in Poland.",
+      "title": "Hodgkinson wins 800m gold in championship record time",
+      "title_tr": "Hodgkinson wins 800m gold in championship record time",
+      "summary": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
+      "summary_tr": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
+      "long_summary": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
+      "long_summary_tr": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d869/live/50893970-2622-11f1-b297-95b0a0a8331e.jpg",
+      "published_at": "2026-03-22T19:16:42+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Hodgkinson wins first world indoor title",
+      "title_tr": "Hodgkinson wins first world indoor title",
+      "summary": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
+      "summary_tr": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
+      "long_summary": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
+      "long_summary_tr": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8b/live/b3d704c0-2623-11f1-a79a-77e93010d956.jpg",
+      "published_at": "2026-03-22T19:15:43+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Watkins gives Tuchel timely reminder as World Cup hopes still alive",
+      "title_tr": "Watkins gives Tuchel timely reminder as World Cup hopes still alive",
+      "summary": "Ollie Watkins is not in Thomas Tuchel's latest England squad, leaving his World Cup hopes in the balance - but scoring for Aston Villa on Sunday might change that.",
+      "summary_tr": "Ollie Watkins is not in Thomas Tuchel's latest England squad, leaving his World Cup hopes in the balance - but scoring for Aston Villa on Sunday might change that.",
+      "long_summary": "Ollie Watkins is not in Thomas Tuchel's latest England squad, leaving his World Cup hopes in the balance - but scoring for Aston Villa on Sunday might change that.",
+      "long_summary_tr": "Ollie Watkins is not in Thomas Tuchel's latest England squad, leaving his World Cup hopes in the balance - but scoring for Aston Villa on Sunday might change that.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cvg3lxd74zjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2728/live/ecc5a1e0-2620-11f1-8055-8da8289aa0e0.jpg",
+      "published_at": "2026-03-22T19:14:46+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "What does defeat to Forest means for Spurs? | The Verdict",
+      "title_tr": "What does defeat to Forest means for Spurs? | The Verdict",
+      "summary": "Sky Sports reporter Anton Toloui rounds up a dismal day for Tottenham Hotspur after a 3-0 defeat at home to Nottingham Forest that piles on more pressure as they battle to beat the drop from the Premier League.",
+      "summary_tr": "Sky Sports reporter Anton Toloui rounds up a dismal day for Tottenham Hotspur after a 3-0 defeat at home to Nottingham Forest that piles on more pressure as they battle to beat the drop from the Premier League.",
+      "long_summary": "Sky Sports reporter Anton Toloui rounds up a dismal day for Tottenham Hotspur after a 3-0 defeat at home to Nottingham Forest that piles on more pressure as they battle to beat the drop from the Premier League.",
+      "long_summary_tr": "Sky Sports reporter Anton Toloui rounds up a dismal day for Tottenham Hotspur after a 3-0 defeat at home to Nottingham Forest that piles on more pressure as they battle to beat the drop from the Premier League.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13523187/what-now-for-spurs-after-defeat-to-nottingham-forest-the-verdict",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-anton-toloui-verdict_7200414.jpg?20260322191551",
+      "published_at": "2026-03-22T19:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İstanbul'da dehşet. Eşini katledip evi ateşe verdi",
+      "title_tr": "İstanbul'da dehşet. Eşini katledip evi ateşe verdi",
+      "summary": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
+      "summary_tr": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
+      "long_summary": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
+      "long_summary_tr": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/istanbulda-dehset-esini-katledip-evi-atese-verdi-1717031",
+      "image": "https://images.ntv.com.tr/images/AW667149_02-897142.jpg",
+      "published_at": "2026-03-22T19:06:19+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+      "title_tr": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+      "summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+      "summary_tr": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+      "long_summary": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+      "long_summary_tr": "It is illegal for Kenyans to serve in foreign armies and can carry a sentence of up to 10 years in jail.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51ee/live/da1f4290-2610-11f1-a79a-77e93010d956.jpg",
+      "published_at": "2026-03-22T19:05:30+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Caudery wins gold for GB in pole vault",
+      "title_tr": "Caudery wins gold for GB in pole vault",
+      "summary": "Great Britain's Molly Caudery wins gold in the women's pole vault with a height of 4.85m at the World Indoor Athletics Championships in Poland.",
+      "summary_tr": "Great Britain's Molly Caudery wins gold in the women's pole vault with a height of 4.85m at the World Indoor Athletics Championships in Poland.",
+      "long_summary": "Great Britain's Molly Caudery wins gold in the women's pole vault with a height of 4.85m at the World Indoor Athletics Championships in Poland.",
+      "long_summary_tr": "Great Britain's Molly Caudery wins gold in the women's pole vault with a height of 4.85m at the World Indoor Athletics Championships in Poland.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/athletics/videos/cd0rz0njv1jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd17/live/b3cf2770-2621-11f1-a79a-77e93010d956.jpg",
+      "published_at": "2026-03-22T19:04:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Toprak Razgatlıoğlu Brezilya GP’de 17. oldu",
+      "title_tr": "Toprak Razgatlıoğlu Brezilya GP’de 17. oldu",
+      "summary": "MotoGP Dünya Şampiyonası&#039;nın ikinci etabı olan Brezilya Grand Prix&#039;ini, Prima Pramac Yamaha takımının milli sporcu Toprak Razgatlıoğlu, 17. sırada tamamladı.",
+      "summary_tr": "MotoGP Dünya Şampiyonası&#039;nın ikinci etabı olan Brezilya Grand Prix&#039;ini, Prima Pramac Yamaha takımının milli sporcu Toprak Razgatlıoğlu, 17. sırada tamamladı.",
+      "long_summary": "MotoGP Dünya Şampiyonası&#039;nın ikinci etabı olan Brezilya Grand Prix&#039;ini, Prima Pramac Yamaha takımının milli sporcu Toprak Razgatlıoğlu, 17. sırada tamamladı.",
+      "long_summary_tr": "MotoGP Dünya Şampiyonası&#039;nın ikinci etabı olan Brezilya Grand Prix&#039;ini, Prima Pramac Yamaha takımının milli sporcu Toprak Razgatlıoğlu, 17. sırada tamamladı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/toprak-razgatlioglu-brezilya-gpde-17-oldu-haberi-819114",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/m1-pcah_cover.jpg",
+      "published_at": "2026-03-22T19:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Bilirkişi rapor süresi 110 günden 29 güne düşürüldü",
+      "title_tr": "Bilirkişi rapor süresi 110 günden 29 güne düşürüldü",
+      "summary": "Adalet Bakanı Akın Gürlek, bilirkişilerin ortalama 110 gün olan rapor teslim süresini 29 güne düşürdüklerini açıkladı.",
+      "summary_tr": "Adalet Bakanı Akın Gürlek, bilirkişilerin ortalama 110 gün olan rapor teslim süresini 29 güne düşürdüklerini açıkladı.",
+      "long_summary": "Adalet Bakanı Akın Gürlek, bilirkişilerin ortalama 110 gün olan rapor teslim süresini 29 güne düşürdüklerini açıkladı.",
+      "long_summary_tr": "Adalet Bakanı Akın Gürlek, bilirkişilerin ortalama 110 gün olan rapor teslim süresini 29 güne düşürdüklerini açıkladı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/bilirkisi-rapor-suresi-110-gunden-29-gune-dusuruldu-1717002",
+      "image": "https://images.ntv.com.tr/images/Akıngürlek-699119.jpg",
+      "published_at": "2026-03-22T19:02:36+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "'It backfired BIG time!' | Redknapp and Wright question Kepa starting cup final",
+      "title_tr": "'It backfired BIG time!' | Redknapp and Wright question Kepa starting cup final",
+      "summary": "Jamie Redknapp and Ian Wright debate whether Kepa Arrizabalaga should have started the Carabao Cup final over Arsenal's number one David Raya, after Kepa's error gifted Manchester City their opening goal.",
+      "summary_tr": "Jamie Redknapp and Ian Wright debate whether Kepa Arrizabalaga should have started the Carabao Cup final over Arsenal's number one David Raya, after Kepa's error gifted Manchester City their opening goal.",
+      "long_summary": "Jamie Redknapp and Ian Wright debate whether Kepa Arrizabalaga should have started the Carabao Cup final over Arsenal's number one David Raya, after Kepa's error gifted Manchester City their opening goal.",
+      "long_summary_tr": "Jamie Redknapp and Ian Wright debate whether Kepa Arrizabalaga should have started the Carabao Cup final over Arsenal's number one David Raya, after Kepa's error gifted Manchester City their opening goal.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13523184/arsenal-vs-man-city-redknapp-and-wright-debate-whether-kepa-should-have-started-over-raya-in-cup-final",
+      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-kepa-redknapp_7200413.jpg?20260322191409",
+      "published_at": "2026-03-22T19:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Apple Mağazalarında SSD Krizi!",
+      "title_tr": "Apple Mağazalarında SSD Krizi!",
+      "summary": "Yapay zeka teknolojilerinin hızla gelişmesi, teknoloji dünyasında beklenmedik bir krize yol açtı. Yapay zeka altyapılarının devasa boyutlarda bellek ve depolama alanına ihtiyaç duyması, sektör genelinde ciddi bir arz ve talep dengesizliği yarattı. Bu durumun en somut etkilerinden biri ise Apple mağazalarındaki harici disk fiyatlarında yaşanan ani ve sert yükselişler oldu. Teknoloji devi, artan depolama maliyetlerinin […]",
+      "summary_tr": "Yapay zeka teknolojilerinin hızla gelişmesi, teknoloji dünyasında beklenmedik bir krize yol açtı. Yapay zeka altyapılarının devasa boyutlarda bellek ve depolama alanına ihtiyaç duyması, sektör genelinde ciddi bir arz ve talep dengesizliği yarattı. Bu durumun en somut etkilerinden biri ise Apple mağazalarındaki harici disk fiyatlarında yaşanan ani ve sert yükselişler oldu. Teknoloji devi, artan depolama maliyetlerinin […]",
+      "long_summary": "Yapay zeka teknolojilerinin hızla gelişmesi, teknoloji dünyasında beklenmedik bir krize yol açtı. Yapay zeka altyapılarının devasa boyutlarda bellek ve depolama alanına ihtiyaç duyması, sektör genelinde ciddi bir arz ve talep dengesizliği yarattı. Bu durumun en somut etkilerinden biri ise Apple mağazalarındaki harici disk fiyatlarında yaşanan ani ve sert yükselişler oldu. Teknoloji devi, artan depolama maliyetlerinin […]",
+      "long_summary_tr": "Yapay zeka teknolojilerinin hızla gelişmesi, teknoloji dünyasında beklenmedik bir krize yol açtı. Yapay zeka altyapılarının devasa boyutlarda bellek ve depolama alanına ihtiyaç duyması, sektör genelinde ciddi bir arz ve talep dengesizliği yarattı. Bu durumun en somut etkilerinden biri ise Apple mağazalarındaki harici disk fiyatlarında yaşanan ani ve sert yükselişler oldu. Teknoloji devi, artan depolama maliyetlerinin […]",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/apple-magazalarinda-ssd-krizi",
+      "image": null,
+      "published_at": "2026-03-22T19:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "GB's Hunter Bell and Caudery win world golds",
+      "title_tr": "GB's Hunter Bell and Caudery win world golds",
+      "summary": "Great Britain's Georgia Hunter Bell and Molly Caudery both win golds at the World Athletics Indoor Championships in Poland.",
+      "summary_tr": "Great Britain's Georgia Hunter Bell and Molly Caudery both win golds at the World Athletics Indoor Championships in Poland.",
+      "long_summary": "Great Britain's Georgia Hunter Bell and Molly Caudery both win golds at the World Athletics Indoor Championships in Poland.",
+      "long_summary_tr": "Great Britain's Georgia Hunter Bell and Molly Caudery both win golds at the World Athletics Indoor Championships in Poland.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
@@ -20,8 +350,52 @@
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
       "url": "https://www.bbc.com/sport/athletics/articles/c20qjlyezjvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/763d/live/00942820-261e-11f1-8055-8da8289aa0e0.jpg",
-      "published_at": "2026-03-22T18:42:29+00:00"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82e8/live/90c63b50-2622-11f1-8055-8da8289aa0e0.jpg",
+      "published_at": "2026-03-22T18:57:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "İngiltere Lig Kupası'nın sahibi Manchester City oldu",
+      "title_tr": "İngiltere Lig Kupası'nın sahibi Manchester City oldu",
+      "summary": "İngiltere Lig Kupası finalinde Arsenal&#039;i 2-0 yenen Manchester City, şampiyonluğa ulaştı.",
+      "summary_tr": "İngiltere Lig Kupası finalinde Arsenal&#039;i 2-0 yenen Manchester City, şampiyonluğa ulaştı.",
+      "long_summary": "İngiltere Lig Kupası finalinde Arsenal&#039;i 2-0 yenen Manchester City, şampiyonluğa ulaştı.",
+      "long_summary_tr": "İngiltere Lig Kupası finalinde Arsenal&#039;i 2-0 yenen Manchester City, şampiyonluğa ulaştı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/ingiltere-lig-kupasinin-sahibi-manchester-city-oldu-haberi-819113",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/g1-cvwh_cover.jpg",
+      "published_at": "2026-03-22T18:54:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Kim Kardashian and Lewis Hamilton Enjoy Trip to Tokyo",
+      "title_tr": "Kim Kardashian and Lewis Hamilton Enjoy Trip to Tokyo",
+      "summary": "Kim Kardashian and Lewis Hamilton Enjoy Trip to Tokyo",
+      "summary_tr": "Kim Kardashian and Lewis Hamilton Enjoy Trip to Tokyo",
+      "long_summary": "Kim Kardashian and Lewis Hamilton Enjoy Trip to Tokyo",
+      "long_summary_tr": "Kim Kardashian and Lewis Hamilton Enjoy Trip to Tokyo",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a70813814/kim-kardashian-lewis-hamilton-tokyo-video/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/39eec2c3-4cad-48a6-acfb-38b40b1b4076.jpeg",
+      "published_at": "2026-03-22T18:50:24+00:00"
     },
     {
       "origin": "yabanci",
@@ -112,6 +486,50 @@
       "published_at": "2026-03-22T18:31:00+00:00"
     },
     {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Carabao Cup final ratings: O'Reilly faultless as Arsenal fall completely flat",
+      "title_tr": "Carabao Cup final ratings: O'Reilly faultless as Arsenal fall completely flat",
+      "summary": "Manchester City beat Arsenal to the League Cup with a near-perfect display at Wembley on Sunday. It was Pep Guardiola's 16th major trophy as City boss and a record-breaking fifth in this competition. Sky Sports takes a closer look at who shone and who flopped.",
+      "summary_tr": "Manchester City beat Arsenal to the League Cup with a near-perfect display at Wembley on Sunday. It was Pep Guardiola's 16th major trophy as City boss and a record-breaking fifth in this competition. Sky Sports takes a closer look at who shone and who flopped.",
+      "long_summary": "Manchester City beat Arsenal to the League Cup with a near-perfect display at Wembley on Sunday. It was Pep Guardiola's 16th major trophy as City boss and a record-breaking fifth in this competition. Sky Sports takes a closer look at who shone and who flopped.",
+      "long_summary_tr": "Manchester City beat Arsenal to the League Cup with a near-perfect display at Wembley on Sunday. It was Pep Guardiola's 16th major trophy as City boss and a record-breaking fifth in this competition. Sky Sports takes a closer look at who shone and who flopped.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13523071/arsenal-0-2-man-city-player-ratings-nico-oreilly-faultless-as-mikel-artetas-side-choke-in-league-cup-final-at-wembley",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-carabao-cup-final_7200279.jpg?20260322175350",
+      "published_at": "2026-03-22T18:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Hodgkinson wins emphatic World Indoor gold",
+      "title_tr": "Hodgkinson wins emphatic World Indoor gold",
+      "summary": "Keely Hodgkinson claimed her first world indoor 800m title with an emphatic performance to clinch gold in Poland.",
+      "summary_tr": "Keely Hodgkinson claimed her first world indoor 800m title with an emphatic performance to clinch gold in Poland.",
+      "long_summary": "Keely Hodgkinson claimed her first world indoor 800m title with an emphatic performance to clinch gold in Poland.",
+      "long_summary_tr": "Keely Hodgkinson claimed her first world indoor 800m title with an emphatic performance to clinch gold in Poland.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/athletics/news/12040/13523170/world-athletics-indoor-championships-british-trio-keely-hodgkinson-georgia-hunter-bell-and-molly-caudery-all-win-gold",
+      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-keely-hodgkinson_7200382.jpg?20260322185447",
+      "published_at": "2026-03-22T18:26:00+00:00"
+    },
+    {
       "origin": "turkiye",
       "category": "Ekonomi",
       "category_slug": "ekonomi",
@@ -132,6 +550,28 @@
       "url": "https://www.dunya.com/gundem/tatil-donusunde-trafik-yogunlugu-artti-haberi-819112",
       "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/tt1-pbvz_cover.jpg",
       "published_at": "2026-03-22T18:18:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+      "title_tr": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+      "summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "summary_tr": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "long_summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "long_summary_tr": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd9a/live/53df7910-2611-11f1-82b7-571f29d99bc9.jpg",
+      "published_at": "2026-03-22T18:15:59+00:00"
     },
     {
       "origin": "yabanci",
@@ -310,72 +750,6 @@
       "published_at": "2026-03-22T18:00:00+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "'A delicious double!' - Man City STUN Arsenal as O'Reilly scores two in FOUR mins!",
-      "title_tr": "'A delicious double!' - Man City STUN Arsenal as O'Reilly scores two in FOUR mins!",
-      "summary": "Nico O'Reilly scores Manchester City's second in their Carabao Cup final clash with Arsenal.",
-      "summary_tr": "Nico O'Reilly scores Manchester City's second in their Carabao Cup final clash with Arsenal.",
-      "long_summary": "Nico O'Reilly scores Manchester City's second in their Carabao Cup final clash with Arsenal.",
-      "long_summary_tr": "Nico O'Reilly scores Manchester City's second in their Carabao Cup final clash with Arsenal.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13523147/arsenal-vs-man-city-nico-oreilly-scores-citys-second-in-carabao-cup-final",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-man-city-arsenal_7200295.jpg?20260322180018",
-      "published_at": "2026-03-22T17:59:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "O'Reilly gives Man City the opener after Kepa HOWLER!",
-      "title_tr": "O'Reilly gives Man City the opener after Kepa HOWLER!",
-      "summary": "Nico O'Reilly gives Manchester City the opener in their Carabao Cup final clash with Arsenal.",
-      "summary_tr": "Nico O'Reilly gives Manchester City the opener in their Carabao Cup final clash with Arsenal.",
-      "long_summary": "Nico O'Reilly gives Manchester City the opener in their Carabao Cup final clash with Arsenal.",
-      "long_summary_tr": "Nico O'Reilly gives Manchester City the opener in their Carabao Cup final clash with Arsenal.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13523145/arsenal-vs-man-city-nico-oreilly-gives-city-the-opener-in-carabao-cup-final",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-man-city-arsenal_7200285.jpg?20260322175727",
-      "published_at": "2026-03-22T17:55:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Venner treble helps Gloucester beat Loughborough",
-      "title_tr": "Venner treble helps Gloucester beat Loughborough",
-      "summary": "Mia Venner scores a hat-trick as Premiership Women's Rugby leaders Gloucester-Hartpury overturn a half-time deficit to beat Loughborough Lightning.",
-      "summary_tr": "Mia Venner scores a hat-trick as Premiership Women's Rugby leaders Gloucester-Hartpury overturn a half-time deficit to beat Loughborough Lightning.",
-      "long_summary": "Mia Venner scores a hat-trick as Premiership Women's Rugby leaders Gloucester-Hartpury overturn a half-time deficit to beat Loughborough Lightning.",
-      "long_summary_tr": "Mia Venner scores a hat-trick as Premiership Women's Rugby leaders Gloucester-Hartpury overturn a half-time deficit to beat Loughborough Lightning.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c4gle1wd6qko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c2/live/c6a10690-2610-11f1-8e33-75c6f2e0c4bc.jpg",
-      "published_at": "2026-03-22T17:52:22+00:00"
-    },
-    {
       "origin": "turkiye",
       "category": "Gündem",
       "category_slug": "gundem",
@@ -420,6 +794,72 @@
       "published_at": "2026-03-22T17:45:26+00:00"
     },
     {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "İran’dan ABD’ye Hürmüz uyarısı: Enerji tesislerine saldırı olursa Hürmüz tamamen kapatılacak",
+      "title_tr": "İran’dan ABD’ye Hürmüz uyarısı: Enerji tesislerine saldırı olursa Hürmüz tamamen kapatılacak",
+      "summary": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD Başkanı Donald Trump’ın İran’daki elektrik santrallerine yönelik tehditlerine yanıt vererek, \"ABD’nin İran’daki enerji santrallerine yönelik herhangi bir saldırısı durumunda boğaz tamamen kapatılacak ve tahrip edilen tesisler yeniden inşa edilene kadar açılmayacaktır\" dedi.İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD’nin İran’a yönelik son tehditlerine ilişkin açıklamada bulundu. Zülfikari, ABD Başkanı Donald Trump’ın Hürmüz Boğazı’nın açılmaması halinde İran’daki enerji santrallerini hedef alacaklarına yönelik açıklamalarına yanıt vererek, \"Terörist ABD Başkanı, saldırgan tutumunu sürdürerek ve küresel güvensizliği derinleştirerek, İran Hürmüz Boğazı’nı açmadığı takdirde ülkenin enerji santrallerini hedef alacağı tehdidinde bulunmuştur. Hürmüz Boğazı yalnızca düşman unsurlar ve tehdit oluşturabilecek geçişlere kapalıdır. Boğaz henüz tamamen kapatılmamıştır ve kontrolümüz altındadır. Zararsız geçişler ise belirli kurallar çerçevesinde, güvenliğimiz ve çıkarlarımız gözetilerek sürdürülmektedir. Ancak ABD’nin İran’daki enerji santrallerine yönelik herhangi bir saldırısı durumunda boğaz tamamen kapatılacak ve tahrip edilen tesisler yeniden inşa edilene kadar açılmayacaktır\" ifadelerini kullandı.\n\n\"BÖLGEDE ABD HİSSEDARLARI BULUNAN TÜM DANIŞMANLIK ŞİRKETLERİ TAMAMEN İMHA EDİLECEKTİR\"\n\nZülfikari, muhtemel bir saldırıya verilecek karşılık kapsamında bölgedeki hedefleri de sıralayarak, \"Siyonist rejimin tüm elektrik santralleri, enerji altyapısı ve bilgi teknolojileri geniş çapta hedef alınacaktır. Bölgede ABD hissedarları bulunan tüm danışmanlık şirketleri tamamen imha edilecektir. Ayrıca ABD üslerine ev sahipliği yapan ülkelerdeki enerji santralleri meşru hedef olacaktır\" dedi.\n\n\"BÜYÜK MÜCADELE İÇİN HAZIRIZ\"\n\nZülfikari, \"ABD’nin bölgedeki tüm ekonomik çıkarlarının yok edilmesini hedefleyen büyük bir mücadele için her şey hazırdır. Biz savaşı başlatan taraf olmadık ve şimdi de olmayacağız. Ancak düşmanın enerji santrallerimize zarar vermesi halinde, ülkemizi ve milletimizin çıkarlarını savunmak için gerekli tüm adımları atacağız ve belirtilen hedeflere yönelik kesintisiz imha süreci başlatılacaktır. Hiçbir unsur, ABD ve müttefiklerinin bölgedeki enerji, petrol ve sanayi altyapılarını hedef alan operasyonlarımızın sürdürülmesini engelleyemeyecektir\" ifadelerini kullandı.",
+      "summary_tr": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD Başkanı Donald Trump’ın İran’daki elektrik santrallerine yönelik tehditlerine yanıt vererek, \"ABD’nin İran’daki enerji santrallerine yönelik herhangi bir saldırısı durumunda boğaz tamamen kapatılacak ve tahrip edilen tesisler yeniden inşa edilene kadar açılmayacaktır\" dedi.İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD’nin İran’a yönelik son tehditlerine ilişkin açıklamada bulundu. Zülfikari, ABD Başkanı Donald Trump’ın Hürmüz Boğazı’nın açılmaması halinde İran’daki enerji santrallerini hedef alacaklarına yönelik açıklamalarına yanıt vererek, \"Terörist ABD Başkanı, saldırgan tutumunu sürdürerek ve küresel güvensizliği derinleştirerek, İran Hürmüz Boğazı’nı açmadığı takdirde ülkenin enerji santrallerini hedef alacağı tehdidinde bulunmuştur. Hürmüz Boğazı yalnızca düşman unsurlar ve tehdit oluşturabilecek geçişlere kapalıdır. Boğaz henüz tamamen kapatılmamıştır ve kontrolümüz altındadır. Zararsız geçişler ise belirli kurallar çerçevesinde, güvenliğimiz ve çıkarlarımız gözetilerek sürdürülmektedir. Ancak ABD’nin İran’daki enerji santrallerine yönelik herhangi bir saldırısı durumunda boğaz tamamen kapatılacak ve tahrip edilen tesisler yeniden inşa edilene kadar açılmayacaktır\" ifadelerini kullandı.\n\n\"BÖLGEDE ABD HİSSEDARLARI BULUNAN TÜM DANIŞMANLIK ŞİRKETLERİ TAMAMEN İMHA EDİLECEKTİR\"\n\nZülfikari, muhtemel bir saldırıya verilecek karşılık kapsamında bölgedeki hedefleri de sıralayarak, \"Siyonist rejimin tüm elektrik santralleri, enerji altyapısı ve bilgi teknolojileri geniş çapta hedef alınacaktır. Bölgede ABD hissedarları bulunan tüm danışmanlık şirketleri tamamen imha edilecektir. Ayrıca ABD üslerine ev sahipliği yapan ülkelerdeki enerji santralleri meşru hedef olacaktır\" dedi.\n\n\"BÜYÜK MÜCADELE İÇİN HAZIRIZ\"\n\nZülfikari, \"ABD’nin bölgedeki tüm ekonomik çıkarlarının yok edilmesini hedefleyen büyük bir mücadele için her şey hazırdır. Biz savaşı başlatan taraf olmadık ve şimdi de olmayacağız. Ancak düşmanın enerji santrallerimize zarar vermesi halinde, ülkemizi ve milletimizin çıkarlarını savunmak için gerekli tüm adımları atacağız ve belirtilen hedeflere yönelik kesintisiz imha süreci başlatılacaktır. Hiçbir unsur, ABD ve müttefiklerinin bölgedeki enerji, petrol ve sanayi altyapılarını hedef alan operasyonlarımızın sürdürülmesini engelleyemeyecektir\" ifadelerini kullandı.",
+      "long_summary": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD Başkanı Donald Trump’ın İran’daki elektrik santrallerine yönelik tehditlerine yanıt vererek, \"ABD’nin İran’daki enerji santrallerine yönelik herhangi bir saldırısı durumunda boğaz tamamen kapatılacak ve tahrip edilen tesisler yeniden inşa edilene kadar açılmayacaktır\" dedi.İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD’nin",
+      "long_summary_tr": "İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD Başkanı Donald Trump’ın İran’daki elektrik santrallerine yönelik tehditlerine yanıt vererek, \"ABD’nin İran’daki enerji santrallerine yönelik herhangi bir saldırısı durumunda boğaz tamamen kapatılacak ve tahrip edilen tesisler yeniden inşa edilene kadar açılmayacaktır\" dedi.İran Devrim Muhafızları Ordusu’na (DMO) bağlı Hatemul Enbiya Merkez Karargahı Sözcüsü İbrahim Zülfikari, ABD’nin",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/iran-dan-abd-ye-hurmuz-uyarisi-enerji-tesislerine-saldiri-olursa-hurmuz-tamamen-kapatilacak-1599058",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/iran-dan-abd-ye-hurmuz-uyarisi-enerji-tesislerine-saldiri-olursa-hurmuz-tamamen-kapatilacak-1774207550-497_large.webp",
+      "published_at": "2026-03-22T17:44:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Muş'ta 5 çocuk annesi kadın kocasını bıçaklayarak öldürdü",
+      "title_tr": "Muş'ta 5 çocuk annesi kadın kocasını bıçaklayarak öldürdü",
+      "summary": "Muş'un Hasköy ilçesinde 5 çocuk annesi kadın, kocasını bayram günü bıçaklayarak öldürdü.Alınan bilgilere göre, Düzkışla beldesinde Yeliz B. isimli kadın, kocası Seyithan B.'yi bayram günü bilinmeyen bir sebepten dolayı bıçakladı. Ağır yaralanan şahıs, olay yerine sevk edilen sağlık ekipleri tarafından Muş Devlet Hastanesine kaldırıldı. Yapılan tüm müdahalelere rağmen Seyithan B. kurtarılamayarak hayatını kaybederken, karısı gözaltına alındı. Olayla ilgili soruşturmanın başlatıldığı bildirildi.",
+      "summary_tr": "Muş'un Hasköy ilçesinde 5 çocuk annesi kadın, kocasını bayram günü bıçaklayarak öldürdü.Alınan bilgilere göre, Düzkışla beldesinde Yeliz B. isimli kadın, kocası Seyithan B.'yi bayram günü bilinmeyen bir sebepten dolayı bıçakladı. Ağır yaralanan şahıs, olay yerine sevk edilen sağlık ekipleri tarafından Muş Devlet Hastanesine kaldırıldı. Yapılan tüm müdahalelere rağmen Seyithan B. kurtarılamayarak hayatını kaybederken, karısı gözaltına alındı. Olayla ilgili soruşturmanın başlatıldığı bildirildi.",
+      "long_summary": "Muş'un Hasköy ilçesinde 5 çocuk annesi kadın, kocasını bayram günü bıçaklayarak öldürdü.Alınan bilgilere göre, Düzkışla beldesinde Yeliz B. isimli kadın, kocası Seyithan B.'yi bayram günü bilinmeyen bir sebepten dolayı bıçakladı. Ağır yaralanan şahıs, olay yerine sevk edilen sağlık ekipleri tarafından Muş Devlet Hastanesine kaldırıldı. Yapılan tüm müdahalelere rağmen Seyithan B. kurtarılamayarak hayatını kaybederken, karısı gözaltına alındı. Olayla ilgili soruşturmanın başlatıldığı bildirildi.",
+      "long_summary_tr": "Muş'un Hasköy ilçesinde 5 çocuk annesi kadın, kocasını bayram günü bıçaklayarak öldürdü.Alınan bilgilere göre, Düzkışla beldesinde Yeliz B. isimli kadın, kocası Seyithan B.'yi bayram günü bilinmeyen bir sebepten dolayı bıçakladı. Ağır yaralanan şahıs, olay yerine sevk edilen sağlık ekipleri tarafından Muş Devlet Hastanesine kaldırıldı. Yapılan tüm müdahalelere rağmen Seyithan B. kurtarılamayarak hayatını kaybederken, karısı gözaltına alındı. Olayla ilgili soruşturmanın başlatıldığı bildirildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/mus-ta-5-cocuk-annesi-kadin-kocasini-bicaklayarak-oldurdu-1599056",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/mus-ta-5-cocuk-annesi-kadin-kocasini-bicaklayarak-oldurdu-1774207467-949_large.webp",
+      "published_at": "2026-03-22T17:39:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Şanlıurfa'da sağanak yağış sele dönüştü: Ev ve oteli su bastı",
+      "title_tr": "Şanlıurfa'da sağanak yağış sele dönüştü: Ev ve oteli su bastı",
+      "summary": "Şanlıurfa'da etkili olan sağanak kent merkezi ve ilçelerinde hayatı olumsuz etkiledi. Bir ev ve oteli su bastı.Kentte dün akşam saatlerinde başlayan ve etkisini artıran sağanak yaşamı olumsuz etkiledi. Bazı cadde ve sokaklarda su birikintileri oluştu. Eyyübiye ilçesine bağlı Selçuklu Mahallesi'nde bir evi sel suları bastı, Balıklıgöl bölgesinde de bir otel sel sularına teslim oldu.\n\nYağışların ardından belediye ve ilgili ekipler, su tahliye ve temizlik çalışmalarına başlattı.",
+      "summary_tr": "Şanlıurfa'da etkili olan sağanak kent merkezi ve ilçelerinde hayatı olumsuz etkiledi. Bir ev ve oteli su bastı.Kentte dün akşam saatlerinde başlayan ve etkisini artıran sağanak yaşamı olumsuz etkiledi. Bazı cadde ve sokaklarda su birikintileri oluştu. Eyyübiye ilçesine bağlı Selçuklu Mahallesi'nde bir evi sel suları bastı, Balıklıgöl bölgesinde de bir otel sel sularına teslim oldu.\n\nYağışların ardından belediye ve ilgili ekipler, su tahliye ve temizlik çalışmalarına başlattı.",
+      "long_summary": "Şanlıurfa'da etkili olan sağanak kent merkezi ve ilçelerinde hayatı olumsuz etkiledi. Bir ev ve oteli su bastı.Kentte dün akşam saatlerinde başlayan ve etkisini artıran sağanak yaşamı olumsuz etkiledi. Bazı cadde ve sokaklarda su birikintileri oluştu. Eyyübiye ilçesine bağlı Selçuklu Mahallesi'nde bir evi sel suları bastı, Balıklıgöl bölgesinde de bir otel sel sularına teslim oldu.\n\nYağışların ardından belediye ve ilgili ekipler, su tahliye ve temizlik çalışmalarına başlattı.",
+      "long_summary_tr": "Şanlıurfa'da etkili olan sağanak kent merkezi ve ilçelerinde hayatı olumsuz etkiledi. Bir ev ve oteli su bastı.Kentte dün akşam saatlerinde başlayan ve etkisini artıran sağanak yaşamı olumsuz etkiledi. Bazı cadde ve sokaklarda su birikintileri oluştu. Eyyübiye ilçesine bağlı Selçuklu Mahallesi'nde bir evi sel suları bastı, Balıklıgöl bölgesinde de bir otel sel sularına teslim oldu.\n\nYağışların ardından belediye ve ilgili ekipler, su tahliye ve temizlik çalışmalarına başlattı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/sanliurfa-da-saganak-yagis-sele-donustu-ev-ve-oteli-su-basti-1599054",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/sanliurfa-da-saganak-yagis-sele-donustu-ev-ve-oteli-su-basti-1774207415-960_large.webp",
+      "published_at": "2026-03-22T17:37:00+00:00"
+    },
+    {
       "origin": "yabanci",
       "category": "Dünya",
       "category_slug": "dunya",
@@ -440,6 +880,28 @@
       "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c825/live/d7fc6990-25c3-11f1-b1ce-2dccb029f244.jpg",
       "published_at": "2026-03-22T17:35:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Osmaniye'de 500 bin lira değerinde altın ve para çalan şüpheli, gizlendiği dolapta yakalandı",
+      "title_tr": "Osmaniye'de 500 bin lira değerinde altın ve para çalan şüpheli, gizlendiği dolapta yakalandı",
+      "summary": "Adana'da bir eve girerek yaklaşık 500 bin TL değerinde altın ve nakit para çalan, hırsızlıktan da 83 suç kaydı bulunan şüpheli Y.U. (34), Osmaniye’de saklandığı evde dolapta gizlenirken yakalandı.19 Mart’ta Adana'da bir evden 15 çeyrek altın, 5 tam altın, 6 gram altın, 3 altın yüzük ile 100 bin TL çalınasının ardından başlatılan soruşturmada şüphelinin Y.U. isimli kadın olduğu tespit edildi. Şüphelinin Osmaniye'de saklandığını belirleyen ekipler, harekete geçti. Polisin operasyonunda, hırsızlıktan 83 suç kaydı bulunan şüpheli, saklandığı evdeki dolapta gizlenirken yakalandı. Şüpheli, gözaltına alındığı sırada kendisini yakalayan polislere “Hah ne oldu? Maşallah. Terörist mi yakaladınız?ö diye bağırdı. Adana İl Emniyet Müdürlüğü ekiplerine teslim edilen şüpheli, işlemlerinin ardından adliyeye sevk edildi. Hakim karşısına çıkan Y.U., tutuklandı.",
+      "summary_tr": "Adana'da bir eve girerek yaklaşık 500 bin TL değerinde altın ve nakit para çalan, hırsızlıktan da 83 suç kaydı bulunan şüpheli Y.U. (34), Osmaniye’de saklandığı evde dolapta gizlenirken yakalandı.19 Mart’ta Adana'da bir evden 15 çeyrek altın, 5 tam altın, 6 gram altın, 3 altın yüzük ile 100 bin TL çalınasının ardından başlatılan soruşturmada şüphelinin Y.U. isimli kadın olduğu tespit edildi. Şüphelinin Osmaniye'de saklandığını belirleyen ekipler, harekete geçti. Polisin operasyonunda, hırsızlıktan 83 suç kaydı bulunan şüpheli, saklandığı evdeki dolapta gizlenirken yakalandı. Şüpheli, gözaltına alındığı sırada kendisini yakalayan polislere “Hah ne oldu? Maşallah. Terörist mi yakaladınız?ö diye bağırdı. Adana İl Emniyet Müdürlüğü ekiplerine teslim edilen şüpheli, işlemlerinin ardından adliyeye sevk edildi. Hakim karşısına çıkan Y.U., tutuklandı.",
+      "long_summary": "Adana'da bir eve girerek yaklaşık 500 bin TL değerinde altın ve nakit para çalan, hırsızlıktan da 83 suç kaydı bulunan şüpheli Y.U. (34), Osmaniye’de saklandığı evde dolapta gizlenirken yakalandı.19 Mart’ta Adana'da bir evden 15 çeyrek altın, 5 tam altın, 6 gram altın, 3 altın yüzük ile 100 bin TL çalınasının ardından başlatılan soruşturmada şüphelinin Y.U. isimli kadın olduğu tespit edildi. Şüphelinin Osmaniye'de saklandığını belirleyen ekipler, harekete geçti. Polisin operasyonunda,",
+      "long_summary_tr": "Adana'da bir eve girerek yaklaşık 500 bin TL değerinde altın ve nakit para çalan, hırsızlıktan da 83 suç kaydı bulunan şüpheli Y.U. (34), Osmaniye’de saklandığı evde dolapta gizlenirken yakalandı.19 Mart’ta Adana'da bir evden 15 çeyrek altın, 5 tam altın, 6 gram altın, 3 altın yüzük ile 100 bin TL çalınasının ardından başlatılan soruşturmada şüphelinin Y.U. isimli kadın olduğu tespit edildi. Şüphelinin Osmaniye'de saklandığını belirleyen ekipler, harekete geçti. Polisin operasyonunda,",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/osmaniye-de-500-bin-lira-degerinde-altin-ve-para-calan-supheli-gizlendigi-dolapta-yakalandi-1599052",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/osmaniye-de-500-bin-lira-degerinde-altin-ve-para-calan-supheli-gizlendigi-dolapta-yakalandi-1774207373-718_large.webp",
+      "published_at": "2026-03-22T17:34:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -486,6 +948,28 @@
       "published_at": "2026-03-22T17:33:05+00:00"
     },
     {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bolu'da halı sahada kalp krizi geçirip, yaşamını yitirdi",
+      "title_tr": "Bolu'da halı sahada kalp krizi geçirip, yaşamını yitirdi",
+      "summary": "Bolu'da , gece oynanan halı saha maçında kalp krizi geçiren Ahmet Bilal Güler (39), hayatını kaybetti. Güler'in kalp krizi geçirdiği anlar, halı sahanın güvenlik kamerasına yansıdı.Olay, saat 01.00 sıralarında şehir merkezinde bulunan bir halı sahada meydana geldi. Gece yarısı başlayan halı saha maçının son dakikalarında Ahmet Bilal Güler, rahatsızlandı. Maçtaki arkadaşlarının ihbarı üzerine halı sahaya sağlık ekipleri sevk edildi. Kalp krizi geçirdiği anlaşılan Güler, İzzet Baysal Eğitim ve Araştırma Hastanesi’ne kaldırıldı. Güler, doktorların tüm müdahalelerine rağmen kurtarılamadı. Güler’in kalp krizi geçirdiği anlar, halı sahanın güvenlik kamerasına yansıdı.",
+      "summary_tr": "Bolu'da , gece oynanan halı saha maçında kalp krizi geçiren Ahmet Bilal Güler (39), hayatını kaybetti. Güler'in kalp krizi geçirdiği anlar, halı sahanın güvenlik kamerasına yansıdı.Olay, saat 01.00 sıralarında şehir merkezinde bulunan bir halı sahada meydana geldi. Gece yarısı başlayan halı saha maçının son dakikalarında Ahmet Bilal Güler, rahatsızlandı. Maçtaki arkadaşlarının ihbarı üzerine halı sahaya sağlık ekipleri sevk edildi. Kalp krizi geçirdiği anlaşılan Güler, İzzet Baysal Eğitim ve Araştırma Hastanesi’ne kaldırıldı. Güler, doktorların tüm müdahalelerine rağmen kurtarılamadı. Güler’in kalp krizi geçirdiği anlar, halı sahanın güvenlik kamerasına yansıdı.",
+      "long_summary": "Bolu'da , gece oynanan halı saha maçında kalp krizi geçiren Ahmet Bilal Güler (39), hayatını kaybetti. Güler'in kalp krizi geçirdiği anlar, halı sahanın güvenlik kamerasına yansıdı.Olay, saat 01.00 sıralarında şehir merkezinde bulunan bir halı sahada meydana geldi. Gece yarısı başlayan halı saha maçının son dakikalarında Ahmet Bilal Güler, rahatsızlandı. Maçtaki arkadaşlarının ihbarı üzerine halı sahaya sağlık ekipleri sevk edildi. Kalp krizi geçirdiği anlaşılan Güler, İzzet Baysal Eğitim ve",
+      "long_summary_tr": "Bolu'da , gece oynanan halı saha maçında kalp krizi geçiren Ahmet Bilal Güler (39), hayatını kaybetti. Güler'in kalp krizi geçirdiği anlar, halı sahanın güvenlik kamerasına yansıdı.Olay, saat 01.00 sıralarında şehir merkezinde bulunan bir halı sahada meydana geldi. Gece yarısı başlayan halı saha maçının son dakikalarında Ahmet Bilal Güler, rahatsızlandı. Maçtaki arkadaşlarının ihbarı üzerine halı sahaya sağlık ekipleri sevk edildi. Kalp krizi geçirdiği anlaşılan Güler, İzzet Baysal Eğitim ve",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/bolu-da-hali-sahada-kalp-krizi-gecirip-yasamini-yitirdi-1599050",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/bolu-da-hali-sahada-kalp-krizi-gecirip-yasamini-yitirdi-1774207308-934_large.webp",
+      "published_at": "2026-03-22T17:28:00+00:00"
+    },
+    {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
@@ -530,6 +1014,50 @@
       "published_at": "2026-03-22T17:25:24+00:00"
     },
     {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Kayseri’de kurye, sipariş getirdiği binaya idrarını yaptı",
+      "title_tr": "Kayseri’de kurye, sipariş getirdiği binaya idrarını yaptı",
+      "summary": "Kayseri'nin Kocasinan ilçesinde bir kurye, sipariş getirdiği binadan ayrılırken merdiven dairesine idrarını yaptı. O anlar kameraya yansıdı.Koasinan ilçesi Mevlana Mahallesi’nde bir kurye, sipariş teslim etmek için binaya gitti. Siparişi teslim eden kurye, binanın merdiven dairesindeki duvara idrarını yaptı. O anlar güvenlik kamerasına yansıdı. Kamera kaydında, siparişini teslim eden kuryenin, ayrılmadan önce merdiven dairesinin duvarına idrarını yaptığı ve sonrasında binadan ayrıldığı görüldü.",
+      "summary_tr": "Kayseri'nin Kocasinan ilçesinde bir kurye, sipariş getirdiği binadan ayrılırken merdiven dairesine idrarını yaptı. O anlar kameraya yansıdı.Koasinan ilçesi Mevlana Mahallesi’nde bir kurye, sipariş teslim etmek için binaya gitti. Siparişi teslim eden kurye, binanın merdiven dairesindeki duvara idrarını yaptı. O anlar güvenlik kamerasına yansıdı. Kamera kaydında, siparişini teslim eden kuryenin, ayrılmadan önce merdiven dairesinin duvarına idrarını yaptığı ve sonrasında binadan ayrıldığı görüldü.",
+      "long_summary": "Kayseri'nin Kocasinan ilçesinde bir kurye, sipariş getirdiği binadan ayrılırken merdiven dairesine idrarını yaptı. O anlar kameraya yansıdı.Koasinan ilçesi Mevlana Mahallesi’nde bir kurye, sipariş teslim etmek için binaya gitti. Siparişi teslim eden kurye, binanın merdiven dairesindeki duvara idrarını yaptı. O anlar güvenlik kamerasına yansıdı. Kamera kaydında, siparişini teslim eden kuryenin, ayrılmadan önce merdiven dairesinin duvarına idrarını yaptığı ve sonrasında binadan ayrıldığı görüldü.",
+      "long_summary_tr": "Kayseri'nin Kocasinan ilçesinde bir kurye, sipariş getirdiği binadan ayrılırken merdiven dairesine idrarını yaptı. O anlar kameraya yansıdı.Koasinan ilçesi Mevlana Mahallesi’nde bir kurye, sipariş teslim etmek için binaya gitti. Siparişi teslim eden kurye, binanın merdiven dairesindeki duvara idrarını yaptı. O anlar güvenlik kamerasına yansıdı. Kamera kaydında, siparişini teslim eden kuryenin, ayrılmadan önce merdiven dairesinin duvarına idrarını yaptığı ve sonrasında binadan ayrıldığı görüldü.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/kayseri-de-kurye-siparis-getirdigi-binaya-idrarini-yapti-1599048",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/kayseri-de-kurye-siparis-getirdigi-binaya-idrarini-yapti-1774207245-599_large.webp",
+      "published_at": "2026-03-22T17:23:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa Büyükşehir Belediyespor yarı final kapısını araladı!",
+      "title_tr": "Bursa Büyükşehir Belediyespor yarı final kapısını araladı!",
+      "summary": "Bursa Büyükşehir Belediyespor Kadın Hentbol Takımı, EHF Kadınlar Avrupa Kupası çeyrek final ilk maçında Yunanistan'ın A.C. PAOK Takımı'nı 36-30 mağlup etti ve yarı final kapısını araladı.Bu sezon ligde normal sezonu lider bitiren, play-off etabında da zirvedeki yerini koruyan Büyükşehir Belediyespor, Avrupa'da da yarı final yolunda avantajlı bir konumda olabilmek için Üçevler Spor Salonu'nda sahaya çıktı.\n\nKupada daha önce Yunanistan ekibi AEK, İspanya temsilcisi Beti-Onak'ı saf dışı bırakan Belediyespor, PAOK karşısında maça tutuk başladı.\n\nKarşılaşmanın 5. dakikasını 5-2 geride geçen Belediyespor hentbol takımı, çabuk toparlandı ve 10. dakikada skora denge getirdi (5-5). Mücadelenin 13. dakikasında 8-7'lik skorla maçta ilk kez öne geçen Belediyespor, 20. dakikada skoru 13-10 yaptı. İlerleyen bölümde farkı açan Bursa Büyükşehir Belediyespor, ikinci yarıya ise 19-14 önde girdi.\n\nKarşılaşmanın ikinci devresine etkili başlayan Belediyespor hentbol takımı, 35. dakikada farkı 6 sayıya (21-15) çıkardı. Mücadelenin 45. dakikasını da 28-21 önde geçen Büyükşehir Belediyespor, kalan bölümde farkın erimesine izin vermedi. Son 5 dakikasına 32-27 önde girdiği karşılaşmadan da 36-30 galip ayrılan Bursa Büyükşehir Belediyespor, tur için avantaj elde etti.\n\nKarşılaşmanın rövanşı 28 Mart Cumartesi günü Yunanistan'da oynanacak. Bursa Büyükşehir Belediyespor, rövanş maçını kazanması ya da 5 farkla kaybetmesi halinde bile adını yarı finale yazdıracak.\n\nSALON: Üçevler\n\nHAKEMLER: Jovana Dasic, Charlotte Husomanovic (Norveç)\n\nBURSA BÜYÜKŞEHİR BELEDİYESPOR: Sevilay İmamoğlu Öcal, Beyzanur Türkyılmaz 4, Cansu Akalın 3, Yağmur Aktay, Alena Ikhneva 7, Agni Zygoura 1, Joana Fortuna da Costa 4, Sibel Gündoğdu, Emine Gökdemir 1, Yeliz Özel 6, Büşra Işıkhan 2, Farancisca Joao Araujo 4, Zeynepnur Kendirci 4, Yaren Berfe Eren\n\nA.C. PAOK: Tsiknaki, Trochidou 1, Mentesidou 3, Gkatziou 3, Andritsou 9, Premovic 5, Milojevic 1, Grbavcevic 4, Olszowa, Burattoi, Mendes, Koulouri 2, Kerlidi 2\n\nDEVRE: 19-14\n\nİKİ DAKİKA CEZALARI: Cansu Akalın, Beyzanur Türkyılmaz, Emine Gökdemir (Bursa Büyükşehir Belediyespor), Grbavcevic, Premovic, Mentesidou, Kerlidi (A.C. PAOK)",
+      "summary_tr": "Bursa Büyükşehir Belediyespor Kadın Hentbol Takımı, EHF Kadınlar Avrupa Kupası çeyrek final ilk maçında Yunanistan'ın A.C. PAOK Takımı'nı 36-30 mağlup etti ve yarı final kapısını araladı.Bu sezon ligde normal sezonu lider bitiren, play-off etabında da zirvedeki yerini koruyan Büyükşehir Belediyespor, Avrupa'da da yarı final yolunda avantajlı bir konumda olabilmek için Üçevler Spor Salonu'nda sahaya çıktı.\n\nKupada daha önce Yunanistan ekibi AEK, İspanya temsilcisi Beti-Onak'ı saf dışı bırakan Belediyespor, PAOK karşısında maça tutuk başladı.\n\nKarşılaşmanın 5. dakikasını 5-2 geride geçen Belediyespor hentbol takımı, çabuk toparlandı ve 10. dakikada skora denge getirdi (5-5). Mücadelenin 13. dakikasında 8-7'lik skorla maçta ilk kez öne geçen Belediyespor, 20. dakikada skoru 13-10 yaptı. İlerleyen bölümde farkı açan Bursa Büyükşehir Belediyespor, ikinci yarıya ise 19-14 önde girdi.\n\nKarşılaşmanın ikinci devresine etkili başlayan Belediyespor hentbol takımı, 35. dakikada farkı 6 sayıya (21-15) çıkardı. Mücadelenin 45. dakikasını da 28-21 önde geçen Büyükşehir Belediyespor, kalan bölümde farkın erimesine izin vermedi. Son 5 dakikasına 32-27 önde girdiği karşılaşmadan da 36-30 galip ayrılan Bursa Büyükşehir Belediyespor, tur için avantaj elde etti.\n\nKarşılaşmanın rövanşı 28 Mart Cumartesi günü Yunanistan'da oynanacak. Bursa Büyükşehir Belediyespor, rövanş maçını kazanması ya da 5 farkla kaybetmesi halinde bile adını yarı finale yazdıracak.\n\nSALON: Üçevler\n\nHAKEMLER: Jovana Dasic, Charlotte Husomanovic (Norveç)\n\nBURSA BÜYÜKŞEHİR BELEDİYESPOR: Sevilay İmamoğlu Öcal, Beyzanur Türkyılmaz 4, Cansu Akalın 3, Yağmur Aktay, Alena Ikhneva 7, Agni Zygoura 1, Joana Fortuna da Costa 4, Sibel Gündoğdu, Emine Gökdemir 1, Yeliz Özel 6, Büşra Işıkhan 2, Farancisca Joao Araujo 4, Zeynepnur Kendirci 4, Yaren Berfe Eren\n\nA.C. PAOK: Tsiknaki, Trochidou 1, Mentesidou 3, Gkatziou 3, Andritsou 9, Premovic 5, Milojevic 1, Grbavcevic 4, Olszowa, Burattoi, Mendes, Koulouri 2, Kerlidi 2\n\nDEVRE: 19-14\n\nİKİ DAKİKA CEZALARI: Cansu Akalın, Beyzanur Türkyılmaz, Emine Gökdemir (Bursa Büyükşehir Belediyespor), Grbavcevic, Premovic, Mentesidou, Kerlidi (A.C. PAOK)",
+      "long_summary": "Bursa Büyükşehir Belediyespor Kadın Hentbol Takımı, EHF Kadınlar Avrupa Kupası çeyrek final ilk maçında Yunanistan'ın A.C. PAOK Takımı'nı 36-30 mağlup etti ve yarı final kapısını araladı.Bu sezon ligde normal sezonu lider bitiren, play-off etabında da zirvedeki yerini koruyan Büyükşehir Belediyespor, Avrupa'da da yarı final yolunda avantajlı bir konumda olabilmek için Üçevler Spor Salonu'nda sahaya çıktı.\n\nKupada daha önce Yunanistan ekibi AEK, İspanya temsilcisi Beti-Onak'ı saf dışı bırakan",
+      "long_summary_tr": "Bursa Büyükşehir Belediyespor Kadın Hentbol Takımı, EHF Kadınlar Avrupa Kupası çeyrek final ilk maçında Yunanistan'ın A.C. PAOK Takımı'nı 36-30 mağlup etti ve yarı final kapısını araladı.Bu sezon ligde normal sezonu lider bitiren, play-off etabında da zirvedeki yerini koruyan Büyükşehir Belediyespor, Avrupa'da da yarı final yolunda avantajlı bir konumda olabilmek için Üçevler Spor Salonu'nda sahaya çıktı.\n\nKupada daha önce Yunanistan ekibi AEK, İspanya temsilcisi Beti-Onak'ı saf dışı bırakan",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa-da-spor/bursa-buyuksehir-belediyespor-yari-final-kapisini-araladi-1599046",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/bursa-buyuksehir-belediyespor-yari-final-kapisini-araladi-1774206511-178_large.webp",
+      "published_at": "2026-03-22T17:19:00+00:00"
+    },
+    {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
@@ -552,554 +1080,26 @@
       "published_at": "2026-03-22T17:18:00+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Leicester take crucial win over Bristol to move up to third",
-      "title_tr": "Leicester take crucial win over Bristol to move up to third",
-      "summary": "Leicester took a huge step towards securing an end-of-season play-off spot with a hard-fought 33-19 victory over Bristol in an exciting Gallagher Prem contest.",
-      "summary_tr": "Leicester took a huge step towards securing an end-of-season play-off spot with a hard-fought 33-19 victory over Bristol in an exciting Gallagher Prem contest.",
-      "long_summary": "Leicester took a huge step towards securing an end-of-season play-off spot with a hard-fought 33-19 victory over Bristol in an exciting Gallagher Prem contest.",
-      "long_summary_tr": "Leicester took a huge step towards securing an end-of-season play-off spot with a hard-fought 33-19 victory over Bristol in an exciting Gallagher Prem contest.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-union/leicester-vs-bristol/report/111277",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-leicester-tigers_7200269.jpg?20260322174340",
-      "published_at": "2026-03-22T17:09:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "New low for 'pathetic' Newcastle - as Sunderland in dreamland",
-      "title_tr": "New low for 'pathetic' Newcastle - as Sunderland in dreamland",
-      "summary": "From mocking and celebration to despair and disbelief - Newcastle fans go through every emotion as their poor Tyne-Wear derby record continues.",
-      "summary_tr": "From mocking and celebration to despair and disbelief - Newcastle fans go through every emotion as their poor Tyne-Wear derby record continues.",
-      "long_summary": "From mocking and celebration to despair and disbelief - Newcastle fans go through every emotion as their poor Tyne-Wear derby record continues.",
-      "long_summary_tr": "From mocking and celebration to despair and disbelief - Newcastle fans go through every emotion as their poor Tyne-Wear derby record continues.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cd6lqdqjlwzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5308/live/86459650-2607-11f1-923d-33b1d8abc261.jpg",
-      "published_at": "2026-03-22T17:08:28+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "A Complete Timeline of Zendaya and Tom Holland’s Romantic Relationship",
-      "title_tr": "A Complete Timeline of Zendaya and Tom Holland’s Romantic Relationship",
-      "summary": "A Complete Timeline of Zendaya and Tom Holland’s Romantic Relationship",
-      "summary_tr": "A Complete Timeline of Zendaya and Tom Holland’s Romantic Relationship",
-      "long_summary": "A Complete Timeline of Zendaya and Tom Holland’s Romantic Relationship",
-      "long_summary_tr": "A Complete Timeline of Zendaya and Tom Holland’s Romantic Relationship",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a38545313/zendaya-tom-holland-full-relationship-timeline/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2180907730-671bab013168a.jpg",
-      "published_at": "2026-03-22T17:08:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Leicester relegation fears grow as Villa battle back to win",
-      "title_tr": "Leicester relegation fears grow as Villa battle back to win",
-      "summary": "Leicester City remain at the bottom of the WSL table after Aston Villa mount  a come back from one goal down to win 2-1 at King Power Stadium.",
-      "summary_tr": "Leicester City remain at the bottom of the WSL table after Aston Villa mount  a come back from one goal down to win 2-1 at King Power Stadium.",
-      "long_summary": "Leicester City remain at the bottom of the WSL table after Aston Villa mount  a come back from one goal down to win 2-1 at King Power Stadium.",
-      "long_summary_tr": "Leicester City remain at the bottom of the WSL table after Aston Villa mount  a come back from one goal down to win 2-1 at King Power Stadium.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/c4g64nz2666o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f614/live/9560e930-260e-11f1-b297-95b0a0a8331e.jpg",
-      "published_at": "2026-03-22T17:07:17+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'He's a fighter' - Emery backs Watkins after England omission",
-      "title_tr": "'He's a fighter' - Emery backs Watkins after England omission",
-      "summary": "Aston Villa manager Unai Emery has high praise for goalscorer Ollie Watkins, who was left out of Thomas Tuchel's England squad this week, as they beat West Ham 2-0.",
-      "summary_tr": "Aston Villa manager Unai Emery has high praise for goalscorer Ollie Watkins, who was left out of Thomas Tuchel's England squad this week, as they beat West Ham 2-0.",
-      "long_summary": "Aston Villa manager Unai Emery has high praise for goalscorer Ollie Watkins, who was left out of Thomas Tuchel's England squad this week, as they beat West Ham 2-0.",
-      "long_summary_tr": "Aston Villa manager Unai Emery has high praise for goalscorer Ollie Watkins, who was left out of Thomas Tuchel's England squad this week, as they beat West Ham 2-0.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/cql73peld0no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04c2/live/e32e8e00-260f-11f1-934f-036468834728.jpg",
-      "published_at": "2026-03-22T17:03:35+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Shocking stats, surprise subs and ‘seven finals’ – Spurs’ crisis deepens",
-      "title_tr": "Shocking stats, surprise subs and ‘seven finals’ – Spurs’ crisis deepens",
-      "summary": "It was billed as the biggest game of their season - and Spurs were beaten 3-0. Their Premier League relegation fears are real.",
-      "summary_tr": "It was billed as the biggest game of their season - and Spurs were beaten 3-0. Their Premier League relegation fears are real.",
-      "long_summary": "It was billed as the biggest game of their season - and Spurs were beaten 3-0. Their Premier League relegation fears are real.",
-      "long_summary_tr": "It was billed as the biggest game of their season - and Spurs were beaten 3-0. Their Premier League relegation fears are real.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13523029/tottenhams-premier-league-relegation-fears-deepen-shocking-stats-surprise-subs-and-seven-finals-in-focus",
-      "image": "https://e2.365dm.com/26/03/1920x1080/skysports-richarlison-tottenham_7200280.jpg?20260322175451",
-      "published_at": "2026-03-22T17:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "OpenAI Çalışan Sayısını İkiye Katlıyor!",
-      "title_tr": "OpenAI Çalışan Sayısını İkiye Katlıyor!",
-      "summary": "Teknoloji dünyasında birçok şirket peş peşe çalışanlarını işten çıkarırken, ChatGPT’nin geliştiricisi OpenAI tam tersi yönde, agresif bir büyüme stratejisi izliyor. Financial Times’ın yayımladığı güncel rapora göre yapay zeka devi, 2026 yılının sonuna kadar çalışan sayısını 8.000’e çıkarmayı planlıyor. Şirketin şu anki mevcut çalışan sayısı ise 4.500 seviyesinde bulunuyor. Xbox Project Helix Sızdırıldı! Sızdırılan Xbox Project […]",
-      "summary_tr": "Teknoloji dünyasında birçok şirket peş peşe çalışanlarını işten çıkarırken, ChatGPT’nin geliştiricisi OpenAI tam tersi yönde, agresif bir büyüme stratejisi izliyor. Financial Times’ın yayımladığı güncel rapora göre yapay zeka devi, 2026 yılının sonuna kadar çalışan sayısını 8.000’e çıkarmayı planlıyor. Şirketin şu anki mevcut çalışan sayısı ise 4.500 seviyesinde bulunuyor. Xbox Project Helix Sızdırıldı! Sızdırılan Xbox Project […]",
-      "long_summary": "Teknoloji dünyasında birçok şirket peş peşe çalışanlarını işten çıkarırken, ChatGPT’nin geliştiricisi OpenAI tam tersi yönde, agresif bir büyüme stratejisi izliyor. Financial Times’ın yayımladığı güncel rapora göre yapay zeka devi, 2026 yılının sonuna kadar çalışan sayısını 8.000’e çıkarmayı planlıyor. Şirketin şu anki mevcut çalışan sayısı ise 4.500 seviyesinde bulunuyor. Xbox Project Helix Sızdırıldı! Sızdırılan Xbox Project […]",
-      "long_summary_tr": "Teknoloji dünyasında birçok şirket peş peşe çalışanlarını işten çıkarırken, ChatGPT’nin geliştiricisi OpenAI tam tersi yönde, agresif bir büyüme stratejisi izliyor. Financial Times’ın yayımladığı güncel rapora göre yapay zeka devi, 2026 yılının sonuna kadar çalışan sayısını 8.000’e çıkarmayı planlıyor. Şirketin şu anki mevcut çalışan sayısı ise 4.500 seviyesinde bulunuyor. Xbox Project Helix Sızdırıldı! Sızdırılan Xbox Project […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/openai-calisan-sayisini-ikiye-katliyor",
-      "image": null,
-      "published_at": "2026-03-22T17:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "4 myths about backyard birds, debunked",
-      "title_tr": "4 myths about backyard birds, debunked",
-      "summary": "Don't worry, rice doesn't make birds explode.\nThe post 4 myths about backyard birds, debunked appeared first on Popular Science.",
-      "summary_tr": "Don't worry, rice doesn't make birds explode.\nThe post 4 myths about backyard birds, debunked appeared first on Popular Science.",
-      "long_summary": "Don't worry, rice doesn't make birds explode.\nThe post 4 myths about backyard birds, debunked appeared first on Popular Science.",
-      "long_summary_tr": "Don't worry, rice doesn't make birds explode.\nThe post 4 myths about backyard birds, debunked appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/backyard-birds-myths/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/03/backyard_birds.jpg?quality=85",
-      "published_at": "2026-03-22T17:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Audi’den bir ilk: Yeni modelin ilk lansmanı ABD'de yapılacak!",
-      "title_tr": "Audi’den bir ilk: Yeni modelin ilk lansmanı ABD'de yapılacak!",
-      "summary": "Q9 bu yılın sonlarına doğru satışa çıktığında, ilk olarak ABD'deki müşterilere sunulacak.",
-      "summary_tr": "Q9 bu yılın sonlarına doğru satışa çıktığında, ilk olarak ABD'deki müşterilere sunulacak.",
-      "long_summary": "Q9 bu yılın sonlarına doğru satışa çıktığında, ilk olarak ABD'deki müşterilere sunulacak.",
-      "long_summary_tr": "Q9 bu yılın sonlarına doğru satışa çıktığında, ilk olarak ABD'deki müşterilere sunulacak.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/790739/audi-q9-ilk-abd/",
-      "image": "https://cdn.motor1.com/images/mgl/9mpw7G/s3/audi-q9-2026-il-render-di-motr1.com.jpg",
-      "published_at": "2026-03-22T17:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "National blackout hits Cuba for second time in a week",
-      "title_tr": "National blackout hits Cuba for second time in a week",
-      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "summary_tr": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "long_summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "long_summary_tr": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f79/live/464c5270-257e-11f1-a79a-77e93010d956.jpg",
-      "published_at": "2026-03-22T16:59:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Pezeşkiyan'dan Trump'a sert tepki: Tehditler İran’ı daha da birleştirir",
-      "title_tr": "Pezeşkiyan'dan Trump'a sert tepki: Tehditler İran’ı daha da birleştirir",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump&#039;ın &quot;İran&#039;ı haritadan silme&quot; açıklamasını, &quot;tarih yazan bir milletin iradesi karşısında düşmanın çaresizliğini ve acizliğini gösteren bir yanılsama olarak&quot; nitelendirdi.",
-      "summary_tr": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump&#039;ın &quot;İran&#039;ı haritadan silme&quot; açıklamasını, &quot;tarih yazan bir milletin iradesi karşısında düşmanın çaresizliğini ve acizliğini gösteren bir yanılsama olarak&quot; nitelendirdi.",
-      "long_summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump&#039;ın &quot;İran&#039;ı haritadan silme&quot; açıklamasını, &quot;tarih yazan bir milletin iradesi karşısında düşmanın çaresizliğini ve acizliğini gösteren bir yanılsama olarak&quot; nitelendirdi.",
-      "long_summary_tr": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD Başkanı Donald Trump&#039;ın &quot;İran&#039;ı haritadan silme&quot; açıklamasını, &quot;tarih yazan bir milletin iradesi karşısında düşmanın çaresizliğini ve acizliğini gösteren bir yanılsama olarak&quot; nitelendirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/pezeskiyandan-trumpa-sert-tepki-tehditler-irani-daha-da-birlestirir-haberi-819100",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/t1-ptrc_cover.jpg",
-      "published_at": "2026-03-22T16:49:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD, İran'ın \"F-15 düşürdük\" iddialarını yalanladı",
-      "title_tr": "ABD, İran'ın \"F-15 düşürdük\" iddialarını yalanladı",
-      "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran&#039;ın &quot;ABD&#039;ye ait bir F-15 savaş uçağını düşürdük&quot; yönündeki iddiasını reddettiklerini belirtti.",
-      "summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran&#039;ın &quot;ABD&#039;ye ait bir F-15 savaş uçağını düşürdük&quot; yönündeki iddiasını reddettiklerini belirtti.",
-      "long_summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran&#039;ın &quot;ABD&#039;ye ait bir F-15 savaş uçağını düşürdük&quot; yönündeki iddiasını reddettiklerini belirtti.",
-      "long_summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran&#039;ın &quot;ABD&#039;ye ait bir F-15 savaş uçağını düşürdük&quot; yönündeki iddiasını reddettiklerini belirtti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/abd-iranin-f-15-dusurduk-iddialarini-yalanladi-haberi-819099",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/22/s1-lmfy_cover.jpg",
-      "published_at": "2026-03-22T16:36:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Fidan'dan yoğun telefon görüşmesi",
-      "title_tr": "Fidan'dan yoğun telefon görüşmesi",
-      "summary": "Dışişleri Bakanı Hakan Fidan, İran'da süren savaş ile ilgili telefon görüşmeleri gerçekleştirdi.",
-      "summary_tr": "Dışişleri Bakanı Hakan Fidan, İran'da süren savaş ile ilgili telefon görüşmeleri gerçekleştirdi.",
-      "long_summary": "Dışişleri Bakanı Hakan Fidan, İran'da süren savaş ile ilgili telefon görüşmeleri gerçekleştirdi.",
-      "long_summary_tr": "Dışişleri Bakanı Hakan Fidan, İran'da süren savaş ile ilgili telefon görüşmeleri gerçekleştirdi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/fidan-dan-yogun-telefon-gorusmesi-3772407",
-      "image": null,
-      "published_at": "2026-03-22T16:28:01+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Littler suffers third-round exit in Belgian Open",
-      "title_tr": "Littler suffers third-round exit in Belgian Open",
-      "summary": "World champion Luke Littler is knocked out of the Belgian Darts Open in the third round by Niels Zonneveld.",
-      "summary_tr": "World champion Luke Littler is knocked out of the Belgian Darts Open in the third round by Niels Zonneveld.",
-      "long_summary": "World champion Luke Littler is knocked out of the Belgian Darts Open in the third round by Niels Zonneveld.",
-      "long_summary_tr": "World champion Luke Littler is knocked out of the Belgian Darts Open in the third round by Niels Zonneveld.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/darts/articles/c78ldpxv5dpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca2/live/be7ae6d0-260a-11f1-923d-33b1d8abc261.jpg",
-      "published_at": "2026-03-22T16:22:33+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "O'Neill says Celtic still in title race despite Dundee United 'setback'",
-      "title_tr": "O'Neill says Celtic still in title race despite Dundee United 'setback'",
-      "summary": "Martin O’Neill described Celtic’s timid defeat at Dundee United on Sunday as a “setback” but insisted that his side are not out of the Scottish Premiership title race.",
-      "summary_tr": "Martin O’Neill described Celtic’s timid defeat at Dundee United on Sunday as a “setback” but insisted that his side are not out of the Scottish Premiership title race.",
-      "long_summary": "Martin O’Neill described Celtic’s timid defeat at Dundee United on Sunday as a “setback” but insisted that his side are not out of the Scottish Premiership title race.",
-      "long_summary_tr": "Martin O’Neill described Celtic’s timid defeat at Dundee United on Sunday as a “setback” but insisted that his side are not out of the Scottish Premiership title race.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13523108/martin-oneill-celtic-still-in-scottish-premiership-title-race-despite-dundee-united-setback",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-celtic-dundee-united_7200102.jpg?20260322151447",
-      "published_at": "2026-03-22T16:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "İstanbul'da dehşet. Eşini katledip evi ateşe verdi",
-      "title_tr": "İstanbul'da dehşet. Eşini katledip evi ateşe verdi",
-      "summary": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
-      "summary_tr": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
-      "long_summary": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
-      "long_summary_tr": "İstanbul Fatih’te bir kişi, eşini öldürdükten sonra evi ateşe verdi. Olay yerinden kaçan şüpheli, polis tarafından yakalandı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/istanbulda-dehset-esini-katledip-evi-atese-verdi-1717031",
-      "image": "https://images.ntv.com.tr/images/AW667149_02-897142.jpg",
-      "published_at": "2026-03-22T16:10:46+00:00"
-    },
-    {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Adalet Bakanı Akın Gürlek'ten 'bilirkişi' açıklaması",
-      "title_tr": "Adalet Bakanı Akın Gürlek'ten 'bilirkişi' açıklaması",
-      "summary": "Adalet Bakanı Akın Gürlek sosyal medya hesabı üzerinden \"bilirkişi sistemindeki\" değişikliklere ilişkin açıklama yaptı.Adalet Bakanı Akın Gürlek bilirkişi sisteminde yapılan değişikliklere ilişkin açıklamalar yaptı.\n\nSosyal medya hesabından açıklama yapan Gürlek, \"Raporları daha sistematik, şeffaf ve denetlenebilir hale getirdik\" dedi.\n\n\"YARGI SİSTEMİMİZİ GÜÇLENDİRMEYE KARARLILIKLA DEVAM EDECEĞİZ\"\n\nGürlek şu ifadeleri kullandı:\n\n\"Bilirkişi sisteminde önemli iyileştirmeleri hayata geçirdik: Rapor Teslim Kontrolü ve Aylık Bakılacak İş Sayısı uygulamaları sayesinde, 110 gün olan ortalama rapor süresini 29 güne düşürdük.\n\nAylık dosya sayısını; normal dosyalarda 30, seri dosyalarda 60 ile sınırlandırarak bilirkişilerin iş yükünü dengeledik. Bilirkişi rapor şablonları ve kontrol listeleri ile raporları daha sistematik, şeffaf ve denetlenebilir hale getirdik.\n\nBilirkişi Görevlendirme Rehberi ve Performans Ölçme Formu'nu UYAP sistemine entegre ederek süreçleri daha etkin kıldık. Yargı sistemimizi güçlendirmeye kararlılıkla devam edeceğiz.\"",
-      "summary_tr": "Adalet Bakanı Akın Gürlek sosyal medya hesabı üzerinden \"bilirkişi sistemindeki\" değişikliklere ilişkin açıklama yaptı.Adalet Bakanı Akın Gürlek bilirkişi sisteminde yapılan değişikliklere ilişkin açıklamalar yaptı.\n\nSosyal medya hesabından açıklama yapan Gürlek, \"Raporları daha sistematik, şeffaf ve denetlenebilir hale getirdik\" dedi.\n\n\"YARGI SİSTEMİMİZİ GÜÇLENDİRMEYE KARARLILIKLA DEVAM EDECEĞİZ\"\n\nGürlek şu ifadeleri kullandı:\n\n\"Bilirkişi sisteminde önemli iyileştirmeleri hayata geçirdik: Rapor Teslim Kontrolü ve Aylık Bakılacak İş Sayısı uygulamaları sayesinde, 110 gün olan ortalama rapor süresini 29 güne düşürdük.\n\nAylık dosya sayısını; normal dosyalarda 30, seri dosyalarda 60 ile sınırlandırarak bilirkişilerin iş yükünü dengeledik. Bilirkişi rapor şablonları ve kontrol listeleri ile raporları daha sistematik, şeffaf ve denetlenebilir hale getirdik.\n\nBilirkişi Görevlendirme Rehberi ve Performans Ölçme Formu'nu UYAP sistemine entegre ederek süreçleri daha etkin kıldık. Yargı sistemimizi güçlendirmeye kararlılıkla devam edeceğiz.\"",
-      "long_summary": "Adalet Bakanı Akın Gürlek sosyal medya hesabı üzerinden \"bilirkişi sistemindeki\" değişikliklere ilişkin açıklama yaptı.Adalet Bakanı Akın Gürlek bilirkişi sisteminde yapılan değişikliklere ilişkin açıklamalar yaptı.\n\nSosyal medya hesabından açıklama yapan Gürlek, \"Raporları daha sistematik, şeffaf ve denetlenebilir hale getirdik\" dedi.\n\n\"YARGI SİSTEMİMİZİ GÜÇLENDİRMEYE KARARLILIKLA DEVAM EDECEĞİZ\"\n\nGürlek şu ifadeleri kullandı:\n\n\"Bilirkişi sisteminde önemli iyileştirmeleri hayata geçirdik:",
-      "long_summary_tr": "Adalet Bakanı Akın Gürlek sosyal medya hesabı üzerinden \"bilirkişi sistemindeki\" değişikliklere ilişkin açıklama yaptı.Adalet Bakanı Akın Gürlek bilirkişi sisteminde yapılan değişikliklere ilişkin açıklamalar yaptı.\n\nSosyal medya hesabından açıklama yapan Gürlek, \"Raporları daha sistematik, şeffaf ve denetlenebilir hale getirdik\" dedi.\n\n\"YARGI SİSTEMİMİZİ GÜÇLENDİRMEYE KARARLILIKLA DEVAM EDECEĞİZ\"\n\nGürlek şu ifadeleri kullandı:\n\n\"Bilirkişi sisteminde önemli iyileştirmeleri hayata geçirdik:",
+      "title": "Iğdır’da iki araç çarpıştı: 2 yaralı",
+      "title_tr": "Iğdır’da iki araç çarpıştı: 2 yaralı",
+      "summary": "Iğdır'da meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgiye göre, Özgür Mahallesi İskender Iğdır Caddesi girişinde Sezer B. yönetimindeki 25 AFG 099 plakalı araç Iğdır istikametinden Doğubeyazıt yönüne seyir halindeyken, cadde girişinde ara yoldan çıkan Mehmet K. yönetimindeki 36 KE 525 plakalı araçla çarpıştı. Kazada Kibar K. ile 10 yaşındaki Vesime K. yaralandı. Olay yerine ulaşan sağlık ekipleri tarafından ilk müdahaleleri yapılan yaralılar, ambulansla hastaneye kaldırıldı. Kazayla ilgili inceleme başlatıldı.",
+      "summary_tr": "Iğdır'da meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgiye göre, Özgür Mahallesi İskender Iğdır Caddesi girişinde Sezer B. yönetimindeki 25 AFG 099 plakalı araç Iğdır istikametinden Doğubeyazıt yönüne seyir halindeyken, cadde girişinde ara yoldan çıkan Mehmet K. yönetimindeki 36 KE 525 plakalı araçla çarpıştı. Kazada Kibar K. ile 10 yaşındaki Vesime K. yaralandı. Olay yerine ulaşan sağlık ekipleri tarafından ilk müdahaleleri yapılan yaralılar, ambulansla hastaneye kaldırıldı. Kazayla ilgili inceleme başlatıldı.",
+      "long_summary": "Iğdır'da meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgiye göre, Özgür Mahallesi İskender Iğdır Caddesi girişinde Sezer B. yönetimindeki 25 AFG 099 plakalı araç Iğdır istikametinden Doğubeyazıt yönüne seyir halindeyken, cadde girişinde ara yoldan çıkan Mehmet K. yönetimindeki 36 KE 525 plakalı araçla çarpıştı. Kazada Kibar K. ile 10 yaşındaki Vesime K. yaralandı. Olay yerine ulaşan sağlık ekipleri tarafından ilk müdahaleleri yapılan yaralılar, ambulansla hastaneye kaldırıldı.",
+      "long_summary_tr": "Iğdır'da meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgiye göre, Özgür Mahallesi İskender Iğdır Caddesi girişinde Sezer B. yönetimindeki 25 AFG 099 plakalı araç Iğdır istikametinden Doğubeyazıt yönüne seyir halindeyken, cadde girişinde ara yoldan çıkan Mehmet K. yönetimindeki 36 KE 525 plakalı araçla çarpıştı. Kazada Kibar K. ile 10 yaşındaki Vesime K. yaralandı. Olay yerine ulaşan sağlık ekipleri tarafından ilk müdahaleleri yapılan yaralılar, ambulansla hastaneye kaldırıldı.",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/adalet-bakani-akin-gurlek-ten-bilirkisi-aciklamasi-1599016",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/adalet-bakani-akin-gurlek-ten-bilirkisi-aciklamasi-1774204580-71_large.webp",
-      "published_at": "2026-03-22T16:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Cumhurbaşkanı Erdoğan, Rize'de komşularıyla bayramlaştı",
-      "title_tr": "Cumhurbaşkanı Erdoğan, Rize'de komşularıyla bayramlaştı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ramazan Bayramı'nı geçirdiği memleketi Rize'nin Güneysu ilçesinde komşularıyla bayramlaştı.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ramazan Bayramı'nı geçirdiği memleketi Rize'nin Güneysu ilçesinde komşularıyla bayramlaştı.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ramazan Bayramı'nı geçirdiği memleketi Rize'nin Güneysu ilçesinde komşularıyla bayramlaştı.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ramazan Bayramı'nı geçirdiği memleketi Rize'nin Güneysu ilçesinde komşularıyla bayramlaştı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-rizede-komsulariyla-bayramlasti-1717030",
-      "image": "https://images.ntv.com.tr/images/AA-20260322-40899269-40899264-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-915789(2).jpg",
-      "published_at": "2026-03-22T16:05:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Yargıtay'da 3 YSK üyeliği için seçimler hala tamamlanmadı",
-      "title_tr": "Yargıtay'da 3 YSK üyeliği için seçimler hala tamamlanmadı",
-      "summary": "Yüksek Seçim Kurulu'nda (YSK) Başkan Ahmet Yener ile 5 üyenin görev süresi dolmasına rağmen, Yargıtay'da 3 YSK üyeliği için yapılan seçimlerden henüz sonuç alınamadığı için eski üyeler görevlerine devam ediyor. Ramazan Bayramı nedeniyle ara verilen seçime, bu hafta devam edilmesi bekleniyor.Yargıtay Büyük Genel Kurulu kontenjanından YSK'ya seçilen Başkan Yener, üyeler Orhan Usta ve Mahmut Akgün'ün görev sürelerinin dolmasının ardından, Yargıtay'da YSK'nın üç üyeliği için 19 Ocak'tan itibaren belirli aralıklarla seçimler yapılıyor, ancak sonuç alınamıyor.\n\nBelirli aralıklarla yapılan seçimde 12 aday yarışırken, geçen haftalarda aday sayısı 9'a düşmesine rağmen, üyelerden hiçbiri 337 olan Yargıtay mevcudunun salt çoğunluğu olan 170 oya ulaşamadı. Yargıtay'daki seçimde üyeler İhsan Kamil Akçadırcı, Mehmet Aksu, Mehmet Arı, Nurullah Bodur, Salim Çevik, Mustafa Çorumlu, Mustafa Erol, Cengiz Turhan ve Mustafa Yapıcı yarışıyor.\n\nRamazan Bayramı nedeniyle ara verilen seçime, bu hafta içi devam edilmesi bekleniyor. \n\nDANIŞTAY KONTENJANINDAN 3 ÜYE BELLİ OLDU\n\nYSK'ya Danıştay kontenjanından seçilen Başkanvekili Ekrem Özübek, üyeler Ali Ürker ve Battal Öğüt'ün yerine yeni üyelerin belirlenmesi için Danıştay Büyük Genel Kurulu'nda seçim yapıldı. Seçimle, Danıştay İdari Dava Daireleri Kurulu Üyesi Hamdi Şenler, Danıştay 10. Daire Üyesi Yunus Emre Sılay ve Danıştay 4. Daire Üyesi Nedret Engin, YSK'nın yeni üyeleri olmuştu.\n\nYENİ ÜYELERİN TAMAMI SEÇİLENE KADAR ESKİ ÜYELER GÖREVE DEVAM\n\nYeni üyelerin tamamı seçilene kadar eski üyeler görevlerine devam edecek. YSK'nın Yargıtay kontenjanından seçilecek 3 üyesinin de Yargıtay Büyük Genel Kurulu'nda devam eden seçim sonrası belirlenmesinin ardından, yeni üyeler yemin ederek göreve başlayacak.\n\nYemin töreninin ardından görev süresi devam eden üyeler ile yeni seçilen 6 üye arasında YSK Başkanlığı ve Başkanvekilliği için seçim yapılacak. Gizli oyla yapılacak seçimde en çok oy alan, YSK'nin yeni başkanı olacak. Yeni üyeler de başkanlık için aday olabilecek.\n\nGÖREV SÜRESİ 6 YIL\n\nYüksek Seçim Kurulu'nun Teşkilat ve Görevleri Hakkındaki Kanun gereği, üyeler 6 yıl süreyle görev yapıyor. Süresi biten üye yeniden seçilebiliyor.\n\nKurulun görev süresi biten üyeleri yerine, yenilerinin belirlenmesi için üç yılda bir ocak ayının ikinci yarısında Yargıtay ve Danıştay'da seçim yapılıyor ve üyelerin görev süresi, seçilme tarihlerine bakılmaksızın bu ayın son gününden itibaren hesaplanıyor.",
-      "summary_tr": "Yüksek Seçim Kurulu'nda (YSK) Başkan Ahmet Yener ile 5 üyenin görev süresi dolmasına rağmen, Yargıtay'da 3 YSK üyeliği için yapılan seçimlerden henüz sonuç alınamadığı için eski üyeler görevlerine devam ediyor. Ramazan Bayramı nedeniyle ara verilen seçime, bu hafta devam edilmesi bekleniyor.Yargıtay Büyük Genel Kurulu kontenjanından YSK'ya seçilen Başkan Yener, üyeler Orhan Usta ve Mahmut Akgün'ün görev sürelerinin dolmasının ardından, Yargıtay'da YSK'nın üç üyeliği için 19 Ocak'tan itibaren belirli aralıklarla seçimler yapılıyor, ancak sonuç alınamıyor.\n\nBelirli aralıklarla yapılan seçimde 12 aday yarışırken, geçen haftalarda aday sayısı 9'a düşmesine rağmen, üyelerden hiçbiri 337 olan Yargıtay mevcudunun salt çoğunluğu olan 170 oya ulaşamadı. Yargıtay'daki seçimde üyeler İhsan Kamil Akçadırcı, Mehmet Aksu, Mehmet Arı, Nurullah Bodur, Salim Çevik, Mustafa Çorumlu, Mustafa Erol, Cengiz Turhan ve Mustafa Yapıcı yarışıyor.\n\nRamazan Bayramı nedeniyle ara verilen seçime, bu hafta içi devam edilmesi bekleniyor. \n\nDANIŞTAY KONTENJANINDAN 3 ÜYE BELLİ OLDU\n\nYSK'ya Danıştay kontenjanından seçilen Başkanvekili Ekrem Özübek, üyeler Ali Ürker ve Battal Öğüt'ün yerine yeni üyelerin belirlenmesi için Danıştay Büyük Genel Kurulu'nda seçim yapıldı. Seçimle, Danıştay İdari Dava Daireleri Kurulu Üyesi Hamdi Şenler, Danıştay 10. Daire Üyesi Yunus Emre Sılay ve Danıştay 4. Daire Üyesi Nedret Engin, YSK'nın yeni üyeleri olmuştu.\n\nYENİ ÜYELERİN TAMAMI SEÇİLENE KADAR ESKİ ÜYELER GÖREVE DEVAM\n\nYeni üyelerin tamamı seçilene kadar eski üyeler görevlerine devam edecek. YSK'nın Yargıtay kontenjanından seçilecek 3 üyesinin de Yargıtay Büyük Genel Kurulu'nda devam eden seçim sonrası belirlenmesinin ardından, yeni üyeler yemin ederek göreve başlayacak.\n\nYemin töreninin ardından görev süresi devam eden üyeler ile yeni seçilen 6 üye arasında YSK Başkanlığı ve Başkanvekilliği için seçim yapılacak. Gizli oyla yapılacak seçimde en çok oy alan, YSK'nin yeni başkanı olacak. Yeni üyeler de başkanlık için aday olabilecek.\n\nGÖREV SÜRESİ 6 YIL\n\nYüksek Seçim Kurulu'nun Teşkilat ve Görevleri Hakkındaki Kanun gereği, üyeler 6 yıl süreyle görev yapıyor. Süresi biten üye yeniden seçilebiliyor.\n\nKurulun görev süresi biten üyeleri yerine, yenilerinin belirlenmesi için üç yılda bir ocak ayının ikinci yarısında Yargıtay ve Danıştay'da seçim yapılıyor ve üyelerin görev süresi, seçilme tarihlerine bakılmaksızın bu ayın son gününden itibaren hesaplanıyor.",
-      "long_summary": "Yüksek Seçim Kurulu'nda (YSK) Başkan Ahmet Yener ile 5 üyenin görev süresi dolmasına rağmen, Yargıtay'da 3 YSK üyeliği için yapılan seçimlerden henüz sonuç alınamadığı için eski üyeler görevlerine devam ediyor. Ramazan Bayramı nedeniyle ara verilen seçime, bu hafta devam edilmesi bekleniyor.Yargıtay Büyük Genel Kurulu kontenjanından YSK'ya seçilen Başkan Yener, üyeler Orhan Usta ve Mahmut Akgün'ün görev sürelerinin dolmasının ardından, Yargıtay'da YSK'nın üç üyeliği için 19 Ocak'tan itibaren",
-      "long_summary_tr": "Yüksek Seçim Kurulu'nda (YSK) Başkan Ahmet Yener ile 5 üyenin görev süresi dolmasına rağmen, Yargıtay'da 3 YSK üyeliği için yapılan seçimlerden henüz sonuç alınamadığı için eski üyeler görevlerine devam ediyor. Ramazan Bayramı nedeniyle ara verilen seçime, bu hafta devam edilmesi bekleniyor.Yargıtay Büyük Genel Kurulu kontenjanından YSK'ya seçilen Başkan Yener, üyeler Orhan Usta ve Mahmut Akgün'ün görev sürelerinin dolmasının ardından, Yargıtay'da YSK'nın üç üyeliği için 19 Ocak'tan itibaren",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/yargitay-da-3-ysk-uyeligi-icin-secimler-hala-tamamlanmadi-1599014",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/yargitay-da-3-ysk-uyeligi-icin-secimler-hala-tamamlanmadi-1774204525-572_large.webp",
-      "published_at": "2026-03-22T16:05:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Huddersfield Giants sack Robinson after fifth loss in a row",
-      "title_tr": "Huddersfield Giants sack Robinson after fifth loss in a row",
-      "summary": "Huddersfield Giants have sacked head coach Luke Robinson in the wake of Friday night's Betfred Super League defeat at Bradford which took them to five losses out of five this season.",
-      "summary_tr": "Huddersfield Giants have sacked head coach Luke Robinson in the wake of Friday night's Betfred Super League defeat at Bradford which took them to five losses out of five this season.",
-      "long_summary": "Huddersfield Giants have sacked head coach Luke Robinson in the wake of Friday night's Betfred Super League defeat at Bradford which took them to five losses out of five this season.",
-      "long_summary_tr": "Huddersfield Giants have sacked head coach Luke Robinson in the wake of Friday night's Betfred Super League defeat at Bradford which took them to five losses out of five this season.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-league/news/12040/13523109/huddersfield-giants-sack-head-coach-luke-robinson-after-five-consecutive-losses-in-opening-weeks-of-super-league",
-      "image": "https://e1.365dm.com/26/03/1920x1080/skysports-luke-robinson-huddersfield_7200188.jpg?20260322162804",
-      "published_at": "2026-03-22T16:03:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Yargıtay'dan kritik karar: WhatsApp yazışmaları delil sayıldı",
-      "title_tr": "Yargıtay'dan kritik karar: WhatsApp yazışmaları delil sayıldı",
-      "summary": "Yargıtay 3. Hukuk Dairesi, altın bozdurarak borç veren kişinin alacağını aynı şekilde isteyip açtığı davada WhatsApp yazışmalarını delil saydı.Yargıtay 3. Hukuk Dairesi, iki kişi arasındaki alacağın altın mı yoksa Türk lirası cinsinden mi olduğuna dair açılan alacak davasında, yerel mahkemenin WhatsApp yazışmalarını dikkate alarak verdiği kararı hukuka uygun buldu.\n\nDairenin kararına göre, Samsun'da yaşayan bir kişi, yakınından borç para istedi. Borç istenen kişi, altınlarını bozdurarak 90 bin lirayı borç verdi.\n\nAradan geçen süreden sonra 40 bin lira ödeme yapan borçlu, 50 bin lirayı ödemek için süre istedi. Alacaklı, altın bozdurarak borç verdiğini, kalan borcun bu nedenle 50 bin lira olarak değil, cumhuriyet altınının Türk lirası karşılığı olarak ödenmesini talep ederek dava açtı.\n\nYEREL MAHKEME REDDETTİ\n\nBorçlu, davacının kendisine Türk lirası olarak borç verdiğini, cumhuriyet altını üzerinden ödünç sözleşmesi yapıldığı iddiasının gerçeği yansıtmadığını, delil niteliğinin bulunmayan WhatsApp mesaj içeriklerinde davacıdan altın aldığına yönelik hiçbir beyanının olmadığını, 50 bin lira dışında davacıya borcunun bulunmadığını ileri sürerek davanın reddini talep etti.\n\nYargılamayı yapan Vezirköprü 1. Asliye Hukuk Mahkemesi, altın cinsinden borç verildiği iddiasını ispat yükünün davacıda olduğunu, taraflar arasındaki WhatsApp mesajlarında da borcun altın cinsinden olduğuna dair içerik olmaması nedeniyle davayı reddetti.\n\nAlacaklı kişi, yerel mahkemenin ret kararına karşı istinaf başvurusunda bulundu.\n\nYARGITAY YEREL MAHKEME KARARINI ONADI\n\nİstinaf başvurusunu inceleyen Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi, yerel mahkeme kararını hukuka uygun buldu.\n\nDavacı alacaklı, hükme itirazda bulunarak, dosyayı temyiz etti.\n\nTemyiz incelemesini yapan Yargıtay 3. Hukuk Dairesi, derece mahkemelerince verilen kararı hukuka uygun bularak, oy birliğiyle onanmasını kararlaştırdı.\n\nDairenin kararında, taraflar arasındaki para transferine ilişkin dekontlar, WhatsApp yazışma içerikleri doğrultusunda davacının iddiasını ispatlayamadığı belirtilerek, alacağının altın cinsinden ödenmesi talebinin reddedilmesinde hukuka aykırılık bulunmadığı kaydedildi.",
-      "summary_tr": "Yargıtay 3. Hukuk Dairesi, altın bozdurarak borç veren kişinin alacağını aynı şekilde isteyip açtığı davada WhatsApp yazışmalarını delil saydı.Yargıtay 3. Hukuk Dairesi, iki kişi arasındaki alacağın altın mı yoksa Türk lirası cinsinden mi olduğuna dair açılan alacak davasında, yerel mahkemenin WhatsApp yazışmalarını dikkate alarak verdiği kararı hukuka uygun buldu.\n\nDairenin kararına göre, Samsun'da yaşayan bir kişi, yakınından borç para istedi. Borç istenen kişi, altınlarını bozdurarak 90 bin lirayı borç verdi.\n\nAradan geçen süreden sonra 40 bin lira ödeme yapan borçlu, 50 bin lirayı ödemek için süre istedi. Alacaklı, altın bozdurarak borç verdiğini, kalan borcun bu nedenle 50 bin lira olarak değil, cumhuriyet altınının Türk lirası karşılığı olarak ödenmesini talep ederek dava açtı.\n\nYEREL MAHKEME REDDETTİ\n\nBorçlu, davacının kendisine Türk lirası olarak borç verdiğini, cumhuriyet altını üzerinden ödünç sözleşmesi yapıldığı iddiasının gerçeği yansıtmadığını, delil niteliğinin bulunmayan WhatsApp mesaj içeriklerinde davacıdan altın aldığına yönelik hiçbir beyanının olmadığını, 50 bin lira dışında davacıya borcunun bulunmadığını ileri sürerek davanın reddini talep etti.\n\nYargılamayı yapan Vezirköprü 1. Asliye Hukuk Mahkemesi, altın cinsinden borç verildiği iddiasını ispat yükünün davacıda olduğunu, taraflar arasındaki WhatsApp mesajlarında da borcun altın cinsinden olduğuna dair içerik olmaması nedeniyle davayı reddetti.\n\nAlacaklı kişi, yerel mahkemenin ret kararına karşı istinaf başvurusunda bulundu.\n\nYARGITAY YEREL MAHKEME KARARINI ONADI\n\nİstinaf başvurusunu inceleyen Samsun Bölge Adliye Mahkemesi 5. Hukuk Dairesi, yerel mahkeme kararını hukuka uygun buldu.\n\nDavacı alacaklı, hükme itirazda bulunarak, dosyayı temyiz etti.\n\nTemyiz incelemesini yapan Yargıtay 3. Hukuk Dairesi, derece mahkemelerince verilen kararı hukuka uygun bularak, oy birliğiyle onanmasını kararlaştırdı.\n\nDairenin kararında, taraflar arasındaki para transferine ilişkin dekontlar, WhatsApp yazışma içerikleri doğrultusunda davacının iddiasını ispatlayamadığı belirtilerek, alacağının altın cinsinden ödenmesi talebinin reddedilmesinde hukuka aykırılık bulunmadığı kaydedildi.",
-      "long_summary": "Yargıtay 3. Hukuk Dairesi, altın bozdurarak borç veren kişinin alacağını aynı şekilde isteyip açtığı davada WhatsApp yazışmalarını delil saydı.Yargıtay 3. Hukuk Dairesi, iki kişi arasındaki alacağın altın mı yoksa Türk lirası cinsinden mi olduğuna dair açılan alacak davasında, yerel mahkemenin WhatsApp yazışmalarını dikkate alarak verdiği kararı hukuka uygun buldu.\n\nDairenin kararına göre, Samsun'da yaşayan bir kişi, yakınından borç para istedi. Borç istenen kişi, altınlarını bozdurarak 90 bin",
-      "long_summary_tr": "Yargıtay 3. Hukuk Dairesi, altın bozdurarak borç veren kişinin alacağını aynı şekilde isteyip açtığı davada WhatsApp yazışmalarını delil saydı.Yargıtay 3. Hukuk Dairesi, iki kişi arasındaki alacağın altın mı yoksa Türk lirası cinsinden mi olduğuna dair açılan alacak davasında, yerel mahkemenin WhatsApp yazışmalarını dikkate alarak verdiği kararı hukuka uygun buldu.\n\nDairenin kararına göre, Samsun'da yaşayan bir kişi, yakınından borç para istedi. Borç istenen kişi, altınlarını bozdurarak 90 bin",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/yargitay-dan-kritik-karar-whatsapp-yazismalari-delil-sayildi-1599012",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/yargitay-dan-kritik-karar-whatsapp-yazismalari-delil-sayildi-1774204472-786_large.webp",
-      "published_at": "2026-03-22T16:01:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Forest ramp up Spurs' relegation fears with thumping win",
-      "title_tr": "Forest ramp up Spurs' relegation fears with thumping win",
-      "summary": "Nottingham Forest ramped up Tottenham's relegation fears with a thumping 3-0 win in north London, as pre-match positivity at Spurs turned to angst and anger by full-time.",
-      "summary_tr": "Nottingham Forest ramped up Tottenham's relegation fears with a thumping 3-0 win in north London, as pre-match positivity at Spurs turned to angst and anger by full-time.",
-      "long_summary": "Nottingham Forest ramped up Tottenham's relegation fears with a thumping 3-0 win in north London, as pre-match positivity at Spurs turned to angst and anger by full-time.",
-      "long_summary_tr": "Nottingham Forest ramped up Tottenham's relegation fears with a thumping 3-0 win in north London, as pre-match positivity at Spurs turned to angst and anger by full-time.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-nottingham-forest/report/531437",
-      "image": "https://e0.365dm.com/26/03/1920x1080/skysports-premier-league-nottingham-forest_7200141.jpg?20260322154638",
-      "published_at": "2026-03-22T16:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Trafik Denetiminde Yeni Dönem: 4K Hız Kamerası ile Kaçış Yok!",
-      "title_tr": "Trafik Denetiminde Yeni Dönem: 4K Hız Kamerası ile Kaçış Yok!",
-      "summary": "Hız yapan sürücüleri yakından ilgilendiren yeni bir teknoloji test edilmeye başlandı. Londra Ulaşım Kurumu (TfL), mevcut sistemlerden tamamen farklı çalışan yeni nesil 4D radar ve 4K görüntüleme teknolojisine sahip hız kameralarını deniyor. Bu yeni kameraların en büyük özelliği, yolda hiçbir uyarı işareti, flaş, ışık veya zemin sensörü barındırmaması. Alışkın olduğumuz uyarıcıların olmaması, sistemin sürücüleri klasik […]",
-      "summary_tr": "Hız yapan sürücüleri yakından ilgilendiren yeni bir teknoloji test edilmeye başlandı. Londra Ulaşım Kurumu (TfL), mevcut sistemlerden tamamen farklı çalışan yeni nesil 4D radar ve 4K görüntüleme teknolojisine sahip hız kameralarını deniyor. Bu yeni kameraların en büyük özelliği, yolda hiçbir uyarı işareti, flaş, ışık veya zemin sensörü barındırmaması. Alışkın olduğumuz uyarıcıların olmaması, sistemin sürücüleri klasik […]",
-      "long_summary": "Hız yapan sürücüleri yakından ilgilendiren yeni bir teknoloji test edilmeye başlandı. Londra Ulaşım Kurumu (TfL), mevcut sistemlerden tamamen farklı çalışan yeni nesil 4D radar ve 4K görüntüleme teknolojisine sahip hız kameralarını deniyor. Bu yeni kameraların en büyük özelliği, yolda hiçbir uyarı işareti, flaş, ışık veya zemin sensörü barındırmaması. Alışkın olduğumuz uyarıcıların olmaması, sistemin sürücüleri klasik […]",
-      "long_summary_tr": "Hız yapan sürücüleri yakından ilgilendiren yeni bir teknoloji test edilmeye başlandı. Londra Ulaşım Kurumu (TfL), mevcut sistemlerden tamamen farklı çalışan yeni nesil 4D radar ve 4K görüntüleme teknolojisine sahip hız kameralarını deniyor. Bu yeni kameraların en büyük özelliği, yolda hiçbir uyarı işareti, flaş, ışık veya zemin sensörü barındırmaması. Alışkın olduğumuz uyarıcıların olmaması, sistemin sürücüleri klasik […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/trafik-denetiminde-yeni-donem-4k-hiz-kamerasi-ile-kacis-yok",
-      "image": null,
-      "published_at": "2026-03-22T16:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Night Agent Season 4: Everything We Know So Far",
-      "title_tr": "The Night Agent Season 4: Everything We Know So Far",
-      "summary": "The Night Agent Season 4: Everything We Know So Far",
-      "summary_tr": "The Night Agent Season 4: Everything We Know So Far",
-      "long_summary": "The Night Agent Season 4: Everything We Know So Far",
-      "long_summary_tr": "The Night Agent Season 4: Everything We Know So Far",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a70315274/the-night-agent-season-4-news-cast-date/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/screenshot-2026-02-11-at-4-10-48-pm-698cf0703ce50.png",
-      "published_at": "2026-03-22T16:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Hakkari-Van kara yolunda kaza: 2 yaralı",
-      "title_tr": "Hakkari-Van kara yolunda kaza: 2 yaralı",
-      "summary": "Hakkari-Van kara yolunda etkili olan yoğun kar yağışı nedeniyle meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgilere göre, Yüksekova ilçesi istikametinden Van’a gitmekte olan, sürücüsü ve plakası henüz öğrenilemeyen kamyonet, olumsuz hava şartları nedeniyle Musa Han mevkiinde kontrolden çıkarak şarampole yuvarlandı. Araçta bulunan 5 kişiden 2’si kazada hafif şekilde yaralandı. Kazayı görenlerin ihbarı üzerine olay yerine sağlık ekipleri ile İl Özel İdaresi ekipleri sevk edildi. Sağlık ekipleri yaralılara olay yerinde ilk müdahale ederken, İl Özel İdaresi ekipleri ise şarampole yuvarlanan aracı bulunduğu yerden çıkardı.\n\nYaralıların sağlık durumlarının iyi olduğu öğrenilirken, kazayla ilgili inceleme başlatıldı.",
-      "summary_tr": "Hakkari-Van kara yolunda etkili olan yoğun kar yağışı nedeniyle meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgilere göre, Yüksekova ilçesi istikametinden Van’a gitmekte olan, sürücüsü ve plakası henüz öğrenilemeyen kamyonet, olumsuz hava şartları nedeniyle Musa Han mevkiinde kontrolden çıkarak şarampole yuvarlandı. Araçta bulunan 5 kişiden 2’si kazada hafif şekilde yaralandı. Kazayı görenlerin ihbarı üzerine olay yerine sağlık ekipleri ile İl Özel İdaresi ekipleri sevk edildi. Sağlık ekipleri yaralılara olay yerinde ilk müdahale ederken, İl Özel İdaresi ekipleri ise şarampole yuvarlanan aracı bulunduğu yerden çıkardı.\n\nYaralıların sağlık durumlarının iyi olduğu öğrenilirken, kazayla ilgili inceleme başlatıldı.",
-      "long_summary": "Hakkari-Van kara yolunda etkili olan yoğun kar yağışı nedeniyle meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgilere göre, Yüksekova ilçesi istikametinden Van’a gitmekte olan, sürücüsü ve plakası henüz öğrenilemeyen kamyonet, olumsuz hava şartları nedeniyle Musa Han mevkiinde kontrolden çıkarak şarampole yuvarlandı. Araçta bulunan 5 kişiden 2’si kazada hafif şekilde yaralandı. Kazayı görenlerin ihbarı üzerine olay yerine sağlık ekipleri ile İl Özel İdaresi ekipleri sevk edildi.",
-      "long_summary_tr": "Hakkari-Van kara yolunda etkili olan yoğun kar yağışı nedeniyle meydana gelen trafik kazasında 2 kişi yaralandı.Edinilen bilgilere göre, Yüksekova ilçesi istikametinden Van’a gitmekte olan, sürücüsü ve plakası henüz öğrenilemeyen kamyonet, olumsuz hava şartları nedeniyle Musa Han mevkiinde kontrolden çıkarak şarampole yuvarlandı. Araçta bulunan 5 kişiden 2’si kazada hafif şekilde yaralandı. Kazayı görenlerin ihbarı üzerine olay yerine sağlık ekipleri ile İl Özel İdaresi ekipleri sevk edildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/hakkari-van-kara-yolunda-kaza-2-yarali-1599010",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/hakkari-van-kara-yolunda-kaza-2-yarali-1774204390-897_large.webp",
-      "published_at": "2026-03-22T15:55:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/igdir-da-iki-arac-carpisti-2-yarali-1599044",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/03/22/igdir-da-iki-arac-carpisti-2-yarali-1774206436-487_large.webp",
+      "published_at": "2026-03-22T17:15:00+00:00"
     }
   ]
 }
