@@ -1,6 +1,666 @@
 {
-  "updated_at": "2026-04-18T20:52:00.554340+00:00",
+  "updated_at": "2026-04-18T21:51:00.880440+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Watch: Match of the Day",
+      "title_tr": "Watch: Match of the Day",
+      "summary": "Highlights of five Premier League matches, including Manchester United’s trip to Chelsea.",
+      "summary_tr": "Highlights of five Premier League matches, including Manchester United’s trip to Chelsea.",
+      "long_summary": "Highlights of five Premier League matches, including Manchester United’s trip to Chelsea.",
+      "long_summary_tr": "Highlights of five Premier League matches, including Manchester United’s trip to Chelsea.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ndz1c8.jpg",
+      "published_at": "2026-04-19T08:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Man Utd secure huge win in race for CL as pressure mounts on Rosenior",
+      "title_tr": "Man Utd secure huge win in race for CL as pressure mounts on Rosenior",
+      "summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+      "summary_tr": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+      "long_summary": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+      "long_summary_tr": "FREE TO WATCH: Highlights from Chelsea’s match against Manchester United in the Premier League.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13533601/chelsea-0-1-man-united-premier-league-highlights",
+      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-chelsea-man-united_7223984.jpg?20260418221341",
+      "published_at": "2026-04-18T22:11:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Chelsea's CL hopes suffer another bitter blow in Man Utd defeat",
+      "title_tr": "Chelsea's CL hopes suffer another bitter blow in Man Utd defeat",
+      "summary": "Chelsea's hopes of qualifying for next season's Champions League took another huge blow as they suffered a 1-0 defeat at home to Manchester United.",
+      "summary_tr": "Chelsea's hopes of qualifying for next season's Champions League took another huge blow as they suffered a 1-0 defeat at home to Manchester United.",
+      "long_summary": "Chelsea's hopes of qualifying for next season's Champions League took another huge blow as they suffered a 1-0 defeat at home to Manchester United.",
+      "long_summary_tr": "Chelsea's hopes of qualifying for next season's Champions League took another huge blow as they suffered a 1-0 defeat at home to Manchester United.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/chelsea-vs-manchester-united/report/531451",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-matheus-cunha_7223947.jpg?20260418205105",
+      "published_at": "2026-04-18T21:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Man Utd boost Champions League hopes with victory at Chelsea",
+      "title_tr": "Man Utd boost Champions League hopes with victory at Chelsea",
+      "summary": "Manchester United move closer to booking a place in next seasons Champions League after Matheus Cunha scores the only goal of the game in their 1-0 win over Chelsea at Stamford Bridge.",
+      "summary_tr": "Manchester United move closer to booking a place in next seasons Champions League after Matheus Cunha scores the only goal of the game in their 1-0 win over Chelsea at Stamford Bridge.",
+      "long_summary": "Manchester United move closer to booking a place in next seasons Champions League after Matheus Cunha scores the only goal of the game in their 1-0 win over Chelsea at Stamford Bridge.",
+      "long_summary_tr": "Manchester United move closer to booking a place in next seasons Champions League after Matheus Cunha scores the only goal of the game in their 1-0 win over Chelsea at Stamford Bridge.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/ceqwde99q49o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad96/live/f3423d20-3b6b-11f1-8606-05fe34b06e1b.jpg",
+      "published_at": "2026-04-18T21:35:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Sanchez: Şiddeti destekleyenlere yazıklar olsun",
+      "title_tr": "Sanchez: Şiddeti destekleyenlere yazıklar olsun",
+      "summary": "İspanya Başbakanı Pedro Sanchez, Barselona’daki uluslararası toplantıda Gazze, Batı Şeria, Ukrayna ve Orta Doğu’daki çatışmalara değinerek, “Şiddeti destekleyenlere yazıklar olsun” ifadelerini kullandı.",
+      "summary_tr": "İspanya Başbakanı Pedro Sanchez, Barselona’daki uluslararası toplantıda Gazze, Batı Şeria, Ukrayna ve Orta Doğu’daki çatışmalara değinerek, “Şiddeti destekleyenlere yazıklar olsun” ifadelerini kullandı.",
+      "long_summary": "İspanya Başbakanı Pedro Sanchez, Barselona’daki uluslararası toplantıda Gazze, Batı Şeria, Ukrayna ve Orta Doğu’daki çatışmalara değinerek, “Şiddeti destekleyenlere yazıklar olsun” ifadelerini kullandı.",
+      "long_summary_tr": "İspanya Başbakanı Pedro Sanchez, Barselona’daki uluslararası toplantıda Gazze, Batı Şeria, Ukrayna ve Orta Doğu’daki çatışmalara değinerek, “Şiddeti destekleyenlere yazıklar olsun” ifadelerini kullandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/dunya/sanchez-siddeti-destekleyenlere-yaziklar-olsun-haberi-822089",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/19/sanchez-8wcd_cover.jpg",
+      "published_at": "2026-04-18T21:35:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Rutter scores late equaliser to deny Spurs crucial win",
+      "title_tr": "Rutter scores late equaliser to deny Spurs crucial win",
+      "summary": "Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium.",
+      "summary_tr": "Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium.",
+      "long_summary": "Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium.",
+      "long_summary_tr": "Tottenham remain in the bottom three and are denied their first Premier League victory since December as Georginio Rutter scores a late equaliser for Brighton as the two sides draw 2-2 at the Tottenham Hotspur Stadium.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/cr41772xd92o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dae/live/e5febbb0-3b5d-11f1-9d5c-8ba507d7dbde.jpg",
+      "published_at": "2026-04-18T21:30:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Nisan 2026",
+      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Nisan 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-19-nisan-2026-1720689",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-04-18T21:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Leeds move closer to survival with victory over Wolves",
+      "title_tr": "Leeds move closer to survival with victory over Wolves",
+      "summary": "Leeds moved a step closer to securing their Premier League survival as they beat Wolves 3-0 at Elland Road.",
+      "summary_tr": "Leeds moved a step closer to securing their Premier League survival as they beat Wolves 3-0 at Elland Road.",
+      "long_summary": "Leeds moved a step closer to securing their Premier League survival as they beat Wolves 3-0 at Elland Road.",
+      "long_summary_tr": "Leeds moved a step closer to securing their Premier League survival as they beat Wolves 3-0 at Elland Road.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/cy81w215ze9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd31/live/71608420-3b4c-11f1-8606-05fe34b06e1b.jpg",
+      "published_at": "2026-04-18T21:29:50+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Bournemouth extend unbeaten run with victory at Newcastle",
+      "title_tr": "Bournemouth extend unbeaten run with victory at Newcastle",
+      "summary": "Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park.",
+      "summary_tr": "Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park.",
+      "long_summary": "Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park.",
+      "long_summary_tr": "Bournemouth extend their unbeaten run in the Premier League to 13 games after beating Newcastle 2-1 at St. James' Park.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/c6251dnn9j7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a86/live/890d0080-3b4c-11f1-879d-1b2f5c3919b8.jpg",
+      "published_at": "2026-04-18T21:29:40+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "title_tr": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+      "summary_tr": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+      "long_summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+      "long_summary_tr": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/f7e22680-3b28-11f1-bdd4-fdf1a2a9ebde.jpg",
+      "published_at": "2026-04-18T21:27:56+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "British light-heavyweight Whittaker stops Suarez in Liverpool",
+      "title_tr": "British light-heavyweight Whittaker stops Suarez in Liverpool",
+      "summary": "British light-heavyweight Ben Whittaker produces a brilliant first-round knockout against Argentina's Braian Suarez in Liverpool.",
+      "summary_tr": "British light-heavyweight Ben Whittaker produces a brilliant first-round knockout against Argentina's Braian Suarez in Liverpool.",
+      "long_summary": "British light-heavyweight Ben Whittaker produces a brilliant first-round knockout against Argentina's Braian Suarez in Liverpool.",
+      "long_summary_tr": "British light-heavyweight Ben Whittaker produces a brilliant first-round knockout against Argentina's Braian Suarez in Liverpool.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/boxing/articles/c0mj2el3p1no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0f3/live/fa30a130-3b66-11f1-9762-d9fffa2ac338.jpg",
+      "published_at": "2026-04-18T21:23:53+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Erdoğan'dan Antalya Diplomasi Forumu'nda yoğun diplomasi trafiği",
+      "title_tr": "Erdoğan'dan Antalya Diplomasi Forumu'nda yoğun diplomasi trafiği",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu (ADF) kapsamında katılımcı devlet ve hükümet başkanlarıyla ikili görüşmeler gerçekleştirdi",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu (ADF) kapsamında katılımcı devlet ve hükümet başkanlarıyla ikili görüşmeler gerçekleştirdi",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu (ADF) kapsamında katılımcı devlet ve hükümet başkanlarıyla ikili görüşmeler gerçekleştirdi",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Antalya Diplomasi Forumu (ADF) kapsamında katılımcı devlet ve hükümet başkanlarıyla ikili görüşmeler gerçekleştirdi",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/erdogandan-antalya-diplomasi-forumunda-yogun-diplomasi-trafigi-haberi-822088",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/18/cumhurbaskani-erdogan-uwuo_cover.jpg",
+      "published_at": "2026-04-18T21:20:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+      "title_tr": "Strait of Hormuz closed again, Iran says, as ships attacked",
+      "summary": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+      "summary_tr": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+      "long_summary": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+      "long_summary_tr": "Tehran is blaming a US blockade for its actions, saying it breaches the ceasefire the two reached.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/3961f0b0-3b6d-11f1-879d-1b2f5c3919b8.jpg",
+      "published_at": "2026-04-18T21:19:46+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Aydın'da lise yurdunda yangın paniği: 46 öğrenci tahliye edildi",
+      "title_tr": "Aydın'da lise yurdunda yangın paniği: 46 öğrenci tahliye edildi",
+      "summary": "Aydın'ın Nazilli ilçesinde bir liseye ait yurdun çatısında çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı.",
+      "summary_tr": "Aydın'ın Nazilli ilçesinde bir liseye ait yurdun çatısında çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı.",
+      "long_summary": "Aydın'ın Nazilli ilçesinde bir liseye ait yurdun çatısında çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı.",
+      "long_summary_tr": "Aydın'ın Nazilli ilçesinde bir liseye ait yurdun çatısında çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/aydinda-lise-yurdunda-yangin-panigi-46-ogrenci-tahliye-edildi-1720690",
+      "image": "https://images.ntv.com.tr/images/AW686536_02-432497.jpg",
+      "published_at": "2026-04-18T21:15:05+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "YTSO’dan Sanayiye Ziyaret: İş Birliği ve İstihdam Vurgusu",
+      "title_tr": "YTSO’dan Sanayiye Ziyaret: İş Birliği ve İstihdam Vurgusu",
+      "summary": "Yalova Ticaret ve Sanayi Odası heyeti, AKSA Akrilik ve YALKİM OSB yönetimiyle bir araya gelerek Yalova’da istihdamın artırılması, gençlerin iş gücüne kazandırılması ve sanayi-iş dünyası iş birliğinin güçlendirilmesi konularını ele aldı.",
+      "summary_tr": "Yalova Ticaret ve Sanayi Odası heyeti, AKSA Akrilik ve YALKİM OSB yönetimiyle bir araya gelerek Yalova’da istihdamın artırılması, gençlerin iş gücüne kazandırılması ve sanayi-iş dünyası iş birliğinin güçlendirilmesi konularını ele aldı.",
+      "long_summary": "Yalova Ticaret ve Sanayi Odası heyeti, AKSA Akrilik ve YALKİM OSB yönetimiyle bir araya gelerek Yalova’da istihdamın artırılması, gençlerin iş gücüne kazandırılması ve sanayi-iş dünyası iş birliğinin güçlendirilmesi konularını ele aldı.",
+      "long_summary_tr": "Yalova Ticaret ve Sanayi Odası heyeti, AKSA Akrilik ve YALKİM OSB yönetimiyle bir araya gelerek Yalova’da istihdamın artırılması, gençlerin iş gücüne kazandırılması ve sanayi-iş dünyası iş birliğinin güçlendirilmesi konularını ele aldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/ytsodan-sanayiye-ziyaret-is-birligi-ve-istihdam-vurgusu",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-ticaret-sanayi-odasi-ytso-aksa-akrilik-isbirligi-gorusme-1.jpg",
+      "published_at": "2026-04-18T21:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Teşvikiye Belediyesi’nden Parklara Sahip Çıkma Çağrısı",
+      "title_tr": "Teşvikiye Belediyesi’nden Parklara Sahip Çıkma Çağrısı",
+      "summary": "Teşvikiye Belediyesi, çocuk parklarında yaşanan zararların ardından vatandaşlara ortak kullanım alanlarının korunması çağrısında bulundu.",
+      "summary_tr": "Teşvikiye Belediyesi, çocuk parklarında yaşanan zararların ardından vatandaşlara ortak kullanım alanlarının korunması çağrısında bulundu.",
+      "long_summary": "Teşvikiye Belediyesi, çocuk parklarında yaşanan zararların ardından vatandaşlara ortak kullanım alanlarının korunması çağrısında bulundu.",
+      "long_summary_tr": "Teşvikiye Belediyesi, çocuk parklarında yaşanan zararların ardından vatandaşlara ortak kullanım alanlarının korunması çağrısında bulundu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/tesvikiye-belediyesinden-parklara-sahip-cikma-cagrisi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-tesvikiye-belediye-vatandas-cocuk-parklar-cagri-2.jpg",
+      "published_at": "2026-04-18T21:13:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Teşvikiye Belediyesi’nden Kadın Sağlığına Yönelik Farkındalık Etkinliği",
+      "title_tr": "Teşvikiye Belediyesi’nden Kadın Sağlığına Yönelik Farkındalık Etkinliği",
+      "summary": "Teşvikiye Belediyesi, kadınların sağlığını ve yaşam kalitesini artırmaya yönelik düzenlediği etkinlikle sağlıklı yaşam ve hareketli hayatın önemine dikkat çekti.",
+      "summary_tr": "Teşvikiye Belediyesi, kadınların sağlığını ve yaşam kalitesini artırmaya yönelik düzenlediği etkinlikle sağlıklı yaşam ve hareketli hayatın önemine dikkat çekti.",
+      "long_summary": "Teşvikiye Belediyesi, kadınların sağlığını ve yaşam kalitesini artırmaya yönelik düzenlediği etkinlikle sağlıklı yaşam ve hareketli hayatın önemine dikkat çekti.",
+      "long_summary_tr": "Teşvikiye Belediyesi, kadınların sağlığını ve yaşam kalitesini artırmaya yönelik düzenlediği etkinlikle sağlıklı yaşam ve hareketli hayatın önemine dikkat çekti.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/tesvikiye-belediyesinden-kadin-sagligina-yonelik-farkindalik-etkinligi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-tesvikiye-belediye-kadinlar-spor-doga-yuruyus-2.jpg",
+      "published_at": "2026-04-18T21:12:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’nın da Dahil Olduğu 13 İlde Yasa Dışı Bahis Operasyonu: 53 Tutuklama",
+      "title_tr": "Yalova’nın da Dahil Olduğu 13 İlde Yasa Dışı Bahis Operasyonu: 53 Tutuklama",
+      "summary": "Sakarya merkezli olarak Yalova dahil 13 ilde düzenlenen geniş çaplı yasa dışı bahis operasyonunda 71 şüpheli gözaltına alındı. Şüphelilerden 53’ü tutuklanırken, çok sayıda dijital materyal ve banka kartı ele geçirildi.",
+      "summary_tr": "Sakarya merkezli olarak Yalova dahil 13 ilde düzenlenen geniş çaplı yasa dışı bahis operasyonunda 71 şüpheli gözaltına alındı. Şüphelilerden 53’ü tutuklanırken, çok sayıda dijital materyal ve banka kartı ele geçirildi.",
+      "long_summary": "Sakarya merkezli olarak Yalova dahil 13 ilde düzenlenen geniş çaplı yasa dışı bahis operasyonunda 71 şüpheli gözaltına alındı. Şüphelilerden 53’ü tutuklanırken, çok sayıda dijital materyal ve banka kartı ele geçirildi.",
+      "long_summary_tr": "Sakarya merkezli olarak Yalova dahil 13 ilde düzenlenen geniş çaplı yasa dışı bahis operasyonunda 71 şüpheli gözaltına alındı. Şüphelilerden 53’ü tutuklanırken, çok sayıda dijital materyal ve banka kartı ele geçirildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovanin-da-dahil-oldugu-13-ilde-yasa-disi-bahis-operasyonu-53-tutuklama",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-sakarya-13-il-yasa-disi-bahis-operayonu-gozalti-4.jpg",
+      "published_at": "2026-04-18T21:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da Öğrencilere Sağlık Bilinci Eğitimi",
+      "title_tr": "Yalova’da Öğrencilere Sağlık Bilinci Eğitimi",
+      "summary": "Yalova Merkez Toplum Sağlığı ekipleri, Öğretmen Yusuf Ziya İlkokulu öğrencilerine KKKA’dan el hijyenine kadar birçok başlıkta bilinçlendirme eğitimi verdi.",
+      "summary_tr": "Yalova Merkez Toplum Sağlığı ekipleri, Öğretmen Yusuf Ziya İlkokulu öğrencilerine KKKA’dan el hijyenine kadar birçok başlıkta bilinçlendirme eğitimi verdi.",
+      "long_summary": "Yalova Merkez Toplum Sağlığı ekipleri, Öğretmen Yusuf Ziya İlkokulu öğrencilerine KKKA’dan el hijyenine kadar birçok başlıkta bilinçlendirme eğitimi verdi.",
+      "long_summary_tr": "Yalova Merkez Toplum Sağlığı ekipleri, Öğretmen Yusuf Ziya İlkokulu öğrencilerine KKKA’dan el hijyenine kadar birçok başlıkta bilinçlendirme eğitimi verdi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-ogrencilere-saglik-bilinci-egitimi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-il-toplum-sagligi-merkez-ilkokul-el-hijyen-kirim-kongo-kanamali-hastalik-egitim-2.jpg",
+      "published_at": "2026-04-18T21:10:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da UMKE Personeline Psikososyal Destek Eğitimi",
+      "title_tr": "Yalova’da UMKE Personeline Psikososyal Destek Eğitimi",
+      "summary": "Yalova İl Sağlık Müdürlüğü tarafından UMKE personeline yönelik düzenlenen “Psikososyal Destek Eğitimi”ne 70 sağlık çalışanı katıldı.",
+      "summary_tr": "Yalova İl Sağlık Müdürlüğü tarafından UMKE personeline yönelik düzenlenen “Psikososyal Destek Eğitimi”ne 70 sağlık çalışanı katıldı.",
+      "long_summary": "Yalova İl Sağlık Müdürlüğü tarafından UMKE personeline yönelik düzenlenen “Psikososyal Destek Eğitimi”ne 70 sağlık çalışanı katıldı.",
+      "long_summary_tr": "Yalova İl Sağlık Müdürlüğü tarafından UMKE personeline yönelik düzenlenen “Psikososyal Destek Eğitimi”ne 70 sağlık çalışanı katıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-umke-personeline-psikososyal-destek-egitimi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-il-saglik-mudurluk-psikososyal-egitim-umke-2.jpg",
+      "published_at": "2026-04-18T21:09:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Üniversitesi Öğrencilerine Organ Bağışı Eğitimi",
+      "title_tr": "Yalova Üniversitesi Öğrencilerine Organ Bağışı Eğitimi",
+      "summary": "Yalova İl Sağlık Müdürlüğü ekipleri, Yalova Üniversitesi Sosyal Hizmetler Bölümü öğrencilerine organ bağışının önemi hakkında bilgilendirme eğitimi verdi.",
+      "summary_tr": "Yalova İl Sağlık Müdürlüğü ekipleri, Yalova Üniversitesi Sosyal Hizmetler Bölümü öğrencilerine organ bağışının önemi hakkında bilgilendirme eğitimi verdi.",
+      "long_summary": "Yalova İl Sağlık Müdürlüğü ekipleri, Yalova Üniversitesi Sosyal Hizmetler Bölümü öğrencilerine organ bağışının önemi hakkında bilgilendirme eğitimi verdi.",
+      "long_summary_tr": "Yalova İl Sağlık Müdürlüğü ekipleri, Yalova Üniversitesi Sosyal Hizmetler Bölümü öğrencilerine organ bağışının önemi hakkında bilgilendirme eğitimi verdi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-universitesi-ogrencilerine-organ-bagisi-egitimi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-il-saglik-mudurlugu-universite-sosyal-hizmet-bolumu-ogrenciler-egitim-5.jpg",
+      "published_at": "2026-04-18T21:08:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Turizmi Masaya Yatırıldı",
+      "title_tr": "Yalova Turizmi Masaya Yatırıldı",
+      "summary": "15-22 Nisan Turizm Haftası kapsamında, Yalova’nın turizm potansiyelini, mevcut durumunu ve geleceğe yönelik hedeflerini değerlendirmek amacıyla düzenlenen “Yalova Turizmi Nereye Gidiyor?” başlıklı interaktif söyleşi programı yoğun katılımla gerçekleştirildi.",
+      "summary_tr": "15-22 Nisan Turizm Haftası kapsamında, Yalova’nın turizm potansiyelini, mevcut durumunu ve geleceğe yönelik hedeflerini değerlendirmek amacıyla düzenlenen “Yalova Turizmi Nereye Gidiyor?” başlıklı interaktif söyleşi programı yoğun katılımla gerçekleştirildi.",
+      "long_summary": "15-22 Nisan Turizm Haftası kapsamında, Yalova’nın turizm potansiyelini, mevcut durumunu ve geleceğe yönelik hedeflerini değerlendirmek amacıyla düzenlenen “Yalova Turizmi Nereye Gidiyor?” başlıklı interaktif söyleşi programı yoğun katılımla gerçekleştirildi.",
+      "long_summary_tr": "15-22 Nisan Turizm Haftası kapsamında, Yalova’nın turizm potansiyelini, mevcut durumunu ve geleceğe yönelik hedeflerini değerlendirmek amacıyla düzenlenen “Yalova Turizmi Nereye Gidiyor?” başlıklı interaktif söyleşi programı yoğun katılımla gerçekleştirildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-turizmi-masaya-yatirildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-il-kultur-turizm-mudurlugu-hafta-gelecek-soylesi-2.jpeg",
+      "published_at": "2026-04-18T21:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da Gebe Okulu Eğitimleri Sürüyor",
+      "title_tr": "Yalova’da Gebe Okulu Eğitimleri Sürüyor",
+      "summary": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu’nda düzenlenen eğitim programının 3. turu tamamlandı. Anne adayları doğum süreci ve bebek sağlığına dair birçok konuda bilgilendirildi.",
+      "summary_tr": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu’nda düzenlenen eğitim programının 3. turu tamamlandı. Anne adayları doğum süreci ve bebek sağlığına dair birçok konuda bilgilendirildi.",
+      "long_summary": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu’nda düzenlenen eğitim programının 3. turu tamamlandı. Anne adayları doğum süreci ve bebek sağlığına dair birçok konuda bilgilendirildi.",
+      "long_summary_tr": "Yalova Eğitim ve Araştırma Hastanesi Gebe Okulu’nda düzenlenen eğitim programının 3. turu tamamlandı. Anne adayları doğum süreci ve bebek sağlığına dair birçok konuda bilgilendirildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-gebe-okulu-egitimleri-suruyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-egitim-arastirma-hastanesi-gebe-okulu-anne-aday-uzman-2.jpg",
+      "published_at": "2026-04-18T21:06:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "CHP Yalova Merkez İlçe’den Kadın Girişimcilerle Ekonomi ve Üretim Vurgusu",
+      "title_tr": "CHP Yalova Merkez İlçe’den Kadın Girişimcilerle Ekonomi ve Üretim Vurgusu",
+      "summary": "CHP Yalova Merkez İlçe Başkanlığı, YTSO Kadın Girişimciler Kurulu’nu ziyaret ederek kadın girişimcilerin karşılaştığı sorunlar, ekonomik gelişmeler ve çözüm önerileri üzerine değerlendirmelerde bulundu.",
+      "summary_tr": "CHP Yalova Merkez İlçe Başkanlığı, YTSO Kadın Girişimciler Kurulu’nu ziyaret ederek kadın girişimcilerin karşılaştığı sorunlar, ekonomik gelişmeler ve çözüm önerileri üzerine değerlendirmelerde bulundu.",
+      "long_summary": "CHP Yalova Merkez İlçe Başkanlığı, YTSO Kadın Girişimciler Kurulu’nu ziyaret ederek kadın girişimcilerin karşılaştığı sorunlar, ekonomik gelişmeler ve çözüm önerileri üzerine değerlendirmelerde bulundu.",
+      "long_summary_tr": "CHP Yalova Merkez İlçe Başkanlığı, YTSO Kadın Girişimciler Kurulu’nu ziyaret ederek kadın girişimcilerin karşılaştığı sorunlar, ekonomik gelişmeler ve çözüm önerileri üzerine değerlendirmelerde bulundu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/chp-yalova-merkez-ilceden-kadin-girisimcilerle-ekonomi-ve-uretim-vurgusu",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-cumhuriyet-halk-partisi-merkez-ilce-ytso-kadin-girisimciler-1.jpg",
+      "published_at": "2026-04-18T21:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çınarcık ile Divriği Arasında Kardeşlik Köprüsü",
+      "title_tr": "Çınarcık ile Divriği Arasında Kardeşlik Köprüsü",
+      "summary": "Çınarcık Belediye Başkanı Avni Kurt, Divriği Belediye Başkanı Cihan Deniz Akbaş’ı ağırladı. Görüşmede iki ilçenin kültürel değerleri, coğrafi işaretli ürünleri ve belediyecilik çalışmaları ele alındı.",
+      "summary_tr": "Çınarcık Belediye Başkanı Avni Kurt, Divriği Belediye Başkanı Cihan Deniz Akbaş’ı ağırladı. Görüşmede iki ilçenin kültürel değerleri, coğrafi işaretli ürünleri ve belediyecilik çalışmaları ele alındı.",
+      "long_summary": "Çınarcık Belediye Başkanı Avni Kurt, Divriği Belediye Başkanı Cihan Deniz Akbaş’ı ağırladı. Görüşmede iki ilçenin kültürel değerleri, coğrafi işaretli ürünleri ve belediyecilik çalışmaları ele alındı.",
+      "long_summary_tr": "Çınarcık Belediye Başkanı Avni Kurt, Divriği Belediye Başkanı Cihan Deniz Akbaş’ı ağırladı. Görüşmede iki ilçenin kültürel değerleri, coğrafi işaretli ürünleri ve belediyecilik çalışmaları ele alındı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cinarcik-ile-divrigi-arasinda-kardeslik-koprusu",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-cinarcik-sivas-divrigi-belediye-baskanlar-gorusme.jpg",
+      "published_at": "2026-04-18T21:04:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çınarcık’ta Bisiklet Yoluna Bakım: Çevre Düzenlemesi Yapıldı",
+      "title_tr": "Çınarcık’ta Bisiklet Yoluna Bakım: Çevre Düzenlemesi Yapıldı",
+      "summary": "Çınarcık Belediyesi ekipleri, Karpuzdere Mahallesi’ndeki bisiklet yolunda çim biçme ve yabani ot temizliği gerçekleştirerek alanı daha düzenli ve kullanışlı hale getirdi.",
+      "summary_tr": "Çınarcık Belediyesi ekipleri, Karpuzdere Mahallesi’ndeki bisiklet yolunda çim biçme ve yabani ot temizliği gerçekleştirerek alanı daha düzenli ve kullanışlı hale getirdi.",
+      "long_summary": "Çınarcık Belediyesi ekipleri, Karpuzdere Mahallesi’ndeki bisiklet yolunda çim biçme ve yabani ot temizliği gerçekleştirerek alanı daha düzenli ve kullanışlı hale getirdi.",
+      "long_summary_tr": "Çınarcık Belediyesi ekipleri, Karpuzdere Mahallesi’ndeki bisiklet yolunda çim biçme ve yabani ot temizliği gerçekleştirerek alanı daha düzenli ve kullanışlı hale getirdi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cinarcikta-bisiklet-yoluna-bakim-cevre-duzenlemesi-yapildi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-cinarcik-belediye-karpuzdere-mahalle-yabani-ot-temizlik-3.jpg",
+      "published_at": "2026-04-18T21:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çınarcık’ta Doğa Koruma İçin Ortak Adım",
+      "title_tr": "Çınarcık’ta Doğa Koruma İçin Ortak Adım",
+      "summary": "Çınarcık Belediye Başkanı Avni Kurt, Doğa Koruma ve Milli Parklar yetkililerini ağırladı. Görüşmede ilçenin doğal değerlerinin korunması ve çevre bilincinin artırılmasına yönelik iş birliği imkanları ele alındı.",
+      "summary_tr": "Çınarcık Belediye Başkanı Avni Kurt, Doğa Koruma ve Milli Parklar yetkililerini ağırladı. Görüşmede ilçenin doğal değerlerinin korunması ve çevre bilincinin artırılmasına yönelik iş birliği imkanları ele alındı.",
+      "long_summary": "Çınarcık Belediye Başkanı Avni Kurt, Doğa Koruma ve Milli Parklar yetkililerini ağırladı. Görüşmede ilçenin doğal değerlerinin korunması ve çevre bilincinin artırılmasına yönelik iş birliği imkanları ele alındı.",
+      "long_summary_tr": "Çınarcık Belediye Başkanı Avni Kurt, Doğa Koruma ve Milli Parklar yetkililerini ağırladı. Görüşmede ilçenin doğal değerlerinin korunması ve çevre bilincinin artırılmasına yönelik iş birliği imkanları ele alındı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cinarcikta-doga-koruma-icin-ortak-adim",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-cinarcik-belediye-baskan-doga-koruma-milli-parklar-gorusme.jpg",
+      "published_at": "2026-04-18T21:02:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Everything to Know About Olivia Rodrigo’s Third Album, You Seem Pretty Sad for a Girl So in Love",
+      "title_tr": "Everything to Know About Olivia Rodrigo’s Third Album, You Seem Pretty Sad for a Girl So in Love",
+      "summary": "Everything to Know About Olivia Rodrigo’s Third Album, You Seem Pretty Sad for a Girl So in Love",
+      "summary_tr": "Everything to Know About Olivia Rodrigo’s Third Album, You Seem Pretty Sad for a Girl So in Love",
+      "long_summary": "Everything to Know About Olivia Rodrigo’s Third Album, You Seem Pretty Sad for a Girl So in Love",
+      "long_summary_tr": "Everything to Know About Olivia Rodrigo’s Third Album, You Seem Pretty Sad for a Girl So in Love",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/music/a65717040/olivia-rodrigo-third-album-news-release-details/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/202af938-0ed9-4bdb-a245-5245331def23.jpeg",
+      "published_at": "2026-04-18T21:02:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Belediyesi Seralarında Üretilen Çiçeklerle Kent Estetiğini Güçlendiriyor",
+      "title_tr": "Yalova Belediyesi Seralarında Üretilen Çiçeklerle Kent Estetiğini Güçlendiriyor",
+      "summary": "Yalova Belediyesi, kendi seralarında yetiştirdiği mevsimlik çiçeklerle parkları, caddeleri ve yeşil alanları renklendirerek şehrin estetiğine katkı sağlamayı sürdürüyor.",
+      "summary_tr": "Yalova Belediyesi, kendi seralarında yetiştirdiği mevsimlik çiçeklerle parkları, caddeleri ve yeşil alanları renklendirerek şehrin estetiğine katkı sağlamayı sürdürüyor.",
+      "long_summary": "Yalova Belediyesi, kendi seralarında yetiştirdiği mevsimlik çiçeklerle parkları, caddeleri ve yeşil alanları renklendirerek şehrin estetiğine katkı sağlamayı sürdürüyor.",
+      "long_summary_tr": "Yalova Belediyesi, kendi seralarında yetiştirdiği mevsimlik çiçeklerle parkları, caddeleri ve yeşil alanları renklendirerek şehrin estetiğine katkı sağlamayı sürdürüyor.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-belediyesi-seralarinda-uretilen-ciceklerle-kent-estetigini-guclendiriyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-belediyesi-sera-cicek-uretim-4.jpg",
+      "published_at": "2026-04-18T21:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova Pazarpark’ta Yenileme Çalışmaları Başladı",
+      "title_tr": "Yalova Pazarpark’ta Yenileme Çalışmaları Başladı",
+      "summary": "Yalova Merkez Pazarpark’ta Fen İşleri Müdürlüğü ekipleri tarafından zemin kaplamaları, korkuluklar ve dış cepheyi kapsayan bakım ve onarım çalışmaları yürütülüyor.",
+      "summary_tr": "Yalova Merkez Pazarpark’ta Fen İşleri Müdürlüğü ekipleri tarafından zemin kaplamaları, korkuluklar ve dış cepheyi kapsayan bakım ve onarım çalışmaları yürütülüyor.",
+      "long_summary": "Yalova Merkez Pazarpark’ta Fen İşleri Müdürlüğü ekipleri tarafından zemin kaplamaları, korkuluklar ve dış cepheyi kapsayan bakım ve onarım çalışmaları yürütülüyor.",
+      "long_summary_tr": "Yalova Merkez Pazarpark’ta Fen İşleri Müdürlüğü ekipleri tarafından zemin kaplamaları, korkuluklar ve dış cepheyi kapsayan bakım ve onarım çalışmaları yürütülüyor.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalova-pazarparkta-yenileme-calismalari-basladi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-belediye-fen-isleri-pazarpark-calisma-merdiven-yenileme-3.jpg",
+      "published_at": "2026-04-18T21:00:00+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Spor",
@@ -22,6 +682,72 @@
       "url": "https://www.skysports.com/football/news/12040/13533574/roberto-de-zerbi-tottenham-boss-believes-relegation-threatened-side-can-win-final-five-games-to-stay-in-premier-league",
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-pedro-porro-spurs_7223950.jpg?20260418210155",
       "published_at": "2026-04-18T21:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "How Hampton's heroics bailed out Lionesses in win against Iceland",
+      "title_tr": "How Hampton's heroics bailed out Lionesses in win against Iceland",
+      "summary": "Goalkeeper Hannah Hampton says she just \"did my job\" in pulling off three crucial late saves as England held on to beat Iceland 1-0.",
+      "summary_tr": "Goalkeeper Hannah Hampton says she just \"did my job\" in pulling off three crucial late saves as England held on to beat Iceland 1-0.",
+      "long_summary": "Goalkeeper Hannah Hampton says she just \"did my job\" in pulling off three crucial late saves as England held on to beat Iceland 1-0.",
+      "long_summary_tr": "Goalkeeper Hannah Hampton says she just \"did my job\" in pulling off three crucial late saves as England held on to beat Iceland 1-0.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/clyx9zgvr4po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f5/live/69fcdc20-3b69-11f1-82d7-e5c9d3ef5ba2.jpg",
+      "published_at": "2026-04-18T20:48:59+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Bayern keen on Villa's Rogers - Sunday's gossip",
+      "title_tr": "Bayern keen on Villa's Rogers - Sunday's gossip",
+      "summary": "Bayern Munich are keen on Aston Villa's Morgan Rogers, Curtis Jones is preparing to leave Liverpool, and Real Madrid are considering appointing Jose Mourinho again.",
+      "summary_tr": "Bayern Munich are keen on Aston Villa's Morgan Rogers, Curtis Jones is preparing to leave Liverpool, and Real Madrid are considering appointing Jose Mourinho again.",
+      "long_summary": "Bayern Munich are keen on Aston Villa's Morgan Rogers, Curtis Jones is preparing to leave Liverpool, and Real Madrid are considering appointing Jose Mourinho again.",
+      "long_summary_tr": "Bayern Munich are keen on Aston Villa's Morgan Rogers, Curtis Jones is preparing to leave Liverpool, and Real Madrid are considering appointing Jose Mourinho again.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/c9372vjp895o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c19/live/588fbbf0-3b60-11f1-879d-1b2f5c3919b8.png",
+      "published_at": "2026-04-18T20:44:20+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen",
+      "title_tr": "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen",
+      "summary": "Racing driver Juha Miettinen dies following a seven-car crash during the qualifiers for a race in Germany.",
+      "summary_tr": "Racing driver Juha Miettinen dies following a seven-car crash during the qualifiers for a race in Germany.",
+      "long_summary": "Racing driver Juha Miettinen dies following a seven-car crash during the qualifiers for a race in Germany.",
+      "long_summary_tr": "Racing driver Juha Miettinen dies following a seven-car crash during the qualifiers for a race in Germany.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/motorsport/articles/crl1wwdegkno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34b5/live/d493cb20-3b64-11f1-8926-95b031f2fc7a.jpg",
+      "published_at": "2026-04-18T20:37:01+00:00"
     },
     {
       "origin": "yabanci",
@@ -66,6 +792,28 @@
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-18-nisan-2026-1720555",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
       "published_at": "2026-04-18T20:30:01+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Slay the Spire 2 Roadmap Has No Release Dates So Dev Can Avoid 'Sloppy Spire 2'",
+      "title_tr": "Slay the Spire 2 Roadmap Has No Release Dates So Dev Can Avoid 'Sloppy Spire 2'",
+      "summary": "Slay the Spire 2 developer Mega Crit has published a detailed roadmap for Slay the Spire 2 without promising any release dates because it doesn’t want to make \"Sloppy Spire 2.\"",
+      "summary_tr": "Slay the Spire 2 developer Mega Crit has published a detailed roadmap for Slay the Spire 2 without promising any release dates because it doesn’t want to make \"Sloppy Spire 2.\"",
+      "long_summary": "Slay the Spire 2 developer Mega Crit has published a detailed roadmap for Slay the Spire 2 without promising any release dates because it doesn’t want to make \"Sloppy Spire 2.\"",
+      "long_summary_tr": "Slay the Spire 2 developer Mega Crit has published a detailed roadmap for Slay the Spire 2 without promising any release dates because it doesn’t want to make \"Sloppy Spire 2.\"",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/slay-the-spire-2-roadmap-has-no-release-dates-so-dev-can-avoid-sloppy-spire-2",
+      "image": "https://assets-prd.ignimgs.com/2026/02/19/slaythespire2earlyaccessreleasedatetrailer-ign-blogroll-1771532005493.jpg",
+      "published_at": "2026-04-18T20:29:35+00:00"
     },
     {
       "origin": "yabanci",
@@ -176,28 +924,6 @@
       "url": "https://www.skysports.com/cricket/news/12040/13533405/county-championship-james-rew-gets-england-backing-but-sees-hampshire-fight-back-against-somerset",
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-james-rew-somerset_7212008.jpg?20260406075152",
       "published_at": "2026-04-18T20:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Can Coventry keep Lampard? - Sam Parkin's EFL takeaways",
-      "title_tr": "Can Coventry keep Lampard? - Sam Parkin's EFL takeaways",
-      "summary": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including whether Coventry can hold on to Frank Lampard.",
-      "summary_tr": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including whether Coventry can hold on to Frank Lampard.",
-      "long_summary": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including whether Coventry can hold on to Frank Lampard.",
-      "long_summary_tr": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including whether Coventry can hold on to Frank Lampard.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cq591yj6l3lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png",
-      "published_at": "2026-04-18T19:58:37+00:00"
     },
     {
       "origin": "yabanci",
@@ -374,732 +1100,6 @@
       "url": "https://www.skysports.com/watch/video/13533558/goal-g-rutter-905-tottenham-hotspur-2-2-brighton",
       "image": "https://e0.365dm.com/26/04/1920x1080/skysports-spurs-brighton_7223880.jpg?20260418193213",
       "published_at": "2026-04-18T19:29:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Building of Trump's White House ballroom can resume in full, appeals court says",
-      "title_tr": "Building of Trump's White House ballroom can resume in full, appeals court says",
-      "summary": "Construction at the White House is expected to continue until the next hearing, due in June.",
-      "summary_tr": "Construction at the White House is expected to continue until the next hearing, due in June.",
-      "long_summary": "Construction at the White House is expected to continue until the next hearing, due in June.",
-      "long_summary_tr": "Construction at the White House is expected to continue until the next hearing, due in June.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/clyx9xyy0j9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/db7b91e0-39d2-11f1-a1b6-b76b3bf64711.jpg",
-      "published_at": "2026-04-18T19:18:40+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "'Unstoppable, majestic!' - Simons' wonder strike puts Spurs back in front!",
-      "title_tr": "'Unstoppable, majestic!' - Simons' wonder strike puts Spurs back in front!",
-      "summary": "Xavi Simons put Tottenham back in front with a brilliant strike in their Premier League clash with Brighton.",
-      "summary_tr": "Xavi Simons put Tottenham back in front with a brilliant strike in their Premier League clash with Brighton.",
-      "long_summary": "Xavi Simons put Tottenham back in front with a brilliant strike in their Premier League clash with Brighton.",
-      "long_summary_tr": "Xavi Simons put Tottenham back in front with a brilliant strike in their Premier League clash with Brighton.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13533550/goal-x-simons-77-tottenham-hotspur-2-1-brighton",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-spurs-brighton_7223856.jpg?20260418191636",
-      "published_at": "2026-04-18T19:16:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Resident Evil Requiem Mercenaries Rumors Heat Up After Alleged Leak",
-      "title_tr": "Resident Evil Requiem Mercenaries Rumors Heat Up After Alleged Leak",
-      "summary": "Resident Evil Requiem fans believe next month’s mysterious content update will add a new version of the franchise’s The Mercenaries mode after an alleged datamine leak revealed tense new music.",
-      "summary_tr": "Resident Evil Requiem fans believe next month’s mysterious content update will add a new version of the franchise’s The Mercenaries mode after an alleged datamine leak revealed tense new music.",
-      "long_summary": "Resident Evil Requiem fans believe next month’s mysterious content update will add a new version of the franchise’s The Mercenaries mode after an alleged datamine leak revealed tense new music.",
-      "long_summary_tr": "Resident Evil Requiem fans believe next month’s mysterious content update will add a new version of the franchise’s The Mercenaries mode after an alleged datamine leak revealed tense new music.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/resident-evil-requiem-mercenaries-rumors-heat-up-after-alleged-leak",
-      "image": "https://assets-prd.ignimgs.com/2026/02/25/re9-postgame-br-1772061133503.jpg",
-      "published_at": "2026-04-18T19:07:49+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Euro Truck Simulator 2 Türkiye DLC’si Kapsamı Açıklandı",
-      "title_tr": "Euro Truck Simulator 2 Türkiye DLC’si Kapsamı Açıklandı",
-      "summary": "Euro Truck Simulator 2 için hazırlanan Soul of Anatolia Türkiye DLC’sinin kapsamı belli oldu. İşte İstanbul'dan Ankara'ya uzanan yeni rotalar ve detaylar.",
-      "summary_tr": "Euro Truck Simulator 2 için hazırlanan Soul of Anatolia Türkiye DLC’sinin kapsamı belli oldu. İşte İstanbul'dan Ankara'ya uzanan yeni rotalar ve detaylar.",
-      "long_summary": "Euro Truck Simulator 2 için hazırlanan Soul of Anatolia Türkiye DLC’sinin kapsamı belli oldu. İşte İstanbul'dan Ankara'ya uzanan yeni rotalar ve detaylar.",
-      "long_summary_tr": "Euro Truck Simulator 2 için hazırlanan Soul of Anatolia Türkiye DLC’sinin kapsamı belli oldu. İşte İstanbul'dan Ankara'ya uzanan yeni rotalar ve detaylar.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/euro-truck-simulator-2-turkiye-dlcsi-kapsami-aciklandi",
-      "image": null,
-      "published_at": "2026-04-18T19:00:09+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Wrestlemania 42: All of the Match Winners, Returns, and Surprises — Updating Live!",
-      "title_tr": "Wrestlemania 42: All of the Match Winners, Returns, and Surprises — Updating Live!",
-      "summary": "We’re updating our Wrestlemania 42 live feed with every big win, moment, and surprise from Las Vegas. From Roman Reigns vs. CM Punk to Oba Femi vs. Brock Lesnar, follow along here.",
-      "summary_tr": "We’re updating our Wrestlemania 42 live feed with every big win, moment, and surprise from Las Vegas. From Roman Reigns vs. CM Punk to Oba Femi vs. Brock Lesnar, follow along here.",
-      "long_summary": "We’re updating our Wrestlemania 42 live feed with every big win, moment, and surprise from Las Vegas. From Roman Reigns vs. CM Punk to Oba Femi vs. Brock Lesnar, follow along here.",
-      "long_summary_tr": "We’re updating our Wrestlemania 42 live feed with every big win, moment, and surprise from Las Vegas. From Roman Reigns vs. CM Punk to Oba Femi vs. Brock Lesnar, follow along here.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/wrestlemania-42-live",
-      "image": "https://assets-prd.ignimgs.com/2026/04/15/wrestlemania-42-blog-1776248467606.jpg",
-      "published_at": "2026-04-18T19:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-      "title_tr": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
-      "summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
-      "summary_tr": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
-      "long_summary": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
-      "long_summary_tr": "The Mexican president says there were never tension over Spainish colonisation, which had become a thorny issue.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/f7e22680-3b28-11f1-bdd4-fdf1a2a9ebde.jpg",
-      "published_at": "2026-04-18T18:58:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Galatasaray Gençlerbirliği'ni 2-1 mağlup etti",
-      "title_tr": "Galatasaray Gençlerbirliği'ni 2-1 mağlup etti",
-      "summary": "Trendyol Süper Lig&#039;in 30. haftasında Gençlerbirliği sahasında Galatasaray ile karşılaştı. Galatasaray karşılaşmayı 2-1 kazandı.",
-      "summary_tr": "Trendyol Süper Lig&#039;in 30. haftasında Gençlerbirliği sahasında Galatasaray ile karşılaştı. Galatasaray karşılaşmayı 2-1 kazandı.",
-      "long_summary": "Trendyol Süper Lig&#039;in 30. haftasında Gençlerbirliği sahasında Galatasaray ile karşılaştı. Galatasaray karşılaşmayı 2-1 kazandı.",
-      "long_summary_tr": "Trendyol Süper Lig&#039;in 30. haftasında Gençlerbirliği sahasında Galatasaray ile karşılaştı. Galatasaray karşılaşmayı 2-1 kazandı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/spor/galatasaray-genclerbirligini-2-1-maglup-etti-haberi-822084",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/galatasaray-9eq0_cover.jpg",
-      "published_at": "2026-04-18T18:53:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Bath cruise to win against injury-hit Quins",
-      "title_tr": "Bath cruise to win against injury-hit Quins",
-      "summary": "Bath score eight tries to ease past an injury-ravaged Harlequins side 43-15 to keep up the pace on Prem leaders Northampton.",
-      "summary_tr": "Bath score eight tries to ease past an injury-ravaged Harlequins side 43-15 to keep up the pace on Prem leaders Northampton.",
-      "long_summary": "Bath score eight tries to ease past an injury-ravaged Harlequins side 43-15 to keep up the pace on Prem leaders Northampton.",
-      "long_summary_tr": "Bath score eight tries to ease past an injury-ravaged Harlequins side 43-15 to keep up the pace on Prem leaders Northampton.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/czexxn8llreo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96cf/live/75cecc00-3b52-11f1-8b14-37bab4d8a821.jpg",
-      "published_at": "2026-04-18T18:50:01+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Parsons hat-trick as Ireland thrash Italy in Galway",
-      "title_tr": "Parsons hat-trick as Ireland thrash Italy in Galway",
-      "summary": "Beibhinn Parsons scores a hat-trick as Ireland turn on the style to thrash Italy in Galway and register their first Women's Six Nations win of the year.",
-      "summary_tr": "Beibhinn Parsons scores a hat-trick as Ireland turn on the style to thrash Italy in Galway and register their first Women's Six Nations win of the year.",
-      "long_summary": "Beibhinn Parsons scores a hat-trick as Ireland turn on the style to thrash Italy in Galway and register their first Women's Six Nations win of the year.",
-      "long_summary_tr": "Beibhinn Parsons scores a hat-trick as Ireland turn on the style to thrash Italy in Galway and register their first Women's Six Nations win of the year.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cn0wvwddrdno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba50/live/a62d10b0-3b5b-11f1-9d5c-8ba507d7dbde.jpg",
-      "published_at": "2026-04-18T18:37:33+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Women's Six Nations: Fixtures, results, standings and BBC coverage",
-      "title_tr": "Women's Six Nations: Fixtures, results, standings and BBC coverage",
-      "summary": "Fixtures, kick-off times, results, standings and how to watch on the BBC as England bid to retain the 2026 Women's Six Nations title.",
-      "summary_tr": "Fixtures, kick-off times, results, standings and how to watch on the BBC as England bid to retain the 2026 Women's Six Nations title.",
-      "long_summary": "Fixtures, kick-off times, results, standings and how to watch on the BBC as England bid to retain the 2026 Women's Six Nations title.",
-      "long_summary_tr": "Fixtures, kick-off times, results, standings and how to watch on the BBC as England bid to retain the 2026 Women's Six Nations title.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/cvg4p62ypl3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0172/live/704fbad0-2412-11f0-9060-674316cb3a1f.jpg",
-      "published_at": "2026-04-18T18:36:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İran’dan ABD ve İsrail’e Hürmüz muhtırası: Deniz ablukası sürerse...",
-      "title_tr": "İran’dan ABD ve İsrail’e Hürmüz muhtırası: Deniz ablukası sürerse...",
-      "summary": "İran Ulusal Güvenlik Yüksek Konseyi, ABD ile yürütülen müzakerelerde geri adım atılmayacağını vurgulayarak; deniz ablukasının sürmesi halinde Hürmüz Boğazı&#039;nın tamamen kapatılacağını ve ablukanın doğrudan &quot;ateşkes ihlali&quot; sayılacağını ilan etti.",
-      "summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi, ABD ile yürütülen müzakerelerde geri adım atılmayacağını vurgulayarak; deniz ablukasının sürmesi halinde Hürmüz Boğazı&#039;nın tamamen kapatılacağını ve ablukanın doğrudan &quot;ateşkes ihlali&quot; sayılacağını ilan etti.",
-      "long_summary": "İran Ulusal Güvenlik Yüksek Konseyi, ABD ile yürütülen müzakerelerde geri adım atılmayacağını vurgulayarak; deniz ablukasının sürmesi halinde Hürmüz Boğazı&#039;nın tamamen kapatılacağını ve ablukanın doğrudan &quot;ateşkes ihlali&quot; sayılacağını ilan etti.",
-      "long_summary_tr": "İran Ulusal Güvenlik Yüksek Konseyi, ABD ile yürütülen müzakerelerde geri adım atılmayacağını vurgulayarak; deniz ablukasının sürmesi halinde Hürmüz Boğazı&#039;nın tamamen kapatılacağını ve ablukanın doğrudan &quot;ateşkes ihlali&quot; sayılacağını ilan etti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/irandan-abd-ve-israile-hurmuz-muhtirasi-deniz-ablukasi-surerse-haberi-822083",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/27/hurmuz-bogazi-kgqu_cover.png",
-      "published_at": "2026-04-18T18:33:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Premiership Rugby: Smith breaks Chiefs' hearts with last-gasp winner",
-      "title_tr": "Premiership Rugby: Smith breaks Chiefs' hearts with last-gasp winner",
-      "summary": "A last-minute try by England fly-half Fin Smith saw Northampton Saints snatch a thrilling 35-28 victory over Exeter Chiefs at Sandy Park on Saturday afternoon.",
-      "summary_tr": "A last-minute try by England fly-half Fin Smith saw Northampton Saints snatch a thrilling 35-28 victory over Exeter Chiefs at Sandy Park on Saturday afternoon.",
-      "long_summary": "A last-minute try by England fly-half Fin Smith saw Northampton Saints snatch a thrilling 35-28 victory over Exeter Chiefs at Sandy Park on Saturday afternoon.",
-      "long_summary_tr": "A last-minute try by England fly-half Fin Smith saw Northampton Saints snatch a thrilling 35-28 victory over Exeter Chiefs at Sandy Park on Saturday afternoon.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-union/news/12040/13533540/premiership-rugby-fin-smiths-late-try-sees-northampton-saints-claim-thrilling-win-against-exeter-chiefs-as-bath-thump-harlequins",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-fin-smith-northampton_7223909.jpg?20260418200019",
-      "published_at": "2026-04-18T18:31:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Chelsea hit crossbar AGAIN in search of an equaliser vs Man Utd LIVE!",
-      "title_tr": "Chelsea hit crossbar AGAIN in search of an equaliser vs Man Utd LIVE!",
-      "summary": "Chelsea hit crossbar AGAIN in search of an equaliser vs Man Utd LIVE!",
-      "summary_tr": "Chelsea hit crossbar AGAIN in search of an equaliser vs Man Utd LIVE!",
-      "long_summary": "Chelsea hit crossbar AGAIN in search of an equaliser vs Man Utd LIVE!",
-      "long_summary_tr": "Chelsea hit crossbar AGAIN in search of an equaliser vs Man Utd LIVE!",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/chelsea-vs-manchester-united/live/531451",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-chelsea-man-utd_7223963.jpg?20260418213001",
-      "published_at": "2026-04-18T18:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "title_tr": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
-      "summary_tr": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
-      "long_summary": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
-      "long_summary_tr": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bc/live/fd8f5c70-3a7d-11f1-850e-07c4418cf86c.jpg",
-      "published_at": "2026-04-18T18:21:19+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "'What a goal!' - Mitoma's STUNNING volley brings Brighton level before the break!",
-      "title_tr": "'What a goal!' - Mitoma's STUNNING volley brings Brighton level before the break!",
-      "summary": "Kaoru Mitoma's exquisite volley brings Brighton level in their Premier League clash with Tottenham.",
-      "summary_tr": "Kaoru Mitoma's exquisite volley brings Brighton level in their Premier League clash with Tottenham.",
-      "long_summary": "Kaoru Mitoma's exquisite volley brings Brighton level in their Premier League clash with Tottenham.",
-      "long_summary_tr": "Kaoru Mitoma's exquisite volley brings Brighton level in their Premier League clash with Tottenham.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13533536/goal-k-mitoma-453-tottenham-hotspur-1-1-brighton",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-spurs-brighton_7223828.jpg?20260418183443",
-      "published_at": "2026-04-18T18:21:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Gülistan Doku dosyası. Mustafa Türkay Sonel adliyeden böyle çıkarıldı",
-      "title_tr": "Gülistan Doku dosyası. Mustafa Türkay Sonel adliyeden böyle çıkarıldı",
-      "summary": "Gülistan Doku soruşturmasında dönemin valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.  Sonel'le birlikte tutuklananların sayısı 10'a yükseldi. Tutuklanan M. Türkay Sonel adliyeden yoğun güvenlik önlemleri altında çıkarıldı.",
-      "summary_tr": "Gülistan Doku soruşturmasında dönemin valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.  Sonel'le birlikte tutuklananların sayısı 10'a yükseldi. Tutuklanan M. Türkay Sonel adliyeden yoğun güvenlik önlemleri altında çıkarıldı.",
-      "long_summary": "Gülistan Doku soruşturmasında dönemin valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.  Sonel'le birlikte tutuklananların sayısı 10'a yükseldi. Tutuklanan M. Türkay Sonel adliyeden yoğun güvenlik önlemleri altında çıkarıldı.",
-      "long_summary_tr": "Gülistan Doku soruşturmasında dönemin valisi Tuncay Sonel'in oğlu Mustafa Türkay Sonel tutuklandı.  Sonel'le birlikte tutuklananların sayısı 10'a yükseldi. Tutuklanan M. Türkay Sonel adliyeden yoğun güvenlik önlemleri altında çıkarıldı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/video/turkiye/gulistan-doku-dosyasi-mustafa-turker-sonel-adliyeden-boyle-cikarildi-1720680",
-      "image": "https://images.ntv.com.tr/images/Adsıztasarım-284858(2).jpg",
-      "published_at": "2026-04-18T18:16:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Big moment for Spurs! Porro header opens scoring",
-      "title_tr": "Big moment for Spurs! Porro header opens scoring",
-      "summary": "Pedro Porro opens the scoring for Tottenham in their Premier League clash with Brighton.",
-      "summary_tr": "Pedro Porro opens the scoring for Tottenham in their Premier League clash with Brighton.",
-      "long_summary": "Pedro Porro opens the scoring for Tottenham in their Premier League clash with Brighton.",
-      "long_summary_tr": "Pedro Porro opens the scoring for Tottenham in their Premier League clash with Brighton.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13533534/goal-p-porro-39-tottenham-hotspur-1-0-brighton",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-spurs-brighton_7223814.jpg?20260418181808",
-      "published_at": "2026-04-18T18:14:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "title_tr": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "summary_tr": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "long_summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "long_summary_tr": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f579/live/9699abd0-3b4d-11f1-879d-1b2f5c3919b8.png",
-      "published_at": "2026-04-18T18:09:57+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Iraola bowing out in style - where will he go next?",
-      "title_tr": "Iraola bowing out in style - where will he go next?",
-      "summary": "Any suggestion of distraction following Andoni Iraola's decision to leave Bournemouth was firmly dismissed by his players in their statement victory against Newcastle.",
-      "summary_tr": "Any suggestion of distraction following Andoni Iraola's decision to leave Bournemouth was firmly dismissed by his players in their statement victory against Newcastle.",
-      "long_summary": "Any suggestion of distraction following Andoni Iraola's decision to leave Bournemouth was firmly dismissed by his players in their statement victory against Newcastle.",
-      "long_summary_tr": "Any suggestion of distraction following Andoni Iraola's decision to leave Bournemouth was firmly dismissed by his players in their statement victory against Newcastle.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/c20dyjd604qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ac/live/767a5d00-3b4c-11f1-9d5c-8ba507d7dbde.jpg",
-      "published_at": "2026-04-18T18:00:58+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Xbox Studios Oyunlarına Özel Yeni Game Pass Seçeneği Hazırlanıyor",
-      "title_tr": "Xbox Studios Oyunlarına Özel Yeni Game Pass Seçeneği Hazırlanıyor",
-      "summary": "Microsoft, Xbox Studios oyunlarına özel ve daha uygun fiyatlı yeni bir Game Pass abonelik seçeneği olan TRITON üzerinde çalışıyor.",
-      "summary_tr": "Microsoft, Xbox Studios oyunlarına özel ve daha uygun fiyatlı yeni bir Game Pass abonelik seçeneği olan TRITON üzerinde çalışıyor.",
-      "long_summary": "Microsoft, Xbox Studios oyunlarına özel ve daha uygun fiyatlı yeni bir Game Pass abonelik seçeneği olan TRITON üzerinde çalışıyor.",
-      "long_summary_tr": "Microsoft, Xbox Studios oyunlarına özel ve daha uygun fiyatlı yeni bir Game Pass abonelik seçeneği olan TRITON üzerinde çalışıyor.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/xbox-studios-oyunlarina-ozel-yeni-game-pass-secenegi-hazirlaniyor",
-      "image": null,
-      "published_at": "2026-04-18T18:00:09+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Şimşek'ten IMF ve Dünya Bankası değerlendirmesi: Türkiye güçlü ve dayanıklı bir ekonomiye sahip",
-      "title_tr": "Şimşek'ten IMF ve Dünya Bankası değerlendirmesi: Türkiye güçlü ve dayanıklı bir ekonomiye sahip",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, ABD&#039;deki IMF-Dünya Bankası Bahar Toplantıları kapsamındaki temaslarını değerlendirerek, binden fazla yatırımcı ve çok sayıda uluslararası kuruluşla bir araya geldiklerini, görüşmelerde Türkiye&#039;nin stratejik konumu ve yüksek potansiyeliyle mevcut küresel zorlukları güçlenerek aşacağı mesajını verdiklerini bildirdi.",
-      "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, ABD&#039;deki IMF-Dünya Bankası Bahar Toplantıları kapsamındaki temaslarını değerlendirerek, binden fazla yatırımcı ve çok sayıda uluslararası kuruluşla bir araya geldiklerini, görüşmelerde Türkiye&#039;nin stratejik konumu ve yüksek potansiyeliyle mevcut küresel zorlukları güçlenerek aşacağı mesajını verdiklerini bildirdi.",
-      "long_summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, ABD&#039;deki IMF-Dünya Bankası Bahar Toplantıları kapsamındaki temaslarını değerlendirerek, binden fazla yatırımcı ve çok sayıda uluslararası kuruluşla bir araya geldiklerini, görüşmelerde Türkiye&#039;nin stratejik konumu ve yüksek potansiyeliyle mevcut küresel zorlukları güçlenerek aşacağı mesajını verdiklerini bildirdi.",
-      "long_summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, ABD&#039;deki IMF-Dünya Bankası Bahar Toplantıları kapsamındaki temaslarını değerlendirerek, binden fazla yatırımcı ve çok sayıda uluslararası kuruluşla bir araya geldiklerini, görüşmelerde Türkiye&#039;nin stratejik konumu ve yüksek potansiyeliyle mevcut küresel zorlukları güçlenerek aşacağı mesajını verdiklerini bildirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/simsekten-imf-ve-dunya-bankasi-degerlendirmesi-turkiye-guclu-ve-dayanikli-bir-ekonomiye-sahip-haberi-822082",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/18/mehmet-simsek-hneh_cover.jpg",
-      "published_at": "2026-04-18T18:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Champion Zhao leads Highfield after Virgo tributes",
-      "title_tr": "Champion Zhao leads Highfield after Virgo tributes",
-      "summary": "Reigning world champion Zhao Xintong holds a 5-4 lead over Liam Highfield as tributes are paid to the late John Virgo on the opening day of the tournament.",
-      "summary_tr": "Reigning world champion Zhao Xintong holds a 5-4 lead over Liam Highfield as tributes are paid to the late John Virgo on the opening day of the tournament.",
-      "long_summary": "Reigning world champion Zhao Xintong holds a 5-4 lead over Liam Highfield as tributes are paid to the late John Virgo on the opening day of the tournament.",
-      "long_summary_tr": "Reigning world champion Zhao Xintong holds a 5-4 lead over Liam Highfield as tributes are paid to the late John Virgo on the opening day of the tournament.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/snooker/articles/c9qd2e3p95po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67ca/live/de951220-3b2b-11f1-97f2-b74de1623710.png",
-      "published_at": "2026-04-18T17:56:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Kahramanmaraş'ta yollar göle döndü, vatandaşlar zor anlar yaşadı",
-      "title_tr": "Kahramanmaraş'ta yollar göle döndü, vatandaşlar zor anlar yaşadı",
-      "summary": "Kahramanmaraş'ta aralıklarla süren sağanak hayatı olumsuz etkiliyor. Yollar adeta göle dönerken, sürücüler zor anlar yaşadı.",
-      "summary_tr": "Kahramanmaraş'ta aralıklarla süren sağanak hayatı olumsuz etkiliyor. Yollar adeta göle dönerken, sürücüler zor anlar yaşadı.",
-      "long_summary": "Kahramanmaraş'ta aralıklarla süren sağanak hayatı olumsuz etkiliyor. Yollar adeta göle dönerken, sürücüler zor anlar yaşadı.",
-      "long_summary_tr": "Kahramanmaraş'ta aralıklarla süren sağanak hayatı olumsuz etkiliyor. Yollar adeta göle dönerken, sürücüler zor anlar yaşadı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/kahramanmarasta-yollar-gole-dondu-vatandaslar-zor-anlar-yasadi-1720679",
-      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-04-18205008-534296.png",
-      "published_at": "2026-04-18T17:56:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Johnstone stars as Wakefield beat Bulls to go second",
-      "title_tr": "Johnstone stars as Wakefield beat Bulls to go second",
-      "summary": "Tom Johnstone scores four tries and Oliver Pratt three as Wakefield Trinity thrash Bradford Bulls to go second in Super League.",
-      "summary_tr": "Tom Johnstone scores four tries and Oliver Pratt three as Wakefield Trinity thrash Bradford Bulls to go second in Super League.",
-      "long_summary": "Tom Johnstone scores four tries and Oliver Pratt three as Wakefield Trinity thrash Bradford Bulls to go second in Super League.",
-      "long_summary_tr": "Tom Johnstone scores four tries and Oliver Pratt three as Wakefield Trinity thrash Bradford Bulls to go second in Super League.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-league/articles/cgmeekvvgmeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea7/live/a3649a50-3b39-11f1-97f2-b74de1623710.jpg",
-      "published_at": "2026-04-18T17:54:14+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Dereyi traktörle geçmek isterken faciadan dönüldü: 10 işçi vinçle kurtarıldı",
-      "title_tr": "Dereyi traktörle geçmek isterken faciadan dönüldü: 10 işçi vinçle kurtarıldı",
-      "summary": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "summary_tr": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "long_summary": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "long_summary_tr": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/dereyi-traktorle-gecmek-isterken-faciadan-donuldu-10-isci-vincle-kurtarildi-1720677",
-      "image": "https://images.ntv.com.tr/images/AW686465_09-808576.jpg",
-      "published_at": "2026-04-18T17:48:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Dereyi traktörle geçmek isterken faciadan dönüldü",
-      "title_tr": "Dereyi traktörle geçmek isterken faciadan dönüldü",
-      "summary": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "summary_tr": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "long_summary": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "long_summary_tr": "Bursa'da dereyi traktörle geçmek isteyen 10 işçi, aracın devrilmesiyle mahsur kaldı. İşçiler ekiplerin vinç destekli çalışmasıyla kurtarıldı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/video/turkiye/dereyi-traktorle-gecmek-isterken-faciadan-donuldu-1720678",
-      "image": "https://images.ntv.com.tr/images/AW686465_09-808576.jpg",
-      "published_at": "2026-04-18T17:46:24+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Rusty' to 'relentless' - Red Roses deliver statement win",
-      "title_tr": "'Rusty' to 'relentless' - Red Roses deliver statement win",
-      "summary": "Despite being without several World Cup winners, England produce a \"relentless\" display to thrash Scotland in the Women's Six Nations at Murrayfield.",
-      "summary_tr": "Despite being without several World Cup winners, England produce a \"relentless\" display to thrash Scotland in the Women's Six Nations at Murrayfield.",
-      "long_summary": "Despite being without several World Cup winners, England produce a \"relentless\" display to thrash Scotland in the Women's Six Nations at Murrayfield.",
-      "long_summary_tr": "Despite being without several World Cup winners, England produce a \"relentless\" display to thrash Scotland in the Women's Six Nations at Murrayfield.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/rugby-union/articles/c4gxyennldpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc6a/live/13a6a180-3b3c-11f1-9d5c-8ba507d7dbde.jpg",
-      "published_at": "2026-04-18T17:34:03+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "MCC considers fast-tracking women members to address gender imbalance",
-      "title_tr": "MCC considers fast-tracking women members to address gender imbalance",
-      "summary": "The Marylebone Cricket Club (MCC) will consider fast-tracking memberships for women to address a gender imbalance.",
-      "summary_tr": "The Marylebone Cricket Club (MCC) will consider fast-tracking memberships for women to address a gender imbalance.",
-      "long_summary": "The Marylebone Cricket Club (MCC) will consider fast-tracking memberships for women to address a gender imbalance.",
-      "long_summary_tr": "The Marylebone Cricket Club (MCC) will consider fast-tracking memberships for women to address a gender imbalance.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/c98k2gee896o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a75/live/829d04f0-3b35-11f1-97f2-b74de1623710.jpg",
-      "published_at": "2026-04-18T17:26:08+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Charles Dance in Talks to Join The Batman Part 2 as Harvey Dent's Father",
-      "title_tr": "Charles Dance in Talks to Join The Batman Part 2 as Harvey Dent's Father",
-      "summary": "Game of Thrones alum Charles Dance has reportedly entered talks to join The Batman Part 2.",
-      "summary_tr": "Game of Thrones alum Charles Dance has reportedly entered talks to join The Batman Part 2.",
-      "long_summary": "Game of Thrones alum Charles Dance has reportedly entered talks to join The Batman Part 2.",
-      "long_summary_tr": "Game of Thrones alum Charles Dance has reportedly entered talks to join The Batman Part 2.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/charles-dance-in-talks-to-join-the-batman-part-2-as-harvey-dents-father",
-      "image": "https://assets-prd.ignimgs.com/2026/04/18/charles-dance-dent-1776532103566.png",
-      "published_at": "2026-04-18T17:18:53+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Toure hat-trick steers Norwich past Bristol City",
-      "title_tr": "Toure hat-trick steers Norwich past Bristol City",
-      "summary": "Mohamed Toure netted a second-half hat-trick as Norwich came from behind to beat Roy Hodgson's Bristol City 4-2 in a mid-table Championship battle at Ashton Gate.",
-      "summary_tr": "Mohamed Toure netted a second-half hat-trick as Norwich came from behind to beat Roy Hodgson's Bristol City 4-2 in a mid-table Championship battle at Ashton Gate.",
-      "long_summary": "Mohamed Toure netted a second-half hat-trick as Norwich came from behind to beat Roy Hodgson's Bristol City 4-2 in a mid-table Championship battle at Ashton Gate.",
-      "long_summary_tr": "Mohamed Toure netted a second-half hat-trick as Norwich came from behind to beat Roy Hodgson's Bristol City 4-2 in a mid-table Championship battle at Ashton Gate.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/bristol-city-vs-norwich-city/report/534824",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-efl-championship_7223681.jpg?20260418170458",
-      "published_at": "2026-04-18T17:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Charlton held by Sheff Wed but edge closer to safety",
-      "title_tr": "Charlton held by Sheff Wed but edge closer to safety",
-      "summary": "Charlton edged nearer to securing Championship safety as they drew 1-1 with Sheffield Wednesday.",
-      "summary_tr": "Charlton edged nearer to securing Championship safety as they drew 1-1 with Sheffield Wednesday.",
-      "long_summary": "Charlton edged nearer to securing Championship safety as they drew 1-1 with Sheffield Wednesday.",
-      "long_summary_tr": "Charlton edged nearer to securing Championship safety as they drew 1-1 with Sheffield Wednesday.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/sheffield-wednesday-vs-charlton-athletic/report/534831",
-      "image": "https://e2.365dm.com/26/04/1920x1080/skysports-sheffield-wednesday_7223701.jpg?20260418170937",
-      "published_at": "2026-04-18T17:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "West Brom win at Preston to move away from bottom three",
-      "title_tr": "West Brom win at Preston to move away from bottom three",
-      "summary": "West Brom made it eight games without defeat as they pulled further clear of relegation trouble by beating Preston 2-0 in the Championship at Deepdale.",
-      "summary_tr": "West Brom made it eight games without defeat as they pulled further clear of relegation trouble by beating Preston 2-0 in the Championship at Deepdale.",
-      "long_summary": "West Brom made it eight games without defeat as they pulled further clear of relegation trouble by beating Preston 2-0 in the Championship at Deepdale.",
-      "long_summary_tr": "West Brom made it eight games without defeat as they pulled further clear of relegation trouble by beating Preston 2-0 in the Championship at Deepdale.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/preston-north-end-vs-west-bromwich-albion/report/534830",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-efl-championship_7223671.jpg?20260418170251",
-      "published_at": "2026-04-18T17:15:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Hull City suffer blow as Birmingham hit back for point",
-      "title_tr": "Hull City suffer blow as Birmingham hit back for point",
-      "summary": "A stunning equaliser from midfielder Tomoki Iwata dented Hull's Championship play-off hopes as Birmingham fought back to earn a 1-1 draw at the MKM Stadium.",
-      "summary_tr": "A stunning equaliser from midfielder Tomoki Iwata dented Hull's Championship play-off hopes as Birmingham fought back to earn a 1-1 draw at the MKM Stadium.",
-      "long_summary": "A stunning equaliser from midfielder Tomoki Iwata dented Hull's Championship play-off hopes as Birmingham fought back to earn a 1-1 draw at the MKM Stadium.",
-      "long_summary_tr": "A stunning equaliser from midfielder Tomoki Iwata dented Hull's Championship play-off hopes as Birmingham fought back to earn a 1-1 draw at the MKM Stadium.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/hull-city-vs-birmingham-city/report/534826",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-birmingham-city_7223705.jpg?20260418171002",
-      "published_at": "2026-04-18T17:15:00+00:00"
     }
   ]
 }
