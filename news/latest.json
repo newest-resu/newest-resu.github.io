@@ -1,6 +1,578 @@
 {
-  "updated_at": "2026-04-30T00:06:29.597591+00:00",
+  "updated_at": "2026-04-30T04:05:11.015131+00:00",
   "articles": [
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Yen, dolar karşısında sert geriledi",
+      "title_tr": "Yen, dolar karşısında sert geriledi",
+      "summary": "Yen, dolar karşısında 160 seviyesini de aşarak yılın en zayıf düzeyine geriledi",
+      "summary_tr": "Yen, dolar karşısında 160 seviyesini de aşarak yılın en zayıf düzeyine geriledi",
+      "long_summary": "Yen, dolar karşısında 160 seviyesini de aşarak yılın en zayıf düzeyine geriledi",
+      "long_summary_tr": "Yen, dolar karşısında 160 seviyesini de aşarak yılın en zayıf düzeyine geriledi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/yen-dolar-karsisinda-sert-geriledi-3776199",
+      "image": null,
+      "published_at": "2026-04-30T03:55:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Hava soğuyor, kuvvetli sağanak geliyor. 5 gün sürecek",
+      "title_tr": "Hava soğuyor, kuvvetli sağanak geliyor. 5 gün sürecek",
+      "summary": "Nisan sonunda Balkanlardan gelen soğuk ve yağışlı hava dalgası 5 gün boyunca tüm yurdu etkisi altına alacak. Hava sıcaklıkları mevsim normallerinin altına düşecek.",
+      "summary_tr": "Nisan sonunda Balkanlardan gelen soğuk ve yağışlı hava dalgası 5 gün boyunca tüm yurdu etkisi altına alacak. Hava sıcaklıkları mevsim normallerinin altına düşecek.",
+      "long_summary": "Nisan sonunda Balkanlardan gelen soğuk ve yağışlı hava dalgası 5 gün boyunca tüm yurdu etkisi altına alacak. Hava sıcaklıkları mevsim normallerinin altına düşecek.",
+      "long_summary_tr": "Nisan sonunda Balkanlardan gelen soğuk ve yağışlı hava dalgası 5 gün boyunca tüm yurdu etkisi altına alacak. Hava sıcaklıkları mevsim normallerinin altına düşecek.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/galeri-hava-soguyor-kuvvetli-saganak-geliyor-5-gun-surecek-1722217",
+      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-04-23062845-657629.png",
+      "published_at": "2026-04-30T03:47:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Japon Yeni dolar karşısında 2024 yılından bu yana en düşük seviyesine geriledi",
+      "title_tr": "Japon Yeni dolar karşısında 2024 yılından bu yana en düşük seviyesine geriledi",
+      "summary": "Japon Yeni dolar karşısında değer kaybederek 2024 yılından bu yana en düşük seviyesine geriledi. Japonya Merkez Bankası piyasaya müdahale edecek mi?",
+      "summary_tr": "Japon Yeni dolar karşısında değer kaybederek 2024 yılından bu yana en düşük seviyesine geriledi. Japonya Merkez Bankası piyasaya müdahale edecek mi?",
+      "long_summary": "Japon Yeni dolar karşısında değer kaybederek 2024 yılından bu yana en düşük seviyesine geriledi. Japonya Merkez Bankası piyasaya müdahale edecek mi?",
+      "long_summary_tr": "Japon Yeni dolar karşısında değer kaybederek 2024 yılından bu yana en düşük seviyesine geriledi. Japonya Merkez Bankası piyasaya müdahale edecek mi?",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/japon-yeni-dolar-karsisinda-2024-yilindan-bu-yana-en-dusuk-seviyesine-geriledi-haberi-823387",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/30/japon-yeni-21-mqcy_cover.jpg",
+      "published_at": "2026-04-30T03:35:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Altında Fed etkisi",
+      "title_tr": "Altında Fed etkisi",
+      "summary": "Altın, üç günlük düşüşün ardından gelen alım fırsatlarıyla kayıplarının bir kısmını geri aldı.",
+      "summary_tr": "Altın, üç günlük düşüşün ardından gelen alım fırsatlarıyla kayıplarının bir kısmını geri aldı.",
+      "long_summary": "Altın, üç günlük düşüşün ardından gelen alım fırsatlarıyla kayıplarının bir kısmını geri aldı.",
+      "long_summary_tr": "Altın, üç günlük düşüşün ardından gelen alım fırsatlarıyla kayıplarının bir kısmını geri aldı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/altinda-fed-etkisi-3776198",
+      "image": null,
+      "published_at": "2026-04-30T03:30:39+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Nisan 2026",
+      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Nisan 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-30-nisan-2026-1722204",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-04-30T03:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
+      "title_tr": "US charges Mexican governor and other leaders with aiding drug cartel",
+      "summary": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
+      "summary_tr": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
+      "long_summary": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
+      "long_summary_tr": "The governor of Sinaloa, Rúben Rocha Moya, hails from the same party as the president of Mexico.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2720/live/47c46aa0-4416-11f1-9fe7-21f79f0ffc75.jpg",
+      "published_at": "2026-04-30T03:20:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Petrolde 120 dolar eşiği aşıldı",
+      "title_tr": "Petrolde 120 dolar eşiği aşıldı",
+      "summary": "Petrol, ABD’nin İran ihracatına yönelik uzun süreli bir ablukaya hazırlandığına dair işaretler ve nükleer müzakerelerin tıkanmasıyla yükselişini sürdürdü.",
+      "summary_tr": "Petrol, ABD’nin İran ihracatına yönelik uzun süreli bir ablukaya hazırlandığına dair işaretler ve nükleer müzakerelerin tıkanmasıyla yükselişini sürdürdü.",
+      "long_summary": "Petrol, ABD’nin İran ihracatına yönelik uzun süreli bir ablukaya hazırlandığına dair işaretler ve nükleer müzakerelerin tıkanmasıyla yükselişini sürdürdü.",
+      "long_summary_tr": "Petrol, ABD’nin İran ihracatına yönelik uzun süreli bir ablukaya hazırlandığına dair işaretler ve nükleer müzakerelerin tıkanmasıyla yükselişini sürdürdü.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/petrolde-120-dolar-esigi-asildi-3776197",
+      "image": null,
+      "published_at": "2026-04-30T03:17:06+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+      "title_tr": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+      "summary": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+      "summary_tr": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+      "long_summary": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+      "long_summary_tr": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/914e/live/c21ba570-4420-11f1-ac78-2112837ce2aa.jpg",
+      "published_at": "2026-04-30T03:15:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Teknoloji devlerinin yapay zeka harcamaları 725 milyar dolara ulaştı",
+      "title_tr": "Teknoloji devlerinin yapay zeka harcamaları 725 milyar dolara ulaştı",
+      "summary": "Yapay zeka harcamaları dev teknoloji şirketlerinin yeni bütçe raporlarıyla artış gösterdi. Microsoft ve Meta önderliğindeki bu büyüme sektörü nasıl etkileyecek?",
+      "summary_tr": "Yapay zeka harcamaları dev teknoloji şirketlerinin yeni bütçe raporlarıyla artış gösterdi. Microsoft ve Meta önderliğindeki bu büyüme sektörü nasıl etkileyecek?",
+      "long_summary": "Yapay zeka harcamaları dev teknoloji şirketlerinin yeni bütçe raporlarıyla artış gösterdi. Microsoft ve Meta önderliğindeki bu büyüme sektörü nasıl etkileyecek?",
+      "long_summary_tr": "Yapay zeka harcamaları dev teknoloji şirketlerinin yeni bütçe raporlarıyla artış gösterdi. Microsoft ve Meta önderliğindeki bu büyüme sektörü nasıl etkileyecek?",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/teknoloji-devlerinin-yapay-zeka-harcamalari-725-milyar-dolara-ulasti-haberi-823386",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/30/teknoloji-devlerinin-yapay-zeka-har-o9od_cover.jpg",
+      "published_at": "2026-04-30T03:14:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+      "title_tr": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+      "summary": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+      "summary_tr": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+      "long_summary": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+      "long_summary_tr": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283d/live/261df4e0-443c-11f1-adcb-799f507df11c.jpg",
+      "published_at": "2026-04-30T03:08:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD'li teknoloji devleri Ocak-Mart dönemi bilançolarını açıkladı",
+      "title_tr": "ABD'li teknoloji devleri Ocak-Mart dönemi bilançolarını açıkladı",
+      "summary": "ABD'li teknoloji şirketlerinden Alphabet, Amazon, Meta ve Microsoft'un gelir ve karları, ocak-mart döneminde beklentilerin üzerinde gerçekleşti.",
+      "summary_tr": "ABD'li teknoloji şirketlerinden Alphabet, Amazon, Meta ve Microsoft'un gelir ve karları, ocak-mart döneminde beklentilerin üzerinde gerçekleşti.",
+      "long_summary": "ABD'li teknoloji şirketlerinden Alphabet, Amazon, Meta ve Microsoft'un gelir ve karları, ocak-mart döneminde beklentilerin üzerinde gerçekleşti.",
+      "long_summary_tr": "ABD'li teknoloji şirketlerinden Alphabet, Amazon, Meta ve Microsoft'un gelir ve karları, ocak-mart döneminde beklentilerin üzerinde gerçekleşti.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-li-teknoloji-devleri-ocak-mart-donemi-bilancolarini-acikladi-3776196",
+      "image": null,
+      "published_at": "2026-04-30T03:04:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "OpenAI’ın Stargate projesi 10GW hedefine yıllar önce ulaştı",
+      "title_tr": "OpenAI’ın Stargate projesi 10GW hedefine yıllar önce ulaştı",
+      "summary": "OpenAI’ın Stargate projesi 10GW hedefine yıllar önce ulaştı",
+      "summary_tr": "OpenAI’ın Stargate projesi 10GW hedefine yıllar önce ulaştı",
+      "long_summary": "OpenAI’ın Stargate projesi 10GW hedefine yıllar önce ulaştı",
+      "long_summary_tr": "OpenAI’ın Stargate projesi 10GW hedefine yıllar önce ulaştı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/openain-stargate-projesi-10gw-hedefine-yllar-once-ulast-3875607",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-04-30T03:03:12+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Ekonomi ve siyaset gündemi - 30 Nisan 2026",
+      "title_tr": "Ekonomi ve siyaset gündemi - 30 Nisan 2026",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-30-nisan-2026-3776195",
+      "image": null,
+      "published_at": "2026-04-30T02:57:33+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Beyaz Saray Anthropic’in Mythos erişimini genişletme planına karşı - WSJ",
+      "title_tr": "Beyaz Saray Anthropic’in Mythos erişimini genişletme planına karşı - WSJ",
+      "summary": "Beyaz Saray Anthropic’in Mythos erişimini genişletme planına karşı - WSJ",
+      "summary_tr": "Beyaz Saray Anthropic’in Mythos erişimini genişletme planına karşı - WSJ",
+      "long_summary": "Beyaz Saray Anthropic’in Mythos erişimini genişletme planına karşı - WSJ",
+      "long_summary_tr": "Beyaz Saray Anthropic’in Mythos erişimini genişletme planına karşı - WSJ",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/beyaz-saray-anthropicin-mythos-erisimini-genisletme-planna-kars--wsj-3875599",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-04-30T02:13:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "L3Harris, Füze Çözümleri işi için halka arz başvurusu yaptı",
+      "title_tr": "L3Harris, Füze Çözümleri işi için halka arz başvurusu yaptı",
+      "summary": "L3Harris, Füze Çözümleri işi için halka arz başvurusu yaptı",
+      "summary_tr": "L3Harris, Füze Çözümleri işi için halka arz başvurusu yaptı",
+      "long_summary": "L3Harris, Füze Çözümleri işi için halka arz başvurusu yaptı",
+      "long_summary_tr": "L3Harris, Füze Çözümleri işi için halka arz başvurusu yaptı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/l3harris-fuze-cozumleri-isi-icin-halka-arz-basvurusu-yapt-432SI-3875595",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published_at": "2026-04-30T02:08:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+      "title_tr": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
+      "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+      "summary_tr": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+      "long_summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+      "long_summary_tr": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fb3/live/aa703ff0-3e8d-11f1-93dd-c79ff08bbda8.jpg",
+      "published_at": "2026-04-30T01:43:40+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Wall Street vadeli işlemleri ’Mag 7’ kazançları sonrası yükseldi",
+      "title_tr": "Wall Street vadeli işlemleri ’Mag 7’ kazançları sonrası yükseldi",
+      "summary": "Wall Street vadeli işlemleri ’Mag 7’ kazançları sonrası yükseldi",
+      "summary_tr": "Wall Street vadeli işlemleri ’Mag 7’ kazançları sonrası yükseldi",
+      "long_summary": "Wall Street vadeli işlemleri ’Mag 7’ kazançları sonrası yükseldi",
+      "long_summary_tr": "Wall Street vadeli işlemleri ’Mag 7’ kazançları sonrası yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-mag-7-kazanclar-sonras-yukseldi-3875583",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-04-30T01:40:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Anthropic, 900 milyar dolar değerlemede fon topluyor",
+      "title_tr": "Anthropic, 900 milyar dolar değerlemede fon topluyor",
+      "summary": "Anthropic, 900 milyar dolar değerlemede fon topluyor",
+      "summary_tr": "Anthropic, 900 milyar dolar değerlemede fon topluyor",
+      "long_summary": "Anthropic, 900 milyar dolar değerlemede fon topluyor",
+      "long_summary_tr": "Anthropic, 900 milyar dolar değerlemede fon topluyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/anthropic-900-milyar-dolar-degerlemede-fon-topluyor-93CH-3875571",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-04-30T01:27:39+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Tony Hawk Once Modded His Friend’s PS1 to Get Early THPS Feedback",
+      "title_tr": "Tony Hawk Once Modded His Friend’s PS1 to Get Early THPS Feedback",
+      "summary": "Back in 1998, Tony Hawk had his friend's modded PS1 to play early builds of the original THPS, and word began circulating in the skating community.",
+      "summary_tr": "Back in 1998, Tony Hawk had his friend's modded PS1 to play early builds of the original THPS, and word began circulating in the skating community.",
+      "long_summary": "Back in 1998, Tony Hawk had his friend's modded PS1 to play early builds of the original THPS, and word began circulating in the skating community.",
+      "long_summary_tr": "Back in 1998, Tony Hawk had his friend's modded PS1 to play early builds of the original THPS, and word began circulating in the skating community.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/tony-hawk-once-modded-his-friends-ps1-to-get-early-thps-feedback",
+      "image": "https://assets-prd.ignimgs.com/2026/04/30/tony-hawk-iicon-blogroll-1777503100037-1777510420701.jpg",
+      "published_at": "2026-04-30T01:12:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Avalyn halka arzı artırarak hisse başına 18 dolardan fiyatladı",
+      "title_tr": "Avalyn halka arzı artırarak hisse başına 18 dolardan fiyatladı",
+      "summary": "Avalyn halka arzı artırarak hisse başına 18 dolardan fiyatladı",
+      "summary_tr": "Avalyn halka arzı artırarak hisse başına 18 dolardan fiyatladı",
+      "long_summary": "Avalyn halka arzı artırarak hisse başına 18 dolardan fiyatladı",
+      "long_summary_tr": "Avalyn halka arzı artırarak hisse başına 18 dolardan fiyatladı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/avalyn-halka-arz-artrarak-hisse-basna-18-dolardan-fiyatlad-432SI-3875558",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
+      "published_at": "2026-04-30T01:02:11+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Avalyn Pharma halka arzı hisse başına 18 dolardan fiyatladı",
+      "title_tr": "Avalyn Pharma halka arzı hisse başına 18 dolardan fiyatladı",
+      "summary": "Avalyn Pharma halka arzı hisse başına 18 dolardan fiyatladı",
+      "summary_tr": "Avalyn Pharma halka arzı hisse başına 18 dolardan fiyatladı",
+      "long_summary": "Avalyn Pharma halka arzı hisse başına 18 dolardan fiyatladı",
+      "long_summary_tr": "Avalyn Pharma halka arzı hisse başına 18 dolardan fiyatladı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/avalyn-pharma-halka-arz-hisse-basna-18-dolardan-fiyatlad-432SI-3875559",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published_at": "2026-04-30T01:02:08+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "PlayStation Addresses PS5 DRM Concerns in New Statement",
+      "title_tr": "PlayStation Addresses PS5 DRM Concerns in New Statement",
+      "summary": "PlayStation has broken its silence on the drama surrounding DRM concerns with the PS4 and PS5.",
+      "summary_tr": "PlayStation has broken its silence on the drama surrounding DRM concerns with the PS4 and PS5.",
+      "long_summary": "PlayStation has broken its silence on the drama surrounding DRM concerns with the PS4 and PS5.",
+      "long_summary_tr": "PlayStation has broken its silence on the drama surrounding DRM concerns with the PS4 and PS5.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/playstation-addresses-ps5-drm-concerns-in-new-statement",
+      "image": "http://assets1.ignimgs.com/2015/10/27/playstation-logojpg-9b373d.jpg",
+      "published_at": "2026-04-30T00:42:46+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "AvalonBay ve Equity Residential birleşme görüşmesi yapıyor",
+      "title_tr": "AvalonBay ve Equity Residential birleşme görüşmesi yapıyor",
+      "summary": "AvalonBay ve Equity Residential birleşme görüşmesi yapıyor",
+      "summary_tr": "AvalonBay ve Equity Residential birleşme görüşmesi yapıyor",
+      "long_summary": "AvalonBay ve Equity Residential birleşme görüşmesi yapıyor",
+      "long_summary_tr": "AvalonBay ve Equity Residential birleşme görüşmesi yapıyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/avalonbay-ve-equity-residential-birlesme-gorusmesi-yapyor-3875550",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-04-30T00:26:25+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Defense News",
+      "title": "US Navy to extend service life of amphibious assault ship USS Wasp by 5 years",
+      "title_tr": "US Navy to extend service life of amphibious assault ship USS Wasp by 5 years",
+      "summary": "The service completed a study of Wasp-class amphibious assault ships and is currently conducting another on amphibious dock landing ships.",
+      "summary_tr": "The service completed a study of Wasp-class amphibious assault ships and is currently conducting another on amphibious dock landing ships.",
+      "long_summary": "The service completed a study of Wasp-class amphibious assault ships and is currently conducting another on amphibious dock landing ships.",
+      "long_summary_tr": "The service completed a study of Wasp-class amphibious assault ships and is currently conducting another on amphibious dock landing ships.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://www.defensenews.com/news/your-navy/2026/04/30/us-navy-to-extend-service-life-of-amphibious-assault-ship-uss-wasp-by-5-years/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LH5Z5CFWZZHZNBUSFTHOJ2AGJA.JPG",
+      "published_at": "2026-04-30T00:03:37+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Arsenal hit seven to seal Leicester play-off fate",
+      "title_tr": "Arsenal hit seven to seal Leicester play-off fate",
+      "summary": "Arsenal close the gap on leaders Manchester City to eight points with two games in hand, after a 7-0 win over Leicester City - who will finish bottom of the Women's Super League.",
+      "summary_tr": "Arsenal close the gap on leaders Manchester City to eight points with two games in hand, after a 7-0 win over Leicester City - who will finish bottom of the Women's Super League.",
+      "long_summary": "Arsenal close the gap on leaders Manchester City to eight points with two games in hand, after a 7-0 win over Leicester City - who will finish bottom of the Women's Super League.",
+      "long_summary_tr": "Arsenal close the gap on leaders Manchester City to eight points with two games in hand, after a 7-0 win over Leicester City - who will finish bottom of the Women's Super League.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/videos/clypglw807ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21cf/live/47779c70-4411-11f1-ac78-2112837ce2aa.jpg",
+      "published_at": "2026-04-30T00:03:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Alienware AW2726DM Is the Least Expensive 27\" QHD 240Hz OLED Gaming Monitor Ever",
+      "title_tr": "The Alienware AW2726DM Is the Least Expensive 27\" QHD 240Hz OLED Gaming Monitor Ever",
+      "summary": "Includes a three year warranty that covers OLED burn-in.",
+      "summary_tr": "Includes a three year warranty that covers OLED burn-in.",
+      "long_summary": "Includes a three year warranty that covers OLED burn-in.",
+      "long_summary_tr": "Includes a three year warranty that covers OLED burn-in.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-aw2726dm-oled-gaming-monitor-deal",
+      "image": "https://assets-prd.ignimgs.com/2026/04/15/alienwareaw2726dm-1776290565307.jpg",
+      "published_at": "2026-04-30T00:00:00+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
@@ -90,28 +662,6 @@
       "published_at": "2026-04-29T23:33:22+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Nisan 2026",
-      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Nisan 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
-      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
-      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
-      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Nisan 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-30-nisan-2026-1722204",
-      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-04-29T23:30:01+00:00"
-    },
-    {
       "origin": "yabanci",
       "category": "Bilim",
       "category_slug": "bilim",
@@ -176,50 +726,6 @@
       "url": "https://www.skysports.com/football/news/12040/13537145/arsenal-mikel-arteta-slams-completely-unacceptable-decision-to-overturn-penalty-awarded-to-eberechi-eze-in-champions-league-semi-final-at-atletico-madrid",
       "image": "https://e1.365dm.com/26/04/1920x1080/skysports-eberechi-eze-hancko_7234713.jpg?20260429225044",
       "published_at": "2026-04-29T23:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-      "title_tr": "US singer D4vd bought tools online to dispose of girl's body, prosecutors allege",
-      "summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "summary_tr": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "long_summary": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "long_summary_tr": "The Tiktok star's attorneys have maintained his innocence and vowed to \"vigorously defend\" him.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/cvgzll79529o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fb3/live/aa703ff0-3e8d-11f1-93dd-c79ff08bbda8.jpg",
-      "published_at": "2026-04-29T22:59:30+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Who has the better front three - Bayern or PSG?",
-      "title_tr": "Who has the better front three - Bayern or PSG?",
-      "summary": "BBC Sport experts Stephen Warnock and Nedum Onuoha analyse the difference between the attacking trios of Bayern Munich and PSG in their Champions League semi-final first leg.",
-      "summary_tr": "BBC Sport experts Stephen Warnock and Nedum Onuoha analyse the difference between the attacking trios of Bayern Munich and PSG in their Champions League semi-final first leg.",
-      "long_summary": "BBC Sport experts Stephen Warnock and Nedum Onuoha analyse the difference between the attacking trios of Bayern Munich and PSG in their Champions League semi-final first leg.",
-      "long_summary_tr": "BBC Sport experts Stephen Warnock and Nedum Onuoha analyse the difference between the attacking trios of Bayern Munich and PSG in their Champions League semi-final first leg.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/videos/cdjpeynmrn2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c1e/live/a0244d30-441d-11f1-bd52-e755d604ece4.jpg",
-      "published_at": "2026-04-29T22:58:46+00:00"
     },
     {
       "origin": "yabanci",
@@ -594,512 +1100,6 @@
       "url": "https://www.popsci.com/technology/password-browser-extension/",
       "image": "https://www.popsci.com/wp-content/uploads/2026/04/Hands-Typing-Laptop.jpg?quality=85",
       "published_at": "2026-04-29T22:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Arsenal 'hunt' Man City - what 7-0 win means for WSL title race",
-      "title_tr": "Arsenal 'hunt' Man City - what 7-0 win means for WSL title race",
-      "summary": "Arsenal have made up ground on Manchester City, but can they actually win the Women's Super League title this season?",
-      "summary_tr": "Arsenal have made up ground on Manchester City, but can they actually win the Women's Super League title this season?",
-      "long_summary": "Arsenal have made up ground on Manchester City, but can they actually win the Women's Super League title this season?",
-      "long_summary_tr": "Arsenal have made up ground on Manchester City, but can they actually win the Women's Super League title this season?",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/ce3pwllz5kjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e2b/live/87df3b50-4412-11f1-a1ef-492c49f57c20.jpg",
-      "published_at": "2026-04-29T21:56:52+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Anne Hathaway’s Style Evolution Through the Years",
-      "title_tr": "Anne Hathaway’s Style Evolution Through the Years",
-      "summary": "From statement-making graphic tees to elaborate couture creations.",
-      "summary_tr": "From statement-making graphic tees to elaborate couture creations.",
-      "long_summary": "From statement-making graphic tees to elaborate couture creations.",
-      "long_summary_tr": "From statement-making graphic tees to elaborate couture creations.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/celebrity-style/g71139883/anne-hathaway-style-evolution/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/actress-anne-hathaway-during-the-she-came-to-me-premiere-news-photo-1697594552.jpg",
-      "published_at": "2026-04-29T21:51:15+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursa'nın eski iki valisi hakkında son dakika kararı!",
-      "title_tr": "Bursa'nın eski iki valisi hakkında son dakika kararı!",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa’nın iki eski valisi Mahmut Demirtaş ve Yakup Canbolat hakkında dikkat çeken kararlar alındı.Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa'yı da yakından ilgilendirer iki karar yer aldı.\n\nYayımlanan kararda, eski Bursa Valisi Mahmut Demirtaş, mevcut görevi olan Emniyet Genel Müdürlüğü’nden alınarak İçişleri Bakanlığı emrine çekildi. Bir diğer eski Bursa Valisi Yakup Canbolat ise Aydın Valiliği görevinden Ankara Valiliği’ne atandı.\n\nMAHMUT DEMİRTAŞ KİMDİR?\n\n1965 yılında Kırşehir ili Çiçekdağı ilçesinde doğdu. İlköğrenimini Çiçekdağı ilçesinde, orta ve lise öğrenimini Yozgat ili Yerköy ilçesinde tamamladı. 1988 yılında Ankara Üniversitesi Siyasal Bilgiler Fakültesi’nden mezun oldu.\n\n1990 yılı Aralık ayında Denizli Kaymakam Adayı olarak göreve başladı. Adaylık süresi içerisinde Yozgat-Çayıralan, Kayseri-Felahiye, Ankara-Kızılcahamam ve Isparta-Atabey ilçelerinde Kaymakam Vekilliği yaptı. 1992 yılında 8 ay süre ile İngiltere’de inceleme ve araştırmalarda bulundu. Daha sonra sırasıyla Aksaray-Güzelyurt, Malatya-Pütürge ilçelerinde Kaymakamlık, Van ve Osmaniye illerinde Vali Yardımcılığı görevlerinde bulundu. İçişleri Bakanlığı Mülkiye Teftiş Kurulu’nda Mülkiye Müfettişi olarak göreve başladı. Sırası ile Adıyaman, Adana, Mardin ve Bursa illerinde Vali olarak görev yapmasının ardından 16.08.2024 tarihli Cumhurbaşkanlığı kararnamesiyle Emniyet Genel Müdürü olarak atandı.\n\n\n\nYAKUP CANBOLAT KİMDİR?\n\n1969 yılında Alaca' da doğdu. İlk, Orta ve Lise eğitimini Alaca' da tamamladı. 1991 yılında Ankara Üniversitesi Siyasal Bilgiler Fakültesinden mezun oldu. 1992 yılında Konya Maiyet memuru olarak göreve başladı. Yurt dışı stajı dönüşünden sonra Kahramanmaraş İli' nin Andırın ve Afşin İlçelerinde Kaymakam Vekilliği görevinde bulundu. Durağan İlçesinde Kaymakam olarak görev yaptıktan sonra 1998-2000 yılları arasında Yedisu Kaymakamı olarak görev yapmıştır. Cumayeri-Kahta- Yozgat Vali Yardımcılığı-Söğüt Kaymakamlık görevinin ardından İçişleri Bakanlığı Eğitim Daire Başkanı olarak görev yapmıştır. Evli ve 2 çocuk babası olan Kaymakam Yakup Canbolat iyi derecede İngilizce bilmektedir.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa’nın iki eski valisi Mahmut Demirtaş ve Yakup Canbolat hakkında dikkat çeken kararlar alındı.Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa'yı da yakından ilgilendirer iki karar yer aldı.\n\nYayımlanan kararda, eski Bursa Valisi Mahmut Demirtaş, mevcut görevi olan Emniyet Genel Müdürlüğü’nden alınarak İçişleri Bakanlığı emrine çekildi. Bir diğer eski Bursa Valisi Yakup Canbolat ise Aydın Valiliği görevinden Ankara Valiliği’ne atandı.\n\nMAHMUT DEMİRTAŞ KİMDİR?\n\n1965 yılında Kırşehir ili Çiçekdağı ilçesinde doğdu. İlköğrenimini Çiçekdağı ilçesinde, orta ve lise öğrenimini Yozgat ili Yerköy ilçesinde tamamladı. 1988 yılında Ankara Üniversitesi Siyasal Bilgiler Fakültesi’nden mezun oldu.\n\n1990 yılı Aralık ayında Denizli Kaymakam Adayı olarak göreve başladı. Adaylık süresi içerisinde Yozgat-Çayıralan, Kayseri-Felahiye, Ankara-Kızılcahamam ve Isparta-Atabey ilçelerinde Kaymakam Vekilliği yaptı. 1992 yılında 8 ay süre ile İngiltere’de inceleme ve araştırmalarda bulundu. Daha sonra sırasıyla Aksaray-Güzelyurt, Malatya-Pütürge ilçelerinde Kaymakamlık, Van ve Osmaniye illerinde Vali Yardımcılığı görevlerinde bulundu. İçişleri Bakanlığı Mülkiye Teftiş Kurulu’nda Mülkiye Müfettişi olarak göreve başladı. Sırası ile Adıyaman, Adana, Mardin ve Bursa illerinde Vali olarak görev yapmasının ardından 16.08.2024 tarihli Cumhurbaşkanlığı kararnamesiyle Emniyet Genel Müdürü olarak atandı.\n\n\n\nYAKUP CANBOLAT KİMDİR?\n\n1969 yılında Alaca' da doğdu. İlk, Orta ve Lise eğitimini Alaca' da tamamladı. 1991 yılında Ankara Üniversitesi Siyasal Bilgiler Fakültesinden mezun oldu. 1992 yılında Konya Maiyet memuru olarak göreve başladı. Yurt dışı stajı dönüşünden sonra Kahramanmaraş İli' nin Andırın ve Afşin İlçelerinde Kaymakam Vekilliği görevinde bulundu. Durağan İlçesinde Kaymakam olarak görev yaptıktan sonra 1998-2000 yılları arasında Yedisu Kaymakamı olarak görev yapmıştır. Cumayeri-Kahta- Yozgat Vali Yardımcılığı-Söğüt Kaymakamlık görevinin ardından İçişleri Bakanlığı Eğitim Daire Başkanı olarak görev yapmıştır. Evli ve 2 çocuk babası olan Kaymakam Yakup Canbolat iyi derecede İngilizce bilmektedir.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa’nın iki eski valisi Mahmut Demirtaş ve Yakup Canbolat hakkında dikkat çeken kararlar alındı.Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa'yı da yakından ilgilendirer iki karar yer aldı.\n\nYayımlanan kararda, eski Bursa Valisi Mahmut Demirtaş, mevcut görevi olan Emniyet Genel Müdürlüğü’nden alınarak İçişleri Bakanlığı emrine çekildi. Bir diğer eski Bursa Valisi Yakup Canbolat ise",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa’nın iki eski valisi Mahmut Demirtaş ve Yakup Canbolat hakkında dikkat çeken kararlar alındı.Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yayımlanan Resmi Gazete'de Bursa'yı da yakından ilgilendirer iki karar yer aldı.\n\nYayımlanan kararda, eski Bursa Valisi Mahmut Demirtaş, mevcut görevi olan Emniyet Genel Müdürlüğü’nden alınarak İçişleri Bakanlığı emrine çekildi. Bir diğer eski Bursa Valisi Yakup Canbolat ise",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-nin-eski-iki-valisi-hakkinda-son-dakika-karari-1618106",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/04/30/bursa-nin-eski-iki-valisi-hakkinda-son-dakika-karari-1777499453-771_large.webp",
-      "published_at": "2026-04-29T21:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Key takeaways from Hegseth’s day in front of the House",
-      "title_tr": "Key takeaways from Hegseth’s day in front of the House",
-      "summary": "What to know about Pete Hegseth’s appearance in front of the House Armed Services Committee.",
-      "summary_tr": "What to know about Pete Hegseth’s appearance in front of the House Armed Services Committee.",
-      "long_summary": "What to know about Pete Hegseth’s appearance in front of the House Armed Services Committee.",
-      "long_summary_tr": "What to know about Pete Hegseth’s appearance in front of the House Armed Services Committee.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/04/key-takeaways-from-hegseths-day-in-front-of-the-house/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/PB04-template-1024x576.jpg",
-      "published_at": "2026-04-29T21:42:41+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "MSI's Flagship 18\" 4K+ Gaming Laptop with AMD Ryzen 9 X3D CPU and RTX 5080 GPU for $2,599",
-      "title_tr": "MSI's Flagship 18\" 4K+ Gaming Laptop with AMD Ryzen 9 X3D CPU and RTX 5080 GPU for $2,599",
-      "summary": "This deal runs for only 2 days.",
-      "summary_tr": "This deal runs for only 2 days.",
-      "long_summary": "This deal runs for only 2 days.",
-      "long_summary_tr": "This deal runs for only 2 days.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/msi-raider-18-rtx-5080-gaming-laptop-deal",
-      "image": "https://assets-prd.ignimgs.com/2026/04/29/msiraider-1777498081801.jpg",
-      "published_at": "2026-04-29T21:40:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Küresel Sumud Filosu'na uluslararası sularda müdahale",
-      "title_tr": "Küresel Sumud Filosu'na uluslararası sularda müdahale",
-      "summary": "Küresel Sumud Filosu, Akdeniz&#039;de uluslararası sulardaki 11 gemisiyle irtibatın koptuğunu açıklarken gemideki bazı aktivistler İsrail&#039;in yasa dışı müdahalesinin başladığını bildirdi.",
-      "summary_tr": "Küresel Sumud Filosu, Akdeniz&#039;de uluslararası sulardaki 11 gemisiyle irtibatın koptuğunu açıklarken gemideki bazı aktivistler İsrail&#039;in yasa dışı müdahalesinin başladığını bildirdi.",
-      "long_summary": "Küresel Sumud Filosu, Akdeniz&#039;de uluslararası sulardaki 11 gemisiyle irtibatın koptuğunu açıklarken gemideki bazı aktivistler İsrail&#039;in yasa dışı müdahalesinin başladığını bildirdi.",
-      "long_summary_tr": "Küresel Sumud Filosu, Akdeniz&#039;de uluslararası sulardaki 11 gemisiyle irtibatın koptuğunu açıklarken gemideki bazı aktivistler İsrail&#039;in yasa dışı müdahalesinin başladığını bildirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/kuresel-sumud-filosuna-uluslararasi-sularda-mudahale-haberi-823385",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/30/kuresel-sumud-filosu-zf2t_cover.jpg",
-      "published_at": "2026-04-29T21:37:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD’li teknoloji devlerinden güçlü bilanço: Alphabet, Amazon, Meta ve Microsoft beklentileri aştı",
-      "title_tr": "ABD’li teknoloji devlerinden güçlü bilanço: Alphabet, Amazon, Meta ve Microsoft beklentileri aştı",
-      "summary": "ABD’li teknoloji devleri Alphabet, Amazon, Meta ve Microsoft, yılın ilk çeyreğinde gelir ve kârda beklentilerin üzerinde performans gösterdi.",
-      "summary_tr": "ABD’li teknoloji devleri Alphabet, Amazon, Meta ve Microsoft, yılın ilk çeyreğinde gelir ve kârda beklentilerin üzerinde performans gösterdi.",
-      "long_summary": "ABD’li teknoloji devleri Alphabet, Amazon, Meta ve Microsoft, yılın ilk çeyreğinde gelir ve kârda beklentilerin üzerinde performans gösterdi.",
-      "long_summary_tr": "ABD’li teknoloji devleri Alphabet, Amazon, Meta ve Microsoft, yılın ilk çeyreğinde gelir ve kârda beklentilerin üzerinde performans gösterdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/abdli-teknoloji-devlerinden-guclu-bilanco-alphabet-amazon-meta-ve-microsoft-beklentileri-asti-haberi-823384",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/04/30/alphabet-amazon-meta-ve-microsoft-kd9y_cover.jpg",
-      "published_at": "2026-04-29T21:35:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Thor Director Wants a Logan-Style Final Film for Chris Hemsworth",
-      "title_tr": "Thor Director Wants a Logan-Style Final Film for Chris Hemsworth",
-      "summary": "Thor director Kenneth Branagh wants to see a Logan-esque finale for Marvel’s God of Thunder.",
-      "summary_tr": "Thor director Kenneth Branagh wants to see a Logan-esque finale for Marvel’s God of Thunder.",
-      "long_summary": "Thor director Kenneth Branagh wants to see a Logan-esque finale for Marvel’s God of Thunder.",
-      "long_summary_tr": "Thor director Kenneth Branagh wants to see a Logan-esque finale for Marvel’s God of Thunder.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/thor-director-wants-a-logan-style-final-film-for-chris-hemsworth",
-      "image": "https://assets-prd.ignimgs.com/2022/10/05/thorloveandthunder-blorgoll-01-1656709247130-1664989087704.jpg",
-      "published_at": "2026-04-29T21:34:29+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "İşsizlik sigortasında devlet katkı payı düşürüldü",
-      "title_tr": "İşsizlik sigortasında devlet katkı payı düşürüldü",
-      "summary": "İşsizlik sigortasındaki devlet katkı payı yüzde 1'den yüzde 0,5'e düşürüldü.",
-      "summary_tr": "İşsizlik sigortasındaki devlet katkı payı yüzde 1'den yüzde 0,5'e düşürüldü.",
-      "long_summary": "İşsizlik sigortasındaki devlet katkı payı yüzde 1'den yüzde 0,5'e düşürüldü.",
-      "long_summary_tr": "İşsizlik sigortasındaki devlet katkı payı yüzde 1'den yüzde 0,5'e düşürüldü.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/issizlik-sigortasinda-devlet-katki-payi-dusuruldu-3776191",
-      "image": null,
-      "published_at": "2026-04-29T21:31:48+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Casper the Friendly Ghost Coming Back to Haunt Disney+",
-      "title_tr": "Casper the Friendly Ghost Coming Back to Haunt Disney+",
-      "summary": "Casper the Friendly Ghost, is getting a new live-action series at Disney+",
-      "summary_tr": "Casper the Friendly Ghost, is getting a new live-action series at Disney+",
-      "long_summary": "Casper the Friendly Ghost, is getting a new live-action series at Disney+",
-      "long_summary_tr": "Casper the Friendly Ghost, is getting a new live-action series at Disney+",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/casper-the-friendly-ghost-coming-back-to-haunt-disney",
-      "image": "https://assets-prd.ignimgs.com/2026/04/29/screenshot-2026-04-29-at-3-15-04-pm-1777493759375.png",
-      "published_at": "2026-04-29T21:30:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "The influence of Super League half-backs: Which partnership is on top?",
-      "title_tr": "The influence of Super League half-backs: Which partnership is on top?",
-      "summary": "When teams are riding high, on a run of form, or 'clicking', there are two players on the field that get looked at more than most - the ones starting at No 6 and No 7.",
-      "summary_tr": "When teams are riding high, on a run of form, or 'clicking', there are two players on the field that get looked at more than most - the ones starting at No 6 and No 7.",
-      "long_summary": "When teams are riding high, on a run of form, or 'clicking', there are two players on the field that get looked at more than most - the ones starting at No 6 and No 7.",
-      "long_summary_tr": "When teams are riding high, on a run of form, or 'clicking', there are two players on the field that get looked at more than most - the ones starting at No 6 and No 7.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-league/news/12040/13537884/the-influence-of-super-league-half-backs-are-jake-connor-and-brodie-croft-the-most-influential-do-mikey-lewis-and-tyrone-may-have-more-to-do",
-      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-jake-connor-leeds-rhinos_7233868.jpg?20260429073001",
-      "published_at": "2026-04-29T21:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "History-making lucky loser Potapova into Madrid semis",
-      "title_tr": "History-making lucky loser Potapova into Madrid semis",
-      "summary": "Anastasia Potapova claims a thrilling win over Karolina Pliskova at the Madrid Open to become the first lucky loser to reach a WTA 1000 semi-final.",
-      "summary_tr": "Anastasia Potapova claims a thrilling win over Karolina Pliskova at the Madrid Open to become the first lucky loser to reach a WTA 1000 semi-final.",
-      "long_summary": "Anastasia Potapova claims a thrilling win over Karolina Pliskova at the Madrid Open to become the first lucky loser to reach a WTA 1000 semi-final.",
-      "long_summary_tr": "Anastasia Potapova claims a thrilling win over Karolina Pliskova at the Madrid Open to become the first lucky loser to reach a WTA 1000 semi-final.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/tennis/articles/cy924e7qg05o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4484/live/f9fdd710-43da-11f1-ac78-2112837ce2aa.jpg",
-      "published_at": "2026-04-29T21:24:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "title_tr": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "summary": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "summary_tr": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "long_summary": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "long_summary_tr": "Undisputed Developer Ends Support to Focus on Sequel; Adds Talent from Rockstar and EA Sports",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/undisputed-developer-ends-support-to-focus-on-sequel-adds-talent-from-rockstar-and-ea-sports",
-      "image": "https://assets-prd.ignimgs.com/2024/10/04/undisputed-blogroll-1728081671876.png",
-      "published_at": "2026-04-29T21:20:05+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Trump'tan İran'a: Teslim olmak zorundalar",
-      "title_tr": "Trump'tan İran'a: Teslim olmak zorundalar",
-      "summary": "Trump, İran'a yönelik deniz ablukasının nükleer anlaşma sağlanana kadar devam edeceğini belirterek, hiçbir askeri güçlerinin kalmadığını ve teslim olmak zorunda olduklarını söyledi.",
-      "summary_tr": "Trump, İran'a yönelik deniz ablukasının nükleer anlaşma sağlanana kadar devam edeceğini belirterek, hiçbir askeri güçlerinin kalmadığını ve teslim olmak zorunda olduklarını söyledi.",
-      "long_summary": "Trump, İran'a yönelik deniz ablukasının nükleer anlaşma sağlanana kadar devam edeceğini belirterek, hiçbir askeri güçlerinin kalmadığını ve teslim olmak zorunda olduklarını söyledi.",
-      "long_summary_tr": "Trump, İran'a yönelik deniz ablukasının nükleer anlaşma sağlanana kadar devam edeceğini belirterek, hiçbir askeri güçlerinin kalmadığını ve teslim olmak zorunda olduklarını söyledi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/trump-tan-iran-a-teslim-olmak-zorundalar-3776190",
-      "image": null,
-      "published_at": "2026-04-29T21:18:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Şehit İslam Altuğ AİHL’de Robotik Proje Şenliği Yoğun İlgi Gördü",
-      "title_tr": "Şehit İslam Altuğ AİHL’de Robotik Proje Şenliği Yoğun İlgi Gördü",
-      "summary": "Yalova’da Şehit İslam Altuğ Anadolu İmam Hatip Lisesi tarafından düzenlenen Robotik Proje Şenliği’nde öğrenciler, geliştirdikleri yenilikçi teknolojik projeleri sergiledi. İl Millî Eğitim Müdürü Aytekin Yılmaz’ın da katıldığı etkinlikte gençlerin üretkenliği ve teknolojiye olan ilgisi takdir topladı.",
-      "summary_tr": "Yalova’da Şehit İslam Altuğ Anadolu İmam Hatip Lisesi tarafından düzenlenen Robotik Proje Şenliği’nde öğrenciler, geliştirdikleri yenilikçi teknolojik projeleri sergiledi. İl Millî Eğitim Müdürü Aytekin Yılmaz’ın da katıldığı etkinlikte gençlerin üretkenliği ve teknolojiye olan ilgisi takdir topladı.",
-      "long_summary": "Yalova’da Şehit İslam Altuğ Anadolu İmam Hatip Lisesi tarafından düzenlenen Robotik Proje Şenliği’nde öğrenciler, geliştirdikleri yenilikçi teknolojik projeleri sergiledi. İl Millî Eğitim Müdürü Aytekin Yılmaz’ın da katıldığı etkinlikte gençlerin üretkenliği ve teknolojiye olan ilgisi takdir topladı.",
-      "long_summary_tr": "Yalova’da Şehit İslam Altuğ Anadolu İmam Hatip Lisesi tarafından düzenlenen Robotik Proje Şenliği’nde öğrenciler, geliştirdikleri yenilikçi teknolojik projeleri sergiledi. İl Millî Eğitim Müdürü Aytekin Yılmaz’ın da katıldığı etkinlikte gençlerin üretkenliği ve teknolojiye olan ilgisi takdir topladı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/sehit-islam-altug-aihlde-robotik-proje-senligi-yogun-ilgi-gordu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-sehit-islam-altug-imam-hatip-robotik-senlik-3.jpeg",
-      "published_at": "2026-04-29T21:18:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Yem Bitkileri İçin Sahaya İnildi",
-      "title_tr": "Yalova’da Yem Bitkileri İçin Sahaya İnildi",
-      "summary": "Yalova İl Tarım ve Orman Müdürlüğü, yem bitkileri desteklemeleri kapsamında üreticilerin beyan ettiği ekili alanlarda saha kontrollerine başladı.",
-      "summary_tr": "Yalova İl Tarım ve Orman Müdürlüğü, yem bitkileri desteklemeleri kapsamında üreticilerin beyan ettiği ekili alanlarda saha kontrollerine başladı.",
-      "long_summary": "Yalova İl Tarım ve Orman Müdürlüğü, yem bitkileri desteklemeleri kapsamında üreticilerin beyan ettiği ekili alanlarda saha kontrollerine başladı.",
-      "long_summary_tr": "Yalova İl Tarım ve Orman Müdürlüğü, yem bitkileri desteklemeleri kapsamında üreticilerin beyan ettiği ekili alanlarda saha kontrollerine başladı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-yem-bitkileri-icin-sahaya-inildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalovada-yem-bitkileri-icin-sahaya-inildi-3.jpg",
-      "published_at": "2026-04-29T21:17:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yazarımız Hannan Öngü’nün Kitaplarının Yeni Baskıları Çıktı",
-      "title_tr": "Yazarımız Hannan Öngü’nün Kitaplarının Yeni Baskıları Çıktı",
-      "summary": "Yalova Gazetesi köşe yazarlarından olan Hannan Öngü’nün “Kenar Mahalle” ve “Sessizlerin Dünden Fısıltıları” adlı kitaplarının yeni baskıları, internet sitelerinden satışa sunulmaya başladı.",
-      "summary_tr": "Yalova Gazetesi köşe yazarlarından olan Hannan Öngü’nün “Kenar Mahalle” ve “Sessizlerin Dünden Fısıltıları” adlı kitaplarının yeni baskıları, internet sitelerinden satışa sunulmaya başladı.",
-      "long_summary": "Yalova Gazetesi köşe yazarlarından olan Hannan Öngü’nün “Kenar Mahalle” ve “Sessizlerin Dünden Fısıltıları” adlı kitaplarının yeni baskıları, internet sitelerinden satışa sunulmaya başladı.",
-      "long_summary_tr": "Yalova Gazetesi köşe yazarlarından olan Hannan Öngü’nün “Kenar Mahalle” ve “Sessizlerin Dünden Fısıltıları” adlı kitaplarının yeni baskıları, internet sitelerinden satışa sunulmaya başladı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yazarimiz-hannan-ongunun-kitaplarinin-yeni-baskilari-cikti",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/yalova-gazete-kose-yazari-hanna-ongu-kitaplar-basim-aciklama.jpg",
-      "published_at": "2026-04-29T21:16:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Amazon Confirms a Major Change to Prime Day Dates This Year",
-      "title_tr": "Amazon Confirms a Major Change to Prime Day Dates This Year",
-      "summary": "Prime Day has almost always happened in July over the years, but Amazon has just announced a change to that schedule.",
-      "summary_tr": "Prime Day has almost always happened in July over the years, but Amazon has just announced a change to that schedule.",
-      "long_summary": "Prime Day has almost always happened in July over the years, but Amazon has just announced a change to that schedule.",
-      "long_summary_tr": "Prime Day has almost always happened in July over the years, but Amazon has just announced a change to that schedule.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/amazon-confirms-a-major-change-to-prime-day-dates-this-year",
-      "image": "https://assets-prd.ignimgs.com/2024/06/25/amazon-officially-announces-prime-day-2024-ign-1719311313362.png",
-      "published_at": "2026-04-29T21:15:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Muhsin Sevencan’ın Beşinci Eseri Kocadere’de Tanıtıldı",
-      "title_tr": "Muhsin Sevencan’ın Beşinci Eseri Kocadere’de Tanıtıldı",
-      "summary": "Araştırmacı-yazar Muhsin Sevencan’ın bölge tarihine ışık tutan “Güney Marmara Bölgesi Ermeni Olayları: Siyah Kitap” adlı beşinci eseri, okuyucunun beğenisine sunuldu.",
-      "summary_tr": "Araştırmacı-yazar Muhsin Sevencan’ın bölge tarihine ışık tutan “Güney Marmara Bölgesi Ermeni Olayları: Siyah Kitap” adlı beşinci eseri, okuyucunun beğenisine sunuldu.",
-      "long_summary": "Araştırmacı-yazar Muhsin Sevencan’ın bölge tarihine ışık tutan “Güney Marmara Bölgesi Ermeni Olayları: Siyah Kitap” adlı beşinci eseri, okuyucunun beğenisine sunuldu.",
-      "long_summary_tr": "Araştırmacı-yazar Muhsin Sevencan’ın bölge tarihine ışık tutan “Güney Marmara Bölgesi Ermeni Olayları: Siyah Kitap” adlı beşinci eseri, okuyucunun beğenisine sunuldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/muhsin-sevencanin-besinci-eseri-kocaderede-tanitildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/muhsin-sevencanin-besinci-eseri-kocaderede-tanitildi-4.JPG",
-      "published_at": "2026-04-29T21:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Kritik atamalar Resmi Gazete’de: Birçok ilin valisi ve emniyet müdürü değişti",
-      "title_tr": "Kritik atamalar Resmi Gazete’de: Birçok ilin valisi ve emniyet müdürü değişti",
-      "summary": "Resmi Gazete’de yayımlanan atama kararlarıyla Ankara Valiliği ve Emniyet Genel Müdürlüğü başta olmak üzere birçok kritik görevde değişiklik yapıldı. Buna göre, Vasip Şahin Türkiye İnsan Hakları ve Eşitlik Kurumu Başkanlığı’na atanırken, Ankara Valiliği koltuğuna Aydın Valisi Yakup Canbolat getirildi. Kararla birlikte birçok ilde vali ve emniyet müdürü değişti.",
-      "summary_tr": "Resmi Gazete’de yayımlanan atama kararlarıyla Ankara Valiliği ve Emniyet Genel Müdürlüğü başta olmak üzere birçok kritik görevde değişiklik yapıldı. Buna göre, Vasip Şahin Türkiye İnsan Hakları ve Eşitlik Kurumu Başkanlığı’na atanırken, Ankara Valiliği koltuğuna Aydın Valisi Yakup Canbolat getirildi. Kararla birlikte birçok ilde vali ve emniyet müdürü değişti.",
-      "long_summary": "Resmi Gazete’de yayımlanan atama kararlarıyla Ankara Valiliği ve Emniyet Genel Müdürlüğü başta olmak üzere birçok kritik görevde değişiklik yapıldı. Buna göre, Vasip Şahin Türkiye İnsan Hakları ve Eşitlik Kurumu Başkanlığı’na atanırken, Ankara Valiliği koltuğuna Aydın Valisi Yakup Canbolat getirildi. Kararla birlikte birçok ilde vali ve emniyet müdürü değişti.",
-      "long_summary_tr": "Resmi Gazete’de yayımlanan atama kararlarıyla Ankara Valiliği ve Emniyet Genel Müdürlüğü başta olmak üzere birçok kritik görevde değişiklik yapıldı. Buna göre, Vasip Şahin Türkiye İnsan Hakları ve Eşitlik Kurumu Başkanlığı’na atanırken, Ankara Valiliği koltuğuna Aydın Valisi Yakup Canbolat getirildi. Kararla birlikte birçok ilde vali ve emniyet müdürü değişti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/kritik-atamalar-resmi-gazetede-bircok-ilin-valisi-ve-emniyet-muduru-degisti-haberi-823383",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/13/resmi-gazete-ldum_cover.jpg",
-      "published_at": "2026-04-29T21:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Tonami’deki Bakım Çınarcık Seferlerini Vurdu",
-      "title_tr": "Tonami’deki Bakım Çınarcık Seferlerini Vurdu",
-      "summary": "Yalova-Kocaeli ve Yalova-Bursa karayolu üzerindeki kritik geçiş noktası Tonami Köprülü Kavşağı’nda başlatılan bakım çalışmaları, Çınarcık Belediyesi otobüs seferlerinde aksamalara neden oluyor.",
-      "summary_tr": "Yalova-Kocaeli ve Yalova-Bursa karayolu üzerindeki kritik geçiş noktası Tonami Köprülü Kavşağı’nda başlatılan bakım çalışmaları, Çınarcık Belediyesi otobüs seferlerinde aksamalara neden oluyor.",
-      "long_summary": "Yalova-Kocaeli ve Yalova-Bursa karayolu üzerindeki kritik geçiş noktası Tonami Köprülü Kavşağı’nda başlatılan bakım çalışmaları, Çınarcık Belediyesi otobüs seferlerinde aksamalara neden oluyor.",
-      "long_summary_tr": "Yalova-Kocaeli ve Yalova-Bursa karayolu üzerindeki kritik geçiş noktası Tonami Köprülü Kavşağı’nda başlatılan bakım çalışmaları, Çınarcık Belediyesi otobüs seferlerinde aksamalara neden oluyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/tonamideki-bakim-cinarcik-seferlerini-vurdu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/haber/ust-manset/tonamideki-bakim-cinarcik-seferlerini-vurdu.jpg",
-      "published_at": "2026-04-29T21:14:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova FK’nın Maçları Yeni Sezonda Tivibu Spor ve Yaay’da",
-      "title_tr": "Yalova FK’nın Maçları Yeni Sezonda Tivibu Spor ve Yaay’da",
-      "summary": "2026-2027 sezonunda ilimizi Nesine 3. Ligde temsil edecek olan Yalova FK’nın maçlarının yayıncısı Tivibuspor ve Yaay oldu.",
-      "summary_tr": "2026-2027 sezonunda ilimizi Nesine 3. Ligde temsil edecek olan Yalova FK’nın maçlarının yayıncısı Tivibuspor ve Yaay oldu.",
-      "long_summary": "2026-2027 sezonunda ilimizi Nesine 3. Ligde temsil edecek olan Yalova FK’nın maçlarının yayıncısı Tivibuspor ve Yaay oldu.",
-      "long_summary_tr": "2026-2027 sezonunda ilimizi Nesine 3. Ligde temsil edecek olan Yalova FK’nın maçlarının yayıncısı Tivibuspor ve Yaay oldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalova-fknin-maclari-yeni-sezonda-tivibu-spor-ve-yaayda",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/spor/yalova-fknin-maclari-yeni-sezonda-tivibu-spor-ve-yaayda-3.jpg",
-      "published_at": "2026-04-29T21:13:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Alkışlar Bizim Kızlara",
-      "title_tr": "Alkışlar Bizim Kızlara",
-      "summary": "Yalova VİP: 68 Turgutlu Belediyespor:72\n\nKadın basketbolundaki başarılı temsilcimiz Yalova VİP, 2025-2026 sezonuna Play-Off çeyrek finalleriyle nokta koydu.",
-      "summary_tr": "Yalova VİP: 68 Turgutlu Belediyespor:72\n\nKadın basketbolundaki başarılı temsilcimiz Yalova VİP, 2025-2026 sezonuna Play-Off çeyrek finalleriyle nokta koydu.",
-      "long_summary": "Yalova VİP: 68 Turgutlu Belediyespor:72\n\nKadın basketbolundaki başarılı temsilcimiz Yalova VİP, 2025-2026 sezonuna Play-Off çeyrek finalleriyle nokta koydu.",
-      "long_summary_tr": "Yalova VİP: 68 Turgutlu Belediyespor:72\n\nKadın basketbolundaki başarılı temsilcimiz Yalova VİP, 2025-2026 sezonuna Play-Off çeyrek finalleriyle nokta koydu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/alkislar-bizim-kizlara",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/04/spor/alkislar-bizim-kizlara-6.jpeg",
-      "published_at": "2026-04-29T21:12:00+00:00"
     }
   ]
 }
