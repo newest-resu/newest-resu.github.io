@@ -1,27 +1,71 @@
 {
-  "updated_at": "2026-05-09T00:06:53.184246+00:00",
+  "updated_at": "2026-05-09T03:56:09.347625+00:00",
   "articles": [
     {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "Elle",
-      "title": "7 Stunning Summer Getaways—and What to Pack for Each One",
-      "title_tr": "7 Stunning Summer Getaways—and What to Pack for Each One",
-      "summary": "Your vacation itinerary, right this way.",
-      "summary_tr": "Your vacation itinerary, right this way.",
-      "long_summary": "Your vacation itinerary, right this way.",
-      "long_summary_tr": "Your vacation itinerary, right this way.",
+      "source": "NTV",
+      "title": "Milyonluk araçlar küle döndü",
+      "title_tr": "Milyonluk araçlar küle döndü",
+      "summary": "Kadıköy'de lüks oto galeride sabaha karşı yangın çıktı. Onlarca milyon liralık 4 araç kullanılamaz hale geldi.",
+      "summary_tr": "Kadıköy'de lüks oto galeride sabaha karşı yangın çıktı. Onlarca milyon liralık 4 araç kullanılamaz hale geldi.",
+      "long_summary": "Kadıköy'de lüks oto galeride sabaha karşı yangın çıktı. Onlarca milyon liralık 4 araç kullanılamaz hale geldi.",
+      "long_summary_tr": "Kadıköy'de lüks oto galeride sabaha karşı yangın çıktı. Onlarca milyon liralık 4 araç kullanılamaz hale geldi.",
       "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.elle.com/fashion/shopping/a71129134/summer-travel-destinations-and-what-to-pack/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/eba301bf-8a4d-4be5-8acb-1b71ce0515b6.png",
-      "published_at": "2026-05-08T23:58:03+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/milyonluk-araclar-kule-dondu-1723495",
+      "image": "https://images.ntv.com.tr/images/AA-20260509-41328745-41328739-KADIKOYDE_OTO_GALERIDE_CIKAN_YANGINDA_4_ARAC_KULLANILAMAZ_HALE_GELDI-874136.jpg",
+      "published_at": "2026-05-09T03:38:31+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Çin'in ihracatı Nisan ayında yüzde 14,1 yükseldi",
+      "title_tr": "Çin'in ihracatı Nisan ayında yüzde 14,1 yükseldi",
+      "summary": "Çin ihracat verileri nisan ayında yıllık bazda yüzde 14,1 oranında artış gösterdi. İthalat rakamları ise nisan döneminde yüzde 25,3 seviyesinde gerçekleşti. Trump ve Şi Cinping gelecek hafta Pekin&#039;de bir araya gelecek.",
+      "summary_tr": "Çin ihracat verileri nisan ayında yıllık bazda yüzde 14,1 oranında artış gösterdi. İthalat rakamları ise nisan döneminde yüzde 25,3 seviyesinde gerçekleşti. Trump ve Şi Cinping gelecek hafta Pekin&#039;de bir araya gelecek.",
+      "long_summary": "Çin ihracat verileri nisan ayında yıllık bazda yüzde 14,1 oranında artış gösterdi. İthalat rakamları ise nisan döneminde yüzde 25,3 seviyesinde gerçekleşti. Trump ve Şi Cinping gelecek hafta Pekin&#039;de bir araya gelecek.",
+      "long_summary_tr": "Çin ihracat verileri nisan ayında yıllık bazda yüzde 14,1 oranında artış gösterdi. İthalat rakamları ise nisan döneminde yüzde 25,3 seviyesinde gerçekleşti. Trump ve Şi Cinping gelecek hafta Pekin&#039;de bir araya gelecek.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/cinin-ihracati-nisan-ayinda-yuzde-141-yukseldi-haberi-824509",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/09/cin-ihracat-a7aq_cover.jpg",
+      "published_at": "2026-05-09T03:32:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "title_tr": "Iran accuses US of 'reckless military adventure'",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "summary_tr": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "long_summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "long_summary_tr": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c78/live/9157bc30-4add-11f1-9eb0-1940b1e77213.jpg",
+      "published_at": "2026-05-09T03:30:52+00:00"
     },
     {
       "origin": "turkiye",
@@ -43,7 +87,161 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-mayis-2026-1723483",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-05-08T23:30:00+00:00"
+      "published_at": "2026-05-09T03:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Fabrikada gece yarısı yangın paniği",
+      "title_tr": "Fabrikada gece yarısı yangın paniği",
+      "summary": "Arnavutköy’de bir fabrikada çıkan ve çevredeki yapılara sıçrayan yangın, 2.5 saatlik müdahaleyle söndürüldü.",
+      "summary_tr": "Arnavutköy’de bir fabrikada çıkan ve çevredeki yapılara sıçrayan yangın, 2.5 saatlik müdahaleyle söndürüldü.",
+      "long_summary": "Arnavutköy’de bir fabrikada çıkan ve çevredeki yapılara sıçrayan yangın, 2.5 saatlik müdahaleyle söndürüldü.",
+      "long_summary_tr": "Arnavutköy’de bir fabrikada çıkan ve çevredeki yapılara sıçrayan yangın, 2.5 saatlik müdahaleyle söndürüldü.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/fabrikada-gece-yarisi-yangin-panigi-1723490",
+      "image": "https://images.ntv.com.tr/images/ARNAVUTKOYDE-FABRIKADA-YANGIN-EKIPLER-_1300842_386906-873592.jpg",
+      "published_at": "2026-05-09T02:15:55+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "International cyber attack disrupts swathe of universities and schools",
+      "title_tr": "International cyber attack disrupts swathe of universities and schools",
+      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+      "summary_tr": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+      "long_summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+      "long_summary_tr": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c9d/live/c19e8dd0-4ad1-11f1-92c1-4f69e4cb55db.jpg",
+      "published_at": "2026-05-09T01:17:55+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "title_tr": "Hungary's new PM to be sworn in during 'regime change' party",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "summary_tr": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "long_summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "long_summary_tr": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891d/live/cd2bc300-4afb-11f1-b55d-0f258dce1735.jpg",
+      "published_at": "2026-05-09T00:46:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Başlıksız - 09 Mayıs 2026 03:41",
+      "title_tr": "Başlıksız - 09 Mayıs 2026 03:41",
+      "summary": "Fethiye'de akaryakıt istasyonunda 15 ton mazot yüklü tanker boşaltım sırasında yanmaya başladı. Bir otomobil ve motosiklete de sıçrayan alevler 1 saatte söndürüldü.",
+      "summary_tr": "Fethiye'de akaryakıt istasyonunda 15 ton mazot yüklü tanker boşaltım sırasında yanmaya başladı. Bir otomobil ve motosiklete de sıçrayan alevler 1 saatte söndürüldü.",
+      "long_summary": "Fethiye'de akaryakıt istasyonunda 15 ton mazot yüklü tanker boşaltım sırasında yanmaya başladı. Bir otomobil ve motosiklete de sıçrayan alevler 1 saatte söndürüldü.",
+      "long_summary_tr": "Fethiye'de akaryakıt istasyonunda 15 ton mazot yüklü tanker boşaltım sırasında yanmaya başladı. Bir otomobil ve motosiklete de sıçrayan alevler 1 saatte söndürüldü.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/video-basliksiz-09-mayis-2026-0341-1723492",
+      "image": "https://images.ntv.com.tr/images/MUGLA’DA-MAZOT-YUKLU-TANKERIN-ALEV-ALDIG_1300783_386879-554425.jpg",
+      "published_at": "2026-05-09T00:44:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+      "title_tr": "Anger and resignation in Tenerife as hantavirus ship approaches",
+      "summary": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
+      "summary_tr": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
+      "long_summary": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
+      "long_summary_tr": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e972/live/7f630690-4b02-11f1-b584-9d74bfad42dc.jpg",
+      "published_at": "2026-05-09T00:15:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Tampa merkezli Safepoint, Körfez kıyısında primler artarken NYSE halka arzı için başvurdu",
+      "title_tr": "Tampa merkezli Safepoint, Körfez kıyısında primler artarken NYSE halka arzı için başvurdu",
+      "summary": "Tampa merkezli Safepoint, Körfez kıyısında primler artarken NYSE halka arzı için başvurdu",
+      "summary_tr": "Tampa merkezli Safepoint, Körfez kıyısında primler artarken NYSE halka arzı için başvurdu",
+      "long_summary": "Tampa merkezli Safepoint, Körfez kıyısında primler artarken NYSE halka arzı için başvurdu",
+      "long_summary_tr": "Tampa merkezli Safepoint, Körfez kıyısında primler artarken NYSE halka arzı için başvurdu",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/tampa-merkezli-safepoint-korfez-kysnda-primler-artarken-nyse-halka-arz-icin-basvurdu-3896213",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-05-09T00:11:49+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "7 Stunning Summer Getaways—and What to Pack for Each One",
+      "title_tr": "7 Stunning Summer Getaways—and What to Pack for Each One",
+      "summary": "Your vacation itinerary, right this way.",
+      "summary_tr": "Your vacation itinerary, right this way.",
+      "long_summary": "Your vacation itinerary, right this way.",
+      "long_summary_tr": "Your vacation itinerary, right this way.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/shopping/a71129134/summer-travel-destinations-and-what-to-pack/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/eba301bf-8a4d-4be5-8acb-1b71ce0515b6.png",
+      "published_at": "2026-05-08T23:58:03+00:00"
     },
     {
       "origin": "turkiye",
@@ -902,204 +1100,6 @@
       "url": "https://www.dunya.com/gundem/resmi-gazetede-yayimlandi-spk-tcmb-ve-tuike-ust-duzey-atamalar-haberi-824505",
       "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/09/13/resmi-gazete-ldum_cover.jpg",
       "published_at": "2026-05-08T21:11:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Gökay Bilim Yarı Finalin En Değerli Oyuncusu",
-      "title_tr": "Gökay Bilim Yarı Finalin En Değerli Oyuncusu",
-      "summary": "2025-2026 sezonunda Nilüfer Belediyespor forması giyen Yalovalı Milli hentbolcu Gökay Bilim, takımının İstanbul Gençlikspor’la karşılaştığı Erkekler THF 50. Yıl Federasyon Kupası Yarı Final maçının en değerli oyuncusu seçildi.",
-      "summary_tr": "2025-2026 sezonunda Nilüfer Belediyespor forması giyen Yalovalı Milli hentbolcu Gökay Bilim, takımının İstanbul Gençlikspor’la karşılaştığı Erkekler THF 50. Yıl Federasyon Kupası Yarı Final maçının en değerli oyuncusu seçildi.",
-      "long_summary": "2025-2026 sezonunda Nilüfer Belediyespor forması giyen Yalovalı Milli hentbolcu Gökay Bilim, takımının İstanbul Gençlikspor’la karşılaştığı Erkekler THF 50. Yıl Federasyon Kupası Yarı Final maçının en değerli oyuncusu seçildi.",
-      "long_summary_tr": "2025-2026 sezonunda Nilüfer Belediyespor forması giyen Yalovalı Milli hentbolcu Gökay Bilim, takımının İstanbul Gençlikspor’la karşılaştığı Erkekler THF 50. Yıl Federasyon Kupası Yarı Final maçının en değerli oyuncusu seçildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/gokay-bilim-yari-finalin-en-degerli-oyuncusu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/spor/gokay-bilim-yari-finalin-en-degerli-oyuncusu-2.jpg",
-      "published_at": "2026-05-08T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "New York borsası yükselişle kapandı",
-      "title_tr": "New York borsası yükselişle kapandı",
-      "summary": "New York borsası, beklentileri aşan istihdam verileri sonrasında haftanın son işlem gününü yükselişle tamamladı. Kapanışta Dow Jones endeksi, yatay seyirle 49.609,16 puan oldu.",
-      "summary_tr": "New York borsası, beklentileri aşan istihdam verileri sonrasında haftanın son işlem gününü yükselişle tamamladı. Kapanışta Dow Jones endeksi, yatay seyirle 49.609,16 puan oldu.",
-      "long_summary": "New York borsası, beklentileri aşan istihdam verileri sonrasında haftanın son işlem gününü yükselişle tamamladı. Kapanışta Dow Jones endeksi, yatay seyirle 49.609,16 puan oldu.",
-      "long_summary_tr": "New York borsası, beklentileri aşan istihdam verileri sonrasında haftanın son işlem gününü yükselişle tamamladı. Kapanışta Dow Jones endeksi, yatay seyirle 49.609,16 puan oldu.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/borsa/new-york-borsasi-yukselisle-kapandi-haberi-824504",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2024/09/05/new-york-borsasi-gare-cover-6qij_cover.jpg",
-      "published_at": "2026-05-08T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çiftlikköy Belediyespor U-12’leri International Cup Heyecanı Yaşadı",
-      "title_tr": "Çiftlikköy Belediyespor U-12’leri International Cup Heyecanı Yaşadı",
-      "summary": "Antalya’da 1-3 Mayıs tarihleri arasında gerçekleştirilen yıldız adayları kampına katılan Çiftlikköy Belediyespor U-12 Takımı, zorlu turnuvada çeyrek finale kadar çıkmasına rağmen, şampiyonluğu kazanan Eşmespor’a elendi.",
-      "summary_tr": "Antalya’da 1-3 Mayıs tarihleri arasında gerçekleştirilen yıldız adayları kampına katılan Çiftlikköy Belediyespor U-12 Takımı, zorlu turnuvada çeyrek finale kadar çıkmasına rağmen, şampiyonluğu kazanan Eşmespor’a elendi.",
-      "long_summary": "Antalya’da 1-3 Mayıs tarihleri arasında gerçekleştirilen yıldız adayları kampına katılan Çiftlikköy Belediyespor U-12 Takımı, zorlu turnuvada çeyrek finale kadar çıkmasına rağmen, şampiyonluğu kazanan Eşmespor’a elendi.",
-      "long_summary_tr": "Antalya’da 1-3 Mayıs tarihleri arasında gerçekleştirilen yıldız adayları kampına katılan Çiftlikköy Belediyespor U-12 Takımı, zorlu turnuvada çeyrek finale kadar çıkmasına rağmen, şampiyonluğu kazanan Eşmespor’a elendi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ciftlikkoy-belediyespor-u-12leri-international-cup-heyecani-yasadi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/spor/ciftlikkoy-belediyespor-u-12leri-international-cup-heyecani-yasadi-4.jpeg",
-      "published_at": "2026-05-08T21:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "2.Amatör Küme’de Sezon Tamamlandı",
-      "title_tr": "2.Amatör Küme’de Sezon Tamamlandı",
-      "summary": "2025-2026 sezonunda “Muhammed Yıldız” adına düzenlenen 2. Amatör Küme A ve B Gruplarında müsabakalar tamamlandı.",
-      "summary_tr": "2025-2026 sezonunda “Muhammed Yıldız” adına düzenlenen 2. Amatör Küme A ve B Gruplarında müsabakalar tamamlandı.",
-      "long_summary": "2025-2026 sezonunda “Muhammed Yıldız” adına düzenlenen 2. Amatör Küme A ve B Gruplarında müsabakalar tamamlandı.",
-      "long_summary_tr": "2025-2026 sezonunda “Muhammed Yıldız” adına düzenlenen 2. Amatör Küme A ve B Gruplarında müsabakalar tamamlandı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/2amator-kumede-sezon-tamamlandi-1",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/spor/2amator-kumede-sezon-tamamlandi-3.JPG",
-      "published_at": "2026-05-08T21:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Ertesi Gün Hapı Sürekli Korunma Yöntemi Değil",
-      "title_tr": "Ertesi Gün Hapı Sürekli Korunma Yöntemi Değil",
-      "summary": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "summary_tr": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "long_summary": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "long_summary_tr": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ertesi-gun-hapi-surekli-korunma-yontemi-degil",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/haber/yalova-kadin-hastalik-uzman-dogum-elif-ertan-palabiyik-doktor-hastane.jpg",
-      "published_at": "2026-05-08T21:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Ertesi Gün Hapı Sürekli Korunma Yöntemi Değil",
-      "title_tr": "Ertesi Gün Hapı Sürekli Korunma Yöntemi Değil",
-      "summary": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "summary_tr": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "long_summary": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "long_summary_tr": "Kadın Hastalıkları ve Doğum Uzmanı Elif Ertan Palabıyık, doğum kontrol yöntemleri ve acil korunma yollarına ilişkin önemli bilgiler paylaştı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/video/ertesi-gun-hapi-surekli-korunma-yontemi-degil",
-      "image": "https://img.youtube.com/vi/m9tGwr1YalI/maxresdefault.jpg",
-      "published_at": "2026-05-08T21:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "İmam Hatip Okulları Mesleki Yarışmalarında Başarılı Öğrenciler Ödüllendirildi",
-      "title_tr": "İmam Hatip Okulları Mesleki Yarışmalarında Başarılı Öğrenciler Ödüllendirildi",
-      "summary": "Yalova’da İmam Hatip Okulları arasında düzenlenen mesleki yarışmaların ödül töreni yoğun katılımla gerçekleştirildi. Kur’an-ı Kerim tilaveti ve ezan icralarının yer aldığı programda dereceye giren öğrencilere ödülleri takdim edildi.",
-      "summary_tr": "Yalova’da İmam Hatip Okulları arasında düzenlenen mesleki yarışmaların ödül töreni yoğun katılımla gerçekleştirildi. Kur’an-ı Kerim tilaveti ve ezan icralarının yer aldığı programda dereceye giren öğrencilere ödülleri takdim edildi.",
-      "long_summary": "Yalova’da İmam Hatip Okulları arasında düzenlenen mesleki yarışmaların ödül töreni yoğun katılımla gerçekleştirildi. Kur’an-ı Kerim tilaveti ve ezan icralarının yer aldığı programda dereceye giren öğrencilere ödülleri takdim edildi.",
-      "long_summary_tr": "Yalova’da İmam Hatip Okulları arasında düzenlenen mesleki yarışmaların ödül töreni yoğun katılımla gerçekleştirildi. Kur’an-ı Kerim tilaveti ve ezan icralarının yer aldığı programda dereceye giren öğrencilere ödülleri takdim edildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/imam-hatip-okullari-mesleki-yarismalarinda-basarili-ogrenciler-odullendirildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/haber/yalova-imam-hatip-ortaokullari-mesleki-yarisma-4.jpeg",
-      "published_at": "2026-05-08T21:06:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Applied Aerospace & Defense halka arz için başvurdu",
-      "title_tr": "Applied Aerospace & Defense halka arz için başvurdu",
-      "summary": "Applied Aerospace & Defense halka arz için başvurdu",
-      "summary_tr": "Applied Aerospace & Defense halka arz için başvurdu",
-      "long_summary": "Applied Aerospace & Defense halka arz için başvurdu",
-      "long_summary_tr": "Applied Aerospace & Defense halka arz için başvurdu",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/applied-aerospace--defense-halka-arz-icin-basvurdu-93CH-3896103",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-05-08T21:05:31+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Türk Mutfağı Haftası Hazırlıkları Masaya Yatırıldı",
-      "title_tr": "Yalova’da Türk Mutfağı Haftası Hazırlıkları Masaya Yatırıldı",
-      "summary": "Yalova Valiliği koordinasyonunda gerçekleştirilen toplantıda, 21-27 Mayıs tarihleri arasında kutlanacak Türk Mutfağı Haftası kapsamında düzenlenecek etkinlikler değerlendirildi. Programlarda Yalova’nın gastronomi değerlerinin ön plana çıkarılması hedefleniyor.",
-      "summary_tr": "Yalova Valiliği koordinasyonunda gerçekleştirilen toplantıda, 21-27 Mayıs tarihleri arasında kutlanacak Türk Mutfağı Haftası kapsamında düzenlenecek etkinlikler değerlendirildi. Programlarda Yalova’nın gastronomi değerlerinin ön plana çıkarılması hedefleniyor.",
-      "long_summary": "Yalova Valiliği koordinasyonunda gerçekleştirilen toplantıda, 21-27 Mayıs tarihleri arasında kutlanacak Türk Mutfağı Haftası kapsamında düzenlenecek etkinlikler değerlendirildi. Programlarda Yalova’nın gastronomi değerlerinin ön plana çıkarılması hedefleniyor.",
-      "long_summary_tr": "Yalova Valiliği koordinasyonunda gerçekleştirilen toplantıda, 21-27 Mayıs tarihleri arasında kutlanacak Türk Mutfağı Haftası kapsamında düzenlenecek etkinlikler değerlendirildi. Programlarda Yalova’nın gastronomi değerlerinin ön plana çıkarılması hedefleniyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-turk-mutfagi-haftasi-hazirliklari-masaya-yatirildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/haber/yalova-turk-mutfagi-haftasi-hazirliklar-valilik.jpg",
-      "published_at": "2026-05-08T21:05:00+00:00"
     }
   ]
 }
