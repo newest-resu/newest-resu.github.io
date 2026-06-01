@@ -1,27 +1,71 @@
 {
-  "updated_at": "2026-05-31T23:10:56.552867+00:00",
+  "updated_at": "2026-06-01T04:58:17.098781+00:00",
   "articles": [
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
       "is_local": false,
-      "source": "BBC Sport",
-      "title": "No previous French Open champions left - who will seize chance?",
-      "title_tr": "No previous French Open champions left - who will seize chance?",
-      "summary": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
-      "summary_tr": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
-      "long_summary": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
-      "long_summary_tr": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
+      "source": "Dünya Gazetesi",
+      "title": "İran ve ABD'den peş peşe misillemeler: Diplomasi sürerken gerilim tırmanıyor",
+      "title_tr": "İran ve ABD'den peş peşe misillemeler: Diplomasi sürerken gerilim tırmanıyor",
+      "summary": "İran ile ABD arasında olası anlaşma için temaslar devam ederken sahada karşılıklı saldırılar yaşandı. CENTCOM&#039;un İran&#039;daki hedefleri vurduğunu açıklamasının ardından Tahran yönetimi Kuveyt&#039;teki ABD üslerini hedef aldı. Taraflar müzakere masasında kalırken bölgedeki askeri gerilim yüksek seyrini korudu.",
+      "summary_tr": "İran ile ABD arasında olası anlaşma için temaslar devam ederken sahada karşılıklı saldırılar yaşandı. CENTCOM&#039;un İran&#039;daki hedefleri vurduğunu açıklamasının ardından Tahran yönetimi Kuveyt&#039;teki ABD üslerini hedef aldı. Taraflar müzakere masasında kalırken bölgedeki askeri gerilim yüksek seyrini korudu.",
+      "long_summary": "İran ile ABD arasında olası anlaşma için temaslar devam ederken sahada karşılıklı saldırılar yaşandı. CENTCOM&#039;un İran&#039;daki hedefleri vurduğunu açıklamasının ardından Tahran yönetimi Kuveyt&#039;teki ABD üslerini hedef aldı. Taraflar müzakere masasında kalırken bölgedeki askeri gerilim yüksek seyrini korudu.",
+      "long_summary_tr": "İran ile ABD arasında olası anlaşma için temaslar devam ederken sahada karşılıklı saldırılar yaşandı. CENTCOM&#039;un İran&#039;daki hedefleri vurduğunu açıklamasının ardından Tahran yönetimi Kuveyt&#039;teki ABD üslerini hedef aldı. Taraflar müzakere masasında kalırken bölgedeki askeri gerilim yüksek seyrini korudu.",
       "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
+        "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+        "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.bbc.com/sport/tennis/articles/cm2pm56z85jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c8/live/5af1d830-5d28-11f1-b3bd-bfbe0dcec2ce.jpg",
-      "published_at": "2026-05-31T23:02:54+00:00"
+      "url": "https://www.dunya.com/dunya/iran-ve-abdden-pes-pese-misillemeler-diplomasi-surerken-gerilim-tirmaniyor-haberi-826948",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/01/yeni-proje-2026-06-01t074832-zhbu_cover.jpg",
+      "published_at": "2026-06-01T04:44:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Why Euphoria Will Not Return for Season 4",
+      "title_tr": "Why Euphoria Will Not Return for Season 4",
+      "summary": "The series has ended with its season 3 finale.",
+      "summary_tr": "The series has ended with its season 3 finale.",
+      "long_summary": "The series has ended with its season 3 finale.",
+      "long_summary_tr": "The series has ended with its season 3 finale.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a71444564/euphoria-season-4-news/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ff814f40-8a80-420f-8a1c-1ab40d202ffd.jpg",
+      "published_at": "2026-06-01T04:39:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Japonya’da ek bütçe kararı tahvil piyasasını endişelendirdi",
+      "title_tr": "Japonya’da ek bütçe kararı tahvil piyasasını endişelendirdi",
+      "summary": "Japonya Başbakanı Sanae Takaichi’nin artan yaşam maliyetleriyle mücadele amacıyla hazırladığı ek bütçe paketi, piyasaların dikkatini ülkenin borçlanma görünümüne çevirdi.",
+      "summary_tr": "Japonya Başbakanı Sanae Takaichi’nin artan yaşam maliyetleriyle mücadele amacıyla hazırladığı ek bütçe paketi, piyasaların dikkatini ülkenin borçlanma görünümüne çevirdi.",
+      "long_summary": "Japonya Başbakanı Sanae Takaichi’nin artan yaşam maliyetleriyle mücadele amacıyla hazırladığı ek bütçe paketi, piyasaların dikkatini ülkenin borçlanma görünümüne çevirdi.",
+      "long_summary_tr": "Japonya Başbakanı Sanae Takaichi’nin artan yaşam maliyetleriyle mücadele amacıyla hazırladığı ek bütçe paketi, piyasaların dikkatini ülkenin borçlanma görünümüne çevirdi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/japonyada-ek-butce-karari-tahvil-piyasasini-endiselendirdi-3778639",
+      "image": null,
+      "published_at": "2026-06-01T04:34:59+00:00"
     },
     {
       "origin": "turkiye",
@@ -43,7 +87,711 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-haziran-2026-1726622",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-05-31T23:00:00+00:00"
+      "published_at": "2026-06-01T04:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD-İran görüşmelerinde ilerleme sinyali yok",
+      "title_tr": "ABD-İran görüşmelerinde ilerleme sinyali yok",
+      "summary": "ABD ile İran arasında ateşkesi uzatacak ve Hürmüz Boğazı’nı yeniden uluslararası deniz trafiğine açacak olası anlaşmaya ilişkin temaslar hafta sonu boyunca devam etti. Ancak tarafların müzakerelerde somut ilerleme sağlayıp sağlamadığı konusunda belirsizlik sürüyor.",
+      "summary_tr": "ABD ile İran arasında ateşkesi uzatacak ve Hürmüz Boğazı’nı yeniden uluslararası deniz trafiğine açacak olası anlaşmaya ilişkin temaslar hafta sonu boyunca devam etti. Ancak tarafların müzakerelerde somut ilerleme sağlayıp sağlamadığı konusunda belirsizlik sürüyor.",
+      "long_summary": "ABD ile İran arasında ateşkesi uzatacak ve Hürmüz Boğazı’nı yeniden uluslararası deniz trafiğine açacak olası anlaşmaya ilişkin temaslar hafta sonu boyunca devam etti. Ancak tarafların müzakerelerde somut ilerleme sağlayıp sağlamadığı konusunda belirsizlik sürüyor.",
+      "long_summary_tr": "ABD ile İran arasında ateşkesi uzatacak ve Hürmüz Boğazı’nı yeniden uluslararası deniz trafiğine açacak olası anlaşmaya ilişkin temaslar hafta sonu boyunca devam etti. Ancak tarafların müzakerelerde somut ilerleme sağlayıp sağlamadığı konusunda belirsizlik sürüyor.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-iran-gorusmelerinde-ilerleme-sinyali-yok-3778634",
+      "image": null,
+      "published_at": "2026-06-01T04:19:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Meteoroloji'den Karadeniz'e uyarı: Kuvvetli sağanak bekleniyor",
+      "title_tr": "Meteoroloji'den Karadeniz'e uyarı: Kuvvetli sağanak bekleniyor",
+      "summary": "Meteoroloji Genel Müdürlüğü, yurt genelinde parçalı ve az bulutlu havanın hakim olacağını, Karadeniz başta olmak üzere bazı bölgelerde ise sağanak ve gök gürültülü sağanak yağışların etkili olacağını duyurdu. Orta ve Doğu Karadeniz&#039;in iç kesimleri ile Sinop&#039;un iç kesimlerinde yer yer kuvvetli yağış beklenirken, vatandaşların sel, su baskını ve ulaşımda aksamalara karşı dikkatli olması istendi.",
+      "summary_tr": "Meteoroloji Genel Müdürlüğü, yurt genelinde parçalı ve az bulutlu havanın hakim olacağını, Karadeniz başta olmak üzere bazı bölgelerde ise sağanak ve gök gürültülü sağanak yağışların etkili olacağını duyurdu. Orta ve Doğu Karadeniz&#039;in iç kesimleri ile Sinop&#039;un iç kesimlerinde yer yer kuvvetli yağış beklenirken, vatandaşların sel, su baskını ve ulaşımda aksamalara karşı dikkatli olması istendi.",
+      "long_summary": "Meteoroloji Genel Müdürlüğü, yurt genelinde parçalı ve az bulutlu havanın hakim olacağını, Karadeniz başta olmak üzere bazı bölgelerde ise sağanak ve gök gürültülü sağanak yağışların etkili olacağını duyurdu. Orta ve Doğu Karadeniz&#039;in iç kesimleri ile Sinop&#039;un iç kesimlerinde yer yer kuvvetli yağış beklenirken, vatandaşların sel, su baskını ve ulaşımda aksamalara karşı dikkatli olması istendi.",
+      "long_summary_tr": "Meteoroloji Genel Müdürlüğü, yurt genelinde parçalı ve az bulutlu havanın hakim olacağını, Karadeniz başta olmak üzere bazı bölgelerde ise sağanak ve gök gürültülü sağanak yağışların etkili olacağını duyurdu. Orta ve Doğu Karadeniz&#039;in iç kesimleri ile Sinop&#039;un iç kesimlerinde yer yer kuvvetli yağış beklenirken, vatandaşların sel, su baskını ve ulaşımda aksamalara karşı dikkatli olması istendi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/meteorolojiden-karadenize-uyari-kuvvetli-saganak-bekleniyor-haberi-826947",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/01/yeni-proje-2026-06-01t071535-jfqt_cover.jpg",
+      "published_at": "2026-06-01T04:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Kongo’dan lityum hamlesi: Devlet payı yüzde 10’a çıkabilir",
+      "title_tr": "Kongo’dan lityum hamlesi: Devlet payı yüzde 10’a çıkabilir",
+      "summary": "Kongo Demokratik Cumhuriyeti, kritik minerallerden elde ettiği gelirleri artırmak amacıyla lityumu stratejik mineraller listesine ekleme kararı aldı.",
+      "summary_tr": "Kongo Demokratik Cumhuriyeti, kritik minerallerden elde ettiği gelirleri artırmak amacıyla lityumu stratejik mineraller listesine ekleme kararı aldı.",
+      "long_summary": "Kongo Demokratik Cumhuriyeti, kritik minerallerden elde ettiği gelirleri artırmak amacıyla lityumu stratejik mineraller listesine ekleme kararı aldı.",
+      "long_summary_tr": "Kongo Demokratik Cumhuriyeti, kritik minerallerden elde ettiği gelirleri artırmak amacıyla lityumu stratejik mineraller listesine ekleme kararı aldı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/kongodan-lityum-hamlesi-devlet-payi-yuzde-10a-cikabilir-3778632",
+      "image": null,
+      "published_at": "2026-06-01T04:03:14+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Brent petrolü İsrail'in Lübnan saldırılarının ardından yükseliyor",
+      "title_tr": "Brent petrolü İsrail'in Lübnan saldırılarının ardından yükseliyor",
+      "summary": "Brent petrolü İsrail ordusunun Lübnan operasyonlarını genişletmesiyle yüzde 2.4 artarak 93.35 dolara ulaştı. Küresel emtia piyasaları Hürmüz Boğazı arz güvenliğini ve ABD ile İran arasındaki kırılgan diplomatik temasları yakından takip ediyor.",
+      "summary_tr": "Brent petrolü İsrail ordusunun Lübnan operasyonlarını genişletmesiyle yüzde 2.4 artarak 93.35 dolara ulaştı. Küresel emtia piyasaları Hürmüz Boğazı arz güvenliğini ve ABD ile İran arasındaki kırılgan diplomatik temasları yakından takip ediyor.",
+      "long_summary": "Brent petrolü İsrail ordusunun Lübnan operasyonlarını genişletmesiyle yüzde 2.4 artarak 93.35 dolara ulaştı. Küresel emtia piyasaları Hürmüz Boğazı arz güvenliğini ve ABD ile İran arasındaki kırılgan diplomatik temasları yakından takip ediyor.",
+      "long_summary_tr": "Brent petrolü İsrail ordusunun Lübnan operasyonlarını genişletmesiyle yüzde 2.4 artarak 93.35 dolara ulaştı. Küresel emtia piyasaları Hürmüz Boğazı arz güvenliğini ve ABD ile İran arasındaki kırılgan diplomatik temasları yakından takip ediyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/enerji/brent-petrolu-israilin-lubnan-saldirilarinin-ardindan-yukseliyor-haberi-826946",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/27/petrol-varili-v1ww_cover.png",
+      "published_at": "2026-06-01T03:53:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Çin’de fabrika faaliyetleri yavaşladı",
+      "title_tr": "Çin’de fabrika faaliyetleri yavaşladı",
+      "summary": "Çin’de fabrika faaliyetleri mayıs ayında yavaşlarken, ekonomide ilk çeyreğin ardından ivme kaybı sinyalleri güçlendi.",
+      "summary_tr": "Çin’de fabrika faaliyetleri mayıs ayında yavaşlarken, ekonomide ilk çeyreğin ardından ivme kaybı sinyalleri güçlendi.",
+      "long_summary": "Çin’de fabrika faaliyetleri mayıs ayında yavaşlarken, ekonomide ilk çeyreğin ardından ivme kaybı sinyalleri güçlendi.",
+      "long_summary_tr": "Çin’de fabrika faaliyetleri mayıs ayında yavaşlarken, ekonomide ilk çeyreğin ardından ivme kaybı sinyalleri güçlendi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/cinde-fabrika-faaliyetleri-yavasladi-3778631",
+      "image": null,
+      "published_at": "2026-06-01T03:50:14+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Zendaya Reacts to Filming the Euphoria Season 3 Finale",
+      "title_tr": "Zendaya Reacts to Filming the Euphoria Season 3 Finale",
+      "summary": "“It’s been a pleasure and an honor,” the actress said.",
+      "summary_tr": "“It’s been a pleasure and an honor,” the actress said.",
+      "long_summary": "“It’s been a pleasure and an honor,” the actress said.",
+      "long_summary_tr": "“It’s been a pleasure and an honor,” the actress said.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a71445578/zendaya-euphoria-season-3-finale-response/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/fdef42bd-0b87-408f-b5f1-3bae6f1edcad.png",
+      "published_at": "2026-06-01T03:43:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Petrol yeniden yükselişe geçti",
+      "title_tr": "Petrol yeniden yükselişe geçti",
+      "summary": "Petrol, İran’daki savaşı sona erdirebilecek bir barış anlaşmasının geleceğine ilişkin belirsizlik nedeniyle altı haftanın en düşük seviyesinden yükseldi.",
+      "summary_tr": "Petrol, İran’daki savaşı sona erdirebilecek bir barış anlaşmasının geleceğine ilişkin belirsizlik nedeniyle altı haftanın en düşük seviyesinden yükseldi.",
+      "long_summary": "Petrol, İran’daki savaşı sona erdirebilecek bir barış anlaşmasının geleceğine ilişkin belirsizlik nedeniyle altı haftanın en düşük seviyesinden yükseldi.",
+      "long_summary_tr": "Petrol, İran’daki savaşı sona erdirebilecek bir barış anlaşmasının geleceğine ilişkin belirsizlik nedeniyle altı haftanın en düşük seviyesinden yükseldi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/petrol-fiyatlari-yeniden-yukselise-gecti-3778630",
+      "image": null,
+      "published_at": "2026-06-01T03:40:25+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Altında düşüş: Piyasalar Trump'ın kararını bekliyor",
+      "title_tr": "Altında düşüş: Piyasalar Trump'ın kararını bekliyor",
+      "summary": "Altın, doların güçlenmesi ve petrol fiyatlarının yükselmesinin baskısıyla pazartesi günü hafif geriledi.",
+      "summary_tr": "Altın, doların güçlenmesi ve petrol fiyatlarının yükselmesinin baskısıyla pazartesi günü hafif geriledi.",
+      "long_summary": "Altın, doların güçlenmesi ve petrol fiyatlarının yükselmesinin baskısıyla pazartesi günü hafif geriledi.",
+      "long_summary_tr": "Altın, doların güçlenmesi ve petrol fiyatlarının yükselmesinin baskısıyla pazartesi günü hafif geriledi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/altinda-dusus-piyasalar-trump-in-kararini-bekliyor-3778629",
+      "image": null,
+      "published_at": "2026-06-01T03:36:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Asya hisseleri yapay zeka coşkusuyla yükseldi; KOSPI rekor kırdı",
+      "title_tr": "Asya hisseleri yapay zeka coşkusuyla yükseldi; KOSPI rekor kırdı",
+      "summary": "Asya hisseleri yapay zeka coşkusuyla yükseldi; KOSPI rekor kırdı",
+      "summary_tr": "Asya hisseleri yapay zeka coşkusuyla yükseldi; KOSPI rekor kırdı",
+      "long_summary": "Asya hisseleri yapay zeka coşkusuyla yükseldi; KOSPI rekor kırdı",
+      "long_summary_tr": "Asya hisseleri yapay zeka coşkusuyla yükseldi; KOSPI rekor kırdı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-yapay-zeka-coskusuyla-yukseldi-kospi-rekor-krd-3926463",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-01T03:35:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Altın fiyatları doların ve petrolün yükselmesiyle geriliyor",
+      "title_tr": "Altın fiyatları doların ve petrolün yükselmesiyle geriliyor",
+      "summary": "Altın fiyatları dolar endeksi ve artan petrol maliyetlerinin etkisiyle erken işlemlerde 4.527,36 dolara geriliyor. Yatırımcılar Trump tarafından açıklanacak İran ateşkes kararını beklerken gümüş değer kazanıyor.",
+      "summary_tr": "Altın fiyatları dolar endeksi ve artan petrol maliyetlerinin etkisiyle erken işlemlerde 4.527,36 dolara geriliyor. Yatırımcılar Trump tarafından açıklanacak İran ateşkes kararını beklerken gümüş değer kazanıyor.",
+      "long_summary": "Altın fiyatları dolar endeksi ve artan petrol maliyetlerinin etkisiyle erken işlemlerde 4.527,36 dolara geriliyor. Yatırımcılar Trump tarafından açıklanacak İran ateşkes kararını beklerken gümüş değer kazanıyor.",
+      "long_summary_tr": "Altın fiyatları dolar endeksi ve artan petrol maliyetlerinin etkisiyle erken işlemlerde 4.527,36 dolara geriliyor. Yatırımcılar Trump tarafından açıklanacak İran ateşkes kararını beklerken gümüş değer kazanıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/haberler/altin-fiyatlari-dolarin-ve-petrolun-yukselmesiyle-geriliyor-haberi-826945",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/22/altin-fiyatlari-savas-ve-fed-kiskac-jeka_cover.jpg",
+      "published_at": "2026-06-01T03:33:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Poland's controversial 'Highway to Hel' 666 bus revived",
+      "title_tr": "Poland's controversial 'Highway to Hel' 666 bus revived",
+      "summary": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+      "summary_tr": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+      "long_summary": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+      "long_summary_tr": "Poland's seaside resort called Hel is getting its 666 bus service back, despite earlier opposition from Christian groups.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c1d2ld91635o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f411/live/8a31d470-5d59-11f1-b682-cf91850925ea.jpg",
+      "published_at": "2026-06-01T03:19:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Ekonomi ve siyaset gündemi -  1 Haziran 2026",
+      "title_tr": "Ekonomi ve siyaset gündemi -  1 Haziran 2026",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-1-haziran-2026-3778628",
+      "image": null,
+      "published_at": "2026-06-01T03:16:15+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Asya borsaları yapay zeka rüzgarıyla yükseliyor",
+      "title_tr": "Asya borsaları yapay zeka rüzgarıyla yükseliyor",
+      "summary": "Asya borsaları yapay zeka talebiyle yükselirken, Nikkei endeksi tarihi zirvesini yeniledi. Orta Doğu jeopolitik riskleri petrolü artırırken, yatırımcılar Fed faiz kararı öncesinde tarım dışı istihdam verisine odaklandı.",
+      "summary_tr": "Asya borsaları yapay zeka talebiyle yükselirken, Nikkei endeksi tarihi zirvesini yeniledi. Orta Doğu jeopolitik riskleri petrolü artırırken, yatırımcılar Fed faiz kararı öncesinde tarım dışı istihdam verisine odaklandı.",
+      "long_summary": "Asya borsaları yapay zeka talebiyle yükselirken, Nikkei endeksi tarihi zirvesini yeniledi. Orta Doğu jeopolitik riskleri petrolü artırırken, yatırımcılar Fed faiz kararı öncesinde tarım dışı istihdam verisine odaklandı.",
+      "long_summary_tr": "Asya borsaları yapay zeka talebiyle yükselirken, Nikkei endeksi tarihi zirvesini yeniledi. Orta Doğu jeopolitik riskleri petrolü artırırken, yatırımcılar Fed faiz kararı öncesinde tarım dışı istihdam verisine odaklandı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/haberler/asya-borsalari-yapay-zeka-ruzgariyla-yukseliyor-haberi-826944",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/14/asya-borsalari-yapay-zeka-onculugun-xez9_cover.jpg",
+      "published_at": "2026-06-01T03:03:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Rick and Morty Season 9, Episode 2 Review: \"Ricks Days, Seven Nights\"",
+      "title_tr": "Rick and Morty Season 9, Episode 2 Review: \"Ricks Days, Seven Nights\"",
+      "summary": "Rick and Morty Season 9 delivers a real banger of an episode in the clever but brutally depressing \"Ricks Days, Seven Nights.\" Read our full review.",
+      "summary_tr": "Rick and Morty Season 9 delivers a real banger of an episode in the clever but brutally depressing \"Ricks Days, Seven Nights.\" Read our full review.",
+      "long_summary": "Rick and Morty Season 9 delivers a real banger of an episode in the clever but brutally depressing \"Ricks Days, Seven Nights.\" Read our full review.",
+      "long_summary_tr": "Rick and Morty Season 9 delivers a real banger of an episode in the clever but brutally depressing \"Ricks Days, Seven Nights.\" Read our full review.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/rick-and-morty-season-9-episode-2-review-recap",
+      "image": "https://assets-prd.ignimgs.com/2026/05/29/ram-901-4-1780080454786.png",
+      "published_at": "2026-06-01T03:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "LG hisseleri Nvidia ortaklığı spekülasyonları ile rekor kırdı",
+      "title_tr": "LG hisseleri Nvidia ortaklığı spekülasyonları ile rekor kırdı",
+      "summary": "LG hisseleri Nvidia ortaklığı spekülasyonları ile rekor kırdı",
+      "summary_tr": "LG hisseleri Nvidia ortaklığı spekülasyonları ile rekor kırdı",
+      "long_summary": "LG hisseleri Nvidia ortaklığı spekülasyonları ile rekor kırdı",
+      "long_summary_tr": "LG hisseleri Nvidia ortaklığı spekülasyonları ile rekor kırdı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/lg-hisseleri-nvidia-ortaklg-spekulasyonlar-ile-rekor-krd-3926459",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-01T02:39:39+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "In a ‘Shocking’ Euphoria Finale, Jessica Treska Plays an Unexpectedly Meaningful Role",
+      "title_tr": "In a ‘Shocking’ Euphoria Finale, Jessica Treska Plays an Unexpectedly Meaningful Role",
+      "summary": "As Daisy Miller, who appears only in season 3’s first and final episodes, Treska leaves a lasting impression on Rue Bennett—and on the HBO drama itself.",
+      "summary_tr": "As Daisy Miller, who appears only in season 3’s first and final episodes, Treska leaves a lasting impression on Rue Bennett—and on the HBO drama itself.",
+      "long_summary": "As Daisy Miller, who appears only in season 3’s first and final episodes, Treska leaves a lasting impression on Rue Bennett—and on the HBO drama itself.",
+      "long_summary_tr": "As Daisy Miller, who appears only in season 3’s first and final episodes, Treska leaves a lasting impression on Rue Bennett—and on the HBO drama itself.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a71437035/euphoria-season-3-ending-explained-jessica-treska-daisy-interview-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7174cf2a-f769-4b67-aed2-4a08349cb6df.png",
+      "published_at": "2026-06-01T02:35:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "title_tr": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "summary_tr": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "long_summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "long_summary_tr": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df99/live/74d5c4a0-5d41-11f1-8b8c-6d33e1d5abb6.jpg",
+      "published_at": "2026-06-01T01:53:03+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
+      "title_tr": "Grammy-winning director explores his Nigerian grandfather's role in the Biafran war",
+      "summary": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
+      "summary_tr": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
+      "long_summary": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
+      "long_summary_tr": "Filmmaker Meji Alabi directs a landmark BBC Africa Eye documentary about Nigeria's civil war.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c8r826465dko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aaac/live/1d7baf50-5b37-11f1-8b8c-6d33e1d5abb6.jpg",
+      "published_at": "2026-06-01T01:32:07+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Kabine toplanıyor. Gündemde hangi konular var?",
+      "title_tr": "Kabine toplanıyor. Gündemde hangi konular var?",
+      "summary": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
+      "summary_tr": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
+      "long_summary": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
+      "long_summary_tr": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1726619",
+      "image": "https://images.ntv.com.tr/images/kabine-925856.jpg",
+      "published_at": "2026-06-01T01:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Berkshire Hathaway ev inşaatçısı Taylor Morrison’ı 6,8 milyar dolara satın alıyor",
+      "title_tr": "Berkshire Hathaway ev inşaatçısı Taylor Morrison’ı 6,8 milyar dolara satın alıyor",
+      "summary": "Berkshire Hathaway ev inşaatçısı Taylor Morrison’ı 6,8 milyar dolara satın alıyor",
+      "summary_tr": "Berkshire Hathaway ev inşaatçısı Taylor Morrison’ı 6,8 milyar dolara satın alıyor",
+      "long_summary": "Berkshire Hathaway ev inşaatçısı Taylor Morrison’ı 6,8 milyar dolara satın alıyor",
+      "long_summary_tr": "Berkshire Hathaway ev inşaatçısı Taylor Morrison’ı 6,8 milyar dolara satın alıyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/berkshire-hathaway-ev-insaatcs-taylor-morrison-68-milyar-dolara-satn-alyor-3926450",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-01T01:06:25+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "ABD hisse senedi vadeli işlemleri İran barış anlaşması ve istihdam verilerine odaklandı",
+      "title_tr": "ABD hisse senedi vadeli işlemleri İran barış anlaşması ve istihdam verilerine odaklandı",
+      "summary": "ABD hisse senedi vadeli işlemleri İran barış anlaşması ve istihdam verilerine odaklandı",
+      "summary_tr": "ABD hisse senedi vadeli işlemleri İran barış anlaşması ve istihdam verilerine odaklandı",
+      "long_summary": "ABD hisse senedi vadeli işlemleri İran barış anlaşması ve istihdam verilerine odaklandı",
+      "long_summary_tr": "ABD hisse senedi vadeli işlemleri İran barış anlaşması ve istihdam verilerine odaklandı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-bars-anlasmas-ve-istihdam-verilerine-odakland-3926448",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-01T00:59:54+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Dell, Apple’ın MacBook Neo’suyla rekabet için 699 dolarlık XPS 13’ü tanıttı",
+      "title_tr": "Dell, Apple’ın MacBook Neo’suyla rekabet için 699 dolarlık XPS 13’ü tanıttı",
+      "summary": "Dell, Apple’ın MacBook Neo’suyla rekabet için 699 dolarlık XPS 13’ü tanıttı",
+      "summary_tr": "Dell, Apple’ın MacBook Neo’suyla rekabet için 699 dolarlık XPS 13’ü tanıttı",
+      "long_summary": "Dell, Apple’ın MacBook Neo’suyla rekabet için 699 dolarlık XPS 13’ü tanıttı",
+      "long_summary_tr": "Dell, Apple’ın MacBook Neo’suyla rekabet için 699 dolarlık XPS 13’ü tanıttı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/dell-applen-macbook-neosuyla-rekabet-icin-699-dolarlk-xps-13u-tantt-93CH-3926446",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-01T00:44:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Tesla, Avustralya’lı Syrah Resources ile grafit tedarik anlaşmazlığını çözdü",
+      "title_tr": "Tesla, Avustralya’lı Syrah Resources ile grafit tedarik anlaşmazlığını çözdü",
+      "summary": "Tesla, Avustralya’lı Syrah Resources ile grafit tedarik anlaşmazlığını çözdü",
+      "summary_tr": "Tesla, Avustralya’lı Syrah Resources ile grafit tedarik anlaşmazlığını çözdü",
+      "long_summary": "Tesla, Avustralya’lı Syrah Resources ile grafit tedarik anlaşmazlığını çözdü",
+      "long_summary_tr": "Tesla, Avustralya’lı Syrah Resources ile grafit tedarik anlaşmazlığını çözdü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/tesla-avustralyal-syrah-resources-ile-grafit-tedarik-anlasmazlgn-cozdu-3926445",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-01T00:25:27+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "A year of grief and waiting: What remains when a plane falls from the sky",
+      "title_tr": "A year of grief and waiting: What remains when a plane falls from the sky",
+      "summary": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+      "summary_tr": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+      "long_summary": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+      "long_summary_tr": "A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb02/live/44600940-5b28-11f1-b682-cf91850925ea.png",
+      "published_at": "2026-06-01T00:24:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "ABD, Nvidia’nın Çin dışındaki Çinli firmalara AI çip satışını engelliyor",
+      "title_tr": "ABD, Nvidia’nın Çin dışındaki Çinli firmalara AI çip satışını engelliyor",
+      "summary": "ABD, Nvidia’nın Çin dışındaki Çinli firmalara AI çip satışını engelliyor",
+      "summary_tr": "ABD, Nvidia’nın Çin dışındaki Çinli firmalara AI çip satışını engelliyor",
+      "long_summary": "ABD, Nvidia’nın Çin dışındaki Çinli firmalara AI çip satışını engelliyor",
+      "long_summary_tr": "ABD, Nvidia’nın Çin dışındaki Çinli firmalara AI çip satışını engelliyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/abd-nvidiann-cin-dsndaki-cinli-firmalara-ai-cip-satsn-engelliyor-3926441",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-05-31T23:59:39+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "The drivers risking death on Ukraine's most dangerous bus routes",
+      "title_tr": "The drivers risking death on Ukraine's most dangerous bus routes",
+      "summary": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+      "summary_tr": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+      "long_summary": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+      "long_summary_tr": "Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c87q2eq8r1yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c413/live/5d22e690-5b47-11f1-a62b-2f41c7c3a318.jpg",
+      "published_at": "2026-05-31T23:40:57+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Fonseca, 19, shows title credentials by backing up Djokovic win",
+      "title_tr": "Fonseca, 19, shows title credentials by backing up Djokovic win",
+      "summary": "Rising star Joao Fonseca showcases his title credentials with victory over two-time finalist Casper Ruud to book his place in the French Open quarter-finals.",
+      "summary_tr": "Rising star Joao Fonseca showcases his title credentials with victory over two-time finalist Casper Ruud to book his place in the French Open quarter-finals.",
+      "long_summary": "Rising star Joao Fonseca showcases his title credentials with victory over two-time finalist Casper Ruud to book his place in the French Open quarter-finals.",
+      "long_summary_tr": "Rising star Joao Fonseca showcases his title credentials with victory over two-time finalist Casper Ruud to book his place in the French Open quarter-finals.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/tennis/articles/cj0p6pz1q7vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3851/live/02973b10-5d48-11f1-b839-45d10cbecf07.jpg",
+      "published_at": "2026-05-31T23:37:43+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+      "title_tr": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+      "summary": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+      "summary_tr": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+      "long_summary": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+      "long_summary_tr": "China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2489/live/d26bb2d0-5b54-11f1-a62b-2f41c7c3a318.jpg",
+      "published_at": "2026-05-31T23:32:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Cam silerken 5'inci kattan düşen kadın öldü",
+      "title_tr": "Cam silerken 5'inci kattan düşen kadın öldü",
+      "summary": "İstanbul'da Türkmenistan uyruklu bir kadın cam sildiği sırada 5'inci kattan düşerek hayatını kaybetti.",
+      "summary_tr": "İstanbul'da Türkmenistan uyruklu bir kadın cam sildiği sırada 5'inci kattan düşerek hayatını kaybetti.",
+      "long_summary": "İstanbul'da Türkmenistan uyruklu bir kadın cam sildiği sırada 5'inci kattan düşerek hayatını kaybetti.",
+      "long_summary_tr": "İstanbul'da Türkmenistan uyruklu bir kadın cam sildiği sırada 5'inci kattan düşerek hayatını kaybetti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/cam-silerken-5inci-kattan-dusen-kadin-oldu-1726626",
+      "image": "https://images.ntv.com.tr/images/FATIHTE-CAM-SILERKEN-5INCI-KATTAN-APAR_1338825_397677-500546.jpg",
+      "published_at": "2026-05-31T23:23:56+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Caribbean hot sauce producers warn of shortages and higher prices",
+      "title_tr": "Caribbean hot sauce producers warn of shortages and higher prices",
+      "summary": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "summary_tr": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "long_summary": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "long_summary_tr": "Manufacturers in Jamaica say the key chilli peppers they need are in limited supply.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cq8p1jy3vxlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e926/live/495ad160-5a78-11f1-8954-638c887fc9b3.png",
+      "published_at": "2026-05-31T23:19:32+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Ireland's Walsh impresses as Boutier wins final event before US Women's Open",
+      "title_tr": "Ireland's Walsh impresses as Boutier wins final event before US Women's Open",
+      "summary": "France's Celine Boutier rallied from a four-shot deficit on Sunday, making three birdies around the turn on her way to a five-under 66 for a one-shot victory over Arpichaya Yubol in the ShopRite LPGA as Ireland's Lauren Walsh finished third.",
+      "summary_tr": "France's Celine Boutier rallied from a four-shot deficit on Sunday, making three birdies around the turn on her way to a five-under 66 for a one-shot victory over Arpichaya Yubol in the ShopRite LPGA as Ireland's Lauren Walsh finished third.",
+      "long_summary": "France's Celine Boutier rallied from a four-shot deficit on Sunday, making three birdies around the turn on her way to a five-under 66 for a one-shot victory over Arpichaya Yubol in the ShopRite LPGA as Ireland's Lauren Walsh finished third.",
+      "long_summary_tr": "France's Celine Boutier rallied from a four-shot deficit on Sunday, making three birdies around the turn on her way to a five-under 66 for a one-shot victory over Arpichaya Yubol in the ShopRite LPGA as Ireland's Lauren Walsh finished third.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/golf/news/12040/13549676/lpga-tour-celine-boutier-wins-shoprite-lpga-classic-as-irelands-lauren-walsh-finishes-third",
+      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-lauren-walsh-lpga-tour_7262591.jpg?20260531234941",
+      "published_at": "2026-05-31T23:16:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "No previous French Open champions left - who will seize chance?",
+      "title_tr": "No previous French Open champions left - who will seize chance?",
+      "summary": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
+      "summary_tr": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
+      "long_summary": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
+      "long_summary_tr": "With Iga Swiatek's early French Open exit meaning new men's and women's champions will be crowned, BBC Sport analyses how the draws have been blown open.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/tennis/articles/cm2pm56z85jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7c8/live/5af1d830-5d28-11f1-b3bd-bfbe0dcec2ce.jpg",
+      "published_at": "2026-05-31T23:02:54+00:00"
     },
     {
       "origin": "yabanci",
@@ -88,6 +836,28 @@
       "url": "https://www.ign.com/articles/alienwares-new-super-ultrawide-oled-gaming-monitor-might-just-earn-its-rgb-stripes",
       "image": "https://assets-prd.ignimgs.com/2026/05/28/alienware-39-inch-rgb-stripe-oled-1780008732851.jpg",
       "published_at": "2026-05-31T23:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "title_tr": "Trump seeking edits to US-Iran deal, US media report",
+      "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "summary_tr": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "long_summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "long_summary_tr": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d487/live/024e7340-5d3d-11f1-8906-91bbcad8293d.jpg",
+      "published_at": "2026-05-31T22:54:20+00:00"
     },
     {
       "origin": "yabanci",
@@ -311,72 +1081,6 @@
     },
     {
       "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Polls close in Colombia presidential election that may reshape relations with US",
-      "title_tr": "Polls close in Colombia presidential election that may reshape relations with US",
-      "summary": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "summary_tr": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "long_summary": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "long_summary_tr": "The election comes after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b62/live/c71dea20-5cf7-11f1-89a3-d1f559421220.jpg",
-      "published_at": "2026-05-31T21:08:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Tatilciler dönüş trafiği sürüyor. Yollar, otogar ve havalimanlarında yoğunluk",
-      "title_tr": "Tatilciler dönüş trafiği sürüyor. Yollar, otogar ve havalimanlarında yoğunluk",
-      "summary": "Kurban Bayramı tatilinin son gününde yollardaki yoğunluk gece saatlerinde de devam ediyor. Sadece trafikte değil İstanbul'da otogar ve havalimanlarında da yoğunluk yaşanıyor.",
-      "summary_tr": "Kurban Bayramı tatilinin son gününde yollardaki yoğunluk gece saatlerinde de devam ediyor. Sadece trafikte değil İstanbul'da otogar ve havalimanlarında da yoğunluk yaşanıyor.",
-      "long_summary": "Kurban Bayramı tatilinin son gününde yollardaki yoğunluk gece saatlerinde de devam ediyor. Sadece trafikte değil İstanbul'da otogar ve havalimanlarında da yoğunluk yaşanıyor.",
-      "long_summary_tr": "Kurban Bayramı tatilinin son gününde yollardaki yoğunluk gece saatlerinde de devam ediyor. Sadece trafikte değil İstanbul'da otogar ve havalimanlarında da yoğunluk yaşanıyor.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/galeri-tatilciler-donus-trafigi-suruyor-yollar-otogar-ve-havalimanlarinda-yogunluk-1726517",
-      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-06-01000040-113354.png",
-      "published_at": "2026-05-31T21:07:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Kabine toplanıyor. Gündemde hangi konular var?",
-      "title_tr": "Kabine toplanıyor. Gündemde hangi konular var?",
-      "summary": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
-      "summary_tr": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
-      "long_summary": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
-      "long_summary_tr": "Kabine toplantısı yaklaşık 2 haftalık aranın ardından Beştepe'de Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilecek. Hafta başında yapılacak toplantıda en önemli gündem başlıkları ekonomi ve ABD-İran savaşındaki son durum olacak.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-gundemde-hangi-konular-var-1726619",
-      "image": "https://images.ntv.com.tr/images/kabine-925856.jpg",
-      "published_at": "2026-05-31T21:05:11+00:00"
-    },
-    {
-      "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
@@ -396,710 +1100,6 @@
       "url": "https://www.bbc.com/sport/football/articles/c5y7ezzqge8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3561/live/6c5e0670-5d0f-11f1-ac21-9b9cfe1eeb69.jpg",
       "published_at": "2026-05-31T21:05:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yeminli Tercümede Dijital Dönüşümün Merkezi Yalova Olacak",
-      "title_tr": "Yeminli Tercümede Dijital Dönüşümün Merkezi Yalova Olacak",
-      "summary": "İRİM Yeminli Tercüme & Danışmanlık Yetkilisi Banu İrim, yeminli tercüme ve danışmanlık hizmetlerini dijital altyapıyla birleştirdiklerini belirterek, Yalova’dan başlayan dönüşümle Türkiye genelinde daha hızlı, erişilebilir ve entegre hizmet sunmayı hedeflediklerini söyledi.",
-      "summary_tr": "İRİM Yeminli Tercüme & Danışmanlık Yetkilisi Banu İrim, yeminli tercüme ve danışmanlık hizmetlerini dijital altyapıyla birleştirdiklerini belirterek, Yalova’dan başlayan dönüşümle Türkiye genelinde daha hızlı, erişilebilir ve entegre hizmet sunmayı hedeflediklerini söyledi.",
-      "long_summary": "İRİM Yeminli Tercüme & Danışmanlık Yetkilisi Banu İrim, yeminli tercüme ve danışmanlık hizmetlerini dijital altyapıyla birleştirdiklerini belirterek, Yalova’dan başlayan dönüşümle Türkiye genelinde daha hızlı, erişilebilir ve entegre hizmet sunmayı hedeflediklerini söyledi.",
-      "long_summary_tr": "İRİM Yeminli Tercüme & Danışmanlık Yetkilisi Banu İrim, yeminli tercüme ve danışmanlık hizmetlerini dijital altyapıyla birleştirdiklerini belirterek, Yalova’dan başlayan dönüşümle Türkiye genelinde daha hızlı, erişilebilir ve entegre hizmet sunmayı hedeflediklerini söyledi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yeminli-tercumede-dijital-donusumun-merkezi-yalova-olacak",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/haber/whatsapp-image-2026-05-25-at-164638.jpeg",
-      "published_at": "2026-05-31T21:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Bakacak Mevkii Piknik Mesire Yeri İşletme Hakkının İhalesi",
-      "title_tr": "Bakacak Mevkii Piknik Mesire Yeri İşletme Hakkının İhalesi",
-      "summary": "Bakacak Mevkii Piknik Mesire Yeri İşletme Hakkının İhalesi",
-      "summary_tr": "Bakacak Mevkii Piknik Mesire Yeri İşletme Hakkının İhalesi",
-      "long_summary": "Bakacak Mevkii Piknik Mesire Yeri İşletme Hakkının İhalesi",
-      "long_summary_tr": "Bakacak Mevkii Piknik Mesire Yeri İşletme Hakkının İhalesi",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/bakacak-mevkii-piknik-mesire-yeri-isletme-hakkinin-ihalesi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/05/resmi-ilan/yalova-esenkoy-belediye-mesire-alan-ihale-ilan-i-l-n02472891.jpg",
-      "published_at": "2026-05-31T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "İran alan açıyor, AB duvar örüyor",
-      "title_tr": "İran alan açıyor, AB duvar örüyor",
-      "summary": "İran’ın kapasite kayıpları sonrası çelik ihracatına getirdiği yasak, küresel pazarda milyarlarca dolarlık bir arz boşluğu yaratırken Türk çelik sektörüne yeni bir hareket alanı açıyor. Dampingli fiyat politikasının devreden çıkmasıyla alıcıların rotayı Türkiye’ye kırması beklenirken, sektörün gündeminde temmuzda başlayacak AB kotaları var.",
-      "summary_tr": "İran’ın kapasite kayıpları sonrası çelik ihracatına getirdiği yasak, küresel pazarda milyarlarca dolarlık bir arz boşluğu yaratırken Türk çelik sektörüne yeni bir hareket alanı açıyor. Dampingli fiyat politikasının devreden çıkmasıyla alıcıların rotayı Türkiye’ye kırması beklenirken, sektörün gündeminde temmuzda başlayacak AB kotaları var.",
-      "long_summary": "İran’ın kapasite kayıpları sonrası çelik ihracatına getirdiği yasak, küresel pazarda milyarlarca dolarlık bir arz boşluğu yaratırken Türk çelik sektörüne yeni bir hareket alanı açıyor. Dampingli fiyat politikasının devreden çıkmasıyla alıcıların rotayı Türkiye’ye kırması beklenirken, sektörün gündeminde temmuzda başlayacak AB kotaları var.",
-      "long_summary_tr": "İran’ın kapasite kayıpları sonrası çelik ihracatına getirdiği yasak, küresel pazarda milyarlarca dolarlık bir arz boşluğu yaratırken Türk çelik sektörüne yeni bir hareket alanı açıyor. Dampingli fiyat politikasının devreden çıkmasıyla alıcıların rotayı Türkiye’ye kırması beklenirken, sektörün gündeminde temmuzda başlayacak AB kotaları var.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/iran-alan-aciyor-ab-duvar-oruyor-haberi-826917",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/31/1-y4f8_cover.jpg",
-      "published_at": "2026-05-31T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Açlığa karşı korumamız var, bolluk için savunmamız yok",
-      "title_tr": "Açlığa karşı korumamız var, bolluk için savunmamız yok",
-      "summary": "ABD Bilimler Akademisi’ne seçilen Prof. Dr. Gökhan Hotamışlıgil DÜNYA’ya konuştu. Obezite ve yaşlanmaya bağlı kronik hastalıkların temelinde metabolizma–bağışıklık ilişkisi olduğunu söyleyen Hotamışlıgil, Enlila ile bilimsel keşifleri insan tedavisine dönüştürmeyi hedeflediklerini anlattı.",
-      "summary_tr": "ABD Bilimler Akademisi’ne seçilen Prof. Dr. Gökhan Hotamışlıgil DÜNYA’ya konuştu. Obezite ve yaşlanmaya bağlı kronik hastalıkların temelinde metabolizma–bağışıklık ilişkisi olduğunu söyleyen Hotamışlıgil, Enlila ile bilimsel keşifleri insan tedavisine dönüştürmeyi hedeflediklerini anlattı.",
-      "long_summary": "ABD Bilimler Akademisi’ne seçilen Prof. Dr. Gökhan Hotamışlıgil DÜNYA’ya konuştu. Obezite ve yaşlanmaya bağlı kronik hastalıkların temelinde metabolizma–bağışıklık ilişkisi olduğunu söyleyen Hotamışlıgil, Enlila ile bilimsel keşifleri insan tedavisine dönüştürmeyi hedeflediklerini anlattı.",
-      "long_summary_tr": "ABD Bilimler Akademisi’ne seçilen Prof. Dr. Gökhan Hotamışlıgil DÜNYA’ya konuştu. Obezite ve yaşlanmaya bağlı kronik hastalıkların temelinde metabolizma–bağışıklık ilişkisi olduğunu söyleyen Hotamışlıgil, Enlila ile bilimsel keşifleri insan tedavisine dönüştürmeyi hedeflediklerini anlattı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/acliga-karsi-korumamiz-var-bolluk-icin-savunmamiz-yok-haberi-826921",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/01/gokhan-s-g0ru_cover.jpg",
-      "published_at": "2026-05-31T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Girişim yatırımcılarına özel 12 adımlık hukuki yol haritası",
-      "title_tr": "Girişim yatırımcılarına özel 12 adımlık hukuki yol haritası",
-      "summary": "Girişimcilik ekosisteminde yatırımcılar açısından belirleyici unsur; yatırımı güvenli ve sürdürülebilir kılacak hukuki zeminin oluşturulması. Hukukçular, yatırım sürecinin yalnızca finansman sağlamaktan ibaret olmadığına dikkat çekerken, sözleşme yönetiminden düzenleyici uyuma, ortaklık yapısından fikri mülkiyet haklarına kadar çok boyutlu bir hazırlık gerektiğine işaret ediyor.",
-      "summary_tr": "Girişimcilik ekosisteminde yatırımcılar açısından belirleyici unsur; yatırımı güvenli ve sürdürülebilir kılacak hukuki zeminin oluşturulması. Hukukçular, yatırım sürecinin yalnızca finansman sağlamaktan ibaret olmadığına dikkat çekerken, sözleşme yönetiminden düzenleyici uyuma, ortaklık yapısından fikri mülkiyet haklarına kadar çok boyutlu bir hazırlık gerektiğine işaret ediyor.",
-      "long_summary": "Girişimcilik ekosisteminde yatırımcılar açısından belirleyici unsur; yatırımı güvenli ve sürdürülebilir kılacak hukuki zeminin oluşturulması. Hukukçular, yatırım sürecinin yalnızca finansman sağlamaktan ibaret olmadığına dikkat çekerken, sözleşme yönetiminden düzenleyici uyuma, ortaklık yapısından fikri mülkiyet haklarına kadar çok boyutlu bir hazırlık gerektiğine işaret ediyor.",
-      "long_summary_tr": "Girişimcilik ekosisteminde yatırımcılar açısından belirleyici unsur; yatırımı güvenli ve sürdürülebilir kılacak hukuki zeminin oluşturulması. Hukukçular, yatırım sürecinin yalnızca finansman sağlamaktan ibaret olmadığına dikkat çekerken, sözleşme yönetiminden düzenleyici uyuma, ortaklık yapısından fikri mülkiyet haklarına kadar çok boyutlu bir hazırlık gerektiğine işaret ediyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/girisim-yatirimcilarina-ozel-12-adimlik-hukuki-yol-haritasi-haberi-826925",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/25/yatirim-eofh_cover.jpg",
-      "published_at": "2026-05-31T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Avrupa rekabette zorlanırken Çin üretim üssüne dönüştü",
-      "title_tr": "Avrupa rekabette zorlanırken Çin üretim üssüne dönüştü",
-      "summary": "2025 yılında dünya genelinde 20 milyonun üzerinde elektrikli araç satıldı. Küresel satışların yaklaşık yüzde 60&#039;ını tek başına gerçekleştiren Çin, üretimde de yüzde 75 paya ulaştı. Avrupa büyümeyi sürdürse de maliyet baskısıyla Çinli ortaklıklara yöneldi. ABD&#039;de satışlar yavaşladı, Türkiye AB’de ilk 4’e girdi.",
-      "summary_tr": "2025 yılında dünya genelinde 20 milyonun üzerinde elektrikli araç satıldı. Küresel satışların yaklaşık yüzde 60&#039;ını tek başına gerçekleştiren Çin, üretimde de yüzde 75 paya ulaştı. Avrupa büyümeyi sürdürse de maliyet baskısıyla Çinli ortaklıklara yöneldi. ABD&#039;de satışlar yavaşladı, Türkiye AB’de ilk 4’e girdi.",
-      "long_summary": "2025 yılında dünya genelinde 20 milyonun üzerinde elektrikli araç satıldı. Küresel satışların yaklaşık yüzde 60&#039;ını tek başına gerçekleştiren Çin, üretimde de yüzde 75 paya ulaştı. Avrupa büyümeyi sürdürse de maliyet baskısıyla Çinli ortaklıklara yöneldi. ABD&#039;de satışlar yavaşladı, Türkiye AB’de ilk 4’e girdi.",
-      "long_summary_tr": "2025 yılında dünya genelinde 20 milyonun üzerinde elektrikli araç satıldı. Küresel satışların yaklaşık yüzde 60&#039;ını tek başına gerçekleştiren Çin, üretimde de yüzde 75 paya ulaştı. Avrupa büyümeyi sürdürse de maliyet baskısıyla Çinli ortaklıklara yöneldi. ABD&#039;de satışlar yavaşladı, Türkiye AB’de ilk 4’e girdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/otomotiv/avrupa-rekabette-zorlanirken-cin-uretim-ussune-donustu-haberi-826928",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/31/otomotive-otomobil-9vtx_cover.jpg",
-      "published_at": "2026-05-31T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Faturası ödenmemiş mucize",
-      "title_tr": "Faturası ödenmemiş mucize",
-      "summary": "Küresel tarım ekonomisinde sürdürülebilirlik tartışmaları karbon odaklı ilerlerken, Cornell Üniversitesi&#039;nin bir mezarlıkta bulduğu 5,5 milyonluk yabani arı kolonisi biyoçeşitliliğin gücünü kanıtladı. Elma bahçelerini büyüten bu gizli ordu, gıda güvenliğimiz için milyarlık ücretsiz sigorta.",
-      "summary_tr": "Küresel tarım ekonomisinde sürdürülebilirlik tartışmaları karbon odaklı ilerlerken, Cornell Üniversitesi&#039;nin bir mezarlıkta bulduğu 5,5 milyonluk yabani arı kolonisi biyoçeşitliliğin gücünü kanıtladı. Elma bahçelerini büyüten bu gizli ordu, gıda güvenliğimiz için milyarlık ücretsiz sigorta.",
-      "long_summary": "Küresel tarım ekonomisinde sürdürülebilirlik tartışmaları karbon odaklı ilerlerken, Cornell Üniversitesi&#039;nin bir mezarlıkta bulduğu 5,5 milyonluk yabani arı kolonisi biyoçeşitliliğin gücünü kanıtladı. Elma bahçelerini büyüten bu gizli ordu, gıda güvenliğimiz için milyarlık ücretsiz sigorta.",
-      "long_summary_tr": "Küresel tarım ekonomisinde sürdürülebilirlik tartışmaları karbon odaklı ilerlerken, Cornell Üniversitesi&#039;nin bir mezarlıkta bulduğu 5,5 milyonluk yabani arı kolonisi biyoçeşitliliğin gücünü kanıtladı. Elma bahçelerini büyüten bu gizli ordu, gıda güvenliğimiz için milyarlık ücretsiz sigorta.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/surdurulebilir-dunya/faturasi-odenmemis-mucize-haberi-826930",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/31/ari-evv8_cover.jpg",
-      "published_at": "2026-05-31T21:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Is SWPL momentum with Celtic after Scottish Cup win?",
-      "title_tr": "Is SWPL momentum with Celtic after Scottish Cup win?",
-      "summary": "What does Celtic's Women's Scottish Cup final win over Rangers mean for next season's SWPL title race?",
-      "summary_tr": "What does Celtic's Women's Scottish Cup final win over Rangers mean for next season's SWPL title race?",
-      "long_summary": "What does Celtic's Women's Scottish Cup final win over Rangers mean for next season's SWPL title race?",
-      "long_summary_tr": "What does Celtic's Women's Scottish Cup final win over Rangers mean for next season's SWPL title race?",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/crrp481r98xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6c1/live/f8908ec0-5d31-11f1-b682-cf91850925ea.jpg",
-      "published_at": "2026-05-31T20:48:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "İstanbul'da camdan sarkarak trafiği tehlikeye atan genç polis denetimine takıldı",
-      "title_tr": "İstanbul'da camdan sarkarak trafiği tehlikeye atan genç polis denetimine takıldı",
-      "summary": "İstanbul Kadıköy sahil yolunda seyir halindeki bir otomobilin camından sarkarak trafiği tehlikeye atan genç, polis ekiplerinin gerçekleştirdiği denetimde yakalandı. Sürücü ve yolcu hakkında cezai işlem uygulandı. Olay, Kadıköy sahil yolunda meydana geldi. Seyir halindeki bir otomobilin ön yolcu koltuğunda bulunan genç, aracın camından dışarı sarkarak tehlikeli hareketlerde bulundu. Trafik güvenliğini tehlikeye düşüren anlar çevredeki vatandaşlar tarafından görüntülendi.\n\nGörüntülerin ardından bölgede denetimlerini sürdüren trafik ekipleri, söz konusu aracı durdurdu. Yapılan kontrollerde sürücü ve araçta gerekli incelemeler gerçekleştirilirken, trafik kurallarını ihlal eden sürücü ve yolcu hakkında idari para cezası uygulandı.",
-      "summary_tr": "İstanbul Kadıköy sahil yolunda seyir halindeki bir otomobilin camından sarkarak trafiği tehlikeye atan genç, polis ekiplerinin gerçekleştirdiği denetimde yakalandı. Sürücü ve yolcu hakkında cezai işlem uygulandı. Olay, Kadıköy sahil yolunda meydana geldi. Seyir halindeki bir otomobilin ön yolcu koltuğunda bulunan genç, aracın camından dışarı sarkarak tehlikeli hareketlerde bulundu. Trafik güvenliğini tehlikeye düşüren anlar çevredeki vatandaşlar tarafından görüntülendi.\n\nGörüntülerin ardından bölgede denetimlerini sürdüren trafik ekipleri, söz konusu aracı durdurdu. Yapılan kontrollerde sürücü ve araçta gerekli incelemeler gerçekleştirilirken, trafik kurallarını ihlal eden sürücü ve yolcu hakkında idari para cezası uygulandı.",
-      "long_summary": "İstanbul Kadıköy sahil yolunda seyir halindeki bir otomobilin camından sarkarak trafiği tehlikeye atan genç, polis ekiplerinin gerçekleştirdiği denetimde yakalandı. Sürücü ve yolcu hakkında cezai işlem uygulandı. Olay, Kadıköy sahil yolunda meydana geldi. Seyir halindeki bir otomobilin ön yolcu koltuğunda bulunan genç, aracın camından dışarı sarkarak tehlikeli hareketlerde bulundu. Trafik güvenliğini tehlikeye düşüren anlar çevredeki vatandaşlar tarafından görüntülendi.\n\nGörüntülerin ardından",
-      "long_summary_tr": "İstanbul Kadıköy sahil yolunda seyir halindeki bir otomobilin camından sarkarak trafiği tehlikeye atan genç, polis ekiplerinin gerçekleştirdiği denetimde yakalandı. Sürücü ve yolcu hakkında cezai işlem uygulandı. Olay, Kadıköy sahil yolunda meydana geldi. Seyir halindeki bir otomobilin ön yolcu koltuğunda bulunan genç, aracın camından dışarı sarkarak tehlikeli hareketlerde bulundu. Trafik güvenliğini tehlikeye düşüren anlar çevredeki vatandaşlar tarafından görüntülendi.\n\nGörüntülerin ardından",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/istanbul-da-camdan-sarkarak-trafigi-tehlikeye-atan-genc-polis-denetimine-takildi-1639892",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/istanbul-da-camdan-sarkarak-trafigi-tehlikeye-atan-genc-polis-denetimine-takildi-1780263786-499_large.webp",
-      "published_at": "2026-05-31T20:48:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kabine toplanıyor! İşte gündeme gelecek 4 temel konu",
-      "title_tr": "Kabine toplanıyor! İşte gündeme gelecek 4 temel konu",
-      "summary": "Bayramın ardından Cumhurbaşkanlığı Kabinesi üyeleri, Cumhurbaşkanı Erdoğan başkanlığında pazartesi günü Ankara'da bir araya geliyor. Toplantıda Terörsüz Türkiye süreci başta olmak üzere iç ve dış politikadan ekonomiye varıncaya kadar önemli konular masada olacak. İşte kabinede görüşülmesi beklenen konular...Kurban Bayramı dolayısıyla 9 günlük resmi tatilin ardından Ankara Yenimahalle'ye bağlı Beştepe'deki Cumhurbaşkanlığı Külliyesi önemli bir toplantıya ev sahipliği yapacak.\n\n1 Haziran Pazartesi günü Cumhurbaşkanı Erdoğan'ın liderliğinde toplanacak Cumhurbaşkanlığı Kabinesi iç ve dış politika başta olmak üzere enflasyonla mücadelenin ağırlık kazandığı ekonomi başlığı kabine üyelerinin gündeminde olacak.\n\nTERÖRSÜZ TÜRKİYE SÜRECİ\n\nKabine Toplantısı'nda Terörsüz Türkiye sürecinde gelinen nokta da ayrıntılarıyla birlikte ele alınacak. Sürecin yeni aşamasında yasal düzenlemeler ve mevzuat takviminin belirlenmesi beklenirken terörle mücadelede izlenecek yeni stratejilerin toplantıda değerlendirilecek.\n\nFAİLİ MEÇHUL DOSYALARI\n\nAdalet Bakanı Akın Gürlek'in toplantıda bir sunum yapması beklenirken bu kapsamda özellikle geçmişte faili meçhul olarak kalmış dosyalar hakkında yürütülen çalışmalarla ilgili bilgilendirmede bulunacağı tahmin ediliyor.\n\nABD-İRAN GERİLİMİ\n\nKabinenin dış politika başlığında ABD–İran gerilimi ve Hürmüz Boğazı’ndaki belirsizlikler ile Türkiye’nin bölgedeki diplomatik adımları yer alıyor.\n\nRusya ve Ukrayna arasındaki gerilim nedeniyle Karadeniz’de süren savaş süreci ve bölgesel güvenlik riskleri de kabinenin gündeminde değerlendirilecek. Konu içinde Türk gemilerine yönelik saldırılar ve deniz güvenliği ayrıntılı şekilde ele alınacak.\n\nAnkara'da 7-8 Temmuz'da yapılacak NATO Zirvesi'yle ilgili Türkiye’nin hazırlıkları ve ittifak içindeki stratejik konumu da dış politika gündeminde yer alacak.\n\nENFLASYONLA MÜCADELE\n\nEkonomiyle ilgili yapılacak değerlendirmelerde enflasyonla mücadele, Orta Vadeli Program ve 12. Kalkınma Planı kapsamındaki adımların etkileri kabine üyelerinin gündeminde bulunacak.",
-      "summary_tr": "Bayramın ardından Cumhurbaşkanlığı Kabinesi üyeleri, Cumhurbaşkanı Erdoğan başkanlığında pazartesi günü Ankara'da bir araya geliyor. Toplantıda Terörsüz Türkiye süreci başta olmak üzere iç ve dış politikadan ekonomiye varıncaya kadar önemli konular masada olacak. İşte kabinede görüşülmesi beklenen konular...Kurban Bayramı dolayısıyla 9 günlük resmi tatilin ardından Ankara Yenimahalle'ye bağlı Beştepe'deki Cumhurbaşkanlığı Külliyesi önemli bir toplantıya ev sahipliği yapacak.\n\n1 Haziran Pazartesi günü Cumhurbaşkanı Erdoğan'ın liderliğinde toplanacak Cumhurbaşkanlığı Kabinesi iç ve dış politika başta olmak üzere enflasyonla mücadelenin ağırlık kazandığı ekonomi başlığı kabine üyelerinin gündeminde olacak.\n\nTERÖRSÜZ TÜRKİYE SÜRECİ\n\nKabine Toplantısı'nda Terörsüz Türkiye sürecinde gelinen nokta da ayrıntılarıyla birlikte ele alınacak. Sürecin yeni aşamasında yasal düzenlemeler ve mevzuat takviminin belirlenmesi beklenirken terörle mücadelede izlenecek yeni stratejilerin toplantıda değerlendirilecek.\n\nFAİLİ MEÇHUL DOSYALARI\n\nAdalet Bakanı Akın Gürlek'in toplantıda bir sunum yapması beklenirken bu kapsamda özellikle geçmişte faili meçhul olarak kalmış dosyalar hakkında yürütülen çalışmalarla ilgili bilgilendirmede bulunacağı tahmin ediliyor.\n\nABD-İRAN GERİLİMİ\n\nKabinenin dış politika başlığında ABD–İran gerilimi ve Hürmüz Boğazı’ndaki belirsizlikler ile Türkiye’nin bölgedeki diplomatik adımları yer alıyor.\n\nRusya ve Ukrayna arasındaki gerilim nedeniyle Karadeniz’de süren savaş süreci ve bölgesel güvenlik riskleri de kabinenin gündeminde değerlendirilecek. Konu içinde Türk gemilerine yönelik saldırılar ve deniz güvenliği ayrıntılı şekilde ele alınacak.\n\nAnkara'da 7-8 Temmuz'da yapılacak NATO Zirvesi'yle ilgili Türkiye’nin hazırlıkları ve ittifak içindeki stratejik konumu da dış politika gündeminde yer alacak.\n\nENFLASYONLA MÜCADELE\n\nEkonomiyle ilgili yapılacak değerlendirmelerde enflasyonla mücadele, Orta Vadeli Program ve 12. Kalkınma Planı kapsamındaki adımların etkileri kabine üyelerinin gündeminde bulunacak.",
-      "long_summary": "Bayramın ardından Cumhurbaşkanlığı Kabinesi üyeleri, Cumhurbaşkanı Erdoğan başkanlığında pazartesi günü Ankara'da bir araya geliyor. Toplantıda Terörsüz Türkiye süreci başta olmak üzere iç ve dış politikadan ekonomiye varıncaya kadar önemli konular masada olacak. İşte kabinede görüşülmesi beklenen konular...Kurban Bayramı dolayısıyla 9 günlük resmi tatilin ardından Ankara Yenimahalle'ye bağlı Beştepe'deki Cumhurbaşkanlığı Külliyesi önemli bir toplantıya ev sahipliği yapacak.\n\n1 Haziran",
-      "long_summary_tr": "Bayramın ardından Cumhurbaşkanlığı Kabinesi üyeleri, Cumhurbaşkanı Erdoğan başkanlığında pazartesi günü Ankara'da bir araya geliyor. Toplantıda Terörsüz Türkiye süreci başta olmak üzere iç ve dış politikadan ekonomiye varıncaya kadar önemli konular masada olacak. İşte kabinede görüşülmesi beklenen konular...Kurban Bayramı dolayısıyla 9 günlük resmi tatilin ardından Ankara Yenimahalle'ye bağlı Beştepe'deki Cumhurbaşkanlığı Külliyesi önemli bir toplantıya ev sahipliği yapacak.\n\n1 Haziran",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/kabine-toplaniyor-iste-gundeme-gelecek-4-temel-konu-1639889",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/kabine-toplaniyor-iste-gundeme-gelecek-4-temel-konu-1780263457-166_large.webp",
-      "published_at": "2026-05-31T20:37:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "GLP-1 ilaçları onkolojinin yeni büyük fırsatı olabilir mi?",
-      "title_tr": "GLP-1 ilaçları onkolojinin yeni büyük fırsatı olabilir mi?",
-      "summary": "GLP-1 ilaçları onkolojinin yeni büyük fırsatı olabilir mi?",
-      "summary_tr": "GLP-1 ilaçları onkolojinin yeni büyük fırsatı olabilir mi?",
-      "long_summary": "GLP-1 ilaçları onkolojinin yeni büyük fırsatı olabilir mi?",
-      "long_summary_tr": "GLP-1 ilaçları onkolojinin yeni büyük fırsatı olabilir mi?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/glp1-ilaclar-onkolojinin-yeni-buyuk-frsat-olabilir-mi-3926436",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-05-31T20:32:41+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "CHP'li eski vekillerden mutlak butlan tepkisi! 221 isimden ortak açıklama",
-      "title_tr": "CHP'li eski vekillerden mutlak butlan tepkisi! 221 isimden ortak açıklama",
-      "summary": "CHP'de mutlak butlan kararının yankıları sürüyor. 221 eski CHP'li milletvekili ortak bir açıklama yaparak karara tepki gösterdi. Eski vekiller partinin en geç 45 gün içinde kurultaya götürülmesi çağrısında da bulundu.CHP'de mutlak butlan kararı parti içi karışıklığı da beraberinde getirmişti. Karar sonrası yaşananlar parti içinde tartışma konusu olurken, dikkat çeken bir gelişme daha yaşandı.\n\nEski CHP'li 221 milletvekili yaptıkları ortak açıklama ile mutlak butlan kararını kabul etmediklerini vurguladı. Açıklamada, esas olanın CHP örgütleri ve üyelerinin iradesi olduğunu vurguladı.\n\nKURULTAY ÇAĞRISI DA GELDİ\n\nBirgün'de yer alan habere göre eski vekiller \"hukuki temsil boşluğunun\" giderilmesi için en geç 45 gün içinde olağanüstü kurultaya gidilmesi çağrısında bulundu. Konuyla ilgili olarak \"Demokratik ve Laik Cumhuriyetin kurucu partisi olan CHP içinde yaratılmak istenen ayrışma ve tartışmaların büyümeden çözümü için en doğru, meşru ve hukuki çözüm yolu DERHAL Olağanüstü Kurultay Çağrısı yapmaktır. Şu anda yargı eliyle yaratılmış bulunan 'hukuki temsil boşluğu' en hızlı şekilde, en geç 45 gün içinde gidilecek olan Olağanüstü Kurultay iradesiyle çözümlenir\" ifadeleri yer aldı.\n\n\"KARAR KESİNDİR VE İTİRAZ EDİLEMEZ\"\n\nSeçim süreçlerinin Anayasa'nın 79. maddesi uyarınca Yüksek Seçim Kurulu (YSK) gözetiminde yapıldığına ve YSK kararlarının kesin olduğuna dikkat çekilen bildiride, \"YSK, usulsüzlük bulmaz ve itirazı reddederse seçilmişe mazbatasını verir. 79. maddeye göre YSK’nın verdiği karar kesindir ve itiraz edilemez. İktidar yargısının, siyaseti düzenlemenin aracı durumuna getirilmesi, demokratik düzen açısından çok sakıncalıdır ve toplum vicdanında giderilmesi güç yaralar açmaktadır.\" denildi.\n\nAçıklamada, \"Siyasi meşruiyetin kaynağı milletin iradesidir\" vurgusu yapıldı ve \"Sandıkta ortaya çıkan iradenin yok sayılması, siyasal kurumlara ve adalete olan toplumsal güveni sarsmaktadır. Mutlak butlan kararı ile anayasal düzene siyasallaşmış yargı eliyle müdahale edilmiştir. Mutlak butlancılar, tarihin doğru tarafında durmayan ve yarınlardan umudu olmayanlardır\" ifadelerine yer verildi.",
-      "summary_tr": "CHP'de mutlak butlan kararının yankıları sürüyor. 221 eski CHP'li milletvekili ortak bir açıklama yaparak karara tepki gösterdi. Eski vekiller partinin en geç 45 gün içinde kurultaya götürülmesi çağrısında da bulundu.CHP'de mutlak butlan kararı parti içi karışıklığı da beraberinde getirmişti. Karar sonrası yaşananlar parti içinde tartışma konusu olurken, dikkat çeken bir gelişme daha yaşandı.\n\nEski CHP'li 221 milletvekili yaptıkları ortak açıklama ile mutlak butlan kararını kabul etmediklerini vurguladı. Açıklamada, esas olanın CHP örgütleri ve üyelerinin iradesi olduğunu vurguladı.\n\nKURULTAY ÇAĞRISI DA GELDİ\n\nBirgün'de yer alan habere göre eski vekiller \"hukuki temsil boşluğunun\" giderilmesi için en geç 45 gün içinde olağanüstü kurultaya gidilmesi çağrısında bulundu. Konuyla ilgili olarak \"Demokratik ve Laik Cumhuriyetin kurucu partisi olan CHP içinde yaratılmak istenen ayrışma ve tartışmaların büyümeden çözümü için en doğru, meşru ve hukuki çözüm yolu DERHAL Olağanüstü Kurultay Çağrısı yapmaktır. Şu anda yargı eliyle yaratılmış bulunan 'hukuki temsil boşluğu' en hızlı şekilde, en geç 45 gün içinde gidilecek olan Olağanüstü Kurultay iradesiyle çözümlenir\" ifadeleri yer aldı.\n\n\"KARAR KESİNDİR VE İTİRAZ EDİLEMEZ\"\n\nSeçim süreçlerinin Anayasa'nın 79. maddesi uyarınca Yüksek Seçim Kurulu (YSK) gözetiminde yapıldığına ve YSK kararlarının kesin olduğuna dikkat çekilen bildiride, \"YSK, usulsüzlük bulmaz ve itirazı reddederse seçilmişe mazbatasını verir. 79. maddeye göre YSK’nın verdiği karar kesindir ve itiraz edilemez. İktidar yargısının, siyaseti düzenlemenin aracı durumuna getirilmesi, demokratik düzen açısından çok sakıncalıdır ve toplum vicdanında giderilmesi güç yaralar açmaktadır.\" denildi.\n\nAçıklamada, \"Siyasi meşruiyetin kaynağı milletin iradesidir\" vurgusu yapıldı ve \"Sandıkta ortaya çıkan iradenin yok sayılması, siyasal kurumlara ve adalete olan toplumsal güveni sarsmaktadır. Mutlak butlan kararı ile anayasal düzene siyasallaşmış yargı eliyle müdahale edilmiştir. Mutlak butlancılar, tarihin doğru tarafında durmayan ve yarınlardan umudu olmayanlardır\" ifadelerine yer verildi.",
-      "long_summary": "CHP'de mutlak butlan kararının yankıları sürüyor. 221 eski CHP'li milletvekili ortak bir açıklama yaparak karara tepki gösterdi. Eski vekiller partinin en geç 45 gün içinde kurultaya götürülmesi çağrısında da bulundu.CHP'de mutlak butlan kararı parti içi karışıklığı da beraberinde getirmişti. Karar sonrası yaşananlar parti içinde tartışma konusu olurken, dikkat çeken bir gelişme daha yaşandı.\n\nEski CHP'li 221 milletvekili yaptıkları ortak açıklama ile mutlak butlan kararını kabul etmediklerini",
-      "long_summary_tr": "CHP'de mutlak butlan kararının yankıları sürüyor. 221 eski CHP'li milletvekili ortak bir açıklama yaparak karara tepki gösterdi. Eski vekiller partinin en geç 45 gün içinde kurultaya götürülmesi çağrısında da bulundu.CHP'de mutlak butlan kararı parti içi karışıklığı da beraberinde getirmişti. Karar sonrası yaşananlar parti içinde tartışma konusu olurken, dikkat çeken bir gelişme daha yaşandı.\n\nEski CHP'li 221 milletvekili yaptıkları ortak açıklama ile mutlak butlan kararını kabul etmediklerini",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/chp-li-eski-vekillerden-mutlak-butlan-tepkisi-221-isimden-ortak-aciklama-1639886",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/chp-li-eski-vekillerden-mutlak-butlan-tepkisi-221-isimden-ortak-aciklama-1780262676-783_large.webp",
-      "published_at": "2026-05-31T20:32:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Galatasaray'da Victor Osimhen'den ayrılık iddialarına yanıt geldi!",
-      "title_tr": "Galatasaray'da Victor Osimhen'den ayrılık iddialarına yanıt geldi!",
-      "summary": "Nijerya Milli Takım teknik direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosunda yer almayan Osimhen için ayrılık iddiasını ortaya atarken, konuya dair golcü oyuncudan resmi açıklama geldi.Nijerya Milli Takımı Teknik Direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosuna Ademola Lookman ve Victor Osimhen'i almadı. Chelle, kulüp değiştirmesini beklediği Osimhen'in transfer görüşmeleri nedeniyle evinde kaldığını resmen duyurmuştu. Konuya dair açıklama yayınlayan Victor Osimhen olanları şu sözlerle dile getirdi...\n\nSOSYAL MEDYA HESABINDAN PAYLAŞTI!\n\nVictor Osimhen'den açıklama\n\n\"Son röportajında benim hakkımda yaptığı yorumlarla ilgili olarak az önce Teknik Direktör Eric Chelle ile telefonda görüştüm.\n\nNe yazık ki, sözleri bağlamından koparıldı ve gereğinden fazla büyütüldü. Galatasaray'a büyük bir saygısı var, maçlarımızın çoğunu takip ediyor ve asla herhangi bir polemik yaratma niyeti yoktu.\n\nBu görüşme ve ülkemi her zaman temsil etme fırsatı için minnettarım; kendisiyle çalışmaya devam etmeyi sabırsızlıkla bekliyorum.\n\nKendisi çok saygı duyduğum harika bir teknik direktör ve herkesten bu konuyla ilgili spekülasyonları dikkate almamalarını rica ediyorum.\n\nSürekli desteğiniz için teşekkür ederim.\n\nCHELLE NE DEMİŞTİ?\n\nEric Chelle şu açıklamayı yapmıştı:\n\n\"Polonya ve Portekiz olmak üzere iki maçımız var ve bazı oyuncuların vizesi olmadığı için çok sorun yaşıyorum. En önemlisi de iki oyuncudan mahrum kalacağız, Osimhen ve Lookman. Çünkü Victor Osimhen muhtemelen kulüp değiştirecek. Evinde kalmasını tercih ediyoruz, çünkü oynarsa yüzde 100'ünü veremeyebilir, bu iyi olmaz.\"",
-      "summary_tr": "Nijerya Milli Takım teknik direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosunda yer almayan Osimhen için ayrılık iddiasını ortaya atarken, konuya dair golcü oyuncudan resmi açıklama geldi.Nijerya Milli Takımı Teknik Direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosuna Ademola Lookman ve Victor Osimhen'i almadı. Chelle, kulüp değiştirmesini beklediği Osimhen'in transfer görüşmeleri nedeniyle evinde kaldığını resmen duyurmuştu. Konuya dair açıklama yayınlayan Victor Osimhen olanları şu sözlerle dile getirdi...\n\nSOSYAL MEDYA HESABINDAN PAYLAŞTI!\n\nVictor Osimhen'den açıklama\n\n\"Son röportajında benim hakkımda yaptığı yorumlarla ilgili olarak az önce Teknik Direktör Eric Chelle ile telefonda görüştüm.\n\nNe yazık ki, sözleri bağlamından koparıldı ve gereğinden fazla büyütüldü. Galatasaray'a büyük bir saygısı var, maçlarımızın çoğunu takip ediyor ve asla herhangi bir polemik yaratma niyeti yoktu.\n\nBu görüşme ve ülkemi her zaman temsil etme fırsatı için minnettarım; kendisiyle çalışmaya devam etmeyi sabırsızlıkla bekliyorum.\n\nKendisi çok saygı duyduğum harika bir teknik direktör ve herkesten bu konuyla ilgili spekülasyonları dikkate almamalarını rica ediyorum.\n\nSürekli desteğiniz için teşekkür ederim.\n\nCHELLE NE DEMİŞTİ?\n\nEric Chelle şu açıklamayı yapmıştı:\n\n\"Polonya ve Portekiz olmak üzere iki maçımız var ve bazı oyuncuların vizesi olmadığı için çok sorun yaşıyorum. En önemlisi de iki oyuncudan mahrum kalacağız, Osimhen ve Lookman. Çünkü Victor Osimhen muhtemelen kulüp değiştirecek. Evinde kalmasını tercih ediyoruz, çünkü oynarsa yüzde 100'ünü veremeyebilir, bu iyi olmaz.\"",
-      "long_summary": "Nijerya Milli Takım teknik direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosunda yer almayan Osimhen için ayrılık iddiasını ortaya atarken, konuya dair golcü oyuncudan resmi açıklama geldi.Nijerya Milli Takımı Teknik Direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosuna Ademola Lookman ve Victor Osimhen'i almadı. Chelle, kulüp değiştirmesini beklediği Osimhen'in transfer görüşmeleri nedeniyle evinde kaldığını resmen duyurmuştu.",
-      "long_summary_tr": "Nijerya Milli Takım teknik direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosunda yer almayan Osimhen için ayrılık iddiasını ortaya atarken, konuya dair golcü oyuncudan resmi açıklama geldi.Nijerya Milli Takımı Teknik Direktörü Eric Chelle, Polonya ve Portekiz ile oynanacak hazırlık maçlarının kadrosuna Ademola Lookman ve Victor Osimhen'i almadı. Chelle, kulüp değiştirmesini beklediği Osimhen'in transfer görüşmeleri nedeniyle evinde kaldığını resmen duyurmuştu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/spor/galatasaray-da-victor-osimhen-den-ayrilik-iddialarina-yanit-geldi-1639883",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/galatasaray-da-victor-osimhen-den-ayrilik-iddialarina-yanit-geldi-1780262561-524_large.webp",
-      "published_at": "2026-05-31T20:27:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Güney Kore’deki lüks talep artışından kimler faydalanabilir?",
-      "title_tr": "Güney Kore’deki lüks talep artışından kimler faydalanabilir?",
-      "summary": "Güney Kore’deki lüks talep artışından kimler faydalanabilir?",
-      "summary_tr": "Güney Kore’deki lüks talep artışından kimler faydalanabilir?",
-      "long_summary": "Güney Kore’deki lüks talep artışından kimler faydalanabilir?",
-      "long_summary_tr": "Güney Kore’deki lüks talep artışından kimler faydalanabilir?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/guney-koredeki-luks-talep-artsndan-kimler-faydalanabilir-3926434",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-05-31T20:25:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Aksaray'da piknikten dönen ailenin bulunduğu otomobil takla attı: 4'ü çocuk 7 yaralı",
-      "title_tr": "Aksaray'da piknikten dönen ailenin bulunduğu otomobil takla attı: 4'ü çocuk 7 yaralı",
-      "summary": "Aksaray'da içinde piknikten dönen ailenin bulunduğu otomobil, sürücüsünün kontrolü kaybetmesi sonucu refüje çarpıp, takla attı. Kazada, 4’ü çocuk 7 kişi yaralandı.Kaza, saat 19.30 sıralarında Gülağaç ilçesi Kızılkaya kavşağında meydana geldi. Ailesiyle birlikte Selime beldesinde piknik yapan Hasan Demirtaş'ın (47) dönüş yolunda kontrolünü kaybettiği 68 KL 764 plakalı otomobil, refüje çarparak takla attı. Çevredekilerin ihbarı üzerine, kaza yerine jandarma ve sağlık ekipleri sevk edildi.\n\n\n\nKazada sürücü Demirtaş, eşi Gözde Demirtaş (36), çocukları Mir Elyesa Bartu Demirtaş (3), Mehmet Celal Uras Demirtaş (7), Mustafa Seyyid Kutay Demirtaş (12) ve Elisa Demirtaş (1) ile kayınvalidesi Aynur Terlemez (55) yaralandı. Yaralılar, ambulanslarla Aksaray Eğitim ve Araştırma Hastanesi'ne kaldırıldı.\n\nKazayla ilgili soruşturma başlatıldı.",
-      "summary_tr": "Aksaray'da içinde piknikten dönen ailenin bulunduğu otomobil, sürücüsünün kontrolü kaybetmesi sonucu refüje çarpıp, takla attı. Kazada, 4’ü çocuk 7 kişi yaralandı.Kaza, saat 19.30 sıralarında Gülağaç ilçesi Kızılkaya kavşağında meydana geldi. Ailesiyle birlikte Selime beldesinde piknik yapan Hasan Demirtaş'ın (47) dönüş yolunda kontrolünü kaybettiği 68 KL 764 plakalı otomobil, refüje çarparak takla attı. Çevredekilerin ihbarı üzerine, kaza yerine jandarma ve sağlık ekipleri sevk edildi.\n\n\n\nKazada sürücü Demirtaş, eşi Gözde Demirtaş (36), çocukları Mir Elyesa Bartu Demirtaş (3), Mehmet Celal Uras Demirtaş (7), Mustafa Seyyid Kutay Demirtaş (12) ve Elisa Demirtaş (1) ile kayınvalidesi Aynur Terlemez (55) yaralandı. Yaralılar, ambulanslarla Aksaray Eğitim ve Araştırma Hastanesi'ne kaldırıldı.\n\nKazayla ilgili soruşturma başlatıldı.",
-      "long_summary": "Aksaray'da içinde piknikten dönen ailenin bulunduğu otomobil, sürücüsünün kontrolü kaybetmesi sonucu refüje çarpıp, takla attı. Kazada, 4’ü çocuk 7 kişi yaralandı.Kaza, saat 19.30 sıralarında Gülağaç ilçesi Kızılkaya kavşağında meydana geldi. Ailesiyle birlikte Selime beldesinde piknik yapan Hasan Demirtaş'ın (47) dönüş yolunda kontrolünü kaybettiği 68 KL 764 plakalı otomobil, refüje çarparak takla attı. Çevredekilerin ihbarı üzerine, kaza yerine jandarma ve sağlık ekipleri sevk",
-      "long_summary_tr": "Aksaray'da içinde piknikten dönen ailenin bulunduğu otomobil, sürücüsünün kontrolü kaybetmesi sonucu refüje çarpıp, takla attı. Kazada, 4’ü çocuk 7 kişi yaralandı.Kaza, saat 19.30 sıralarında Gülağaç ilçesi Kızılkaya kavşağında meydana geldi. Ailesiyle birlikte Selime beldesinde piknik yapan Hasan Demirtaş'ın (47) dönüş yolunda kontrolünü kaybettiği 68 KL 764 plakalı otomobil, refüje çarparak takla attı. Çevredekilerin ihbarı üzerine, kaza yerine jandarma ve sağlık ekipleri sevk",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/aksaray-da-piknikten-donen-ailenin-bulundugu-otomobil-takla-atti-4-u-cocuk-7-yarali-1639880",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/aksaray-da-piknikten-donen-ailenin-bulundugu-otomobil-takla-atti-4-u-cocuk-7-yarali-1780262444-96_large.webp",
-      "published_at": "2026-05-31T20:21:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Nvidia ve AMD’ye Çin yan kuruluşlarına yeni ihracat sınırı",
-      "title_tr": "Nvidia ve AMD’ye Çin yan kuruluşlarına yeni ihracat sınırı",
-      "summary": "Nvidia ve AMD’ye Çin yan kuruluşlarına yeni ihracat sınırı",
-      "summary_tr": "Nvidia ve AMD’ye Çin yan kuruluşlarına yeni ihracat sınırı",
-      "long_summary": "Nvidia ve AMD’ye Çin yan kuruluşlarına yeni ihracat sınırı",
-      "long_summary_tr": "Nvidia ve AMD’ye Çin yan kuruluşlarına yeni ihracat sınırı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/nvidia-ve-amdye-cin-yan-kuruluslarna-yeni-ihracat-snr-3926433",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-05-31T20:19:21+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "'One of the biggest of his career!' - Burgin wins 800m in 'special' race",
-      "title_tr": "'One of the biggest of his career!' - Burgin wins 800m in 'special' race",
-      "summary": "Great Britain's Max Burgin wins a \"special\" 800m race at the Rabat Diamond League, ahead of Olympic champion Emmanuel Wanyonyi.",
-      "summary_tr": "Great Britain's Max Burgin wins a \"special\" 800m race at the Rabat Diamond League, ahead of Olympic champion Emmanuel Wanyonyi.",
-      "long_summary": "Great Britain's Max Burgin wins a \"special\" 800m race at the Rabat Diamond League, ahead of Olympic champion Emmanuel Wanyonyi.",
-      "long_summary_tr": "Great Britain's Max Burgin wins a \"special\" 800m race at the Rabat Diamond League, ahead of Olympic champion Emmanuel Wanyonyi.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/athletics/videos/cevpww72xkgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67f7/live/3690e0b0-5d2a-11f1-b682-cf91850925ea.jpg",
-      "published_at": "2026-05-31T20:16:25+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Edirne'de kazanın ardından dil sorunu yaşandı",
-      "title_tr": "Edirne'de kazanın ardından dil sorunu yaşandı",
-      "summary": "Edirne'de Bulgar plakalı otomobil ile başka bir otomobilin çarpıştığı trafik kazasının ardından, taraflar arasında dil sorunu yaşandı. Kaza, Edirne'de Dilaverbey Mahallesi Darül Hadis Caddesi'nde meydana geldi. Bulgar plakalı otomobil ile başka bir otomobilin çarpışması sonucu maddi hasarlı trafik kazası meydana geldi. İhbar üzerine olay yerine polis ekipleri sevk edildi.\n\nKazanın ardından Türkçe bilmeyen Bulgar vatandaşları ile Edirneli vatandaşlar arasında iletişim kurmakta güçlük yaşandı. Taraflar uzun süre birbirlerini anlamaya çalışırken, çevrede bulunan vatandaşlar tercümanlık yaparak iletişimin sağlanmasına yardımcı olmaya çalıştı. Yaşanan dil sorunu beden dili ile çözülmeye çalışıldı.\n\n\n\nPolis ekiplerinin olay yerindeki incelemelerinin ardından araçlar yoldan kaldırılırken, kazayla ilgili işlem başlatıldı.",
-      "summary_tr": "Edirne'de Bulgar plakalı otomobil ile başka bir otomobilin çarpıştığı trafik kazasının ardından, taraflar arasında dil sorunu yaşandı. Kaza, Edirne'de Dilaverbey Mahallesi Darül Hadis Caddesi'nde meydana geldi. Bulgar plakalı otomobil ile başka bir otomobilin çarpışması sonucu maddi hasarlı trafik kazası meydana geldi. İhbar üzerine olay yerine polis ekipleri sevk edildi.\n\nKazanın ardından Türkçe bilmeyen Bulgar vatandaşları ile Edirneli vatandaşlar arasında iletişim kurmakta güçlük yaşandı. Taraflar uzun süre birbirlerini anlamaya çalışırken, çevrede bulunan vatandaşlar tercümanlık yaparak iletişimin sağlanmasına yardımcı olmaya çalıştı. Yaşanan dil sorunu beden dili ile çözülmeye çalışıldı.\n\n\n\nPolis ekiplerinin olay yerindeki incelemelerinin ardından araçlar yoldan kaldırılırken, kazayla ilgili işlem başlatıldı.",
-      "long_summary": "Edirne'de Bulgar plakalı otomobil ile başka bir otomobilin çarpıştığı trafik kazasının ardından, taraflar arasında dil sorunu yaşandı. Kaza, Edirne'de Dilaverbey Mahallesi Darül Hadis Caddesi'nde meydana geldi. Bulgar plakalı otomobil ile başka bir otomobilin çarpışması sonucu maddi hasarlı trafik kazası meydana geldi. İhbar üzerine olay yerine polis ekipleri sevk edildi.\n\nKazanın ardından Türkçe bilmeyen Bulgar vatandaşları ile Edirneli vatandaşlar arasında iletişim kurmakta güçlük yaşandı.",
-      "long_summary_tr": "Edirne'de Bulgar plakalı otomobil ile başka bir otomobilin çarpıştığı trafik kazasının ardından, taraflar arasında dil sorunu yaşandı. Kaza, Edirne'de Dilaverbey Mahallesi Darül Hadis Caddesi'nde meydana geldi. Bulgar plakalı otomobil ile başka bir otomobilin çarpışması sonucu maddi hasarlı trafik kazası meydana geldi. İhbar üzerine olay yerine polis ekipleri sevk edildi.\n\nKazanın ardından Türkçe bilmeyen Bulgar vatandaşları ile Edirneli vatandaşlar arasında iletişim kurmakta güçlük yaşandı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/edirne-de-kazanin-ardindan-dil-sorunu-yasandi-1639877",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/edirne-de-kazanin-ardindan-dil-sorunu-yasandi-1780262341-28_large.webp",
-      "published_at": "2026-05-31T20:14:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Exeter shock Leicester for crucial win to set up final-round play-off drama",
-      "title_tr": "Exeter shock Leicester for crucial win to set up final-round play-off drama",
-      "summary": "Olly Woodburn scored two tries as Exeter pulled off a stunning 35-26 victory in a pulsating contest as Leicester missed the chance to climb to second in the Gallagher Prem table.",
-      "summary_tr": "Olly Woodburn scored two tries as Exeter pulled off a stunning 35-26 victory in a pulsating contest as Leicester missed the chance to climb to second in the Gallagher Prem table.",
-      "long_summary": "Olly Woodburn scored two tries as Exeter pulled off a stunning 35-26 victory in a pulsating contest as Leicester missed the chance to climb to second in the Gallagher Prem table.",
-      "long_summary_tr": "Olly Woodburn scored two tries as Exeter pulled off a stunning 35-26 victory in a pulsating contest as Leicester missed the chance to climb to second in the Gallagher Prem table.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-union/news/12040/13549637/exeter-end-leicesters-unbeaten-home-run-to-set-up-thrilling-final-day-of-prem-regular-season-before-play-offs",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-prem-rugby-olly-woodburn_7262494.jpg?20260531203014",
-      "published_at": "2026-05-31T20:12:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Pezeşkiyan: Hiçbir toplum bedel ödemeden büyük sorunları aşamaz",
-      "title_tr": "Pezeşkiyan: Hiçbir toplum bedel ödemeden büyük sorunları aşamaz",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, İran&#039;ın içinde bulunduğu zorlu süreçte farkındalık ve dayanışmanın önemine dikkat çekerek, &quot;Hiçbir toplum büyük zorlukları sıkıntı çekmeden aşamaz. Mevcut gerçekleri halka anlatmalıyız ki toplumun tüm kesimleri sorunların çözümüne katılabilsin. Bu ortak acı, asla tek başına iyileştirilemez&quot; dedi.",
-      "summary_tr": "İran Cumhurbaşkanı Mesud Pezeşkiyan, İran&#039;ın içinde bulunduğu zorlu süreçte farkındalık ve dayanışmanın önemine dikkat çekerek, &quot;Hiçbir toplum büyük zorlukları sıkıntı çekmeden aşamaz. Mevcut gerçekleri halka anlatmalıyız ki toplumun tüm kesimleri sorunların çözümüne katılabilsin. Bu ortak acı, asla tek başına iyileştirilemez&quot; dedi.",
-      "long_summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, İran&#039;ın içinde bulunduğu zorlu süreçte farkındalık ve dayanışmanın önemine dikkat çekerek, &quot;Hiçbir toplum büyük zorlukları sıkıntı çekmeden aşamaz. Mevcut gerçekleri halka anlatmalıyız ki toplumun tüm kesimleri sorunların çözümüne katılabilsin. Bu ortak acı, asla tek başına iyileştirilemez&quot; dedi.",
-      "long_summary_tr": "İran Cumhurbaşkanı Mesud Pezeşkiyan, İran&#039;ın içinde bulunduğu zorlu süreçte farkındalık ve dayanışmanın önemine dikkat çekerek, &quot;Hiçbir toplum büyük zorlukları sıkıntı çekmeden aşamaz. Mevcut gerçekleri halka anlatmalıyız ki toplumun tüm kesimleri sorunların çözümüne katılabilsin. Bu ortak acı, asla tek başına iyileştirilemez&quot; dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/pezeskiyan-hicbir-toplum-bedel-odemeden-buyuk-sorunlari-asamaz-haberi-826942",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/03/08/iran-cumhurbaskani-pezeskiyan-7et4_cover.jpg",
-      "published_at": "2026-05-31T20:12:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Çankırı'da merdivenden düşen adam hayatını kaybetti",
-      "title_tr": "Çankırı'da merdivenden düşen adam hayatını kaybetti",
-      "summary": "Çankırı’nın Kurşunlu ilçesinde merdivenden düşen adam hayatını kaybetti. Olay, Kurşunlu ilçesi Madenli köyünde meydana geldi. Edinilen bilgilere göre, arıcılıkla uğraşan Muhsin Çakır, arı kovanlarına bakım ve onarım yapmak için çıktığı merdivenden dengesini kaybederek düştü. Yaralanan Çakır, ihbar üzerine olay yerine gelen sağlık ekipleri tarafından Kurşunlu Devlet Hastanesine kaldırıldı. Çakır, burada yapılan tüm müdahalelere rağmen kurtarılamadı.",
-      "summary_tr": "Çankırı’nın Kurşunlu ilçesinde merdivenden düşen adam hayatını kaybetti. Olay, Kurşunlu ilçesi Madenli köyünde meydana geldi. Edinilen bilgilere göre, arıcılıkla uğraşan Muhsin Çakır, arı kovanlarına bakım ve onarım yapmak için çıktığı merdivenden dengesini kaybederek düştü. Yaralanan Çakır, ihbar üzerine olay yerine gelen sağlık ekipleri tarafından Kurşunlu Devlet Hastanesine kaldırıldı. Çakır, burada yapılan tüm müdahalelere rağmen kurtarılamadı.",
-      "long_summary": "Çankırı’nın Kurşunlu ilçesinde merdivenden düşen adam hayatını kaybetti. Olay, Kurşunlu ilçesi Madenli köyünde meydana geldi. Edinilen bilgilere göre, arıcılıkla uğraşan Muhsin Çakır, arı kovanlarına bakım ve onarım yapmak için çıktığı merdivenden dengesini kaybederek düştü. Yaralanan Çakır, ihbar üzerine olay yerine gelen sağlık ekipleri tarafından Kurşunlu Devlet Hastanesine kaldırıldı. Çakır, burada yapılan tüm müdahalelere rağmen kurtarılamadı.",
-      "long_summary_tr": "Çankırı’nın Kurşunlu ilçesinde merdivenden düşen adam hayatını kaybetti. Olay, Kurşunlu ilçesi Madenli köyünde meydana geldi. Edinilen bilgilere göre, arıcılıkla uğraşan Muhsin Çakır, arı kovanlarına bakım ve onarım yapmak için çıktığı merdivenden dengesini kaybederek düştü. Yaralanan Çakır, ihbar üzerine olay yerine gelen sağlık ekipleri tarafından Kurşunlu Devlet Hastanesine kaldırıldı. Çakır, burada yapılan tüm müdahalelere rağmen kurtarılamadı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/cankiri-da-merdivenden-dusen-adam-hayatini-kaybetti-1639874",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/cankiri-da-merdivenden-dusen-adam-hayatini-kaybetti-1780262284-971_large.webp",
-      "published_at": "2026-05-31T20:11:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Devon Energy, Marcellus varlıkları için 8 milyar dolarlık teklifle yükseldi",
-      "title_tr": "Devon Energy, Marcellus varlıkları için 8 milyar dolarlık teklifle yükseldi",
-      "summary": "Devon Energy, Marcellus varlıkları için 8 milyar dolarlık teklifle yükseldi",
-      "summary_tr": "Devon Energy, Marcellus varlıkları için 8 milyar dolarlık teklifle yükseldi",
-      "long_summary": "Devon Energy, Marcellus varlıkları için 8 milyar dolarlık teklifle yükseldi",
-      "long_summary_tr": "Devon Energy, Marcellus varlıkları için 8 milyar dolarlık teklifle yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/devon-energy-marcellus-varlklar-icin-8-milyar-dolarlk-teklifle-yukseldi-3926430",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-05-31T20:10:31+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Anadolu Otoyolu Düzce geçişinde trafik durma noktasına geldi",
-      "title_tr": "Anadolu Otoyolu Düzce geçişinde trafik durma noktasına geldi",
-      "summary": "Kurban Bayramı tatilinin son gününde geri dönüş yolculuğu sürerken, Anadolu Otoyolu'nun Düzce geçişi İstanbul yönünde gece saatlerinde trafik durma noktasına geldi.Kurban Bayramı tatilini memleketlerinde ve tatil bölgelerinde geçiren vatandaşların geri dönüş yolculuğu tatilin son gününde devam ediyor.\n\nBayram tatilinin sona ermesi ile birlikte Cuma günü başlayan yoğunluk tatilin son gününde de devam etti. Anadolu Otoyolu’nun Düzce geçişi İstanbul yönünde yoğunluk oluştu. Kaynaşlı gişelerinden başlayan yoğunluk Gümüşova rampalarına kadar gün boyunca yoğun şeklinde devam eden trafik, gece saatlerinde yer yer durma noktasına geldi. Jandarma ve Karayolları ekipleri ise tatilin son gününde güzergah üzerinde önlemlerini sürdürüyor.",
-      "summary_tr": "Kurban Bayramı tatilinin son gününde geri dönüş yolculuğu sürerken, Anadolu Otoyolu'nun Düzce geçişi İstanbul yönünde gece saatlerinde trafik durma noktasına geldi.Kurban Bayramı tatilini memleketlerinde ve tatil bölgelerinde geçiren vatandaşların geri dönüş yolculuğu tatilin son gününde devam ediyor.\n\nBayram tatilinin sona ermesi ile birlikte Cuma günü başlayan yoğunluk tatilin son gününde de devam etti. Anadolu Otoyolu’nun Düzce geçişi İstanbul yönünde yoğunluk oluştu. Kaynaşlı gişelerinden başlayan yoğunluk Gümüşova rampalarına kadar gün boyunca yoğun şeklinde devam eden trafik, gece saatlerinde yer yer durma noktasına geldi. Jandarma ve Karayolları ekipleri ise tatilin son gününde güzergah üzerinde önlemlerini sürdürüyor.",
-      "long_summary": "Kurban Bayramı tatilinin son gününde geri dönüş yolculuğu sürerken, Anadolu Otoyolu'nun Düzce geçişi İstanbul yönünde gece saatlerinde trafik durma noktasına geldi.Kurban Bayramı tatilini memleketlerinde ve tatil bölgelerinde geçiren vatandaşların geri dönüş yolculuğu tatilin son gününde devam ediyor.\n\nBayram tatilinin sona ermesi ile birlikte Cuma günü başlayan yoğunluk tatilin son gününde de devam etti. Anadolu Otoyolu’nun Düzce geçişi İstanbul yönünde yoğunluk oluştu. Kaynaşlı gişelerinden",
-      "long_summary_tr": "Kurban Bayramı tatilinin son gününde geri dönüş yolculuğu sürerken, Anadolu Otoyolu'nun Düzce geçişi İstanbul yönünde gece saatlerinde trafik durma noktasına geldi.Kurban Bayramı tatilini memleketlerinde ve tatil bölgelerinde geçiren vatandaşların geri dönüş yolculuğu tatilin son gününde devam ediyor.\n\nBayram tatilinin sona ermesi ile birlikte Cuma günü başlayan yoğunluk tatilin son gününde de devam etti. Anadolu Otoyolu’nun Düzce geçişi İstanbul yönünde yoğunluk oluştu. Kaynaşlı gişelerinden",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/anadolu-otoyolu-duzce-gecisinde-trafik-durma-noktasina-geldi-1639871",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/01/anadolu-otoyolu-duzce-gecisinde-trafik-durma-noktasina-geldi-1780262203-701_large.webp",
-      "published_at": "2026-05-31T20:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Bursa’da cadde ortasında otomobiliyle drift atan sürücü kamerada",
-      "title_tr": "Bursa’da cadde ortasında otomobiliyle drift atan sürücü kamerada",
-      "summary": "Bursa'da sürücünün otomobiliyle drift attığı anlar, cep telefonu kamerasıyla kaydedildi.Sabah saatlerinde Yıldırım ilçesinde cadde ortasında otomobiliyle drift atan sürücüyü fark eden çevredeki bir vatandaş, o anları cep telefonu kamerasıyla kaydetti. Otomobiliyle drift atan sürücü ise bir süre sonra gözden kayboldu.",
-      "summary_tr": "Bursa'da sürücünün otomobiliyle drift attığı anlar, cep telefonu kamerasıyla kaydedildi.Sabah saatlerinde Yıldırım ilçesinde cadde ortasında otomobiliyle drift atan sürücüyü fark eden çevredeki bir vatandaş, o anları cep telefonu kamerasıyla kaydetti. Otomobiliyle drift atan sürücü ise bir süre sonra gözden kayboldu.",
-      "long_summary": "Bursa'da sürücünün otomobiliyle drift attığı anlar, cep telefonu kamerasıyla kaydedildi.Sabah saatlerinde Yıldırım ilçesinde cadde ortasında otomobiliyle drift atan sürücüyü fark eden çevredeki bir vatandaş, o anları cep telefonu kamerasıyla kaydetti. Otomobiliyle drift atan sürücü ise bir süre sonra gözden kayboldu.",
-      "long_summary_tr": "Bursa'da sürücünün otomobiliyle drift attığı anlar, cep telefonu kamerasıyla kaydedildi.Sabah saatlerinde Yıldırım ilçesinde cadde ortasında otomobiliyle drift atan sürücüyü fark eden çevredeki bir vatandaş, o anları cep telefonu kamerasıyla kaydetti. Otomobiliyle drift atan sürücü ise bir süre sonra gözden kayboldu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-cadde-ortasinda-otomobiliyle-drift-atan-surucu-kamerada-1639868",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/05/31/bursa-da-cadde-ortasinda-otomobiliyle-drift-atan-surucu-kamerada-1780261168-543_large.webp",
-      "published_at": "2026-05-31T20:02:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Everything Coming to Apple TV in June",
-      "title_tr": "Everything Coming to Apple TV in June",
-      "summary": "If you’re subscribed to Apple TV, here’s what you have to look forward to in June.",
-      "summary_tr": "If you’re subscribed to Apple TV, here’s what you have to look forward to in June.",
-      "long_summary": "If you’re subscribed to Apple TV, here’s what you have to look forward to in June.",
-      "long_summary_tr": "If you’re subscribed to Apple TV, here’s what you have to look forward to in June.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/whats-new-on-apple-tv-june-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/02/27/appletv-1-1772217140445.jpg",
-      "published_at": "2026-05-31T20:02:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
-      "title_tr": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
-      "summary": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
-      "summary_tr": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
-      "long_summary": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
-      "long_summary_tr": "Lynn century keeps Northampton unbeaten; Yorkshire suffer first loss",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13546329/vitality-blast-2026-updates-and-video-from-t20-competition-with-somerset-the-defending-mens-champions",
-      "image": "https://e0.365dm.com/26/05/1920x1080/skysports-chris-lynn-northampton-cricket_7262487.jpg?20260531201002",
-      "published_at": "2026-05-31T20:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Fletcher called up to Scotland's World Cup squad to replace Gilmour",
-      "title_tr": "Fletcher called up to Scotland's World Cup squad to replace Gilmour",
-      "summary": "Manchester United midfielder Tyler Fletcher has been called up to Scotland's World Cup squad to replace the injured Billy Gilmour.",
-      "summary_tr": "Manchester United midfielder Tyler Fletcher has been called up to Scotland's World Cup squad to replace the injured Billy Gilmour.",
-      "long_summary": "Manchester United midfielder Tyler Fletcher has been called up to Scotland's World Cup squad to replace the injured Billy Gilmour.",
-      "long_summary_tr": "Manchester United midfielder Tyler Fletcher has been called up to Scotland's World Cup squad to replace the injured Billy Gilmour.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13549643/tyler-fletcher-manchester-united-midfielder-replaces-billy-gilmour-in-scotland-world-cup-squad",
-      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-tyler-fletcher-scotland_7262128.jpg?20260531104300",
-      "published_at": "2026-05-31T20:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Nvidia’nın N1 ve N1X İşlemcileri Sızdırıldı",
-      "title_tr": "Nvidia’nın N1 ve N1X İşlemcileri Sızdırıldı",
-      "summary": "Nvidia'nın Computex'te tanıtması beklenen yeni N1 ve N1X işlemci ailesinin teknik özellikleri sızdı. İşte yeni nesil işlemcilerin detayları.",
-      "summary_tr": "Nvidia'nın Computex'te tanıtması beklenen yeni N1 ve N1X işlemci ailesinin teknik özellikleri sızdı. İşte yeni nesil işlemcilerin detayları.",
-      "long_summary": "Nvidia'nın Computex'te tanıtması beklenen yeni N1 ve N1X işlemci ailesinin teknik özellikleri sızdı. İşte yeni nesil işlemcilerin detayları.",
-      "long_summary_tr": "Nvidia'nın Computex'te tanıtması beklenen yeni N1 ve N1X işlemci ailesinin teknik özellikleri sızdı. İşte yeni nesil işlemcilerin detayları.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/nvidianin-n1-ve-n1x-islemcileri-sizdirildi",
-      "image": null,
-      "published_at": "2026-05-31T20:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Edirne’de mangal dumanı ekipleri harekete geçirdi",
-      "title_tr": "Edirne’de mangal dumanı ekipleri harekete geçirdi",
-      "summary": "Edirne’de açık alanda mangal yakan bir vatandaşın çıkardığı yoğun duman, itfaiye, polis ve sağlık ekiplerini harekete geçirdi. Olay, Kocasinan Mahallesi Dr. Doğan Cihan Caddesi’nde meydana geldi. Bir alandan yükselen yoğun dumanı gören vatandaşlar durumu 112 Acil Çağrı Merkezi’ne bildirdi. İhbar üzerine bölgeye itfaiye, polis ve sağlık ekipleri sevk edildi.\n\nKısa sürede olay yerine ulaşan ekipler, yaptıkları incelemede dumanın açık alanda yakılan mangaldan kaynaklandığını belirledi. Herhangi bir olumsuzluğun yaşanmadığının anlaşılması üzerine ekipler bölgeden ayrıldı.\n\nOlay kısa süreli paniğe neden olurken, ekiplerin ihbara hızlı şekilde müdahale ettiği görüldü.",
-      "summary_tr": "Edirne’de açık alanda mangal yakan bir vatandaşın çıkardığı yoğun duman, itfaiye, polis ve sağlık ekiplerini harekete geçirdi. Olay, Kocasinan Mahallesi Dr. Doğan Cihan Caddesi’nde meydana geldi. Bir alandan yükselen yoğun dumanı gören vatandaşlar durumu 112 Acil Çağrı Merkezi’ne bildirdi. İhbar üzerine bölgeye itfaiye, polis ve sağlık ekipleri sevk edildi.\n\nKısa sürede olay yerine ulaşan ekipler, yaptıkları incelemede dumanın açık alanda yakılan mangaldan kaynaklandığını belirledi. Herhangi bir olumsuzluğun yaşanmadığının anlaşılması üzerine ekipler bölgeden ayrıldı.\n\nOlay kısa süreli paniğe neden olurken, ekiplerin ihbara hızlı şekilde müdahale ettiği görüldü.",
-      "long_summary": "Edirne’de açık alanda mangal yakan bir vatandaşın çıkardığı yoğun duman, itfaiye, polis ve sağlık ekiplerini harekete geçirdi. Olay, Kocasinan Mahallesi Dr. Doğan Cihan Caddesi’nde meydana geldi. Bir alandan yükselen yoğun dumanı gören vatandaşlar durumu 112 Acil Çağrı Merkezi’ne bildirdi. İhbar üzerine bölgeye itfaiye, polis ve sağlık ekipleri sevk edildi.\n\nKısa sürede olay yerine ulaşan ekipler, yaptıkları incelemede dumanın açık alanda yakılan mangaldan kaynaklandığını belirledi. Herhangi",
-      "long_summary_tr": "Edirne’de açık alanda mangal yakan bir vatandaşın çıkardığı yoğun duman, itfaiye, polis ve sağlık ekiplerini harekete geçirdi. Olay, Kocasinan Mahallesi Dr. Doğan Cihan Caddesi’nde meydana geldi. Bir alandan yükselen yoğun dumanı gören vatandaşlar durumu 112 Acil Çağrı Merkezi’ne bildirdi. İhbar üzerine bölgeye itfaiye, polis ve sağlık ekipleri sevk edildi.\n\nKısa sürede olay yerine ulaşan ekipler, yaptıkları incelemede dumanın açık alanda yakılan mangaldan kaynaklandığını belirledi. Herhangi",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/edirne-de-mangal-dumani-ekipleri-harekete-gecirdi-1639865",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/05/31/edirne-de-mangal-dumani-ekipleri-harekete-gecirdi-1780260544-770_large.webp",
-      "published_at": "2026-05-31T19:56:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Suriye Devlet Başkanı Eş-Şara, Trump ile telefon görüşmesi gerçekleştirdi",
-      "title_tr": "Suriye Devlet Başkanı Eş-Şara, Trump ile telefon görüşmesi gerçekleştirdi",
-      "summary": "Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinde Suriye’ye yönelik kalan yaptırımların kaldırılmasının Suriye ekonomisinin yeniden canlanması yönünde temel bir adım olduğunu söyledi. Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi. Suriye Devlet Başkanlığı Ofisi’nden yapılan açıklamaya göre, görüşmede taraflar arasındaki ilişkiler, Suriye’nin istikrarına katkı sağlanması ve ülkenin ekonomik toparlanması için gelecekte sağlanacak destek ve bölgedeki son gelişmelere ilişkin başlıklar ele alındı.\n\nAçıklamaya göre Eş-Şara, Suriye'nin yeniden inşa sürecinde uluslararası desteğin sürdürülmesinin önemini vurgulayarak, ülkesine yönelik kalan yaptırımların kaldırılmasının Suriye ekonomisinin yeniden canlanması ve halkının yaşam şartlarının iyileştirilmesi yönünde temel bir adım olduğunu belirtti.\n\nAçıklamaya göre Trump ise Suriye ve bölgedeki gelişmeleri yakından takip ettiğini ifade ederek, istikrarın korunmasının, toparlanma sürecinin desteklenmesinin ve yeniden inşanın önemini vurguladı.\n\nGörüşmenin sonunda taraflar, iletişim ve iş birliğinin sürdürülmesi ile ortak ilgi alanlarındaki başlıkların takip edilmesinin önemini teyit etti. Bunun iki ülkenin çıkarlarına hizmet edeceği ve bölgede güvenlik ile istikrarın desteklenmesine katkı sağlayacağı belirtildi.",
-      "summary_tr": "Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinde Suriye’ye yönelik kalan yaptırımların kaldırılmasının Suriye ekonomisinin yeniden canlanması yönünde temel bir adım olduğunu söyledi. Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi. Suriye Devlet Başkanlığı Ofisi’nden yapılan açıklamaya göre, görüşmede taraflar arasındaki ilişkiler, Suriye’nin istikrarına katkı sağlanması ve ülkenin ekonomik toparlanması için gelecekte sağlanacak destek ve bölgedeki son gelişmelere ilişkin başlıklar ele alındı.\n\nAçıklamaya göre Eş-Şara, Suriye'nin yeniden inşa sürecinde uluslararası desteğin sürdürülmesinin önemini vurgulayarak, ülkesine yönelik kalan yaptırımların kaldırılmasının Suriye ekonomisinin yeniden canlanması ve halkının yaşam şartlarının iyileştirilmesi yönünde temel bir adım olduğunu belirtti.\n\nAçıklamaya göre Trump ise Suriye ve bölgedeki gelişmeleri yakından takip ettiğini ifade ederek, istikrarın korunmasının, toparlanma sürecinin desteklenmesinin ve yeniden inşanın önemini vurguladı.\n\nGörüşmenin sonunda taraflar, iletişim ve iş birliğinin sürdürülmesi ile ortak ilgi alanlarındaki başlıkların takip edilmesinin önemini teyit etti. Bunun iki ülkenin çıkarlarına hizmet edeceği ve bölgede güvenlik ile istikrarın desteklenmesine katkı sağlayacağı belirtildi.",
-      "long_summary": "Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinde Suriye’ye yönelik kalan yaptırımların kaldırılmasının Suriye ekonomisinin yeniden canlanması yönünde temel bir adım olduğunu söyledi. Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi. Suriye Devlet Başkanlığı Ofisi’nden yapılan açıklamaya göre, görüşmede taraflar arasındaki ilişkiler, Suriye’nin istikrarına katkı sağlanması ve ülkenin",
-      "long_summary_tr": "Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile gerçekleştirdiği telefon görüşmesinde Suriye’ye yönelik kalan yaptırımların kaldırılmasının Suriye ekonomisinin yeniden canlanması yönünde temel bir adım olduğunu söyledi. Suriye Devlet Başkanı Ahmed Eş-Şara, ABD Başkanı Donald Trump ile bir telefon görüşmesi gerçekleştirdi. Suriye Devlet Başkanlığı Ofisi’nden yapılan açıklamaya göre, görüşmede taraflar arasındaki ilişkiler, Suriye’nin istikrarına katkı sağlanması ve ülkenin",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/suriye-devlet-baskani-es-sara-trump-ile-telefon-gorusmesi-gerceklestirdi-1639862",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/05/31/suriye-devlet-baskani-es-sara-trump-ile-telefon-gorusmesi-gerceklestirdi-1780260205-893_large.webp",
-      "published_at": "2026-05-31T19:51:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Kocaeli'de iki aile arasında çıkan silahlı kavgada 4 kişi yaralandı",
-      "title_tr": "Kocaeli'de iki aile arasında çıkan silahlı kavgada 4 kişi yaralandı",
-      "summary": "Kocaeli'nin Gölcük ilçesinde iki aile arasında sokakta çıkan kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. İddiaya göre, Gölcük ilçesi Hisareyn Mahallesi Kosova Caddesi'nde iki aile arasında tartışma çıktı. Kısa sürede büyüyen tartışma, silahlı ve sopalı kavgaya dönüştü. Tarafların birbirine girdiği kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. Yaralılar kanlar içinde yerde kalırken durum 112 Acil Çağrı Merkezi'ne bildirildi. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Bölgeye gelen sağlık ekipleri, yaralıları ilk müdahalenin ardından ambulansa alarak hastaneye kaldırdı.",
-      "summary_tr": "Kocaeli'nin Gölcük ilçesinde iki aile arasında sokakta çıkan kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. İddiaya göre, Gölcük ilçesi Hisareyn Mahallesi Kosova Caddesi'nde iki aile arasında tartışma çıktı. Kısa sürede büyüyen tartışma, silahlı ve sopalı kavgaya dönüştü. Tarafların birbirine girdiği kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. Yaralılar kanlar içinde yerde kalırken durum 112 Acil Çağrı Merkezi'ne bildirildi. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Bölgeye gelen sağlık ekipleri, yaralıları ilk müdahalenin ardından ambulansa alarak hastaneye kaldırdı.",
-      "long_summary": "Kocaeli'nin Gölcük ilçesinde iki aile arasında sokakta çıkan kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. İddiaya göre, Gölcük ilçesi Hisareyn Mahallesi Kosova Caddesi'nde iki aile arasında tartışma çıktı. Kısa sürede büyüyen tartışma, silahlı ve sopalı kavgaya dönüştü. Tarafların birbirine girdiği kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. Yaralılar kanlar içinde yerde kalırken durum 112 Acil Çağrı Merkezi'ne bildirildi. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk",
-      "long_summary_tr": "Kocaeli'nin Gölcük ilçesinde iki aile arasında sokakta çıkan kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. İddiaya göre, Gölcük ilçesi Hisareyn Mahallesi Kosova Caddesi'nde iki aile arasında tartışma çıktı. Kısa sürede büyüyen tartışma, silahlı ve sopalı kavgaya dönüştü. Tarafların birbirine girdiği kavgada 4 kişi silahla olmak üzere 5 kişi yaralandı. Yaralılar kanlar içinde yerde kalırken durum 112 Acil Çağrı Merkezi'ne bildirildi. İhbar üzerine olay yerine sağlık ve polis ekipleri sevk",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/kocaeli-de-iki-aile-arasinda-cikan-silahli-kavgada-4-kisi-yaralandi-1639859",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/05/31/kocaeli-de-iki-aile-arasinda-cikan-silahli-kavgada-4-kisi-yaralandi-1780260038-486_large.webp",
-      "published_at": "2026-05-31T19:46:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Balıkesir Ayvalık'ta ahır yangını",
-      "title_tr": "Balıkesir Ayvalık'ta ahır yangını",
-      "summary": "Balıkesir'in Ayvalık ilçesinde çıkan ahır yangını ekiplerin yoğun müdahalesiyle söndürüldü. Yangın, saat 12.45 sıralarında Ayvalık ilçesi Talimname mevkiinde bulunan ahır ve çevresindeki arazide başladı. İhbar üzerine henüz belirlenemeyen bir nedenle çıkan yangına Balıkesir Belediyesi İtfaiye Amirliği Ayvalık Grup Amirliği'nden 5 araçla 15 personel,\n\nBurhaniye ve Gömeç grup amirliklerinden 2 araçla 4 personel müdahale etti. Toplamda 7 araç ve 19 personelin yoğun uğraşları sonucunda söndürülen yangında ahır kullanılmaz hale geldi.",
-      "summary_tr": "Balıkesir'in Ayvalık ilçesinde çıkan ahır yangını ekiplerin yoğun müdahalesiyle söndürüldü. Yangın, saat 12.45 sıralarında Ayvalık ilçesi Talimname mevkiinde bulunan ahır ve çevresindeki arazide başladı. İhbar üzerine henüz belirlenemeyen bir nedenle çıkan yangına Balıkesir Belediyesi İtfaiye Amirliği Ayvalık Grup Amirliği'nden 5 araçla 15 personel,\n\nBurhaniye ve Gömeç grup amirliklerinden 2 araçla 4 personel müdahale etti. Toplamda 7 araç ve 19 personelin yoğun uğraşları sonucunda söndürülen yangında ahır kullanılmaz hale geldi.",
-      "long_summary": "Balıkesir'in Ayvalık ilçesinde çıkan ahır yangını ekiplerin yoğun müdahalesiyle söndürüldü. Yangın, saat 12.45 sıralarında Ayvalık ilçesi Talimname mevkiinde bulunan ahır ve çevresindeki arazide başladı. İhbar üzerine henüz belirlenemeyen bir nedenle çıkan yangına Balıkesir Belediyesi İtfaiye Amirliği Ayvalık Grup Amirliği'nden 5 araçla 15 personel,\n\nBurhaniye ve Gömeç grup amirliklerinden 2 araçla 4 personel müdahale etti. Toplamda 7 araç ve 19 personelin yoğun uğraşları sonucunda söndürülen",
-      "long_summary_tr": "Balıkesir'in Ayvalık ilçesinde çıkan ahır yangını ekiplerin yoğun müdahalesiyle söndürüldü. Yangın, saat 12.45 sıralarında Ayvalık ilçesi Talimname mevkiinde bulunan ahır ve çevresindeki arazide başladı. İhbar üzerine henüz belirlenemeyen bir nedenle çıkan yangına Balıkesir Belediyesi İtfaiye Amirliği Ayvalık Grup Amirliği'nden 5 araçla 15 personel,\n\nBurhaniye ve Gömeç grup amirliklerinden 2 araçla 4 personel müdahale etti. Toplamda 7 araç ve 19 personelin yoğun uğraşları sonucunda söndürülen",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/balikesir-ayvalik-ta-ahir-yangini-1639856",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/05/31/balikesir-ayvalik-ta-ahir-yangini-1780259958-904_large.webp",
-      "published_at": "2026-05-31T19:41:00+00:00"
     }
   ]
 }
