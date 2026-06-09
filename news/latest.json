@@ -1,27 +1,93 @@
 {
-  "updated_at": "2026-06-09T16:17:00.303653+00:00",
+  "updated_at": "2026-06-09T19:26:39.357970+00:00",
   "articles": [
     {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "Webtekno",
-      "title": "ABD Savunma Bakanlığı; BYD, Alibaba ve Unitree'yi \"Çin Askerî Şirketi\" İlan Etti",
-      "title_tr": "ABD Savunma Bakanlığı; BYD, Alibaba ve Unitree'yi \"Çin Askerî Şirketi\" İlan Etti",
-      "summary": "ABD Savunma Bakanlığı (Pentagon) yayımladığı resmî bir raporda üç büyük şirketi Çin Askerî Şirketi ilan etti.",
-      "summary_tr": "ABD Savunma Bakanlığı (Pentagon) yayımladığı resmî bir raporda üç büyük şirketi Çin Askerî Şirketi ilan etti.",
-      "long_summary": "ABD Savunma Bakanlığı (Pentagon) yayımladığı resmî bir raporda üç büyük şirketi Çin Askerî Şirketi ilan etti.",
-      "long_summary_tr": "ABD Savunma Bakanlığı (Pentagon) yayımladığı resmî bir raporda üç büyük şirketi Çin Askerî Şirketi ilan etti.",
+      "source": "Sky Sports",
+      "title": "Serena Williams makes winning comeback after four-year absence",
+      "title_tr": "Serena Williams makes winning comeback after four-year absence",
+      "summary": "Serena Williams made a winning start to her competitive tennis comeback in the doubles event at Queen’s, claiming her first professional victory in nearly four years.",
+      "summary_tr": "Serena Williams made a winning start to her competitive tennis comeback in the doubles event at Queen’s, claiming her first professional victory in nearly four years.",
+      "long_summary": "Serena Williams made a winning start to her competitive tennis comeback in the doubles event at Queen’s, claiming her first professional victory in nearly four years.",
+      "long_summary_tr": "Serena Williams made a winning start to her competitive tennis comeback in the doubles event at Queen’s, claiming her first professional victory in nearly four years.",
       "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.webtekno.com/abd-byd-alibaba-unitree-cin-askeri-sirketi-ilan-etti-h218178.html",
-      "image": "https://imgrosetta.webtekno.com/file/666154/666154-640xauto.jpg",
-      "published_at": "2026-06-09T16:07:57+00:00"
+      "url": "https://www.skysports.com/tennis/news/12040/13552468/serena-williams-44-year-old-grand-slam-great-makes-winning-comeback-in-queens-doubles-event-after-four-year-absence",
+      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-serena-williams-tennis_7269461.jpg?20260609194250",
+      "published_at": "2026-06-09T19:20:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "Coast Guard, Saildrone team up in northern waters to boost border security, surveillance",
+      "title_tr": "Coast Guard, Saildrone team up in northern waters to boost border security, surveillance",
+      "summary": "The Voyager is equipped to conduct persistent coastal surveillance and nearshore mapping missions while remaining at sea for roughly 100 days at a time.",
+      "summary_tr": "The Voyager is equipped to conduct persistent coastal surveillance and nearshore mapping missions while remaining at sea for roughly 100 days at a time.",
+      "long_summary": "The Voyager is equipped to conduct persistent coastal surveillance and nearshore mapping missions while remaining at sea for roughly 100 days at a time.",
+      "long_summary_tr": "The Voyager is equipped to conduct persistent coastal surveillance and nearshore mapping missions while remaining at sea for roughly 100 days at a time.",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/06/coast-guard-saildrone-team-up-in-northern-waters-to-boost-border-security-surveillance/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/CoastGuardSaildroneVoyager-e1781029988288-1024x576.jpg",
+      "published_at": "2026-06-09T19:20:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakan Çiftçi, çeşitli temaslarda bulunmak üzere KKTC'ye geldi",
+      "title_tr": "Bakan Çiftçi, çeşitli temaslarda bulunmak üzere KKTC'ye geldi",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, çeşitli temaslarda bulunmak üzere Kuzey Kıbrıs Türk Cumhuriyeti&#039;ne (KKTC) geldi.",
+      "summary_tr": "İçişleri Bakanı Mustafa Çiftçi, çeşitli temaslarda bulunmak üzere Kuzey Kıbrıs Türk Cumhuriyeti&#039;ne (KKTC) geldi.",
+      "long_summary": "İçişleri Bakanı Mustafa Çiftçi, çeşitli temaslarda bulunmak üzere Kuzey Kıbrıs Türk Cumhuriyeti&#039;ne (KKTC) geldi.",
+      "long_summary_tr": "İçişleri Bakanı Mustafa Çiftçi, çeşitli temaslarda bulunmak üzere Kuzey Kıbrıs Türk Cumhuriyeti&#039;ne (KKTC) geldi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/bakan-ciftci-cesitli-temaslarda-bulunmak-uzere-kktcye-geldi-haberi-827991",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/09/mmmm-w4wg_cover.jpg",
+      "published_at": "2026-06-09T19:11:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "All About the Legally Blonde Prequel Series, Elle",
+      "title_tr": "All About the Legally Blonde Prequel Series, Elle",
+      "summary": "All About the Legally Blonde Prequel Series, Elle",
+      "summary_tr": "All About the Legally Blonde Prequel Series, Elle",
+      "long_summary": "All About the Legally Blonde Prequel Series, Elle",
+      "long_summary_tr": "All About the Legally Blonde Prequel Series, Elle",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/movies-tv/a60417640/legally-blonde-spinoff-news/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/89778316-3bba-4f98-a35b-a58e7bc0bc07.png",
+      "published_at": "2026-06-09T19:06:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -29,21 +95,21 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Bloomberg HT",
-      "title": "AB'den Meta'ya WhatsApp talimatı",
-      "title_tr": "AB'den Meta'ya WhatsApp talimatı",
-      "summary": "AB rekabet düzenleyicileri Meta'ya rakip yapay zeka sohbet botlarının WhatsApp'a erişim sağlaması yönünde talimat verdi.",
-      "summary_tr": "AB rekabet düzenleyicileri Meta'ya rakip yapay zeka sohbet botlarının WhatsApp'a erişim sağlaması yönünde talimat verdi.",
-      "long_summary": "AB rekabet düzenleyicileri Meta'ya rakip yapay zeka sohbet botlarının WhatsApp'a erişim sağlaması yönünde talimat verdi.",
-      "long_summary_tr": "AB rekabet düzenleyicileri Meta'ya rakip yapay zeka sohbet botlarının WhatsApp'a erişim sağlaması yönünde talimat verdi.",
+      "title": "S&P 500 ve Nasdaq son bir ayın en düşük seviyesini gördü",
+      "title_tr": "S&P 500 ve Nasdaq son bir ayın en düşük seviyesini gördü",
+      "summary": "New York borsasında S&P 500 ve Nasdaq endeksleri, teknoloji hisselerinde derinleşen satışlar ve artan jeopolitik risklerin etkisiyle son bir ayın en düşük seviyelerine geriledi.",
+      "summary_tr": "New York borsasında S&P 500 ve Nasdaq endeksleri, teknoloji hisselerinde derinleşen satışlar ve artan jeopolitik risklerin etkisiyle son bir ayın en düşük seviyelerine geriledi.",
+      "long_summary": "New York borsasında S&P 500 ve Nasdaq endeksleri, teknoloji hisselerinde derinleşen satışlar ve artan jeopolitik risklerin etkisiyle son bir ayın en düşük seviyelerine geriledi.",
+      "long_summary_tr": "New York borsasında S&P 500 ve Nasdaq endeksleri, teknoloji hisselerinde derinleşen satışlar ve artan jeopolitik risklerin etkisiyle son bir ayın en düşük seviyelerine geriledi.",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/ab-den-meta-ya-whatsapp-talimati-3779473",
+      "url": "https://www.bloomberght.com/s-p-500-ve-nasdaq-son-bir-ayin-en-dusuk-seviyesini-gordu-3779493",
       "image": null,
-      "published_at": "2026-06-09T16:02:33+00:00"
+      "published_at": "2026-06-09T19:05:11+00:00"
     },
     {
       "origin": "yabanci",
@@ -51,21 +117,43 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "England third favourites? Their real World Cup chances assessed",
-      "title_tr": "England third favourites? Their real World Cup chances assessed",
-      "summary": "The World Cup is finally upon us. Could it be England's year?",
-      "summary_tr": "The World Cup is finally upon us. Could it be England's year?",
-      "long_summary": "The World Cup is finally upon us. Could it be England's year?",
-      "long_summary_tr": "The World Cup is finally upon us. Could it be England's year?",
+      "title": "Stokes considering his future after nightclub incident",
+      "title_tr": "Stokes considering his future after nightclub incident",
+      "summary": "England Test captain Ben Stokes is considering his future after he and Gus Atkinson breached the England team’s new midnight curfew and were at a nightclub when an altercation took place with a Saracens rugby player.",
+      "summary_tr": "England Test captain Ben Stokes is considering his future after he and Gus Atkinson breached the England team’s new midnight curfew and were at a nightclub when an altercation took place with a Saracens rugby player.",
+      "long_summary": "England Test captain Ben Stokes is considering his future after he and Gus Atkinson breached the England team’s new midnight curfew and were at a nightclub when an altercation took place with a Saracens rugby player.",
+      "long_summary_tr": "England Test captain Ben Stokes is considering his future after he and Gus Atkinson breached the England team’s new midnight curfew and were at a nightclub when an altercation took place with a Saracens rugby player.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/football/news/12040/13552254/englands-world-cup-chances-assessed-as-they-are-rated-third-favourites-behind-spain-and-france-between-the-lines",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-between-the-lines_7269170.jpg?20260609145653",
-      "published_at": "2026-06-09T16:00:00+00:00"
+      "url": "https://www.skysports.com/cricket/news/12040/13552470/ben-stokes-england-test-captain-considering-future-after-nightclub-incident-involving-gus-atkinson-and-saracens-player",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-gus-atkinson-ben-stokes_7268669.jpg?20260608221532",
+      "published_at": "2026-06-09T19:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Man Utd exploring deal for Fernandes as West Ham price-tag revealed",
+      "title_tr": "Man Utd exploring deal for Fernandes as West Ham price-tag revealed",
+      "summary": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
+      "summary_tr": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
+      "long_summary": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
+      "long_summary_tr": "Manchester United are exploring a potential deal for West Ham midfielder Mateus Fernandes.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13547841/mateus-fernandes-transfer-news-man-utd-exploring-deal-for-midfielder-who-west-ham-value-at-80m",
+      "image": "https://e1.365dm.com/26/05/1920x1080/skysports-mateus-fernandes_7257986.jpg?20260525105836",
+      "published_at": "2026-06-09T19:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -73,131 +161,21 @@
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "ShiftDelete",
-      "title": "AMD: DDR5 Bellek Fiyatları 2028’e Kadar Normale Dönmeyecek",
-      "title_tr": "AMD: DDR5 Bellek Fiyatları 2028’e Kadar Normale Dönmeyecek",
-      "summary": "AMD, DDR5 bellek fiyatlarının yapay zeka talebi nedeniyle 2028 yılına kadar normale dönmeyeceğini açıkladı. İşte bellek piyasasındaki son durum.",
-      "summary_tr": "AMD, DDR5 bellek fiyatlarının yapay zeka talebi nedeniyle 2028 yılına kadar normale dönmeyeceğini açıkladı. İşte bellek piyasasındaki son durum.",
-      "long_summary": "AMD, DDR5 bellek fiyatlarının yapay zeka talebi nedeniyle 2028 yılına kadar normale dönmeyeceğini açıkladı. İşte bellek piyasasındaki son durum.",
-      "long_summary_tr": "AMD, DDR5 bellek fiyatlarının yapay zeka talebi nedeniyle 2028 yılına kadar normale dönmeyeceğini açıkladı. İşte bellek piyasasındaki son durum.",
+      "title": "Apple Music Güncelleniyor: İşte iOS 27 ile Gelenler",
+      "title_tr": "Apple Music Güncelleniyor: İşte iOS 27 ile Gelenler",
+      "summary": "Apple Music, iOS 27 güncellemesiyle yenilenen arayüz, gelişmiş AutoMix ve yeni Siri entegrasyonu gibi birçok yeniliğe kavuşuyor.",
+      "summary_tr": "Apple Music, iOS 27 güncellemesiyle yenilenen arayüz, gelişmiş AutoMix ve yeni Siri entegrasyonu gibi birçok yeniliğe kavuşuyor.",
+      "long_summary": "Apple Music, iOS 27 güncellemesiyle yenilenen arayüz, gelişmiş AutoMix ve yeni Siri entegrasyonu gibi birçok yeniliğe kavuşuyor.",
+      "long_summary_tr": "Apple Music, iOS 27 güncellemesiyle yenilenen arayüz, gelişmiş AutoMix ve yeni Siri entegrasyonu gibi birçok yeniliğe kavuşuyor.",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://shiftdelete.net/amd-ddr5-bellek-fiyatlari-2028e-kadar-normale-donmeyecek",
+      "url": "https://shiftdelete.net/apple-music-guncelleniyor-iste-ios-27-ile-gelenler",
       "image": null,
-      "published_at": "2026-06-09T16:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "28. Batı Anadolu Rallisi, Çeşme'de düzenlendi!",
-      "title_tr": "28. Batı Anadolu Rallisi, Çeşme'de düzenlendi!",
-      "summary": "Klasik Otomobil Kulübü, 50 klasik otomobil ile sahnedeydi.",
-      "summary_tr": "Klasik Otomobil Kulübü, 50 klasik otomobil ile sahnedeydi.",
-      "long_summary": "Klasik Otomobil Kulübü, 50 klasik otomobil ile sahnedeydi.",
-      "long_summary_tr": "Klasik Otomobil Kulübü, 50 klasik otomobil ile sahnedeydi.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/798241/28bati-anadolu-rallisi-cesme/",
-      "image": "https://cdn.motor1.com/images/mgl/40YWKY/s3/28.-bati-anadolu-rallisi.jpg",
-      "published_at": "2026-06-09T16:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Google, Gemini 3.5 Live Translate’i gerçek zamanlı çeviri için tanıttı",
-      "title_tr": "Google, Gemini 3.5 Live Translate’i gerçek zamanlı çeviri için tanıttı",
-      "summary": "Google, Gemini 3.5 Live Translate’i gerçek zamanlı çeviri için tanıttı",
-      "summary_tr": "Google, Gemini 3.5 Live Translate’i gerçek zamanlı çeviri için tanıttı",
-      "long_summary": "Google, Gemini 3.5 Live Translate’i gerçek zamanlı çeviri için tanıttı",
-      "long_summary_tr": "Google, Gemini 3.5 Live Translate’i gerçek zamanlı çeviri için tanıttı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/google-gemini-35-live-translatei-gercek-zamanl-ceviri-icin-tantt-93CH-3938432",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:53:26+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Fitch, TechnipFMC’nin notunu borç azaltımıyla BBB’ye yükseltti",
-      "title_tr": "Fitch, TechnipFMC’nin notunu borç azaltımıyla BBB’ye yükseltti",
-      "summary": "Fitch, TechnipFMC’nin notunu borç azaltımıyla BBB’ye yükseltti",
-      "summary_tr": "Fitch, TechnipFMC’nin notunu borç azaltımıyla BBB’ye yükseltti",
-      "long_summary": "Fitch, TechnipFMC’nin notunu borç azaltımıyla BBB’ye yükseltti",
-      "long_summary_tr": "Fitch, TechnipFMC’nin notunu borç azaltımıyla BBB’ye yükseltti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/fitch-technipfmcnin-notunu-borc-azaltmyla-bbbye-yukseltti-93CH-3938429",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:49:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Bangladesh beat Australia in ODI for first time in 21 years",
-      "title_tr": "Bangladesh beat Australia in ODI for first time in 21 years",
-      "summary": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur.",
-      "summary_tr": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur.",
-      "long_summary": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur.",
-      "long_summary_tr": "Australia suffer only their second one-day international defeat by Bangladesh - and first for 21 years - in their series opener in Mirpur.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/cricket/articles/cz6vw6yvvdjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/4c838870-6417-11f1-9216-c3eba4acaf31.jpg",
-      "published_at": "2026-06-09T15:47:59+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "AB’den Meta’ya yapay zekâ talebi: Engel kaldırılmalı",
-      "title_tr": "AB’den Meta’ya yapay zekâ talebi: Engel kaldırılmalı",
-      "summary": "Avrupa Birliği (AB), teknoloji şirketi Meta&#039;nın rakip yapay zeka asistanlarının WhatsApp&#039;a erişimini engellemesinin rekabete zarar verebileceği gerekçesiyle, şirketin bu hizmetlere yeniden ücretsiz erişim sağlamasını istedi.",
-      "summary_tr": "Avrupa Birliği (AB), teknoloji şirketi Meta&#039;nın rakip yapay zeka asistanlarının WhatsApp&#039;a erişimini engellemesinin rekabete zarar verebileceği gerekçesiyle, şirketin bu hizmetlere yeniden ücretsiz erişim sağlamasını istedi.",
-      "long_summary": "Avrupa Birliği (AB), teknoloji şirketi Meta&#039;nın rakip yapay zeka asistanlarının WhatsApp&#039;a erişimini engellemesinin rekabete zarar verebileceği gerekçesiyle, şirketin bu hizmetlere yeniden ücretsiz erişim sağlamasını istedi.",
-      "long_summary_tr": "Avrupa Birliği (AB), teknoloji şirketi Meta&#039;nın rakip yapay zeka asistanlarının WhatsApp&#039;a erişimini engellemesinin rekabete zarar verebileceği gerekçesiyle, şirketin bu hizmetlere yeniden ücretsiz erişim sağlamasını istedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/abden-metaya-yapay-zeka-talebi-engel-kaldirilmali-haberi-827979",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/09/b1-dqek_cover.jpg",
-      "published_at": "2026-06-09T15:47:00+00:00"
+      "published_at": "2026-06-09T19:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -205,21 +183,65 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "Ortaokul öğrencisi bıçaklanarak öldürülmüştü. Yaralı halde kafeye sığındığı anlar kamerada",
-      "title_tr": "Ortaokul öğrencisi bıçaklanarak öldürülmüştü. Yaralı halde kafeye sığındığı anlar kamerada",
-      "summary": "İzmir'in Karşıyaka ilçesinde, bıçaklı kavgada ağır yaralanan ve kaldırıldığı hastanede hayatını kaybeden 15 yaşındaki ortaokul öğrencisi Erdem Demir'in, olay sonrası kanlar içinde bir kafeye sığındığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
-      "summary_tr": "İzmir'in Karşıyaka ilçesinde, bıçaklı kavgada ağır yaralanan ve kaldırıldığı hastanede hayatını kaybeden 15 yaşındaki ortaokul öğrencisi Erdem Demir'in, olay sonrası kanlar içinde bir kafeye sığındığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
-      "long_summary": "İzmir'in Karşıyaka ilçesinde, bıçaklı kavgada ağır yaralanan ve kaldırıldığı hastanede hayatını kaybeden 15 yaşındaki ortaokul öğrencisi Erdem Demir'in, olay sonrası kanlar içinde bir kafeye sığındığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
-      "long_summary_tr": "İzmir'in Karşıyaka ilçesinde, bıçaklı kavgada ağır yaralanan ve kaldırıldığı hastanede hayatını kaybeden 15 yaşındaki ortaokul öğrencisi Erdem Demir'in, olay sonrası kanlar içinde bir kafeye sığındığı anlara ait güvenlik kamerası görüntüleri ortaya çıktı.",
+      "title": "Atlas Çağlayan cinayeti davası. Savcılık 21 yıl 7 ay hapis cezası istedi",
+      "title_tr": "Atlas Çağlayan cinayeti davası. Savcılık 21 yıl 7 ay hapis cezası istedi",
+      "summary": "Atlas Çağlayan’ın ölümüne ilişkin görülen davada mütalaa açıklandı. Savcılık, şüpheli E.Ç. için 21 yıl 7 ay hapis cezası istedi. 21 yıla ek olarak cinayet, ruhsatsız silah, silahla tehdit suçlarından da ceza talep edildi.",
+      "summary_tr": "Atlas Çağlayan’ın ölümüne ilişkin görülen davada mütalaa açıklandı. Savcılık, şüpheli E.Ç. için 21 yıl 7 ay hapis cezası istedi. 21 yıla ek olarak cinayet, ruhsatsız silah, silahla tehdit suçlarından da ceza talep edildi.",
+      "long_summary": "Atlas Çağlayan’ın ölümüne ilişkin görülen davada mütalaa açıklandı. Savcılık, şüpheli E.Ç. için 21 yıl 7 ay hapis cezası istedi. 21 yıla ek olarak cinayet, ruhsatsız silah, silahla tehdit suçlarından da ceza talep edildi.",
+      "long_summary_tr": "Atlas Çağlayan’ın ölümüne ilişkin görülen davada mütalaa açıklandı. Savcılık, şüpheli E.Ç. için 21 yıl 7 ay hapis cezası istedi. 21 yıla ek olarak cinayet, ruhsatsız silah, silahla tehdit suçlarından da ceza talep edildi.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/video-ortaokul-ogrencisi-bicaklanarak-oldurulmustu-yarali-halde-kafeye-sigindigi-anlar-kamerada-1727912",
-      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-06-09184208-672688.png",
-      "published_at": "2026-06-09T15:45:58+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/atlas-caglayan-cinayeti-davasi-savcilik-21-yil-7-ay-hapis-cezasi-istedi-1727914",
+      "image": "https://images.ntv.com.tr/images/atlas-826632-956849.jpg",
+      "published_at": "2026-06-09T18:59:53+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Duolingo opsiyon işlemlerinde sıçrama, Temmuz alımları öne çıktı",
+      "title_tr": "Duolingo opsiyon işlemlerinde sıçrama, Temmuz alımları öne çıktı",
+      "summary": "Duolingo opsiyon işlemlerinde sıçrama, Temmuz alımları öne çıktı",
+      "summary_tr": "Duolingo opsiyon işlemlerinde sıçrama, Temmuz alımları öne çıktı",
+      "long_summary": "Duolingo opsiyon işlemlerinde sıçrama, Temmuz alımları öne çıktı",
+      "long_summary_tr": "Duolingo opsiyon işlemlerinde sıçrama, Temmuz alımları öne çıktı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/duolingo-opsiyon-islemlerinde-scrama-temmuz-almlar-one-ckt-93CH-3938545",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:57:11+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Ferdi Zeyrek için vefatının birinci yılında mevlit okutuldu",
+      "title_tr": "Ferdi Zeyrek için vefatının birinci yılında mevlit okutuldu",
+      "summary": "Eski Manisa Büyükşehir Belediye Başkanı Ferdi Zeyrek için vefatının birinci yılında mevlit okutuldu. Anma etkinliğine CHP Grup Başkanı Özgür Özel de katıldı",
+      "summary_tr": "Eski Manisa Büyükşehir Belediye Başkanı Ferdi Zeyrek için vefatının birinci yılında mevlit okutuldu. Anma etkinliğine CHP Grup Başkanı Özgür Özel de katıldı",
+      "long_summary": "Eski Manisa Büyükşehir Belediye Başkanı Ferdi Zeyrek için vefatının birinci yılında mevlit okutuldu. Anma etkinliğine CHP Grup Başkanı Özgür Özel de katıldı",
+      "long_summary_tr": "Eski Manisa Büyükşehir Belediye Başkanı Ferdi Zeyrek için vefatının birinci yılında mevlit okutuldu. Anma etkinliğine CHP Grup Başkanı Özgür Özel de katıldı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/ferdi-zeyrek-icin-vefatinin-birinci-yilinda-mevlit-okutuldu-1727919",
+      "image": "https://images.ntv.com.tr/images/AA-20260609-41625714-41625703-FERDI_ZEYREK_ICIN_VEFATININ_BIRINCI_YILINDA_MEVLIT_OKUTULDUcopy-540781.jpg",
+      "published_at": "2026-06-09T18:55:25+00:00"
     },
     {
       "origin": "yabanci",
@@ -227,43 +249,21 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "Everything Katy Perry Revealed About Justin Trudeau at Their Red Carpet Debut: He’s the ‘Love of My Life’",
-      "title_tr": "Everything Katy Perry Revealed About Justin Trudeau at Their Red Carpet Debut: He’s the ‘Love of My Life’",
-      "summary": "Both Perry and Trudeau spoke about their relationship at the Tribeca Festival.",
-      "summary_tr": "Both Perry and Trudeau spoke about their relationship at the Tribeca Festival.",
-      "long_summary": "Both Perry and Trudeau spoke about their relationship at the Tribeca Festival.",
-      "long_summary_tr": "Both Perry and Trudeau spoke about their relationship at the Tribeca Festival.",
+      "title": "Emily Henry’s Beach Read Movie: What We Know So Far",
+      "title_tr": "Emily Henry’s Beach Read Movie: What We Know So Far",
+      "summary": "Emily Henry’s Beach Read Movie: What We Know So Far",
+      "summary_tr": "Emily Henry’s Beach Read Movie: What We Know So Far",
+      "long_summary": "Emily Henry’s Beach Read Movie: What We Know So Far",
+      "long_summary_tr": "Emily Henry’s Beach Read Movie: What We Know So Far",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/culture/celebrities/a71535886/justin-trudeau-katy-perry-relationship-interview-details-tribeca-festival-photos/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/b0bdd50c-ab25-4fd4-be01-79b9c9c9bf73.jpeg",
-      "published_at": "2026-06-09T15:45:55+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "Sex jumpstarted Earth’s animal biodiversity",
-      "title_tr": "Sex jumpstarted Earth’s animal biodiversity",
-      "summary": "Many species didn’t have much sex for millions of years. They didn’t need it.\nThe post Sex jumpstarted Earth’s animal biodiversity appeared first on Popular Science.",
-      "summary_tr": "Many species didn’t have much sex for millions of years. They didn’t need it.\nThe post Sex jumpstarted Earth’s animal biodiversity appeared first on Popular Science.",
-      "long_summary": "Many species didn’t have much sex for millions of years. They didn’t need it.\nThe post Sex jumpstarted Earth’s animal biodiversity appeared first on Popular Science.",
-      "long_summary_tr": "Many species didn’t have much sex for millions of years. They didn’t need it.\nThe post Sex jumpstarted Earth’s animal biodiversity appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/sex-animal-biodiversity-evolution/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/06/Ancient-Sea-Floor.jpg?quality=85",
-      "published_at": "2026-06-09T15:45:00+00:00"
+      "url": "https://www.elle.com/culture/movies-tv/a60581405/beach-read-movie-emily-henry-release-date-cast-news/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/emily-henry-beach-read-1-6627e9137200e.png",
+      "published_at": "2026-06-09T18:52:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -271,285 +271,43 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
-      "title": "Nike hisseleri neden bugün yükseliyor?",
-      "title_tr": "Nike hisseleri neden bugün yükseliyor?",
-      "summary": "Nike hisseleri neden bugün yükseliyor?",
-      "summary_tr": "Nike hisseleri neden bugün yükseliyor?",
-      "long_summary": "Nike hisseleri neden bugün yükseliyor?",
-      "long_summary_tr": "Nike hisseleri neden bugün yükseliyor?",
+      "title": "AB ülkeleri yeni üyeler için oy hakkı sınırlaması önerdi",
+      "title_tr": "AB ülkeleri yeni üyeler için oy hakkı sınırlaması önerdi",
+      "summary": "AB ülkeleri yeni üyeler için oy hakkı sınırlaması önerdi",
+      "summary_tr": "AB ülkeleri yeni üyeler için oy hakkı sınırlaması önerdi",
+      "long_summary": "AB ülkeleri yeni üyeler için oy hakkı sınırlaması önerdi",
+      "long_summary_tr": "AB ülkeleri yeni üyeler için oy hakkı sınırlaması önerdi",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/nike-hisseleri-neden-bugun-yukseliyor-93CH-3938424",
+      "url": "https://tr.investing.com/news/stock-market-news/ab-ulkeleri-yeni-uyeler-icin-oy-hakk-snrlamas-onerdi-93CH-3938541",
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:43:37+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Apotex Health halka arzı 24 C$ fiyatla gerçekleşecek",
-      "title_tr": "Apotex Health halka arzı 24 C$ fiyatla gerçekleşecek",
-      "summary": "Apotex Health halka arzı 24 C$ fiyatla gerçekleşecek",
-      "summary_tr": "Apotex Health halka arzı 24 C$ fiyatla gerçekleşecek",
-      "long_summary": "Apotex Health halka arzı 24 C$ fiyatla gerçekleşecek",
-      "long_summary_tr": "Apotex Health halka arzı 24 C$ fiyatla gerçekleşecek",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/apotex-health-halka-arz-24-c-fiyatla-gerceklesecek-93CH-3938422",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:43:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Morgan Stanley analistleri Japonya’daki Robin Hood mağazasını ziyaret etti",
-      "title_tr": "Morgan Stanley analistleri Japonya’daki Robin Hood mağazasını ziyaret etti",
-      "summary": "Morgan Stanley analistleri Japonya’daki Robin Hood mağazasını ziyaret etti",
-      "summary_tr": "Morgan Stanley analistleri Japonya’daki Robin Hood mağazasını ziyaret etti",
-      "long_summary": "Morgan Stanley analistleri Japonya’daki Robin Hood mağazasını ziyaret etti",
-      "long_summary_tr": "Morgan Stanley analistleri Japonya’daki Robin Hood mağazasını ziyaret etti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanley-analistleri-japonyadaki-robin-hood-magazasn-ziyaret-etti-93CH-3938419",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:40:27+00:00"
+      "published_at": "2026-06-09T18:50:46+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Savunma / Askeri",
       "category_slug": "savunma_askeri",
       "is_local": false,
-      "source": "Defense News",
-      "title": "After FCAS demise, Germany’s options include ordering more F-35 warplanes",
-      "title_tr": "After FCAS demise, Germany’s options include ordering more F-35 warplanes",
-      "summary": "“Knowing what we know today, we wouldn’t set up a program in this way again,” Pistorius said.",
-      "summary_tr": "“Knowing what we know today, we wouldn’t set up a program in this way again,” Pistorius said.",
-      "long_summary": "“Knowing what we know today, we wouldn’t set up a program in this way again,” Pistorius said.",
-      "long_summary_tr": "“Knowing what we know today, we wouldn’t set up a program in this way again,” Pistorius said.",
+      "source": "Breaking Defense",
+      "title": "‘Not an option’: Top Senate defense appropriator says third reconciliation bill unlikely",
+      "title_tr": "‘Not an option’: Top Senate defense appropriator says third reconciliation bill unlikely",
+      "summary": "Two top appropriators — Sens. Mitch McConnell and Susan Collins — expressed doubt that a third reconciliation bill with defense funding will pass.",
+      "summary_tr": "Two top appropriators — Sens. Mitch McConnell and Susan Collins — expressed doubt that a third reconciliation bill with defense funding will pass.",
+      "long_summary": "Two top appropriators — Sens. Mitch McConnell and Susan Collins — expressed doubt that a third reconciliation bill with defense funding will pass.",
+      "long_summary_tr": "Two top appropriators — Sens. Mitch McConnell and Susan Collins — expressed doubt that a third reconciliation bill with defense funding will pass.",
       "why_important": [
         "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
         "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://www.defensenews.com/global/europe/2026/06/09/after-fcas-demise-germanys-options-include-ordering-more-f-35-warplanes/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SPHS7SVGJNC53BCVCX2K5G6PJQ.jpg",
-      "published_at": "2026-06-09T15:39:53+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Borsa İstanbul günü düşüşle tamamladı",
-      "title_tr": "Borsa İstanbul günü düşüşle tamamladı",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,86 değer kaybederek 13.741,89 puandan tamamladı.",
-      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,86 değer kaybederek 13.741,89 puandan tamamladı.",
-      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,86 değer kaybederek 13.741,89 puandan tamamladı.",
-      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,86 değer kaybederek 13.741,89 puandan tamamladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-827977",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/09/bb1-eymx_cover.jpg",
-      "published_at": "2026-06-09T15:36:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Raducanu makes winning start to grass-court season",
-      "title_tr": "Raducanu makes winning start to grass-court season",
-      "summary": "Emma Raducanu begins her Wimbledon preparations with a promising straight-set victory at Queen's.while Katie Boulter fights back for a deserved win.",
-      "summary_tr": "Emma Raducanu begins her Wimbledon preparations with a promising straight-set victory at Queen's.while Katie Boulter fights back for a deserved win.",
-      "long_summary": "Emma Raducanu begins her Wimbledon preparations with a promising straight-set victory at Queen's.while Katie Boulter fights back for a deserved win.",
-      "long_summary_tr": "Emma Raducanu begins her Wimbledon preparations with a promising straight-set victory at Queen's.while Katie Boulter fights back for a deserved win.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/tennis/articles/cr5j4yjzdp4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf6/live/66c2f270-641c-11f1-9216-c3eba4acaf31.jpg",
-      "published_at": "2026-06-09T15:34:33+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "CAVA Group hisseleri 2.500’den fazla işçi alım planıyla yükseldi",
-      "title_tr": "CAVA Group hisseleri 2.500’den fazla işçi alım planıyla yükseldi",
-      "summary": "CAVA Group hisseleri 2.500’den fazla işçi alım planıyla yükseldi",
-      "summary_tr": "CAVA Group hisseleri 2.500’den fazla işçi alım planıyla yükseldi",
-      "long_summary": "CAVA Group hisseleri 2.500’den fazla işçi alım planıyla yükseldi",
-      "long_summary_tr": "CAVA Group hisseleri 2.500’den fazla işçi alım planıyla yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/cava-group-hisseleri-2500den-fazla-isci-alm-planyla-yukseldi-93CH-3938411",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:34:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Draper to return at Eastbourne after pulling out at Queen's",
-      "title_tr": "Draper to return at Eastbourne after pulling out at Queen's",
-      "summary": "Jack Draper has pulled out of the HSBC Championships at Queen's Club as the former British No 1 continues his recovery from injury ahead of Wimbledon.",
-      "summary_tr": "Jack Draper has pulled out of the HSBC Championships at Queen's Club as the former British No 1 continues his recovery from injury ahead of Wimbledon.",
-      "long_summary": "Jack Draper has pulled out of the HSBC Championships at Queen's Club as the former British No 1 continues his recovery from injury ahead of Wimbledon.",
-      "long_summary_tr": "Jack Draper has pulled out of the HSBC Championships at Queen's Club as the former British No 1 continues his recovery from injury ahead of Wimbledon.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/tennis/news/12040/13552359/queens-club-british-no-1-jack-draper-set-to-return-at-eastbourne-after-pulling-out-of-hsbc-championships",
-      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-jack-draper-tennis_7235040.jpg?20260430121245",
-      "published_at": "2026-06-09T15:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "WhatsApp Kullanıcılarına Casus Yazılım Tehlikesi",
-      "title_tr": "WhatsApp Kullanıcılarına Casus Yazılım Tehlikesi",
-      "summary": "WhatsApp, casus yazılım üreticisi NSO Group'un kullanıcılarını hedef almaya devam ettiğini belirterek federal mahkemeye başvurdu.",
-      "summary_tr": "WhatsApp, casus yazılım üreticisi NSO Group'un kullanıcılarını hedef almaya devam ettiğini belirterek federal mahkemeye başvurdu.",
-      "long_summary": "WhatsApp, casus yazılım üreticisi NSO Group'un kullanıcılarını hedef almaya devam ettiğini belirterek federal mahkemeye başvurdu.",
-      "long_summary_tr": "WhatsApp, casus yazılım üreticisi NSO Group'un kullanıcılarını hedef almaya devam ettiğini belirterek federal mahkemeye başvurdu.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/whatsapp-kullanicilarina-casus-yazilim-tehlikesi",
-      "image": null,
-      "published_at": "2026-06-09T15:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "BofA, MercadoLibre’nin kredi kartı büyümesini öngörüyor",
-      "title_tr": "BofA, MercadoLibre’nin kredi kartı büyümesini öngörüyor",
-      "summary": "BofA, MercadoLibre’nin kredi kartı büyümesini öngörüyor",
-      "summary_tr": "BofA, MercadoLibre’nin kredi kartı büyümesini öngörüyor",
-      "long_summary": "BofA, MercadoLibre’nin kredi kartı büyümesini öngörüyor",
-      "long_summary_tr": "BofA, MercadoLibre’nin kredi kartı büyümesini öngörüyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/bofa-mercadolibrenin-kredi-kart-buyumesini-ongoruyor-93CH-3938400",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:28:02+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Hyliion CEO’su 40-50 milyon dolarlık askeri hattı işaret etti",
-      "title_tr": "Hyliion CEO’su 40-50 milyon dolarlık askeri hattı işaret etti",
-      "summary": "Hyliion CEO’su 40-50 milyon dolarlık askeri hattı işaret etti",
-      "summary_tr": "Hyliion CEO’su 40-50 milyon dolarlık askeri hattı işaret etti",
-      "long_summary": "Hyliion CEO’su 40-50 milyon dolarlık askeri hattı işaret etti",
-      "long_summary_tr": "Hyliion CEO’su 40-50 milyon dolarlık askeri hattı işaret etti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/hyliion-ceosu-4050-milyon-dolarlk-askeri-hatt-isaret-etti-3938398",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:26:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Barclays, Hiperöçekli Harcama Patlaması Arasında En İyi Neocloud ve Bitcoin Madencisi Hisselerini Listeledi",
-      "title_tr": "Barclays, Hiperöçekli Harcama Patlaması Arasında En İyi Neocloud ve Bitcoin Madencisi Hisselerini Listeledi",
-      "summary": "Barclays, Hiperöçekli Harcama Patlaması Arasında En İyi Neocloud ve Bitcoin Madencisi Hisselerini Listeledi",
-      "summary_tr": "Barclays, Hiperöçekli Harcama Patlaması Arasında En İyi Neocloud ve Bitcoin Madencisi Hisselerini Listeledi",
-      "long_summary": "Barclays, Hiperöçekli Harcama Patlaması Arasında En İyi Neocloud ve Bitcoin Madencisi Hisselerini Listeledi",
-      "long_summary_tr": "Barclays, Hiperöçekli Harcama Patlaması Arasında En İyi Neocloud ve Bitcoin Madencisi Hisselerini Listeledi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/barclays-hiperocekli-harcama-patlamas-arasnda-en-iyi-neocloud-ve-bitcoin-madencisi-hisselerini-listeledi-93CH-3938387",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:22:40+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "SpaceX halka arzına kurumsal yatırımcılardan yoğun talep",
-      "title_tr": "SpaceX halka arzına kurumsal yatırımcılardan yoğun talep",
-      "summary": "SpaceX halka arzına kurumsal yatırımcılardan yoğun talep",
-      "summary_tr": "SpaceX halka arzına kurumsal yatırımcılardan yoğun talep",
-      "long_summary": "SpaceX halka arzına kurumsal yatırımcılardan yoğun talep",
-      "long_summary_tr": "SpaceX halka arzına kurumsal yatırımcılardan yoğun talep",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/spacex-halka-arzna-kurumsal-yatrmclardan-yogun-talep-3938394",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-06-09T15:22:30+00:00"
+      "url": "https://breakingdefense.com/2026/06/not-an-option-top-senate-defense-appropriator-says-third-reconciliation-bill-unlikely/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/mcconnell-may-12-e1778604704207-1024x577.jpg",
+      "published_at": "2026-06-09T18:49:54+00:00"
     },
     {
       "origin": "yabanci",
@@ -557,87 +315,21 @@
       "category_slug": "oyun_dijital",
       "is_local": false,
       "source": "GameSpot",
-      "title": "007 First Light Sequel Sounds Like A Matter Of When, Not If",
-      "title_tr": "007 First Light Sequel Sounds Like A Matter Of When, Not If",
-      "summary": "007 First Light has been a big success for IO Interactive, which developed and published the James Bond game, but now that Amazon owns the franchise, what's going to happen with a potential sequel? That question remains unanswered, but now Amazon Game Studios boss Jeff Gattis has shed more light on the situation and strongly suggested that a sequel is a matter of when, not if.\n\n\n\nSpeaking to IGN, Gattis first clarified his original comments, saying he never said that Amazon Game Studios would publish \"the next one.\" \n\n\n\nEarlier in June, Gattis said a potential First Light sequel would be \"done by MGM, and theoretically, by Amazon Game Studios.\" This prompted some concerns that IO might not be involved in a potential follow-up. But Gattis said people \"unfortunately\" ran with the theory that Amazon would publish a possible First Light sequel. Gattis clarified that he never actually said that.\n\n\n\n\"No, IO's been great. They've been great partners. In fact, I was over there visiting them in Copenhagen a couple of months ago. The game's doing great. Let's let the game breathe and have its day,\" Gattis said.\n\n\n\n\n\n\n\nGiven the critical and commercial success of First Light, many fans want to see a sequel, and they want IO to return as its developer. That remains to be seen, but Gattis said, \"Seems like a sequel should be made.\"\n\n\n\n“Trust that we're going to be smart about this,” Gattis added. “I mean, it's market appetite. As long as we feel there's a desire for players to have the game, it’s safe to say it's going to be made.”\n\n\n\nIO CEO Hakan Abrak recently revealed that First Light has sold 3 million copies and should be profitable.\n\n\n\nShould IO get to make a First Light sequel, Abrak said he expects costs to come down. He said 2016’s Hitman cost $78 million to make, while its sequel cost $48 million and was made two years after. The third one, meanwhile, was developed in 20 months and cost $19 million. Abrak said some developers increase scope and ambition with sequels, but IO has a different plan in place.\n\n\n\n“Ambition is not necessarily that it’s more expensive. Ambition is, the platform you build, how do you keep giving amazing experiences from that and how do you iterate on a sequel from that in a smart way, where it’s retroactively maybe lifting the first one as well, like we did with World of Assassination? Some of this approach to concept and ambition, one could think could be applied to Bond as well,” he said.\n\n\n\nIn other news, First Light is set to expand further this year with a Switch 2 edition this summer and lots of new content.",
-      "summary_tr": "007 First Light has been a big success for IO Interactive, which developed and published the James Bond game, but now that Amazon owns the franchise, what's going to happen with a potential sequel? That question remains unanswered, but now Amazon Game Studios boss Jeff Gattis has shed more light on the situation and strongly suggested that a sequel is a matter of when, not if.\n\n\n\nSpeaking to IGN, Gattis first clarified his original comments, saying he never said that Amazon Game Studios would publish \"the next one.\" \n\n\n\nEarlier in June, Gattis said a potential First Light sequel would be \"done by MGM, and theoretically, by Amazon Game Studios.\" This prompted some concerns that IO might not be involved in a potential follow-up. But Gattis said people \"unfortunately\" ran with the theory that Amazon would publish a possible First Light sequel. Gattis clarified that he never actually said that.\n\n\n\n\"No, IO's been great. They've been great partners. In fact, I was over there visiting them in Copenhagen a couple of months ago. The game's doing great. Let's let the game breathe and have its day,\" Gattis said.\n\n\n\n\n\n\n\nGiven the critical and commercial success of First Light, many fans want to see a sequel, and they want IO to return as its developer. That remains to be seen, but Gattis said, \"Seems like a sequel should be made.\"\n\n\n\n“Trust that we're going to be smart about this,” Gattis added. “I mean, it's market appetite. As long as we feel there's a desire for players to have the game, it’s safe to say it's going to be made.”\n\n\n\nIO CEO Hakan Abrak recently revealed that First Light has sold 3 million copies and should be profitable.\n\n\n\nShould IO get to make a First Light sequel, Abrak said he expects costs to come down. He said 2016’s Hitman cost $78 million to make, while its sequel cost $48 million and was made two years after. The third one, meanwhile, was developed in 20 months and cost $19 million. Abrak said some developers increase scope and ambition with sequels, but IO has a different plan in place.\n\n\n\n“Ambition is not necessarily that it’s more expensive. Ambition is, the platform you build, how do you keep giving amazing experiences from that and how do you iterate on a sequel from that in a smart way, where it’s retroactively maybe lifting the first one as well, like we did with World of Assassination? Some of this approach to concept and ambition, one could think could be applied to Bond as well,” he said.\n\n\n\nIn other news, First Light is set to expand further this year with a Switch 2 edition this summer and lots of new content.",
-      "long_summary": "007 First Light has been a big success for IO Interactive, which developed and published the James Bond game, but now that Amazon owns the franchise, what's going to happen with a potential sequel? That question remains unanswered, but now Amazon Game Studios boss Jeff Gattis has shed more light on the situation and strongly suggested that a sequel is a matter of when, not if.\n\n\n\nSpeaking to IGN, Gattis first clarified his original comments, saying he never said that Amazon Game Studios would",
-      "long_summary_tr": "007 First Light has been a big success for IO Interactive, which developed and published the James Bond game, but now that Amazon owns the franchise, what's going to happen with a potential sequel? That question remains unanswered, but now Amazon Game Studios boss Jeff Gattis has shed more light on the situation and strongly suggested that a sequel is a matter of when, not if.\n\n\n\nSpeaking to IGN, Gattis first clarified his original comments, saying he never said that Amazon Game Studios would",
+      "title": "Destiny 2 Player Count Soars Above Marathon’s Highest Ever As Guardians Log On For  Final Update",
+      "title_tr": "Destiny 2 Player Count Soars Above Marathon’s Highest Ever As Guardians Log On For  Final Update",
+      "summary": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the best long-running narrative in a game ever, and cleared all of my plans to be able to experience the newest raid, dungeon, or next story beat.\n\n\n\nThis time around it's a little different. There is no race to be prepared for, and my clan hasn't been frantically discussing the best builds or possible strategies. We're all just going to log in one final time, see what Bungie has made for us, and enjoy it for what it is.\n\n\n\nIt seems we're not alone in that sentiment, as the Destiny 2 player count on Steam alone has shot up to more than 160,000 and climbing. Notably, the player count is peaking at almost double that of Marathon's highest recorded on SteamDB. It's not quite the lofty heights of the finale of The Final Shape, or the release of Lightfall, which saw 316,750 Guardians log in to discover what would happen after the Vanguard discovered the pyramid-shaped fleet of The Witness was approaching. Still, it's a statement to Sony that people do still care about Destiny. A lot.\n\n\n\nAs the player count soared, the old Destiny 2 traditions began to return in the form of server queues, error codes, and randomly getting kicked from an instance. It wouldn't be a Destiny 2 update without some technical issues, after all.\n\n\n\nThere is still a petition running to get Sony and Bungie to consider making Destiny 3, although the creator of that petition, Luckyy10p, says it's been made to \"send a message\" rather than a genuine belief that this could turn the tide of the game's future. But if any decision makers from those companies are reading this article, we do, in fact, really want Destiny 3.",
+      "summary_tr": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the best long-running narrative in a game ever, and cleared all of my plans to be able to experience the newest raid, dungeon, or next story beat.\n\n\n\nThis time around it's a little different. There is no race to be prepared for, and my clan hasn't been frantically discussing the best builds or possible strategies. We're all just going to log in one final time, see what Bungie has made for us, and enjoy it for what it is.\n\n\n\nIt seems we're not alone in that sentiment, as the Destiny 2 player count on Steam alone has shot up to more than 160,000 and climbing. Notably, the player count is peaking at almost double that of Marathon's highest recorded on SteamDB. It's not quite the lofty heights of the finale of The Final Shape, or the release of Lightfall, which saw 316,750 Guardians log in to discover what would happen after the Vanguard discovered the pyramid-shaped fleet of The Witness was approaching. Still, it's a statement to Sony that people do still care about Destiny. A lot.\n\n\n\nAs the player count soared, the old Destiny 2 traditions began to return in the form of server queues, error codes, and randomly getting kicked from an instance. It wouldn't be a Destiny 2 update without some technical issues, after all.\n\n\n\nThere is still a petition running to get Sony and Bungie to consider making Destiny 3, although the creator of that petition, Luckyy10p, says it's been made to \"send a message\" rather than a genuine belief that this could turn the tide of the game's future. But if any decision makers from those companies are reading this article, we do, in fact, really want Destiny 3.",
+      "long_summary": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the best long-running narrative in a game ever, and cleared all of my plans to be able to experience the newest raid, dungeon, or next story beat.\n\n\n\nThis time around it's a little different. There is no race to be prepared for, and my clan hasn't been frantically discussing the best builds or possible",
+      "long_summary_tr": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the best long-running narrative in a game ever, and cleared all of my plans to be able to experience the newest raid, dungeon, or next story beat.\n\n\n\nThis time around it's a little different. There is no race to be prepared for, and my clan hasn't been frantically discussing the best builds or possible",
       "why_important": [
         "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
         "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/007-first-light-sequel-sounds-like-a-matter-of-when-not-if/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/007firstlight_fdda3a.jpg?w=300",
-      "published_at": "2026-06-09T15:20:42+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "You Can Play Star Fox Today Thanks To A New Demo",
-      "title_tr": "You Can Play Star Fox Today Thanks To A New Demo",
-      "summary": "Today, during the Nintendo Direct livestream, Nintendo announced that you can give the new Star Fox a test flight later today with a new demo out now on the Switch 2 eShop.\n\n\n\nThe demo was announced alongside a new look at the full release, with missions on Solar and Zoness among the included footage. The demo, meanwhile, will include the game's tutorial, as well as Meteo, one of the adventure's early missions. \n\n\n\n\nhttps://www.youtube.com/watch?v=gL6e98lg644&pp=0gcJCTkLAYcqIYzv\n\n\n\n\nThe new Star Fox, a remake of Star Fox 64, was announced during a surprise Nintendo Direct that released on May 6 that showed over 15 minutes of gameplay. It features updated graphics, new cutscenes expanding the original game's story, and a online multiplayer battle mode. \n\n\n\nToday's Nintendo Direct also confirmed the long-rumored remake of The Legend of Zelda: Ocarina of Time, as well as new footage from Kingdom Hearts IV, which hasn't been seen since its debut trailer in 2022. Multiple Switch 2 versions of existing games were also announced, including Lies of P, Devil May Cry 5, and Dragon's Dogma II: Dark Arisen.\n\n\n\nStar Fox is set to launch June 25 exclusively on Nintendo Switch 2.",
-      "summary_tr": "Today, during the Nintendo Direct livestream, Nintendo announced that you can give the new Star Fox a test flight later today with a new demo out now on the Switch 2 eShop.\n\n\n\nThe demo was announced alongside a new look at the full release, with missions on Solar and Zoness among the included footage. The demo, meanwhile, will include the game's tutorial, as well as Meteo, one of the adventure's early missions. \n\n\n\n\nhttps://www.youtube.com/watch?v=gL6e98lg644&pp=0gcJCTkLAYcqIYzv\n\n\n\n\nThe new Star Fox, a remake of Star Fox 64, was announced during a surprise Nintendo Direct that released on May 6 that showed over 15 minutes of gameplay. It features updated graphics, new cutscenes expanding the original game's story, and a online multiplayer battle mode. \n\n\n\nToday's Nintendo Direct also confirmed the long-rumored remake of The Legend of Zelda: Ocarina of Time, as well as new footage from Kingdom Hearts IV, which hasn't been seen since its debut trailer in 2022. Multiple Switch 2 versions of existing games were also announced, including Lies of P, Devil May Cry 5, and Dragon's Dogma II: Dark Arisen.\n\n\n\nStar Fox is set to launch June 25 exclusively on Nintendo Switch 2.",
-      "long_summary": "Today, during the Nintendo Direct livestream, Nintendo announced that you can give the new Star Fox a test flight later today with a new demo out now on the Switch 2 eShop.\n\n\n\nThe demo was announced alongside a new look at the full release, with missions on Solar and Zoness among the included footage. The demo, meanwhile, will include the game's tutorial, as well as Meteo, one of the adventure's early missions. \n\n\n\n\nhttps://www.youtube.com/watch?v=gL6e98lg644&pp=0gcJCTkLAYcqIYzv\n\n\n\n\nThe new",
-      "long_summary_tr": "Today, during the Nintendo Direct livestream, Nintendo announced that you can give the new Star Fox a test flight later today with a new demo out now on the Switch 2 eShop.\n\n\n\nThe demo was announced alongside a new look at the full release, with missions on Solar and Zoness among the included footage. The demo, meanwhile, will include the game's tutorial, as well as Meteo, one of the adventure's early missions. \n\n\n\n\nhttps://www.youtube.com/watch?v=gL6e98lg644&pp=0gcJCTkLAYcqIYzv\n\n\n\n\nThe new",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/you-can-play-star-fox-today-thanks-to-a-new-demo/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/starfox.jpg?w=300",
-      "published_at": "2026-06-09T15:20:23+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "title_tr": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "summary_tr": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "long_summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "long_summary_tr": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c8/live/47d73f70-640c-11f1-8546-8f19e4fe30f4.jpg",
-      "published_at": "2026-06-09T15:15:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Xenoblade Fans Are Eating Good With A New Game, Genesis, Announced For 2027",
-      "title_tr": "Xenoblade Fans Are Eating Good With A New Game, Genesis, Announced For 2027",
-      "summary": "Nintendo executive Yoshiaki Koizumi revealed that \"a new story in the Xenoblade series is about to begin\" at today's Nintendo Direct. Xenoblade Genesis is coming to Switch 2 in 2027. \n\n\n\nThe reveal trailer for Xenoblade Genesis starts with a narrator saying that \"Anima was the source for all things.\" This leads to describing the different elements in the world, like water, fire, and wind. Apparently, there are certain warriors who can utilize Anima, named Vesselai.\n\n\n\n\nhttps://twitter.com/NintendoAmerica/status/2064355280284954774\n\n\n\n\nXenoblade Genesis appears to follow a young woman who receives a blade that is then imbued with an Anima crystone. This seems like a focal point of the RPG's story, with the narrator noting: \"Every aspect of your life at Leukos--academic and otherwise--will be intwined with that stone.\" \n\n\n\nIn addition, we see this unnamed protagonist riding a horse-like creature, which wouldn't look out of place in a Studio Ghibli movie. Another character is seen mounted on top of a dragon. Overall, Xenoblade Genesis seems to lean harder into a fantasy setting than the Chronicles games.\n\n\n\nNintendo is staying light on details so far, but it's intriguing that Xenoblade Genesis is referred to as \"a new beginning for the Xenoblade series\" in the company's press release.\n\n\n\t\t\n\t\t\t\n\t\t\t\tEvery Nintendo Switch 2 Exclusive (So Far)\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tView Images",
-      "summary_tr": "Nintendo executive Yoshiaki Koizumi revealed that \"a new story in the Xenoblade series is about to begin\" at today's Nintendo Direct. Xenoblade Genesis is coming to Switch 2 in 2027. \n\n\n\nThe reveal trailer for Xenoblade Genesis starts with a narrator saying that \"Anima was the source for all things.\" This leads to describing the different elements in the world, like water, fire, and wind. Apparently, there are certain warriors who can utilize Anima, named Vesselai.\n\n\n\n\nhttps://twitter.com/NintendoAmerica/status/2064355280284954774\n\n\n\n\nXenoblade Genesis appears to follow a young woman who receives a blade that is then imbued with an Anima crystone. This seems like a focal point of the RPG's story, with the narrator noting: \"Every aspect of your life at Leukos--academic and otherwise--will be intwined with that stone.\" \n\n\n\nIn addition, we see this unnamed protagonist riding a horse-like creature, which wouldn't look out of place in a Studio Ghibli movie. Another character is seen mounted on top of a dragon. Overall, Xenoblade Genesis seems to lean harder into a fantasy setting than the Chronicles games.\n\n\n\nNintendo is staying light on details so far, but it's intriguing that Xenoblade Genesis is referred to as \"a new beginning for the Xenoblade series\" in the company's press release.\n\n\n\t\t\n\t\t\t\n\t\t\t\tEvery Nintendo Switch 2 Exclusive (So Far)\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tView Images",
-      "long_summary": "Nintendo executive Yoshiaki Koizumi revealed that \"a new story in the Xenoblade series is about to begin\" at today's Nintendo Direct. Xenoblade Genesis is coming to Switch 2 in 2027. \n\n\n\nThe reveal trailer for Xenoblade Genesis starts with a narrator saying that \"Anima was the source for all things.\" This leads to describing the different elements in the world, like water, fire, and wind. Apparently, there are certain warriors who can utilize Anima, named",
-      "long_summary_tr": "Nintendo executive Yoshiaki Koizumi revealed that \"a new story in the Xenoblade series is about to begin\" at today's Nintendo Direct. Xenoblade Genesis is coming to Switch 2 in 2027. \n\n\n\nThe reveal trailer for Xenoblade Genesis starts with a narrator saying that \"Anima was the source for all things.\" This leads to describing the different elements in the world, like water, fire, and wind. Apparently, there are certain warriors who can utilize Anima, named",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/xenoblade-fans-are-eating-good-with-a-new-game-genesis-announced-for-2027/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/XenoGenesis.jpg?w=300",
-      "published_at": "2026-06-09T15:13:04+00:00"
+      "url": "https://www.gamespot.com/articles/destiny-2-player-count-soars-above-marathons-highest-ever-as-guardians-log-on-for-final-update/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/2024_Vespers_Host_Press_Kit_Locations_COMPRESSED_007.jpg?w=300",
+      "published_at": "2026-06-09T18:49:44+00:00"
     },
     {
       "origin": "yabanci",
@@ -645,21 +337,43 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "6 Couches More Comfortable Than Your Bed",
-      "title_tr": "6 Couches More Comfortable Than Your Bed",
-      "summary": "Here are the coziest ones to shop, according to a professional.",
-      "summary_tr": "Here are the coziest ones to shop, according to a professional.",
-      "long_summary": "Here are the coziest ones to shop, according to a professional.",
-      "long_summary_tr": "Here are the coziest ones to shop, according to a professional.",
+      "title": "All About Oli Green, Sienna Miller’s Fiancé",
+      "title_tr": "All About Oli Green, Sienna Miller’s Fiancé",
+      "summary": "All About Oli Green, Sienna Miller’s Fiancé",
+      "summary_tr": "All About Oli Green, Sienna Miller’s Fiancé",
+      "long_summary": "All About Oli Green, Sienna Miller’s Fiancé",
+      "long_summary_tr": "All About Oli Green, Sienna Miller’s Fiancé",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/fashion/shopping/g45770343/most-comfortable-couches/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/download-699dd2ea19974.png",
-      "published_at": "2026-06-09T15:11:00+00:00"
+      "url": "https://www.elle.com/culture/celebrities/a61084521/who-is-oli-green-sienna-miller-boyfriend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/oli-green-and-sienna-miller-attend-the-fashion-awards-2025-news-photo-1764683921.pjpeg",
+      "published_at": "2026-06-09T18:47:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İBB davasında 47'nci duruşma. İmamoğlu arkadan itildiğini iddia etti",
+      "title_tr": "İBB davasında 47'nci duruşma. İmamoğlu arkadan itildiğini iddia etti",
+      "summary": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik yolsuzluk suçlamasıyla açılan davanın 47. duruşması görüldü. Ekrem İmamoğlu'ya görevli jandarmalar arasında tansiyon yükseldi.",
+      "summary_tr": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik yolsuzluk suçlamasıyla açılan davanın 47. duruşması görüldü. Ekrem İmamoğlu'ya görevli jandarmalar arasında tansiyon yükseldi.",
+      "long_summary": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik yolsuzluk suçlamasıyla açılan davanın 47. duruşması görüldü. Ekrem İmamoğlu'ya görevli jandarmalar arasında tansiyon yükseldi.",
+      "long_summary_tr": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik yolsuzluk suçlamasıyla açılan davanın 47. duruşması görüldü. Ekrem İmamoğlu'ya görevli jandarmalar arasında tansiyon yükseldi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/ibb-davasinda-47nci-durusma-imamoglu-arkadan-itildigini-iddia-etti-1727918",
+      "image": "https://images.ntv.com.tr/images/ibb-dava-127682-846132-248462.png",
+      "published_at": "2026-06-09T18:46:24+00:00"
     },
     {
       "origin": "yabanci",
@@ -667,43 +381,65 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Risk of death to oldest man at World Cup - walking miracle Gordon",
-      "title_tr": "Risk of death to oldest man at World Cup - walking miracle Gordon",
-      "summary": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
-      "summary_tr": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
-      "long_summary": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
-      "long_summary_tr": "How Craig Gordon's career has been a series of comebacks and the 43-year-old's World Cup inclusion for Scotland seemed an impossible dream only a few months ago.",
+      "title": "Williams rolls back the years on return at Queen's",
+      "title_tr": "Williams rolls back the years on return at Queen's",
+      "summary": "Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.",
+      "summary_tr": "Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.",
+      "long_summary": "Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.",
+      "long_summary_tr": "Serena Williams rolls back the years at Queen's with a winning performance on her comeback to tennis after 1,375 days away from the sport.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.com/sport/football/articles/c5yz5nnx2jro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed86/live/0db07b00-6410-11f1-8e1d-bbbb1017d210.jpg",
-      "published_at": "2026-06-09T15:10:56+00:00"
+      "url": "https://www.bbc.com/sport/tennis/articles/cwy0ldzprrwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfeb/live/b8982280-642d-11f1-b8f6-610bb0606470.jpg",
+      "published_at": "2026-06-09T18:42:49+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
       "is_local": false,
-      "source": "GameSpot",
-      "title": "Minecraft Is Finally Coming To Switch 2, With A Huge Improvement",
-      "title_tr": "Minecraft Is Finally Coming To Switch 2, With A Huge Improvement",
-      "summary": "Today, Nintendo announced that Minecraft will be coming to Switch 2 in 2026, with improvements over its Switch 1 counterpart.\n\n\n\nThe Switch 2 supports backwards compatibility, so Minecraft has been playable on the console since launch. However, the Switch 2 version brings enhanced lighting and shadow effects, meaning owners of the newest console will have an improved experience.\n\n\n\n\nhttps://youtu.be/pBL7nJLH8ro\n\n\n\n\nThe game was rated for Switch 2 on the ESRB classification database in recent weeks, leading many to believe a Switch 2 version was on its way. The motto is: Always trust the ESRB ratings.\n\n\n\nThere's good news for Switch 1 owners wanting to play on the Switch 2 too, as the Nintendo Direct announcement confirmed that your progression can be transferred across consoles and versions.\n\n\n\nThere's no firm release date for the Switch 2 version of Minecraft, although it is confirmed to be available before the end of 2026.",
-      "summary_tr": "Today, Nintendo announced that Minecraft will be coming to Switch 2 in 2026, with improvements over its Switch 1 counterpart.\n\n\n\nThe Switch 2 supports backwards compatibility, so Minecraft has been playable on the console since launch. However, the Switch 2 version brings enhanced lighting and shadow effects, meaning owners of the newest console will have an improved experience.\n\n\n\n\nhttps://youtu.be/pBL7nJLH8ro\n\n\n\n\nThe game was rated for Switch 2 on the ESRB classification database in recent weeks, leading many to believe a Switch 2 version was on its way. The motto is: Always trust the ESRB ratings.\n\n\n\nThere's good news for Switch 1 owners wanting to play on the Switch 2 too, as the Nintendo Direct announcement confirmed that your progression can be transferred across consoles and versions.\n\n\n\nThere's no firm release date for the Switch 2 version of Minecraft, although it is confirmed to be available before the end of 2026.",
-      "long_summary": "Today, Nintendo announced that Minecraft will be coming to Switch 2 in 2026, with improvements over its Switch 1 counterpart.\n\n\n\nThe Switch 2 supports backwards compatibility, so Minecraft has been playable on the console since launch. However, the Switch 2 version brings enhanced lighting and shadow effects, meaning owners of the newest console will have an improved experience.\n\n\n\n\nhttps://youtu.be/pBL7nJLH8ro\n\n\n\n\nThe game was rated for Switch 2 on the ESRB classification database in recent",
-      "long_summary_tr": "Today, Nintendo announced that Minecraft will be coming to Switch 2 in 2026, with improvements over its Switch 1 counterpart.\n\n\n\nThe Switch 2 supports backwards compatibility, so Minecraft has been playable on the console since launch. However, the Switch 2 version brings enhanced lighting and shadow effects, meaning owners of the newest console will have an improved experience.\n\n\n\n\nhttps://youtu.be/pBL7nJLH8ro\n\n\n\n\nThe game was rated for Switch 2 on the ESRB classification database in recent",
+      "source": "Bloomberg HT",
+      "title": "Erakçi'den Trump'a yanıt: Bölgeden ayrılın",
+      "title_tr": "Erakçi'den Trump'a yanıt: Bölgeden ayrılın",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, Trump'ın İran'ı ABD'ye ait bir Apache helikopterinin düşürülmesinden sorumlu tutmasının ardından yaptığı açıklamada, İran sınırlarına yakın bölgelerde bulunan yabancı güçlere bölgeden ayrılmaları çağrısında bulundu.",
+      "summary_tr": "İran Dışişleri Bakanı Abbas Erakçi, Trump'ın İran'ı ABD'ye ait bir Apache helikopterinin düşürülmesinden sorumlu tutmasının ardından yaptığı açıklamada, İran sınırlarına yakın bölgelerde bulunan yabancı güçlere bölgeden ayrılmaları çağrısında bulundu.",
+      "long_summary": "İran Dışişleri Bakanı Abbas Erakçi, Trump'ın İran'ı ABD'ye ait bir Apache helikopterinin düşürülmesinden sorumlu tutmasının ardından yaptığı açıklamada, İran sınırlarına yakın bölgelerde bulunan yabancı güçlere bölgeden ayrılmaları çağrısında bulundu.",
+      "long_summary_tr": "İran Dışişleri Bakanı Abbas Erakçi, Trump'ın İran'ı ABD'ye ait bir Apache helikopterinin düşürülmesinden sorumlu tutmasının ardından yaptığı açıklamada, İran sınırlarına yakın bölgelerde bulunan yabancı güçlere bölgeden ayrılmaları çağrısında bulundu.",
       "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.gamespot.com/articles/minecraft-is-finally-coming-to-switch-2-with-a-huge-improvement/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Minecraft-_Holiday_Game_Drop_2025_OV-PMP_1280x720.jpg?w=300",
-      "published_at": "2026-06-09T15:10:24+00:00"
+      "url": "https://www.bloomberght.com/erakci-den-trump-a-yanit-bolgeden-ayrilin-3779491",
+      "image": null,
+      "published_at": "2026-06-09T18:39:44+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "İran gerginliği ABD volatilite endeksini 23’ün üzerine taşıdı",
+      "title_tr": "İran gerginliği ABD volatilite endeksini 23’ün üzerine taşıdı",
+      "summary": "İran gerginliği ABD volatilite endeksini 23’ün üzerine taşıdı",
+      "summary_tr": "İran gerginliği ABD volatilite endeksini 23’ün üzerine taşıdı",
+      "long_summary": "İran gerginliği ABD volatilite endeksini 23’ün üzerine taşıdı",
+      "long_summary_tr": "İran gerginliği ABD volatilite endeksini 23’ün üzerine taşıdı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/iran-gerginligi-abd-volatilite-endeksini-23un-uzerine-tasd-93CH-3938535",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:37:11+00:00"
     },
     {
       "origin": "yabanci",
@@ -711,131 +447,21 @@
       "category_slug": "dunya",
       "is_local": false,
       "source": "BBC World",
-      "title": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-      "title_tr": "Man reportedly shot at Kenya protest against US Ebola quarantine centre",
-      "summary": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
-      "summary_tr": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
-      "long_summary": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
-      "long_summary_tr": "Protesters are concerned about cross-border infection risks and the lack of transparency from the government about the treatment centre.",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "title_tr": "Version of AI tool 'too powerful for public' released to public",
+      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+      "summary_tr": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+      "long_summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+      "long_summary_tr": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
       "why_important": [
         "Uluslararası dengeleri ilgilendirmesi"
       ],
       "possible_impacts": [
         "Uluslararası ilişkilerde dengeler değişebilir"
       ],
-      "url": "https://www.bbc.com/news/articles/c3wypjz3n57o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4780/live/7e53fff0-640e-11f1-8546-8f19e4fe30f4.jpg",
-      "published_at": "2026-06-09T15:08:50+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Draper delays comeback and misses Queen's",
-      "title_tr": "Draper delays comeback and misses Queen's",
-      "summary": "British number three Jack Draper says he hopes to make his return from a knee injury at the Eastbourne Open this month.",
-      "summary_tr": "British number three Jack Draper says he hopes to make his return from a knee injury at the Eastbourne Open this month.",
-      "long_summary": "British number three Jack Draper says he hopes to make his return from a knee injury at the Eastbourne Open this month.",
-      "long_summary_tr": "British number three Jack Draper says he hopes to make his return from a knee injury at the Eastbourne Open this month.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/tennis/articles/cvgldgpr143o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d44/live/fcace680-6410-11f1-9216-c3eba4acaf31.jpg",
-      "published_at": "2026-06-09T15:08:20+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Kingdom Hearts 4 Gets A Surprise Look At Nintendo Direct 2026",
-      "title_tr": "Kingdom Hearts 4 Gets A Surprise Look At Nintendo Direct 2026",
-      "summary": "After announcing that three collections of Kingdom Hearts games are coming to Switch 2, the June 2026 Nintendo Direct revealed a fresh look at the elusive Kingdom Hearts 4--which will be available on Nintendo's console when it launches.\n\n\n\nGranted, we still don't have any idea when Kingdom Hearts 4 is out, as the new trailer lacked a release window of any sort. But the video, about a minute and a half long, contains glimpses of Sora, Strelitzia (yes, from the mobile game), and other faces new to Sora in the mysterious, Shibuya-like city of Quadratum.\n\n\n\n\nhttps://www.youtube.com/watch?v=kIpQz_9zQS0\n\n\n\n\nThe trailer begins with a cloaked figure (who could be one of several characters in the franchise, quite frankly) before cutting to Sora in an epic fight against what looks like a kaiju-sized Pureblood Heartless.\n\n\n\nOther characters appear in the trailer, including a mask-wearing character who might be Vali from the mobile game Dark Road, and Organization XIII member Luxord, who's sporting a fancy suit. It also looks like young Xehanort is holding an umbrella for Sora--his appearance would be strange, seeing how Kingdom Hearts 3 was meant to wrap up Xehanort's story.\n\n\n\nAnd of course, Donald and Goofy are around, but they don't appear alongside Sora in this trailer. Presumably, this game leaves off on the cliffhanger of Kingdom Hearts 3, with the rest of the cast searching for Sora, who faded away at the end of that game as a result of saving Kairi.\n\n\n\nBesides Donald and Goofy, the trailer is lacking any Disney elements (or any Final Fantasy elements either), instead showing Sora wielding his keyblade in combat against baddies on city streets and office buildings. All in all, there's nothing really new in this trailer that we didn't see when Kingdom Hearts 4 was revealed over four years ago, but at least Switch 2 owners can rest easy knowing they'll be able to experience the madness too whenever it comes out.",
-      "summary_tr": "After announcing that three collections of Kingdom Hearts games are coming to Switch 2, the June 2026 Nintendo Direct revealed a fresh look at the elusive Kingdom Hearts 4--which will be available on Nintendo's console when it launches.\n\n\n\nGranted, we still don't have any idea when Kingdom Hearts 4 is out, as the new trailer lacked a release window of any sort. But the video, about a minute and a half long, contains glimpses of Sora, Strelitzia (yes, from the mobile game), and other faces new to Sora in the mysterious, Shibuya-like city of Quadratum.\n\n\n\n\nhttps://www.youtube.com/watch?v=kIpQz_9zQS0\n\n\n\n\nThe trailer begins with a cloaked figure (who could be one of several characters in the franchise, quite frankly) before cutting to Sora in an epic fight against what looks like a kaiju-sized Pureblood Heartless.\n\n\n\nOther characters appear in the trailer, including a mask-wearing character who might be Vali from the mobile game Dark Road, and Organization XIII member Luxord, who's sporting a fancy suit. It also looks like young Xehanort is holding an umbrella for Sora--his appearance would be strange, seeing how Kingdom Hearts 3 was meant to wrap up Xehanort's story.\n\n\n\nAnd of course, Donald and Goofy are around, but they don't appear alongside Sora in this trailer. Presumably, this game leaves off on the cliffhanger of Kingdom Hearts 3, with the rest of the cast searching for Sora, who faded away at the end of that game as a result of saving Kairi.\n\n\n\nBesides Donald and Goofy, the trailer is lacking any Disney elements (or any Final Fantasy elements either), instead showing Sora wielding his keyblade in combat against baddies on city streets and office buildings. All in all, there's nothing really new in this trailer that we didn't see when Kingdom Hearts 4 was revealed over four years ago, but at least Switch 2 owners can rest easy knowing they'll be able to experience the madness too whenever it comes out.",
-      "long_summary": "After announcing that three collections of Kingdom Hearts games are coming to Switch 2, the June 2026 Nintendo Direct revealed a fresh look at the elusive Kingdom Hearts 4--which will be available on Nintendo's console when it launches.\n\n\n\nGranted, we still don't have any idea when Kingdom Hearts 4 is out, as the new trailer lacked a release window of any sort. But the video, about a minute and a half long, contains glimpses of Sora, Strelitzia (yes, from the mobile game), and other faces new",
-      "long_summary_tr": "After announcing that three collections of Kingdom Hearts games are coming to Switch 2, the June 2026 Nintendo Direct revealed a fresh look at the elusive Kingdom Hearts 4--which will be available on Nintendo's console when it launches.\n\n\n\nGranted, we still don't have any idea when Kingdom Hearts 4 is out, as the new trailer lacked a release window of any sort. But the video, about a minute and a half long, contains glimpses of Sora, Strelitzia (yes, from the mobile game), and other faces new",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/kingdom-hearts-4-gets-a-surprise-look-at-nintendo-direct-2026/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Nintendo-Direct-6.9.2026-Nintendo-Treehouse_-Live-_-June-2026-1-21-11.jpeg?w=300",
-      "published_at": "2026-06-09T15:04:15+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Deltarune Chapter 5 Revealed, And It’s Out Very Soon",
-      "title_tr": "Deltarune Chapter 5 Revealed, And It’s Out Very Soon",
-      "summary": "During today's Nintendo Direct, a new chapter for episodic RPG Deltarune has been announced, and it's out later this month.\n\n\n\nThe follow-up from Toby Fox originally had its first chapter released for free in 2018 on PC, before the game officially went on sale for multiple platforms--and as a Nintendo Switch 2 launch title--which included the first four chapters.\n\n\n\nDeltarune Chapter 5 will release on June 24, and will be available as a free update on all platforms if you already own the game. Fans who completed Chapter 4 would have noticed after the credits that Chapter 5 was confirmed for 2026. Its arrival a year later means the shortest wait for a new Deltarune chapter so far.\n\n\n\nAccording to the game's menu screen, Deltarune is expected to consist of seven chapters, though it's not yet confirmed when these will release. As with Chapter 5, these will also be made available as free updates on Nintendo Switch 2, Nintendo Switch, PC, PlayStation 5, and PlayStation 4.",
-      "summary_tr": "During today's Nintendo Direct, a new chapter for episodic RPG Deltarune has been announced, and it's out later this month.\n\n\n\nThe follow-up from Toby Fox originally had its first chapter released for free in 2018 on PC, before the game officially went on sale for multiple platforms--and as a Nintendo Switch 2 launch title--which included the first four chapters.\n\n\n\nDeltarune Chapter 5 will release on June 24, and will be available as a free update on all platforms if you already own the game. Fans who completed Chapter 4 would have noticed after the credits that Chapter 5 was confirmed for 2026. Its arrival a year later means the shortest wait for a new Deltarune chapter so far.\n\n\n\nAccording to the game's menu screen, Deltarune is expected to consist of seven chapters, though it's not yet confirmed when these will release. As with Chapter 5, these will also be made available as free updates on Nintendo Switch 2, Nintendo Switch, PC, PlayStation 5, and PlayStation 4.",
-      "long_summary": "During today's Nintendo Direct, a new chapter for episodic RPG Deltarune has been announced, and it's out later this month.\n\n\n\nThe follow-up from Toby Fox originally had its first chapter released for free in 2018 on PC, before the game officially went on sale for multiple platforms--and as a Nintendo Switch 2 launch title--which included the first four chapters.\n\n\n\nDeltarune Chapter 5 will release on June 24, and will be available as a free update on all platforms if you already own the game.",
-      "long_summary_tr": "During today's Nintendo Direct, a new chapter for episodic RPG Deltarune has been announced, and it's out later this month.\n\n\n\nThe follow-up from Toby Fox originally had its first chapter released for free in 2018 on PC, before the game officially went on sale for multiple platforms--and as a Nintendo Switch 2 launch title--which included the first four chapters.\n\n\n\nDeltarune Chapter 5 will release on June 24, and will be available as a free update on all platforms if you already own the game.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/deltarune-chapter-5-revealed-and-its-out-very-soon/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-155755.png?w=300",
-      "published_at": "2026-06-09T15:03:49+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Kingdom Hearts 4 Gameplay Gets Surprise Reveal at June 2026 Nintendo Direct",
-      "title_tr": "Kingdom Hearts 4 Gameplay Gets Surprise Reveal at June 2026 Nintendo Direct",
-      "summary": "Kingdom Hearts 4 made a surprise appearance at the June 2026 Nintendo Direct to reveal a first look at gameplay.",
-      "summary_tr": "Kingdom Hearts 4 made a surprise appearance at the June 2026 Nintendo Direct to reveal a first look at gameplay.",
-      "long_summary": "Kingdom Hearts 4 made a surprise appearance at the June 2026 Nintendo Direct to reveal a first look at gameplay.",
-      "long_summary_tr": "Kingdom Hearts 4 made a surprise appearance at the June 2026 Nintendo Direct to reveal a first look at gameplay.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/kingdom-hearts-4-gameplay-gets-surprise-reveal-at-june-2026-nintendo-direct",
-      "image": "https://assets-prd.ignimgs.com/2026/06/09/kingdom-hearts-4-gameplay-1781017331910.png",
-      "published_at": "2026-06-09T15:02:35+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Ngumoha to leave England squad having made mark",
-      "title_tr": "Ngumoha to leave England squad having made mark",
-      "summary": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
-      "summary_tr": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
-      "long_summary": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
-      "long_summary_tr": "Rio Ngumoha will leave the US this week after impressing with England's World Cup squad but will return to the country for Liverpool's pre-season tour next month.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.com/sport/football/articles/cddl48g7d94o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a826/live/d3f0cde0-63f4-11f1-abe1-f36e5ae3bba8.jpg",
-      "published_at": "2026-06-09T15:01:08+00:00"
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a65/live/82edf440-642b-11f1-a08b-a904eba6340c.jpg",
+      "published_at": "2026-06-09T18:35:59+00:00"
     },
     {
       "origin": "yabanci",
@@ -843,241 +469,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Crystal Palace agree deal in principle for Lens boss Sage",
-      "title_tr": "Crystal Palace agree deal in principle for Lens boss Sage",
-      "summary": "Crystal Palace have agreed a deal in principle for Pierre Sage to become their new head coach.",
-      "summary_tr": "Crystal Palace have agreed a deal in principle for Pierre Sage to become their new head coach.",
-      "long_summary": "Crystal Palace have agreed a deal in principle for Pierre Sage to become their new head coach.",
-      "long_summary_tr": "Crystal Palace have agreed a deal in principle for Pierre Sage to become their new head coach.",
+      "title": "Bopara: Stokes retirement would be 'sad and extreme'",
+      "title_tr": "Bopara: Stokes retirement would be 'sad and extreme'",
+      "summary": "Ravi Bopara believes it would be sad and extreme for Ben Stokes to retire as England Test captain following a breach of team protocols on Monday morning.",
+      "summary_tr": "Ravi Bopara believes it would be sad and extreme for Ben Stokes to retire as England Test captain following a breach of team protocols on Monday morning.",
+      "long_summary": "Ravi Bopara believes it would be sad and extreme for Ben Stokes to retire as England Test captain following a breach of team protocols on Monday morning.",
+      "long_summary_tr": "Ravi Bopara believes it would be sad and extreme for Ben Stokes to retire as England Test captain following a breach of team protocols on Monday morning.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/football/news/12040/13550402/pierre-sage-crystal-palace-agree-deal-in-principle-for-rc-lens-coach-to-take-over-as-oliver-glasners-replacement",
-      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-sage-palace_7264413.jpg?20260603120854",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "title_tr": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "summary": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "summary_tr": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "long_summary": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "long_summary_tr": "Fulham latest: Jimenez set to join Wolves on free transfer",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image": "https://e1.365dm.com/25/10/1920x1080/skysports-fulham-news-club_7039253.jpg?20251002160142",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Draw made for new league stage of Sky Sports Cup",
-      "title_tr": "Draw made for new league stage of Sky Sports Cup",
-      "summary": "The fixtures for the inaugural season of the Sky Sports Cup league stage have been revealed.",
-      "summary_tr": "The fixtures for the inaugural season of the Sky Sports Cup league stage have been revealed.",
-      "long_summary": "The fixtures for the inaugural season of the Sky Sports Cup league stage have been revealed.",
-      "long_summary_tr": "The fixtures for the inaugural season of the Sky Sports Cup league stage have been revealed.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13552319/sky-sports-cup-draw-made-for-new-league-stage-as-glasgow-city-look-to-defend-title",
-      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-glasgow-city-swpl_7269052.jpg?20260609131114",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Türkiye Yunanistan askeri güç ve teknoloji karşılaştırması | 2T Savunma & Teknoloji #3",
-      "title_tr": "Türkiye Yunanistan askeri güç ve teknoloji karşılaştırması | 2T Savunma & Teknoloji #3",
-      "summary": "Tolga Özbek ile beraber hazırladığımız 2T Savunma & Teknoloji programının 3. bölümünde Yunanistan – Türkiye arasında son dönemde tekrar yaşanan gerilimlerden sonra takipçilerimizden gelen soruların başında Türkiye Yunanistan askeri güç ve teknoloji karşılaştırma istekleri gelmişti. Biz de 3. bölümde bu konuyu işliyoruz. 2T Savunma & Teknoloji programımızın önceki bölümlerini aşağıdaki bağlantılardan izleyebilirsiniz Çelik Kubbe ve […]",
-      "summary_tr": "Tolga Özbek ile beraber hazırladığımız 2T Savunma & Teknoloji programının 3. bölümünde Yunanistan – Türkiye arasında son dönemde tekrar yaşanan gerilimlerden sonra takipçilerimizden gelen soruların başında Türkiye Yunanistan askeri güç ve teknoloji karşılaştırma istekleri gelmişti. Biz de 3. bölümde bu konuyu işliyoruz. 2T Savunma & Teknoloji programımızın önceki bölümlerini aşağıdaki bağlantılardan izleyebilirsiniz Çelik Kubbe ve […]",
-      "long_summary": "Tolga Özbek ile beraber hazırladığımız 2T Savunma & Teknoloji programının 3. bölümünde Yunanistan – Türkiye arasında son dönemde tekrar yaşanan gerilimlerden sonra takipçilerimizden gelen soruların başında Türkiye Yunanistan askeri güç ve teknoloji karşılaştırma istekleri gelmişti. Biz de 3. bölümde bu konuyu işliyoruz. 2T Savunma & Teknoloji programımızın önceki bölümlerini aşağıdaki bağlantılardan izleyebilirsiniz Çelik Kubbe ve […]",
-      "long_summary_tr": "Tolga Özbek ile beraber hazırladığımız 2T Savunma & Teknoloji programının 3. bölümünde Yunanistan – Türkiye arasında son dönemde tekrar yaşanan gerilimlerden sonra takipçilerimizden gelen soruların başında Türkiye Yunanistan askeri güç ve teknoloji karşılaştırma istekleri gelmişti. Biz de 3. bölümde bu konuyu işliyoruz. 2T Savunma & Teknoloji programımızın önceki bölümlerini aşağıdaki bağlantılardan izleyebilirsiniz Çelik Kubbe ve […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/turkiye-yunanistan-askeri-guc-ve-teknoloji-karsilastirmasi-2t-savunma-teknoloji-3",
-      "image": null,
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "To reconstruct an ancient ecosystem, the proof is in the squirrel poop",
-      "title_tr": "To reconstruct an ancient ecosystem, the proof is in the squirrel poop",
-      "summary": "‘I’ve been describing them as acting a bit like tiny Arctic pack rats.’\nThe post To reconstruct an ancient ecosystem, the proof is in the squirrel poop appeared first on Popular Science.",
-      "summary_tr": "‘I’ve been describing them as acting a bit like tiny Arctic pack rats.’\nThe post To reconstruct an ancient ecosystem, the proof is in the squirrel poop appeared first on Popular Science.",
-      "long_summary": "‘I’ve been describing them as acting a bit like tiny Arctic pack rats.’\nThe post To reconstruct an ancient ecosystem, the proof is in the squirrel poop appeared first on Popular Science.",
-      "long_summary_tr": "‘I’ve been describing them as acting a bit like tiny Arctic pack rats.’\nThe post To reconstruct an ancient ecosystem, the proof is in the squirrel poop appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/science/fossil-squirrel-poop/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/06/poop-fossils.png?quality=85",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Final Fantasy Resonance: We Played the First Turn-Based HD-2D FF Game | IGN Exclusive Preview",
-      "title_tr": "Final Fantasy Resonance: We Played the First Turn-Based HD-2D FF Game | IGN Exclusive Preview",
-      "summary": "Final Fantasy Resonance is a turn-based, HD-2D RPG that brings in characters and elements from classic Final Fantasy games of yore, and we are fired up after playing a couple hours of it.",
-      "summary_tr": "Final Fantasy Resonance is a turn-based, HD-2D RPG that brings in characters and elements from classic Final Fantasy games of yore, and we are fired up after playing a couple hours of it.",
-      "long_summary": "Final Fantasy Resonance is a turn-based, HD-2D RPG that brings in characters and elements from classic Final Fantasy games of yore, and we are fired up after playing a couple hours of it.",
-      "long_summary_tr": "Final Fantasy Resonance is a turn-based, HD-2D RPG that brings in characters and elements from classic Final Fantasy games of yore, and we are fired up after playing a couple hours of it.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/final-fantasy-resonance-we-played-the-first-turn-based-hd-2d-ff-game-ign-exclusive-preview",
-      "image": "https://assets-prd.ignimgs.com/2026/06/09/final-fantasy-resonance-blogroll-1780970268626.jpg",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Rollcage Successor Grip Returns With Sequel, Grip XR",
-      "title_tr": "Rollcage Successor Grip Returns With Sequel, Grip XR",
-      "summary": "Developer Caged Element seeking support for sequel via Kickstarter, demo available now on Steam.",
-      "summary_tr": "Developer Caged Element seeking support for sequel via Kickstarter, demo available now on Steam.",
-      "long_summary": "Developer Caged Element seeking support for sequel via Kickstarter, demo available now on Steam.",
-      "long_summary_tr": "Developer Caged Element seeking support for sequel via Kickstarter, demo available now on Steam.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/rollcage-successor-grip-returns-with-sequel-grip-xr",
-      "image": "https://assets-prd.ignimgs.com/2026/06/09/grip-xr-1280-1781006762825.jpg",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Otomobil",
-      "category_slug": "otomobil",
-      "is_local": false,
-      "source": "Motor1",
-      "title": "Toyota başkanı, herkesin elektrikli araçlara geçmesinden rahatsız",
-      "title_tr": "Toyota başkanı, herkesin elektrikli araçlara geçmesinden rahatsız",
-      "summary": "Akio Toyoda, içten yanmalı motorları savunurken kendini \"çok yalnız\" hissettiğini söylüyor.",
-      "summary_tr": "Akio Toyoda, içten yanmalı motorları savunurken kendini \"çok yalnız\" hissettiğini söylüyor.",
-      "long_summary": "Akio Toyoda, içten yanmalı motorları savunurken kendini \"çok yalnız\" hissettiğini söylüyor.",
-      "long_summary_tr": "Akio Toyoda, içten yanmalı motorları savunurken kendini \"çok yalnız\" hissettiğini söylüyor.",
-      "why_important": [
-        "Ulaşım ve araç kullanımını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
-      ],
-      "url": "https://tr.motor1.com/news/798230/toyota-herkes-ev-rahatsiz/",
-      "image": "https://cdn.motor1.com/images/mgl/g4OrYm/s3/akio-toyoda.jpg",
-      "published_at": "2026-06-09T15:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Nintendo Finally Reveals The Legend Of Zelda: Ocarina Of Time Remake For 2026",
-      "title_tr": "Nintendo Finally Reveals The Legend Of Zelda: Ocarina Of Time Remake For 2026",
-      "summary": "Nintendo has officially revealed The Legend of Zelda: Ocarina of Time remake as part of its summer Nintendo Direct showcase. The reveal showed no gameplay--only a cinematic trailer about the boy from the forest who didn't have a fairy. It did, however, confirm a 2026 release date. More details are said to be coming later this year.\n\n\n\nRumors of an Ocarina of Time remake began to gather steam earlier this year when prominent leaker Nate the Hate reported on the game. He had also revealed a \"classic-style\" Star Fox game was on the way, and that report proved to be true when Nintendo lifted the veil on Star Fox in early May.\n\n\n\nNeedless to say, an Ocarina of Time remake is a big deal. Originally released for the N64, Ocarina of Time was met with critical acclaim, and its DNA can still be found in modern Legend of Zelda games, like Breath of the Wild and Tears of the Kingdom. It was the first 3D Zelda game, laying a foundation for future games in the series with its trailblazing design at the time. \n\n\n\nMultiple ports and remasters have been released over the decades, with the best version being the 3DS release, which added quality-of-life changes and made revisions to the challenging Water Dungeon.",
-      "summary_tr": "Nintendo has officially revealed The Legend of Zelda: Ocarina of Time remake as part of its summer Nintendo Direct showcase. The reveal showed no gameplay--only a cinematic trailer about the boy from the forest who didn't have a fairy. It did, however, confirm a 2026 release date. More details are said to be coming later this year.\n\n\n\nRumors of an Ocarina of Time remake began to gather steam earlier this year when prominent leaker Nate the Hate reported on the game. He had also revealed a \"classic-style\" Star Fox game was on the way, and that report proved to be true when Nintendo lifted the veil on Star Fox in early May.\n\n\n\nNeedless to say, an Ocarina of Time remake is a big deal. Originally released for the N64, Ocarina of Time was met with critical acclaim, and its DNA can still be found in modern Legend of Zelda games, like Breath of the Wild and Tears of the Kingdom. It was the first 3D Zelda game, laying a foundation for future games in the series with its trailblazing design at the time. \n\n\n\nMultiple ports and remasters have been released over the decades, with the best version being the 3DS release, which added quality-of-life changes and made revisions to the challenging Water Dungeon.",
-      "long_summary": "Nintendo has officially revealed The Legend of Zelda: Ocarina of Time remake as part of its summer Nintendo Direct showcase. The reveal showed no gameplay--only a cinematic trailer about the boy from the forest who didn't have a fairy. It did, however, confirm a 2026 release date. More details are said to be coming later this year.\n\n\n\nRumors of an Ocarina of Time remake began to gather steam earlier this year when prominent leaker Nate the Hate reported on the game. He had also revealed a",
-      "long_summary_tr": "Nintendo has officially revealed The Legend of Zelda: Ocarina of Time remake as part of its summer Nintendo Direct showcase. The reveal showed no gameplay--only a cinematic trailer about the boy from the forest who didn't have a fairy. It did, however, confirm a 2026 release date. More details are said to be coming later this year.\n\n\n\nRumors of an Ocarina of Time remake began to gather steam earlier this year when prominent leaker Nate the Hate reported on the game. He had also revealed a",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/nintendo-finally-reveals-the-legend-of-zelda-ocarina-of-time-remake-for-2026/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-10.58.31-AM.png?w=300",
-      "published_at": "2026-06-09T14:56:35+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "All The New Switch 2 Ports Confirmed In Nintendo Direct June 2026",
-      "title_tr": "All The New Switch 2 Ports Confirmed In Nintendo Direct June 2026",
-      "summary": "The latest Nintendo Direct showcased several games from other platforms coming to Switch 2, with some including additional content. \n\n\n\nSouls-like Lies of P, which originally came out in 2023, will have its Complete Edition release this year, coming with the prequel expansion Overture. Similarly, Devil May Cry 5 will release as the \"Devil Hunter Edition,\" featuring post-release content like the inclusion of Vergil as a playable character.\n\n\n\nKingdom Hearts fans will eat well, as proper, native versions of Kingdom Hearts HD 1.5+2.5 Remix, 2.8 Final Chapter Prologue, and Kingdom Hearts 3 + Re Mind are coming to Switch 2. Owners of the original Switch had to be content with cloud versions of those games, and they'll be able to transfer their save data from the cloud games to these new Switch 2 editions.\n\n\n\nStellar Blade is an interesting inclusion to the Switch 2 library--previously a PlayStation 5 console exclusive, it looks like developer Shift Up is self-publishing this port, as it will for the game's sequel. Minecraft is also getting a Switch 2 version, which should be a relief for those who find the game taxing on their original Switch hardware.\n\n\n\nHere's the full list of new port announcements from the Direct:\n\n\n\n\nLies of P: Complete Edition (August 6 Digital, October 2 Physical)\n\n\n\nDevil May Cry 5: Devil Hunter Edition (June 23)\n\n\n\nKingdom Hearts Collection [I~III] (October 8)\n\n\n\nDragon’s Dogma 2: Dark Arisen (October 9)\n\n\n\nMetaphor: ReFantazio (November 12)\n\n\n\nStellar Blade (TBA 2026)\n\n\n\nMinecraft (TBA 2026)\n\n\n\n\nMeanwhile, upcoming third-party games such as Onimusha: Way of the Sword, Dragon Quest Monsters: The Withered World, Final Fantasy Resonance, RuneScape: Dragonwilds, and Rayman Legends Untold will release on Switch 2 alongside other platforms.\n\n\n\t\t\n\t\t\t\n\t\t\t\tNintendo’s Top-Selling Switch Games Of All Time\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tView Images",
-      "summary_tr": "The latest Nintendo Direct showcased several games from other platforms coming to Switch 2, with some including additional content. \n\n\n\nSouls-like Lies of P, which originally came out in 2023, will have its Complete Edition release this year, coming with the prequel expansion Overture. Similarly, Devil May Cry 5 will release as the \"Devil Hunter Edition,\" featuring post-release content like the inclusion of Vergil as a playable character.\n\n\n\nKingdom Hearts fans will eat well, as proper, native versions of Kingdom Hearts HD 1.5+2.5 Remix, 2.8 Final Chapter Prologue, and Kingdom Hearts 3 + Re Mind are coming to Switch 2. Owners of the original Switch had to be content with cloud versions of those games, and they'll be able to transfer their save data from the cloud games to these new Switch 2 editions.\n\n\n\nStellar Blade is an interesting inclusion to the Switch 2 library--previously a PlayStation 5 console exclusive, it looks like developer Shift Up is self-publishing this port, as it will for the game's sequel. Minecraft is also getting a Switch 2 version, which should be a relief for those who find the game taxing on their original Switch hardware.\n\n\n\nHere's the full list of new port announcements from the Direct:\n\n\n\n\nLies of P: Complete Edition (August 6 Digital, October 2 Physical)\n\n\n\nDevil May Cry 5: Devil Hunter Edition (June 23)\n\n\n\nKingdom Hearts Collection [I~III] (October 8)\n\n\n\nDragon’s Dogma 2: Dark Arisen (October 9)\n\n\n\nMetaphor: ReFantazio (November 12)\n\n\n\nStellar Blade (TBA 2026)\n\n\n\nMinecraft (TBA 2026)\n\n\n\n\nMeanwhile, upcoming third-party games such as Onimusha: Way of the Sword, Dragon Quest Monsters: The Withered World, Final Fantasy Resonance, RuneScape: Dragonwilds, and Rayman Legends Untold will release on Switch 2 alongside other platforms.\n\n\n\t\t\n\t\t\t\n\t\t\t\tNintendo’s Top-Selling Switch Games Of All Time\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tView Images",
-      "long_summary": "The latest Nintendo Direct showcased several games from other platforms coming to Switch 2, with some including additional content. \n\n\n\nSouls-like Lies of P, which originally came out in 2023, will have its Complete Edition release this year, coming with the prequel expansion Overture. Similarly, Devil May Cry 5 will release as the \"Devil Hunter Edition,\" featuring post-release content like the inclusion of Vergil as a playable character.\n\n\n\nKingdom Hearts fans will eat well, as proper, native",
-      "long_summary_tr": "The latest Nintendo Direct showcased several games from other platforms coming to Switch 2, with some including additional content. \n\n\n\nSouls-like Lies of P, which originally came out in 2023, will have its Complete Edition release this year, coming with the prequel expansion Overture. Similarly, Devil May Cry 5 will release as the \"Devil Hunter Edition,\" featuring post-release content like the inclusion of Vergil as a playable character.\n\n\n\nKingdom Hearts fans will eat well, as proper, native",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/all-the-new-switch-2-ports-confirmed-in-nintendo-direct-june-2026/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/Nintendo-Direct-6.9.2026-Nintendo-Treehouse_-Live-_-June-2026-0-52-54.jpeg?w=300",
-      "published_at": "2026-06-09T14:55:50+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
-      "title_tr": "The Legend of Zelda: Ocarina of Time Remake Revealed for Nintendo Switch 2",
-      "summary": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real.",
-      "summary_tr": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real.",
-      "long_summary": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real.",
-      "long_summary_tr": "The rumors were true: Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2 is real.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-revealed-for-nintendo-switch-2",
-      "image": "https://assets-prd.ignimgs.com/2023/11/21/ocarina-of-time-blogroll-1700570336021.jpg",
-      "published_at": "2026-06-09T14:54:46+00:00"
+      "url": "https://www.skysports.com/watch/video/13552451/ravi-bopara-ben-stokes-retirement-from-international-cricket-would-be-extreme",
+      "image": "https://e2.365dm.com/26/06/1920x1080/skysports-bopara-stokes_7269406.jpg?20260609183407",
+      "published_at": "2026-06-09T18:34:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -1085,21 +491,615 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "MİLLİ MAÇ NE ZAMAN? Dünya Kupası ne zaman, hangi gün başlıyor?",
-      "title_tr": "MİLLİ MAÇ NE ZAMAN? Dünya Kupası ne zaman, hangi gün başlıyor?",
-      "summary": "Milyonlar Dünya Kupası&#039;nı bekliyor. 4 yıl aradan sonra heyecan tekrarlanacak ve bu sene A Milli Futbol Takımı&#039;mız da turnuvada boy gösterecek. Şimdi sabırsızlık gitgide artarken sıkça gelen soru &quot;Milli maç ne zaman&quot; oluyor.",
-      "summary_tr": "Milyonlar Dünya Kupası&#039;nı bekliyor. 4 yıl aradan sonra heyecan tekrarlanacak ve bu sene A Milli Futbol Takımı&#039;mız da turnuvada boy gösterecek. Şimdi sabırsızlık gitgide artarken sıkça gelen soru &quot;Milli maç ne zaman&quot; oluyor.",
-      "long_summary": "Milyonlar Dünya Kupası&#039;nı bekliyor. 4 yıl aradan sonra heyecan tekrarlanacak ve bu sene A Milli Futbol Takımı&#039;mız da turnuvada boy gösterecek. Şimdi sabırsızlık gitgide artarken sıkça gelen soru &quot;Milli maç ne zaman&quot; oluyor.",
-      "long_summary_tr": "Milyonlar Dünya Kupası&#039;nı bekliyor. 4 yıl aradan sonra heyecan tekrarlanacak ve bu sene A Milli Futbol Takımı&#039;mız da turnuvada boy gösterecek. Şimdi sabırsızlık gitgide artarken sıkça gelen soru &quot;Milli maç ne zaman&quot; oluyor.",
+      "title": "İran'dan ABD'ye sert mesaj: Sözlerinizi tutmazsanız başka bir dil konuşuruz",
+      "title_tr": "İran'dan ABD'ye sert mesaj: Sözlerinizi tutmazsanız başka bir dil konuşuruz",
+      "summary": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD Başkanı Donald Trump&#039;ın İran&#039;a yönelik olası bir askeri karşılık açıklamalarının ardından Washington&#039;a sert mesaj göndererek, diplomatik çözümü tercih ettiklerini ancak verilen sözlerin tutulmaması halinde farklı yöntemlere başvuracaklarını söyledi.",
+      "summary_tr": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD Başkanı Donald Trump&#039;ın İran&#039;a yönelik olası bir askeri karşılık açıklamalarının ardından Washington&#039;a sert mesaj göndererek, diplomatik çözümü tercih ettiklerini ancak verilen sözlerin tutulmaması halinde farklı yöntemlere başvuracaklarını söyledi.",
+      "long_summary": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD Başkanı Donald Trump&#039;ın İran&#039;a yönelik olası bir askeri karşılık açıklamalarının ardından Washington&#039;a sert mesaj göndererek, diplomatik çözümü tercih ettiklerini ancak verilen sözlerin tutulmaması halinde farklı yöntemlere başvuracaklarını söyledi.",
+      "long_summary_tr": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD Başkanı Donald Trump&#039;ın İran&#039;a yönelik olası bir askeri karşılık açıklamalarının ardından Washington&#039;a sert mesaj göndererek, diplomatik çözümü tercih ettiklerini ancak verilen sözlerin tutulmaması halinde farklı yöntemlere başvuracaklarını söyledi.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/spor/milli-mac-ne-zaman-dunya-kupasi-ne-zaman-hangi-gun-basliyor-haberi-827973",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/09/milli-mac-jfrd_cover.png",
-      "published_at": "2026-06-09T14:54:00+00:00"
+      "url": "https://www.dunya.com/dunya/irandan-abdye-sert-mesaj-sozlerinizi-tutmazsaniz-baska-bir-dil-konusuruz-haberi-827990",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/05/15/abd-iran-yazili-nukleer-anlasma-y2gi_cover.jpg",
+      "published_at": "2026-06-09T18:33:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Oral GLP-1 obezite ilaçları hızlı benimseniyor",
+      "title_tr": "Oral GLP-1 obezite ilaçları hızlı benimseniyor",
+      "summary": "Oral GLP-1 obezite ilaçları hızlı benimseniyor",
+      "summary_tr": "Oral GLP-1 obezite ilaçları hızlı benimseniyor",
+      "long_summary": "Oral GLP-1 obezite ilaçları hızlı benimseniyor",
+      "long_summary_tr": "Oral GLP-1 obezite ilaçları hızlı benimseniyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/oral-glp1-obezite-ilaclar-hzl-benimseniyor-93CH-3938532",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:32:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Real Madrid, Alvaro Arbeloa ile yollarını ayırdı",
+      "title_tr": "Real Madrid, Alvaro Arbeloa ile yollarını ayırdı",
+      "summary": "İspanya 1. Futbol Ligi (LaLiga) ekibi Real Madrid, teknik direktör Alvaro Arbeloa ile yollarını ayırdığını duyurdu.",
+      "summary_tr": "İspanya 1. Futbol Ligi (LaLiga) ekibi Real Madrid, teknik direktör Alvaro Arbeloa ile yollarını ayırdığını duyurdu.",
+      "long_summary": "İspanya 1. Futbol Ligi (LaLiga) ekibi Real Madrid, teknik direktör Alvaro Arbeloa ile yollarını ayırdığını duyurdu.",
+      "long_summary_tr": "İspanya 1. Futbol Ligi (LaLiga) ekibi Real Madrid, teknik direktör Alvaro Arbeloa ile yollarını ayırdığını duyurdu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/real-madrid-alvaro-arbeloa-ile-yollarini-ayirdi-haberi-827989",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/09/rr1-rmql_cover.jpg",
+      "published_at": "2026-06-09T18:32:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Summer’s Hottest Shoe Is the Oxford",
+      "title_tr": "Summer’s Hottest Shoe Is the Oxford",
+      "summary": "From timeless silhouettes to modern updates, these are just what you need.",
+      "summary_tr": "From timeless silhouettes to modern updates, these are just what you need.",
+      "long_summary": "From timeless silhouettes to modern updates, these are just what you need.",
+      "long_summary_tr": "From timeless silhouettes to modern updates, these are just what you need.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/fashion/shopping/g71526379/best-oxford-shoes-women-trend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ba733de4-6372-46b9-ae0e-f7f26a16509e.png",
+      "published_at": "2026-06-09T18:31:48+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Real Madrid's £129m bid for Atleti's Alvarez rejected",
+      "title_tr": "Real Madrid's £129m bid for Atleti's Alvarez rejected",
+      "summary": "Real Madrid have confirmed a £129m (€150m) bid for Atletico Madrid forward Julian Alvarez has been rejected.",
+      "summary_tr": "Real Madrid have confirmed a £129m (€150m) bid for Atletico Madrid forward Julian Alvarez has been rejected.",
+      "long_summary": "Real Madrid have confirmed a £129m (€150m) bid for Atletico Madrid forward Julian Alvarez has been rejected.",
+      "long_summary_tr": "Real Madrid have confirmed a £129m (€150m) bid for Atletico Madrid forward Julian Alvarez has been rejected.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13552447/julian-alvarez-real-madrid-announce-129m-bid-for-atletico-madrid-forward-has-been-rejected-amid-barcelona-interest",
+      "image": "https://e1.365dm.com/26/04/1920x1080/skysports-atletico-madrid-champions_7214636.jpg?20260408215129",
+      "published_at": "2026-06-09T18:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "FIA confirm hearing date for Alpine appeal against Gasly Monaco penalties",
+      "title_tr": "FIA confirm hearing date for Alpine appeal against Gasly Monaco penalties",
+      "summary": "Alpine's appeal against pit-lane speeding penalties given to Pierre Gasly during the Monaco Grand Prix will be heard on Thursday, the FIA has confirmed.",
+      "summary_tr": "Alpine's appeal against pit-lane speeding penalties given to Pierre Gasly during the Monaco Grand Prix will be heard on Thursday, the FIA has confirmed.",
+      "long_summary": "Alpine's appeal against pit-lane speeding penalties given to Pierre Gasly during the Monaco Grand Prix will be heard on Thursday, the FIA has confirmed.",
+      "long_summary_tr": "Alpine's appeal against pit-lane speeding penalties given to Pierre Gasly during the Monaco Grand Prix will be heard on Thursday, the FIA has confirmed.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/f1/news/12040/13552418/fia-confirm-date-for-alpine-appeal-hearing-over-monaco-gp-speeding-penalties-for-pierre-gasly",
+      "image": "https://e0.365dm.com/26/06/1920x1080/skysports-pierre-gasly-alpine_7269396.jpg?20260609182509",
+      "published_at": "2026-06-09T18:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Düzenli Kontrol Bile RTX 5090 Kablosunun Erimesini Engelleyemedi",
+      "title_tr": "Düzenli Kontrol Bile RTX 5090 Kablosunun Erimesini Engelleyemedi",
+      "summary": "RTX 5090 kullanıcısı, düzenli olarak kontrol ettiği 12VHPWR kablosunun eridiğini paylaştı. Bağlantı noktalarındaki erime sorunları ve dikkat edilmesi gerekenler.",
+      "summary_tr": "RTX 5090 kullanıcısı, düzenli olarak kontrol ettiği 12VHPWR kablosunun eridiğini paylaştı. Bağlantı noktalarındaki erime sorunları ve dikkat edilmesi gerekenler.",
+      "long_summary": "RTX 5090 kullanıcısı, düzenli olarak kontrol ettiği 12VHPWR kablosunun eridiğini paylaştı. Bağlantı noktalarındaki erime sorunları ve dikkat edilmesi gerekenler.",
+      "long_summary_tr": "RTX 5090 kullanıcısı, düzenli olarak kontrol ettiği 12VHPWR kablosunun eridiğini paylaştı. Bağlantı noktalarındaki erime sorunları ve dikkat edilmesi gerekenler.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/duzenli-kontrol-bile-rtx-5090-kablosunun-erimesini-engelleyemedi",
+      "image": null,
+      "published_at": "2026-06-09T18:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The 2026 Alienware 16X Aurora RTX 5070 Ti Gaming Laptop with OLED Display Drops to a New Price Low",
+      "title_tr": "The 2026 Alienware 16X Aurora RTX 5070 Ti Gaming Laptop with OLED Display Drops to a New Price Low",
+      "summary": "It's equipped with Intel's newest and most powerful mobile CPU that was released earlier this year.",
+      "summary_tr": "It's equipped with Intel's newest and most powerful mobile CPU that was released earlier this year.",
+      "long_summary": "It's equipped with Intel's newest and most powerful mobile CPU that was released earlier this year.",
+      "long_summary_tr": "It's equipped with Intel's newest and most powerful mobile CPU that was released earlier this year.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-16x-aurora-rtx-5070-ti-gaming-laptop-deal-june-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/alienware16xaurora-1781026727055.jpg",
+      "published_at": "2026-06-09T18:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Internet Reacts to The Legend of Zelda: Ocarina of Time Remake",
+      "title_tr": "The Internet Reacts to The Legend of Zelda: Ocarina of Time Remake",
+      "summary": "There is no doubt The Legend of Zelda: Ocarina of Time remake is the biggest announcement coming out of today's Nintendo Direct, and fans have plenty to say about it.",
+      "summary_tr": "There is no doubt The Legend of Zelda: Ocarina of Time remake is the biggest announcement coming out of today's Nintendo Direct, and fans have plenty to say about it.",
+      "long_summary": "There is no doubt The Legend of Zelda: Ocarina of Time remake is the biggest announcement coming out of today's Nintendo Direct, and fans have plenty to say about it.",
+      "long_summary_tr": "There is no doubt The Legend of Zelda: Ocarina of Time remake is the biggest announcement coming out of today's Nintendo Direct, and fans have plenty to say about it.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/the-internet-reacts-to-the-legend-of-zelda-ocarina-of-time-remake",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/zeldathumbono-1781022666550.png",
+      "published_at": "2026-06-09T18:29:23+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Emily Blunt and Husband John Krasinski’s Complete Relationship Timeline",
+      "title_tr": "Emily Blunt and Husband John Krasinski’s Complete Relationship Timeline",
+      "summary": "Emily Blunt and Husband John Krasinski’s Complete Relationship Timeline",
+      "summary_tr": "Emily Blunt and Husband John Krasinski’s Complete Relationship Timeline",
+      "long_summary": "Emily Blunt and Husband John Krasinski’s Complete Relationship Timeline",
+      "long_summary_tr": "Emily Blunt and Husband John Krasinski’s Complete Relationship Timeline",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a44603801/emily-blunt-john-krasinski-relationship-timeline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/1a7b70f6-861b-449c-bbcf-4fa51ec2b04d.jpeg",
+      "published_at": "2026-06-09T18:29:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Newell Brands hissesi bugün neden %8 yükseldi?",
+      "title_tr": "Newell Brands hissesi bugün neden %8 yükseldi?",
+      "summary": "Newell Brands hissesi bugün neden %8 yükseldi?",
+      "summary_tr": "Newell Brands hissesi bugün neden %8 yükseldi?",
+      "long_summary": "Newell Brands hissesi bugün neden %8 yükseldi?",
+      "long_summary_tr": "Newell Brands hissesi bugün neden %8 yükseldi?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/newell-brands-hissesi-bugun-neden-8-yukseldi-93CH-3938530",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:28:24+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Popular Science",
+      "title": "Odd-shaped vessel hints at alchemy in medieval German castle",
+      "title_tr": "Odd-shaped vessel hints at alchemy in medieval German castle",
+      "summary": "The tall container was almost certainly used for distillation experiments.\nThe post Odd-shaped vessel hints at alchemy in medieval German castle appeared first on Popular Science.",
+      "summary_tr": "The tall container was almost certainly used for distillation experiments.\nThe post Odd-shaped vessel hints at alchemy in medieval German castle appeared first on Popular Science.",
+      "long_summary": "The tall container was almost certainly used for distillation experiments.\nThe post Odd-shaped vessel hints at alchemy in medieval German castle appeared first on Popular Science.",
+      "long_summary_tr": "The tall container was almost certainly used for distillation experiments.\nThe post Odd-shaped vessel hints at alchemy in medieval German castle appeared first on Popular Science.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.popsci.com/science/medieval-alchemy-vessel-germany/",
+      "image": "https://www.popsci.com/wp-content/uploads/2026/06/German-Alchemy-Vessel.png?quality=85",
+      "published_at": "2026-06-09T18:27:40+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Get a 36V 500W Adult Electric Bike for Less Than $260 Shipped at AliExpress",
+      "title_tr": "Get a 36V 500W Adult Electric Bike for Less Than $260 Shipped at AliExpress",
+      "summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "long_summary": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "long_summary_tr": "This electric assisted bike can go up to 23mph with a range of up to 45 miles.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/best-5th-wheel-electric-bike-deal-june-2026-updated",
+      "image": "https://assets-prd.ignimgs.com/2026/06/01/5thwheel-1780330381552.jpg",
+      "published_at": "2026-06-09T18:25:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "title_tr": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "summary": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "summary_tr": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "long_summary": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "long_summary_tr": "Katy Perry and Justin Trudeau’s Complete Relationship Timeline",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a65581518/katy-perry-justin-trudeau-relationship-timeline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/05a1e24a-0017-425c-8d8b-ad518e5f534c.jpeg",
+      "published_at": "2026-06-09T18:24:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Real Madrid's £130m Alvarez bid rejected",
+      "title_tr": "Real Madrid's £130m Alvarez bid rejected",
+      "summary": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
+      "summary_tr": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
+      "long_summary": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
+      "long_summary_tr": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e2/live/dc57db80-642c-11f1-b8f6-610bb0606470.jpg",
+      "published_at": "2026-06-09T18:23:07+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "title_tr": "Trump says Iran shot down US helicopter and vows to respond",
+      "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "summary_tr": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "long_summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "long_summary_tr": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b309/live/8431d0d0-6429-11f1-a614-bb0f90cd931c.jpg",
+      "published_at": "2026-06-09T18:18:27+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Gracie Abrams and Paul Mescal’s Complete Relationship Timeline",
+      "title_tr": "Gracie Abrams and Paul Mescal’s Complete Relationship Timeline",
+      "summary": "Gracie Abrams and Paul Mescal’s Complete Relationship Timeline",
+      "summary_tr": "Gracie Abrams and Paul Mescal’s Complete Relationship Timeline",
+      "long_summary": "Gracie Abrams and Paul Mescal’s Complete Relationship Timeline",
+      "long_summary_tr": "Gracie Abrams and Paul Mescal’s Complete Relationship Timeline",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a61926037/paul-mescal-gracie-abrams-relationship-timeline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/5839e04a-e5e9-4129-8719-7a2a69467a76.jpeg",
+      "published_at": "2026-06-09T18:17:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "I Didn’t Care About The New Star Fox Until I Found Out Who’s Making It",
+      "title_tr": "I Didn’t Care About The New Star Fox Until I Found Out Who’s Making It",
+      "summary": "I never played much Star Fox as a kid. Save for maybe a few minutes here and there at a friend or cousin's house, I've basically not played the series whatsoever. So I was safely out on playing the new one arriving this summer for Switch 2. But a funny thing happened this morning: We actually learned who is making it--something that oddly doesn't happen much with Nintendo games until we can watch the credits--and the answer has completely changed my plans.\n\n\n\nThe New York-based Velan Studios was delighted to announce today that it's the development team working with Nintendo on Star Fox, and that the game is built on Velan's proprietary engine, Viper. If you don't know it by name, Velan is a fairly young team, established in 2016, with several games to its name. Of those, the most important one to me is Knockout City. The 3v3 dodgeball game was an incredibly fun arcade sports game, and I've never really gotten over the game coming offline a few years ago. It's one of my favorite games ever.\n\n\n\nI've followed the team since then and have been enjoying its more recent release, Midnight Murder Club, a PvP shooter set in a completely darkened mansion that demands players rely on flashlights and sounds to track down their opponents. \n\n\n\nWhat these two very different games have in common, beyond their novel gameplay mechanics, is their abundance of charm. Both games offer ample opportunities for players to showcase their skills, but they were also soundtracked by the frequent laughter from those playing. There's a childlike heart to both games that can't be missed--what better way to capture a youthful spirit than things like dodgeball and hide-and-seek? \n\n\n\n\nhttps://bsky.app/profile/velanstudios.bsky.social/post/3mnuig2crp225\n\n\n\n\nI don't know much about Star Fox, but to me, that sounds like the perfect team to take on a Nintendo franchise where players fly through space and perform daring combat maneuvers on an adventure with colorful characters. To the extent I can get away with \"rooting\" for a studio, a relatively small team that made one of my favorite games but has since suffered some commercial struggles seems to qualify.\n\n\n\nI assume the publisher and developer rekindled their relationship from earlier to make Star Fox happen. Believe it or not, the team's very first game was Nintendo's Mario Kart Live: Home Circuit, an augmented-reality racing game. Velan would later go on to use the same tech in a Hot Wheels game, too, and has also released a virtual-reality pinball game called Bounce Arcade. This type of portfolio suggests a team willing to try unconventional things, and to bring Star Fox back, I think you need to think outside the box. \n\n\n\nI'm excited to see Velan get called on for such a major project. As many players are surely returning to Star Fox as longtime fans hopeful for a revival that feels like it was worth the wait, I come to it from a decidedly different angle, but suddenly eager to play it, too.",
+      "summary_tr": "I never played much Star Fox as a kid. Save for maybe a few minutes here and there at a friend or cousin's house, I've basically not played the series whatsoever. So I was safely out on playing the new one arriving this summer for Switch 2. But a funny thing happened this morning: We actually learned who is making it--something that oddly doesn't happen much with Nintendo games until we can watch the credits--and the answer has completely changed my plans.\n\n\n\nThe New York-based Velan Studios was delighted to announce today that it's the development team working with Nintendo on Star Fox, and that the game is built on Velan's proprietary engine, Viper. If you don't know it by name, Velan is a fairly young team, established in 2016, with several games to its name. Of those, the most important one to me is Knockout City. The 3v3 dodgeball game was an incredibly fun arcade sports game, and I've never really gotten over the game coming offline a few years ago. It's one of my favorite games ever.\n\n\n\nI've followed the team since then and have been enjoying its more recent release, Midnight Murder Club, a PvP shooter set in a completely darkened mansion that demands players rely on flashlights and sounds to track down their opponents. \n\n\n\nWhat these two very different games have in common, beyond their novel gameplay mechanics, is their abundance of charm. Both games offer ample opportunities for players to showcase their skills, but they were also soundtracked by the frequent laughter from those playing. There's a childlike heart to both games that can't be missed--what better way to capture a youthful spirit than things like dodgeball and hide-and-seek? \n\n\n\n\nhttps://bsky.app/profile/velanstudios.bsky.social/post/3mnuig2crp225\n\n\n\n\nI don't know much about Star Fox, but to me, that sounds like the perfect team to take on a Nintendo franchise where players fly through space and perform daring combat maneuvers on an adventure with colorful characters. To the extent I can get away with \"rooting\" for a studio, a relatively small team that made one of my favorite games but has since suffered some commercial struggles seems to qualify.\n\n\n\nI assume the publisher and developer rekindled their relationship from earlier to make Star Fox happen. Believe it or not, the team's very first game was Nintendo's Mario Kart Live: Home Circuit, an augmented-reality racing game. Velan would later go on to use the same tech in a Hot Wheels game, too, and has also released a virtual-reality pinball game called Bounce Arcade. This type of portfolio suggests a team willing to try unconventional things, and to bring Star Fox back, I think you need to think outside the box. \n\n\n\nI'm excited to see Velan get called on for such a major project. As many players are surely returning to Star Fox as longtime fans hopeful for a revival that feels like it was worth the wait, I come to it from a decidedly different angle, but suddenly eager to play it, too.",
+      "long_summary": "I never played much Star Fox as a kid. Save for maybe a few minutes here and there at a friend or cousin's house, I've basically not played the series whatsoever. So I was safely out on playing the new one arriving this summer for Switch 2. But a funny thing happened this morning: We actually learned who is making it--something that oddly doesn't happen much with Nintendo games until we can watch the credits--and the answer has completely changed my plans.\n\n\n\nThe New York-based Velan Studios",
+      "long_summary_tr": "I never played much Star Fox as a kid. Save for maybe a few minutes here and there at a friend or cousin's house, I've basically not played the series whatsoever. So I was safely out on playing the new one arriving this summer for Switch 2. But a funny thing happened this morning: We actually learned who is making it--something that oddly doesn't happen much with Nintendo games until we can watch the credits--and the answer has completely changed my plans.\n\n\n\nThe New York-based Velan Studios",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/i-didnt-care-about-the-new-star-fox-until-i-found-out-whos-making-it/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/NintendoSwitch2_StarFox_scrn_20.webp?w=300",
+      "published_at": "2026-06-09T18:15:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Aynur Kanbur cinayeti. 10 yıllık düğümü İstanbulkart çözdü",
+      "title_tr": "Aynur Kanbur cinayeti. 10 yıllık düğümü İstanbulkart çözdü",
+      "summary": "10 yıl önce evinin önünde öldürülen Mezdeke grubu dansçısı Aynur Kanbur cinayetiyle ilgili yeni ayrıntılar ortaya çıktı. Şüphelinin kimliği İstanbulkart hareketlerinden bulundu.",
+      "summary_tr": "10 yıl önce evinin önünde öldürülen Mezdeke grubu dansçısı Aynur Kanbur cinayetiyle ilgili yeni ayrıntılar ortaya çıktı. Şüphelinin kimliği İstanbulkart hareketlerinden bulundu.",
+      "long_summary": "10 yıl önce evinin önünde öldürülen Mezdeke grubu dansçısı Aynur Kanbur cinayetiyle ilgili yeni ayrıntılar ortaya çıktı. Şüphelinin kimliği İstanbulkart hareketlerinden bulundu.",
+      "long_summary_tr": "10 yıl önce evinin önünde öldürülen Mezdeke grubu dansçısı Aynur Kanbur cinayetiyle ilgili yeni ayrıntılar ortaya çıktı. Şüphelinin kimliği İstanbulkart hareketlerinden bulundu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/galeri-aynur-kanbur-cinayeti-10-yillik-dugumu-istanbulkart-cozdu-1727917",
+      "image": "https://images.ntv.com.tr/images/AW721936_01-365649.jpg",
+      "published_at": "2026-06-09T18:14:59+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
+      "is_local": false,
+      "source": "Breaking Defense",
+      "title": "Oshkosh eyes potential Marine JLTV deal, citing growing readiness gaps under current contract",
+      "title_tr": "Oshkosh eyes potential Marine JLTV deal, citing growing readiness gaps under current contract",
+      "summary": "The Marine Corps didn’t provide specifics on why the service was possibly seeking another JLTV supplier, but told Breaking Defense in a statement that it “continuously evaluates acquisition options to ensure it can meet approved JLTV requirements, preserve readiness, and reduce fielding risk.”",
+      "summary_tr": "The Marine Corps didn’t provide specifics on why the service was possibly seeking another JLTV supplier, but told Breaking Defense in a statement that it “continuously evaluates acquisition options to ensure it can meet approved JLTV requirements, preserve readiness, and reduce fielding risk.”",
+      "long_summary": "The Marine Corps didn’t provide specifics on why the service was possibly seeking another JLTV supplier, but told Breaking Defense in a statement that it “continuously evaluates acquisition options to ensure it can meet approved JLTV requirements, preserve readiness, and reduce fielding risk.”",
+      "long_summary_tr": "The Marine Corps didn’t provide specifics on why the service was possibly seeking another JLTV supplier, but told Breaking Defense in a statement that it “continuously evaluates acquisition options to ensure it can meet approved JLTV requirements, preserve readiness, and reduce fielding risk.”",
+      "why_important": [
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Bölgesel güvenlik dengeleri etkilenebilir"
+      ],
+      "url": "https://breakingdefense.com/2026/06/oshkosh-eyes-potential-marine-jltv-deal-citing-growing-readiness-gaps-under-current-contract/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/08/JLTV-1-e1723817273343-1024x577.jpeg",
+      "published_at": "2026-06-09T18:12:16+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "IGN Live May Be Over, But the Rewards Keep Going",
+      "title_tr": "IGN Live May Be Over, But the Rewards Keep Going",
+      "summary": "IGN Live May Be Over, But the Rewards Keep Going",
+      "summary_tr": "IGN Live May Be Over, But the Rewards Keep Going",
+      "long_summary": "IGN Live May Be Over, But the Rewards Keep Going",
+      "long_summary_tr": "IGN Live May Be Over, But the Rewards Keep Going",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/ign-live-may-be-over-but-the-rewards-keep-going",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/project-moon-aw-laptop-ign-giveaway-moon-1920x1080-1780438944985-1781011554049.png",
+      "published_at": "2026-06-09T18:12:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "NBA The Run Review",
+      "title_tr": "NBA The Run Review",
+      "summary": "A quick-match basketball game that plays more like a distant descendant of NBA Street than a true successor.",
+      "summary_tr": "A quick-match basketball game that plays more like a distant descendant of NBA Street than a true successor.",
+      "long_summary": "A quick-match basketball game that plays more like a distant descendant of NBA Street than a true successor.",
+      "long_summary_tr": "A quick-match basketball game that plays more like a distant descendant of NBA Street than a true successor.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/nba-the-run-review",
+      "image": "https://assets-prd.ignimgs.com/2026/06/09/nba-the-run-blogroll-1781027696109.jpg",
+      "published_at": "2026-06-09T18:10:50+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa’da Anatolium AVM’de panik! Su borusu patladı",
+      "title_tr": "Bursa’da Anatolium AVM’de panik! Su borusu patladı",
+      "summary": "Bursa’da bulunan Anatolium Alışveriş Merkezi’nde su borusunun patlaması paniğe neden oldu.AVM içerisinde meydana gelen arıza sonrası bazı bölümleri kısa sürede su basarken, güvenlik ekipleri vatandaşları tedbir amaçlı dışarı çıkardı.\n\nOlayın ardından alışveriş merkezinde kısa süreli panik yaşanırken, su baskınından etkilenen alanlarda temizlik ve onarım çalışmaları başladı.\n\nYaşananlar, alışveriş merkezinde bulunan vatandaşlar tarafından cep telefonu kameralarıyla görüntülendi.",
+      "summary_tr": "Bursa’da bulunan Anatolium Alışveriş Merkezi’nde su borusunun patlaması paniğe neden oldu.AVM içerisinde meydana gelen arıza sonrası bazı bölümleri kısa sürede su basarken, güvenlik ekipleri vatandaşları tedbir amaçlı dışarı çıkardı.\n\nOlayın ardından alışveriş merkezinde kısa süreli panik yaşanırken, su baskınından etkilenen alanlarda temizlik ve onarım çalışmaları başladı.\n\nYaşananlar, alışveriş merkezinde bulunan vatandaşlar tarafından cep telefonu kameralarıyla görüntülendi.",
+      "long_summary": "Bursa’da bulunan Anatolium Alışveriş Merkezi’nde su borusunun patlaması paniğe neden oldu.AVM içerisinde meydana gelen arıza sonrası bazı bölümleri kısa sürede su basarken, güvenlik ekipleri vatandaşları tedbir amaçlı dışarı çıkardı.\n\nOlayın ardından alışveriş merkezinde kısa süreli panik yaşanırken, su baskınından etkilenen alanlarda temizlik ve onarım çalışmaları başladı.\n\nYaşananlar, alışveriş merkezinde bulunan vatandaşlar tarafından cep telefonu kameralarıyla görüntülendi.",
+      "long_summary_tr": "Bursa’da bulunan Anatolium Alışveriş Merkezi’nde su borusunun patlaması paniğe neden oldu.AVM içerisinde meydana gelen arıza sonrası bazı bölümleri kısa sürede su basarken, güvenlik ekipleri vatandaşları tedbir amaçlı dışarı çıkardı.\n\nOlayın ardından alışveriş merkezinde kısa süreli panik yaşanırken, su baskınından etkilenen alanlarda temizlik ve onarım çalışmaları başladı.\n\nYaşananlar, alışveriş merkezinde bulunan vatandaşlar tarafından cep telefonu kameralarıyla görüntülendi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-anatolium-avm-de-panik-su-borusu-patladi-1646246",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/06/09/bursa-da-anatolium-avm-de-panik-su-borusu-patladi-1781031140-129_large.webp",
+      "published_at": "2026-06-09T18:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "UniCredit, Commerzbank’taki payını %37,7’ye yükseltti",
+      "title_tr": "UniCredit, Commerzbank’taki payını %37,7’ye yükseltti",
+      "summary": "UniCredit, Commerzbank’taki payını %37,7’ye yükseltti",
+      "summary_tr": "UniCredit, Commerzbank’taki payını %37,7’ye yükseltti",
+      "long_summary": "UniCredit, Commerzbank’taki payını %37,7’ye yükseltti",
+      "long_summary_tr": "UniCredit, Commerzbank’taki payını %37,7’ye yükseltti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/unicredit-commerzbanktaki-payn-377ye-yukseltti-93CH-3938521",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:06:29+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "HSBC Asya’nın Gelişen Piyasalarında En İyi Hisse Senetlerini Açıkladı",
+      "title_tr": "HSBC Asya’nın Gelişen Piyasalarında En İyi Hisse Senetlerini Açıkladı",
+      "summary": "HSBC Asya’nın Gelişen Piyasalarında En İyi Hisse Senetlerini Açıkladı",
+      "summary_tr": "HSBC Asya’nın Gelişen Piyasalarında En İyi Hisse Senetlerini Açıkladı",
+      "long_summary": "HSBC Asya’nın Gelişen Piyasalarında En İyi Hisse Senetlerini Açıkladı",
+      "long_summary_tr": "HSBC Asya’nın Gelişen Piyasalarında En İyi Hisse Senetlerini Açıkladı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/hsbc-asyann-gelisen-piyasalarnda-en-iyi-hisse-senetlerini-acklad-93CH-3938519",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:04:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Flutter Entertainment opsiyon işlemleri 2.705 sözleşmeye sıçradı",
+      "title_tr": "Flutter Entertainment opsiyon işlemleri 2.705 sözleşmeye sıçradı",
+      "summary": "Flutter Entertainment opsiyon işlemleri 2.705 sözleşmeye sıçradı",
+      "summary_tr": "Flutter Entertainment opsiyon işlemleri 2.705 sözleşmeye sıçradı",
+      "long_summary": "Flutter Entertainment opsiyon işlemleri 2.705 sözleşmeye sıçradı",
+      "long_summary_tr": "Flutter Entertainment opsiyon işlemleri 2.705 sözleşmeye sıçradı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/flutter-entertainment-opsiyon-islemleri-2705-sozlesmeye-scrad-93CH-3938518",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:04:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Emirates ilk Boeing 777X teslimatını Haziran 2027’de bekliyor",
+      "title_tr": "Emirates ilk Boeing 777X teslimatını Haziran 2027’de bekliyor",
+      "summary": "Emirates ilk Boeing 777X teslimatını Haziran 2027’de bekliyor",
+      "summary_tr": "Emirates ilk Boeing 777X teslimatını Haziran 2027’de bekliyor",
+      "long_summary": "Emirates ilk Boeing 777X teslimatını Haziran 2027’de bekliyor",
+      "long_summary_tr": "Emirates ilk Boeing 777X teslimatını Haziran 2027’de bekliyor",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/emirates-ilk-boeing-777x-teslimatn-haziran-2027de-bekliyor-93CH-3938516",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-06-09T18:03:37+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Brent petrolün varili 90 doların altına geriledi",
+      "title_tr": "Brent petrolün varili 90 doların altına geriledi",
+      "summary": "Brent petrolün varili uluslararası vadeli piyasalarda 89,61 dolardan işlem görüyor.Dün 98,08 dolara kadar yükselen Brent petrolün varil fiyatı, günü 94,25 dolardan tamamladı.\n\nBrent petrolün vadeli varil fiyatı, bugün saat 19.12 itibarıyla kapanışa göre yaklaşık yüzde 4,92 azalarak 89,61 dolar oldu. Aynı dakikalarda Batı Teksas türü (WTI) ham petrolün varili 86 dolardan alıcı buldu.\n\nPetrol fiyatlarındaki gerilemede, ABD ile İran arasında diplomatik çözüm ihtimalinin güçlenmesi ve Orta Doğu'da gerilimin daha fazla tırmanmayacağına yönelik beklentiler etkili oldu.\n\nAyrıca, piyasa oyuncularının gelecekte petrol piyasasında arz fazlası oluşabileceği beklentisini fiyatlamaya başlaması, fiyatlar üzerinde aşağı yönlü baskı oluşturdu.\n\nABD Başkanı Donald Trump, açıklamasında İran'la anlaşma sürecinin \"çok iyi\" ilerlediğini belirterek, \"Önümüzdeki iki hafta içinde tam zafer ilan ettiğimizde gerçekten kazanmış olacağız.\" dedi.\n\nÖte yandan, İsrail ordusunun, İran'la yaşanan çatışmalar sonrasında uygulanan güvenlik kısıtlamalarının büyük bölümünü kaldırdığını duyurması da gerilimin yatışacağı beklentilerini güçlendirerek fiyatlar üzerinde aşağı yönlü baskı oluşturdu.\n\nPiyasalardaki iyimserliği destekleyen bir diğer gelişme ise Lübnan Cumhurbaşkanı Joseph Avn'ın açıklamaları oldu. Avn, İsrail ile ABD arabuluculuğunda yürütülen temaslarda bu aşamada saldırmazlık veya güvenlik anlaşması niteliğinde düzenlemelerin gündemde olduğunu belirterek, nihai hedefin iki ülke arasındaki düşmanlık halinin sona erdirilmesi olduğunu söyledi.\n\nUzmanlar, dünyanın en büyük petrol tüketicisi olan ABD'de enflasyon baskılarının hafiflemesinin, ABD Merkez Bankası'nın (Fed) ilerleyen dönemde faiz indirimlerini değerlendirmesine olanak sağlayabileceğini belirtiyor.",
+      "summary_tr": "Brent petrolün varili uluslararası vadeli piyasalarda 89,61 dolardan işlem görüyor.Dün 98,08 dolara kadar yükselen Brent petrolün varil fiyatı, günü 94,25 dolardan tamamladı.\n\nBrent petrolün vadeli varil fiyatı, bugün saat 19.12 itibarıyla kapanışa göre yaklaşık yüzde 4,92 azalarak 89,61 dolar oldu. Aynı dakikalarda Batı Teksas türü (WTI) ham petrolün varili 86 dolardan alıcı buldu.\n\nPetrol fiyatlarındaki gerilemede, ABD ile İran arasında diplomatik çözüm ihtimalinin güçlenmesi ve Orta Doğu'da gerilimin daha fazla tırmanmayacağına yönelik beklentiler etkili oldu.\n\nAyrıca, piyasa oyuncularının gelecekte petrol piyasasında arz fazlası oluşabileceği beklentisini fiyatlamaya başlaması, fiyatlar üzerinde aşağı yönlü baskı oluşturdu.\n\nABD Başkanı Donald Trump, açıklamasında İran'la anlaşma sürecinin \"çok iyi\" ilerlediğini belirterek, \"Önümüzdeki iki hafta içinde tam zafer ilan ettiğimizde gerçekten kazanmış olacağız.\" dedi.\n\nÖte yandan, İsrail ordusunun, İran'la yaşanan çatışmalar sonrasında uygulanan güvenlik kısıtlamalarının büyük bölümünü kaldırdığını duyurması da gerilimin yatışacağı beklentilerini güçlendirerek fiyatlar üzerinde aşağı yönlü baskı oluşturdu.\n\nPiyasalardaki iyimserliği destekleyen bir diğer gelişme ise Lübnan Cumhurbaşkanı Joseph Avn'ın açıklamaları oldu. Avn, İsrail ile ABD arabuluculuğunda yürütülen temaslarda bu aşamada saldırmazlık veya güvenlik anlaşması niteliğinde düzenlemelerin gündemde olduğunu belirterek, nihai hedefin iki ülke arasındaki düşmanlık halinin sona erdirilmesi olduğunu söyledi.\n\nUzmanlar, dünyanın en büyük petrol tüketicisi olan ABD'de enflasyon baskılarının hafiflemesinin, ABD Merkez Bankası'nın (Fed) ilerleyen dönemde faiz indirimlerini değerlendirmesine olanak sağlayabileceğini belirtiyor.",
+      "long_summary": "Brent petrolün varili uluslararası vadeli piyasalarda 89,61 dolardan işlem görüyor.Dün 98,08 dolara kadar yükselen Brent petrolün varil fiyatı, günü 94,25 dolardan tamamladı.\n\nBrent petrolün vadeli varil fiyatı, bugün saat 19.12 itibarıyla kapanışa göre yaklaşık yüzde 4,92 azalarak 89,61 dolar oldu. Aynı dakikalarda Batı Teksas türü (WTI) ham petrolün varili 86 dolardan alıcı buldu.\n\nPetrol fiyatlarındaki gerilemede, ABD ile İran arasında diplomatik çözüm ihtimalinin güçlenmesi ve Orta Doğu'da",
+      "long_summary_tr": "Brent petrolün varili uluslararası vadeli piyasalarda 89,61 dolardan işlem görüyor.Dün 98,08 dolara kadar yükselen Brent petrolün varil fiyatı, günü 94,25 dolardan tamamladı.\n\nBrent petrolün vadeli varil fiyatı, bugün saat 19.12 itibarıyla kapanışa göre yaklaşık yüzde 4,92 azalarak 89,61 dolar oldu. Aynı dakikalarda Batı Teksas türü (WTI) ham petrolün varili 86 dolardan alıcı buldu.\n\nPetrol fiyatlarındaki gerilemede, ABD ile İran arasında diplomatik çözüm ihtimalinin güçlenmesi ve Orta Doğu'da",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/ekonomi/brent-petrolun-varili-90-dolarin-altina-geriledi-1646243",
+      "image": "https://www.bursahakimiyet.com.tr/static/2022/06/10/brent-petrol-fiyati-ne-kadar-oldu-1654850532-201.jpg_large.webp",
+      "published_at": "2026-06-09T18:00:00+00:00"
     }
   ]
 }
