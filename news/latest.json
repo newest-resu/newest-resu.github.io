@@ -1,6 +1,776 @@
 {
-  "updated_at": "2026-07-08T23:37:27.760343+00:00",
+  "updated_at": "2026-07-09T04:12:52.143427+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "The Ozempic and Wegovy mistake sending thousands to poison control",
+      "title_tr": "The Ozempic and Wegovy mistake sending thousands to poison control",
+      "summary": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education about proper weekly dosing and gradual dose increases could help prevent many of these avoidable incidents.",
+      "summary_tr": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education about proper weekly dosing and gradual dose increases could help prevent many of these avoidable incidents.",
+      "long_summary": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education about proper weekly dosing and gradual dose increases could help prevent many of these avoidable incidents.",
+      "long_summary_tr": "Poison control calls involving semaglutide (Ozempic and Wegovy) soared after the drug was approved for weight management, with researchers linking the increase to accidental dosing mistakes rather than intentional misuse. Simple education about proper weekly dosing and gradual dose increases could help prevent many of these avoidable incidents.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022204.htm",
+      "image": null,
+      "published_at": "2026-07-09T04:02:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "SpaceXAI, Bugüne Kadarki En Gelişmiş Modeli Grok 4.5'i Tanıttı",
+      "title_tr": "SpaceXAI, Bugüne Kadarki En Gelişmiş Modeli Grok 4.5'i Tanıttı",
+      "summary": "Elon Musk yönetimindeki SpaceXAI, bugüne kadarki en gelişmiş yapay zekâ modeli Grok 4.5'i resmen tanıttı.",
+      "summary_tr": "Elon Musk yönetimindeki SpaceXAI, bugüne kadarki en gelişmiş yapay zekâ modeli Grok 4.5'i resmen tanıttı.",
+      "long_summary": "Elon Musk yönetimindeki SpaceXAI, bugüne kadarki en gelişmiş yapay zekâ modeli Grok 4.5'i resmen tanıttı.",
+      "long_summary_tr": "Elon Musk yönetimindeki SpaceXAI, bugüne kadarki en gelişmiş yapay zekâ modeli Grok 4.5'i resmen tanıttı.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/spacexai-grok-4-5-tanitildi-h220111.html",
+      "image": "https://imgrosetta.webtekno.com/file/671593/671593-640xauto.jpg",
+      "published_at": "2026-07-09T03:48:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Altın, enflasyon ve faiz endişelerinin geri dönmesiyle geriledi",
+      "title_tr": "Altın, enflasyon ve faiz endişelerinin geri dönmesiyle geriledi",
+      "summary": "Altın, yükselen enflasyon ve faiz endişelerinin yeniden gündeme gelmesiyle Perşembe günü geriledi.",
+      "summary_tr": "Altın, yükselen enflasyon ve faiz endişelerinin yeniden gündeme gelmesiyle Perşembe günü geriledi.",
+      "long_summary": "Altın, yükselen enflasyon ve faiz endişelerinin yeniden gündeme gelmesiyle Perşembe günü geriledi.",
+      "long_summary_tr": "Altın, yükselen enflasyon ve faiz endişelerinin yeniden gündeme gelmesiyle Perşembe günü geriledi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/altin-enflasyon-ve-faiz-endiselerinin-geri-donmesiyle-geriledi-3782416",
+      "image": null,
+      "published_at": "2026-07-09T03:47:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Asya borsaları petrol ve Samsung baskısıyla düştü",
+      "title_tr": "Asya borsaları petrol ve Samsung baskısıyla düştü",
+      "summary": "Asya borsaları petrol ve Samsung baskısıyla düştü",
+      "summary_tr": "Asya borsaları petrol ve Samsung baskısıyla düştü",
+      "long_summary": "Asya borsaları petrol ve Samsung baskısıyla düştü",
+      "long_summary_tr": "Asya borsaları petrol ve Samsung baskısıyla düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/asya-borsalar-petrol-ve-samsung-basksyla-dustu-3972562",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T03:39:32+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Zhipu AI hissesi bugün neden yükseliyor?",
+      "title_tr": "Zhipu AI hissesi bugün neden yükseliyor?",
+      "summary": "Zhipu AI hissesi bugün neden yükseliyor?",
+      "summary_tr": "Zhipu AI hissesi bugün neden yükseliyor?",
+      "long_summary": "Zhipu AI hissesi bugün neden yükseliyor?",
+      "long_summary_tr": "Zhipu AI hissesi bugün neden yükseliyor?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/zhipu-ai-hissesi-bugun-neden-yukseliyor-93CH-3972559",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T03:39:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Petrol ABD-İran gerilimiyle yeniden yükseldi",
+      "title_tr": "Petrol ABD-İran gerilimiyle yeniden yükseldi",
+      "summary": "Petrol, ABD’nin İran’a yeni saldırılar düzenlemesinin ardından Perşembe günü yükseldi.",
+      "summary_tr": "Petrol, ABD’nin İran’a yeni saldırılar düzenlemesinin ardından Perşembe günü yükseldi.",
+      "long_summary": "Petrol, ABD’nin İran’a yeni saldırılar düzenlemesinin ardından Perşembe günü yükseldi.",
+      "long_summary_tr": "Petrol, ABD’nin İran’a yeni saldırılar düzenlemesinin ardından Perşembe günü yükseldi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/petrol-abd-iran-gerilimiyle-yeniden-yukseldi-3782415",
+      "image": null,
+      "published_at": "2026-07-09T03:38:49+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Petrol Hürmüz Boğazı riskiyle yükselişini sürdürüyor",
+      "title_tr": "Petrol Hürmüz Boğazı riskiyle yükselişini sürdürüyor",
+      "summary": "Petrol fiyatları Washington yönetiminin İran hedeflerine düzenlediği operasyonlar sonrası hızla tırmandı. Hürmüz Boğazı hattındaki ticari gemilere yönelik saldırılar enerji arzında kesinti endişelerini körüklüyor.",
+      "summary_tr": "Petrol fiyatları Washington yönetiminin İran hedeflerine düzenlediği operasyonlar sonrası hızla tırmandı. Hürmüz Boğazı hattındaki ticari gemilere yönelik saldırılar enerji arzında kesinti endişelerini körüklüyor.",
+      "long_summary": "Petrol fiyatları Washington yönetiminin İran hedeflerine düzenlediği operasyonlar sonrası hızla tırmandı. Hürmüz Boğazı hattındaki ticari gemilere yönelik saldırılar enerji arzında kesinti endişelerini körüklüyor.",
+      "long_summary_tr": "Petrol fiyatları Washington yönetiminin İran hedeflerine düzenlediği operasyonlar sonrası hızla tırmandı. Hürmüz Boğazı hattındaki ticari gemilere yönelik saldırılar enerji arzında kesinti endişelerini körüklüyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/petrol-hurmuz-bogazi-riskiyle-yukselisini-surduruyor-haberi-831555",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/05/28/petroll-1omj_cover.png",
+      "published_at": "2026-07-09T03:37:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "Webtekno",
+      "title": "ChatGPT İçin Yeni Ses Modelleri GPT-Live Duyuruldu!",
+      "title_tr": "ChatGPT İçin Yeni Ses Modelleri GPT-Live Duyuruldu!",
+      "summary": "OpenAI, ChatGPT'nin sesli modunu gerçek bir insanla konuşmaya benzeten yeni GPT-Live isimli yeni ses modelleri duyurdu.",
+      "summary_tr": "OpenAI, ChatGPT'nin sesli modunu gerçek bir insanla konuşmaya benzeten yeni GPT-Live isimli yeni ses modelleri duyurdu.",
+      "long_summary": "OpenAI, ChatGPT'nin sesli modunu gerçek bir insanla konuşmaya benzeten yeni GPT-Live isimli yeni ses modelleri duyurdu.",
+      "long_summary_tr": "OpenAI, ChatGPT'nin sesli modunu gerçek bir insanla konuşmaya benzeten yeni GPT-Live isimli yeni ses modelleri duyurdu.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://www.webtekno.com/chatgpt-sesli-mod-yeni-modeller-geldi-h220108.html",
+      "image": "https://imgrosetta.webtekno.com/file/671587/671587-640xauto.jpg",
+      "published_at": "2026-07-09T03:34:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
+      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-temmuz-2026-1732010",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-07-09T03:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Çin'de enflasyon beklentilerin altında kaldı",
+      "title_tr": "Çin'de enflasyon beklentilerin altında kaldı",
+      "summary": "Çin&#039;in enflasyonu, haziranda yıllık yüzde 1 artarak yüzde 1,1 seviyesindeki beklentinin altında kaldı. Üretici enflasyonu yüzde 4,1’e çıkarken çekirdek TÜFE ocaktan bu yana en düşük seviyeye indi.",
+      "summary_tr": "Çin&#039;in enflasyonu, haziranda yıllık yüzde 1 artarak yüzde 1,1 seviyesindeki beklentinin altında kaldı. Üretici enflasyonu yüzde 4,1’e çıkarken çekirdek TÜFE ocaktan bu yana en düşük seviyeye indi.",
+      "long_summary": "Çin&#039;in enflasyonu, haziranda yıllık yüzde 1 artarak yüzde 1,1 seviyesindeki beklentinin altında kaldı. Üretici enflasyonu yüzde 4,1’e çıkarken çekirdek TÜFE ocaktan bu yana en düşük seviyeye indi.",
+      "long_summary_tr": "Çin&#039;in enflasyonu, haziranda yıllık yüzde 1 artarak yüzde 1,1 seviyesindeki beklentinin altında kaldı. Üretici enflasyonu yüzde 4,1’e çıkarken çekirdek TÜFE ocaktan bu yana en düşük seviyeye indi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/cinde-enflasyon-beklentilerin-altinda-kaldi-haberi-831554",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/09/cin-enflasyonu-emtia-maliyetlerinde-npaj_cover.jpg",
+      "published_at": "2026-07-09T03:26:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "İran, ABD'nin saldırılarla mutabakatı ihlal ettiğini BM Güvenlik Konseyi'ne bildirdi",
+      "title_tr": "İran, ABD'nin saldırılarla mutabakatı ihlal ettiğini BM Güvenlik Konseyi'ne bildirdi",
+      "summary": "İran, ABD'nin saldırılarının \"Birleşmiş Milletler (BM) Şartı ve İslamabad Mutabakat Zaptı'nın açık bir ihlali olduğunu\" BM'ye bildirdi.",
+      "summary_tr": "İran, ABD'nin saldırılarının \"Birleşmiş Milletler (BM) Şartı ve İslamabad Mutabakat Zaptı'nın açık bir ihlali olduğunu\" BM'ye bildirdi.",
+      "long_summary": "İran, ABD'nin saldırılarının \"Birleşmiş Milletler (BM) Şartı ve İslamabad Mutabakat Zaptı'nın açık bir ihlali olduğunu\" BM'ye bildirdi.",
+      "long_summary_tr": "İran, ABD'nin saldırılarının \"Birleşmiş Milletler (BM) Şartı ve İslamabad Mutabakat Zaptı'nın açık bir ihlali olduğunu\" BM'ye bildirdi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/iran-abd-nin-saldirilarla-mutabakati-ihlal-ettigini-bm-guvenlik-konseyi-ne-bildirdi-3782414",
+      "image": null,
+      "published_at": "2026-07-09T03:24:39+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "ABD, son saldırılarda İran’ın Hürmüz Boğazı yakınındaki bölgelerini hedef aldı",
+      "title_tr": "ABD, son saldırılarda İran’ın Hürmüz Boğazı yakınındaki bölgelerini hedef aldı",
+      "summary": "ABD Başkanı Donald Trump’ın İran’a yönelik saldırı tehdidinin ardından ABD ordusunun gece saatlerinde başlayan bombardımanında, İran’ın Hürmüz Boğazı yakınındaki bölgeleri hedef alındı.",
+      "summary_tr": "ABD Başkanı Donald Trump’ın İran’a yönelik saldırı tehdidinin ardından ABD ordusunun gece saatlerinde başlayan bombardımanında, İran’ın Hürmüz Boğazı yakınındaki bölgeleri hedef alındı.",
+      "long_summary": "ABD Başkanı Donald Trump’ın İran’a yönelik saldırı tehdidinin ardından ABD ordusunun gece saatlerinde başlayan bombardımanında, İran’ın Hürmüz Boğazı yakınındaki bölgeleri hedef alındı.",
+      "long_summary_tr": "ABD Başkanı Donald Trump’ın İran’a yönelik saldırı tehdidinin ardından ABD ordusunun gece saatlerinde başlayan bombardımanında, İran’ın Hürmüz Boğazı yakınındaki bölgeleri hedef alındı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/abd-son-saldirilarda-iranin-hurmuz-bogazi-yakinindaki-bolgelerini-hedef-aldi-3782413",
+      "image": null,
+      "published_at": "2026-07-09T03:23:20+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "İran: ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli",
+      "title_tr": "İran: ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli",
+      "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı İbrahim Azizi, ABD'nin İran'ın güneyine yönelik saldırıları hakkında, \"ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli.\" dedi.",
+      "summary_tr": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı İbrahim Azizi, ABD'nin İran'ın güneyine yönelik saldırıları hakkında, \"ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli.\" dedi.",
+      "long_summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı İbrahim Azizi, ABD'nin İran'ın güneyine yönelik saldırıları hakkında, \"ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli.\" dedi.",
+      "long_summary_tr": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı İbrahim Azizi, ABD'nin İran'ın güneyine yönelik saldırıları hakkında, \"ABD'liler, onlara ezici bir karşılık vereceğimizi bilmeli.\" dedi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/iran-abd-liler-onlara-ezici-bir-karsilik-verecegimizi-bilmeli-3782412",
+      "image": null,
+      "published_at": "2026-07-09T03:20:13+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Ekonomi ve siyaset gündemi -  9 Temmuz 2026",
+      "title_tr": "Ekonomi ve siyaset gündemi -  9 Temmuz 2026",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "long_summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-9-temmuz-2026-3782411",
+      "image": null,
+      "published_at": "2026-07-09T03:16:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Altın fiyatları ABD ve İran gerilimi gölgesinde geriliyor",
+      "title_tr": "Altın fiyatları ABD ve İran gerilimi gölgesinde geriliyor",
+      "summary": "Altın fiyatları ABD ve İran gerilimi sonrasında artan enflasyon korkularıyla geriliyor Spot altın ve gümüş düşerken dolar endeksi güç kazanıyor Piyasalar faiz oranlarındaki olası artışları dikkatle takip ediyor",
+      "summary_tr": "Altın fiyatları ABD ve İran gerilimi sonrasında artan enflasyon korkularıyla geriliyor Spot altın ve gümüş düşerken dolar endeksi güç kazanıyor Piyasalar faiz oranlarındaki olası artışları dikkatle takip ediyor",
+      "long_summary": "Altın fiyatları ABD ve İran gerilimi sonrasında artan enflasyon korkularıyla geriliyor Spot altın ve gümüş düşerken dolar endeksi güç kazanıyor Piyasalar faiz oranlarındaki olası artışları dikkatle takip ediyor",
+      "long_summary_tr": "Altın fiyatları ABD ve İran gerilimi sonrasında artan enflasyon korkularıyla geriliyor Spot altın ve gümüş düşerken dolar endeksi güç kazanıyor Piyasalar faiz oranlarındaki olası artışları dikkatle takip ediyor",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-abd-ve-iran-gerilimi-golgesinde-geriliyor-galeri-831553",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/06/26/altin-ve-ortadogu-jgv4_cover.jpg",
+      "published_at": "2026-07-09T03:07:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "title_tr": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "summary_tr": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "long_summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "long_summary_tr": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "image": null,
+      "published_at": "2026-07-09T02:48:06+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Nvidia, Avustralya merkezli Firmus’a 500 milyon dolar yatırım yapacak",
+      "title_tr": "Nvidia, Avustralya merkezli Firmus’a 500 milyon dolar yatırım yapacak",
+      "summary": "Nvidia, Avustralya merkezli Firmus’a 500 milyon dolar yatırım yapacak",
+      "summary_tr": "Nvidia, Avustralya merkezli Firmus’a 500 milyon dolar yatırım yapacak",
+      "long_summary": "Nvidia, Avustralya merkezli Firmus’a 500 milyon dolar yatırım yapacak",
+      "long_summary_tr": "Nvidia, Avustralya merkezli Firmus’a 500 milyon dolar yatırım yapacak",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/nvidia-avustralya-merkezli-firmusa-500-milyon-dolar-yatrm-yapacak-3972552",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T02:20:55+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
+      "title_tr": "Tiny silica particles wiped out aggressive prostate cancer in mice",
+      "summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions in multiple mice, raising hopes for a powerful new approach to prostate cancer.",
+      "summary_tr": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions in multiple mice, raising hopes for a powerful new approach to prostate cancer.",
+      "long_summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions in multiple mice, raising hopes for a powerful new approach to prostate cancer.",
+      "long_summary_tr": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced complete remissions in multiple mice, raising hopes for a powerful new approach to prostate cancer.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm",
+      "image": null,
+      "published_at": "2026-07-09T02:18:49+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Kioxia hissesi bugün neden yükseldi?",
+      "title_tr": "Kioxia hissesi bugün neden yükseldi?",
+      "summary": "Kioxia hissesi bugün neden yükseldi?",
+      "summary_tr": "Kioxia hissesi bugün neden yükseldi?",
+      "long_summary": "Kioxia hissesi bugün neden yükseldi?",
+      "long_summary_tr": "Kioxia hissesi bugün neden yükseldi?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/kioxia-hissesi-bugun-neden-yukseldi-93CH-3972550",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T02:17:38+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Starmer hints at bank holiday if England win World Cup",
+      "title_tr": "Starmer hints at bank holiday if England win World Cup",
+      "summary": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+      "summary_tr": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+      "long_summary": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+      "long_summary_tr": "The prime minister says he does not want to \"jinx it\" but \"ask me again if we get to the final\".",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/news/articles/c20y9g2v2wvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff07/live/4822f750-7b2a-11f1-bee8-53ce494e1abc.jpg",
+      "published_at": "2026-07-09T01:25:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "SK Hynix güçlü talep sonrası 28 milyar dolarlık ADR fiyatlaması yaklaşırken sıçradı",
+      "title_tr": "SK Hynix güçlü talep sonrası 28 milyar dolarlık ADR fiyatlaması yaklaşırken sıçradı",
+      "summary": "SK Hynix güçlü talep sonrası 28 milyar dolarlık ADR fiyatlaması yaklaşırken sıçradı",
+      "summary_tr": "SK Hynix güçlü talep sonrası 28 milyar dolarlık ADR fiyatlaması yaklaşırken sıçradı",
+      "long_summary": "SK Hynix güçlü talep sonrası 28 milyar dolarlık ADR fiyatlaması yaklaşırken sıçradı",
+      "long_summary_tr": "SK Hynix güçlü talep sonrası 28 milyar dolarlık ADR fiyatlaması yaklaşırken sıçradı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/sk-hynix-guclu-talep-sonras-28-milyar-dolarlk-adr-fiyatlamas-yaklasrken-scrad-3972535",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T01:07:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "ABD hisse senedi vadeli işlemleri İran gerginliği sonrası sakin",
+      "title_tr": "ABD hisse senedi vadeli işlemleri İran gerginliği sonrası sakin",
+      "summary": "ABD hisse senedi vadeli işlemleri İran gerginliği sonrası sakin",
+      "summary_tr": "ABD hisse senedi vadeli işlemleri İran gerginliği sonrası sakin",
+      "long_summary": "ABD hisse senedi vadeli işlemleri İran gerginliği sonrası sakin",
+      "long_summary_tr": "ABD hisse senedi vadeli işlemleri İran gerginliği sonrası sakin",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-gerginligi-sonras-sakin-3972532",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T01:01:09+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Silahlı saldırı şüphelisi polisten kaçarken tırın altında kaldı",
+      "title_tr": "Silahlı saldırı şüphelisi polisten kaçarken tırın altında kaldı",
+      "summary": "Niğde'de çıkan kavgada bir kişiyi pompalı tüfekle sırtından vurup ormana saklandığı belirlenen C.S., polisten kaçarken tır çarpması sonucu ağır yaralandı.",
+      "summary_tr": "Niğde'de çıkan kavgada bir kişiyi pompalı tüfekle sırtından vurup ormana saklandığı belirlenen C.S., polisten kaçarken tır çarpması sonucu ağır yaralandı.",
+      "long_summary": "Niğde'de çıkan kavgada bir kişiyi pompalı tüfekle sırtından vurup ormana saklandığı belirlenen C.S., polisten kaçarken tır çarpması sonucu ağır yaralandı.",
+      "long_summary_tr": "Niğde'de çıkan kavgada bir kişiyi pompalı tüfekle sırtından vurup ormana saklandığı belirlenen C.S., polisten kaçarken tır çarpması sonucu ağır yaralandı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/silahli-saldiri-suphelisi-polisten-kacarken-tirin-altinda-kaldi-1732018",
+      "image": "https://images.ntv.com.tr/images/Ekrangörüntüsü2026-07-09034227-907297.png",
+      "published_at": "2026-07-09T00:45:12+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "ABD eyaletleri Paramount-Warner anlaşmasını engellemek için dava açabilir",
+      "title_tr": "ABD eyaletleri Paramount-Warner anlaşmasını engellemek için dava açabilir",
+      "summary": "ABD eyaletleri Paramount-Warner anlaşmasını engellemek için dava açabilir",
+      "summary_tr": "ABD eyaletleri Paramount-Warner anlaşmasını engellemek için dava açabilir",
+      "long_summary": "ABD eyaletleri Paramount-Warner anlaşmasını engellemek için dava açabilir",
+      "long_summary_tr": "ABD eyaletleri Paramount-Warner anlaşmasını engellemek için dava açabilir",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/abd-eyaletleri-paramountwarner-anlasmasn-engellemek-icin-dava-acabilir-3972524",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T00:31:33+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Çin’in Zhipu AI’ı Hong Kong’da indirimli hisse satışıyla 4 milyar dolar topladı",
+      "title_tr": "Çin’in Zhipu AI’ı Hong Kong’da indirimli hisse satışıyla 4 milyar dolar topladı",
+      "summary": "Çin’in Zhipu AI’ı Hong Kong’da indirimli hisse satışıyla 4 milyar dolar topladı",
+      "summary_tr": "Çin’in Zhipu AI’ı Hong Kong’da indirimli hisse satışıyla 4 milyar dolar topladı",
+      "long_summary": "Çin’in Zhipu AI’ı Hong Kong’da indirimli hisse satışıyla 4 milyar dolar topladı",
+      "long_summary_tr": "Çin’in Zhipu AI’ı Hong Kong’da indirimli hisse satışıyla 4 milyar dolar topladı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/cinin-zhipu-ai-hong-kongda-indirimli-hisse-satsyla-4-milyar-dolar-toplad-3972508",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-09T00:17:08+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Heidelberg physicists just united two opposing quantum theories",
+      "title_tr": "Heidelberg physicists just united two opposing quantum theories",
+      "summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "summary_tr": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "long_summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "long_summary_tr": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
+      "image": null,
+      "published_at": "2026-07-09T00:15:58+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "id Software Was Reportedly 'Toying With' Pitches for a New Perfect Dark, a John Wick-Inspired Game, and More Before Layoffs",
+      "title_tr": "id Software Was Reportedly 'Toying With' Pitches for a New Perfect Dark, a John Wick-Inspired Game, and More Before Layoffs",
+      "summary": "id Software was reportedly toying with a bunch of ideas for future game projects when Microsoft laid off more than half of the studio.",
+      "summary_tr": "id Software was reportedly toying with a bunch of ideas for future game projects when Microsoft laid off more than half of the studio.",
+      "long_summary": "id Software was reportedly toying with a bunch of ideas for future game projects when Microsoft laid off more than half of the studio.",
+      "long_summary_tr": "id Software was reportedly toying with a bunch of ideas for future game projects when Microsoft laid off more than half of the studio.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/id-software-was-reportedly-toying-with-pitches-for-a-new-perfect-dark-a-john-wick-inspired-game-and-more-before-layoffs",
+      "image": "https://assets-prd.ignimgs.com/2026/07/08/doomthumb-1783524521667.png",
+      "published_at": "2026-07-09T00:08:14+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Bain, Japon bellek üreticisi Kioxia’daki hissesinden çıktı",
+      "title_tr": "Bain, Japon bellek üreticisi Kioxia’daki hissesinden çıktı",
+      "summary": "Bain, Japon bellek üreticisi Kioxia’daki hissesinden çıktı",
+      "summary_tr": "Bain, Japon bellek üreticisi Kioxia’daki hissesinden çıktı",
+      "long_summary": "Bain, Japon bellek üreticisi Kioxia’daki hissesinden çıktı",
+      "long_summary_tr": "Bain, Japon bellek üreticisi Kioxia’daki hissesinden çıktı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/bain-japon-bellek-ureticisi-kioxiadaki-hissesinden-ckt-3972498",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "published_at": "2026-07-08T23:53:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "College Football 27 Review",
+      "title_tr": "College Football 27 Review",
+      "summary": "College Football's junior year is already quick off the block.",
+      "summary_tr": "College Football's junior year is already quick off the block.",
+      "long_summary": "College Football's junior year is already quick off the block.",
+      "long_summary_tr": "College Football's junior year is already quick off the block.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/college-football-27-review",
+      "image": "https://assets-prd.ignimgs.com/2026/07/02/ea-sports-college-football-27-blogroll-2-1782954185145.jpg",
+      "published_at": "2026-07-08T23:40:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Vücuduna yapışan keneyi kendi çıkardı, 4 gün sonra öldü",
+      "title_tr": "Vücuduna yapışan keneyi kendi çıkardı, 4 gün sonra öldü",
+      "summary": "Tokat'ta vücuduna yapışan keneyi kendi imkanlarıyla çıkaran 61 yaşındaki Dursun Almamış hayatını kaybetti.",
+      "summary_tr": "Tokat'ta vücuduna yapışan keneyi kendi imkanlarıyla çıkaran 61 yaşındaki Dursun Almamış hayatını kaybetti.",
+      "long_summary": "Tokat'ta vücuduna yapışan keneyi kendi imkanlarıyla çıkaran 61 yaşındaki Dursun Almamış hayatını kaybetti.",
+      "long_summary_tr": "Tokat'ta vücuduna yapışan keneyi kendi imkanlarıyla çıkaran 61 yaşındaki Dursun Almamış hayatını kaybetti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/vucuduna-yapisan-keneyi-kendi-cikardi-4-gun-sonra-oldu-1732017",
+      "image": "https://images.ntv.com.tr/images/kene-934664.jpg",
+      "published_at": "2026-07-08T23:39:11+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress",
+      "title_tr": "You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress",
+      "summary": "You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress",
+      "summary_tr": "You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress",
+      "long_summary": "You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress",
+      "long_summary_tr": "You Can Still Save 34% off the Garmin Forerunner 265 Smartwatch at AliExpress",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/save-on-the-garmin-forerunner-265-smartwatch-ahead-of-the-4th-of-july",
+      "image": "https://assets-prd.ignimgs.com/2026/07/01/garmin-aliexpress-deal-blogroll-1782927381787.png",
+      "published_at": "2026-07-08T23:32:38+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Dell Outlet Has a Refurb Alienware 18 Area-51 RTX 5070 Ti Gaming Laptop for $2013",
+      "title_tr": "Dell Outlet Has a Refurb Alienware 18 Area-51 RTX 5070 Ti Gaming Laptop for $2013",
+      "summary": "Same 1 year warranty as buying brand new.",
+      "summary_tr": "Same 1 year warranty as buying brand new.",
+      "long_summary": "Same 1 year warranty as buying brand new.",
+      "long_summary_tr": "Same 1 year warranty as buying brand new.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/alienware-area-51-18-rtx-5070-ti-gaming-laptop-deal-at-dell-outlet-in-july",
+      "image": "https://assets-prd.ignimgs.com/2026/07/08/alienwarearea51laptop-1783550227510.jpg",
+      "published_at": "2026-07-08T23:30:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Doom: The Dark Ages - Revelations Review So Far",
+      "title_tr": "Doom: The Dark Ages - Revelations Review So Far",
+      "summary": "The combat encounters in this DLC are the very best Doom: The Dark Ages has to offer.",
+      "summary_tr": "The combat encounters in this DLC are the very best Doom: The Dark Ages has to offer.",
+      "long_summary": "The combat encounters in this DLC are the very best Doom: The Dark Ages has to offer.",
+      "long_summary_tr": "The combat encounters in this DLC are the very best Doom: The Dark Ages has to offer.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/doom-the-dark-ages-revelations-review",
+      "image": "https://assets-prd.ignimgs.com/2026/07/08/doom-the-dark-ages-revelations-blogroll-01-1783552195718.jpg",
+      "published_at": "2026-07-08T23:20:18+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System",
+      "title_tr": "Save 36% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System",
+      "summary": "Amazon's best selling WiFi 7 router.",
+      "summary_tr": "Amazon's best selling WiFi 7 router.",
+      "long_summary": "Amazon's best selling WiFi 7 router.",
+      "long_summary_tr": "Amazon's best selling WiFi 7 router.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/tp-link-whole-home-mesh-system-wifi-7-router-deal-for-july",
+      "image": "https://assets-prd.ignimgs.com/2026/07/07/tplinkdeco-1783445936060.jpg",
+      "published_at": "2026-07-08T23:15:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "LEGO Insiders Days 2026 Is Live",
+      "title_tr": "LEGO Insiders Days 2026 Is Live",
+      "summary": "Grab exclusive deals and freebies in the LEGO Insiders Days sale 2026.",
+      "summary_tr": "Grab exclusive deals and freebies in the LEGO Insiders Days sale 2026.",
+      "long_summary": "Grab exclusive deals and freebies in the LEGO Insiders Days sale 2026.",
+      "long_summary_tr": "Grab exclusive deals and freebies in the LEGO Insiders Days sale 2026.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/lego-insiders-days-2026-best-deals",
+      "image": "https://assets-prd.ignimgs.com/2026/07/08/lego-insiders-days-1783535520824.jpg",
+      "published_at": "2026-07-08T23:06:58+00:00"
+    },
     {
       "origin": "yabanci",
       "category": "Spor",
@@ -24,26 +794,48 @@
       "published_at": "2026-07-08T23:01:17+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
       "is_local": false,
-      "source": "NTV",
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
-      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Temmuz 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
-      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
-      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
-      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "source": "Science Daily",
+      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+      "title_tr": "Rare goblin shark filmed alive for the first time in the deep sea",
+      "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
+      "summary_tr": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
+      "long_summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
+      "long_summary_tr": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Yeni keşifler farklı alanlara yön verebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-temmuz-2026-1732010",
-      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-07-08T23:00:00+00:00"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+      "image": null,
+      "published_at": "2026-07-08T23:00:05+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99",
+      "title_tr": "The Coslus C20 Cordless Rechargeable Water Flosser Drops 83% to Just $6.99",
+      "summary": "I compared it first-hand with the popular $100 Waterpik Aquarius.",
+      "summary_tr": "I compared it first-hand with the popular $100 Waterpik Aquarius.",
+      "long_summary": "I compared it first-hand with the popular $100 Waterpik Aquarius.",
+      "long_summary_tr": "I compared it first-hand with the popular $100 Waterpik Aquarius.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/coslus-c20-cordless-rechargeable-water-flosser-deal-updated",
+      "image": "https://assets-prd.ignimgs.com/2026/07/02/coslusc20-1783016771833.jpg",
+      "published_at": "2026-07-08T22:50:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -110,6 +902,28 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da24/live/94353bc0-641a-11f1-8546-8f19e4fe30f4.jpg",
       "published_at": "2026-07-08T22:34:48+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Bilim",
+      "category_slug": "bilim",
+      "is_local": false,
+      "source": "Science Daily",
+      "title": "Scientists used AI to crack one of water's biggest mysteries",
+      "title_tr": "Scientists used AI to crack one of water's biggest mysteries",
+      "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious substances.",
+      "summary_tr": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious substances.",
+      "long_summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious",
+      "long_summary_tr": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the University of Osaka used an AI model trained on computer simulations to evaluate 16 different structural descriptors. The system identified the most effective ways to distinguish between water’s two competing liquid states, providing a clearer framework for studying one of nature’s most mysterious",
+      "why_important": [
+        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+      ],
+      "possible_impacts": [
+        "Yeni keşifler farklı alanlara yön verebilir"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "image": null,
+      "published_at": "2026-07-08T22:31:30+00:00"
     },
     {
       "origin": "yabanci",
@@ -222,28 +1036,6 @@
       "published_at": "2026-07-08T21:44:18+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "US launches more strikes on Iran with blasts reported in south of country",
-      "title_tr": "US launches more strikes on Iran with blasts reported in south of country",
-      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-      "summary_tr": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-      "long_summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-      "long_summary_tr": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f4/live/30109df0-7b0e-11f1-b976-0b9c15b0ccfc.jpg",
-      "published_at": "2026-07-08T21:40:40+00:00"
-    },
-    {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
@@ -289,28 +1081,6 @@
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "S&P, Century Communities’in notunu düşürdü",
-      "title_tr": "S&P, Century Communities’in notunu düşürdü",
-      "summary": "S&P, Century Communities’in notunu düşürdü",
-      "summary_tr": "S&P, Century Communities’in notunu düşürdü",
-      "long_summary": "S&P, Century Communities’in notunu düşürdü",
-      "long_summary_tr": "S&P, Century Communities’in notunu düşürdü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/sp-century-communitiesin-notunu-dusurdu-93CH-3972448",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:31:25+00:00"
-    },
-    {
-      "origin": "turkiye",
       "category": "Gündem",
       "category_slug": "gundem",
       "is_local": false,
@@ -330,776 +1100,6 @@
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-antalyada-deprem-mi-oldu-az-once-deprem-antalyada-nerede-oldu-antalya-deprem-kandilli-ve-afad-son-depremler-listesi-09-temmuz-2026-1732013",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
       "published_at": "2026-07-08T21:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "S&P, Harley-Davidson’ın notunu marj endişeleriyle BB+’ya düşürdü",
-      "title_tr": "S&P, Harley-Davidson’ın notunu marj endişeleriyle BB+’ya düşürdü",
-      "summary": "S&P, Harley-Davidson’ın notunu marj endişeleriyle BB+’ya düşürdü",
-      "summary_tr": "S&P, Harley-Davidson’ın notunu marj endişeleriyle BB+’ya düşürdü",
-      "long_summary": "S&P, Harley-Davidson’ın notunu marj endişeleriyle BB+’ya düşürdü",
-      "long_summary_tr": "S&P, Harley-Davidson’ın notunu marj endişeleriyle BB+’ya düşürdü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/sp-harleydavidsonn-notunu-marj-endiseleriyle-bbya-dusurdu-93CH-3972442",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:26:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Leidos 27,2 milyon dolarlık füze sözleşmesi değişikliği aldı",
-      "title_tr": "Leidos 27,2 milyon dolarlık füze sözleşmesi değişikliği aldı",
-      "summary": "Leidos 27,2 milyon dolarlık füze sözleşmesi değişikliği aldı",
-      "summary_tr": "Leidos 27,2 milyon dolarlık füze sözleşmesi değişikliği aldı",
-      "long_summary": "Leidos 27,2 milyon dolarlık füze sözleşmesi değişikliği aldı",
-      "long_summary_tr": "Leidos 27,2 milyon dolarlık füze sözleşmesi değişikliği aldı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/leidos-272-milyon-dolarlk-fuze-sozlesmesi-degisikligi-ald-93CH-3972437",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:24:52+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Lockheed Martin, AH-64 desteği için 502 milyon dolarlık sözleşme aldı",
-      "title_tr": "Lockheed Martin, AH-64 desteği için 502 milyon dolarlık sözleşme aldı",
-      "summary": "Lockheed Martin, AH-64 desteği için 502 milyon dolarlık sözleşme aldı",
-      "summary_tr": "Lockheed Martin, AH-64 desteği için 502 milyon dolarlık sözleşme aldı",
-      "long_summary": "Lockheed Martin, AH-64 desteği için 502 milyon dolarlık sözleşme aldı",
-      "long_summary_tr": "Lockheed Martin, AH-64 desteği için 502 milyon dolarlık sözleşme aldı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/lockheed-martin-ah64-destegi-icin-502-milyon-dolarlk-sozlesme-ald-93CH-3972436",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:24:35+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Son dakika: Antalya Kaş açıklarında deprem",
-      "title_tr": "Son dakika: Antalya Kaş açıklarında deprem",
-      "summary": "Son dakika haberine göre, Antalya&#039;nın Kaş ilçesi açıklarında Akdeniz&#039;de saat 00.11&#039;de 3.7 büyüklüğünde deprem meydana geldi.",
-      "summary_tr": "Son dakika haberine göre, Antalya&#039;nın Kaş ilçesi açıklarında Akdeniz&#039;de saat 00.11&#039;de 3.7 büyüklüğünde deprem meydana geldi.",
-      "long_summary": "Son dakika haberine göre, Antalya&#039;nın Kaş ilçesi açıklarında Akdeniz&#039;de saat 00.11&#039;de 3.7 büyüklüğünde deprem meydana geldi.",
-      "long_summary_tr": "Son dakika haberine göre, Antalya&#039;nın Kaş ilçesi açıklarında Akdeniz&#039;de saat 00.11&#039;de 3.7 büyüklüğünde deprem meydana geldi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/son-dakika-antalya-kas-aciklarinda-deprem-haberi-831551",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/09/antalya-deprem-eoj0_cover.jpg",
-      "published_at": "2026-07-08T21:22:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "ABD saldırıları sonrası İran'ın güneyinde peş peşe patlamalar",
-      "title_tr": "ABD saldırıları sonrası İran'ın güneyinde peş peşe patlamalar",
-      "summary": "İran basını, ABD'nin yeni saldırılarının ardından ülkenin güneyindeki Bender Abbas, Sirik, Çabahar ve Kunarek kentlerinde peş peşe patlama seslerinin duyulduğunu, Çabahar'daki bir hastaneye de şarapnel isabet ettiğini bildirdi.",
-      "summary_tr": "İran basını, ABD'nin yeni saldırılarının ardından ülkenin güneyindeki Bender Abbas, Sirik, Çabahar ve Kunarek kentlerinde peş peşe patlama seslerinin duyulduğunu, Çabahar'daki bir hastaneye de şarapnel isabet ettiğini bildirdi.",
-      "long_summary": "İran basını, ABD'nin yeni saldırılarının ardından ülkenin güneyindeki Bender Abbas, Sirik, Çabahar ve Kunarek kentlerinde peş peşe patlama seslerinin duyulduğunu, Çabahar'daki bir hastaneye de şarapnel isabet ettiğini bildirdi.",
-      "long_summary_tr": "İran basını, ABD'nin yeni saldırılarının ardından ülkenin güneyindeki Bender Abbas, Sirik, Çabahar ve Kunarek kentlerinde peş peşe patlama seslerinin duyulduğunu, Çabahar'daki bir hastaneye de şarapnel isabet ettiğini bildirdi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/abd-saldirilari-sonrasi-iran-in-guneyinde-pes-pese-patlamalar-3782408",
-      "image": null,
-      "published_at": "2026-07-08T21:21:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Palace latest: Defender signing close as Kamada pens new contract",
-      "title_tr": "Palace latest: Defender signing close as Kamada pens new contract",
-      "summary": "Palace latest: Defender signing close as Kamada pens new contract",
-      "summary_tr": "Palace latest: Defender signing close as Kamada pens new contract",
-      "long_summary": "Palace latest: Defender signing close as Kamada pens new contract",
-      "long_summary_tr": "Palace latest: Defender signing close as Kamada pens new contract",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image": "https://e1.365dm.com/26/06/1920x1080/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
-      "published_at": "2026-07-08T21:20:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Jean Paul Gaultier Couture Gets the Duran Lantink Treatment",
-      "title_tr": "Jean Paul Gaultier Couture Gets the Duran Lantink Treatment",
-      "summary": "The provocative designer showed a wildly imaginative first couture offering.",
-      "summary_tr": "The provocative designer showed a wildly imaginative first couture offering.",
-      "long_summary": "The provocative designer showed a wildly imaginative first couture offering.",
-      "long_summary_tr": "The provocative designer showed a wildly imaginative first couture offering.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/runway/a71865573/jean-paul-gaultier-couture-fall-2026-review/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a6354425-9783-45a1-8a72-0c4efd999f68.png",
-      "published_at": "2026-07-08T21:17:17+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "GoPro hisseleri CEO’nun 20 milyon dolarlık finansmanıyla yükseldi",
-      "title_tr": "GoPro hisseleri CEO’nun 20 milyon dolarlık finansmanıyla yükseldi",
-      "summary": "GoPro hisseleri CEO’nun 20 milyon dolarlık finansmanıyla yükseldi",
-      "summary_tr": "GoPro hisseleri CEO’nun 20 milyon dolarlık finansmanıyla yükseldi",
-      "long_summary": "GoPro hisseleri CEO’nun 20 milyon dolarlık finansmanıyla yükseldi",
-      "long_summary_tr": "GoPro hisseleri CEO’nun 20 milyon dolarlık finansmanıyla yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/gopro-hisseleri-ceonun-20-milyon-dolarlk-finansmanyla-yukseldi-93CH-3972415",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:13:44+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Trump talimatı verdi: İran'a yönelik saldırılar başlatıldı",
-      "title_tr": "Trump talimatı verdi: İran'a yönelik saldırılar başlatıldı",
-      "summary": "CENTCOM, İran'ın Hürmüz Boğazı'nda seyrüsefer serbestisini tehdit ettiği ve ticari gemileri hedef aldığı gerekçesiyle ABD'nin bu ülkeye yönelik yeni saldırılar başlattığını duyurdu.",
-      "summary_tr": "CENTCOM, İran'ın Hürmüz Boğazı'nda seyrüsefer serbestisini tehdit ettiği ve ticari gemileri hedef aldığı gerekçesiyle ABD'nin bu ülkeye yönelik yeni saldırılar başlattığını duyurdu.",
-      "long_summary": "CENTCOM, İran'ın Hürmüz Boğazı'nda seyrüsefer serbestisini tehdit ettiği ve ticari gemileri hedef aldığı gerekçesiyle ABD'nin bu ülkeye yönelik yeni saldırılar başlattığını duyurdu.",
-      "long_summary_tr": "CENTCOM, İran'ın Hürmüz Boğazı'nda seyrüsefer serbestisini tehdit ettiği ve ticari gemileri hedef aldığı gerekçesiyle ABD'nin bu ülkeye yönelik yeni saldırılar başlattığını duyurdu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/trump-talimati-verdi-iran-a-yonelik-yeni-saldirilar-baslatildi-3782407",
-      "image": null,
-      "published_at": "2026-07-08T21:13:18+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Amazon, AWS için Claude uygulamaları ağ geçidini başlattı",
-      "title_tr": "Amazon, AWS için Claude uygulamaları ağ geçidini başlattı",
-      "summary": "Amazon, AWS için Claude uygulamaları ağ geçidini başlattı",
-      "summary_tr": "Amazon, AWS için Claude uygulamaları ağ geçidini başlattı",
-      "long_summary": "Amazon, AWS için Claude uygulamaları ağ geçidini başlattı",
-      "long_summary_tr": "Amazon, AWS için Claude uygulamaları ağ geçidini başlattı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/amazon-aws-icin-claude-uygulamalar-ag-gecidini-baslatt-93CH-3972408",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:10:46+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Profesyonel Takımlar MHK Tarafından Bilgilendirilecek",
-      "title_tr": "Profesyonel Takımlar MHK Tarafından Bilgilendirilecek",
-      "summary": "2026 FIFA Dünya Kupası'nda ilk kez uygulanmaya başlanan yeni oyun kurallarına ilişkin uygulama esasları, UEFA tarafından üye federasyonlara ve uluslararası görev alacak hakemlere resmi olarak iletildi.",
-      "summary_tr": "2026 FIFA Dünya Kupası'nda ilk kez uygulanmaya başlanan yeni oyun kurallarına ilişkin uygulama esasları, UEFA tarafından üye federasyonlara ve uluslararası görev alacak hakemlere resmi olarak iletildi.",
-      "long_summary": "2026 FIFA Dünya Kupası'nda ilk kez uygulanmaya başlanan yeni oyun kurallarına ilişkin uygulama esasları, UEFA tarafından üye federasyonlara ve uluslararası görev alacak hakemlere resmi olarak iletildi.",
-      "long_summary_tr": "2026 FIFA Dünya Kupası'nda ilk kez uygulanmaya başlanan yeni oyun kurallarına ilişkin uygulama esasları, UEFA tarafından üye federasyonlara ve uluslararası görev alacak hakemlere resmi olarak iletildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/profesyonel-takimlar-mhk-tarafindan-bilgilendirilecek",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/spor/profesyonel-takimlar-mhk-tarafindan-bilgilendirilecek-2.JPG",
-      "published_at": "2026-07-08T21:10:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Furkan Elmas, Muğla’da Ter Döktü",
-      "title_tr": "Furkan Elmas, Muğla’da Ter Döktü",
-      "summary": "Yalovalı hentbolcu Furkan Elmas, Muğla’nın Köyceğiz ilçesinde düzenlenen Türkiye Üniversiteler Arası 29. Yaşar Sevim Plaj Hentbolu Turnuvası’nda ter döktü.",
-      "summary_tr": "Yalovalı hentbolcu Furkan Elmas, Muğla’nın Köyceğiz ilçesinde düzenlenen Türkiye Üniversiteler Arası 29. Yaşar Sevim Plaj Hentbolu Turnuvası’nda ter döktü.",
-      "long_summary": "Yalovalı hentbolcu Furkan Elmas, Muğla’nın Köyceğiz ilçesinde düzenlenen Türkiye Üniversiteler Arası 29. Yaşar Sevim Plaj Hentbolu Turnuvası’nda ter döktü.",
-      "long_summary_tr": "Yalovalı hentbolcu Furkan Elmas, Muğla’nın Köyceğiz ilçesinde düzenlenen Türkiye Üniversiteler Arası 29. Yaşar Sevim Plaj Hentbolu Turnuvası’nda ter döktü.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/furkan-elmas-muglada-ter-doktu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/spor/furkan-elmas-muglada-ter-doktu-2.jpeg",
-      "published_at": "2026-07-08T21:09:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Eylül ve Arkadaşları Avrupa Şampiyonası’na Galibiyetle Başladı",
-      "title_tr": "Eylül ve Arkadaşları Avrupa Şampiyonası’na Galibiyetle Başladı",
-      "summary": "Yalovalı Milli voleybolcumuz Eylül Durgun’un kadrosunda yer aldığı 22 Yaş Altı Kadın Milli Takımı, 07-12 Temmuz 2026 tarihleri arasında Hollanda’nın ev sahipliğinde düzenlenecek U22 Kadınlar Avrupa Şampiyonası’na galibiyetle başladı.",
-      "summary_tr": "Yalovalı Milli voleybolcumuz Eylül Durgun’un kadrosunda yer aldığı 22 Yaş Altı Kadın Milli Takımı, 07-12 Temmuz 2026 tarihleri arasında Hollanda’nın ev sahipliğinde düzenlenecek U22 Kadınlar Avrupa Şampiyonası’na galibiyetle başladı.",
-      "long_summary": "Yalovalı Milli voleybolcumuz Eylül Durgun’un kadrosunda yer aldığı 22 Yaş Altı Kadın Milli Takımı, 07-12 Temmuz 2026 tarihleri arasında Hollanda’nın ev sahipliğinde düzenlenecek U22 Kadınlar Avrupa Şampiyonası’na galibiyetle başladı.",
-      "long_summary_tr": "Yalovalı Milli voleybolcumuz Eylül Durgun’un kadrosunda yer aldığı 22 Yaş Altı Kadın Milli Takımı, 07-12 Temmuz 2026 tarihleri arasında Hollanda’nın ev sahipliğinde düzenlenecek U22 Kadınlar Avrupa Şampiyonası’na galibiyetle başladı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/eylul-ve-arkadaslari-avrupa-sampiyonasina-galibiyetle-basladi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/spor/eylul-ve-arkadaslari-avrupa-sampiyonasina-galibiyetle-basladi-2.jpg",
-      "published_at": "2026-07-08T21:08:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "OpenAI ulusal güvenlik ilkelerini yayınladı",
-      "title_tr": "OpenAI ulusal güvenlik ilkelerini yayınladı",
-      "summary": "OpenAI ulusal güvenlik ilkelerini yayınladı",
-      "summary_tr": "OpenAI ulusal güvenlik ilkelerini yayınladı",
-      "long_summary": "OpenAI ulusal güvenlik ilkelerini yayınladı",
-      "long_summary_tr": "OpenAI ulusal güvenlik ilkelerini yayınladı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/openai-ulusal-guvenlik-ilkelerini-yaynlad-93CH-3972402",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:07:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Belediyeli Güreşçilerden Büyük Başarı",
-      "title_tr": "Belediyeli Güreşçilerden Büyük Başarı",
-      "summary": "Türkiye Güreş Federasyonu Yalova İl Temsilciğinin 2026 faaliyetleri kapsamında ki 9-14 Yaş Minikler Türkiye Şampiyonası İl Seçmelerinde mücadele eden Yalova Belediyesporlu sporcular kürsüye ambargo koydu.",
-      "summary_tr": "Türkiye Güreş Federasyonu Yalova İl Temsilciğinin 2026 faaliyetleri kapsamında ki 9-14 Yaş Minikler Türkiye Şampiyonası İl Seçmelerinde mücadele eden Yalova Belediyesporlu sporcular kürsüye ambargo koydu.",
-      "long_summary": "Türkiye Güreş Federasyonu Yalova İl Temsilciğinin 2026 faaliyetleri kapsamında ki 9-14 Yaş Minikler Türkiye Şampiyonası İl Seçmelerinde mücadele eden Yalova Belediyesporlu sporcular kürsüye ambargo koydu.",
-      "long_summary_tr": "Türkiye Güreş Federasyonu Yalova İl Temsilciğinin 2026 faaliyetleri kapsamında ki 9-14 Yaş Minikler Türkiye Şampiyonası İl Seçmelerinde mücadele eden Yalova Belediyesporlu sporcular kürsüye ambargo koydu.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/belediyeli-gurescilerden-buyuk-basari",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/spor/belediyeli-gurescilerden-buyuk-basari-1.jpg",
-      "published_at": "2026-07-08T21:07:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Meta Kanada’da 13 milyar dolarlık veri merkezi inşaatına başladı",
-      "title_tr": "Meta Kanada’da 13 milyar dolarlık veri merkezi inşaatına başladı",
-      "summary": "Meta Kanada’da 13 milyar dolarlık veri merkezi inşaatına başladı",
-      "summary_tr": "Meta Kanada’da 13 milyar dolarlık veri merkezi inşaatına başladı",
-      "long_summary": "Meta Kanada’da 13 milyar dolarlık veri merkezi inşaatına başladı",
-      "long_summary_tr": "Meta Kanada’da 13 milyar dolarlık veri merkezi inşaatına başladı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/meta-kanadada-13-milyar-dolarlk-veri-merkezi-insaatna-baslad-93CH-3972400",
-      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "published_at": "2026-07-08T21:06:49+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Başkan Gürel, Asfalt Çalışmalarını Yerinde İnceledi",
-      "title_tr": "Başkan Gürel, Asfalt Çalışmalarını Yerinde İnceledi",
-      "summary": "Yalova Belediye Başkanı Mehmet Gürel, Kadıköy Belediyesi iş birliğinde Doğu Sırtı Caddesi'nde sürdürülen asfalt çalışmalarını yerinde inceleyerek yürütülen çalışmalar hakkında yetkililerden bilgi aldı.",
-      "summary_tr": "Yalova Belediye Başkanı Mehmet Gürel, Kadıköy Belediyesi iş birliğinde Doğu Sırtı Caddesi'nde sürdürülen asfalt çalışmalarını yerinde inceleyerek yürütülen çalışmalar hakkında yetkililerden bilgi aldı.",
-      "long_summary": "Yalova Belediye Başkanı Mehmet Gürel, Kadıköy Belediyesi iş birliğinde Doğu Sırtı Caddesi'nde sürdürülen asfalt çalışmalarını yerinde inceleyerek yürütülen çalışmalar hakkında yetkililerden bilgi aldı.",
-      "long_summary_tr": "Yalova Belediye Başkanı Mehmet Gürel, Kadıköy Belediyesi iş birliğinde Doğu Sırtı Caddesi'nde sürdürülen asfalt çalışmalarını yerinde inceleyerek yürütülen çalışmalar hakkında yetkililerden bilgi aldı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/baskan-gurel-asfalt-calismalarini-yerinde-inceledi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/yalova-kadikoy-belediye-ortaklik-dogu-sirti-cadde-asfalt-1.jpeg",
-      "published_at": "2026-07-08T21:06:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Başkan Avni Kurt, Mahalle Muhtarlarıyla Bir Araya Geldi",
-      "title_tr": "Başkan Avni Kurt, Mahalle Muhtarlarıyla Bir Araya Geldi",
-      "summary": "Çınarcık Belediye Başkanı Avni Kurt, ilçede görev yapan mahalle muhtarlarıyla bir araya gelerek mahallelerin ihtiyaçlarını ve belediyenin yürüttüğü çalışmaları değerlendirdi. Toplantının sonunda muhtarlara, semt pazarındaki sebze ve meyve atıklarından üretilen organik gübre hediye edildi.",
-      "summary_tr": "Çınarcık Belediye Başkanı Avni Kurt, ilçede görev yapan mahalle muhtarlarıyla bir araya gelerek mahallelerin ihtiyaçlarını ve belediyenin yürüttüğü çalışmaları değerlendirdi. Toplantının sonunda muhtarlara, semt pazarındaki sebze ve meyve atıklarından üretilen organik gübre hediye edildi.",
-      "long_summary": "Çınarcık Belediye Başkanı Avni Kurt, ilçede görev yapan mahalle muhtarlarıyla bir araya gelerek mahallelerin ihtiyaçlarını ve belediyenin yürüttüğü çalışmaları değerlendirdi. Toplantının sonunda muhtarlara, semt pazarındaki sebze ve meyve atıklarından üretilen organik gübre hediye edildi.",
-      "long_summary_tr": "Çınarcık Belediye Başkanı Avni Kurt, ilçede görev yapan mahalle muhtarlarıyla bir araya gelerek mahallelerin ihtiyaçlarını ve belediyenin yürüttüğü çalışmaları değerlendirdi. Toplantının sonunda muhtarlara, semt pazarındaki sebze ve meyve atıklarından üretilen organik gübre hediye edildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/baskan-avni-kurt-mahalle-muhtarlariyla-bir-araya-geldi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/yalova-cinarcik-belediye-baskan-muhtarlar-gorusme.jpg",
-      "published_at": "2026-07-08T21:05:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "This 48V 500W Adult Electric Scooter and Bike Hybrid With 22.5Ah Battery (49 Mile Range) Drops to $151.63",
-      "title_tr": "This 48V 500W Adult Electric Scooter and Bike Hybrid With 22.5Ah Battery (49 Mile Range) Drops to $151.63",
-      "summary": "Additional features include a foldable design, 21mph top speed, and 14\" wheels for tackling uneven terrain.",
-      "summary_tr": "Additional features include a foldable design, 21mph top speed, and 14\" wheels for tackling uneven terrain.",
-      "long_summary": "Additional features include a foldable design, 21mph top speed, and 14\" wheels for tackling uneven terrain.",
-      "long_summary_tr": "Additional features include a foldable design, 21mph top speed, and 14\" wheels for tackling uneven terrain.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/daily-deals-aovopro-48v-500w-electric-scooter-bike-hybrid-deal",
-      "image": "https://assets-prd.ignimgs.com/2026/07/08/aovoprobikescooter-1783542232323.jpg",
-      "published_at": "2026-07-08T21:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Çiftlikköy Belediyesi Sıfır Atık Merkezi’nde Miniklere Çevre Eğitimi",
-      "title_tr": "Çiftlikköy Belediyesi Sıfır Atık Merkezi’nde Miniklere Çevre Eğitimi",
-      "summary": "Çiftlikköy Belediyesi 1. Sınıf Atık Getirme Merkezi’ni ziyaret eden Bilim Fikir Anaokulu öğrencileri, sıfır atık ve geri dönüşüm kavramlarını yerinde öğrendi. 40 minik öğrenci, iki sınıf halinde yaptıkları tesis gezisinde yanlarında getirdikleri atıkları da geri dönüşüme kazandırılmak üzere tesise bıraktı.",
-      "summary_tr": "Çiftlikköy Belediyesi 1. Sınıf Atık Getirme Merkezi’ni ziyaret eden Bilim Fikir Anaokulu öğrencileri, sıfır atık ve geri dönüşüm kavramlarını yerinde öğrendi. 40 minik öğrenci, iki sınıf halinde yaptıkları tesis gezisinde yanlarında getirdikleri atıkları da geri dönüşüme kazandırılmak üzere tesise bıraktı.",
-      "long_summary": "Çiftlikköy Belediyesi 1. Sınıf Atık Getirme Merkezi’ni ziyaret eden Bilim Fikir Anaokulu öğrencileri, sıfır atık ve geri dönüşüm kavramlarını yerinde öğrendi. 40 minik öğrenci, iki sınıf halinde yaptıkları tesis gezisinde yanlarında getirdikleri atıkları da geri dönüşüme kazandırılmak üzere tesise bıraktı.",
-      "long_summary_tr": "Çiftlikköy Belediyesi 1. Sınıf Atık Getirme Merkezi’ni ziyaret eden Bilim Fikir Anaokulu öğrencileri, sıfır atık ve geri dönüşüm kavramlarını yerinde öğrendi. 40 minik öğrenci, iki sınıf halinde yaptıkları tesis gezisinde yanlarında getirdikleri atıkları da geri dönüşüme kazandırılmak üzere tesise bıraktı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/ciftlikkoy-belediyesi-sifir-atik-merkezinde-miniklere-cevre-egitimi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/yalova-ciftlikkoy-belediye-sifir-atik-merkez-anaokulu-ogrenciler-cevre-egitim-2.jpeg",
-      "published_at": "2026-07-08T21:04:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Yalova’da Etiket Denetimlerinde 222 Bin Lira Ceza Kesildi",
-      "title_tr": "Yalova’da Etiket Denetimlerinde 222 Bin Lira Ceza Kesildi",
-      "summary": "Haziran ayında Yalova’da 253 firma ve 13 bin 61 ürün denetlendi. Mevzuata aykırı uygulamalar tespit edilen 50 firmaya 222 bin 488 TL idari para cezası kesildi.",
-      "summary_tr": "Haziran ayında Yalova’da 253 firma ve 13 bin 61 ürün denetlendi. Mevzuata aykırı uygulamalar tespit edilen 50 firmaya 222 bin 488 TL idari para cezası kesildi.",
-      "long_summary": "Haziran ayında Yalova’da 253 firma ve 13 bin 61 ürün denetlendi. Mevzuata aykırı uygulamalar tespit edilen 50 firmaya 222 bin 488 TL idari para cezası kesildi.",
-      "long_summary_tr": "Haziran ayında Yalova’da 253 firma ve 13 bin 61 ürün denetlendi. Mevzuata aykırı uygulamalar tespit edilen 50 firmaya 222 bin 488 TL idari para cezası kesildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/yalovada-etiket-denetimlerinde-222-bin-lira-ceza-kesildi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/yalovada-etiket-denetimlerinde-222-bin-lira-ceza-kesildi-2.jpg",
-      "published_at": "2026-07-08T21:03:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Vali Usta, Örencik-2 Göleti’nde İncelemelerde Bulundu",
-      "title_tr": "Vali Usta, Örencik-2 Göleti’nde İncelemelerde Bulundu",
-      "summary": "Yalova Valisi Dr. Ahmet Hamdi Usta, Örencik’teki gölet yatırımlarını yerinde inceledi.",
-      "summary_tr": "Yalova Valisi Dr. Ahmet Hamdi Usta, Örencik’teki gölet yatırımlarını yerinde inceledi.",
-      "long_summary": "Yalova Valisi Dr. Ahmet Hamdi Usta, Örencik’teki gölet yatırımlarını yerinde inceledi.",
-      "long_summary_tr": "Yalova Valisi Dr. Ahmet Hamdi Usta, Örencik’teki gölet yatırımlarını yerinde inceledi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/vali-usta-orencik-2-goletinde-incelemelerde-bulundu",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/vali-usta-orencik-2-goletinde-incelemelerde-bulundu-1.jpg",
-      "published_at": "2026-07-08T21:02:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Şenköy Pazarı Yenilendi",
-      "title_tr": "Şenköy Pazarı Yenilendi",
-      "summary": "İl Özel İdaresi tarafından Şenköy Organik Köylü Pazarı’na kazandırılan gölgelendirme sistemi hizmete alındı.",
-      "summary_tr": "İl Özel İdaresi tarafından Şenköy Organik Köylü Pazarı’na kazandırılan gölgelendirme sistemi hizmete alındı.",
-      "long_summary": "İl Özel İdaresi tarafından Şenköy Organik Köylü Pazarı’na kazandırılan gölgelendirme sistemi hizmete alındı.",
-      "long_summary_tr": "İl Özel İdaresi tarafından Şenköy Organik Köylü Pazarı’na kazandırılan gölgelendirme sistemi hizmete alındı.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/senkoy-pazari-yenilendi",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/senkoy-pazari-yenilendi-3.jpg",
-      "published_at": "2026-07-08T21:01:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "New York borsası karışık seyirle kapandı",
-      "title_tr": "New York borsası karışık seyirle kapandı",
-      "summary": "New York borsası, artan jeopolitik gerilimlerin gölgesinde günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 1,09 azalarak 52.348,39 puana indi. S&amp;P 500 endeksi yüzde 0,28 azalışla 7.482,71 puana gerilerken, Nasdaq endeksi yüzde 0,2 artışla 25.870,65 puana yükseldi.",
-      "summary_tr": "New York borsası, artan jeopolitik gerilimlerin gölgesinde günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 1,09 azalarak 52.348,39 puana indi. S&amp;P 500 endeksi yüzde 0,28 azalışla 7.482,71 puana gerilerken, Nasdaq endeksi yüzde 0,2 artışla 25.870,65 puana yükseldi.",
-      "long_summary": "New York borsası, artan jeopolitik gerilimlerin gölgesinde günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 1,09 azalarak 52.348,39 puana indi. S&amp;P 500 endeksi yüzde 0,28 azalışla 7.482,71 puana gerilerken, Nasdaq endeksi yüzde 0,2 artışla 25.870,65 puana yükseldi.",
-      "long_summary_tr": "New York borsası, artan jeopolitik gerilimlerin gölgesinde günü karışık seyirle tamamladı. Kapanışta Dow Jones endeksi, yüzde 1,09 azalarak 52.348,39 puana indi. S&amp;P 500 endeksi yüzde 0,28 azalışla 7.482,71 puana gerilerken, Nasdaq endeksi yüzde 0,2 artışla 25.870,65 puana yükseldi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/haberler/new-york-borsasi-karisik-seyirle-kapandi-haberi-831550",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/09/bor-r183_cover.jpg",
-      "published_at": "2026-07-08T21:01:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Runways Are Making the Case for Messy Jewelry",
-      "title_tr": "The Runways Are Making the Case for Messy Jewelry",
-      "summary": "Pile-it-all-on necklaces are all the rage at Chanel, Gucci, and Dior.",
-      "summary_tr": "Pile-it-all-on necklaces are all the rage at Chanel, Gucci, and Dior.",
-      "long_summary": "Pile-it-all-on necklaces are all the rage at Chanel, Gucci, and Dior.",
-      "long_summary_tr": "Pile-it-all-on necklaces are all the rage at Chanel, Gucci, and Dior.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/jewelry/a71853387/tangled-necklace-jewelry-trend-runway-shop-chanel-dior/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/a5eadcc3-e1d6-48d4-ad47-d42dc01a22b4.jpg",
-      "published_at": "2026-07-08T21:00:20+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Spotify Beklenen Özelliği Duyurdu: Sabitleme Sınırı Artırıldı",
-      "title_tr": "Spotify Beklenen Özelliği Duyurdu: Sabitleme Sınırı Artırıldı",
-      "summary": "Müzik ve podcast akış platformu Spotify, kullanıcıların yıllardır en çok talep ettiği özelliklerden biri olan kitaplık sabitleme limitinde büyük bir artış yapıyor. Bugüne kadar kitaplığınızın üst kısmında yalnızca dört ögeyi sabitlemenize izin veren platform, 8 Temmuz 2026 itibarıyla bu sınırı yirmiye çıkarıyor. Geniş bir müzik kütüphanesine sahip olan veya podcast’ler ile sesli kitaplar arasında sıkça […]",
-      "summary_tr": "Müzik ve podcast akış platformu Spotify, kullanıcıların yıllardır en çok talep ettiği özelliklerden biri olan kitaplık sabitleme limitinde büyük bir artış yapıyor. Bugüne kadar kitaplığınızın üst kısmında yalnızca dört ögeyi sabitlemenize izin veren platform, 8 Temmuz 2026 itibarıyla bu sınırı yirmiye çıkarıyor. Geniş bir müzik kütüphanesine sahip olan veya podcast’ler ile sesli kitaplar arasında sıkça […]",
-      "long_summary": "Müzik ve podcast akış platformu Spotify, kullanıcıların yıllardır en çok talep ettiği özelliklerden biri olan kitaplık sabitleme limitinde büyük bir artış yapıyor. Bugüne kadar kitaplığınızın üst kısmında yalnızca dört ögeyi sabitlemenize izin veren platform, 8 Temmuz 2026 itibarıyla bu sınırı yirmiye çıkarıyor. Geniş bir müzik kütüphanesine sahip olan veya podcast’ler ile sesli kitaplar arasında sıkça […]",
-      "long_summary_tr": "Müzik ve podcast akış platformu Spotify, kullanıcıların yıllardır en çok talep ettiği özelliklerden biri olan kitaplık sabitleme limitinde büyük bir artış yapıyor. Bugüne kadar kitaplığınızın üst kısmında yalnızca dört ögeyi sabitlemenize izin veren platform, 8 Temmuz 2026 itibarıyla bu sınırı yirmiye çıkarıyor. Geniş bir müzik kütüphanesine sahip olan veya podcast’ler ile sesli kitaplar arasında sıkça […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/spotify-beklenen-ozelligi-duyurdu-sabitleme-siniri-artirildi",
-      "image": null,
-      "published_at": "2026-07-08T21:00:15+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Yalova Gazetesi",
-      "title": "Armutlu Limanı Yeni Sezona Hazırlanıyor",
-      "title_tr": "Armutlu Limanı Yeni Sezona Hazırlanıyor",
-      "summary": "Armutlu Limanı’nda 2026 balıkçılık sezonu öncesi sürdürülen güçlendirme çalışmalarının, balıkçılara daha güvenli ve modern hizmet sunması hedefleniyor.",
-      "summary_tr": "Armutlu Limanı’nda 2026 balıkçılık sezonu öncesi sürdürülen güçlendirme çalışmalarının, balıkçılara daha güvenli ve modern hizmet sunması hedefleniyor.",
-      "long_summary": "Armutlu Limanı’nda 2026 balıkçılık sezonu öncesi sürdürülen güçlendirme çalışmalarının, balıkçılara daha güvenli ve modern hizmet sunması hedefleniyor.",
-      "long_summary_tr": "Armutlu Limanı’nda 2026 balıkçılık sezonu öncesi sürdürülen güçlendirme çalışmalarının, balıkçılara daha güvenli ve modern hizmet sunması hedefleniyor.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.yalovagazetesi.com/armutlu-limani-yeni-sezona-hazirlaniyor",
-      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/07/haber/armutlu-limani-yeni-sezona-hazirlaniyor-1.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Nakliye devlerinin Süveyş’e dönüşüne ‘Trump’ engeli",
-      "title_tr": "Nakliye devlerinin Süveyş’e dönüşüne ‘Trump’ engeli",
-      "summary": "Denizcilik devleri Maersk ve Hapag-Lloyd hafta başında Süveyş’e dönüş kararı aldı. Bu durum piyasada “navlunlar düşecek” beklentisine yol açtı. Ancak ABD ile İran arasındaki gerginliğin yeniden alevlenmesi ve ABD Başkanı Trump&#039;ın açıklamaları endişeleri artırdı. Sektör temsilcileri, artan jeopolitik riskler ve petrol fiyatları nedeniyle navlunda kısa vadede dramatik bir düşüş beklemiyor.",
-      "summary_tr": "Denizcilik devleri Maersk ve Hapag-Lloyd hafta başında Süveyş’e dönüş kararı aldı. Bu durum piyasada “navlunlar düşecek” beklentisine yol açtı. Ancak ABD ile İran arasındaki gerginliğin yeniden alevlenmesi ve ABD Başkanı Trump&#039;ın açıklamaları endişeleri artırdı. Sektör temsilcileri, artan jeopolitik riskler ve petrol fiyatları nedeniyle navlunda kısa vadede dramatik bir düşüş beklemiyor.",
-      "long_summary": "Denizcilik devleri Maersk ve Hapag-Lloyd hafta başında Süveyş’e dönüş kararı aldı. Bu durum piyasada “navlunlar düşecek” beklentisine yol açtı. Ancak ABD ile İran arasındaki gerginliğin yeniden alevlenmesi ve ABD Başkanı Trump&#039;ın açıklamaları endişeleri artırdı. Sektör temsilcileri, artan jeopolitik riskler ve petrol fiyatları nedeniyle navlunda kısa vadede dramatik bir düşüş beklemiyor.",
-      "long_summary_tr": "Denizcilik devleri Maersk ve Hapag-Lloyd hafta başında Süveyş’e dönüş kararı aldı. Bu durum piyasada “navlunlar düşecek” beklentisine yol açtı. Ancak ABD ile İran arasındaki gerginliğin yeniden alevlenmesi ve ABD Başkanı Trump&#039;ın açıklamaları endişeleri artırdı. Sektör temsilcileri, artan jeopolitik riskler ve petrol fiyatları nedeniyle navlunda kısa vadede dramatik bir düşüş beklemiyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/lojistik/nakliye-devlerinin-suveyse-donusune-trump-engeli-haberi-831520",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/vv1-9oo6_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Savunma sanayi ihracatında 30 milyar dolar ufukta göründü",
-      "title_tr": "Savunma sanayi ihracatında 30 milyar dolar ufukta göründü",
-      "summary": "CAATSA yaptırımları kalkınca Türkiye’nin üçüncü ülkelere araç ve ekipman satışı hız kazanacak. Risk primi ve borçlanma maliyeti düşecek, yabancı yatı­rımcı artacak. Önümüz­deki dönemde savunma sanayiinde hızlı ve seri üretim, hızlı inovasyon ve hızlı teslimat sayesin­de 2030’da 30 milyar do­larlık ihracat mümkün.",
-      "summary_tr": "CAATSA yaptırımları kalkınca Türkiye’nin üçüncü ülkelere araç ve ekipman satışı hız kazanacak. Risk primi ve borçlanma maliyeti düşecek, yabancı yatı­rımcı artacak. Önümüz­deki dönemde savunma sanayiinde hızlı ve seri üretim, hızlı inovasyon ve hızlı teslimat sayesin­de 2030’da 30 milyar do­larlık ihracat mümkün.",
-      "long_summary": "CAATSA yaptırımları kalkınca Türkiye’nin üçüncü ülkelere araç ve ekipman satışı hız kazanacak. Risk primi ve borçlanma maliyeti düşecek, yabancı yatı­rımcı artacak. Önümüz­deki dönemde savunma sanayiinde hızlı ve seri üretim, hızlı inovasyon ve hızlı teslimat sayesin­de 2030’da 30 milyar do­larlık ihracat mümkün.",
-      "long_summary_tr": "CAATSA yaptırımları kalkınca Türkiye’nin üçüncü ülkelere araç ve ekipman satışı hız kazanacak. Risk primi ve borçlanma maliyeti düşecek, yabancı yatı­rımcı artacak. Önümüz­deki dönemde savunma sanayiinde hızlı ve seri üretim, hızlı inovasyon ve hızlı teslimat sayesin­de 2030’da 30 milyar do­larlık ihracat mümkün.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/savunma-sanayi-ihracatinda-30-milyar-dolar-ufukta-gorundu-haberi-831522",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/ff1-jx3z_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD Başkanı Trump: İran beni ortadan kaldırmak istiyor, anlaşmak istemiyorum",
-      "title_tr": "ABD Başkanı Trump: İran beni ortadan kaldırmak istiyor, anlaşmak istemiyorum",
-      "summary": "ABD ve İran arasında önceki gün gerçekleşen saldırılar sonrası Donald Trump’tan sert açıklamalar geldi. İran ile mutabakata ilişkin “Benim için bitti” diyen Trump, İran’ın kendisini ortadan kaldırmak istediğini öne de sürdü. Trump, &quot;Zaten onlarla uğraşmak istemiyorum ama onlar aşağılık mahluklar. Onlar hasta insanlar&quot; dedi.",
-      "summary_tr": "ABD ve İran arasında önceki gün gerçekleşen saldırılar sonrası Donald Trump’tan sert açıklamalar geldi. İran ile mutabakata ilişkin “Benim için bitti” diyen Trump, İran’ın kendisini ortadan kaldırmak istediğini öne de sürdü. Trump, &quot;Zaten onlarla uğraşmak istemiyorum ama onlar aşağılık mahluklar. Onlar hasta insanlar&quot; dedi.",
-      "long_summary": "ABD ve İran arasında önceki gün gerçekleşen saldırılar sonrası Donald Trump’tan sert açıklamalar geldi. İran ile mutabakata ilişkin “Benim için bitti” diyen Trump, İran’ın kendisini ortadan kaldırmak istediğini öne de sürdü. Trump, &quot;Zaten onlarla uğraşmak istemiyorum ama onlar aşağılık mahluklar. Onlar hasta insanlar&quot; dedi.",
-      "long_summary_tr": "ABD ve İran arasında önceki gün gerçekleşen saldırılar sonrası Donald Trump’tan sert açıklamalar geldi. İran ile mutabakata ilişkin “Benim için bitti” diyen Trump, İran’ın kendisini ortadan kaldırmak istediğini öne de sürdü. Trump, &quot;Zaten onlarla uğraşmak istemiyorum ama onlar aşağılık mahluklar. Onlar hasta insanlar&quot; dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/dunya/abd-baskani-trump-iran-beni-ortadan-kaldirmak-istiyor-anlasmak-istemiyorum-haberi-831526",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/aaaa-6a1y_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "SEDDK Başkan Yardımcısı Kurtulan: Takaful’da bölgesel merkez olmayı hedefliyoruz",
-      "title_tr": "SEDDK Başkan Yardımcısı Kurtulan: Takaful’da bölgesel merkez olmayı hedefliyoruz",
-      "summary": "ABD-İran geriliminin bölgeye yansımasının bir sonucu olarak DWIC Dubai Dünya Sigorta Zirvesi’nin adresi Türkiye oldu. SEDDK Başkan Yardımcısı Ali Burak Kurtulan, Takaful modeli için kapsamlı bir altyapı kurduklarını belirterek, “Türkiye’yi Takaful için bölgesel bir merkez haline getirmeyi, uluslararası yatırımcılar için son derece cazip bir ekosistem oluşturmayı hedefliyoruz” dedi.",
-      "summary_tr": "ABD-İran geriliminin bölgeye yansımasının bir sonucu olarak DWIC Dubai Dünya Sigorta Zirvesi’nin adresi Türkiye oldu. SEDDK Başkan Yardımcısı Ali Burak Kurtulan, Takaful modeli için kapsamlı bir altyapı kurduklarını belirterek, “Türkiye’yi Takaful için bölgesel bir merkez haline getirmeyi, uluslararası yatırımcılar için son derece cazip bir ekosistem oluşturmayı hedefliyoruz” dedi.",
-      "long_summary": "ABD-İran geriliminin bölgeye yansımasının bir sonucu olarak DWIC Dubai Dünya Sigorta Zirvesi’nin adresi Türkiye oldu. SEDDK Başkan Yardımcısı Ali Burak Kurtulan, Takaful modeli için kapsamlı bir altyapı kurduklarını belirterek, “Türkiye’yi Takaful için bölgesel bir merkez haline getirmeyi, uluslararası yatırımcılar için son derece cazip bir ekosistem oluşturmayı hedefliyoruz” dedi.",
-      "long_summary_tr": "ABD-İran geriliminin bölgeye yansımasının bir sonucu olarak DWIC Dubai Dünya Sigorta Zirvesi’nin adresi Türkiye oldu. SEDDK Başkan Yardımcısı Ali Burak Kurtulan, Takaful modeli için kapsamlı bir altyapı kurduklarını belirterek, “Türkiye’yi Takaful için bölgesel bir merkez haline getirmeyi, uluslararası yatırımcılar için son derece cazip bir ekosistem oluşturmayı hedefliyoruz” dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/sigortacilik/seddk-baskan-yardimcisi-kurtulan-takafulda-bolgesel-merkez-olmayi-hedefliyoruz-haberi-831530",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/tt1-h7kd_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Astor Enerji’nden ABD’ye 42,5 milyon dolarlık ihracat",
-      "title_tr": "Astor Enerji’nden ABD’ye 42,5 milyon dolarlık ihracat",
-      "summary": "Astor Enerji, Amerika Birleşik Dev¬letleri’nde faaliyet gösteren bir şirketle yeni bir ihracat anlaşmasına imza attığını duyurdu.",
-      "summary_tr": "Astor Enerji, Amerika Birleşik Dev¬letleri’nde faaliyet gösteren bir şirketle yeni bir ihracat anlaşmasına imza attığını duyurdu.",
-      "long_summary": "Astor Enerji, Amerika Birleşik Dev¬letleri’nde faaliyet gösteren bir şirketle yeni bir ihracat anlaşmasına imza attığını duyurdu.",
-      "long_summary_tr": "Astor Enerji, Amerika Birleşik Dev¬letleri’nde faaliyet gösteren bir şirketle yeni bir ihracat anlaşmasına imza attığını duyurdu.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sirketler/astor-enerjinden-abdye-425-milyon-dolarlik-ihracat-haberi-831531",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/astor-ckqx_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Yeni merkez üssü Bursa olacak",
-      "title_tr": "Yeni merkez üssü Bursa olacak",
-      "summary": "Oyak-Renault, Bursa’daki fabrikasında Clio, Duster ve Boreal’ın ardından Dacia için de Striker üretimine başladı. Dacia Küresel Satış, Pazarlama ve Operasyonlardan Sorumlu Kıdemli Başkan Yardımcısı Frank Marotte, “İlk kez Türkiye’de yerel üretim yapan bir marka konumuna geliyoruz. Türkiye, Striker’ın merkez üssü olacak” dedi.",
-      "summary_tr": "Oyak-Renault, Bursa’daki fabrikasında Clio, Duster ve Boreal’ın ardından Dacia için de Striker üretimine başladı. Dacia Küresel Satış, Pazarlama ve Operasyonlardan Sorumlu Kıdemli Başkan Yardımcısı Frank Marotte, “İlk kez Türkiye’de yerel üretim yapan bir marka konumuna geliyoruz. Türkiye, Striker’ın merkez üssü olacak” dedi.",
-      "long_summary": "Oyak-Renault, Bursa’daki fabrikasında Clio, Duster ve Boreal’ın ardından Dacia için de Striker üretimine başladı. Dacia Küresel Satış, Pazarlama ve Operasyonlardan Sorumlu Kıdemli Başkan Yardımcısı Frank Marotte, “İlk kez Türkiye’de yerel üretim yapan bir marka konumuna geliyoruz. Türkiye, Striker’ın merkez üssü olacak” dedi.",
-      "long_summary_tr": "Oyak-Renault, Bursa’daki fabrikasında Clio, Duster ve Boreal’ın ardından Dacia için de Striker üretimine başladı. Dacia Küresel Satış, Pazarlama ve Operasyonlardan Sorumlu Kıdemli Başkan Yardımcısı Frank Marotte, “İlk kez Türkiye’de yerel üretim yapan bir marka konumuna geliyoruz. Türkiye, Striker’ın merkez üssü olacak” dedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/sektorler/otomotiv/yeni-merkez-ussu-bursa-olacak-haberi-831533",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/t1-lwmb_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Trump’ın İran resti küresel piyasaları salladı: Petrol fiyatları alev aldı, ons altın yeniden çözüldü",
-      "title_tr": "Trump’ın İran resti küresel piyasaları salladı: Petrol fiyatları alev aldı, ons altın yeniden çözüldü",
-      "summary": "ABD kanadından gelen &#039;İran ile anlaşma bozuldu&#039; açıklaması emtia piyasalarında yeni bir dalgalanmayı da beraberinde getirdi. Brent petrol yüzde 7’nin üzerinde değerlendi. Ons altında kayıp yüzde 3’e yaklaştı. BIST 100 Endeksi’nde kayıp 1’i geçti, Avrupa borsaları da dün gün boyunca satıcılı seyretti.",
-      "summary_tr": "ABD kanadından gelen &#039;İran ile anlaşma bozuldu&#039; açıklaması emtia piyasalarında yeni bir dalgalanmayı da beraberinde getirdi. Brent petrol yüzde 7’nin üzerinde değerlendi. Ons altında kayıp yüzde 3’e yaklaştı. BIST 100 Endeksi’nde kayıp 1’i geçti, Avrupa borsaları da dün gün boyunca satıcılı seyretti.",
-      "long_summary": "ABD kanadından gelen &#039;İran ile anlaşma bozuldu&#039; açıklaması emtia piyasalarında yeni bir dalgalanmayı da beraberinde getirdi. Brent petrol yüzde 7’nin üzerinde değerlendi. Ons altında kayıp yüzde 3’e yaklaştı. BIST 100 Endeksi’nde kayıp 1’i geçti, Avrupa borsaları da dün gün boyunca satıcılı seyretti.",
-      "long_summary_tr": "ABD kanadından gelen &#039;İran ile anlaşma bozuldu&#039; açıklaması emtia piyasalarında yeni bir dalgalanmayı da beraberinde getirdi. Brent petrol yüzde 7’nin üzerinde değerlendi. Ons altında kayıp yüzde 3’e yaklaştı. BIST 100 Endeksi’nde kayıp 1’i geçti, Avrupa borsaları da dün gün boyunca satıcılı seyretti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/trumpin-iran-resti-kuresel-piyasalari-salladi-petrol-fiyatlari-alev-aldi-ons-altin-yeniden-cozuldu-haberi-831536",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/09/x1-foed_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "EİB, ikinci yarının önceliklerini açıkladı: Egeli ihracatçı, rekabette yapısal destek bekliyor",
-      "title_tr": "EİB, ikinci yarının önceliklerini açıkladı: Egeli ihracatçı, rekabette yapısal destek bekliyor",
-      "summary": "Ege İhracatçı Birlikleri, yıllık ihracatını 19 milyar dolara çıkarırken, sektör temsilcileri yüksek üretim maliyetleri, finansmana erişim sıkıntısı, kur-enflasyon dengesi ve AB’nin yeni ticaret kurallarının ihracat üzerinde baskı oluşturduğunu belirterek destek mekanizmalarının güçlendirilmesini istedi.",
-      "summary_tr": "Ege İhracatçı Birlikleri, yıllık ihracatını 19 milyar dolara çıkarırken, sektör temsilcileri yüksek üretim maliyetleri, finansmana erişim sıkıntısı, kur-enflasyon dengesi ve AB’nin yeni ticaret kurallarının ihracat üzerinde baskı oluşturduğunu belirterek destek mekanizmalarının güçlendirilmesini istedi.",
-      "long_summary": "Ege İhracatçı Birlikleri, yıllık ihracatını 19 milyar dolara çıkarırken, sektör temsilcileri yüksek üretim maliyetleri, finansmana erişim sıkıntısı, kur-enflasyon dengesi ve AB’nin yeni ticaret kurallarının ihracat üzerinde baskı oluşturduğunu belirterek destek mekanizmalarının güçlendirilmesini istedi.",
-      "long_summary_tr": "Ege İhracatçı Birlikleri, yıllık ihracatını 19 milyar dolara çıkarırken, sektör temsilcileri yüksek üretim maliyetleri, finansmana erişim sıkıntısı, kur-enflasyon dengesi ve AB’nin yeni ticaret kurallarının ihracat üzerinde baskı oluşturduğunu belirterek destek mekanizmalarının güçlendirilmesini istedi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/eib-ikinci-yarinin-onceliklerini-acikladi-egeli-ihracatci-rekabette-yapisal-destek-bekliyor-haberi-831537",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/08/v1-g98r_cover.jpg",
-      "published_at": "2026-07-08T21:00:00+00:00"
     }
   ]
 }
