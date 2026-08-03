@@ -1,27 +1,181 @@
 {
-  "updated_at": "2026-08-03T19:49:16.556602+00:00",
+  "updated_at": "2026-08-03T21:15:10.113166+00:00",
   "articles": [
     {
       "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "BBC World",
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "title_tr": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "summary_tr": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "long_summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "long_summary_tr": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "source": "Sky Sports",
+      "title": "Nygren spares Hogh blushes as Celtic begin title defence with win",
+      "title_tr": "Nygren spares Hogh blushes as Celtic begin title defence with win",
+      "summary": "Celtic made a winning start to their Scottish Premiership title defence with a 1-0 victory over battling Dundee at Celtic Park.",
+      "summary_tr": "Celtic made a winning start to their Scottish Premiership title defence with a 1-0 victory over battling Dundee at Celtic Park.",
+      "long_summary": "Celtic made a winning start to their Scottish Premiership title defence with a 1-0 victory over battling Dundee at Celtic Park.",
+      "long_summary_tr": "Celtic made a winning start to their Scottish Premiership title defence with a 1-0 victory over battling Dundee at Celtic Park.",
       "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d360/live/bb60c530-8f6b-11f1-9cfc-0bfd2f6018a1.jpg",
-      "published_at": "2026-08-03T19:42:55+00:00"
+      "url": "https://www.skysports.com/football/celtic-vs-dundee/report/558338",
+      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-benjamin-nygren-celtic_7313248.jpg?20260803204752",
+      "published_at": "2026-08-03T21:20:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalovalı Yüzücüler, ANALİG Mücadelesi Verdi",
+      "title_tr": "Yalovalı Yüzücüler, ANALİG Mücadelesi Verdi",
+      "summary": "Gençlik ve Spor Bakanlığı’nın büyük önem verdiği projeleri arasında yer alan Anadolu Yıldızlar Ligi(ANALİG) Yüzme 1. Etap 1. Grup müsabakalarında ilimizi Yalova Gençlik ve Spor Kulübü’nün sporcuları başarıyla temsil etti.",
+      "summary_tr": "Gençlik ve Spor Bakanlığı’nın büyük önem verdiği projeleri arasında yer alan Anadolu Yıldızlar Ligi(ANALİG) Yüzme 1. Etap 1. Grup müsabakalarında ilimizi Yalova Gençlik ve Spor Kulübü’nün sporcuları başarıyla temsil etti.",
+      "long_summary": "Gençlik ve Spor Bakanlığı’nın büyük önem verdiği projeleri arasında yer alan Anadolu Yıldızlar Ligi(ANALİG) Yüzme 1. Etap 1. Grup müsabakalarında ilimizi Yalova Gençlik ve Spor Kulübü’nün sporcuları başarıyla temsil etti.",
+      "long_summary_tr": "Gençlik ve Spor Bakanlığı’nın büyük önem verdiği projeleri arasında yer alan Anadolu Yıldızlar Ligi(ANALİG) Yüzme 1. Etap 1. Grup müsabakalarında ilimizi Yalova Gençlik ve Spor Kulübü’nün sporcuları başarıyla temsil etti.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovali-yuzuculer-analig-mucadelesi-verdi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/spor/yalovali-yuzuculer-analig-mucadelesi-verdi-3-1.jpg",
+      "published_at": "2026-08-03T21:10:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Satranç 2. Ligi’nde Hamleler Bugün Atılacak",
+      "title_tr": "Satranç 2. Ligi’nde Hamleler Bugün Atılacak",
+      "summary": "Yalova Belediyespor ve Altınkale Satranç Spor Kulübü’nün de mücadele edeceği Türkiye Satranç İkinci Ligi müsabakaları bugün başlıyor.",
+      "summary_tr": "Yalova Belediyespor ve Altınkale Satranç Spor Kulübü’nün de mücadele edeceği Türkiye Satranç İkinci Ligi müsabakaları bugün başlıyor.",
+      "long_summary": "Yalova Belediyespor ve Altınkale Satranç Spor Kulübü’nün de mücadele edeceği Türkiye Satranç İkinci Ligi müsabakaları bugün başlıyor.",
+      "long_summary_tr": "Yalova Belediyespor ve Altınkale Satranç Spor Kulübü’nün de mücadele edeceği Türkiye Satranç İkinci Ligi müsabakaları bugün başlıyor.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/satranc-2-liginde-hamleler-bugun-atilacak",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/spor/satranc-2-liginde-hamleler-bugun-1.jpg",
+      "published_at": "2026-08-03T21:09:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Minik ve Küçük Milli Takım Gelişim Kampı Başarıyla Tamamlandı",
+      "title_tr": "Minik ve Küçük Milli Takım Gelişim Kampı Başarıyla Tamamlandı",
+      "summary": "20-30 Temmuz 2026 tarihleri arasında Ankara Şekerspor Tesisleri’nde gerçekleştirilen Minik ve Küçük Milli Takım Gelişim Kampı, yoğun ve verimli geçen programın ardından başarıyla tamamlandı. Bu önemli kampta Yalova Belediyespor’un genç antrenörü Çiğdem Köse ve başarılı raketi Berk Turan’da yer aldı.",
+      "summary_tr": "20-30 Temmuz 2026 tarihleri arasında Ankara Şekerspor Tesisleri’nde gerçekleştirilen Minik ve Küçük Milli Takım Gelişim Kampı, yoğun ve verimli geçen programın ardından başarıyla tamamlandı. Bu önemli kampta Yalova Belediyespor’un genç antrenörü Çiğdem Köse ve başarılı raketi Berk Turan’da yer aldı.",
+      "long_summary": "20-30 Temmuz 2026 tarihleri arasında Ankara Şekerspor Tesisleri’nde gerçekleştirilen Minik ve Küçük Milli Takım Gelişim Kampı, yoğun ve verimli geçen programın ardından başarıyla tamamlandı. Bu önemli kampta Yalova Belediyespor’un genç antrenörü Çiğdem Köse ve başarılı raketi Berk Turan’da yer aldı.",
+      "long_summary_tr": "20-30 Temmuz 2026 tarihleri arasında Ankara Şekerspor Tesisleri’nde gerçekleştirilen Minik ve Küçük Milli Takım Gelişim Kampı, yoğun ve verimli geçen programın ardından başarıyla tamamlandı. Bu önemli kampta Yalova Belediyespor’un genç antrenörü Çiğdem Köse ve başarılı raketi Berk Turan’da yer aldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/minik-ve-kucuk-milli-takim-gelisim-kampi-basariyla-tamamlandi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/spor/minik-ve-kucuk-milli-takim-gelisim-kampi-basariyla-tamamlandi-2.jpg",
+      "published_at": "2026-08-03T21:08:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Kılıç, Başarılı Bisikletçileri Ağırladı",
+      "title_tr": "Kılıç, Başarılı Bisikletçileri Ağırladı",
+      "summary": "Yalova Gençlik ve Spor İl Müdürü Salih Kılıç, 2026 yılında yapılan ve en iyi şekilde temsil eden bisiklet sporcularını makamında ağırladı.",
+      "summary_tr": "Yalova Gençlik ve Spor İl Müdürü Salih Kılıç, 2026 yılında yapılan ve en iyi şekilde temsil eden bisiklet sporcularını makamında ağırladı.",
+      "long_summary": "Yalova Gençlik ve Spor İl Müdürü Salih Kılıç, 2026 yılında yapılan ve en iyi şekilde temsil eden bisiklet sporcularını makamında ağırladı.",
+      "long_summary_tr": "Yalova Gençlik ve Spor İl Müdürü Salih Kılıç, 2026 yılında yapılan ve en iyi şekilde temsil eden bisiklet sporcularını makamında ağırladı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/kilic-basarili-bisikletcileri-agirladi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/spor/kilic-basarili-bisikletcileri-agirladi-1.jpeg",
+      "published_at": "2026-08-03T21:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Fatih Akyel Diyarbekirspor’la Anlaştı",
+      "title_tr": "Fatih Akyel Diyarbekirspor’la Anlaştı",
+      "summary": "Geçen sezon Yalova FK’yı çalıştıran eski Milli futbolcu Fatih Akyel, 2026-2027 sezonunda Nesine 3. Lig 3. Grupta mücadelede mücadele etmeye hazırlanan Diyarbekirspor’la anlaşma sağladı.",
+      "summary_tr": "Geçen sezon Yalova FK’yı çalıştıran eski Milli futbolcu Fatih Akyel, 2026-2027 sezonunda Nesine 3. Lig 3. Grupta mücadelede mücadele etmeye hazırlanan Diyarbekirspor’la anlaşma sağladı.",
+      "long_summary": "Geçen sezon Yalova FK’yı çalıştıran eski Milli futbolcu Fatih Akyel, 2026-2027 sezonunda Nesine 3. Lig 3. Grupta mücadelede mücadele etmeye hazırlanan Diyarbekirspor’la anlaşma sağladı.",
+      "long_summary_tr": "Geçen sezon Yalova FK’yı çalıştıran eski Milli futbolcu Fatih Akyel, 2026-2027 sezonunda Nesine 3. Lig 3. Grupta mücadelede mücadele etmeye hazırlanan Diyarbekirspor’la anlaşma sağladı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/fatih-akyel-diyarbekirsporla-anlasti",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/spor/fatih-akyel-diyarbekirsporla-anlasti-2.JPG",
+      "published_at": "2026-08-03T21:06:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Cavit ve Ceyda’dan Ömürlük İmza",
+      "title_tr": "Cavit ve Ceyda’dan Ömürlük İmza",
+      "summary": "Yalova amatör futbolunun klas ayaklarından Acarspor, Kurtköyspor, 1977 Üvezpınarspor, Kaytazdere Belediyespor, Kocaderespor ve Yalova Üniversitesi Spor Kulübü’nün formasını başarıyla terleten Cavit Gençtürk hayatını Ceyda Bahar(Gençtürk)’le birleştirdi.",
+      "summary_tr": "Yalova amatör futbolunun klas ayaklarından Acarspor, Kurtköyspor, 1977 Üvezpınarspor, Kaytazdere Belediyespor, Kocaderespor ve Yalova Üniversitesi Spor Kulübü’nün formasını başarıyla terleten Cavit Gençtürk hayatını Ceyda Bahar(Gençtürk)’le birleştirdi.",
+      "long_summary": "Yalova amatör futbolunun klas ayaklarından Acarspor, Kurtköyspor, 1977 Üvezpınarspor, Kaytazdere Belediyespor, Kocaderespor ve Yalova Üniversitesi Spor Kulübü’nün formasını başarıyla terleten Cavit Gençtürk hayatını Ceyda Bahar(Gençtürk)’le birleştirdi.",
+      "long_summary_tr": "Yalova amatör futbolunun klas ayaklarından Acarspor, Kurtköyspor, 1977 Üvezpınarspor, Kaytazdere Belediyespor, Kocaderespor ve Yalova Üniversitesi Spor Kulübü’nün formasını başarıyla terleten Cavit Gençtürk hayatını Ceyda Bahar(Gençtürk)’le birleştirdi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cavit-ve-ceydadan-omurluk-imza",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/spor/cavit-ve-ceydadan-omurluk-imza-2.jpg",
+      "published_at": "2026-08-03T21:05:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Termal'in UNESCO Yolculuğu İçin İmzalar Atılıyor",
+      "title_tr": "Termal'in UNESCO Yolculuğu İçin İmzalar Atılıyor",
+      "summary": "Termal ilçesinin UNESCO Dünya Mirası Geçici Listesi'ne dahil edilmesi yönündeki girişimlerin başarıyla sonuçlanmasının ardından, 11 Ağustos Salı günü imza töreni düzenlenecek.",
+      "summary_tr": "Termal ilçesinin UNESCO Dünya Mirası Geçici Listesi'ne dahil edilmesi yönündeki girişimlerin başarıyla sonuçlanmasının ardından, 11 Ağustos Salı günü imza töreni düzenlenecek.",
+      "long_summary": "Termal ilçesinin UNESCO Dünya Mirası Geçici Listesi'ne dahil edilmesi yönündeki girişimlerin başarıyla sonuçlanmasının ardından, 11 Ağustos Salı günü imza töreni düzenlenecek.",
+      "long_summary_tr": "Termal ilçesinin UNESCO Dünya Mirası Geçici Listesi'ne dahil edilmesi yönündeki girişimlerin başarıyla sonuçlanmasının ardından, 11 Ağustos Salı günü imza töreni düzenlenecek.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/termalin-unesco-yolculugu-icin-imzalar-atiliyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/haber/yalova-termal-belediye-turkiye-tanitma-tutap-unesco-gecici-miras-liste-imza-1.jpg",
+      "published_at": "2026-08-03T21:04:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -29,43 +183,131 @@
       "category_slug": "magazin",
       "is_local": false,
       "source": "Elle",
-      "title": "What’s the Difference Between Hamptons and Nantucket Style?",
-      "title_tr": "What’s the Difference Between Hamptons and Nantucket Style?",
-      "summary": "The two destinations share more wardrobe staples than you’d think.",
-      "summary_tr": "The two destinations share more wardrobe staples than you’d think.",
-      "long_summary": "The two destinations share more wardrobe staples than you’d think.",
-      "long_summary_tr": "The two destinations share more wardrobe staples than you’d think.",
+      "title": "Sebastian Stan and Annabelle Wallis’s Complete Relationship Timeline",
+      "title_tr": "Sebastian Stan and Annabelle Wallis’s Complete Relationship Timeline",
+      "summary": "Sebastian Stan and Annabelle Wallis’s Complete Relationship Timeline",
+      "summary_tr": "Sebastian Stan and Annabelle Wallis’s Complete Relationship Timeline",
+      "long_summary": "Sebastian Stan and Annabelle Wallis’s Complete Relationship Timeline",
+      "long_summary_tr": "Sebastian Stan and Annabelle Wallis’s Complete Relationship Timeline",
       "why_important": [
         "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
         "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.elle.com/fashion/shopping/a73310006/what-to-wear-hamptons-nantucket-outfit-ideas/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/9644f5a3-0eb6-45b9-acd0-1e989f0ea7d9.png",
-      "published_at": "2026-08-03T19:33:19+00:00"
+      "url": "https://www.elle.com/culture/celebrities/a62765595/sebastian-stan-annabelle-wallis-relationship-timeline/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37377698-ffd3-4bd2-9f2f-064404d6b8f4.jpeg",
+      "published_at": "2026-08-03T21:04:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Yerel",
       "category_slug": "yerel",
       "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Oyuncu Can Kolukısa son yolculuğuna uğurlandı",
-      "title_tr": "Oyuncu Can Kolukısa son yolculuğuna uğurlandı",
-      "summary": "Türk tiyatrosu ve sinemasının usta oyuncularından, 92 yaşında hayatını kaybeden Can Kolukısa, son yolculuğuna uğurlandı. Kolukısa'nın cenazesi, Göztepe Tütüncü Mehmet Efendi Camii'nde ikindi namazının ardından kılınan cenaze namazı sonrası Nakkaştepe Mezarlığı'nda toprağa verildi.Türk tiyatro, sinema ve televizyon dünyasının önemli isimlerinden Can Kolukısa, 1 Ağustos'ta 92 yaşında hayatını kaybetti. Kolukısa için bugün İBB Şehir Tiyatroları Üsküdar Musahipzade Celal Sahnesi'nde anma töreni düzenlendi. Törene oğulları Emrah Kolukısa ve Deniz Chama, kızı Joal Yasmin Chama'nın yanı sıra tiyatro camiasından sanatçılar ve sevenleri katıldı. Törenin ardından Kolukısa'nın cenazesi Göztepe Tütüncü Mehmet Efendi Camii'ne getirildi. Ailesi ve yakınlarının katıldığı cenaze töreninin ardından usta oyuncu Nakkaştepe Mezarlığı'nda son yolculuğuna uğurlandı.\n\n'O gerçek bir aydındı'\n\nVeda töreninde konuşan kızı Joal Yasmin Chama, \"Arkadaşımızdı, yol göstericimizdi. Rol icabı ekranda biraz üzülse, zor bir rol oynasa içimiz cız ederdi, zorlanırdık. Kimseye kırılmaz, kimseyi kırmazdı. O gerçek bir aydındı. Onunla büyürken hayat görüşü, hayata bakışı, kibarlığı ruhumuza çok şey kattı. 'O olsa ne yapardı, ne derdi, bu durumda ne düşünürdü, nasıl yol gösterirdi?' Bu sorular hep yolumuzu aydınlatacak\" dedi.\n\n\"Canımızı kaybettik\"\n\nOğlu Deniz Chama ise, \"Canımızı kaybettik. Onu tarif etmek mümkün değil. Vakur, ağırbaşlı, hümanist ve 'aydın' kelimesinin tam karşılığı bir insandı. Girdiği her ortama ışık saçan, can veren canımız olarak hatırlayacağız. Büyük tutkusu olan sahnede şimdi sonsuzluk oyununu oynarken bizlere güldüğünü görür gibiyim\" diye konuştu.\n\n\"Gençliğinde milli takıma çağrılacak kadar yetenekli bir basketbolcuydu\"\n\nDiğer oğlu Emrah Kolukısa da, \"Ben şanslıyım. Çünkü onunla hem tiyatro yaptım, hem kısa filmde oynadım, hem televizyon filminde oynadım, dizide oynadım, hatta baba-oğul oynadık. Az bilinen bir yönünü anlatayım; babam Paris'te kaldığı dönemde muhabirlik ve gazetecilik de yapıyordu. O dönemi Akşam Gazetesi adına takip etti ve daha sonra bunu kitaplaştırdı. Hep esprisi yapılırdı; aslında annemden önce kitabı basılan babamdı. 'Fransa'da Mayıs Patlaması' adlı bir kitabı vardı. Gençliğinde milli takıma çağrılacak kadar yetenekli bir basketbolcuydu. Ancak basketbolu bırakıp tiyatro aşkının peşinden gitti. Bugün babama veda ediyoruz. Bizim vedamız elbette daha uzun sürecek. Onu çok özleyeceğiz, ben de çok özleyeceğim\" ifadelerini kullandı.\n\n\"Tek başımıza kaldık\"\n\nCenaze törenine katılan oyuncu Suna Selen ise, \"Benim yaşlarımda hayatta kalan tek tiyatrocu arkadaşımdı. O da gitti. Tek başımıza kaldık. Başka diyecek söz yok. Hepimizin başı sağ olsun\" dedi.\n\n\"O yaşayan bir hafızaydı\"\n\nBelgesel yönetmeni ve senarist Nurgül Bayram da, \"Kendisinin 1954'te ilk adım attığı Gençlik Tiyatrosu'nu konu alan belgeseli birlikte hazırladık. Bu, tarihe kalacak bir belgesel. Bugünün gençlerine o dönemin sanatını, gençliğini ve ruhunu aktarıyor. O yaşayan bir hafızaydı. Can ağabey, son nefesine kadar Türk tiyatrosu ve Türk sineması için emek verdi. Çok kıymetli bir değerimizi kaybettik. Hepimizin başı sağ olsun\" diye konuştu.",
-      "summary_tr": "Türk tiyatrosu ve sinemasının usta oyuncularından, 92 yaşında hayatını kaybeden Can Kolukısa, son yolculuğuna uğurlandı. Kolukısa'nın cenazesi, Göztepe Tütüncü Mehmet Efendi Camii'nde ikindi namazının ardından kılınan cenaze namazı sonrası Nakkaştepe Mezarlığı'nda toprağa verildi.Türk tiyatro, sinema ve televizyon dünyasının önemli isimlerinden Can Kolukısa, 1 Ağustos'ta 92 yaşında hayatını kaybetti. Kolukısa için bugün İBB Şehir Tiyatroları Üsküdar Musahipzade Celal Sahnesi'nde anma töreni düzenlendi. Törene oğulları Emrah Kolukısa ve Deniz Chama, kızı Joal Yasmin Chama'nın yanı sıra tiyatro camiasından sanatçılar ve sevenleri katıldı. Törenin ardından Kolukısa'nın cenazesi Göztepe Tütüncü Mehmet Efendi Camii'ne getirildi. Ailesi ve yakınlarının katıldığı cenaze töreninin ardından usta oyuncu Nakkaştepe Mezarlığı'nda son yolculuğuna uğurlandı.\n\n'O gerçek bir aydındı'\n\nVeda töreninde konuşan kızı Joal Yasmin Chama, \"Arkadaşımızdı, yol göstericimizdi. Rol icabı ekranda biraz üzülse, zor bir rol oynasa içimiz cız ederdi, zorlanırdık. Kimseye kırılmaz, kimseyi kırmazdı. O gerçek bir aydındı. Onunla büyürken hayat görüşü, hayata bakışı, kibarlığı ruhumuza çok şey kattı. 'O olsa ne yapardı, ne derdi, bu durumda ne düşünürdü, nasıl yol gösterirdi?' Bu sorular hep yolumuzu aydınlatacak\" dedi.\n\n\"Canımızı kaybettik\"\n\nOğlu Deniz Chama ise, \"Canımızı kaybettik. Onu tarif etmek mümkün değil. Vakur, ağırbaşlı, hümanist ve 'aydın' kelimesinin tam karşılığı bir insandı. Girdiği her ortama ışık saçan, can veren canımız olarak hatırlayacağız. Büyük tutkusu olan sahnede şimdi sonsuzluk oyununu oynarken bizlere güldüğünü görür gibiyim\" diye konuştu.\n\n\"Gençliğinde milli takıma çağrılacak kadar yetenekli bir basketbolcuydu\"\n\nDiğer oğlu Emrah Kolukısa da, \"Ben şanslıyım. Çünkü onunla hem tiyatro yaptım, hem kısa filmde oynadım, hem televizyon filminde oynadım, dizide oynadım, hatta baba-oğul oynadık. Az bilinen bir yönünü anlatayım; babam Paris'te kaldığı dönemde muhabirlik ve gazetecilik de yapıyordu. O dönemi Akşam Gazetesi adına takip etti ve daha sonra bunu kitaplaştırdı. Hep esprisi yapılırdı; aslında annemden önce kitabı basılan babamdı. 'Fransa'da Mayıs Patlaması' adlı bir kitabı vardı. Gençliğinde milli takıma çağrılacak kadar yetenekli bir basketbolcuydu. Ancak basketbolu bırakıp tiyatro aşkının peşinden gitti. Bugün babama veda ediyoruz. Bizim vedamız elbette daha uzun sürecek. Onu çok özleyeceğiz, ben de çok özleyeceğim\" ifadelerini kullandı.\n\n\"Tek başımıza kaldık\"\n\nCenaze törenine katılan oyuncu Suna Selen ise, \"Benim yaşlarımda hayatta kalan tek tiyatrocu arkadaşımdı. O da gitti. Tek başımıza kaldık. Başka diyecek söz yok. Hepimizin başı sağ olsun\" dedi.\n\n\"O yaşayan bir hafızaydı\"\n\nBelgesel yönetmeni ve senarist Nurgül Bayram da, \"Kendisinin 1954'te ilk adım attığı Gençlik Tiyatrosu'nu konu alan belgeseli birlikte hazırladık. Bu, tarihe kalacak bir belgesel. Bugünün gençlerine o dönemin sanatını, gençliğini ve ruhunu aktarıyor. O yaşayan bir hafızaydı. Can ağabey, son nefesine kadar Türk tiyatrosu ve Türk sineması için emek verdi. Çok kıymetli bir değerimizi kaybettik. Hepimizin başı sağ olsun\" diye konuştu.",
-      "long_summary": "Türk tiyatrosu ve sinemasının usta oyuncularından, 92 yaşında hayatını kaybeden Can Kolukısa, son yolculuğuna uğurlandı. Kolukısa'nın cenazesi, Göztepe Tütüncü Mehmet Efendi Camii'nde ikindi namazının ardından kılınan cenaze namazı sonrası Nakkaştepe Mezarlığı'nda toprağa verildi.Türk tiyatro, sinema ve televizyon dünyasının önemli isimlerinden Can Kolukısa, 1 Ağustos'ta 92 yaşında hayatını kaybetti. Kolukısa için bugün İBB Şehir Tiyatroları Üsküdar Musahipzade Celal Sahnesi'nde anma töreni",
-      "long_summary_tr": "Türk tiyatrosu ve sinemasının usta oyuncularından, 92 yaşında hayatını kaybeden Can Kolukısa, son yolculuğuna uğurlandı. Kolukısa'nın cenazesi, Göztepe Tütüncü Mehmet Efendi Camii'nde ikindi namazının ardından kılınan cenaze namazı sonrası Nakkaştepe Mezarlığı'nda toprağa verildi.Türk tiyatro, sinema ve televizyon dünyasının önemli isimlerinden Can Kolukısa, 1 Ağustos'ta 92 yaşında hayatını kaybetti. Kolukısa için bugün İBB Şehir Tiyatroları Üsküdar Musahipzade Celal Sahnesi'nde anma töreni",
+      "source": "Yalova Gazetesi",
+      "title": "Gökhan Türkmen 14 Ağustos'ta Yalova'da Konser Verecek",
+      "title_tr": "Gökhan Türkmen 14 Ağustos'ta Yalova'da Konser Verecek",
+      "summary": "Gökhan Türkmen, 14 Ağustos Cuma günü Yalova Barış Manço Açıkhava Tiyatrosu'nda sahne alacak.",
+      "summary_tr": "Gökhan Türkmen, 14 Ağustos Cuma günü Yalova Barış Manço Açıkhava Tiyatrosu'nda sahne alacak.",
+      "long_summary": "Gökhan Türkmen, 14 Ağustos Cuma günü Yalova Barış Manço Açıkhava Tiyatrosu'nda sahne alacak.",
+      "long_summary_tr": "Gökhan Türkmen, 14 Ağustos Cuma günü Yalova Barış Manço Açıkhava Tiyatrosu'nda sahne alacak.",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/magazin/oyuncu-can-kolukisa-son-yolculuguna-ugurlandi-1682657",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/oyuncu-can-kolukisa-son-yolculuguna-ugurlandi-1785785864-754_large.webp",
-      "published_at": "2026-08-03T19:30:00+00:00"
+      "url": "https://www.yalovagazetesi.com/gokhan-turkmen-14-agustosta-yalovada-konser-verecek",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/haber/ust-manset/yalova-gokhan-turkmen-konseri-14-agustos-2.jpg",
+      "published_at": "2026-08-03T21:03:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çınarcık'ta Yaşam Çınarı Çocuk Festivali İçin Geri Sayım Başladı",
+      "title_tr": "Çınarcık'ta Yaşam Çınarı Çocuk Festivali İçin Geri Sayım Başladı",
+      "summary": "Yalova'nın Çınarcık ilçesinde düzenlenecek Yaşam Çınarı Çocuk Festivali için geri sayım başladı. Festival 11-12 Ağustos tarihlerinde Çınarcık Belediyespor Futbol Sahası'nda gerçekleştirilecek.",
+      "summary_tr": "Yalova'nın Çınarcık ilçesinde düzenlenecek Yaşam Çınarı Çocuk Festivali için geri sayım başladı. Festival 11-12 Ağustos tarihlerinde Çınarcık Belediyespor Futbol Sahası'nda gerçekleştirilecek.",
+      "long_summary": "Yalova'nın Çınarcık ilçesinde düzenlenecek Yaşam Çınarı Çocuk Festivali için geri sayım başladı. Festival 11-12 Ağustos tarihlerinde Çınarcık Belediyespor Futbol Sahası'nda gerçekleştirilecek.",
+      "long_summary_tr": "Yalova'nın Çınarcık ilçesinde düzenlenecek Yaşam Çınarı Çocuk Festivali için geri sayım başladı. Festival 11-12 Ağustos tarihlerinde Çınarcık Belediyespor Futbol Sahası'nda gerçekleştirilecek.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/cinarcikta-yasam-cinari-cocuk-festivali-icin-geri-sayim-basladi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/haber/ust-manset/yalova-cinarcik-yasam-cinari-cocuk-festivali.jpg",
+      "published_at": "2026-08-03T21:02:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çiftlikköy'de Geri Dönüşüm Sanata Dönüşüyor",
+      "title_tr": "Çiftlikköy'de Geri Dönüşüm Sanata Dönüşüyor",
+      "summary": "Çiftlikköy Belediyesi'nin ücretsiz Geri Dönüşüm Atölyesi'nde çocuklar ve aileleri, kağıt hamurundan dekoratif ürünler üretiyor. Atölyeyi ziyaret eden Belediye Başkanı Adil Yele, kursiyerlerle sohbet ederek çalışmaları yerinde inceledi.",
+      "summary_tr": "Çiftlikköy Belediyesi'nin ücretsiz Geri Dönüşüm Atölyesi'nde çocuklar ve aileleri, kağıt hamurundan dekoratif ürünler üretiyor. Atölyeyi ziyaret eden Belediye Başkanı Adil Yele, kursiyerlerle sohbet ederek çalışmaları yerinde inceledi.",
+      "long_summary": "Çiftlikköy Belediyesi'nin ücretsiz Geri Dönüşüm Atölyesi'nde çocuklar ve aileleri, kağıt hamurundan dekoratif ürünler üretiyor. Atölyeyi ziyaret eden Belediye Başkanı Adil Yele, kursiyerlerle sohbet ederek çalışmaları yerinde inceledi.",
+      "long_summary_tr": "Çiftlikköy Belediyesi'nin ücretsiz Geri Dönüşüm Atölyesi'nde çocuklar ve aileleri, kağıt hamurundan dekoratif ürünler üretiyor. Atölyeyi ziyaret eden Belediye Başkanı Adil Yele, kursiyerlerle sohbet ederek çalışmaları yerinde inceledi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/ciftlikkoyde-geri-donusum-sanata-donusuyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/haber/yalova-ciftlikkoy-belediye-baskan-geri-donusum-atolye-sanat-1.jpeg",
+      "published_at": "2026-08-03T21:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Ağustos 2026",
+      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Ağustos 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
+      "long_summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "long_summary_tr": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası.. Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ve AFAD deprem haberleri.. İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu?",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-agustos-2026-1735836",
+      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Armutlu’nun Hizmet Gücüne Yeni Takviye",
+      "title_tr": "Armutlu’nun Hizmet Gücüne Yeni Takviye",
+      "summary": "Armutlu Belediye Başkanı Cengiz Arslan’ın girişimleri ve hayırsever iş insanlarının destsekleriyle temin edilerek belediyeye hibe edilen ’’Çok Amaçlı Kombine Kanal Açma Aracı’’ , ilçenin hizmet filosuna kazandırıldı.",
+      "summary_tr": "Armutlu Belediye Başkanı Cengiz Arslan’ın girişimleri ve hayırsever iş insanlarının destsekleriyle temin edilerek belediyeye hibe edilen ’’Çok Amaçlı Kombine Kanal Açma Aracı’’ , ilçenin hizmet filosuna kazandırıldı.",
+      "long_summary": "Armutlu Belediye Başkanı Cengiz Arslan’ın girişimleri ve hayırsever iş insanlarının destsekleriyle temin edilerek belediyeye hibe edilen ’’Çok Amaçlı Kombine Kanal Açma Aracı’’ , ilçenin hizmet filosuna kazandırıldı.",
+      "long_summary_tr": "Armutlu Belediye Başkanı Cengiz Arslan’ın girişimleri ve hayırsever iş insanlarının destsekleriyle temin edilerek belediyeye hibe edilen ’’Çok Amaçlı Kombine Kanal Açma Aracı’’ , ilçenin hizmet filosuna kazandırıldı.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/armutlunun-hizmet-gucune-yeni-takviye",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/08/haber/armutlu-cok-amacli-kombine-kanal-acma-araci-haber-3.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -73,65 +315,21 @@
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "ShiftDelete",
-      "title": "Otonom Teslimatın Sınırları: Kurye Robotlar İnsan Yardımına Muhtaç",
-      "title_tr": "Otonom Teslimatın Sınırları: Kurye Robotlar İnsan Yardımına Muhtaç",
-      "summary": "DoorDash, otonom teslimat robotu Dot'a sipariş yüklemeleri için sürücülere ödeme yapıyor. Şirketin otonom sistemlerindeki lojistik süreçleri inceledik.",
-      "summary_tr": "DoorDash, otonom teslimat robotu Dot'a sipariş yüklemeleri için sürücülere ödeme yapıyor. Şirketin otonom sistemlerindeki lojistik süreçleri inceledik.",
-      "long_summary": "DoorDash, otonom teslimat robotu Dot'a sipariş yüklemeleri için sürücülere ödeme yapıyor. Şirketin otonom sistemlerindeki lojistik süreçleri inceledik.",
-      "long_summary_tr": "DoorDash, otonom teslimat robotu Dot'a sipariş yüklemeleri için sürücülere ödeme yapıyor. Şirketin otonom sistemlerindeki lojistik süreçleri inceledik.",
+      "title": "Lenovo’nun Googlebook Serisi Sızdırıldı",
+      "title_tr": "Lenovo’nun Googlebook Serisi Sızdırıldı",
+      "summary": "Lenovo'nun ilk Googlebook modelleri sızdırıldı. Hibrit tasarımlı cihazlar, Aluminium OS ve yapay zeka destekli Magic Pointer özelliği ile geliyor.",
+      "summary_tr": "Lenovo'nun ilk Googlebook modelleri sızdırıldı. Hibrit tasarımlı cihazlar, Aluminium OS ve yapay zeka destekli Magic Pointer özelliği ile geliyor.",
+      "long_summary": "Lenovo'nun ilk Googlebook modelleri sızdırıldı. Hibrit tasarımlı cihazlar, Aluminium OS ve yapay zeka destekli Magic Pointer özelliği ile geliyor.",
+      "long_summary_tr": "Lenovo'nun ilk Googlebook modelleri sızdırıldı. Hibrit tasarımlı cihazlar, Aluminium OS ve yapay zeka destekli Magic Pointer özelliği ile geliyor.",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://shiftdelete.net/otonom-teslimatin-sinirlari-kurye-robotlar-insan-yardimina-muhtac",
+      "url": "https://shiftdelete.net/lenovonun-googlebook-serisi-sizdirildi",
       "image": null,
-      "published_at": "2026-08-03T19:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Sweatpant Jeans Are the Most Controversial (And Comfortable) Denim Trend",
-      "title_tr": "Sweatpant Jeans Are the Most Controversial (And Comfortable) Denim Trend",
-      "summary": "Level up your casual looks with these cozy and stylish picks.",
-      "summary_tr": "Level up your casual looks with these cozy and stylish picks.",
-      "long_summary": "Level up your casual looks with these cozy and stylish picks.",
-      "long_summary_tr": "Level up your casual looks with these cozy and stylish picks.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/g63831385/best-sweatpant-jeans/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/456699084-525035626727144-239907966961933751-n-67b6022613155.jpg",
-      "published_at": "2026-08-03T19:22:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Michigan yetkilileri parazit salgını için 2 Temmuz’da Yum ile görüştü",
-      "title_tr": "Michigan yetkilileri parazit salgını için 2 Temmuz’da Yum ile görüştü",
-      "summary": "Michigan yetkilileri parazit salgını için 2 Temmuz’da Yum ile görüştü",
-      "summary_tr": "Michigan yetkilileri parazit salgını için 2 Temmuz’da Yum ile görüştü",
-      "long_summary": "Michigan yetkilileri parazit salgını için 2 Temmuz’da Yum ile görüştü",
-      "long_summary_tr": "Michigan yetkilileri parazit salgını için 2 Temmuz’da Yum ile görüştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/michigan-yetkilileri-parazit-salgn-icin-2-temmuzda-yum-ile-gorustu-93CH-4010448",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0D0AP_M.jpg",
-      "published_at": "2026-08-03T19:21:32+00:00"
+      "published_at": "2026-08-03T21:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -139,21 +337,241 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Tahir Sarıkaya gözaltına alındı",
-      "title_tr": "Tahir Sarıkaya gözaltına alındı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya gözaltına alındı.",
-      "summary_tr": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya gözaltına alındı.",
-      "long_summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya gözaltına alındı.",
-      "long_summary_tr": "İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya gözaltına alındı.",
+      "title": "Rekor ihracat, temkinli iyimserlik",
+      "title_tr": "Rekor ihracat, temkinli iyimserlik",
+      "summary": "Temmuzda ihracat 25,6 milyar dolarla tüm zamanların en yüksek temmuz seviyesine ulaştı. Ticaret Bakanı Ömer Bolat rekor ihracat verilerini açıklarken, TİM Başkanı Mustafa Gültepe ise yüksek maliyetler ve finansmana erişim sorunlarına dikkat çekerek, sınırlı artışın işlerin yolunda gittiği şeklinde yorumlanmaması gerektiğini söyledi. ASKON Başkanı Aydın ise &quot;Destekleyici model şart&quot; dedi.",
+      "summary_tr": "Temmuzda ihracat 25,6 milyar dolarla tüm zamanların en yüksek temmuz seviyesine ulaştı. Ticaret Bakanı Ömer Bolat rekor ihracat verilerini açıklarken, TİM Başkanı Mustafa Gültepe ise yüksek maliyetler ve finansmana erişim sorunlarına dikkat çekerek, sınırlı artışın işlerin yolunda gittiği şeklinde yorumlanmaması gerektiğini söyledi. ASKON Başkanı Aydın ise &quot;Destekleyici model şart&quot; dedi.",
+      "long_summary": "Temmuzda ihracat 25,6 milyar dolarla tüm zamanların en yüksek temmuz seviyesine ulaştı. Ticaret Bakanı Ömer Bolat rekor ihracat verilerini açıklarken, TİM Başkanı Mustafa Gültepe ise yüksek maliyetler ve finansmana erişim sorunlarına dikkat çekerek, sınırlı artışın işlerin yolunda gittiği şeklinde yorumlanmaması gerektiğini söyledi. ASKON Başkanı Aydın ise &quot;Destekleyici model şart&quot; dedi.",
+      "long_summary_tr": "Temmuzda ihracat 25,6 milyar dolarla tüm zamanların en yüksek temmuz seviyesine ulaştı. Ticaret Bakanı Ömer Bolat rekor ihracat verilerini açıklarken, TİM Başkanı Mustafa Gültepe ise yüksek maliyetler ve finansmana erişim sorunlarına dikkat çekerek, sınırlı artışın işlerin yolunda gittiği şeklinde yorumlanmaması gerektiğini söyledi. ASKON Başkanı Aydın ise &quot;Destekleyici model şart&quot; dedi.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/gundem/tahir-sarikaya-gozaltina-alindi-haberi-834816",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/tt1-jcu3_cover.jpg",
-      "published_at": "2026-08-03T19:21:00+00:00"
+      "url": "https://www.dunya.com/ekonomi/rekor-ihracat-temkinli-iyimserlik-haberi-834788",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/tt1-waww_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "İmalatçı sektörlerde enflasyon zayıfladı",
+      "title_tr": "İmalatçı sektörlerde enflasyon zayıfladı",
+      "summary": "İmalatta işler son 28 aydır kötüleşiyor. Temmuzda savaşın getirdiği durgunluğun etkileri daha da belirginleşti. Girdi maliyetleri enflasyonu Kasım 2025’ten bu yana en düşük hızına indi. Nihai ürün fiyatları enflasyonu da 2026’nın başından bu yana en düşük seviyeye çekildi.",
+      "summary_tr": "İmalatta işler son 28 aydır kötüleşiyor. Temmuzda savaşın getirdiği durgunluğun etkileri daha da belirginleşti. Girdi maliyetleri enflasyonu Kasım 2025’ten bu yana en düşük hızına indi. Nihai ürün fiyatları enflasyonu da 2026’nın başından bu yana en düşük seviyeye çekildi.",
+      "long_summary": "İmalatta işler son 28 aydır kötüleşiyor. Temmuzda savaşın getirdiği durgunluğun etkileri daha da belirginleşti. Girdi maliyetleri enflasyonu Kasım 2025’ten bu yana en düşük hızına indi. Nihai ürün fiyatları enflasyonu da 2026’nın başından bu yana en düşük seviyeye çekildi.",
+      "long_summary_tr": "İmalatta işler son 28 aydır kötüleşiyor. Temmuzda savaşın getirdiği durgunluğun etkileri daha da belirginleşti. Girdi maliyetleri enflasyonu Kasım 2025’ten bu yana en düşük hızına indi. Nihai ürün fiyatları enflasyonu da 2026’nın başından bu yana en düşük seviyeye çekildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/imalatci-sektorlerde-enflasyon-zayifladi-haberi-834793",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/ee1-nbqx_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "TARSİM’le 1,1 trilyon liralık tarımsal varlık sigortalandı",
+      "title_tr": "TARSİM’le 1,1 trilyon liralık tarımsal varlık sigortalandı",
+      "summary": "Ürünleri, seraları ve hayvanları doğal afetlerden ve çeşitli risklerden dolayı zarar gören sigortalı üretici ve yetiştiricilere, TARSİM tarafından 6,6 milyar lira hasar ödemesi yapıldı. Bu yılın ocak-temmuz döneminde, tüm tarım sigortası branşlarında 2 milyon poliçe üretildi.",
+      "summary_tr": "Ürünleri, seraları ve hayvanları doğal afetlerden ve çeşitli risklerden dolayı zarar gören sigortalı üretici ve yetiştiricilere, TARSİM tarafından 6,6 milyar lira hasar ödemesi yapıldı. Bu yılın ocak-temmuz döneminde, tüm tarım sigortası branşlarında 2 milyon poliçe üretildi.",
+      "long_summary": "Ürünleri, seraları ve hayvanları doğal afetlerden ve çeşitli risklerden dolayı zarar gören sigortalı üretici ve yetiştiricilere, TARSİM tarafından 6,6 milyar lira hasar ödemesi yapıldı. Bu yılın ocak-temmuz döneminde, tüm tarım sigortası branşlarında 2 milyon poliçe üretildi.",
+      "long_summary_tr": "Ürünleri, seraları ve hayvanları doğal afetlerden ve çeşitli risklerden dolayı zarar gören sigortalı üretici ve yetiştiricilere, TARSİM tarafından 6,6 milyar lira hasar ödemesi yapıldı. Bu yılın ocak-temmuz döneminde, tüm tarım sigortası branşlarında 2 milyon poliçe üretildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/sigortacilik/tarsimle-11-trilyon-liralik-tarimsal-varlik-sigortalandi-haberi-834797",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/tt1-mqlg_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Anadolu Sigorta’dan 7,4 milyar TL’lik net kâr",
+      "title_tr": "Anadolu Sigorta’dan 7,4 milyar TL’lik net kâr",
+      "summary": "Geçtiğimiz yılın aynı döne­mine göre; prim üretimini %22 oranında artıran Anadolu Sigorta’nın aktif toplamı 151,3 milyar TL’ye ulaşırken, yatırı­ma yönlendirilen portföy bü­yüklüğü de yılbaşından bugü­ne %13,6’lık artışla 89 milyar TL oldu.",
+      "summary_tr": "Geçtiğimiz yılın aynı döne­mine göre; prim üretimini %22 oranında artıran Anadolu Sigorta’nın aktif toplamı 151,3 milyar TL’ye ulaşırken, yatırı­ma yönlendirilen portföy bü­yüklüğü de yılbaşından bugü­ne %13,6’lık artışla 89 milyar TL oldu.",
+      "long_summary": "Geçtiğimiz yılın aynı döne­mine göre; prim üretimini %22 oranında artıran Anadolu Sigorta’nın aktif toplamı 151,3 milyar TL’ye ulaşırken, yatırı­ma yönlendirilen portföy bü­yüklüğü de yılbaşından bugü­ne %13,6’lık artışla 89 milyar TL oldu.",
+      "long_summary_tr": "Geçtiğimiz yılın aynı döne­mine göre; prim üretimini %22 oranında artıran Anadolu Sigorta’nın aktif toplamı 151,3 milyar TL’ye ulaşırken, yatırı­ma yönlendirilen portföy bü­yüklüğü de yılbaşından bugü­ne %13,6’lık artışla 89 milyar TL oldu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sirketler/anadolu-sigortadan-74-milyar-tllik-net-kar-haberi-834798",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/aa1-qlwk_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Düşük tansiyon, risk iştahını törpüledi",
+      "title_tr": "Düşük tansiyon, risk iştahını törpüledi",
+      "summary": "Küresel piyasalarda &quot;yüksek değerleme&quot; endişeleri, Orta Doğu&#039;da yeni bir uzlaşı sağlanabileceğine yönelik iyimserlikleri gölgeliyor. Altın piyasasında 4 bin $ eşiğinin kalıcı olup olmadığı sorusuna yanıt aranırken, Brent petrol ABD ile İran arasında diplomatik temas olasılığıyla 85 $&#039;ın altına çekildi.",
+      "summary_tr": "Küresel piyasalarda &quot;yüksek değerleme&quot; endişeleri, Orta Doğu&#039;da yeni bir uzlaşı sağlanabileceğine yönelik iyimserlikleri gölgeliyor. Altın piyasasında 4 bin $ eşiğinin kalıcı olup olmadığı sorusuna yanıt aranırken, Brent petrol ABD ile İran arasında diplomatik temas olasılığıyla 85 $&#039;ın altına çekildi.",
+      "long_summary": "Küresel piyasalarda &quot;yüksek değerleme&quot; endişeleri, Orta Doğu&#039;da yeni bir uzlaşı sağlanabileceğine yönelik iyimserlikleri gölgeliyor. Altın piyasasında 4 bin $ eşiğinin kalıcı olup olmadığı sorusuna yanıt aranırken, Brent petrol ABD ile İran arasında diplomatik temas olasılığıyla 85 $&#039;ın altına çekildi.",
+      "long_summary_tr": "Küresel piyasalarda &quot;yüksek değerleme&quot; endişeleri, Orta Doğu&#039;da yeni bir uzlaşı sağlanabileceğine yönelik iyimserlikleri gölgeliyor. Altın piyasasında 4 bin $ eşiğinin kalıcı olup olmadığı sorusuna yanıt aranırken, Brent petrol ABD ile İran arasında diplomatik temas olasılığıyla 85 $&#039;ın altına çekildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/dusuk-tansiyon-risk-istahini-torpuledi-haberi-834802",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/dd1-qoec_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Gaziantep Ticaret Odası Başkanı Yıldırım: Yeme-içmede kazanç komisyonlara gidiyor",
+      "title_tr": "Gaziantep Ticaret Odası Başkanı Yıldırım: Yeme-içmede kazanç komisyonlara gidiyor",
+      "summary": "Gaziantep Ticaret Odası Başkanı Tuncay Yıldırım, artan maliyetlerin yanı sıra banka POS’ları ve dijital sipariş platformlarının yüksek komisyonlarının yeme-içme işletmelerinin kâr marjını erittiğini belirterek, oranların makul seviyelere çekilmesini istedi.",
+      "summary_tr": "Gaziantep Ticaret Odası Başkanı Tuncay Yıldırım, artan maliyetlerin yanı sıra banka POS’ları ve dijital sipariş platformlarının yüksek komisyonlarının yeme-içme işletmelerinin kâr marjını erittiğini belirterek, oranların makul seviyelere çekilmesini istedi.",
+      "long_summary": "Gaziantep Ticaret Odası Başkanı Tuncay Yıldırım, artan maliyetlerin yanı sıra banka POS’ları ve dijital sipariş platformlarının yüksek komisyonlarının yeme-içme işletmelerinin kâr marjını erittiğini belirterek, oranların makul seviyelere çekilmesini istedi.",
+      "long_summary_tr": "Gaziantep Ticaret Odası Başkanı Tuncay Yıldırım, artan maliyetlerin yanı sıra banka POS’ları ve dijital sipariş platformlarının yüksek komisyonlarının yeme-içme işletmelerinin kâr marjını erittiğini belirterek, oranların makul seviyelere çekilmesini istedi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/gaziantep-ticaret-odasi-baskani-yildirim-yeme-icmede-kazanc-komisyonlara-gidiyor-haberi-834805",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/gg1-pcyl_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Hazır yemekte fabrikalardaki kan kaybını kamu dengeledi",
+      "title_tr": "Hazır yemekte fabrikalardaki kan kaybını kamu dengeledi",
+      "summary": "Son yıllarda sanayide ve tekstilde yaşanan daralmadan kaynaklı günlük üretilen yemek sayılarının gerilediğini söyleyen İYSAD Başkan Yardımcısı Sedat Zincirkıran, kamuda yaşanan artışlarla yemek sayılarının eşitlendiğini belirtti. Zincirkıran, yılbaşından bu yana tabldot yemek fiyatlarında yüzde 18 ile 25 arasında artış yaşandığını aktardı.",
+      "summary_tr": "Son yıllarda sanayide ve tekstilde yaşanan daralmadan kaynaklı günlük üretilen yemek sayılarının gerilediğini söyleyen İYSAD Başkan Yardımcısı Sedat Zincirkıran, kamuda yaşanan artışlarla yemek sayılarının eşitlendiğini belirtti. Zincirkıran, yılbaşından bu yana tabldot yemek fiyatlarında yüzde 18 ile 25 arasında artış yaşandığını aktardı.",
+      "long_summary": "Son yıllarda sanayide ve tekstilde yaşanan daralmadan kaynaklı günlük üretilen yemek sayılarının gerilediğini söyleyen İYSAD Başkan Yardımcısı Sedat Zincirkıran, kamuda yaşanan artışlarla yemek sayılarının eşitlendiğini belirtti. Zincirkıran, yılbaşından bu yana tabldot yemek fiyatlarında yüzde 18 ile 25 arasında artış yaşandığını aktardı.",
+      "long_summary_tr": "Son yıllarda sanayide ve tekstilde yaşanan daralmadan kaynaklı günlük üretilen yemek sayılarının gerilediğini söyleyen İYSAD Başkan Yardımcısı Sedat Zincirkıran, kamuda yaşanan artışlarla yemek sayılarının eşitlendiğini belirtti. Zincirkıran, yılbaşından bu yana tabldot yemek fiyatlarında yüzde 18 ile 25 arasında artış yaşandığını aktardı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/hazir-yemekte-fabrikalardaki-kan-kaybini-kamu-dengeledi-haberi-834807",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/ee1-cs5p_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Salçalık domateste düşük fiyat krizi kapıda",
+      "title_tr": "Salçalık domateste düşük fiyat krizi kapıda",
+      "summary": "İzmir’in Torbalı ilçesinde başlayan salçalık doma­tes hasadı krizle açıldı. Bu yıl Torbalı’da 40 bin dekarda do­mates ekimi yapıldı. Serbest piyasada ve sözleşmeli ekim­de belirlenen alım fiyatları, yükselen üretim maliyetleri­nin gerisinde kaldı. Bu fiyat düşüklüğü Manisa ve Bursa gibi önemli salçalık domates üretimi bölgelerine de yansı­ması endişesi yaşanıyor.",
+      "summary_tr": "İzmir’in Torbalı ilçesinde başlayan salçalık doma­tes hasadı krizle açıldı. Bu yıl Torbalı’da 40 bin dekarda do­mates ekimi yapıldı. Serbest piyasada ve sözleşmeli ekim­de belirlenen alım fiyatları, yükselen üretim maliyetleri­nin gerisinde kaldı. Bu fiyat düşüklüğü Manisa ve Bursa gibi önemli salçalık domates üretimi bölgelerine de yansı­ması endişesi yaşanıyor.",
+      "long_summary": "İzmir’in Torbalı ilçesinde başlayan salçalık doma­tes hasadı krizle açıldı. Bu yıl Torbalı’da 40 bin dekarda do­mates ekimi yapıldı. Serbest piyasada ve sözleşmeli ekim­de belirlenen alım fiyatları, yükselen üretim maliyetleri­nin gerisinde kaldı. Bu fiyat düşüklüğü Manisa ve Bursa gibi önemli salçalık domates üretimi bölgelerine de yansı­ması endişesi yaşanıyor.",
+      "long_summary_tr": "İzmir’in Torbalı ilçesinde başlayan salçalık doma­tes hasadı krizle açıldı. Bu yıl Torbalı’da 40 bin dekarda do­mates ekimi yapıldı. Serbest piyasada ve sözleşmeli ekim­de belirlenen alım fiyatları, yükselen üretim maliyetleri­nin gerisinde kaldı. Bu fiyat düşüklüğü Manisa ve Bursa gibi önemli salçalık domates üretimi bölgelerine de yansı­ması endişesi yaşanıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/salcalik-domateste-dusuk-fiyat-krizi-kapida-haberi-834808",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/cc1-o0pu_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "145 yılın ısınma rekoru kırıldı",
+      "title_tr": "145 yılın ısınma rekoru kırıldı",
+      "summary": "İklim krizinde istatistiksel gürültü perdesi kalktı; küresel ısınma 2015 yılından bu yana son 145 yılın en yüksek artış hızına ulaştı. Potsdam İklim Etki Araştırma Enstitüsü (PIK) verilerine göre, El Niño ve doğal döngüler arındırıldığında gezegenin ısınma hızı 10 yılda 0,35°C’ye fırladı. Beş küresel veri setiyle doğrulanan bu devasa ivmelenme, yeşil dönüşümün ekonomik maliyetlerini ve risk primlerini baştan yazıyor.",
+      "summary_tr": "İklim krizinde istatistiksel gürültü perdesi kalktı; küresel ısınma 2015 yılından bu yana son 145 yılın en yüksek artış hızına ulaştı. Potsdam İklim Etki Araştırma Enstitüsü (PIK) verilerine göre, El Niño ve doğal döngüler arındırıldığında gezegenin ısınma hızı 10 yılda 0,35°C’ye fırladı. Beş küresel veri setiyle doğrulanan bu devasa ivmelenme, yeşil dönüşümün ekonomik maliyetlerini ve risk primlerini baştan yazıyor.",
+      "long_summary": "İklim krizinde istatistiksel gürültü perdesi kalktı; küresel ısınma 2015 yılından bu yana son 145 yılın en yüksek artış hızına ulaştı. Potsdam İklim Etki Araştırma Enstitüsü (PIK) verilerine göre, El Niño ve doğal döngüler arındırıldığında gezegenin ısınma hızı 10 yılda 0,35°C’ye fırladı. Beş küresel veri setiyle doğrulanan bu devasa ivmelenme, yeşil dönüşümün ekonomik maliyetlerini ve risk primlerini baştan yazıyor.",
+      "long_summary_tr": "İklim krizinde istatistiksel gürültü perdesi kalktı; küresel ısınma 2015 yılından bu yana son 145 yılın en yüksek artış hızına ulaştı. Potsdam İklim Etki Araştırma Enstitüsü (PIK) verilerine göre, El Niño ve doğal döngüler arındırıldığında gezegenin ısınma hızı 10 yılda 0,35°C’ye fırladı. Beş küresel veri setiyle doğrulanan bu devasa ivmelenme, yeşil dönüşümün ekonomik maliyetlerini ve risk primlerini baştan yazıyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/surdurulebilir-dunya/145-yilin-isinma-rekoru-kirildi-haberi-834809",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/tt1-xx9e_cover.jpg",
+      "published_at": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Welsh Fire make light work of low-scoring Southern Brave",
+      "title_tr": "Welsh Fire make light work of low-scoring Southern Brave",
+      "summary": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "summary_tr": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "long_summary": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "long_summary_tr": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cjwx9ddx883o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7672/live/4ea0b3a0-8f7b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published_at": "2026-08-03T20:59:18+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "All About John Miller, Jennifer Garner’s Longtime Boyfriend",
+      "title_tr": "All About John Miller, Jennifer Garner’s Longtime Boyfriend",
+      "summary": "All About John Miller, Jennifer Garner’s Longtime Boyfriend",
+      "summary_tr": "All About John Miller, Jennifer Garner’s Longtime Boyfriend",
+      "long_summary": "All About John Miller, Jennifer Garner’s Longtime Boyfriend",
+      "long_summary_tr": "All About John Miller, Jennifer Garner’s Longtime Boyfriend",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a39998995/who-is-john-miller-jennifer-garner-boyfriend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/jennifer-garner-john-miller-bgus-2557013-001-1675105832.jpg",
+      "published_at": "2026-08-03T20:59:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -161,21 +579,65 @@
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Yeni Parti açıkladı; 5 günde partiye 240 milyon TL bağış yapıldı",
-      "title_tr": "Yeni Parti açıkladı; 5 günde partiye 240 milyon TL bağış yapıldı",
-      "summary": "Yeni Parti Çanakkale Milletvekili Özgür Ceylan, sosyal medya hesabından yaptığı paylaşımda, partiye yapılan bağışları ve kaç bağışçının olduğunu açıkladı. Ceylan, \"YENİ Partimizin dayanışma kampanyasına 5’inci gününde 113.678 vatandaşımız tarafından 240.305.252 TL bağışta bulunulmuştur. İktidar yürüyüşüne destek olan tüm yurttaşlarımıza teşekkür ediyoruz\" dedi.Yeni Parti Genel Başkan Yardımcısı Özgür Ceylan, başlattıkları bağış kampanyasına 5 günde 113 bin 678 kişi tarafından 240 milyon 305 bin TL bağış yapıldığını açıkladı.\n\n\"Değerli Vatandaşlarımız; YENİ Partimizin dayanışma kampanyasına 5’inci gününde 113.678 vatandaşımız tarafından 240.305.252 TL bağışta bulunulmuştur. İktidar yürüyüşüne destek olan tüm yurttaşlarımıza teşekkür ediyoruz. Toplanan bağışlarla ilgili bilgileri açıklamaya devam edeceğiz. Yol cümleden uludur. Yolumuz halkın yoludur! Tek resmi bağış sayfamız aşağıdadır, desteklerinizi bekliyoruz. http://yeni-parti.org.tr/bagis/\"",
-      "summary_tr": "Yeni Parti Çanakkale Milletvekili Özgür Ceylan, sosyal medya hesabından yaptığı paylaşımda, partiye yapılan bağışları ve kaç bağışçının olduğunu açıkladı. Ceylan, \"YENİ Partimizin dayanışma kampanyasına 5’inci gününde 113.678 vatandaşımız tarafından 240.305.252 TL bağışta bulunulmuştur. İktidar yürüyüşüne destek olan tüm yurttaşlarımıza teşekkür ediyoruz\" dedi.Yeni Parti Genel Başkan Yardımcısı Özgür Ceylan, başlattıkları bağış kampanyasına 5 günde 113 bin 678 kişi tarafından 240 milyon 305 bin TL bağış yapıldığını açıkladı.\n\n\"Değerli Vatandaşlarımız; YENİ Partimizin dayanışma kampanyasına 5’inci gününde 113.678 vatandaşımız tarafından 240.305.252 TL bağışta bulunulmuştur. İktidar yürüyüşüne destek olan tüm yurttaşlarımıza teşekkür ediyoruz. Toplanan bağışlarla ilgili bilgileri açıklamaya devam edeceğiz. Yol cümleden uludur. Yolumuz halkın yoludur! Tek resmi bağış sayfamız aşağıdadır, desteklerinizi bekliyoruz. http://yeni-parti.org.tr/bagis/\"",
-      "long_summary": "Yeni Parti Çanakkale Milletvekili Özgür Ceylan, sosyal medya hesabından yaptığı paylaşımda, partiye yapılan bağışları ve kaç bağışçının olduğunu açıkladı. Ceylan, \"YENİ Partimizin dayanışma kampanyasına 5’inci gününde 113.678 vatandaşımız tarafından 240.305.252 TL bağışta bulunulmuştur. İktidar yürüyüşüne destek olan tüm yurttaşlarımıza teşekkür ediyoruz\" dedi.Yeni Parti Genel Başkan Yardımcısı Özgür Ceylan, başlattıkları bağış kampanyasına 5 günde 113 bin 678 kişi tarafından 240 milyon 305 bin",
-      "long_summary_tr": "Yeni Parti Çanakkale Milletvekili Özgür Ceylan, sosyal medya hesabından yaptığı paylaşımda, partiye yapılan bağışları ve kaç bağışçının olduğunu açıkladı. Ceylan, \"YENİ Partimizin dayanışma kampanyasına 5’inci gününde 113.678 vatandaşımız tarafından 240.305.252 TL bağışta bulunulmuştur. İktidar yürüyüşüne destek olan tüm yurttaşlarımıza teşekkür ediyoruz\" dedi.Yeni Parti Genel Başkan Yardımcısı Özgür Ceylan, başlattıkları bağış kampanyasına 5 günde 113 bin 678 kişi tarafından 240 milyon 305 bin",
+      "title": "BM: İsrail, Lübnan hava sahasında 4 günde 125 ihlal gerçekleştirdi",
+      "title_tr": "BM: İsrail, Lübnan hava sahasında 4 günde 125 ihlal gerçekleştirdi",
+      "summary": "Birleşmiş Milletler (BM), İsrail'in Lübnan hava sahasında ihlallerinin devam ettiğini, geçen haftanın son 4 gününde toplam 125 ihlal tespit edildiğini bildirdi.BM Genel Sekreter Sözcü Yardımcısı Farhan Haq, New York'ta düzenlenen günlük basın toplantısında, Orta Doğu'daki gelişmelerle ilgili güncel bilgileri paylaştı.\n\nHaq, BM Lübnan Geçici Barış Gücü (UNIFIL) raporlarını aktardığı toplantıda, İsrail'in 30 Temmuz-2 Ağustos döneminde Lübnan hava sahasında \"toplam uçuş süresi 418 saati aşan 125 hava sahası ihlali kaydettiği\" bilgisini verdi.\n\nBu sürede UNIFIL mevzilerinin yakınında veya üzerinde gözetleme ve silahlı insansız hava araçları (İHA) tespit edildiğini belirten Haq, \"Barış güçleri, ayrıca Lübnan'ın güneyinde önemli mühendislik çalışmaları ve aktif birlik hareketleri de dahil kapsamlı askeri faaliyetler olduğunu bildiriyor.\" dedi.\n\nHaq, hafta sonu boyunca İsrail'in, Litani Nehri çevresinde topçu ateşi açtığını, Akdeniz'deki Lübnan kara sularında da faaliyetlerine devam ettiğini belirtti.\n\n⁠İsrail'in Lübnan'daki saldırıları ve ateşkes süreci\n\nİsrail ordusu, Lübnan'a 2 Mart'ta yoğun hava saldırıları başlatarak ülkenin güneyinde birçok beldeyi işgal etmişti.\n\nLübnan hükümeti, bu süreçte ülkede yerinden edilenlerin sayısının 1 milyonu aştığını açıklamıştı.\n\nABD Başkanı Donald Trump, 24 Nisan'da yaptığı açıklamada, Lübnan ile İsrail arasında 17 Nisan'da yürürlüğe giren 10 günlük geçici ateşkesin 3 hafta uzatıldığını duyurmuştu.\n\nABD arabuluculuğunda Lübnan ile İsrail arasında 14-15 Mayıs'ta gerçekleştirilen 3. tur görüşmeler sonucunda 17 Mayıs itibarıyla ateşkesin 45 gün uzatılması kararlaştırılmıştı.\n\nLübnan Sağlık Bakanlığı, son açıklamasında, İsrail'in 2 Mart'tan bu yana ülkeye düzenlediği saldırılarda 4 bin 333 kişinin hayatını kaybettiğini bildirmişti.\n\nÖte yandan, Washington'da İsrail ile Lübnan arasında yürütülen doğrudan müzakerelerin 5. tur görüşmelerinin ardından 26 Haziran'da Lübnan ve İsrail arasında çerçeve anlaşması imzalanmıştı.",
+      "summary_tr": "Birleşmiş Milletler (BM), İsrail'in Lübnan hava sahasında ihlallerinin devam ettiğini, geçen haftanın son 4 gününde toplam 125 ihlal tespit edildiğini bildirdi.BM Genel Sekreter Sözcü Yardımcısı Farhan Haq, New York'ta düzenlenen günlük basın toplantısında, Orta Doğu'daki gelişmelerle ilgili güncel bilgileri paylaştı.\n\nHaq, BM Lübnan Geçici Barış Gücü (UNIFIL) raporlarını aktardığı toplantıda, İsrail'in 30 Temmuz-2 Ağustos döneminde Lübnan hava sahasında \"toplam uçuş süresi 418 saati aşan 125 hava sahası ihlali kaydettiği\" bilgisini verdi.\n\nBu sürede UNIFIL mevzilerinin yakınında veya üzerinde gözetleme ve silahlı insansız hava araçları (İHA) tespit edildiğini belirten Haq, \"Barış güçleri, ayrıca Lübnan'ın güneyinde önemli mühendislik çalışmaları ve aktif birlik hareketleri de dahil kapsamlı askeri faaliyetler olduğunu bildiriyor.\" dedi.\n\nHaq, hafta sonu boyunca İsrail'in, Litani Nehri çevresinde topçu ateşi açtığını, Akdeniz'deki Lübnan kara sularında da faaliyetlerine devam ettiğini belirtti.\n\n⁠İsrail'in Lübnan'daki saldırıları ve ateşkes süreci\n\nİsrail ordusu, Lübnan'a 2 Mart'ta yoğun hava saldırıları başlatarak ülkenin güneyinde birçok beldeyi işgal etmişti.\n\nLübnan hükümeti, bu süreçte ülkede yerinden edilenlerin sayısının 1 milyonu aştığını açıklamıştı.\n\nABD Başkanı Donald Trump, 24 Nisan'da yaptığı açıklamada, Lübnan ile İsrail arasında 17 Nisan'da yürürlüğe giren 10 günlük geçici ateşkesin 3 hafta uzatıldığını duyurmuştu.\n\nABD arabuluculuğunda Lübnan ile İsrail arasında 14-15 Mayıs'ta gerçekleştirilen 3. tur görüşmeler sonucunda 17 Mayıs itibarıyla ateşkesin 45 gün uzatılması kararlaştırılmıştı.\n\nLübnan Sağlık Bakanlığı, son açıklamasında, İsrail'in 2 Mart'tan bu yana ülkeye düzenlediği saldırılarda 4 bin 333 kişinin hayatını kaybettiğini bildirmişti.\n\nÖte yandan, Washington'da İsrail ile Lübnan arasında yürütülen doğrudan müzakerelerin 5. tur görüşmelerinin ardından 26 Haziran'da Lübnan ve İsrail arasında çerçeve anlaşması imzalanmıştı.",
+      "long_summary": "Birleşmiş Milletler (BM), İsrail'in Lübnan hava sahasında ihlallerinin devam ettiğini, geçen haftanın son 4 gününde toplam 125 ihlal tespit edildiğini bildirdi.BM Genel Sekreter Sözcü Yardımcısı Farhan Haq, New York'ta düzenlenen günlük basın toplantısında, Orta Doğu'daki gelişmelerle ilgili güncel bilgileri paylaştı.\n\nHaq, BM Lübnan Geçici Barış Gücü (UNIFIL) raporlarını aktardığı toplantıda, İsrail'in 30 Temmuz-2 Ağustos döneminde Lübnan hava sahasında \"toplam uçuş süresi 418 saati aşan 125",
+      "long_summary_tr": "Birleşmiş Milletler (BM), İsrail'in Lübnan hava sahasında ihlallerinin devam ettiğini, geçen haftanın son 4 gününde toplam 125 ihlal tespit edildiğini bildirdi.BM Genel Sekreter Sözcü Yardımcısı Farhan Haq, New York'ta düzenlenen günlük basın toplantısında, Orta Doğu'daki gelişmelerle ilgili güncel bilgileri paylaştı.\n\nHaq, BM Lübnan Geçici Barış Gücü (UNIFIL) raporlarını aktardığı toplantıda, İsrail'in 30 Temmuz-2 Ağustos döneminde Lübnan hava sahasında \"toplam uçuş süresi 418 saati aşan 125",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/yeni-parti-acikladi-5-gunde-partiye-240-milyon-tl-bagis-yapildi-1682654",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/yeni-parti-acikladi-5-gunde-partiye-240-milyon-tl-bagis-yapildi-1785785796-33_large.webp",
-      "published_at": "2026-08-03T19:20:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/dunya/bm-israil-lubnan-hava-sahasinda-4-gunde-125-ihlal-gerceklestirdi-1682678",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/bm-israil-lubnan-hava-sahasinda-4-gunde-125-ihlal-gerceklestirdi-1785790611-872_large.webp",
+      "published_at": "2026-08-03T20:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Dave Bautista in Talks to Join God of War TV Series as Kratos",
+      "title_tr": "Dave Bautista in Talks to Join God of War TV Series as Kratos",
+      "summary": "Dave Bautista is reportedly in talks to become Kratos in Prime Video's live-action God of War TV series.",
+      "summary_tr": "Dave Bautista is reportedly in talks to become Kratos in Prime Video's live-action God of War TV series.",
+      "long_summary": "Dave Bautista is reportedly in talks to become Kratos in Prime Video's live-action God of War TV series.",
+      "long_summary_tr": "Dave Bautista is reportedly in talks to become Kratos in Prime Video's live-action God of War TV series.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/dave-bautista-in-talks-to-join-god-of-war-tv-series-as-kratos",
+      "image": "https://assets-prd.ignimgs.com/2026/08/03/dave-bautista-1785790032895.jpg",
+      "published_at": "2026-08-03T20:49:45+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Apnimed büyütülen Nasdaq halka arzında 220,8 milyon dolar topladı",
+      "title_tr": "Apnimed büyütülen Nasdaq halka arzında 220,8 milyon dolar topladı",
+      "summary": "Apnimed büyütülen Nasdaq halka arzında 220,8 milyon dolar topladı",
+      "summary_tr": "Apnimed büyütülen Nasdaq halka arzında 220,8 milyon dolar topladı",
+      "long_summary": "Apnimed büyütülen Nasdaq halka arzında 220,8 milyon dolar topladı",
+      "long_summary_tr": "Apnimed büyütülen Nasdaq halka arzında 220,8 milyon dolar topladı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/apnimed-buyutulen-nasdaq-halka-arznda-2208-milyon-dolar-toplad-432SI-4010596",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+      "published_at": "2026-08-03T20:48:02+00:00"
     },
     {
       "origin": "yabanci",
@@ -183,87 +645,109 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Eala beats Pegula at DC Open to claim first WTA Tour title",
-      "title_tr": "Eala beats Pegula at DC Open to claim first WTA Tour title",
-      "summary": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open.",
-      "summary_tr": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open.",
-      "long_summary": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open.",
-      "long_summary_tr": "Rising Filipina star Alexandra Eala came from a set down against Jessica Pegula to claim the first WTA Tour singles title of her career at the DC Open.",
+      "title": "'Perfect ball' | Nygren nods Celtic in front from Tierney's superb delivery",
+      "title_tr": "'Perfect ball' | Nygren nods Celtic in front from Tierney's superb delivery",
+      "summary": "Benjamin Nygren scores Celtic's first goal of the season with a header from a great cross from Kieran Tierney to give the home side the lead against Dundee.",
+      "summary_tr": "Benjamin Nygren scores Celtic's first goal of the season with a header from a great cross from Kieran Tierney to give the home side the lead against Dundee.",
+      "long_summary": "Benjamin Nygren scores Celtic's first goal of the season with a header from a great cross from Kieran Tierney to give the home side the lead against Dundee.",
+      "long_summary_tr": "Benjamin Nygren scores Celtic's first goal of the season with a header from a great cross from Kieran Tierney to give the home side the lead against Dundee.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/tennis/news/12040/13569516/alexandra-eala-rising-filipina-star-beats-jessica-pegula-in-dc-open-final-to-claim-first-wta-tour-title",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-alexandra-eala-washing_7313192.jpg?20260803191705",
-      "published_at": "2026-08-03T19:20:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
-      "title_tr": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
-      "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki heyetle bir araya geldi.",
-      "summary_tr": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki heyetle bir araya geldi.",
-      "long_summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki heyetle bir araya geldi.",
-      "long_summary_tr": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul&#039;da Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki heyetle bir araya geldi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-haberi-834815",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/rr1-luks_cover.jpg",
-      "published_at": "2026-08-03T19:19:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Son dakika! Karadeniz'de RO-RO gemisine saldırı: Yaralılar var",
-      "title_tr": "Son dakika! Karadeniz'de RO-RO gemisine saldırı: Yaralılar var",
-      "summary": "Denizcilik Genel Müdürlüğü, Novorossiysk Limanı&#039;ndan Samsun&#039;a seyir hâlindeki NADEZHDA isimli Ro-Ro gemisinin dron saldırısına uğradığını açıkladı. Gemide çıkan yangının sürdüğü belirtilirken, 22 mürettebatın Rus deniz unsurlarınca tahliye edildiği, ilk belirlemelere göre 3 personelin sağlık durumunun ağır olabileceği bildirildi.",
-      "summary_tr": "Denizcilik Genel Müdürlüğü, Novorossiysk Limanı&#039;ndan Samsun&#039;a seyir hâlindeki NADEZHDA isimli Ro-Ro gemisinin dron saldırısına uğradığını açıkladı. Gemide çıkan yangının sürdüğü belirtilirken, 22 mürettebatın Rus deniz unsurlarınca tahliye edildiği, ilk belirlemelere göre 3 personelin sağlık durumunun ağır olabileceği bildirildi.",
-      "long_summary": "Denizcilik Genel Müdürlüğü, Novorossiysk Limanı&#039;ndan Samsun&#039;a seyir hâlindeki NADEZHDA isimli Ro-Ro gemisinin dron saldırısına uğradığını açıkladı. Gemide çıkan yangının sürdüğü belirtilirken, 22 mürettebatın Rus deniz unsurlarınca tahliye edildiği, ilk belirlemelere göre 3 personelin sağlık durumunun ağır olabileceği bildirildi.",
-      "long_summary_tr": "Denizcilik Genel Müdürlüğü, Novorossiysk Limanı&#039;ndan Samsun&#039;a seyir hâlindeki NADEZHDA isimli Ro-Ro gemisinin dron saldırısına uğradığını açıkladı. Gemide çıkan yangının sürdüğü belirtilirken, 22 mürettebatın Rus deniz unsurlarınca tahliye edildiği, ilk belirlemelere göre 3 personelin sağlık durumunun ağır olabileceği bildirildi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/son-dakika-karadenizde-ro-ro-gemisine-saldiri-yaralilar-var-haberi-834814",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/r1-4xey_cover.jpg",
-      "published_at": "2026-08-03T19:15:00+00:00"
+      "url": "https://www.skysports.com/watch/video/13569537/benjamin-nygren-puts-celtic-in-from-with-a-header-after-a-perfect-cross-from-kieran-tierney",
+      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-celtic-nygren_7313249.jpg?20260803204939",
+      "published_at": "2026-08-03T20:45:00+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "Elle",
-      "title": "The Princess Diaries Cast and Crew Look Back on the Film’s 25-Year Legacy—and Ahead to the 3rd Film",
-      "title_tr": "The Princess Diaries Cast and Crew Look Back on the Film’s 25-Year Legacy—and Ahead to the 3rd Film",
-      "summary": "The beloved franchise is poised to round out its trilogy with Adele Lim at the helm. For now, we look back at a quarter-century of Anne Hathaway’s Mia Thermopolis.",
-      "summary_tr": "The beloved franchise is poised to round out its trilogy with Adele Lim at the helm. For now, we look back at a quarter-century of Anne Hathaway’s Mia Thermopolis.",
-      "long_summary": "The beloved franchise is poised to round out its trilogy with Adele Lim at the helm. For now, we look back at a quarter-century of Anne Hathaway’s Mia Thermopolis.",
-      "long_summary_tr": "The beloved franchise is poised to round out its trilogy with Adele Lim at the helm. For now, we look back at a quarter-century of Anne Hathaway’s Mia Thermopolis.",
+      "source": "IGN",
+      "title": "Bluetti's Popular AC70 768Wh 1,000W LiFePO4 Power Station With 5 Year Warranty Drops to $220",
+      "title_tr": "Bluetti's Popular AC70 768Wh 1,000W LiFePO4 Power Station With 5 Year Warranty Drops to $220",
+      "summary": "AliExpress has it for half the price of Amazon, and it ships directly from the manufacturer.",
+      "summary_tr": "AliExpress has it for half the price of Amazon, and it ships directly from the manufacturer.",
+      "long_summary": "AliExpress has it for half the price of Amazon, and it ships directly from the manufacturer.",
+      "long_summary_tr": "AliExpress has it for half the price of Amazon, and it ships directly from the manufacturer.",
       "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+        "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.elle.com/culture/movies-tv/a73332985/princess-diaries-25th-anniversary-third-film-interviews-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/085c8316-14a3-47ed-bbcc-6c5d39bbdc85.jpg",
-      "published_at": "2026-08-03T19:10:34+00:00"
+      "url": "https://www.ign.com/articles/bluetti-ac70-768wh-1000w-lifepo4-power-station-deal-august-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/08/03/bluettiac70-1785789014507.jpg",
+      "published_at": "2026-08-03T20:45:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "'I Would Need It to Be Completely Unconventional' - Andrew Garfield Is Open to The Amazing Spider-Man 3 on One Condition",
+      "title_tr": "'I Would Need It to Be Completely Unconventional' - Andrew Garfield Is Open to The Amazing Spider-Man 3 on One Condition",
+      "summary": "Andrew Garfield is open to coming back as Spidey for The Amazing Spider-Man 3, but it would need to be very weird.",
+      "summary_tr": "Andrew Garfield is open to coming back as Spidey for The Amazing Spider-Man 3, but it would need to be very weird.",
+      "long_summary": "Andrew Garfield is open to coming back as Spidey for The Amazing Spider-Man 3, but it would need to be very weird.",
+      "long_summary_tr": "Andrew Garfield is open to coming back as Spidey for The Amazing Spider-Man 3, but it would need to be very weird.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/i-would-need-it-to-be-completely-unconventional-andrew-garfield-is-open-to-the-amazing-spider-man-3-on-one-condition",
+      "image": "https://assets-prd.ignimgs.com/2021/09/14/1280-garfield-spider-manjpg-886bbe-160w-1631625348371.jpg",
+      "published_at": "2026-08-03T20:43:35+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Superb Short half-century guides Fire past Brave",
+      "title_tr": "Superb Short half-century guides Fire past Brave",
+      "summary": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "summary_tr": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "long_summary": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "long_summary_tr": "Welsh Fire claim their fourth win in five matches in this season's Hundred as a well-crafted half-century from Matt Short helps them defeat Southern Brave by six wickets in Cardiff.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c39e7k9209ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80e4/live/841ed360-8f7e-11f1-a7ab-8b30adf0800a.jpg",
+      "published_at": "2026-08-03T20:42:20+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Türkiye, Katar ve Mısır'dan İsrail'e kınama",
+      "title_tr": "Türkiye, Katar ve Mısır'dan İsrail'e kınama",
+      "summary": "Türkiye, Katar ve Mısır, ortak açıklamayla Gazze&#039;de sivil kayıplara neden olan ve uluslararası hukukun açık ihlalini teşkil eden İsrail ihlallerini şiddetle kınadı.",
+      "summary_tr": "Türkiye, Katar ve Mısır, ortak açıklamayla Gazze&#039;de sivil kayıplara neden olan ve uluslararası hukukun açık ihlalini teşkil eden İsrail ihlallerini şiddetle kınadı.",
+      "long_summary": "Türkiye, Katar ve Mısır, ortak açıklamayla Gazze&#039;de sivil kayıplara neden olan ve uluslararası hukukun açık ihlalini teşkil eden İsrail ihlallerini şiddetle kınadı.",
+      "long_summary_tr": "Türkiye, Katar ve Mısır, ortak açıklamayla Gazze&#039;de sivil kayıplara neden olan ve uluslararası hukukun açık ihlalini teşkil eden İsrail ihlallerini şiddetle kınadı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/turkiye-katar-ve-misirdan-israile-kinama-haberi-834819",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/tr-cgev_cover.jpg",
+      "published_at": "2026-08-03T20:41:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -271,21 +755,43 @@
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Karadeniz'de vurulan Palau bayraklı kuru yük gemisi Zonguldak'a çekildi",
-      "title_tr": "Karadeniz'de vurulan Palau bayraklı kuru yük gemisi Zonguldak'a çekildi",
-      "summary": "Ukrayna’nın Sulina Kanalı açıklarında dron ile vurulup hasar gören Palau bandıralı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.Karadeniz’de, Ukrayna’nın Sulina kanalı açıklarında 25 Temmuz’da düzenlenen dron saldırısı ile vurulan Palau bayraklı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.\n\nGeminin kaptan köşkü ve yaşam mahallinin bulunduğu bölümün saldırı sonrası çıkan yangın nedeniyle karardığı görüldü. Zonguldak Limanı açığında demirleyen geminin yapılacak incelemesinin ardından tamirinin yapılacağı tersaneye gideceği öğrenildi.",
-      "summary_tr": "Ukrayna’nın Sulina Kanalı açıklarında dron ile vurulup hasar gören Palau bandıralı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.Karadeniz’de, Ukrayna’nın Sulina kanalı açıklarında 25 Temmuz’da düzenlenen dron saldırısı ile vurulan Palau bayraklı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.\n\nGeminin kaptan köşkü ve yaşam mahallinin bulunduğu bölümün saldırı sonrası çıkan yangın nedeniyle karardığı görüldü. Zonguldak Limanı açığında demirleyen geminin yapılacak incelemesinin ardından tamirinin yapılacağı tersaneye gideceği öğrenildi.",
-      "long_summary": "Ukrayna’nın Sulina Kanalı açıklarında dron ile vurulup hasar gören Palau bandıralı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.Karadeniz’de, Ukrayna’nın Sulina kanalı açıklarında 25 Temmuz’da düzenlenen dron saldırısı ile vurulan Palau bayraklı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.\n\nGeminin kaptan köşkü ve yaşam mahallinin bulunduğu bölümün saldırı sonrası çıkan yangın nedeniyle karardığı görüldü.",
-      "long_summary_tr": "Ukrayna’nın Sulina Kanalı açıklarında dron ile vurulup hasar gören Palau bandıralı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.Karadeniz’de, Ukrayna’nın Sulina kanalı açıklarında 25 Temmuz’da düzenlenen dron saldırısı ile vurulan Palau bayraklı kuru yük gemisi AGN Ragnar, römorkör tarafından çekilerek Zonguldak açıklarına getirildi.\n\nGeminin kaptan köşkü ve yaşam mahallinin bulunduğu bölümün saldırı sonrası çıkan yangın nedeniyle karardığı görüldü.",
+      "title": "Malatya'da tarım işçilerini taşıyan minibüs tıra çarptı: 18 yaralı!",
+      "title_tr": "Malatya'da tarım işçilerini taşıyan minibüs tıra çarptı: 18 yaralı!",
+      "summary": "Malatya'nın Battalgazi ilçesinde, tarım işçilerini taşıyan minibüsün tıra arkadan çarpması sonucu 18 kişi yaralandı.Sürücüsü henüz öğrenilemeyen, tarım işçilerini taşıyan minibüs, Malatya-Elazığ kara yolunun 20. kilometresinde, sürücüsü belirlenemeyen tıra arkadan çarptı.\n\nİhbar üzerine olay yerine çok sayıda ambulans, itfaiye ve jandarma ekibi sevk edildi.\n\nKazada yaralanan üçü ağır 18 kişi, ambulanslarla kentteki hastanelere kaldırıldı.\n\nKaza nedeniyle bir süre ulaşıma kapanan yol, ekiplerin çalışmasının ardından yeniden ulaşıma açıldı.",
+      "summary_tr": "Malatya'nın Battalgazi ilçesinde, tarım işçilerini taşıyan minibüsün tıra arkadan çarpması sonucu 18 kişi yaralandı.Sürücüsü henüz öğrenilemeyen, tarım işçilerini taşıyan minibüs, Malatya-Elazığ kara yolunun 20. kilometresinde, sürücüsü belirlenemeyen tıra arkadan çarptı.\n\nİhbar üzerine olay yerine çok sayıda ambulans, itfaiye ve jandarma ekibi sevk edildi.\n\nKazada yaralanan üçü ağır 18 kişi, ambulanslarla kentteki hastanelere kaldırıldı.\n\nKaza nedeniyle bir süre ulaşıma kapanan yol, ekiplerin çalışmasının ardından yeniden ulaşıma açıldı.",
+      "long_summary": "Malatya'nın Battalgazi ilçesinde, tarım işçilerini taşıyan minibüsün tıra arkadan çarpması sonucu 18 kişi yaralandı.Sürücüsü henüz öğrenilemeyen, tarım işçilerini taşıyan minibüs, Malatya-Elazığ kara yolunun 20. kilometresinde, sürücüsü belirlenemeyen tıra arkadan çarptı.\n\nİhbar üzerine olay yerine çok sayıda ambulans, itfaiye ve jandarma ekibi sevk edildi.\n\nKazada yaralanan üçü ağır 18 kişi, ambulanslarla kentteki hastanelere kaldırıldı.\n\nKaza nedeniyle bir süre ulaşıma kapanan yol, ekiplerin",
+      "long_summary_tr": "Malatya'nın Battalgazi ilçesinde, tarım işçilerini taşıyan minibüsün tıra arkadan çarpması sonucu 18 kişi yaralandı.Sürücüsü henüz öğrenilemeyen, tarım işçilerini taşıyan minibüs, Malatya-Elazığ kara yolunun 20. kilometresinde, sürücüsü belirlenemeyen tıra arkadan çarptı.\n\nİhbar üzerine olay yerine çok sayıda ambulans, itfaiye ve jandarma ekibi sevk edildi.\n\nKazada yaralanan üçü ağır 18 kişi, ambulanslarla kentteki hastanelere kaldırıldı.\n\nKaza nedeniyle bir süre ulaşıma kapanan yol, ekiplerin",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/karadeniz-de-vurulan-palau-bayrakli-kuru-yuk-gemisi-zonguldak-a-cekildi-1682651",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/karadeniz-de-vurulan-palau-bayrakli-kuru-yuk-gemisi-zonguldak-a-cekildi-1785785731-135_large.webp",
-      "published_at": "2026-08-03T19:10:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/malatya-da-tarim-iscilerini-tasiyan-minibus-tira-carpti-18-yarali-1682675",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/malatya-da-tarim-iscilerini-tasiyan-minibus-tira-carpti-18-yarali-1785789504-310_large.webp",
+      "published_at": "2026-08-03T20:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "Upcoming New Sony Spider-Man Universe Movies and TV Shows: 2026 Marvel Spin-Off Release Dates and Beyond",
+      "title_tr": "Upcoming New Sony Spider-Man Universe Movies and TV Shows: 2026 Marvel Spin-Off Release Dates and Beyond",
+      "summary": "From Brand New Day to Beyond the Spider-Verse to the Sony's Spider-Man Universe reboot, we break down all the projects currently in development in the Spider-Man universe.",
+      "summary_tr": "From Brand New Day to Beyond the Spider-Verse to the Sony's Spider-Man Universe reboot, we break down all the projects currently in development in the Spider-Man universe.",
+      "long_summary": "From Brand New Day to Beyond the Spider-Verse to the Sony's Spider-Man Universe reboot, we break down all the projects currently in development in the Spider-Man universe.",
+      "long_summary_tr": "From Brand New Day to Beyond the Spider-Verse to the Sony's Spider-Man Universe reboot, we break down all the projects currently in development in the Spider-Man universe.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/upcoming-sony-spider-man-movies-2026-tv-shows-release-dates",
+      "image": "https://assets-prd.ignimgs.com/2025/03/17/spidermanspinoffs-2025-blogroll-1742234529967.jpg",
+      "published_at": "2026-08-03T20:38:44+00:00"
     },
     {
       "origin": "turkiye",
@@ -293,21 +799,65 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
-      "title": "ABD Hazinesi 3. çeyrek borçlanma tahminini 739 milyar dolara yükseltti",
-      "title_tr": "ABD Hazinesi 3. çeyrek borçlanma tahminini 739 milyar dolara yükseltti",
-      "summary": "ABD Hazinesi 3. çeyrek borçlanma tahminini 739 milyar dolara yükseltti",
-      "summary_tr": "ABD Hazinesi 3. çeyrek borçlanma tahminini 739 milyar dolara yükseltti",
-      "long_summary": "ABD Hazinesi 3. çeyrek borçlanma tahminini 739 milyar dolara yükseltti",
-      "long_summary_tr": "ABD Hazinesi 3. çeyrek borçlanma tahminini 739 milyar dolara yükseltti",
+      "title": "Seans sonrası hisse hareketleri: PLTR, SNAP, ON, ICHR, WGS, WHR",
+      "title_tr": "Seans sonrası hisse hareketleri: PLTR, SNAP, ON, ICHR, WGS, WHR",
+      "summary": "Seans sonrası hisse hareketleri: PLTR, SNAP, ON, ICHR, WGS, WHR",
+      "summary_tr": "Seans sonrası hisse hareketleri: PLTR, SNAP, ON, ICHR, WGS, WHR",
+      "long_summary": "Seans sonrası hisse hareketleri: PLTR, SNAP, ON, ICHR, WGS, WHR",
+      "long_summary_tr": "Seans sonrası hisse hareketleri: PLTR, SNAP, ON, ICHR, WGS, WHR",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/abd-hazinesi-3-ceyrek-borclanma-tahminini-739-milyar-dolara-yukseltti-93CH-4010440",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published_at": "2026-08-03T19:05:15+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/seans-sonras-hisse-hareketleri-pltr-snap-on-ichr-wgs-whr-432SI-4010582",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL7410R_L.jpg",
+      "published_at": "2026-08-03T20:38:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Fed anketi 2. çeyrekte ticari kredi standartlarında değişiklik olmadığını gösterdi",
+      "title_tr": "Fed anketi 2. çeyrekte ticari kredi standartlarında değişiklik olmadığını gösterdi",
+      "summary": "Fed anketi 2. çeyrekte ticari kredi standartlarında değişiklik olmadığını gösterdi",
+      "summary_tr": "Fed anketi 2. çeyrekte ticari kredi standartlarında değişiklik olmadığını gösterdi",
+      "long_summary": "Fed anketi 2. çeyrekte ticari kredi standartlarında değişiklik olmadığını gösterdi",
+      "long_summary_tr": "Fed anketi 2. çeyrekte ticari kredi standartlarında değişiklik olmadığını gösterdi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/fed-anketi-2-ceyrekte-ticari-kredi-standartlarnda-degisiklik-olmadgn-gosterdi-93CH-4010563",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPED0C0KP_M.jpg",
+      "published_at": "2026-08-03T20:35:58+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Palantir hissesi bugün neden yükseliyor?",
+      "title_tr": "Palantir hissesi bugün neden yükseliyor?",
+      "summary": "Palantir hissesi bugün neden yükseliyor?",
+      "summary_tr": "Palantir hissesi bugün neden yükseliyor?",
+      "long_summary": "Palantir hissesi bugün neden yükseliyor?",
+      "long_summary_tr": "Palantir hissesi bugün neden yükseliyor?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/palantir-hissesi-bugun-neden-yukseliyor-93CH-4010558",
+      "image": "https://i-invdn-com.investing.com/news/PalantirTechnologies_800x533_L_1599055554.jpg",
+      "published_at": "2026-08-03T20:33:49+00:00"
     },
     {
       "origin": "turkiye",
@@ -328,30 +878,8 @@
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
       "url": "https://www.ntv.com.tr/turkiye/cem-kucuk-sorusturmasi-gazeteci-tahir-sarikaya-gozaltina-alindi-1735832",
-      "image": "https://images.ntv.com.tr/images/6a6cf8a3e46f292010584cde-357901.jpg",
-      "published_at": "2026-08-03T19:04:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "CoreWeave hisseleri bugün neden yükselişte?",
-      "title_tr": "CoreWeave hisseleri bugün neden yükselişte?",
-      "summary": "CoreWeave hisseleri bugün neden yükselişte?",
-      "summary_tr": "CoreWeave hisseleri bugün neden yükselişte?",
-      "long_summary": "CoreWeave hisseleri bugün neden yükselişte?",
-      "long_summary_tr": "CoreWeave hisseleri bugün neden yükselişte?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/coreweave-hisseleri-bugun-neden-yukseliste-93CH-4010439",
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published_at": "2026-08-03T19:03:10+00:00"
+      "image": "https://images.ntv.com.tr/images/GAZETECI-TAHIR-SARIKAYA-GOZALTINA-ALINDI_1441806_428763-555731.jpg",
+      "published_at": "2026-08-03T20:31:46+00:00"
     },
     {
       "origin": "turkiye",
@@ -359,43 +887,21 @@
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Nadir varyant alarmı! Vaka sayısı giderek artıyor: Tedavisi yok!",
-      "title_tr": "Nadir varyant alarmı! Vaka sayısı giderek artıyor: Tedavisi yok!",
-      "summary": "Kongo Demokratik Cumhuriyeti'nde (KDC) 15 Mayıs'ta ilan edilen Ebola salgınında doğrulanan vaka sayısı 3 bin 748'e, hayatını kaybedenlerin sayısı ise bin 657'ye yükseldi. Sağlık yetkilileri salgının nadir Ebola varyantı olan \"Bundibugyo\"dan kaynaklı olduğunu ve tedavisinin olmadığını bildirdi.Sağlık Bakanlığının paylaştığı son verilere göre salgın, Haut-Uele, Ituri, Kuzey Kivu, Güney Kivu ve Tshopo eyaletlerinde etkisini sürdürüyor. Salgının başlangıcından bu yana 3 bin 748 doğrulanmış vaka kaydedilirken, 1657 kişi hayatını kaybetti. Salgında ölüm oranının yüzde 44, temaslı takip oranının ise yüzde 80,1 olarak güncellendiği bildirildi.\n\nEBOLA AFRİKA'DA BİNLERCE KİŞİYİ ÖLDÜRDÜ\n\nBir tür kanamalı ateşe yol açan Ebola virüsü, ilk kez 1976'da Sudan'ın Nzara kasabasında ve KDC'nin Yambuku köyünde eş zamanlı salgınlarla ortaya çıkmıştı.\n\nKDC'deki salgın, Ebola Nehri yakınındaki köyde başladığı için hastalığa bu nehrin adı verilmişti.\n\nEbola virüsü, Aralık 2013'te Batı Afrika'da yayılmıştı. Gine, Liberya ve Sierra Leone'de 2014-2017 yıllarında görülen salgında 30 bin kişiye virüs bulaşmış ve hastaların 11 binden fazlası yaşamını yitirmişti.\n\nTEDAVİSİ VEYA AŞISI BULUNMUYOR\n\nKDC'nin doğusundaki Ituri eyaletinde açıklanan 246 şüpheli vaka ve 65 ölümün ardından 15 Mayıs'ta ülkede salgın ilan edilmişti.\n\nSağlık yetkililerine göre, mevcut salgın nadir Ebola varyantı \"Bundibugyo\" virüsünden kaynaklanıyor ve onaylanmış tedavisi veya aşısı bulunmuyor.\n\nKONTROLDEN ÇIKTI\n\nDünya Sağlık Örgütü (DSÖ) tarafından yapılan açıklamada, Afrika ülkesi Kongo Demokratik Cumhuriyeti'nde Ebola salgının artık kontrolden çıktığını ve endişe verici boyutlara ulaştığını duyurdu.",
-      "summary_tr": "Kongo Demokratik Cumhuriyeti'nde (KDC) 15 Mayıs'ta ilan edilen Ebola salgınında doğrulanan vaka sayısı 3 bin 748'e, hayatını kaybedenlerin sayısı ise bin 657'ye yükseldi. Sağlık yetkilileri salgının nadir Ebola varyantı olan \"Bundibugyo\"dan kaynaklı olduğunu ve tedavisinin olmadığını bildirdi.Sağlık Bakanlığının paylaştığı son verilere göre salgın, Haut-Uele, Ituri, Kuzey Kivu, Güney Kivu ve Tshopo eyaletlerinde etkisini sürdürüyor. Salgının başlangıcından bu yana 3 bin 748 doğrulanmış vaka kaydedilirken, 1657 kişi hayatını kaybetti. Salgında ölüm oranının yüzde 44, temaslı takip oranının ise yüzde 80,1 olarak güncellendiği bildirildi.\n\nEBOLA AFRİKA'DA BİNLERCE KİŞİYİ ÖLDÜRDÜ\n\nBir tür kanamalı ateşe yol açan Ebola virüsü, ilk kez 1976'da Sudan'ın Nzara kasabasında ve KDC'nin Yambuku köyünde eş zamanlı salgınlarla ortaya çıkmıştı.\n\nKDC'deki salgın, Ebola Nehri yakınındaki köyde başladığı için hastalığa bu nehrin adı verilmişti.\n\nEbola virüsü, Aralık 2013'te Batı Afrika'da yayılmıştı. Gine, Liberya ve Sierra Leone'de 2014-2017 yıllarında görülen salgında 30 bin kişiye virüs bulaşmış ve hastaların 11 binden fazlası yaşamını yitirmişti.\n\nTEDAVİSİ VEYA AŞISI BULUNMUYOR\n\nKDC'nin doğusundaki Ituri eyaletinde açıklanan 246 şüpheli vaka ve 65 ölümün ardından 15 Mayıs'ta ülkede salgın ilan edilmişti.\n\nSağlık yetkililerine göre, mevcut salgın nadir Ebola varyantı \"Bundibugyo\" virüsünden kaynaklanıyor ve onaylanmış tedavisi veya aşısı bulunmuyor.\n\nKONTROLDEN ÇIKTI\n\nDünya Sağlık Örgütü (DSÖ) tarafından yapılan açıklamada, Afrika ülkesi Kongo Demokratik Cumhuriyeti'nde Ebola salgının artık kontrolden çıktığını ve endişe verici boyutlara ulaştığını duyurdu.",
-      "long_summary": "Kongo Demokratik Cumhuriyeti'nde (KDC) 15 Mayıs'ta ilan edilen Ebola salgınında doğrulanan vaka sayısı 3 bin 748'e, hayatını kaybedenlerin sayısı ise bin 657'ye yükseldi. Sağlık yetkilileri salgının nadir Ebola varyantı olan \"Bundibugyo\"dan kaynaklı olduğunu ve tedavisinin olmadığını bildirdi.Sağlık Bakanlığının paylaştığı son verilere göre salgın, Haut-Uele, Ituri, Kuzey Kivu, Güney Kivu ve Tshopo eyaletlerinde etkisini sürdürüyor. Salgının başlangıcından bu yana 3 bin 748 doğrulanmış vaka",
-      "long_summary_tr": "Kongo Demokratik Cumhuriyeti'nde (KDC) 15 Mayıs'ta ilan edilen Ebola salgınında doğrulanan vaka sayısı 3 bin 748'e, hayatını kaybedenlerin sayısı ise bin 657'ye yükseldi. Sağlık yetkilileri salgının nadir Ebola varyantı olan \"Bundibugyo\"dan kaynaklı olduğunu ve tedavisinin olmadığını bildirdi.Sağlık Bakanlığının paylaştığı son verilere göre salgın, Haut-Uele, Ituri, Kuzey Kivu, Güney Kivu ve Tshopo eyaletlerinde etkisini sürdürüyor. Salgının başlangıcından bu yana 3 bin 748 doğrulanmış vaka",
+      "title": "Gazze'de 2 Filistinli daha katledildi!",
+      "title_tr": "Gazze'de 2 Filistinli daha katledildi!",
+      "summary": "Katil İsrail ordusunun Gazze kentinin batısındaki Raşid Caddesi’nde bir araca düzenlediği hava saldırısında 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.Sağlık kaynaklarından alınan bilgiye göre İsrail ordusu, Gazze kentinin batısındaki Raşid Caddesi’nde bir aracı hedef aldı.\n\nSaldırıda 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.\n\nSaldırı, Gazze Barış Kurulu Yüksek Temsilcisi Nickolay Mladenov ile Barış Kurulu Üst Düzey Danışmanı Aryeh Lightstone’un İsrail Başbakanı Binyamin Netanyahu’dan Gazze Şeridi’ne yönelik saldırıların durdurulmasını talep etmesinin ardından düzenlenen ilk hava saldırısı oldu.\n\nİsrail medyasına göre Mladenov, Netanyahu’ya, “Anlaşmada taahhüt ettiğiniz gibi Gazze’deki saldırıları durdurun.” çağrısında bulunmuştu.",
+      "summary_tr": "Katil İsrail ordusunun Gazze kentinin batısındaki Raşid Caddesi’nde bir araca düzenlediği hava saldırısında 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.Sağlık kaynaklarından alınan bilgiye göre İsrail ordusu, Gazze kentinin batısındaki Raşid Caddesi’nde bir aracı hedef aldı.\n\nSaldırıda 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.\n\nSaldırı, Gazze Barış Kurulu Yüksek Temsilcisi Nickolay Mladenov ile Barış Kurulu Üst Düzey Danışmanı Aryeh Lightstone’un İsrail Başbakanı Binyamin Netanyahu’dan Gazze Şeridi’ne yönelik saldırıların durdurulmasını talep etmesinin ardından düzenlenen ilk hava saldırısı oldu.\n\nİsrail medyasına göre Mladenov, Netanyahu’ya, “Anlaşmada taahhüt ettiğiniz gibi Gazze’deki saldırıları durdurun.” çağrısında bulunmuştu.",
+      "long_summary": "Katil İsrail ordusunun Gazze kentinin batısındaki Raşid Caddesi’nde bir araca düzenlediği hava saldırısında 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.Sağlık kaynaklarından alınan bilgiye göre İsrail ordusu, Gazze kentinin batısındaki Raşid Caddesi’nde bir aracı hedef aldı.\n\nSaldırıda 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.\n\nSaldırı, Gazze Barış Kurulu Yüksek Temsilcisi Nickolay Mladenov ile Barış Kurulu Üst Düzey Danışmanı Aryeh Lightstone’un İsrail Başbakanı",
+      "long_summary_tr": "Katil İsrail ordusunun Gazze kentinin batısındaki Raşid Caddesi’nde bir araca düzenlediği hava saldırısında 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.Sağlık kaynaklarından alınan bilgiye göre İsrail ordusu, Gazze kentinin batısındaki Raşid Caddesi’nde bir aracı hedef aldı.\n\nSaldırıda 2 Filistinli hayatını kaybetti, çok sayıda kişi yaralandı.\n\nSaldırı, Gazze Barış Kurulu Yüksek Temsilcisi Nickolay Mladenov ile Barış Kurulu Üst Düzey Danışmanı Aryeh Lightstone’un İsrail Başbakanı",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/nadir-varyant-alarmi-vaka-sayisi-giderek-artiyor-tedavisi-yok-1682648",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/nadir-varyant-alarmi-vaka-sayisi-giderek-artiyor-tedavisi-yok-1785783874-93_large.webp",
-      "published_at": "2026-08-03T19:03:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "KKR & Co hisseleri neden bugün yükseliyor?",
-      "title_tr": "KKR & Co hisseleri neden bugün yükseliyor?",
-      "summary": "KKR & Co hisseleri neden bugün yükseliyor?",
-      "summary_tr": "KKR & Co hisseleri neden bugün yükseliyor?",
-      "long_summary": "KKR & Co hisseleri neden bugün yükseliyor?",
-      "long_summary_tr": "KKR & Co hisseleri neden bugün yükseliyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/kkr--co-hisseleri-neden-bugun-yukseliyor-93CH-4010435",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_M.jpg",
-      "published_at": "2026-08-03T19:00:47+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/dunya/gazze-de-2-filistinli-daha-katledildi-1682672",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/gazze-de-2-filistinli-daha-katledildi-1785789459-474_large.webp",
+      "published_at": "2026-08-03T20:30:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -403,87 +909,43 @@
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "ShiftDelete",
-      "title": "Google Health Verileri Artık Apple Health ile Eşleşebiliyor",
-      "title_tr": "Google Health Verileri Artık Apple Health ile Eşleşebiliyor",
-      "summary": "Google Health 5.05 güncellemesi ile Fitbit verileri artık Apple Health uygulamasıyla senkronize edilebiliyor. Yeni özellikleri ve detayları inceleyin.",
-      "summary_tr": "Google Health 5.05 güncellemesi ile Fitbit verileri artık Apple Health uygulamasıyla senkronize edilebiliyor. Yeni özellikleri ve detayları inceleyin.",
-      "long_summary": "Google Health 5.05 güncellemesi ile Fitbit verileri artık Apple Health uygulamasıyla senkronize edilebiliyor. Yeni özellikleri ve detayları inceleyin.",
-      "long_summary_tr": "Google Health 5.05 güncellemesi ile Fitbit verileri artık Apple Health uygulamasıyla senkronize edilebiliyor. Yeni özellikleri ve detayları inceleyin.",
+      "title": "Klasik Pokémon Oyunları PC’de Hayat Buldu",
+      "title_tr": "Klasik Pokémon Oyunları PC’de Hayat Buldu",
+      "summary": "Pokémon Red, Blue ve Yellow oyunları Gen1Recomp projesi ile 3D voxel görsellerle PC platformuna taşındı. İşte klasik oyunun yeni hali.",
+      "summary_tr": "Pokémon Red, Blue ve Yellow oyunları Gen1Recomp projesi ile 3D voxel görsellerle PC platformuna taşındı. İşte klasik oyunun yeni hali.",
+      "long_summary": "Pokémon Red, Blue ve Yellow oyunları Gen1Recomp projesi ile 3D voxel görsellerle PC platformuna taşındı. İşte klasik oyunun yeni hali.",
+      "long_summary_tr": "Pokémon Red, Blue ve Yellow oyunları Gen1Recomp projesi ile 3D voxel görsellerle PC platformuna taşındı. İşte klasik oyunun yeni hali.",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://shiftdelete.net/google-health-verileri-artik-apple-health-ile-eslesebiliyor",
+      "url": "https://shiftdelete.net/klasik-pokemon-oyunlari-pcde-hayat-buldu",
       "image": null,
-      "published_at": "2026-08-03T19:00:00+00:00"
+      "published_at": "2026-08-03T20:30:00+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "Elle",
-      "title": "The 42 Best Shoe Deals at the Nordstrom Anniversary Sale",
-      "title_tr": "The 42 Best Shoe Deals at the Nordstrom Anniversary Sale",
-      "summary": "Score up to 40 percent off brands like Stuart Weitzman, Loeffler Randall, Reformation, and more.",
-      "summary_tr": "Score up to 40 percent off brands like Stuart Weitzman, Loeffler Randall, Reformation, and more.",
-      "long_summary": "Score up to 40 percent off brands like Stuart Weitzman, Loeffler Randall, Reformation, and more.",
-      "long_summary_tr": "Score up to 40 percent off brands like Stuart Weitzman, Loeffler Randall, Reformation, and more.",
+      "source": "Habertürk",
+      "title": "Sigaraya zam mı geldi?",
+      "title_tr": "Sigaraya zam mı geldi?",
+      "summary": "Sigara fiyatlarına yönelik zam haberlerine bir yenisi daha eklendi. Türkiye Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, sosyal medya hesabından yaptığı paylaşımla bir sigara grubunda fiyat artışına gidildiğini duyurdu. Açıklamaya göre ilgili sigara grubundaki ürünlerin perakende satış fiyatına 10 TL zam yapıldı. Son güncellemeyle birlikte gruptaki tüm ürünler aynı fiyat üzerinden satışa sunulacak. Zam kararıyla birlikte tüketiciler yeni fiyat listesini araştırmaya başladı. Peki, sigaraya zam mı geldi? En ucuz sigara ne kadar oldu, hangi sigara grubuna zam geldi? İşte 3 Ağustos 2026 Pazartesi en ucuz ve en pahalı sigara fiyatları listesi...",
+      "summary_tr": "Sigara fiyatlarına yönelik zam haberlerine bir yenisi daha eklendi. Türkiye Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, sosyal medya hesabından yaptığı paylaşımla bir sigara grubunda fiyat artışına gidildiğini duyurdu. Açıklamaya göre ilgili sigara grubundaki ürünlerin perakende satış fiyatına 10 TL zam yapıldı. Son güncellemeyle birlikte gruptaki tüm ürünler aynı fiyat üzerinden satışa sunulacak. Zam kararıyla birlikte tüketiciler yeni fiyat listesini araştırmaya başladı. Peki, sigaraya zam mı geldi? En ucuz sigara ne kadar oldu, hangi sigara grubuna zam geldi? İşte 3 Ağustos 2026 Pazartesi en ucuz ve en pahalı sigara fiyatları listesi...",
+      "long_summary": "Sigara fiyatlarına yönelik zam haberlerine bir yenisi daha eklendi. Türkiye Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, sosyal medya hesabından yaptığı paylaşımla bir sigara grubunda fiyat artışına gidildiğini duyurdu. Açıklamaya göre ilgili sigara grubundaki ürünlerin perakende satış fiyatına 10 TL zam yapıldı. Son güncellemeyle birlikte gruptaki tüm ürünler aynı fiyat üzerinden satışa sunulacak. Zam kararıyla birlikte tüketiciler yeni fiyat listesini araştırmaya başladı.",
+      "long_summary_tr": "Sigara fiyatlarına yönelik zam haberlerine bir yenisi daha eklendi. Türkiye Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, sosyal medya hesabından yaptığı paylaşımla bir sigara grubunda fiyat artışına gidildiğini duyurdu. Açıklamaya göre ilgili sigara grubundaki ürünlerin perakende satış fiyatına 10 TL zam yapıldı. Son güncellemeyle birlikte gruptaki tüm ürünler aynı fiyat üzerinden satışa sunulacak. Zam kararıyla birlikte tüketiciler yeni fiyat listesini araştırmaya başladı.",
       "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.elle.com/fashion/shopping/a73334236/best-nordstrom-anniversary-sale-shoe-deals/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/bad8c0b1-941c-4029-9bfe-e8d6ecf8923a.jpeg",
-      "published_at": "2026-08-03T18:54:18+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "Jackie the bald eagle’s anemia worsens",
-      "title_tr": "Jackie the bald eagle’s anemia worsens",
-      "summary": "She has been recovering from an altercation with two eagles for two weeks. \nThe post Jackie the bald eagle’s anemia worsens appeared first on Popular Science.",
-      "summary_tr": "She has been recovering from an altercation with two eagles for two weeks. \nThe post Jackie the bald eagle’s anemia worsens appeared first on Popular Science.",
-      "long_summary": "She has been recovering from an altercation with two eagles for two weeks. \nThe post Jackie the bald eagle’s anemia worsens appeared first on Popular Science.",
-      "long_summary_tr": "She has been recovering from an altercation with two eagles for two weeks. \nThe post Jackie the bald eagle’s anemia worsens appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/jackie-eagle-anemia-worse-update-august-3/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/08/jackie-eagle-profile.png?quality=85",
-      "published_at": "2026-08-03T18:53:20+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Serena to resume comeback alongside sister Venus in Cincinnati",
-      "title_tr": "Serena to resume comeback alongside sister Venus in Cincinnati",
-      "summary": "Serena and Venus Williams are set to play at the Cincinnati Open after being awarded a wild card for the women's doubles draw.",
-      "summary_tr": "Serena and Venus Williams are set to play at the Cincinnati Open after being awarded a wild card for the women's doubles draw.",
-      "long_summary": "Serena and Venus Williams are set to play at the Cincinnati Open after being awarded a wild card for the women's doubles draw.",
-      "long_summary_tr": "Serena and Venus Williams are set to play at the Cincinnati Open after being awarded a wild card for the women's doubles draw.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/tennis/news/12040/13569496/serena-williams-given-wild-card-for-cincinnati-open-womens-doubles-alongside-sister-venus-as-comeback-continues",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-serena-williams-tennis_7313181.jpg?20260803185557",
-      "published_at": "2026-08-03T18:50:00+00:00"
+      "url": "https://www.haberturk.com/sigaraya-zam-mi-geldi-3-agustos-pazartesi-en-ucuz-ve-en-pahali-sigara-fiyati-ne-kadar-oldu-hangi-sigara-grubuna-zam-geldi-3903122",
+      "image": "https://im.haberturk.com/l/2026/08/03/ver1785788909/3903122/jpg/1280x1280",
+      "published_at": "2026-08-03T20:29:40+00:00"
     },
     {
       "origin": "turkiye",
@@ -491,417 +953,21 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
-      "title": "Robinhood Markets hissesi bugün neden yükseliyor?",
-      "title_tr": "Robinhood Markets hissesi bugün neden yükseliyor?",
-      "summary": "Robinhood Markets hissesi bugün neden yükseliyor?",
-      "summary_tr": "Robinhood Markets hissesi bugün neden yükseliyor?",
-      "long_summary": "Robinhood Markets hissesi bugün neden yükseliyor?",
-      "long_summary_tr": "Robinhood Markets hissesi bugün neden yükseliyor?",
+      "title": "Danaher hisseleri yeni CEO ataması sonrası yükseldi",
+      "title_tr": "Danaher hisseleri yeni CEO ataması sonrası yükseldi",
+      "summary": "Danaher hisseleri yeni CEO ataması sonrası yükseldi",
+      "summary_tr": "Danaher hisseleri yeni CEO ataması sonrası yükseldi",
+      "long_summary": "Danaher hisseleri yeni CEO ataması sonrası yükseldi",
+      "long_summary_tr": "Danaher hisseleri yeni CEO ataması sonrası yükseldi",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/robinhood-markets-hissesi-bugun-neden-yukseliyor-93CH-4010433",
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published_at": "2026-08-03T18:48:56+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "İlk Evim konut kredisi ne zaman çıkacak?",
-      "title_tr": "İlk Evim konut kredisi ne zaman çıkacak?",
-      "summary": "İlk kez ev sahibi olmak isteyen vatandaşların yakından takip ettiği \"İlk Evim\" konut kredisi kampanyası yeniden gündemde. Özellikle 1.20 faiz oranıyla kredi verileceğine yönelik iddiaların ardından gözler hükümet ve ilgili kurumların yapacağı resmi açıklamalara çevrildi. Ev sahibi olmayı planlayanlar, ilk evim kredisi başvuru şartlarını ve kimlerin yararlanabileceğini araştırıyor.  Peki, İlk Evim 1.20 faizli konut kredisi çıktı mı, ilk evim kredisi başvuruları ne zaman başlayacak ve kimlere verilecek? İşte İlk Evim 1.20 faizli konut kredisi veren bankalar listesi...",
-      "summary_tr": "İlk kez ev sahibi olmak isteyen vatandaşların yakından takip ettiği \"İlk Evim\" konut kredisi kampanyası yeniden gündemde. Özellikle 1.20 faiz oranıyla kredi verileceğine yönelik iddiaların ardından gözler hükümet ve ilgili kurumların yapacağı resmi açıklamalara çevrildi. Ev sahibi olmayı planlayanlar, ilk evim kredisi başvuru şartlarını ve kimlerin yararlanabileceğini araştırıyor.  Peki, İlk Evim 1.20 faizli konut kredisi çıktı mı, ilk evim kredisi başvuruları ne zaman başlayacak ve kimlere verilecek? İşte İlk Evim 1.20 faizli konut kredisi veren bankalar listesi...",
-      "long_summary": "İlk kez ev sahibi olmak isteyen vatandaşların yakından takip ettiği \"İlk Evim\" konut kredisi kampanyası yeniden gündemde. Özellikle 1.20 faiz oranıyla kredi verileceğine yönelik iddiaların ardından gözler hükümet ve ilgili kurumların yapacağı resmi açıklamalara çevrildi. Ev sahibi olmayı planlayanlar, ilk evim kredisi başvuru şartlarını ve kimlerin yararlanabileceğini araştırıyor.  Peki, İlk Evim 1.20 faizli konut kredisi çıktı mı, ilk evim kredisi başvuruları ne zaman başlayacak ve kimlere",
-      "long_summary_tr": "İlk kez ev sahibi olmak isteyen vatandaşların yakından takip ettiği \"İlk Evim\" konut kredisi kampanyası yeniden gündemde. Özellikle 1.20 faiz oranıyla kredi verileceğine yönelik iddiaların ardından gözler hükümet ve ilgili kurumların yapacağı resmi açıklamalara çevrildi. Ev sahibi olmayı planlayanlar, ilk evim kredisi başvuru şartlarını ve kimlerin yararlanabileceğini araştırıyor.  Peki, İlk Evim 1.20 faizli konut kredisi çıktı mı, ilk evim kredisi başvuruları ne zaman başlayacak ve kimlere",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/ilk-evim-120-faizli-konut-kredisi-cikti-mi-ilk-kez-ev-alacaklara-ozel-konut-kredisi-ne-zaman-cikacak-ilk-evim-kredisi-sartlari-neler-3903089",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785775561/3903089/jpg/1280x1280",
-      "published_at": "2026-08-03T18:47:31+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "LPG'ye zam mı gelecek?",
-      "title_tr": "LPG'ye zam mı gelecek?",
-      "summary": "Akaryakıt fiyatlarında yeni hafta öncesi dikkat çeken bir gelişme yaşandı. Benzin Otogaz (LPG) için zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgilere göre LPG fiyatlarına litre başına 2,42 TL zam yapılması bekleniyor. Söz konusu fiyat artışının 4 Ağustos Salı günü gece yarısından itibaren pompaya yansıması öngörülüyor. Peki, LPG'ye zam mı geliyor? Benzine ve motorine indirim ya da zam var mı? İşte 3 Ağustos Pazartesi İstanbul, Ankara ve İzmir güncel akaryakıt fiyatları...",
-      "summary_tr": "Akaryakıt fiyatlarında yeni hafta öncesi dikkat çeken bir gelişme yaşandı. Benzin Otogaz (LPG) için zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgilere göre LPG fiyatlarına litre başına 2,42 TL zam yapılması bekleniyor. Söz konusu fiyat artışının 4 Ağustos Salı günü gece yarısından itibaren pompaya yansıması öngörülüyor. Peki, LPG'ye zam mı geliyor? Benzine ve motorine indirim ya da zam var mı? İşte 3 Ağustos Pazartesi İstanbul, Ankara ve İzmir güncel akaryakıt fiyatları...",
-      "long_summary": "Akaryakıt fiyatlarında yeni hafta öncesi dikkat çeken bir gelişme yaşandı. Benzin Otogaz (LPG) için zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgilere göre LPG fiyatlarına litre başına 2,42 TL zam yapılması bekleniyor. Söz konusu fiyat artışının 4 Ağustos Salı günü gece yarısından itibaren pompaya yansıması öngörülüyor. Peki, LPG'ye zam mı geliyor? Benzine ve motorine indirim ya da zam var mı? İşte 3 Ağustos Pazartesi İstanbul, Ankara ve İzmir güncel akaryakıt fiyatları...",
-      "long_summary_tr": "Akaryakıt fiyatlarında yeni hafta öncesi dikkat çeken bir gelişme yaşandı. Benzin Otogaz (LPG) için zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgilere göre LPG fiyatlarına litre başına 2,42 TL zam yapılması bekleniyor. Söz konusu fiyat artışının 4 Ağustos Salı günü gece yarısından itibaren pompaya yansıması öngörülüyor. Peki, LPG'ye zam mı geliyor? Benzine ve motorine indirim ya da zam var mı? İşte 3 Ağustos Pazartesi İstanbul, Ankara ve İzmir güncel akaryakıt fiyatları...",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/lpg-ye-zam-mi-geliyor-benzine-ve-motorine-indirim-ya-da-zam-var-mi-3-agustos-pazartesi-istanbul-izmir-ankara-guncel-akaryakit-fiyatlari-3903083",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785774146/3903083/jpg/1280x1280",
-      "published_at": "2026-08-03T18:47:02+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Quick Sigorta halka arz sonuçları",
-      "title_tr": "Quick Sigorta halka arz sonuçları",
-      "summary": "29-30-31 Temmuz tarihlerinde talep toplayan Quick Sigorta halka arz sonuçları açıklandı. Halka arz kapsamında toplam 48 milyon 312 bin 950 adet payın dağıtımı tamamlandı. Gözler şimdi QUICK hisselerinin Borsa İstanbul'da işlem görmeye başlayacağı tarihe çevrildi. Peki, Quick Sigorta kaç lot verdi, QUICK hisseleri ne zaman borsada işlem görecek? İşte Quick Sigorta halka arz sonuçları ve hissenin borsada işlem göreceği tarih...",
-      "summary_tr": "29-30-31 Temmuz tarihlerinde talep toplayan Quick Sigorta halka arz sonuçları açıklandı. Halka arz kapsamında toplam 48 milyon 312 bin 950 adet payın dağıtımı tamamlandı. Gözler şimdi QUICK hisselerinin Borsa İstanbul'da işlem görmeye başlayacağı tarihe çevrildi. Peki, Quick Sigorta kaç lot verdi, QUICK hisseleri ne zaman borsada işlem görecek? İşte Quick Sigorta halka arz sonuçları ve hissenin borsada işlem göreceği tarih...",
-      "long_summary": "29-30-31 Temmuz tarihlerinde talep toplayan Quick Sigorta halka arz sonuçları açıklandı. Halka arz kapsamında toplam 48 milyon 312 bin 950 adet payın dağıtımı tamamlandı. Gözler şimdi QUICK hisselerinin Borsa İstanbul'da işlem görmeye başlayacağı tarihe çevrildi. Peki, Quick Sigorta kaç lot verdi, QUICK hisseleri ne zaman borsada işlem görecek? İşte Quick Sigorta halka arz sonuçları ve hissenin borsada işlem göreceği tarih...",
-      "long_summary_tr": "29-30-31 Temmuz tarihlerinde talep toplayan Quick Sigorta halka arz sonuçları açıklandı. Halka arz kapsamında toplam 48 milyon 312 bin 950 adet payın dağıtımı tamamlandı. Gözler şimdi QUICK hisselerinin Borsa İstanbul'da işlem görmeye başlayacağı tarihe çevrildi. Peki, Quick Sigorta kaç lot verdi, QUICK hisseleri ne zaman borsada işlem görecek? İşte Quick Sigorta halka arz sonuçları ve hissenin borsada işlem göreceği tarih...",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/quick-sigorta-halka-arz-sonuclari-aciklandi-mi-quick-sigorta-kac-lot-verdi-quick-borsada-ne-zaman-islem-gorecek-3903079",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785773270/3903079/jpg/1280x1280",
-      "published_at": "2026-08-03T18:46:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "On Numara sonuçları açıklandı",
-      "title_tr": "On Numara sonuçları açıklandı",
-      "summary": "Milli Piyango Online tarafından gerçekleştirilen On Numara çekilişinin sonuçları belli oldu. 3 Ağustos 2026 Pazartesi günü yapılan çekilişin ardından talihli numaralar araştırılmaya başlandı. Büyük ikramiyeyi kazanıp kazanmadığını öğrenmek isteyenler On Numara sonuç sorgulama ekranına yoğun ilgi gösteriyor. Çekiliş noter huzurunda canlı yayında gerçekleştirildi ve sonuçlar resmi olarak erişime açıldı. Peki, 3 Ağustos 2026 On Numara çekiliş sonuçları açıklandı mı, kazandıran numaralar ne oldu? İşte 3 Ağustos 2026 Pazartesi On Numara sonuç sorgulama ekranı ve çekilişe ilişkin detaylar...",
-      "summary_tr": "Milli Piyango Online tarafından gerçekleştirilen On Numara çekilişinin sonuçları belli oldu. 3 Ağustos 2026 Pazartesi günü yapılan çekilişin ardından talihli numaralar araştırılmaya başlandı. Büyük ikramiyeyi kazanıp kazanmadığını öğrenmek isteyenler On Numara sonuç sorgulama ekranına yoğun ilgi gösteriyor. Çekiliş noter huzurunda canlı yayında gerçekleştirildi ve sonuçlar resmi olarak erişime açıldı. Peki, 3 Ağustos 2026 On Numara çekiliş sonuçları açıklandı mı, kazandıran numaralar ne oldu? İşte 3 Ağustos 2026 Pazartesi On Numara sonuç sorgulama ekranı ve çekilişe ilişkin detaylar...",
-      "long_summary": "Milli Piyango Online tarafından gerçekleştirilen On Numara çekilişinin sonuçları belli oldu. 3 Ağustos 2026 Pazartesi günü yapılan çekilişin ardından talihli numaralar araştırılmaya başlandı. Büyük ikramiyeyi kazanıp kazanmadığını öğrenmek isteyenler On Numara sonuç sorgulama ekranına yoğun ilgi gösteriyor. Çekiliş noter huzurunda canlı yayında gerçekleştirildi ve sonuçlar resmi olarak erişime açıldı. Peki, 3 Ağustos 2026 On Numara çekiliş sonuçları açıklandı mı, kazandıran numaralar ne oldu?",
-      "long_summary_tr": "Milli Piyango Online tarafından gerçekleştirilen On Numara çekilişinin sonuçları belli oldu. 3 Ağustos 2026 Pazartesi günü yapılan çekilişin ardından talihli numaralar araştırılmaya başlandı. Büyük ikramiyeyi kazanıp kazanmadığını öğrenmek isteyenler On Numara sonuç sorgulama ekranına yoğun ilgi gösteriyor. Çekiliş noter huzurunda canlı yayında gerçekleştirildi ve sonuçlar resmi olarak erişime açıldı. Peki, 3 Ağustos 2026 On Numara çekiliş sonuçları açıklandı mı, kazandıran numaralar ne oldu?",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-3-agustos-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3903075",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785772644/3903075/jpg/1280x1280",
-      "published_at": "2026-08-03T18:46:13+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Trump'tan İran açıklaması! \"Bu onların son şansı\"",
-      "title_tr": "Trump'tan İran açıklaması! \"Bu onların son şansı\"",
-      "summary": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini ve bu görüşmelerin iyi bir anlaşma imzalamak için \"İran'ın son şansı\" olduğunu belirtti. İran'la müzakerelerin güncel maddesinin, Hürmüz Boğazı'nın tamamen açılması olduğunu kaydeden Trump, \"Daha sonra da İran'ın nükleer kapasitesini ele alacağız.\" dedi.Trump, Oval Ofis'te düzenlediği başkanlık kararnamesi imza töreninin ardından basın mensuplarının İran gündemine ilişkin sorularını yanıtladı. Donald Trump, Tahran'la müzakerelerin bugün yeniden başladığını ve şu anda sürdüğünü aktararak, İran'ın müzakereler konusunda birbiriyle çelişen açıklamalar yaptığını savundu.\n\nABD Başkanı Trump, \"Şu anda İran'ın talebi üzerine, Suudi Arabistan, Birleşik Arap Emirlikleri, Katar ve diğer ülkelerin de desteklediği görüşmeleri yürütüyoruz. Bu, onların iyi bir anlaşma yapması için son şansı.\" diye konuştu.\n\nHÜRMÜZ'DEN SONRA İRAN'IN NÜKLEER KAPASİTESİ GÜNDEME GELECEK\n\nİran'la görüşmeler yaparken, karşı tarafın kamuoyuna bazen \"ABD ile görüşmedikleri\" yönünde açıklamalar yaptığını ifade eden Trump, bundan rahatsız olduğunu vurguladı.\n\nİran'la müzakerelerin güncel maddesinin, Hürmüz Boğazı'nın tamamen açılması olduğunu kaydeden Trump, \"Daha sonra da İran'ın nükleer kapasitesini ele alacağız.\" dedi.\n\nHürmüz Boğazı'ndan geçen gemilerden İran'ın hiçbir şekilde ücret alamayacağını savunan Trump, \"Şu anda boğazı tamamen biz kontrol ediyoruz, eğer birisi alacaksa biz ücret alırız.\" değerlendirmesinde bulundu.",
-      "summary_tr": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini ve bu görüşmelerin iyi bir anlaşma imzalamak için \"İran'ın son şansı\" olduğunu belirtti. İran'la müzakerelerin güncel maddesinin, Hürmüz Boğazı'nın tamamen açılması olduğunu kaydeden Trump, \"Daha sonra da İran'ın nükleer kapasitesini ele alacağız.\" dedi.Trump, Oval Ofis'te düzenlediği başkanlık kararnamesi imza töreninin ardından basın mensuplarının İran gündemine ilişkin sorularını yanıtladı. Donald Trump, Tahran'la müzakerelerin bugün yeniden başladığını ve şu anda sürdüğünü aktararak, İran'ın müzakereler konusunda birbiriyle çelişen açıklamalar yaptığını savundu.\n\nABD Başkanı Trump, \"Şu anda İran'ın talebi üzerine, Suudi Arabistan, Birleşik Arap Emirlikleri, Katar ve diğer ülkelerin de desteklediği görüşmeleri yürütüyoruz. Bu, onların iyi bir anlaşma yapması için son şansı.\" diye konuştu.\n\nHÜRMÜZ'DEN SONRA İRAN'IN NÜKLEER KAPASİTESİ GÜNDEME GELECEK\n\nİran'la görüşmeler yaparken, karşı tarafın kamuoyuna bazen \"ABD ile görüşmedikleri\" yönünde açıklamalar yaptığını ifade eden Trump, bundan rahatsız olduğunu vurguladı.\n\nİran'la müzakerelerin güncel maddesinin, Hürmüz Boğazı'nın tamamen açılması olduğunu kaydeden Trump, \"Daha sonra da İran'ın nükleer kapasitesini ele alacağız.\" dedi.\n\nHürmüz Boğazı'ndan geçen gemilerden İran'ın hiçbir şekilde ücret alamayacağını savunan Trump, \"Şu anda boğazı tamamen biz kontrol ediyoruz, eğer birisi alacaksa biz ücret alırız.\" değerlendirmesinde bulundu.",
-      "long_summary": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini ve bu görüşmelerin iyi bir anlaşma imzalamak için \"İran'ın son şansı\" olduğunu belirtti. İran'la müzakerelerin güncel maddesinin, Hürmüz Boğazı'nın tamamen açılması olduğunu kaydeden Trump, \"Daha sonra da İran'ın nükleer kapasitesini ele alacağız.\" dedi.Trump, Oval Ofis'te düzenlediği başkanlık kararnamesi imza töreninin ardından basın mensuplarının İran gündemine ilişkin sorularını yanıtladı. Donald Trump, Tahran'la müzakerelerin",
-      "long_summary_tr": "ABD Başkanı Donald Trump, İran'la müzakerelerin devam ettiğini ve bu görüşmelerin iyi bir anlaşma imzalamak için \"İran'ın son şansı\" olduğunu belirtti. İran'la müzakerelerin güncel maddesinin, Hürmüz Boğazı'nın tamamen açılması olduğunu kaydeden Trump, \"Daha sonra da İran'ın nükleer kapasitesini ele alacağız.\" dedi.Trump, Oval Ofis'te düzenlediği başkanlık kararnamesi imza töreninin ardından basın mensuplarının İran gündemine ilişkin sorularını yanıtladı. Donald Trump, Tahran'la müzakerelerin",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/dunya/trump-tan-iran-aciklamasi-bu-onlarin-son-sansi-1682645",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/trump-tan-iran-aciklamasi-bu-onlarin-son-sansi-1785783741-103_large.webp",
-      "published_at": "2026-08-03T18:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Spider-Man’s Record-Breaking Box Office Clinches It: Marvel as We Know It Is Over",
-      "title_tr": "Spider-Man’s Record-Breaking Box Office Clinches It: Marvel as We Know It Is Over",
-      "summary": "The MCU as we know it will suffer due to Spider-Man: Brand New Day's box office success, and it may never be the same again.",
-      "summary_tr": "The MCU as we know it will suffer due to Spider-Man: Brand New Day's box office success, and it may never be the same again.",
-      "long_summary": "The MCU as we know it will suffer due to Spider-Man: Brand New Day's box office success, and it may never be the same again.",
-      "long_summary_tr": "The MCU as we know it will suffer due to Spider-Man: Brand New Day's box office success, and it may never be the same again.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/spider-mans-record-breaking-box-office-clinches-it-marvel-as-we-know-it-is-over",
-      "image": "https://assets-prd.ignimgs.com/2026/08/03/spidey-mcu-over-thumb-1785781872062.jpg",
-      "published_at": "2026-08-03T18:44:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "First Solar hisseleri neden bugün yükseliyor?",
-      "title_tr": "First Solar hisseleri neden bugün yükseliyor?",
-      "summary": "First Solar hisseleri neden bugün yükseliyor?",
-      "summary_tr": "First Solar hisseleri neden bugün yükseliyor?",
-      "long_summary": "First Solar hisseleri neden bugün yükseliyor?",
-      "long_summary_tr": "First Solar hisseleri neden bugün yükseliyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/first-solar-hisseleri-neden-bugun-yukseliyor-93CH-4010430",
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published_at": "2026-08-03T18:44:16+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "En düşük emekli maaşı zam farkı yattı mı?",
-      "title_tr": "En düşük emekli maaşı zam farkı yattı mı?",
-      "summary": "En düşük emekli aylığını 23 bin 552 TL'ye çıkaran düzenlemenin Resmî Gazete'de yayımlanarak yürürlüğe girmesiyle birlikte milyonlarca emeklinin gözü bu kez zam farkı ödemelerine çevrildi. Temmuz ayına ilişkin oluşan maaş farklarının ne zaman hesaplara yatırılacağı merak ediliyor. SSK ve Bağ-Kur emeklileri, tahsis numarasına göre yapılacak ödemelerin tarihini araştırmayı sürdürüyor. Peki, En düşük emekli maaşı zam farkı yattı, mı ne zaman yatacak 2026? İşte SGK tahsis numarasına göre Temmuz 2026 en düşük emekli maaşı ödeme tarihi...",
-      "summary_tr": "En düşük emekli aylığını 23 bin 552 TL'ye çıkaran düzenlemenin Resmî Gazete'de yayımlanarak yürürlüğe girmesiyle birlikte milyonlarca emeklinin gözü bu kez zam farkı ödemelerine çevrildi. Temmuz ayına ilişkin oluşan maaş farklarının ne zaman hesaplara yatırılacağı merak ediliyor. SSK ve Bağ-Kur emeklileri, tahsis numarasına göre yapılacak ödemelerin tarihini araştırmayı sürdürüyor. Peki, En düşük emekli maaşı zam farkı yattı, mı ne zaman yatacak 2026? İşte SGK tahsis numarasına göre Temmuz 2026 en düşük emekli maaşı ödeme tarihi...",
-      "long_summary": "En düşük emekli aylığını 23 bin 552 TL'ye çıkaran düzenlemenin Resmî Gazete'de yayımlanarak yürürlüğe girmesiyle birlikte milyonlarca emeklinin gözü bu kez zam farkı ödemelerine çevrildi. Temmuz ayına ilişkin oluşan maaş farklarının ne zaman hesaplara yatırılacağı merak ediliyor. SSK ve Bağ-Kur emeklileri, tahsis numarasına göre yapılacak ödemelerin tarihini araştırmayı sürdürüyor. Peki, En düşük emekli maaşı zam farkı yattı, mı ne zaman yatacak 2026? İşte SGK tahsis numarasına göre Temmuz 2026",
-      "long_summary_tr": "En düşük emekli aylığını 23 bin 552 TL'ye çıkaran düzenlemenin Resmî Gazete'de yayımlanarak yürürlüğe girmesiyle birlikte milyonlarca emeklinin gözü bu kez zam farkı ödemelerine çevrildi. Temmuz ayına ilişkin oluşan maaş farklarının ne zaman hesaplara yatırılacağı merak ediliyor. SSK ve Bağ-Kur emeklileri, tahsis numarasına göre yapılacak ödemelerin tarihini araştırmayı sürdürüyor. Peki, En düşük emekli maaşı zam farkı yattı, mı ne zaman yatacak 2026? İşte SGK tahsis numarasına göre Temmuz 2026",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/en-dusuk-emekli-maasi-zam-farki-yatti-mi-ne-zaman-yatacak-2026-en-dusuk-emekli-maasi-resmi-gazete-de-yayimlandi-mi-3902941",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785782644/3902941/jpg/1280x1280",
-      "published_at": "2026-08-03T18:44:04+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "LGS tercih sonuçları açıklanma tarihi",
-      "title_tr": "LGS tercih sonuçları açıklanma tarihi",
-      "summary": "LGS tercih sonuçları araştırılıyor. 2026 Liselere Geçiş Sistemi (LGS) kapsamında tercih işlemlerini tamamlayan binlerce öğrenci ve veli, Milli Eğitim Bakanlığı (MEB) tarafından yapılacak yerleştirme sonuçları açıklamasına odaklandı. \"LGS tercih sonuçları ne zaman açıklanacak?\", \"LGS yerleştirme sonuçları bugün açıklanır mı?\" ve \"2026 LGS sonuç sorgulama ekranı açıldı mı?\" soruları en çok araştırılan başlıklar arasında yer alıyor. MEB'in yayımladığı resmi takvim doğrultusunda sonuçların ilan edileceği tarih ve e-Okul üzerinden yapılacak sorgulama işlemlerine ilişkin tüm ayrıntılar haberimizde...",
-      "summary_tr": "LGS tercih sonuçları araştırılıyor. 2026 Liselere Geçiş Sistemi (LGS) kapsamında tercih işlemlerini tamamlayan binlerce öğrenci ve veli, Milli Eğitim Bakanlığı (MEB) tarafından yapılacak yerleştirme sonuçları açıklamasına odaklandı. \"LGS tercih sonuçları ne zaman açıklanacak?\", \"LGS yerleştirme sonuçları bugün açıklanır mı?\" ve \"2026 LGS sonuç sorgulama ekranı açıldı mı?\" soruları en çok araştırılan başlıklar arasında yer alıyor. MEB'in yayımladığı resmi takvim doğrultusunda sonuçların ilan edileceği tarih ve e-Okul üzerinden yapılacak sorgulama işlemlerine ilişkin tüm ayrıntılar haberimizde...",
-      "long_summary": "LGS tercih sonuçları araştırılıyor. 2026 Liselere Geçiş Sistemi (LGS) kapsamında tercih işlemlerini tamamlayan binlerce öğrenci ve veli, Milli Eğitim Bakanlığı (MEB) tarafından yapılacak yerleştirme sonuçları açıklamasına odaklandı. \"LGS tercih sonuçları ne zaman açıklanacak?\", \"LGS yerleştirme sonuçları bugün açıklanır mı?\" ve \"2026 LGS sonuç sorgulama ekranı açıldı mı?\" soruları en çok araştırılan başlıklar arasında yer alıyor. MEB'in yayımladığı resmi takvim doğrultusunda sonuçların ilan",
-      "long_summary_tr": "LGS tercih sonuçları araştırılıyor. 2026 Liselere Geçiş Sistemi (LGS) kapsamında tercih işlemlerini tamamlayan binlerce öğrenci ve veli, Milli Eğitim Bakanlığı (MEB) tarafından yapılacak yerleştirme sonuçları açıklamasına odaklandı. \"LGS tercih sonuçları ne zaman açıklanacak?\", \"LGS yerleştirme sonuçları bugün açıklanır mı?\" ve \"2026 LGS sonuç sorgulama ekranı açıldı mı?\" soruları en çok araştırılan başlıklar arasında yer alıyor. MEB'in yayımladığı resmi takvim doğrultusunda sonuçların ilan",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/lgs-tercih-sonuclari-aciklandi-mi-lgs-tercih-sonuclari-bugun-aciklanir-mi-ne-zaman-aciklanacak-lgs-tercih-sonucu-sorgulama-ekrani-3902894",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785782555/3902894/jpg/1280x1280",
-      "published_at": "2026-08-03T18:42:35+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Can Rashford be reintergrated at Man Utd?",
-      "title_tr": "Can Rashford be reintergrated at Man Utd?",
-      "summary": "Marcus Rashford's future at Manchester United remains up in the air.",
-      "summary_tr": "Marcus Rashford's future at Manchester United remains up in the air.",
-      "long_summary": "Marcus Rashford's future at Manchester United remains up in the air.",
-      "long_summary_tr": "Marcus Rashford's future at Manchester United remains up in the air.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window",
-      "image": "https://e0.365dm.com/26/08/1920x1080/skysports-marcus-rashford-man-utd_7313148.jpg?20260803180702",
-      "published_at": "2026-08-03T18:42:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-      "title_tr": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
-      "summary": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
-      "summary_tr": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
-      "long_summary": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
-      "long_summary_tr": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UZGNAHZEFVER7DYJZXQTW6OBSY.jpg",
-      "published_at": "2026-08-03T18:41:46+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Graham stars as Welsh Fire upset Southern Brave in last-ball thriller",
-      "title_tr": "Graham stars as Welsh Fire upset Southern Brave in last-ball thriller",
-      "summary": "Welsh Fire turned the form table on its head to defeat The Hundred table-toppers Southern Brave in a last-ball thriller in Cardiff.",
-      "summary_tr": "Welsh Fire turned the form table on its head to defeat The Hundred table-toppers Southern Brave in a last-ball thriller in Cardiff.",
-      "long_summary": "Welsh Fire turned the form table on its head to defeat The Hundred table-toppers Southern Brave in a last-ball thriller in Cardiff.",
-      "long_summary_tr": "Welsh Fire turned the form table on its head to defeat The Hundred table-toppers Southern Brave in a last-ball thriller in Cardiff.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/cricket/news/12040/13569492/the-hundred-welsh-fire-upset-southern-brave-in-last-ball-thriller-as-heather-graham-stars-with-bat-and-ball",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-heather-graham-welsh_7313176.jpg?20260803183850",
-      "published_at": "2026-08-03T18:40:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Cem Küçük'ün tutuklandığı soruşturma büyüyor: Gazeteci Tahir Sarıkaya da gözaltına alındı!",
-      "title_tr": "Cem Küçük'ün tutuklandığı soruşturma büyüyor: Gazeteci Tahir Sarıkaya da gözaltına alındı!",
-      "summary": "'Halkı yanıltıcı bilgiyi alenen yayma’ ve ‘şantaj’ suçlamaları ile tutuklanan gazeteci Cem Küçük'e yönelik soruşturma genişliyor.İstanbul Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosunca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya, da İstanbul İl Jandarma Komutanlığı KOM Şube tarafından gözaltına alındı. \n\nSarıkaya'nın hesaplarında kaynağı belirsiz yüksek tutarlı para girişleri ve transferleri, bu transferlerin bir kısmının kripto hesaplarına aktarıldığı tespit edildi.",
-      "summary_tr": "'Halkı yanıltıcı bilgiyi alenen yayma’ ve ‘şantaj’ suçlamaları ile tutuklanan gazeteci Cem Küçük'e yönelik soruşturma genişliyor.İstanbul Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosunca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya, da İstanbul İl Jandarma Komutanlığı KOM Şube tarafından gözaltına alındı. \n\nSarıkaya'nın hesaplarında kaynağı belirsiz yüksek tutarlı para girişleri ve transferleri, bu transferlerin bir kısmının kripto hesaplarına aktarıldığı tespit edildi.",
-      "long_summary": "'Halkı yanıltıcı bilgiyi alenen yayma’ ve ‘şantaj’ suçlamaları ile tutuklanan gazeteci Cem Küçük'e yönelik soruşturma genişliyor.İstanbul Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosunca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya, da İstanbul İl Jandarma Komutanlığı KOM Şube tarafından gözaltına alındı. \n\nSarıkaya'nın hesaplarında kaynağı belirsiz yüksek tutarlı para girişleri ve transferleri, bu transferlerin bir kısmının kripto hesaplarına aktarıldığı tespit edildi.",
-      "long_summary_tr": "'Halkı yanıltıcı bilgiyi alenen yayma’ ve ‘şantaj’ suçlamaları ile tutuklanan gazeteci Cem Küçük'e yönelik soruşturma genişliyor.İstanbul Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosunca yürütülen soruşturma kapsamında gazeteci Tahir Sarıkaya, da İstanbul İl Jandarma Komutanlığı KOM Şube tarafından gözaltına alındı. \n\nSarıkaya'nın hesaplarında kaynağı belirsiz yüksek tutarlı para girişleri ve transferleri, bu transferlerin bir kısmının kripto hesaplarına aktarıldığı tespit edildi.",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/cem-kucuk-un-tutuklandigi-sorusturma-buyuyor-gazeteci-tahir-sarikaya-da-gozaltina-alindi-1682642",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/cem-kucuk-un-tutuklandigi-sorusturma-buyuyor-gazeteci-tahir-sarikaya-da-gozaltina-alindi-1785782321-203_large.webp",
-      "published_at": "2026-08-03T18:38:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Çılgın Sayısal Loto sonuçları açıklandı",
-      "title_tr": "Çılgın Sayısal Loto sonuçları açıklandı",
-      "summary": "Çılgın Sayısal Loto çekilişinin sonuçları 3 Ağustos 2026 Pazartesi günü belli oldu. Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından kazandıran numaralar ve ikramiye dağılımı merak konusu oldu. Bilet sahipleri, büyük ikramiyenin isabet edip etmediğini öğrenmek için sonuç sorgulama ekranına yöneldi. Çekiliş noter huzurunda canlı yayında gerçekleştirilirken sonuçlar resmi sistem üzerinden erişime açıldı. Peki, 3 Ağustos 2026 Çılgın Sayısal Loto sonuçları açıklandı mı, kazandıran numaralar neler oldu? İşte Çılgın Sayısal Loto sonucu sorgulama ekranı ve çekilişe ilişkin detaylar...",
-      "summary_tr": "Çılgın Sayısal Loto çekilişinin sonuçları 3 Ağustos 2026 Pazartesi günü belli oldu. Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından kazandıran numaralar ve ikramiye dağılımı merak konusu oldu. Bilet sahipleri, büyük ikramiyenin isabet edip etmediğini öğrenmek için sonuç sorgulama ekranına yöneldi. Çekiliş noter huzurunda canlı yayında gerçekleştirilirken sonuçlar resmi sistem üzerinden erişime açıldı. Peki, 3 Ağustos 2026 Çılgın Sayısal Loto sonuçları açıklandı mı, kazandıran numaralar neler oldu? İşte Çılgın Sayısal Loto sonucu sorgulama ekranı ve çekilişe ilişkin detaylar...",
-      "long_summary": "Çılgın Sayısal Loto çekilişinin sonuçları 3 Ağustos 2026 Pazartesi günü belli oldu. Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından kazandıran numaralar ve ikramiye dağılımı merak konusu oldu. Bilet sahipleri, büyük ikramiyenin isabet edip etmediğini öğrenmek için sonuç sorgulama ekranına yöneldi. Çekiliş noter huzurunda canlı yayında gerçekleştirilirken sonuçlar resmi sistem üzerinden erişime açıldı. Peki, 3 Ağustos 2026 Çılgın Sayısal Loto sonuçları açıklandı mı,",
-      "long_summary_tr": "Çılgın Sayısal Loto çekilişinin sonuçları 3 Ağustos 2026 Pazartesi günü belli oldu. Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından kazandıran numaralar ve ikramiye dağılımı merak konusu oldu. Bilet sahipleri, büyük ikramiyenin isabet edip etmediğini öğrenmek için sonuç sorgulama ekranına yöneldi. Çekiliş noter huzurunda canlı yayında gerçekleştirilirken sonuçlar resmi sistem üzerinden erişime açıldı. Peki, 3 Ağustos 2026 Çılgın Sayısal Loto sonuçları açıklandı mı,",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/son-dakika-cilgin-sayisal-loto-sonuclari-aciklandi-3-agustos-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3903077",
-      "image": "https://im.haberturk.com/l/2026/08/03/ver1785772928/3903077/jpg/1280x1280",
-      "published_at": "2026-08-03T18:37:59+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "ASELSAN’dan Kritik Başarı: Yerli ve Milli Kızılötesi Dedektörler",
-      "title_tr": "ASELSAN’dan Kritik Başarı: Yerli ve Milli Kızılötesi Dedektörler",
-      "summary": "ASELSAN, kızılötesi dedektörleri milli imkanlarla üreterek Türkiye'yi bu teknolojiyi geliştiren sayılı ülkeler arasına taşıdı.",
-      "summary_tr": "ASELSAN, kızılötesi dedektörleri milli imkanlarla üreterek Türkiye'yi bu teknolojiyi geliştiren sayılı ülkeler arasına taşıdı.",
-      "long_summary": "ASELSAN, kızılötesi dedektörleri milli imkanlarla üreterek Türkiye'yi bu teknolojiyi geliştiren sayılı ülkeler arasına taşıdı.",
-      "long_summary_tr": "ASELSAN, kızılötesi dedektörleri milli imkanlarla üreterek Türkiye'yi bu teknolojiyi geliştiren sayılı ülkeler arasına taşıdı.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/aselsandan-kritik-basari-yerli-ve-milli-kizilotesi-dedektorler",
-      "image": null,
-      "published_at": "2026-08-03T18:37:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Eski Survivor yarışmacısı Bennu Gerede için gözaltı kararı",
-      "title_tr": "Eski Survivor yarışmacısı Bennu Gerede için gözaltı kararı",
-      "summary": "Bennu Gerede hakkında, katıldığı bir YouTube programındaki sözleri nedeniyle re'sen soruşturma başlatıldı. Gerede hakkında gözaltı kararı verildi.Ünlü fotoğraf sanatçısı ve eski Survivor yarışmacısı Bennu Gerede'nin katıldığı bir yayında yaptığı açıklamaları tepki çekmişti.\n\nSORUŞTURMA BAŞLATILDI\n\nGazeteci Burak Doğan'ın X hesabından yaptığı paylaşıma göre, Bakırköy Cumhuriyet Başsavcılığı, Bennu Gerede hakkında Türk Ceza Kanunu'nun 226. maddesinde düzenlenen 'müstehcenlik' suçu kapsamında soruşturma başlattı.\n\nGÖZALTI KARARI\n\nGerede hakkında gözaltı talimatı verildi. Ayrıca ilgili videonun yayımlandığı YouTube kanalına erişim engeli talebinde bulunulduğu öğrenildi.\n\nBennu Gerede, katıldığı programda boynundaki kolyeyle ilgili konuşmuş ve \"Bunu neden boynuna takıyorsun?\" sorusuna ise, \"Yetişkinlere yönelik bir ürün\" yanıtını vermişti.",
-      "summary_tr": "Bennu Gerede hakkında, katıldığı bir YouTube programındaki sözleri nedeniyle re'sen soruşturma başlatıldı. Gerede hakkında gözaltı kararı verildi.Ünlü fotoğraf sanatçısı ve eski Survivor yarışmacısı Bennu Gerede'nin katıldığı bir yayında yaptığı açıklamaları tepki çekmişti.\n\nSORUŞTURMA BAŞLATILDI\n\nGazeteci Burak Doğan'ın X hesabından yaptığı paylaşıma göre, Bakırköy Cumhuriyet Başsavcılığı, Bennu Gerede hakkında Türk Ceza Kanunu'nun 226. maddesinde düzenlenen 'müstehcenlik' suçu kapsamında soruşturma başlattı.\n\nGÖZALTI KARARI\n\nGerede hakkında gözaltı talimatı verildi. Ayrıca ilgili videonun yayımlandığı YouTube kanalına erişim engeli talebinde bulunulduğu öğrenildi.\n\nBennu Gerede, katıldığı programda boynundaki kolyeyle ilgili konuşmuş ve \"Bunu neden boynuna takıyorsun?\" sorusuna ise, \"Yetişkinlere yönelik bir ürün\" yanıtını vermişti.",
-      "long_summary": "Bennu Gerede hakkında, katıldığı bir YouTube programındaki sözleri nedeniyle re'sen soruşturma başlatıldı. Gerede hakkında gözaltı kararı verildi.Ünlü fotoğraf sanatçısı ve eski Survivor yarışmacısı Bennu Gerede'nin katıldığı bir yayında yaptığı açıklamaları tepki çekmişti.\n\nSORUŞTURMA BAŞLATILDI\n\nGazeteci Burak Doğan'ın X hesabından yaptığı paylaşıma göre, Bakırköy Cumhuriyet Başsavcılığı, Bennu Gerede hakkında Türk Ceza Kanunu'nun 226. maddesinde düzenlenen 'müstehcenlik' suçu kapsamında",
-      "long_summary_tr": "Bennu Gerede hakkında, katıldığı bir YouTube programındaki sözleri nedeniyle re'sen soruşturma başlatıldı. Gerede hakkında gözaltı kararı verildi.Ünlü fotoğraf sanatçısı ve eski Survivor yarışmacısı Bennu Gerede'nin katıldığı bir yayında yaptığı açıklamaları tepki çekmişti.\n\nSORUŞTURMA BAŞLATILDI\n\nGazeteci Burak Doğan'ın X hesabından yaptığı paylaşıma göre, Bakırköy Cumhuriyet Başsavcılığı, Bennu Gerede hakkında Türk Ceza Kanunu'nun 226. maddesinde düzenlenen 'müstehcenlik' suçu kapsamında",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/magazin/eski-survivor-yarismacisi-bennu-gerede-icin-gozalti-karari-1682639",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/eski-survivor-yarismacisi-bennu-gerede-icin-gozalti-karari-1785783820-364_large.webp",
-      "published_at": "2026-08-03T18:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Google Messages’ta Sohbet Sabitleme Sınırı Değişiyor",
-      "title_tr": "Google Messages’ta Sohbet Sabitleme Sınırı Değişiyor",
-      "summary": "Google Messages, sohbet sabitleme özelliğini güncelliyor. Yeni arayüzle birlikte sabitleme sınırı 6'ya düşerken sıralama özelliği geliyor.",
-      "summary_tr": "Google Messages, sohbet sabitleme özelliğini güncelliyor. Yeni arayüzle birlikte sabitleme sınırı 6'ya düşerken sıralama özelliği geliyor.",
-      "long_summary": "Google Messages, sohbet sabitleme özelliğini güncelliyor. Yeni arayüzle birlikte sabitleme sınırı 6'ya düşerken sıralama özelliği geliyor.",
-      "long_summary_tr": "Google Messages, sohbet sabitleme özelliğini güncelliyor. Yeni arayüzle birlikte sabitleme sınırı 6'ya düşerken sıralama özelliği geliyor.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/google-messagesta-sohbet-sabitleme-siniri-degisiyor",
-      "image": null,
-      "published_at": "2026-08-03T18:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Yerel",
-      "category_slug": "yerel",
-      "is_local": true,
-      "source": "Bursa Hakimiyet",
-      "title": "Karadeniz'de Türk Ro-Ro gemisine dron saldırısı: Yaralılar var",
-      "title_tr": "Karadeniz'de Türk Ro-Ro gemisine dron saldırısı: Yaralılar var",
-      "summary": "Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait Ro-Ro gemisine dron saldırısı düzenlendi. Vurulan gemide yangın çıkarken 4 mürettebat ise yaralandı.Edinilen bilgiye göre, Karadeniz'de Türk gemisine dron saldırısı düzenlendi. Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait NADHEZNA adlı Ro-Ro gemisine düzenlenen dron saldırısı sonrası yangın çıktı.\n\n\n\n3'Ü TÜRK 4 MÜRETTEBAT YARALANDI\n\nSaldırıda, 3'ü Türk olmak üzere 4 mürettebat yaralandı. Geminin Samsun'dan Rusya'nın Novorossiysk kentine gitmek üzere olduğu ve TSİ 16.30 sıralarında Novorossiysk'ye 30 deniz mili mesafede saldırı düzenlendiği bildirildi.\n\n\"6-7 ADET DRON KULLANILDI\"\n\nGeminin Kaptanı Yalçın Şahin, saldırının Ukrayna tarafından düzenlendiğini ileri sürerek, saldırıda 6-7 adet dronun kullanıldığını ifade etti.\n\nŞahin, yardım beklediklerini, herkesin sağ olduğunu ancak yaralıların bulunduğunu belirtti.\nSaldırı sonrası çıkan yangına gemideki mürettebat müdahale ederken, bölgede bulunan dronlar nedeniyle Rusya Donanması'nın yardım için gemiye yaklaşmakta güçlük çektiği aktarıldı.",
-      "summary_tr": "Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait Ro-Ro gemisine dron saldırısı düzenlendi. Vurulan gemide yangın çıkarken 4 mürettebat ise yaralandı.Edinilen bilgiye göre, Karadeniz'de Türk gemisine dron saldırısı düzenlendi. Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait NADHEZNA adlı Ro-Ro gemisine düzenlenen dron saldırısı sonrası yangın çıktı.\n\n\n\n3'Ü TÜRK 4 MÜRETTEBAT YARALANDI\n\nSaldırıda, 3'ü Türk olmak üzere 4 mürettebat yaralandı. Geminin Samsun'dan Rusya'nın Novorossiysk kentine gitmek üzere olduğu ve TSİ 16.30 sıralarında Novorossiysk'ye 30 deniz mili mesafede saldırı düzenlendiği bildirildi.\n\n\"6-7 ADET DRON KULLANILDI\"\n\nGeminin Kaptanı Yalçın Şahin, saldırının Ukrayna tarafından düzenlendiğini ileri sürerek, saldırıda 6-7 adet dronun kullanıldığını ifade etti.\n\nŞahin, yardım beklediklerini, herkesin sağ olduğunu ancak yaralıların bulunduğunu belirtti.\nSaldırı sonrası çıkan yangına gemideki mürettebat müdahale ederken, bölgede bulunan dronlar nedeniyle Rusya Donanması'nın yardım için gemiye yaklaşmakta güçlük çektiği aktarıldı.",
-      "long_summary": "Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait Ro-Ro gemisine dron saldırısı düzenlendi. Vurulan gemide yangın çıkarken 4 mürettebat ise yaralandı.Edinilen bilgiye göre, Karadeniz'de Türk gemisine dron saldırısı düzenlendi. Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait NADHEZNA adlı Ro-Ro gemisine düzenlenen dron saldırısı sonrası yangın çıktı.\n\n\n\n3'Ü TÜRK 4 MÜRETTEBAT YARALANDI\n\nSaldırıda, 3'ü Türk olmak üzere 4 mürettebat yaralandı. Geminin Samsun'dan Rusya'nın",
-      "long_summary_tr": "Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait Ro-Ro gemisine dron saldırısı düzenlendi. Vurulan gemide yangın çıkarken 4 mürettebat ise yaralandı.Edinilen bilgiye göre, Karadeniz'de Türk gemisine dron saldırısı düzenlendi. Türkiye'den Rusya'ya taze meyve-sebze taşıyan Türkiye'ye ait NADHEZNA adlı Ro-Ro gemisine düzenlenen dron saldırısı sonrası yangın çıktı.\n\n\n\n3'Ü TÜRK 4 MÜRETTEBAT YARALANDI\n\nSaldırıda, 3'ü Türk olmak üzere 4 mürettebat yaralandı. Geminin Samsun'dan Rusya'nın",
-      "why_important": [
-        "Bölge halkının günlük yaşamını etkilemesi"
-      ],
-      "possible_impacts": [
-        "Yerel yönetimlerde karar süreçleri etkilenebilir"
-      ],
-      "url": "https://www.bursahakimiyet.com.tr/gundem/karadeniz-de-turk-ro-ro-gemisine-dron-saldirisi-yaralilar-var-1682636",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/karadeniz-de-turk-ro-ro-gemisine-dron-saldirisi-yaralilar-var-1785781790-225_large.webp",
-      "published_at": "2026-08-03T18:28:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/danaher-hisseleri-yeni-ceo-atamas-sonras-yukseldi-93CH-4010538",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_M.jpg",
+      "published_at": "2026-08-03T20:26:40+00:00"
     },
     {
       "origin": "yabanci",
@@ -909,131 +975,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
-      "title_tr": "West Ham co-owner David Sullivan advised to stay away from home matches",
-      "summary": "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
-      "summary_tr": "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
-      "long_summary": "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
-      "long_summary_tr": "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims.",
+      "title": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
+      "title_tr": "Fenerbahce ready huge Rashford offer - Tuesday's gossip",
+      "summary": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
+      "summary_tr": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
+      "long_summary": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
+      "long_summary_tr": "Fenerbahce prepared to break the bank for Marcus Rashford, RB Leipzig hold out on Real Madrid over Yan Diomande deal, Arsenal open talks for Bruno Guimaraes",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2105/live/ac615b90-8f60-11f1-8659-31d8ca04a20f.jpg",
-      "published_at": "2026-08-03T18:21:53+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Williams sisters set to play Cincinnati Open doubles",
-      "title_tr": "Williams sisters set to play Cincinnati Open doubles",
-      "summary": "Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open.",
-      "summary_tr": "Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open.",
-      "long_summary": "Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open.",
-      "long_summary_tr": "Serena Williams and Venus Williams are given a wildcard entry for the women's doubles at the Cincinnati Open.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce97d0ygzkmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529e/live/b82cab00-8f65-11f1-8659-31d8ca04a20f.jpg",
-      "published_at": "2026-08-03T18:20:56+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "The Steam Frame Might End Up More Expensive Than the Steam Machine",
-      "title_tr": "The Steam Frame Might End Up More Expensive Than the Steam Machine",
-      "summary": "In a now-deleted stream, Valve leaker Tyler McVicker suggests the Steam Frame could be more expensive than the Steam Machine.",
-      "summary_tr": "In a now-deleted stream, Valve leaker Tyler McVicker suggests the Steam Frame could be more expensive than the Steam Machine.",
-      "long_summary": "In a now-deleted stream, Valve leaker Tyler McVicker suggests the Steam Frame could be more expensive than the Steam Machine.",
-      "long_summary_tr": "In a now-deleted stream, Valve leaker Tyler McVicker suggests the Steam Frame could be more expensive than the Steam Machine.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/the-steam-frame-might-end-up-more-expensive-than-the-steam-machine",
-      "image": "https://assets-prd.ignimgs.com/2025/11/11/steamframe-handson-blogroll-1762903444744.jpg",
-      "published_at": "2026-08-03T18:20:03+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Evercore ISI’nin mekan büyümesinde en çok tercih ettiği hisse",
-      "title_tr": "Evercore ISI’nin mekan büyümesinde en çok tercih ettiği hisse",
-      "summary": "Evercore ISI’nin mekan büyümesinde en çok tercih ettiği hisse",
-      "summary_tr": "Evercore ISI’nin mekan büyümesinde en çok tercih ettiği hisse",
-      "long_summary": "Evercore ISI’nin mekan büyümesinde en çok tercih ettiği hisse",
-      "long_summary_tr": "Evercore ISI’nin mekan büyümesinde en çok tercih ettiği hisse",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/evercore-isinin-mekan-buyumesinde-en-cok-tercih-ettigi-hisse-93CH-4010401",
-      "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published_at": "2026-08-03T18:16:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Shift Up CEO Defends Stellar Blade: Blood Rain AI Music Video Against Player Backlash",
-      "title_tr": "Shift Up CEO Defends Stellar Blade: Blood Rain AI Music Video Against Player Backlash",
-      "summary": "The CEO of Shift Up has responded to backlash surrounding the release of an AI-generated music video promoting Stellar Blade’s sequel game, Blood Rain.",
-      "summary_tr": "The CEO of Shift Up has responded to backlash surrounding the release of an AI-generated music video promoting Stellar Blade’s sequel game, Blood Rain.",
-      "long_summary": "The CEO of Shift Up has responded to backlash surrounding the release of an AI-generated music video promoting Stellar Blade’s sequel game, Blood Rain.",
-      "long_summary_tr": "The CEO of Shift Up has responded to backlash surrounding the release of an AI-generated music video promoting Stellar Blade’s sequel game, Blood Rain.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-against-player-backlash",
-      "image": "https://assets-prd.ignimgs.com/2026/08/03/shift-up-ceo-defends-stellar-blade-blood-rain-ai-music-video-1785780603942.jpg",
-      "published_at": "2026-08-03T18:13:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Apple İngiltere’nin şifreli verilere erişim talebine karşı dava açtı",
-      "title_tr": "Apple İngiltere’nin şifreli verilere erişim talebine karşı dava açtı",
-      "summary": "Apple İngiltere’nin şifreli verilere erişim talebine karşı dava açtı",
-      "summary_tr": "Apple İngiltere’nin şifreli verilere erişim talebine karşı dava açtı",
-      "long_summary": "Apple İngiltere’nin şifreli verilere erişim talebine karşı dava açtı",
-      "long_summary_tr": "Apple İngiltere’nin şifreli verilere erişim talebine karşı dava açtı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/apple-ingilterenin-sifreli-verilere-erisim-talebine-kars-dava-act-93CH-4010395",
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3M0XB_M.jpg",
-      "published_at": "2026-08-03T18:11:37+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy5dqynxdezo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9695/live/d3bbdaa0-8f77-11f1-9fa1-cde99572a500.png",
+      "published_at": "2026-08-03T20:26:32+00:00"
     },
     {
       "origin": "turkiye",
@@ -1041,43 +997,43 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Danimarka'da zorunlu askerlik 4 aydan 11 aya çıkarıldı",
-      "title_tr": "Danimarka'da zorunlu askerlik 4 aydan 11 aya çıkarıldı",
-      "summary": "Danimarka&#039;da zorunlu askerlik süresini 4 aydan 11 aya çıkaran yeni uygulama kapsamında ilk grup, askerlik hizmetine başladı.",
-      "summary_tr": "Danimarka&#039;da zorunlu askerlik süresini 4 aydan 11 aya çıkaran yeni uygulama kapsamında ilk grup, askerlik hizmetine başladı.",
-      "long_summary": "Danimarka&#039;da zorunlu askerlik süresini 4 aydan 11 aya çıkaran yeni uygulama kapsamında ilk grup, askerlik hizmetine başladı.",
-      "long_summary_tr": "Danimarka&#039;da zorunlu askerlik süresini 4 aydan 11 aya çıkaran yeni uygulama kapsamında ilk grup, askerlik hizmetine başladı.",
+      "title": "Erdal Beşikçioğlu görevinden uzaklaştırıldı",
+      "title_tr": "Erdal Beşikçioğlu görevinden uzaklaştırıldı",
+      "summary": "İçişleri Bakanlığı, hakkında yürütülen soruşturma kapsamında tutuklanan Etimesgut Belediye Başkanı Erdal Beşikçioğlu&#039;nu geçici tedbir olarak görevinden uzaklaştırdı.",
+      "summary_tr": "İçişleri Bakanlığı, hakkında yürütülen soruşturma kapsamında tutuklanan Etimesgut Belediye Başkanı Erdal Beşikçioğlu&#039;nu geçici tedbir olarak görevinden uzaklaştırdı.",
+      "long_summary": "İçişleri Bakanlığı, hakkında yürütülen soruşturma kapsamında tutuklanan Etimesgut Belediye Başkanı Erdal Beşikçioğlu&#039;nu geçici tedbir olarak görevinden uzaklaştırdı.",
+      "long_summary_tr": "İçişleri Bakanlığı, hakkında yürütülen soruşturma kapsamında tutuklanan Etimesgut Belediye Başkanı Erdal Beşikçioğlu&#039;nu geçici tedbir olarak görevinden uzaklaştırdı.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/dunya/danimarkada-zorunlu-askerlik-4-aydan-11-aya-cikarildi-haberi-834813",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/dd-00tq_cover.jpg",
-      "published_at": "2026-08-03T18:11:00+00:00"
+      "url": "https://www.dunya.com/gundem/erdal-besikcioglu-gorevinden-uzaklastirildi-haberi-834818",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/03/ee1-jkmr_cover.jpg",
+      "published_at": "2026-08-03T20:23:00+00:00"
     },
     {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "origin": "yabanci",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "Oracle hissesi bugün neden yükseliyor?",
-      "title_tr": "Oracle hissesi bugün neden yükseliyor?",
-      "summary": "Oracle hissesi bugün neden yükseliyor?",
-      "summary_tr": "Oracle hissesi bugün neden yükseliyor?",
-      "long_summary": "Oracle hissesi bugün neden yükseliyor?",
-      "long_summary_tr": "Oracle hissesi bugün neden yükseliyor?",
+      "source": "Breaking Defense",
+      "title": "K2 tapped to host Space Force satellite laser links tests",
+      "title_tr": "K2 tapped to host Space Force satellite laser links tests",
+      "summary": "Satellite-to-satellite communications via optical laser-light links is at the heart of the Space Force’s future missile warning/ tracking architecture, and in turn the Trump administration’s Golden Dome missile defense shield.",
+      "summary_tr": "Satellite-to-satellite communications via optical laser-light links is at the heart of the Space Force’s future missile warning/ tracking architecture, and in turn the Trump administration’s Golden Dome missile defense shield.",
+      "long_summary": "Satellite-to-satellite communications via optical laser-light links is at the heart of the Space Force’s future missile warning/ tracking architecture, and in turn the Trump administration’s Golden Dome missile defense shield.",
+      "long_summary_tr": "Satellite-to-satellite communications via optical laser-light links is at the heart of the Space Force’s future missile warning/ tracking architecture, and in turn the Trump administration’s Golden Dome missile defense shield.",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/oracle-hissesi-bugun-neden-yukseliyor-93CH-4010393",
-      "image": "https://i-invdn-com.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg",
-      "published_at": "2026-08-03T18:10:32+00:00"
+      "url": "https://breakingdefense.com/2026/08/k2-tapped-to-host-space-force-satellite-laser-links-tests/",
+      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/Screenshot-2025-02-26-at-12.01.23 PM-e1740589957405-1024x575.png",
+      "published_at": "2026-08-03T20:21:22+00:00"
     },
     {
       "origin": "turkiye",
@@ -1085,21 +1041,65 @@
       "category_slug": "yerel",
       "is_local": true,
       "source": "Bursa Hakimiyet",
-      "title": "Bursa'da bıçaklı kavgada kan aktı!",
-      "title_tr": "Bursa'da bıçaklı kavgada kan aktı!",
-      "summary": "Bursa'nın Karacabey ilçesinde çıkan bıçaklı kavgada 1 kişi yaralandı.Olay, saat 01.00 sıralarında Karacabey ilçesi Karacaahmet Mahallesi'nde meydana geldi.\n\n\n\nEdinilen bilgiye göre, henüz bilinmeyen bir nedenle çıkan tartışmanın büyümesi üzerine bir kişi vücudunun dört yerinden bıçaklandı. İhbar üzerine olay yerine çok sayıda polis ekibi ile sağlık ekibi sevk edildi. Yaralı, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından Karacabey Devlet Hastanesi'ne kaldırıldı. Buradaki tedavisinin ardından ambulansla Bursa'ya sevk edilen yaralının tedavisinin sürdüğü, sağlık durumunun iyi olduğu ve hayati tehlikesinin bulunmadığı öğrenildi. Polis ekipleri olayla ilgili inceleme başlattı.",
-      "summary_tr": "Bursa'nın Karacabey ilçesinde çıkan bıçaklı kavgada 1 kişi yaralandı.Olay, saat 01.00 sıralarında Karacabey ilçesi Karacaahmet Mahallesi'nde meydana geldi.\n\n\n\nEdinilen bilgiye göre, henüz bilinmeyen bir nedenle çıkan tartışmanın büyümesi üzerine bir kişi vücudunun dört yerinden bıçaklandı. İhbar üzerine olay yerine çok sayıda polis ekibi ile sağlık ekibi sevk edildi. Yaralı, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından Karacabey Devlet Hastanesi'ne kaldırıldı. Buradaki tedavisinin ardından ambulansla Bursa'ya sevk edilen yaralının tedavisinin sürdüğü, sağlık durumunun iyi olduğu ve hayati tehlikesinin bulunmadığı öğrenildi. Polis ekipleri olayla ilgili inceleme başlattı.",
-      "long_summary": "Bursa'nın Karacabey ilçesinde çıkan bıçaklı kavgada 1 kişi yaralandı.Olay, saat 01.00 sıralarında Karacabey ilçesi Karacaahmet Mahallesi'nde meydana geldi.\n\n\n\nEdinilen bilgiye göre, henüz bilinmeyen bir nedenle çıkan tartışmanın büyümesi üzerine bir kişi vücudunun dört yerinden bıçaklandı. İhbar üzerine olay yerine çok sayıda polis ekibi ile sağlık ekibi sevk edildi. Yaralı, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından Karacabey Devlet Hastanesi'ne kaldırıldı. Buradaki",
-      "long_summary_tr": "Bursa'nın Karacabey ilçesinde çıkan bıçaklı kavgada 1 kişi yaralandı.Olay, saat 01.00 sıralarında Karacabey ilçesi Karacaahmet Mahallesi'nde meydana geldi.\n\n\n\nEdinilen bilgiye göre, henüz bilinmeyen bir nedenle çıkan tartışmanın büyümesi üzerine bir kişi vücudunun dört yerinden bıçaklandı. İhbar üzerine olay yerine çok sayıda polis ekibi ile sağlık ekibi sevk edildi. Yaralı, sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından Karacabey Devlet Hastanesi'ne kaldırıldı. Buradaki",
+      "title": "Erdal Beşikçioğlu, Etimesgut Belediye Başkanlığından uzaklaştırıldı",
+      "title_tr": "Erdal Beşikçioğlu, Etimesgut Belediye Başkanlığından uzaklaştırıldı",
+      "summary": "İçişleri Bakanlığı tarafından, Ankara Etimesgut Belediye Başkanı Erdal Beşikçioğlu’nun görevden uzaklaştırıldığı açıklandı.Bakanlıktan yapılan açıklamada, Beşikçioğlu hakkında, \"suç işlemek amacıyla örgüt kurma, \"edimin ifasına fesat karıştırmak\", \"kamu kurum ve kuruluşlarının ihalesine fesat karıştırma\", \"icbar suretiyle irtikap, zimmet ve rüşvet almak\" suçları nedeniyle soruşturma yürütüldüğü hatırlatıldı.\n\nBeşikçioğlu'nun, Ankara Batı 2. Sulh Ceza Hakimliğinin dün aldığı kararla tutuklandığı belirtilen açıklamada, \"Anayasanın 127'nci maddesi ile 5393 sayılı Belediye Kanununun 47'nci maddesi uyarınca geçici bir tedbir olarak İçişleri Bakanlığınca görevden uzaklaştırılmıştır\" ifadesi kullanıldı.",
+      "summary_tr": "İçişleri Bakanlığı tarafından, Ankara Etimesgut Belediye Başkanı Erdal Beşikçioğlu’nun görevden uzaklaştırıldığı açıklandı.Bakanlıktan yapılan açıklamada, Beşikçioğlu hakkında, \"suç işlemek amacıyla örgüt kurma, \"edimin ifasına fesat karıştırmak\", \"kamu kurum ve kuruluşlarının ihalesine fesat karıştırma\", \"icbar suretiyle irtikap, zimmet ve rüşvet almak\" suçları nedeniyle soruşturma yürütüldüğü hatırlatıldı.\n\nBeşikçioğlu'nun, Ankara Batı 2. Sulh Ceza Hakimliğinin dün aldığı kararla tutuklandığı belirtilen açıklamada, \"Anayasanın 127'nci maddesi ile 5393 sayılı Belediye Kanununun 47'nci maddesi uyarınca geçici bir tedbir olarak İçişleri Bakanlığınca görevden uzaklaştırılmıştır\" ifadesi kullanıldı.",
+      "long_summary": "İçişleri Bakanlığı tarafından, Ankara Etimesgut Belediye Başkanı Erdal Beşikçioğlu’nun görevden uzaklaştırıldığı açıklandı.Bakanlıktan yapılan açıklamada, Beşikçioğlu hakkında, \"suç işlemek amacıyla örgüt kurma, \"edimin ifasına fesat karıştırmak\", \"kamu kurum ve kuruluşlarının ihalesine fesat karıştırma\", \"icbar suretiyle irtikap, zimmet ve rüşvet almak\" suçları nedeniyle soruşturma yürütüldüğü hatırlatıldı.\n\nBeşikçioğlu'nun, Ankara Batı 2. Sulh Ceza Hakimliğinin dün aldığı kararla tutuklandığı",
+      "long_summary_tr": "İçişleri Bakanlığı tarafından, Ankara Etimesgut Belediye Başkanı Erdal Beşikçioğlu’nun görevden uzaklaştırıldığı açıklandı.Bakanlıktan yapılan açıklamada, Beşikçioğlu hakkında, \"suç işlemek amacıyla örgüt kurma, \"edimin ifasına fesat karıştırmak\", \"kamu kurum ve kuruluşlarının ihalesine fesat karıştırma\", \"icbar suretiyle irtikap, zimmet ve rüşvet almak\" suçları nedeniyle soruşturma yürütüldüğü hatırlatıldı.\n\nBeşikçioğlu'nun, Ankara Batı 2. Sulh Ceza Hakimliğinin dün aldığı kararla tutuklandığı",
       "why_important": [
         "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
         "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-bicakli-kavgada-kan-akti-1682633",
-      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/bursa-da-bicakli-kavgada-kan-akti-1785781274-366_large.webp",
-      "published_at": "2026-08-03T18:10:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/erdal-besikcioglu-etimesgut-belediye-baskanligindan-uzaklastirildi-1682669",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/08/03/erdal-besikcioglu-etimesgut-belediye-baskanligindan-uzaklastirildi-1785789409-312_large.webp",
+      "published_at": "2026-08-03T20:20:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "Gigi Hadid and Bradley Cooper Step Out in Paris With Rings on Their Left Hands",
+      "title_tr": "Gigi Hadid and Bradley Cooper Step Out in Paris With Rings on Their Left Hands",
+      "summary": "The couple’s new hardware sparked marriage speculation.",
+      "summary_tr": "The couple’s new hardware sparked marriage speculation.",
+      "long_summary": "The couple’s new hardware sparked marriage speculation.",
+      "long_summary_tr": "The couple’s new hardware sparked marriage speculation.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/celebrities/a73336394/gigi-hadid-bradley-cooper-new-rings-marriage-rumors-explained/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/c7924377-2320-4ca2-bc03-271f2011b8b7.jpg",
+      "published_at": "2026-08-03T20:16:01+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Onsemi 2Ç tahminlerini aştı, 3Ç gelir rehberi konsensüsün üzerinde",
+      "title_tr": "Onsemi 2Ç tahminlerini aştı, 3Ç gelir rehberi konsensüsün üzerinde",
+      "summary": "Onsemi 2Ç tahminlerini aştı, 3Ç gelir rehberi konsensüsün üzerinde",
+      "summary_tr": "Onsemi 2Ç tahminlerini aştı, 3Ç gelir rehberi konsensüsün üzerinde",
+      "long_summary": "Onsemi 2Ç tahminlerini aştı, 3Ç gelir rehberi konsensüsün üzerinde",
+      "long_summary_tr": "Onsemi 2Ç tahminlerini aştı, 3Ç gelir rehberi konsensüsün üzerinde",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/onsemi-2c-tahminlerini-ast-3c-gelir-rehberi-konsensusun-uzerinde-4010491",
+      "image": "https://content-media.investing.com/news/LYNXMPEM451H2_1200_L.jpg",
+      "published_at": "2026-08-03T20:14:02+00:00"
     }
   ]
 }
