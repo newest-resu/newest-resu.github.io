@@ -1,467 +1,335 @@
 {
-  "updated_at": "2026-09-07T04:02:17.979810+00:00",
+  "updated_at": "2026-09-07T09:18:51.681649+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Spanish GP: Schedule and how to watch new Madrid race",
+      "title_tr": "Spanish GP: Schedule and how to watch new Madrid race",
+      "summary": "Formula 1 heads to a brand-new street circuit in Madrid for the Spanish Grand Prix - the final European race of the season.",
+      "summary_tr": "Formula 1 heads to a brand-new street circuit in Madrid for the Spanish Grand Prix - the final European race of the season.",
+      "long_summary": "Formula 1 heads to a brand-new street circuit in Madrid for the Spanish Grand Prix - the final European race of the season.",
+      "long_summary_tr": "Formula 1 heads to a brand-new street circuit in Madrid for the Spanish Grand Prix - the final European race of the season.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/f1/news/12040/13582249/spanish-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-madrid-live-on-sky-sports",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-f1-f1-madrid-madring_7342945.jpg?20260906121559",
+      "published_at": "2026-09-07T09:35:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Altında kritik eşik: ABD enflasyonu 4 bin 400 doların kaderini belirleyecek",
+      "title_tr": "Altında kritik eşik: ABD enflasyonu 4 bin 400 doların kaderini belirleyecek",
+      "summary": "Altın fiyatları, güçlü ABD istihdam verilerinin faiz artışı beklentilerini güçlendirmesiyle haftaya düşüşle başladı. Yatırımcıların odağı, ABD Merkez Bankasının (Fed) politika patikasına ilişkin yeni ...",
+      "summary_tr": "Altın fiyatları, güçlü ABD istihdam verilerinin faiz artışı beklentilerini güçlendirmesiyle haftaya düşüşle başladı. Yatırımcıların odağı, ABD Merkez Bankasının (Fed) politika patikasına ilişkin yeni ...",
+      "long_summary": "Altın fiyatları, güçlü ABD istihdam verilerinin faiz artışı beklentilerini güçlendirmesiyle haftaya düşüşle başladı. Yatırımcıların odağı, ABD Merkez Bankasının (Fed) politika patikasına ilişkin yeni ...",
+      "long_summary_tr": "Altın fiyatları, güçlü ABD istihdam verilerinin faiz artışı beklentilerini güçlendirmesiyle haftaya düşüşle başladı. Yatırımcıların odağı, ABD Merkez Bankasının (Fed) politika patikasına ilişkin yeni ...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e80da95016b5817e56b21/PICNEWS/tr/altinda-kritik-esik-abd-enflasyonu-4-bin-400-dolarin-kaderini-belirleyecek-07-09-26/",
+      "image": "https://news-files.foreks.com/images/24038d2b13954b06ab8c76304ecf8c33.jpeg",
+      "published_at": "2026-09-07T09:16:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "Ahbap soruşturmasında 20 ilde 53 şüpheliye operasyon",
+      "title_tr": "Ahbap soruşturmasında 20 ilde 53 şüpheliye operasyon",
+      "summary": "Ahbap Derneği'ne yönelik soruşturmada 53 şüpheli için yakalama kararı çıkarıldı. İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketler de mercek altına alındı.",
+      "summary_tr": "Ahbap Derneği'ne yönelik soruşturmada 53 şüpheli için yakalama kararı çıkarıldı. İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketler de mercek altına alındı.",
+      "long_summary": "Ahbap Derneği'ne yönelik soruşturmada 53 şüpheli için yakalama kararı çıkarıldı. İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketler de mercek altına alındı.",
+      "long_summary_tr": "Ahbap Derneği'ne yönelik soruşturmada 53 şüpheli için yakalama kararı çıkarıldı. İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketler de mercek altına alındı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/galeri-ahbap-sorusturmasinda-20-ilde-53-supheliye-operasyon-1740770",
+      "image": "https://images.ntv.com.tr/images/HALUKLEVENTahbap-524425.png",
+      "published_at": "2026-09-07T09:12:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Altın Yalova’daki Yeni Haftaya Nasıl Girdi?",
+      "title_tr": "Altın Yalova’daki Yeni Haftaya Nasıl Girdi?",
+      "summary": "7 Eylül Pazartesi günü itibariyle Yalova’da altın piyasalarının yeni haftaya nasıl başladığı merak konusu oldu.",
+      "summary_tr": "7 Eylül Pazartesi günü itibariyle Yalova’da altın piyasalarının yeni haftaya nasıl başladığı merak konusu oldu.",
+      "long_summary": "7 Eylül Pazartesi günü itibariyle Yalova’da altın piyasalarının yeni haftaya nasıl başladığı merak konusu oldu.",
+      "long_summary_tr": "7 Eylül Pazartesi günü itibariyle Yalova’da altın piyasalarının yeni haftaya nasıl başladığı merak konusu oldu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/altin-yalovadaki-yeni-haftaya-nasil-girdi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/09/haber/yalova-turkiye-yeni-hafta-gram-tam-ceyrek-altin.jpg",
+      "published_at": "2026-09-07T09:11:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Yalova’da Yaz Havası Etkisini Hissettiriyor",
+      "title_tr": "Yalova’da Yaz Havası Etkisini Hissettiriyor",
+      "summary": "Meteoroloji Genel Müdürlüğü'nün tahminlerine göre Yalova'da bugün hava az bulutlu ve açık olacak.",
+      "summary_tr": "Meteoroloji Genel Müdürlüğü'nün tahminlerine göre Yalova'da bugün hava az bulutlu ve açık olacak.",
+      "long_summary": "Meteoroloji Genel Müdürlüğü'nün tahminlerine göre Yalova'da bugün hava az bulutlu ve açık olacak.",
+      "long_summary_tr": "Meteoroloji Genel Müdürlüğü'nün tahminlerine göre Yalova'da bugün hava az bulutlu ve açık olacak.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/yalovada-yaz-havasi-etkisini-hissettiriyor",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/09/haber/yalova-turkiye-marmara-hava-durum-sicaklik-az-bulutlu-acik-26.jpg",
+      "published_at": "2026-09-07T09:10:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Hampshire Police investigating Bielik incident at Portsmouth",
+      "title_tr": "Hampshire Police investigating Bielik incident at Portsmouth",
+      "summary": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
+      "summary_tr": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
+      "long_summary": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
+      "long_summary_tr": "Hampshire Police are investigating an incident between Cardiff's Krystian Bielik and a home supporter during Portsmouth's 2-0 win at Fratton Park on Saturday.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13582657/krystian-bielik-hampshire-police-investigating-incident-between-cardiff-midfielder-and-portsmouth-supporter",
+      "image": "https://e2.365dm.com/26/09/1920x1080/sky-sports-football-championship_7342646.jpg?20260905214205",
+      "published_at": "2026-09-07T09:10:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "TCMB'nin repo ihalesine 5,35 milyar liralık teklif",
+      "title_tr": "TCMB'nin repo ihalesine 5,35 milyar liralık teklif",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), bugün düzenlediği repo ihalesinin sonuçlarını açıkladı.",
+      "summary_tr": "Türkiye Cumhuriyet Merkez Bankası (TCMB), bugün düzenlediği repo ihalesinin sonuçlarını açıkladı.",
+      "long_summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), bugün düzenlediği repo ihalesinin sonuçlarını açıkladı.",
+      "long_summary_tr": "Türkiye Cumhuriyet Merkez Bankası (TCMB), bugün düzenlediği repo ihalesinin sonuçlarını açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e7ec624008d7d4372d9f3/PICNEWS/tr/tcmb-nin-repo-ihalesine-5-35-milyar-liralik-teklif-07-09-26/",
+      "image": "https://news-files.foreks.com/images/e82ea8bf9d8149b69b0ab4ae517e9bcc.jpeg",
+      "published_at": "2026-09-07T09:07:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Yalova Gazetesi",
+      "title": "Çiftlikköylüler Filenin Sultanlarına Dev Ekrandan Destek Verdi",
+      "title_tr": "Çiftlikköylüler Filenin Sultanlarına Dev Ekrandan Destek Verdi",
+      "summary": "Çiftlikköy Belediyesi, Türkiye A Milli Kadın Voleybol Takımı’nın İtalya’yı 3-2 yenerek Avrupa Şampiyonluğu’na ulaştığı final karşılaşması için Mokamp alanına dev ekran kurdu.",
+      "summary_tr": "Çiftlikköy Belediyesi, Türkiye A Milli Kadın Voleybol Takımı’nın İtalya’yı 3-2 yenerek Avrupa Şampiyonluğu’na ulaştığı final karşılaşması için Mokamp alanına dev ekran kurdu.",
+      "long_summary": "Çiftlikköy Belediyesi, Türkiye A Milli Kadın Voleybol Takımı’nın İtalya’yı 3-2 yenerek Avrupa Şampiyonluğu’na ulaştığı final karşılaşması için Mokamp alanına dev ekran kurdu.",
+      "long_summary_tr": "Çiftlikköy Belediyesi, Türkiye A Milli Kadın Voleybol Takımı’nın İtalya’yı 3-2 yenerek Avrupa Şampiyonluğu’na ulaştığı final karşılaşması için Mokamp alanına dev ekran kurdu.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.yalovagazetesi.com/ciftlikkoyluler-filenin-sultanlarina-dev-ekrandan-destek-verdi",
+      "image": "https://yalovagazetesicom.teimg.com/crop/1280x720/yalovagazetesi-com/uploads/2026/09/haber/yalova-ciftlikkoy-belediye-filenin-sultanlari-sampiyon-italya-mac-dev-ekran-destek-3.jpeg",
+      "published_at": "2026-09-07T09:07:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "İstanbul'un 24 ilçesinde 9 saat elektrik kesintisi: Hangi ilçelerde kesinti yaşanacak? 9 Eylül BEDAŞ kesinti programı",
+      "title_tr": "İstanbul'un 24 ilçesinde 9 saat elektrik kesintisi: Hangi ilçelerde kesinti yaşanacak? 9 Eylül BEDAŞ kesinti programı",
+      "summary": "İstanbul Avrupa Yakası'nda elektrik dağıtım hizmeti sunan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme, trafo bakımı ve periyodik altyapı çalışmaları kapsamında yeni bir planlı elektrik kesintisi programı yayımladı. Yayımlanan takvime göre 9 Eylül 2026 Çarşamba günü megakentin 24 farklı ilçesinde belirli mahalle ve sokaklarda 9 saate varan elektrik kesintileri uygulanacak. Peki, hangi ilçelerde elektrik kesintisi yaşanacak? İşte 9 Eylül BEDAŞ elektrik kesintisi programı.",
+      "summary_tr": "İstanbul Avrupa Yakası'nda elektrik dağıtım hizmeti sunan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme, trafo bakımı ve periyodik altyapı çalışmaları kapsamında yeni bir planlı elektrik kesintisi programı yayımladı. Yayımlanan takvime göre 9 Eylül 2026 Çarşamba günü megakentin 24 farklı ilçesinde belirli mahalle ve sokaklarda 9 saate varan elektrik kesintileri uygulanacak. Peki, hangi ilçelerde elektrik kesintisi yaşanacak? İşte 9 Eylül BEDAŞ elektrik kesintisi programı.",
+      "long_summary": "İstanbul Avrupa Yakası'nda elektrik dağıtım hizmeti sunan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme, trafo bakımı ve periyodik altyapı çalışmaları kapsamında yeni bir planlı elektrik kesintisi programı yayımladı. Yayımlanan takvime göre 9 Eylül 2026 Çarşamba günü megakentin 24 farklı ilçesinde belirli mahalle ve sokaklarda 9 saate varan elektrik kesintileri uygulanacak. Peki, hangi ilçelerde elektrik kesintisi yaşanacak? İşte 9 Eylül BEDAŞ elektrik kesintisi programı.",
+      "long_summary_tr": "İstanbul Avrupa Yakası'nda elektrik dağıtım hizmeti sunan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme, trafo bakımı ve periyodik altyapı çalışmaları kapsamında yeni bir planlı elektrik kesintisi programı yayımladı. Yayımlanan takvime göre 9 Eylül 2026 Çarşamba günü megakentin 24 farklı ilçesinde belirli mahalle ve sokaklarda 9 saate varan elektrik kesintileri uygulanacak. Peki, hangi ilçelerde elektrik kesintisi yaşanacak? İşte 9 Eylül BEDAŞ elektrik kesintisi programı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/galeri-istanbulun-24-ilcesinde-9-saat-elektrik-kesintisi-hangi-ilcelerde-kesinti-yasanacak-9-eylul-bedas-1740775",
+      "image": "https://images.ntv.com.tr/images/iStock-1368598109-318377.jpg",
+      "published_at": "2026-09-07T09:04:25+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "UBS'den Fed tahmininde keskin dönüş: Bu yıl iki faiz artışı bekliyor",
+      "title_tr": "UBS'den Fed tahmininde keskin dönüş: Bu yıl iki faiz artışı bekliyor",
+      "summary": "UBS, güçlü ABD istihdam verilerinin iş gücü piyasasının dayanıklılığını ortaya koymasının ardından ABD Merkez Bankasının (Fed) 2026 yılına ilişkin faiz tahminini değiştirdi. Kurum, Fed'in eylül ve ara...",
+      "summary_tr": "UBS, güçlü ABD istihdam verilerinin iş gücü piyasasının dayanıklılığını ortaya koymasının ardından ABD Merkez Bankasının (Fed) 2026 yılına ilişkin faiz tahminini değiştirdi. Kurum, Fed'in eylül ve ara...",
+      "long_summary": "UBS, güçlü ABD istihdam verilerinin iş gücü piyasasının dayanıklılığını ortaya koymasının ardından ABD Merkez Bankasının (Fed) 2026 yılına ilişkin faiz tahminini değiştirdi. Kurum, Fed'in eylül ve ara...",
+      "long_summary_tr": "UBS, güçlü ABD istihdam verilerinin iş gücü piyasasının dayanıklılığını ortaya koymasının ardından ABD Merkez Bankasının (Fed) 2026 yılına ilişkin faiz tahminini değiştirdi. Kurum, Fed'in eylül ve ara...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e7e0d95016b5817e56b15/PICNEWS/tr/ubs-den-fed-tahmininde-keskin-donus-bu-yil-iki-faiz-artisi-bekliyor-07-09-26/",
+      "image": "https://news-files.foreks.com/images/ed0403157a284efa8686c40c50fe210a.jpeg",
+      "published_at": "2026-09-07T09:04:13+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "İngiltere Maliye Bakanı Healey'den harcama freni mesajı",
+      "title_tr": "İngiltere Maliye Bakanı Healey'den harcama freni mesajı",
+      "summary": "İngiltere Maliye Bakanı John Healey, ekonomideki artan maliyetlere sınır çizmek istediğini söyledi. Healey, eski Maliye Bakanı Reeves döneminde başlatılan önlemler üzerine inşa ederek mali disiplini y...",
+      "summary_tr": "İngiltere Maliye Bakanı John Healey, ekonomideki artan maliyetlere sınır çizmek istediğini söyledi. Healey, eski Maliye Bakanı Reeves döneminde başlatılan önlemler üzerine inşa ederek mali disiplini y...",
+      "long_summary": "İngiltere Maliye Bakanı John Healey, ekonomideki artan maliyetlere sınır çizmek istediğini söyledi. Healey, eski Maliye Bakanı Reeves döneminde başlatılan önlemler üzerine inşa ederek mali disiplini y...",
+      "long_summary_tr": "İngiltere Maliye Bakanı John Healey, ekonomideki artan maliyetlere sınır çizmek istediğini söyledi. Healey, eski Maliye Bakanı Reeves döneminde başlatılan önlemler üzerine inşa ederek mali disiplini y...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e7dc024008d7d4372d9ec/PICNEWS/tr/ingiltere-maliye-bakani-healey-den-harcama-freni-mesaji-07-09-26/",
+      "image": "https://news-files.foreks.com/images/af19a9679042495292c29c8a9e728859.jpeg",
+      "published_at": "2026-09-07T09:02:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bakan Kacır yeni destek paketini duyurdu: KOBİ'lere 75 milyon liralık kredi",
+      "title_tr": "Bakan Kacır yeni destek paketini duyurdu: KOBİ'lere 75 milyon liralık kredi",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, KOSGEB&#039;in Küresel Rekabetçilik Destek Programı kapsamında KOBİ&#039;lere 75 milyon liraya kadar kredi, 20 puanlık geri ödemesiz finansman desteği ve KGF kefaleti sağlanacağını açıkladı. Başvurular 30 Eylül&#039;e kadar sürecek.",
+      "summary_tr": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, KOSGEB&#039;in Küresel Rekabetçilik Destek Programı kapsamında KOBİ&#039;lere 75 milyon liraya kadar kredi, 20 puanlık geri ödemesiz finansman desteği ve KGF kefaleti sağlanacağını açıkladı. Başvurular 30 Eylül&#039;e kadar sürecek.",
+      "long_summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, KOSGEB&#039;in Küresel Rekabetçilik Destek Programı kapsamında KOBİ&#039;lere 75 milyon liraya kadar kredi, 20 puanlık geri ödemesiz finansman desteği ve KGF kefaleti sağlanacağını açıkladı. Başvurular 30 Eylül&#039;e kadar sürecek.",
+      "long_summary_tr": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, KOSGEB&#039;in Küresel Rekabetçilik Destek Programı kapsamında KOBİ&#039;lere 75 milyon liraya kadar kredi, 20 puanlık geri ödemesiz finansman desteği ve KGF kefaleti sağlanacağını açıkladı. Başvurular 30 Eylül&#039;e kadar sürecek.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/bakan-kacir-yeni-destek-paketini-duyurdu-kobilere-75-milyon-liralik-kredi-haberi-839025",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/para2-eehe_cover.jpg",
+      "published_at": "2026-09-07T09:02:00+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Teknoloji",
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "ShiftDelete",
-      "title": "Apple Yapay Zeka Destekli Güvenlik Kamerası Çıkaracak: Sadece Önemli Anları Kaydedecek",
-      "title_tr": "Apple Yapay Zeka Destekli Güvenlik Kamerası Çıkaracak: Sadece Önemli Anları Kaydedecek",
-      "summary": "Apple, 2027'de piyasaya süreceği Apple yapay zeka destekli güvenlik kamerası ile ev güvenliğinde devrim yapmaya hazırlanıyor. Detaylar haberimizde.",
-      "summary_tr": "Apple, 2027'de piyasaya süreceği Apple yapay zeka destekli güvenlik kamerası ile ev güvenliğinde devrim yapmaya hazırlanıyor. Detaylar haberimizde.",
-      "long_summary": "Apple, 2027'de piyasaya süreceği Apple yapay zeka destekli güvenlik kamerası ile ev güvenliğinde devrim yapmaya hazırlanıyor. Detaylar haberimizde.",
-      "long_summary_tr": "Apple, 2027'de piyasaya süreceği Apple yapay zeka destekli güvenlik kamerası ile ev güvenliğinde devrim yapmaya hazırlanıyor. Detaylar haberimizde.",
+      "title": "Twitter İsmi Mahkemelik Oldu: Yeni Adres Belli Oldu",
+      "title_tr": "Twitter İsmi Mahkemelik Oldu: Yeni Adres Belli Oldu",
+      "summary": "Operation Bluebird Twitter davası sonuçlandı. Mahkeme Twitter ismini X'e bırakırken, Tweet ve kuş logosu için farklı bir karar verdi.",
+      "summary_tr": "Operation Bluebird Twitter davası sonuçlandı. Mahkeme Twitter ismini X'e bırakırken, Tweet ve kuş logosu için farklı bir karar verdi.",
+      "long_summary": "Operation Bluebird Twitter davası sonuçlandı. Mahkeme Twitter ismini X'e bırakırken, Tweet ve kuş logosu için farklı bir karar verdi.",
+      "long_summary_tr": "Operation Bluebird Twitter davası sonuçlandı. Mahkeme Twitter ismini X'e bırakırken, Tweet ve kuş logosu için farklı bir karar verdi.",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://shiftdelete.net/apple-yapay-zeka-destekli-guvenlik-kamerasi-2027",
+      "url": "https://shiftdelete.net/operation-bluebird-twitter-davasi-tweet-app",
       "image": null,
-      "published_at": "2026-09-07T04:00:31+00:00"
+      "published_at": "2026-09-07T09:00:27+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
-      "source": "BBC Sport",
-      "title": "Alcaraz delivers statement win to reach US Open last eight",
-      "title_tr": "Alcaraz delivers statement win to reach US Open last eight",
-      "summary": "Carlos Alcaraz continues his return from long-term injury with a hugely impressive fourth-round win against Tommy Paul at the US Open.",
-      "summary_tr": "Carlos Alcaraz continues his return from long-term injury with a hugely impressive fourth-round win against Tommy Paul at the US Open.",
-      "long_summary": "Carlos Alcaraz continues his return from long-term injury with a hugely impressive fourth-round win against Tommy Paul at the US Open.",
-      "long_summary_tr": "Carlos Alcaraz continues his return from long-term injury with a hugely impressive fourth-round win against Tommy Paul at the US Open.",
+      "source": "Sky Sports",
+      "title": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
+      "title_tr": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
+      "summary": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
+      "summary_tr": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
+      "long_summary": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
+      "long_summary_tr": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cn4kge7gl99o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab66/live/410b6450-aa2a-11f1-aed2-8d6da8d75094.jpg",
-      "published_at": "2026-09-07T03:58:15+00:00"
+      "url": "https://www.skysports.com/football/news/12040/13580730/troy-parrott-stuns-old-boss-jose-mourinho-as-kylian-mbappe-costs-real-madrid-plus-lots-more-in-the-euro-debrief",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-euro-debrief-barcelona_7344005.jpg?20260907092518",
+      "published_at": "2026-09-07T09:00:00+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "category": "Otomobil",
+      "category_slug": "otomobil",
       "is_local": false,
-      "source": "Foreks",
-      "title": "Goldman Sachs'tan Kore borsası için iddialı tahmin",
-      "title_tr": "Goldman Sachs'tan Kore borsası için iddialı tahmin",
-      "summary": "Goldman Sachs, yapay zekânın bellek çipi üreticilerine sağladığı desteğin yatırımcıların öngördüğünden daha uzun süreceğini belirterek Güney Kore borsasına yönelik güçlü yükseliş beklentisini korudu.",
-      "summary_tr": "Goldman Sachs, yapay zekânın bellek çipi üreticilerine sağladığı desteğin yatırımcıların öngördüğünden daha uzun süreceğini belirterek Güney Kore borsasına yönelik güçlü yükseliş beklentisini korudu.",
-      "long_summary": "Goldman Sachs, yapay zekânın bellek çipi üreticilerine sağladığı desteğin yatırımcıların öngördüğünden daha uzun süreceğini belirterek Güney Kore borsasına yönelik güçlü yükseliş beklentisini korudu.",
-      "long_summary_tr": "Goldman Sachs, yapay zekânın bellek çipi üreticilerine sağladığı desteğin yatırımcıların öngördüğünden daha uzun süreceğini belirterek Güney Kore borsasına yönelik güçlü yükseliş beklentisini korudu.",
+      "source": "Motor1",
+      "title": "Porsche'nin yeni benzinli SUV'si \"gizli göreve\" çıktı",
+      "title_tr": "Porsche'nin yeni benzinli SUV'si \"gizli göreve\" çıktı",
+      "summary": "Macan'ın içten yanmalı varisi, Audi Q5 gövdesiyle test ediliyor.",
+      "summary_tr": "Macan'ın içten yanmalı varisi, Audi Q5 gövdesiyle test ediliyor.",
+      "long_summary": "Macan'ın içten yanmalı varisi, Audi Q5 gövdesiyle test ediliyor.",
+      "long_summary_tr": "Macan'ın içten yanmalı varisi, Audi Q5 gövdesiyle test ediliyor.",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Ulaşım ve araç kullanımını etkilemesi"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Araç piyasasında fiyat ve talep dengeleri değişebilir"
       ],
-      "url": "https://www.foreks.com/haber/detay/6a9e356224008d7d4372d7fc/PICNEWS/tr/goldman-sachs-tan-kore-borsasi-icin-iddiali-tahmin-07-09-26/",
-      "image": "https://news-files.foreks.com/images/49ac4e8c072f437fa62aea98312acf2d.jpeg",
-      "published_at": "2026-09-07T03:54:10+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "ABD'den Hürmüz mesajı: Petrol akışı donanma eskortuyla sürüyor",
-      "title_tr": "ABD'den Hürmüz mesajı: Petrol akışı donanma eskortuyla sürüyor",
-      "summary": "ABD Enerji Bakanı Chris Wright, petrol tankerlerinin Hürmüz Boğazı'ndan geçişine eşlik eden ABD Donanması gemilerinin ham petrol akışının sürdürülebilmesi açısından vazgeçilmez olduğunu söyledi. Wrigh...",
-      "summary_tr": "ABD Enerji Bakanı Chris Wright, petrol tankerlerinin Hürmüz Boğazı'ndan geçişine eşlik eden ABD Donanması gemilerinin ham petrol akışının sürdürülebilmesi açısından vazgeçilmez olduğunu söyledi. Wrigh...",
-      "long_summary": "ABD Enerji Bakanı Chris Wright, petrol tankerlerinin Hürmüz Boğazı'ndan geçişine eşlik eden ABD Donanması gemilerinin ham petrol akışının sürdürülebilmesi açısından vazgeçilmez olduğunu söyledi. Wrigh...",
-      "long_summary_tr": "ABD Enerji Bakanı Chris Wright, petrol tankerlerinin Hürmüz Boğazı'ndan geçişine eşlik eden ABD Donanması gemilerinin ham petrol akışının sürdürülebilmesi açısından vazgeçilmez olduğunu söyledi. Wrigh...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e34bd95016b5817e5690d/PICNEWS/tr/abd-den-hurmuz-mesaji-petrol-akisi-donanma-eskortuyla-suruyor-07-09-26/",
-      "image": "https://news-files.foreks.com/images/cb164f5980424ca6a359b0ebb364e131.jpeg",
-      "published_at": "2026-09-07T03:51:25+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Boğaziçi ve FSM Köprüleri Dahil Çok Sayıda Otoyol ve Köprü Özelleştiriliyor!",
-      "title_tr": "Boğaziçi ve FSM Köprüleri Dahil Çok Sayıda Otoyol ve Köprü Özelleştiriliyor!",
-      "summary": "Resmi Gazete'de yayımlanan karara göre Boğaziçi ve Fatih Sultan Mehmet köprüleri ile çok sayıda otoyol özelleşiyor.",
-      "summary_tr": "Resmi Gazete'de yayımlanan karara göre Boğaziçi ve Fatih Sultan Mehmet köprüleri ile çok sayıda otoyol özelleşiyor.",
-      "long_summary": "Resmi Gazete'de yayımlanan karara göre Boğaziçi ve Fatih Sultan Mehmet köprüleri ile çok sayıda otoyol özelleşiyor.",
-      "long_summary_tr": "Resmi Gazete'de yayımlanan karara göre Boğaziçi ve Fatih Sultan Mehmet köprüleri ile çok sayıda otoyol özelleşiyor.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/bogazici-fsm-kopruleri-otoyollar-ozellestiriliyor-h223703.html",
-      "image": "https://imgrosetta.webtekno.com/file/681631/681631-640xauto.jpg",
-      "published_at": "2026-09-07T03:51:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "JPMorgan ve BlackRock'un gözdesi gelişen piyasalar tahvilleri oldu",
-      "title_tr": "JPMorgan ve BlackRock'un gözdesi gelişen piyasalar tahvilleri oldu",
-      "summary": "Bloomberg News'un haberine göre, gelişmiş ülkelerin devlet tahvilleri çökerken, JPMorgan Asset Management ve BlackRock Inc. gibi kurumların yönettiği fonlar gelişmekte olan piyasalarda beklenmedik bir...",
-      "summary_tr": "Bloomberg News'un haberine göre, gelişmiş ülkelerin devlet tahvilleri çökerken, JPMorgan Asset Management ve BlackRock Inc. gibi kurumların yönettiği fonlar gelişmekte olan piyasalarda beklenmedik bir...",
-      "long_summary": "Bloomberg News'un haberine göre, gelişmiş ülkelerin devlet tahvilleri çökerken, JPMorgan Asset Management ve BlackRock Inc. gibi kurumların yönettiği fonlar gelişmekte olan piyasalarda beklenmedik bir...",
-      "long_summary_tr": "Bloomberg News'un haberine göre, gelişmiş ülkelerin devlet tahvilleri çökerken, JPMorgan Asset Management ve BlackRock Inc. gibi kurumların yönettiği fonlar gelişmekte olan piyasalarda beklenmedik bir...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e344795016b5817e5690b/PICNEWS/tr/jpmorgan-ve-blackrock-un-gozdesi-gelisen-piyasalar-tahvilleri-oldu-07-09-26/",
-      "image": "https://news-files.foreks.com/images/c9b0d8c6ffe14b00937af4c32b94638b.jpeg",
-      "published_at": "2026-09-07T03:49:27+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "İtalya'da bankalara yeni vergi kapıda",
-      "title_tr": "İtalya'da bankalara yeni vergi kapıda",
-      "summary": "İtalya Başbakan Yardımcısı ve Lig Partisi lideri Matteo Salvini, bankaların rekor düzeye ulaşan kazançlarından daha fazla vergi alınmasını bütçe kapsamında önereceğini açıkladı.",
-      "summary_tr": "İtalya Başbakan Yardımcısı ve Lig Partisi lideri Matteo Salvini, bankaların rekor düzeye ulaşan kazançlarından daha fazla vergi alınmasını bütçe kapsamında önereceğini açıkladı.",
-      "long_summary": "İtalya Başbakan Yardımcısı ve Lig Partisi lideri Matteo Salvini, bankaların rekor düzeye ulaşan kazançlarından daha fazla vergi alınmasını bütçe kapsamında önereceğini açıkladı.",
-      "long_summary_tr": "İtalya Başbakan Yardımcısı ve Lig Partisi lideri Matteo Salvini, bankaların rekor düzeye ulaşan kazançlarından daha fazla vergi alınmasını bütçe kapsamında önereceğini açıkladı.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e33b924008d7d4372d7fa/PICNEWS/tr/italya-da-bankalara-yeni-vergi-kapida-07-09-26/",
-      "image": "https://news-files.foreks.com/images/00d3b31dd09e4ce488bd6a640a984321.jpeg",
-      "published_at": "2026-09-07T03:47:05+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Liquid Network ağından 4 bin Bitcoin çalındı",
-      "title_tr": "Liquid Network ağından 4 bin Bitcoin çalındı",
-      "summary": "Bitcoin bağlantılı blokzincir Liquid Network, yaklaşık 320 milyon dolar değerindeki 4 bin Bitcoin'in Liquid Federation cüzdanından çekilmesinin ardından ağ faaliyetlerini geçici olarak durdurdu.",
-      "summary_tr": "Bitcoin bağlantılı blokzincir Liquid Network, yaklaşık 320 milyon dolar değerindeki 4 bin Bitcoin'in Liquid Federation cüzdanından çekilmesinin ardından ağ faaliyetlerini geçici olarak durdurdu.",
-      "long_summary": "Bitcoin bağlantılı blokzincir Liquid Network, yaklaşık 320 milyon dolar değerindeki 4 bin Bitcoin'in Liquid Federation cüzdanından çekilmesinin ardından ağ faaliyetlerini geçici olarak durdurdu.",
-      "long_summary_tr": "Bitcoin bağlantılı blokzincir Liquid Network, yaklaşık 320 milyon dolar değerindeki 4 bin Bitcoin'in Liquid Federation cüzdanından çekilmesinin ardından ağ faaliyetlerini geçici olarak durdurdu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e333595016b5817e56907/PICNEWS/tr/liquid-network-agindan-4-bin-bitcoin-calindi-07-09-26/",
-      "image": "https://news-files.foreks.com/images/c1c6b4ff441b41c185c268eb650b2996.jpeg",
-      "published_at": "2026-09-07T03:44:53+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "Webtekno",
-      "title": "Bir Çinli Otomobil Markası Daha Türkiye'ye Geldi",
-      "title_tr": "Bir Çinli Otomobil Markası Daha Türkiye'ye Geldi",
-      "summary": "Çin merkezli Ultrand markası, pick-up ve ticari araç segmentindeki modelleriyle resmî olarak Türkiye pazarına adım attı.",
-      "summary_tr": "Çin merkezli Ultrand markası, pick-up ve ticari araç segmentindeki modelleriyle resmî olarak Türkiye pazarına adım attı.",
-      "long_summary": "Çin merkezli Ultrand markası, pick-up ve ticari araç segmentindeki modelleriyle resmî olarak Türkiye pazarına adım attı.",
-      "long_summary_tr": "Çin merkezli Ultrand markası, pick-up ve ticari araç segmentindeki modelleriyle resmî olarak Türkiye pazarına adım attı.",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://www.webtekno.com/cinli-ultraland-turkiye-geldi-modeller-fiyatlar-h223702.html",
-      "image": "https://imgrosetta.webtekno.com/file/681628/681628-640xauto.jpg",
-      "published_at": "2026-09-07T03:41:24+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Hürmüz’de tanker gerilimi petrolü 97 dolar sınırına taşıdı",
-      "title_tr": "Hürmüz’de tanker gerilimi petrolü 97 dolar sınırına taşıdı",
-      "summary": "ABD ile İran arasında Hürmüz çevresinde tankerleri hedef alan karşılıklı hamleler, petrol piyasasında arz endişesini yeniden büyüttü. Brent petrol 97 dolar eşiğine dayanırken, düşük gemi geçişi ve yeni kısıtlama sinyalleri risk primini yukarı çekti.",
-      "summary_tr": "ABD ile İran arasında Hürmüz çevresinde tankerleri hedef alan karşılıklı hamleler, petrol piyasasında arz endişesini yeniden büyüttü. Brent petrol 97 dolar eşiğine dayanırken, düşük gemi geçişi ve yeni kısıtlama sinyalleri risk primini yukarı çekti.",
-      "long_summary": "ABD ile İran arasında Hürmüz çevresinde tankerleri hedef alan karşılıklı hamleler, petrol piyasasında arz endişesini yeniden büyüttü. Brent petrol 97 dolar eşiğine dayanırken, düşük gemi geçişi ve yeni kısıtlama sinyalleri risk primini yukarı çekti.",
-      "long_summary_tr": "ABD ile İran arasında Hürmüz çevresinde tankerleri hedef alan karşılıklı hamleler, petrol piyasasında arz endişesini yeniden büyüttü. Brent petrol 97 dolar eşiğine dayanırken, düşük gemi geçişi ve yeni kısıtlama sinyalleri risk primini yukarı çekti.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/hurmuzde-tanker-gerilimi-petrolu-97-dolar-sinirina-tasidi-haberi-838967",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/01-ana-gorsel-h1jz_cover.jpg",
-      "published_at": "2026-09-07T03:41:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Japonya yene müdahale etti, rezervlerde tarihi düşüş yaşandı",
-      "title_tr": "Japonya yene müdahale etti, rezervlerde tarihi düşüş yaşandı",
-      "summary": "Japonya'nın döviz rezervleri, yendeki kalıcı değer kaybını durdurmak amacıyla gerçekleştirilen rekor büyüklükteki dolar satışı ve yen alımının ardından ağustosta şimdiye kadarki en sert düşüşünü kayde...",
-      "summary_tr": "Japonya'nın döviz rezervleri, yendeki kalıcı değer kaybını durdurmak amacıyla gerçekleştirilen rekor büyüklükteki dolar satışı ve yen alımının ardından ağustosta şimdiye kadarki en sert düşüşünü kayde...",
-      "long_summary": "Japonya'nın döviz rezervleri, yendeki kalıcı değer kaybını durdurmak amacıyla gerçekleştirilen rekor büyüklükteki dolar satışı ve yen alımının ardından ağustosta şimdiye kadarki en sert düşüşünü kayde...",
-      "long_summary_tr": "Japonya'nın döviz rezervleri, yendeki kalıcı değer kaybını durdurmak amacıyla gerçekleştirilen rekor büyüklükteki dolar satışı ve yen alımının ardından ağustosta şimdiye kadarki en sert düşüşünü kayde...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e30eb24008d7d4372d7ef/PICNEWS/tr/japonya-yene-mudahale-etti-rezervlerde-tarihi-dusus-yasandi-07-09-26/",
-      "image": "https://news-files.foreks.com/images/86411c90f61b47c087d1d3d6aa74712e.jpeg",
-      "published_at": "2026-09-07T03:35:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Jefferies’e Göre Hindistan’ın Kilit Sektörlerindeki En İyi Hisse Senetleri",
-      "title_tr": "Jefferies’e Göre Hindistan’ın Kilit Sektörlerindeki En İyi Hisse Senetleri",
-      "summary": "Jefferies’e Göre Hindistan’ın Kilit Sektörlerindeki En İyi Hisse Senetleri",
-      "summary_tr": "Jefferies’e Göre Hindistan’ın Kilit Sektörlerindeki En İyi Hisse Senetleri",
-      "long_summary": "Jefferies’e Göre Hindistan’ın Kilit Sektörlerindeki En İyi Hisse Senetleri",
-      "long_summary_tr": "Jefferies’e Göre Hindistan’ın Kilit Sektörlerindeki En İyi Hisse Senetleri",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/jefferiese-gore-hindistann-kilit-sektorlerindeki-en-iyi-hisse-senetleri-93CH-4056387",
-      "image": "https://content-media.investing.com/news/LYNXMPEB220AX_M.jpg",
-      "published_at": "2026-09-07T03:32:15+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Çin'den bankalara dev sermaye desteği",
-      "title_tr": "Çin'den bankalara dev sermaye desteği",
-      "summary": "Çin, finansal sistemini güçlendirmek ve yavaşlayan ekonomisini desteklemek amacıyla sekiz devlet bankası ve sigorta şirketine on milyarlarca dolar aktarıyor.",
-      "summary_tr": "Çin, finansal sistemini güçlendirmek ve yavaşlayan ekonomisini desteklemek amacıyla sekiz devlet bankası ve sigorta şirketine on milyarlarca dolar aktarıyor.",
-      "long_summary": "Çin, finansal sistemini güçlendirmek ve yavaşlayan ekonomisini desteklemek amacıyla sekiz devlet bankası ve sigorta şirketine on milyarlarca dolar aktarıyor.",
-      "long_summary_tr": "Çin, finansal sistemini güçlendirmek ve yavaşlayan ekonomisini desteklemek amacıyla sekiz devlet bankası ve sigorta şirketine on milyarlarca dolar aktarıyor.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e303795016b5817e568f8/PICNEWS/tr/cin-den-bankalara-dev-sermaye-destegi-07-09-26/",
-      "image": "https://news-files.foreks.com/images/fb753a442d8f4568bdde9f7e896162a7.jpeg",
-      "published_at": "2026-09-07T03:32:07+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Sabalenka overcomes tricky Townsend test at US Open",
-      "title_tr": "Sabalenka overcomes tricky Townsend test at US Open",
-      "summary": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
-      "summary_tr": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
-      "long_summary": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
-      "long_summary_tr": "Two-time defending champion Aryna Sabalenka emulates Serena Williams by overcoming Taylor Townsend to reach a sixth straight US Open quarter-final.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/798d/live/d016d700-aa1c-11f1-8046-e7e0d3946c1a.jpg",
-      "published_at": "2026-09-07T03:30:14+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Eylül 2026",
-      "title_tr": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Eylül 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası..Kandilli rasathanesi ve deprem araştırma enstitüsü ve AFAD deprem haberleri..İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
-      "summary_tr": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası..Kandilli rasathanesi ve deprem araştırma enstitüsü ve AFAD deprem haberleri..İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi illerde deprem oldu ve hissedildi? Bugün deprem mi oldu? Deprem ne zaman ve kaç şiddetinde oldu? En son hangi bölgede deprem oldu? Deprem haberleriyle ilgili en çok merak edilenlerin cevabı haberde..",
-      "long_summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası..Kandilli rasathanesi ve deprem araştırma enstitüsü ve AFAD deprem haberleri..İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi",
-      "long_summary_tr": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Yakınımdaki depremler nelerdir? Anlık deprem mi oldu? Son dakika canlı deprem Türkiye haritası..Kandilli rasathanesi ve deprem araştırma enstitüsü ve AFAD deprem haberleri..İstanbul'da deprem mi oldu? Ankara'da deprem mi oldu? İzmir'de deprem mi oldu? Hangi",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-eylul-2026-1740701",
-      "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-09-07T03:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Aşırı sağcı AfD'den tarihi zafer: Almanya'da siyasi dengeleri sarsan sonuç",
-      "title_tr": "Aşırı sağcı AfD'den tarihi zafer: Almanya'da siyasi dengeleri sarsan sonuç",
-      "summary": "Aşırı sağcı Almanya için Alternatif (AfD), Saksonya-Anhalt eyalet seçiminde tarihî bir başarıya imza atarak açık farkla birinci oldu. Sonuç, Başbakan Friedrich Merz liderliğindeki Hristiyan Demokrat B...",
-      "summary_tr": "Aşırı sağcı Almanya için Alternatif (AfD), Saksonya-Anhalt eyalet seçiminde tarihî bir başarıya imza atarak açık farkla birinci oldu. Sonuç, Başbakan Friedrich Merz liderliğindeki Hristiyan Demokrat B...",
-      "long_summary": "Aşırı sağcı Almanya için Alternatif (AfD), Saksonya-Anhalt eyalet seçiminde tarihî bir başarıya imza atarak açık farkla birinci oldu. Sonuç, Başbakan Friedrich Merz liderliğindeki Hristiyan Demokrat B...",
-      "long_summary_tr": "Aşırı sağcı Almanya için Alternatif (AfD), Saksonya-Anhalt eyalet seçiminde tarihî bir başarıya imza atarak açık farkla birinci oldu. Sonuç, Başbakan Friedrich Merz liderliğindeki Hristiyan Demokrat B...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e2ea295016b5817e568f6/PICNEWS/tr/asiri-sagci-afd-den-tarihi-zafer-almanya-da-siyasi-dengeleri-sarsan-sonuc-07-09-26/",
-      "image": "https://news-files.foreks.com/images/223fac28a0ef44b49cdad398171b2c40.jpeg",
-      "published_at": "2026-09-07T03:25:22+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Gemi yakıtında kriz kapıda navlun faturası yükseliyor",
-      "title_tr": "Gemi yakıtında kriz kapıda navlun faturası yükseliyor",
-      "summary": "Küresel deniz taşımacılığının ana maliyet kalemlerinden biri olan gemi yakıtı, savaşın rafineri üretimi ve tanker akışını bozmasıyla yeni bir darboğaza giriyor. Piyasada üçüncü çeyrek için açık büyürken, navlun ve ithal ürün fiyatları üzerindeki baskı da güçleniyor.",
-      "summary_tr": "Küresel deniz taşımacılığının ana maliyet kalemlerinden biri olan gemi yakıtı, savaşın rafineri üretimi ve tanker akışını bozmasıyla yeni bir darboğaza giriyor. Piyasada üçüncü çeyrek için açık büyürken, navlun ve ithal ürün fiyatları üzerindeki baskı da güçleniyor.",
-      "long_summary": "Küresel deniz taşımacılığının ana maliyet kalemlerinden biri olan gemi yakıtı, savaşın rafineri üretimi ve tanker akışını bozmasıyla yeni bir darboğaza giriyor. Piyasada üçüncü çeyrek için açık büyürken, navlun ve ithal ürün fiyatları üzerindeki baskı da güçleniyor.",
-      "long_summary_tr": "Küresel deniz taşımacılığının ana maliyet kalemlerinden biri olan gemi yakıtı, savaşın rafineri üretimi ve tanker akışını bozmasıyla yeni bir darboğaza giriyor. Piyasada üçüncü çeyrek için açık büyürken, navlun ve ithal ürün fiyatları üzerindeki baskı da güçleniyor.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/ekonomi/gemi-yakitinda-kriz-kapida-navlun-faturasi-yukseliyor-haberi-838966",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/01-ana-gorsel-uhu3_cover.jpg",
-      "published_at": "2026-09-07T03:25:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "İngiltere'de işe alımlarda 4 yıl sonra  ilk artış",
-      "title_tr": "İngiltere'de işe alımlarda 4 yıl sonra  ilk artış",
-      "summary": "İngiltere'de iş gücü piyasası ağustos ayında toparlanma işaretleri verdi. İşe Alım ve İstihdam Konfederasyonu (REC) ile KPMG tarafından yayımlanan araştırmaya göre, kalıcı personel yerleştirmeleri Eyl...",
-      "summary_tr": "İngiltere'de iş gücü piyasası ağustos ayında toparlanma işaretleri verdi. İşe Alım ve İstihdam Konfederasyonu (REC) ile KPMG tarafından yayımlanan araştırmaya göre, kalıcı personel yerleştirmeleri Eyl...",
-      "long_summary": "İngiltere'de iş gücü piyasası ağustos ayında toparlanma işaretleri verdi. İşe Alım ve İstihdam Konfederasyonu (REC) ile KPMG tarafından yayımlanan araştırmaya göre, kalıcı personel yerleştirmeleri Eyl...",
-      "long_summary_tr": "İngiltere'de iş gücü piyasası ağustos ayında toparlanma işaretleri verdi. İşe Alım ve İstihdam Konfederasyonu (REC) ile KPMG tarafından yayımlanan araştırmaya göre, kalıcı personel yerleştirmeleri Eyl...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e2e1895016b5817e568f4/PICNEWS/tr/ingiltere-de-ise-alimlarda-4-yil-sonra-ilk-artis-07-09-26/",
-      "image": "https://news-files.foreks.com/images/0ba3904424604e9e948ddfb69eeadfed.jpeg",
-      "published_at": "2026-09-07T03:23:04+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "İngiltere'de hükümetten büyümeyi artırma hamlesi",
-      "title_tr": "İngiltere'de hükümetten büyümeyi artırma hamlesi",
-      "summary": "İngiltere Maliye Bakanı John Healey, ülke genelinde ekonomik büyümeyi artırmaya yönelik daha geniş bir planın parçası olarak kuzey İngiltere'deki şirketler için 150 milyon poundluk bir fon açıklayacak...",
-      "summary_tr": "İngiltere Maliye Bakanı John Healey, ülke genelinde ekonomik büyümeyi artırmaya yönelik daha geniş bir planın parçası olarak kuzey İngiltere'deki şirketler için 150 milyon poundluk bir fon açıklayacak...",
-      "long_summary": "İngiltere Maliye Bakanı John Healey, ülke genelinde ekonomik büyümeyi artırmaya yönelik daha geniş bir planın parçası olarak kuzey İngiltere'deki şirketler için 150 milyon poundluk bir fon açıklayacak...",
-      "long_summary_tr": "İngiltere Maliye Bakanı John Healey, ülke genelinde ekonomik büyümeyi artırmaya yönelik daha geniş bir planın parçası olarak kuzey İngiltere'deki şirketler için 150 milyon poundluk bir fon açıklayacak...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e2d5495016b5817e568f3/PICNEWS/tr/ingiltere-de-hukumetten-buyumeyi-artirma-hamlesi-07-09-26/",
-      "image": "https://news-files.foreks.com/images/7d9cae5a5e664c9295991fba6084622b.jpeg",
-      "published_at": "2026-09-07T03:19:48+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Lavrov'dan Almanya'ya sert suçlama: Bize savaş ilan ediyor",
-      "title_tr": "Lavrov'dan Almanya'ya sert suçlama: Bize savaş ilan ediyor",
-      "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya'nın Leipzig/Halle Havalimanı'ndaki insansız hava aracı olayından Moskova'yı sorumlu tutmasına sert tepki gösterdi. Lavrov, Batı'nın suçlamalarını \"gerçek ...",
-      "summary_tr": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya'nın Leipzig/Halle Havalimanı'ndaki insansız hava aracı olayından Moskova'yı sorumlu tutmasına sert tepki gösterdi. Lavrov, Batı'nın suçlamalarını \"gerçek ...",
-      "long_summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya'nın Leipzig/Halle Havalimanı'ndaki insansız hava aracı olayından Moskova'yı sorumlu tutmasına sert tepki gösterdi. Lavrov, Batı'nın suçlamalarını \"gerçek ...",
-      "long_summary_tr": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya'nın Leipzig/Halle Havalimanı'ndaki insansız hava aracı olayından Moskova'yı sorumlu tutmasına sert tepki gösterdi. Lavrov, Batı'nın suçlamalarını \"gerçek ...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e2ca424008d7d4372d7e8/PICNEWS/tr/lavrov-dan-almanya-ya-sert-suclama-bize-savas-ilan-ediyor-07-09-26/",
-      "image": "https://news-files.foreks.com/images/9630a5f2b732438b9d8ae26dfef8dcb9.jpeg",
-      "published_at": "2026-09-07T03:16:52+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Goldman Sachs'tan petrol için 120 dolar uyarısı",
-      "title_tr": "Goldman Sachs'tan petrol için 120 dolar uyarısı",
-      "summary": "Goldman Sachs, Orta Doğu'da gemilere yönelik saldırıların artması halinde petrol fiyatlarının varil başına 120 dolara kadar yükselebileceğini bildirdi. Banka, jeopolitik risklere karşı doğal gaz ve di...",
-      "summary_tr": "Goldman Sachs, Orta Doğu'da gemilere yönelik saldırıların artması halinde petrol fiyatlarının varil başına 120 dolara kadar yükselebileceğini bildirdi. Banka, jeopolitik risklere karşı doğal gaz ve di...",
-      "long_summary": "Goldman Sachs, Orta Doğu'da gemilere yönelik saldırıların artması halinde petrol fiyatlarının varil başına 120 dolara kadar yükselebileceğini bildirdi. Banka, jeopolitik risklere karşı doğal gaz ve di...",
-      "long_summary_tr": "Goldman Sachs, Orta Doğu'da gemilere yönelik saldırıların artması halinde petrol fiyatlarının varil başına 120 dolara kadar yükselebileceğini bildirdi. Banka, jeopolitik risklere karşı doğal gaz ve di...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6a9e2b9d24008d7d4372d7e4/PICNEWS/tr/goldman-sachs-tan-petrol-icin-120-dolar-uyarisi-07-09-26/",
-      "image": "https://news-files.foreks.com/images/7b1c37838b684316a3e3d8295c5c4bfe.jpeg",
-      "published_at": "2026-09-07T03:12:29+00:00"
+      "url": "https://tr.motor1.com/news/807295/porsche-suv-gizli-gorev-casus/",
+      "image": "https://cdn.motor1.com/images/mgl/1Z26YK/s3/2026-porsche-macan-gts.jpg",
+      "published_at": "2026-09-07T09:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -469,21 +337,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Kademeli emeklilik son durum",
-      "title_tr": "Kademeli emeklilik son durum",
-      "summary": "Kademeli emeklilik düzenlemesi, EYT kapsamı dışında kalan çalışanların gündemindeki yerini koruyor. Özellikle 1999 sonrası sigorta girişi bulunan vatandaşlar, kademeli emeklilik düzenlemesinin hayata geçirilip geçirilmeyeceğini araştırıyor. Emeklilik yaşının sigorta başlangıç tarihine göre kademeli olarak belirlenmesini öngören düzenleme için beklentiler devam sürüyor. 2026 yılında kademeli emeklilik konusunda Meclis gündemine taşınan teklif ve açıklamalar da yakından takip ediliyor. Peki, kademeli emeklilik çıkacak mı, 2026 kademeli emeklilik tablosu nasıl, Meclis'e geldi mi? İşte, kademeli emeklilik son dakika gelişmeleri, erken emeklilik...",
-      "summary_tr": "Kademeli emeklilik düzenlemesi, EYT kapsamı dışında kalan çalışanların gündemindeki yerini koruyor. Özellikle 1999 sonrası sigorta girişi bulunan vatandaşlar, kademeli emeklilik düzenlemesinin hayata geçirilip geçirilmeyeceğini araştırıyor. Emeklilik yaşının sigorta başlangıç tarihine göre kademeli olarak belirlenmesini öngören düzenleme için beklentiler devam sürüyor. 2026 yılında kademeli emeklilik konusunda Meclis gündemine taşınan teklif ve açıklamalar da yakından takip ediliyor. Peki, kademeli emeklilik çıkacak mı, 2026 kademeli emeklilik tablosu nasıl, Meclis'e geldi mi? İşte, kademeli emeklilik son dakika gelişmeleri, erken emeklilik...",
-      "long_summary": "Kademeli emeklilik düzenlemesi, EYT kapsamı dışında kalan çalışanların gündemindeki yerini koruyor. Özellikle 1999 sonrası sigorta girişi bulunan vatandaşlar, kademeli emeklilik düzenlemesinin hayata geçirilip geçirilmeyeceğini araştırıyor. Emeklilik yaşının sigorta başlangıç tarihine göre kademeli olarak belirlenmesini öngören düzenleme için beklentiler devam sürüyor. 2026 yılında kademeli emeklilik konusunda Meclis gündemine taşınan teklif ve açıklamalar da yakından takip ediliyor. Peki,",
-      "long_summary_tr": "Kademeli emeklilik düzenlemesi, EYT kapsamı dışında kalan çalışanların gündemindeki yerini koruyor. Özellikle 1999 sonrası sigorta girişi bulunan vatandaşlar, kademeli emeklilik düzenlemesinin hayata geçirilip geçirilmeyeceğini araştırıyor. Emeklilik yaşının sigorta başlangıç tarihine göre kademeli olarak belirlenmesini öngören düzenleme için beklentiler devam sürüyor. 2026 yılında kademeli emeklilik konusunda Meclis gündemine taşınan teklif ve açıklamalar da yakından takip ediliyor. Peki,",
+      "title": "Kayıp kardeşlerin acısı üzerinden dolandırıcılık!",
+      "title_tr": "Kayıp kardeşlerin acısı üzerinden dolandırıcılık!",
+      "summary": "KKTC’de batan gemide kaybolan Mustafa ve Mahmut Demir kardeşlerin ailesi, yaşadıkları acının ardından bir de dolandırıcılık şokuyla karşı karşıya kaldı. Kardeşlerin isimleri kullanılarak yardıma muhtaç oldukları öne sürülerek IBAN üzerinden para istendiğini belirten aile, vatandaşlara “itibar etmeyin” çağrısı yaptı",
+      "summary_tr": "KKTC’de batan gemide kaybolan Mustafa ve Mahmut Demir kardeşlerin ailesi, yaşadıkları acının ardından bir de dolandırıcılık şokuyla karşı karşıya kaldı. Kardeşlerin isimleri kullanılarak yardıma muhtaç oldukları öne sürülerek IBAN üzerinden para istendiğini belirten aile, vatandaşlara “itibar etmeyin” çağrısı yaptı",
+      "long_summary": "KKTC’de batan gemide kaybolan Mustafa ve Mahmut Demir kardeşlerin ailesi, yaşadıkları acının ardından bir de dolandırıcılık şokuyla karşı karşıya kaldı. Kardeşlerin isimleri kullanılarak yardıma muhtaç oldukları öne sürülerek IBAN üzerinden para istendiğini belirten aile, vatandaşlara “itibar etmeyin” çağrısı yaptı",
+      "long_summary_tr": "KKTC’de batan gemide kaybolan Mustafa ve Mahmut Demir kardeşlerin ailesi, yaşadıkları acının ardından bir de dolandırıcılık şokuyla karşı karşıya kaldı. Kardeşlerin isimleri kullanılarak yardıma muhtaç oldukları öne sürülerek IBAN üzerinden para istendiğini belirten aile, vatandaşlara “itibar etmeyin” çağrısı yaptı",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/foto/kademeli-emeklilik-tablosu-2026-kademeli-emeklilik-cikacak-mi-meclis-e-geldi-mi-erken-emeklilik-sartlari-nelerdir-3910352",
-      "image": "https://im.haberturk.com/l/2026/09/04/ver1788543627/3910352/jpg/1920x1080",
-      "published_at": "2026-09-07T03:11:44+00:00"
+      "url": "https://www.haberturk.com/gundem/son-dakika-kayip-kardeslerin-ailesinden-dolandiricilik-uyarisi-iban-paylasarak-para-topluyorlar-3910782",
+      "image": "https://im.haberturk.com/l/2026/09/07/ver1788769995/3910782/jpg/1920x1080",
+      "published_at": "2026-09-07T08:59:43+00:00"
     },
     {
       "origin": "turkiye",
@@ -491,175 +359,65 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Taşacak Bu Deniz 2. sezon ne zaman?",
-      "title_tr": "Taşacak Bu Deniz 2. sezon ne zaman?",
-      "summary": "TRT 1 ekranlarında izleyici karşısına çıkan Taşacak Bu Deniz dizisi, 5 Haziran Cuma günü yayınlanan 31. bölümüyle sezon finali yapmıştı. Başrollerinde Ulaş Tuna Astepe, Deniz Baysal, Burak Yörük ve Ava Yaman'ın paylaştığı yer aldığı dizinin yeni sezonu için geri sayım başladı. Eylül ayına girilmesiyle birlikte dizinin sıkı takipçileri Taşacak Bu Deniz yeni sezon tarihi araştırmalarına hız kazandırdı. Peki, Taşacak Bu Deniz 2. sezon ne zaman başlayacak? Taşacak Bu Deniz yeni sezon tarihi belli oldu mu, 32. bölüm hangi gün yayınlanacak? İşte detaylar...",
-      "summary_tr": "TRT 1 ekranlarında izleyici karşısına çıkan Taşacak Bu Deniz dizisi, 5 Haziran Cuma günü yayınlanan 31. bölümüyle sezon finali yapmıştı. Başrollerinde Ulaş Tuna Astepe, Deniz Baysal, Burak Yörük ve Ava Yaman'ın paylaştığı yer aldığı dizinin yeni sezonu için geri sayım başladı. Eylül ayına girilmesiyle birlikte dizinin sıkı takipçileri Taşacak Bu Deniz yeni sezon tarihi araştırmalarına hız kazandırdı. Peki, Taşacak Bu Deniz 2. sezon ne zaman başlayacak? Taşacak Bu Deniz yeni sezon tarihi belli oldu mu, 32. bölüm hangi gün yayınlanacak? İşte detaylar...",
-      "long_summary": "TRT 1 ekranlarında izleyici karşısına çıkan Taşacak Bu Deniz dizisi, 5 Haziran Cuma günü yayınlanan 31. bölümüyle sezon finali yapmıştı. Başrollerinde Ulaş Tuna Astepe, Deniz Baysal, Burak Yörük ve Ava Yaman'ın paylaştığı yer aldığı dizinin yeni sezonu için geri sayım başladı. Eylül ayına girilmesiyle birlikte dizinin sıkı takipçileri Taşacak Bu Deniz yeni sezon tarihi araştırmalarına hız kazandırdı. Peki, Taşacak Bu Deniz 2. sezon ne zaman başlayacak? Taşacak Bu Deniz yeni sezon tarihi belli",
-      "long_summary_tr": "TRT 1 ekranlarında izleyici karşısına çıkan Taşacak Bu Deniz dizisi, 5 Haziran Cuma günü yayınlanan 31. bölümüyle sezon finali yapmıştı. Başrollerinde Ulaş Tuna Astepe, Deniz Baysal, Burak Yörük ve Ava Yaman'ın paylaştığı yer aldığı dizinin yeni sezonu için geri sayım başladı. Eylül ayına girilmesiyle birlikte dizinin sıkı takipçileri Taşacak Bu Deniz yeni sezon tarihi araştırmalarına hız kazandırdı. Peki, Taşacak Bu Deniz 2. sezon ne zaman başlayacak? Taşacak Bu Deniz yeni sezon tarihi belli",
+      "title": "Bakan Gürlek, Adli Yıl Açılış Töreni'nde konuştu",
+      "title_tr": "Bakan Gürlek, Adli Yıl Açılış Töreni'nde konuştu",
+      "summary": "Adalet Bakanı Akın Gürlek, Adli Yıl Açılış Töreni'nde açıklamalarda bulundu. Gürlek, \"Süresiz nafaka konusunda ihtiyaç duyulan yasal düzenlemeleri de ekim ayındaki paket kapsamında hayata geçirmeyi planlıyoruz\" dedi",
+      "summary_tr": "Adalet Bakanı Akın Gürlek, Adli Yıl Açılış Töreni'nde açıklamalarda bulundu. Gürlek, \"Süresiz nafaka konusunda ihtiyaç duyulan yasal düzenlemeleri de ekim ayındaki paket kapsamında hayata geçirmeyi planlıyoruz\" dedi",
+      "long_summary": "Adalet Bakanı Akın Gürlek, Adli Yıl Açılış Töreni'nde açıklamalarda bulundu. Gürlek, \"Süresiz nafaka konusunda ihtiyaç duyulan yasal düzenlemeleri de ekim ayındaki paket kapsamında hayata geçirmeyi planlıyoruz\" dedi",
+      "long_summary_tr": "Adalet Bakanı Akın Gürlek, Adli Yıl Açılış Töreni'nde açıklamalarda bulundu. Gürlek, \"Süresiz nafaka konusunda ihtiyaç duyulan yasal düzenlemeleri de ekim ayındaki paket kapsamında hayata geçirmeyi planlıyoruz\" dedi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/foto/tasacak-bu-deniz-2-sezon-ne-zaman-baslayacak-tasacak-bu-deniz-yeni-sezon-tarihi-belli-oldu-mu-3910004",
-      "image": "https://im.haberturk.com/l/2026/09/03/ver1788428562/3910004/jpg/1920x1080",
-      "published_at": "2026-09-07T03:11:23+00:00"
+      "url": "https://www.haberturk.com/gundem/son-dakika-bakan-gurlek-ten-adli-yil-acilis-toreni-nde-aciklamalar-3910776",
+      "image": "https://im.haberturk.com/l/2026/09/07/ver1788769732/3910776/jpg/1920x1080",
+      "published_at": "2026-09-07T08:59:35+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Şans Topu sonuçları açıklandı!",
-      "title_tr": "Şans Topu sonuçları açıklandı!",
-      "summary": "Şans Topu sonuçları 6 Eylül 2026 Pazar günü gerçekleştirilen çekilişin ardından belli oldu. Haftanın son Şans Topu çekilişinde talihli numaralar merak konusu olurken, kupon sahipleri sonuçları sorgulamak için Milli Piyango Online ekranına yöneldi. Şans Topu sonuçları ile birlikte 5+1, 5, 4+1 ve diğer ikramiye kategorilerinde kazananların olup olmadığı da araştırılmaya başlandı. Peki, 6 Eylül 2026 Şans Topu sonuçları açıklandı mı, kazandıran numaralar hangileri ve Şans Topu sonuçları nasıl sorgulanır? İşte 6 Eylül Pazar Şans Topu sonuçları...",
-      "summary_tr": "Şans Topu sonuçları 6 Eylül 2026 Pazar günü gerçekleştirilen çekilişin ardından belli oldu. Haftanın son Şans Topu çekilişinde talihli numaralar merak konusu olurken, kupon sahipleri sonuçları sorgulamak için Milli Piyango Online ekranına yöneldi. Şans Topu sonuçları ile birlikte 5+1, 5, 4+1 ve diğer ikramiye kategorilerinde kazananların olup olmadığı da araştırılmaya başlandı. Peki, 6 Eylül 2026 Şans Topu sonuçları açıklandı mı, kazandıran numaralar hangileri ve Şans Topu sonuçları nasıl sorgulanır? İşte 6 Eylül Pazar Şans Topu sonuçları...",
-      "long_summary": "Şans Topu sonuçları 6 Eylül 2026 Pazar günü gerçekleştirilen çekilişin ardından belli oldu. Haftanın son Şans Topu çekilişinde talihli numaralar merak konusu olurken, kupon sahipleri sonuçları sorgulamak için Milli Piyango Online ekranına yöneldi. Şans Topu sonuçları ile birlikte 5+1, 5, 4+1 ve diğer ikramiye kategorilerinde kazananların olup olmadığı da araştırılmaya başlandı. Peki, 6 Eylül 2026 Şans Topu sonuçları açıklandı mı, kazandıran numaralar hangileri ve Şans Topu sonuçları nasıl",
-      "long_summary_tr": "Şans Topu sonuçları 6 Eylül 2026 Pazar günü gerçekleştirilen çekilişin ardından belli oldu. Haftanın son Şans Topu çekilişinde talihli numaralar merak konusu olurken, kupon sahipleri sonuçları sorgulamak için Milli Piyango Online ekranına yöneldi. Şans Topu sonuçları ile birlikte 5+1, 5, 4+1 ve diğer ikramiye kategorilerinde kazananların olup olmadığı da araştırılmaya başlandı. Peki, 6 Eylül 2026 Şans Topu sonuçları açıklandı mı, kazandıran numaralar hangileri ve Şans Topu sonuçları nasıl",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Cumhurbaşkanı Erdoğan bugün Kabine'yi toplayacak",
+      "title_tr": "Cumhurbaşkanı Erdoğan bugün Kabine'yi toplayacak",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'na başkanlık edecek.Cumhurbaşkanı Erdoğan başkanlığında Kabine toplantısı yapılacak. \n\nGündemdeki ve dünyadaki son gelişmelerin değerlendirileceği toplantının 15.30'da başlaması öngörülüyor.\n\nToplantının ardından Cumhurbaşkanı Erdoğan kameralar karşısına geçerek açıklamalarda bulunması bekleniyor.",
+      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'na başkanlık edecek.Cumhurbaşkanı Erdoğan başkanlığında Kabine toplantısı yapılacak. \n\nGündemdeki ve dünyadaki son gelişmelerin değerlendirileceği toplantının 15.30'da başlaması öngörülüyor.\n\nToplantının ardından Cumhurbaşkanı Erdoğan kameralar karşısına geçerek açıklamalarda bulunması bekleniyor.",
+      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'na başkanlık edecek.Cumhurbaşkanı Erdoğan başkanlığında Kabine toplantısı yapılacak. \n\nGündemdeki ve dünyadaki son gelişmelerin değerlendirileceği toplantının 15.30'da başlaması öngörülüyor.\n\nToplantının ardından Cumhurbaşkanı Erdoğan kameralar karşısına geçerek açıklamalarda bulunması bekleniyor.",
+      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Kabine Toplantısı'na başkanlık edecek.Cumhurbaşkanı Erdoğan başkanlığında Kabine toplantısı yapılacak. \n\nGündemdeki ve dünyadaki son gelişmelerin değerlendirileceği toplantının 15.30'da başlaması öngörülüyor.\n\nToplantının ardından Cumhurbaşkanı Erdoğan kameralar karşısına geçerek açıklamalarda bulunması bekleniyor.",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-aciklandi-6-eylul-2026-sans-topu-sonuclari-nasil-nereden-sorgulanir-3910670",
-      "image": "https://im.haberturk.com/l/2026/09/06/ver1788714385/3910670/jpg/1920x1080",
-      "published_at": "2026-09-07T03:10:16+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/cumhurbaskani-erdogan-bugun-kabine-yi-toplayacak-1704893",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/cumhurbaskani-erdogan-bugun-kabine-yi-toplayacak-1788771579-220_large.webp",
+      "published_at": "2026-09-07T08:59:00+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "MasterChef'te veda gecesi",
-      "title_tr": "MasterChef'te veda gecesi",
-      "summary": "MasterChef Türkiye'de veda gecesi... Yarışmacılar, hafta boyunca oynanan dokunulmazlık oyunlarının ardından eleme potasında yerlerini aldı. MasterChef eleme gecesinde yarışmacılar şeflerin karşısına çıkarak hazırlayacakları tabaklarla yarışmada kalabilmek için mücadele etti. Peki MasterChef kim elendi, 6 Eylül Pazar MasterChef kim elendi, kim gitti? İşte MasterChef 6 Eylül Pazar eleme gecesinde yarışmaya veda eden isim...",
-      "summary_tr": "MasterChef Türkiye'de veda gecesi... Yarışmacılar, hafta boyunca oynanan dokunulmazlık oyunlarının ardından eleme potasında yerlerini aldı. MasterChef eleme gecesinde yarışmacılar şeflerin karşısına çıkarak hazırlayacakları tabaklarla yarışmada kalabilmek için mücadele etti. Peki MasterChef kim elendi, 6 Eylül Pazar MasterChef kim elendi, kim gitti? İşte MasterChef 6 Eylül Pazar eleme gecesinde yarışmaya veda eden isim...",
-      "long_summary": "MasterChef Türkiye'de veda gecesi... Yarışmacılar, hafta boyunca oynanan dokunulmazlık oyunlarının ardından eleme potasında yerlerini aldı. MasterChef eleme gecesinde yarışmacılar şeflerin karşısına çıkarak hazırlayacakları tabaklarla yarışmada kalabilmek için mücadele etti. Peki MasterChef kim elendi, 6 Eylül Pazar MasterChef kim elendi, kim gitti? İşte MasterChef 6 Eylül Pazar eleme gecesinde yarışmaya veda eden isim...",
-      "long_summary_tr": "MasterChef Türkiye'de veda gecesi... Yarışmacılar, hafta boyunca oynanan dokunulmazlık oyunlarının ardından eleme potasında yerlerini aldı. MasterChef eleme gecesinde yarışmacılar şeflerin karşısına çıkarak hazırlayacakları tabaklarla yarışmada kalabilmek için mücadele etti. Peki MasterChef kim elendi, 6 Eylül Pazar MasterChef kim elendi, kim gitti? İşte MasterChef 6 Eylül Pazar eleme gecesinde yarışmaya veda eden isim...",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Galatasaray'da Sporting maçı öncesi Osimhen'in yeri doldu",
+      "title_tr": "Galatasaray'da Sporting maçı öncesi Osimhen'in yeri doldu",
+      "summary": "UEFA Şampiyonlar Ligi'nde deplasmanda Sporting Lizbon ile kozlarını paylaşacak Galatasaray'da sakatlığı süren Victor Osimhen'in yokluğunda formayı giyecek isim netleşti. Teknik direktör Okan Buruk, zorlu Avrupa sınavı için hücum hattındaki planını belirledi.Şampiyonlar Ligi'ndeki ilk maçında hafta içi Portekiz ekibi Sporting Lizbon'a konuk olacak Galatasaray'da kritik eksikler düşündürüyor. Yıldız golcü Victor Osimhen ve orta sahanın önemli ismi Mario Lemina'dan gelen kötü haberlerin ardından en az 3 hafta bu ikiliden yararlanamayacak olan sarı-kırmızılılarda teknik direktör Okan Buruk, mevcut kadrodan maksimum verimi alabilmek için ekibiyle birlikte yoğun bir mesaiye koyuldu.\n\nOKAN BURUK'TAN HÜCUMDA ZORUNLU REVİZYON\n\nDeneyimli teknik adam, hücum hattındaki planını büyük ölçüde netleştirdi. Sakatlığı nedeniyle Sporting karşılaşmasında sahada olamayacak olan Osimhen’in boşluğunu doldurmak için Barış Alper Yılmaz'ı en uçta (santrfor pozisyonunda) kullanmayı planlayan Buruk, kanat kurgusunda da değişikliğe gidiyor. Başarılı çalıştırıcının sol kanadı Leroy Sane'ye, sağ kanadı ise milli yıldız Yunus Akgün'e emanet etmesi bekleniyor. Orta alanda ise Lemina’nın yokluğunu kapatacak alternatif formüller üzerindeki çalışmalar sürüyor.\n\nPERFORMANSI DÜŞEN OYUNCULARLA BİRE BİR GÖRÜŞME\n\nZorlu Lizbon deplasmanı öncesi sadece taktiksel çalışmalarla sınırlı kalmayan Okan Buruk, son dönemde performansı eleştiri konusu olan bazı isimlerle bire bir görüşmeler gerçekleştiriyor. Oyuncularını mental olarak Sporting sınavına hazırlamaya çalışan teknik heyet, deplasmandan moralli bir sonuçla dönmenin hesaplarını yapıyor.",
+      "summary_tr": "UEFA Şampiyonlar Ligi'nde deplasmanda Sporting Lizbon ile kozlarını paylaşacak Galatasaray'da sakatlığı süren Victor Osimhen'in yokluğunda formayı giyecek isim netleşti. Teknik direktör Okan Buruk, zorlu Avrupa sınavı için hücum hattındaki planını belirledi.Şampiyonlar Ligi'ndeki ilk maçında hafta içi Portekiz ekibi Sporting Lizbon'a konuk olacak Galatasaray'da kritik eksikler düşündürüyor. Yıldız golcü Victor Osimhen ve orta sahanın önemli ismi Mario Lemina'dan gelen kötü haberlerin ardından en az 3 hafta bu ikiliden yararlanamayacak olan sarı-kırmızılılarda teknik direktör Okan Buruk, mevcut kadrodan maksimum verimi alabilmek için ekibiyle birlikte yoğun bir mesaiye koyuldu.\n\nOKAN BURUK'TAN HÜCUMDA ZORUNLU REVİZYON\n\nDeneyimli teknik adam, hücum hattındaki planını büyük ölçüde netleştirdi. Sakatlığı nedeniyle Sporting karşılaşmasında sahada olamayacak olan Osimhen’in boşluğunu doldurmak için Barış Alper Yılmaz'ı en uçta (santrfor pozisyonunda) kullanmayı planlayan Buruk, kanat kurgusunda da değişikliğe gidiyor. Başarılı çalıştırıcının sol kanadı Leroy Sane'ye, sağ kanadı ise milli yıldız Yunus Akgün'e emanet etmesi bekleniyor. Orta alanda ise Lemina’nın yokluğunu kapatacak alternatif formüller üzerindeki çalışmalar sürüyor.\n\nPERFORMANSI DÜŞEN OYUNCULARLA BİRE BİR GÖRÜŞME\n\nZorlu Lizbon deplasmanı öncesi sadece taktiksel çalışmalarla sınırlı kalmayan Okan Buruk, son dönemde performansı eleştiri konusu olan bazı isimlerle bire bir görüşmeler gerçekleştiriyor. Oyuncularını mental olarak Sporting sınavına hazırlamaya çalışan teknik heyet, deplasmandan moralli bir sonuçla dönmenin hesaplarını yapıyor.",
+      "long_summary": "UEFA Şampiyonlar Ligi'nde deplasmanda Sporting Lizbon ile kozlarını paylaşacak Galatasaray'da sakatlığı süren Victor Osimhen'in yokluğunda formayı giyecek isim netleşti. Teknik direktör Okan Buruk, zorlu Avrupa sınavı için hücum hattındaki planını belirledi.Şampiyonlar Ligi'ndeki ilk maçında hafta içi Portekiz ekibi Sporting Lizbon'a konuk olacak Galatasaray'da kritik eksikler düşündürüyor. Yıldız golcü Victor Osimhen ve orta sahanın önemli ismi Mario Lemina'dan gelen kötü haberlerin ardından",
+      "long_summary_tr": "UEFA Şampiyonlar Ligi'nde deplasmanda Sporting Lizbon ile kozlarını paylaşacak Galatasaray'da sakatlığı süren Victor Osimhen'in yokluğunda formayı giyecek isim netleşti. Teknik direktör Okan Buruk, zorlu Avrupa sınavı için hücum hattındaki planını belirledi.Şampiyonlar Ligi'ndeki ilk maçında hafta içi Portekiz ekibi Sporting Lizbon'a konuk olacak Galatasaray'da kritik eksikler düşündürüyor. Yıldız golcü Victor Osimhen ve orta sahanın önemli ismi Mario Lemina'dan gelen kötü haberlerin ardından",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-6-eylul-2026-masterchef-kim-gitti-eleme-potasinda-kimler-var-3910680",
-      "image": "https://im.haberturk.com/l/2026/09/06/ver1788750560/3910680/jpg/1920x1080",
-      "published_at": "2026-09-07T03:09:20+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Filenin Sultanları Avrupa Şampiyonu",
-      "title_tr": "Filenin Sultanları Avrupa Şampiyonu",
-      "summary": "Filenin Sultanları, 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası finalinde İtalya ile Avrupa şampiyonluğu için karşı karşıya geldi. A Milli Kadın Voleybol Takımı, turnuvanın son maçında güçlü rakibi karşısında kupaya uzanmak için parkeye çıktı. Voleybolseverler ise Türkiye-İtalya voleybol maçı kaç kaç bittiğini mercek altına aldı. Peki, Türkiye-İtalya voleybol final maçı kaç kaç bitti, setler nasıl sonuçlandı? İşte Türkiye-İtalya voleybol maç sonucu...",
-      "summary_tr": "Filenin Sultanları, 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası finalinde İtalya ile Avrupa şampiyonluğu için karşı karşıya geldi. A Milli Kadın Voleybol Takımı, turnuvanın son maçında güçlü rakibi karşısında kupaya uzanmak için parkeye çıktı. Voleybolseverler ise Türkiye-İtalya voleybol maçı kaç kaç bittiğini mercek altına aldı. Peki, Türkiye-İtalya voleybol final maçı kaç kaç bitti, setler nasıl sonuçlandı? İşte Türkiye-İtalya voleybol maç sonucu...",
-      "long_summary": "Filenin Sultanları, 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası finalinde İtalya ile Avrupa şampiyonluğu için karşı karşıya geldi. A Milli Kadın Voleybol Takımı, turnuvanın son maçında güçlü rakibi karşısında kupaya uzanmak için parkeye çıktı. Voleybolseverler ise Türkiye-İtalya voleybol maçı kaç kaç bittiğini mercek altına aldı. Peki, Türkiye-İtalya voleybol final maçı kaç kaç bitti, setler nasıl sonuçlandı? İşte Türkiye-İtalya voleybol maç sonucu...",
-      "long_summary_tr": "Filenin Sultanları, 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası finalinde İtalya ile Avrupa şampiyonluğu için karşı karşıya geldi. A Milli Kadın Voleybol Takımı, turnuvanın son maçında güçlü rakibi karşısında kupaya uzanmak için parkeye çıktı. Voleybolseverler ise Türkiye-İtalya voleybol maçı kaç kaç bittiğini mercek altına aldı. Peki, Türkiye-İtalya voleybol final maçı kaç kaç bitti, setler nasıl sonuçlandı? İşte Türkiye-İtalya voleybol maç sonucu...",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/bilgi/foto/filenin-sultanlari-avrupa-sampiyonu-oldu-turkiye-italya-voleybol-final-maci-kac-kac-bitti-setler-nasil-sonuclandi-3910657",
-      "image": "https://im.haberturk.com/l/2026/09/06/ver1788708009/3910657/jpg/1920x1080",
-      "published_at": "2026-09-07T03:07:45+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Altında 4.400 doların altı görüldü, Fed baskısı sertleşti",
-      "title_tr": "Altında 4.400 doların altı görüldü, Fed baskısı sertleşti",
-      "summary": "Altının ons fiyatı güçlü ABD istihdam verisinin faiz artışı beklentisini güçlendirmesiyle 4.400 doların altına indi. Piyasa şimdi 4.350 ve 4.260 dolar desteklerini izlerken, bu haftaki ABD enflasyon verileri yönü yeniden değiştirebilir.",
-      "summary_tr": "Altının ons fiyatı güçlü ABD istihdam verisinin faiz artışı beklentisini güçlendirmesiyle 4.400 doların altına indi. Piyasa şimdi 4.350 ve 4.260 dolar desteklerini izlerken, bu haftaki ABD enflasyon verileri yönü yeniden değiştirebilir.",
-      "long_summary": "Altının ons fiyatı güçlü ABD istihdam verisinin faiz artışı beklentisini güçlendirmesiyle 4.400 doların altına indi. Piyasa şimdi 4.350 ve 4.260 dolar desteklerini izlerken, bu haftaki ABD enflasyon verileri yönü yeniden değiştirebilir.",
-      "long_summary_tr": "Altının ons fiyatı güçlü ABD istihdam verisinin faiz artışı beklentisini güçlendirmesiyle 4.400 doların altına indi. Piyasa şimdi 4.350 ve 4.260 dolar desteklerini izlerken, bu haftaki ABD enflasyon verileri yönü yeniden değiştirebilir.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-4400-dolarin-alti-goruldu-fed-baskisi-sertlesti-galeri-838965",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/0000-ana-gorse-2ynv_cover.jpg",
-      "published_at": "2026-09-07T03:05:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Eskişehir'de yapı malzemeleri firmasında yangın",
-      "title_tr": "Eskişehir'de yapı malzemeleri firmasında yangın",
-      "summary": "Eskişehir'de yapı malzemeleri satan bir firmada çıkan yangın itfaiye ekiplerince söndürüldü. Söndürme çalışmalarında, İl Emniyet Müdürlüğüne bağlı TOMA'ların yanı sıra beton mikserleri de kullanıldı",
-      "summary_tr": "Eskişehir'de yapı malzemeleri satan bir firmada çıkan yangın itfaiye ekiplerince söndürüldü. Söndürme çalışmalarında, İl Emniyet Müdürlüğüne bağlı TOMA'ların yanı sıra beton mikserleri de kullanıldı",
-      "long_summary": "Eskişehir'de yapı malzemeleri satan bir firmada çıkan yangın itfaiye ekiplerince söndürüldü. Söndürme çalışmalarında, İl Emniyet Müdürlüğüne bağlı TOMA'ların yanı sıra beton mikserleri de kullanıldı",
-      "long_summary_tr": "Eskişehir'de yapı malzemeleri satan bir firmada çıkan yangın itfaiye ekiplerince söndürüldü. Söndürme çalışmalarında, İl Emniyet Müdürlüğüne bağlı TOMA'ların yanı sıra beton mikserleri de kullanıldı",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/eskisehir-de-yapi-malzemeleri-firmasinda-yangin-3910706",
-      "image": "https://im.haberturk.com/l/2026/09/07/ver1788747377/3910706/jpg/1920x1080",
-      "published_at": "2026-09-07T02:19:56+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "İstihdam verisi sonrası Wall Street karışık seyrediyor",
-      "title_tr": "İstihdam verisi sonrası Wall Street karışık seyrediyor",
-      "summary": "İstihdam verisi sonrası Wall Street karışık seyrediyor",
-      "summary_tr": "İstihdam verisi sonrası Wall Street karışık seyrediyor",
-      "long_summary": "İstihdam verisi sonrası Wall Street karışık seyrediyor",
-      "long_summary_tr": "İstihdam verisi sonrası Wall Street karışık seyrediyor",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/istihdam-verisi-sonras-wall-street-karsk-seyrediyor-4056386",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5H1MW_1200_L.jpg",
-      "published_at": "2026-09-07T02:14:08+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Lanterns Season 1, Episode 4 Review & Recap: \"The Weenie\"",
-      "title_tr": "Lanterns Season 1, Episode 4 Review & Recap: \"The Weenie\"",
-      "summary": "Lanterns stumbles a bit in Episode 4 as it fails to take full advantage of some key DC characters, but the series’ core strengths remain. Read our full review.",
-      "summary_tr": "Lanterns stumbles a bit in Episode 4 as it fails to take full advantage of some key DC characters, but the series’ core strengths remain. Read our full review.",
-      "long_summary": "Lanterns stumbles a bit in Episode 4 as it fails to take full advantage of some key DC characters, but the series’ core strengths remain. Read our full review.",
-      "long_summary_tr": "Lanterns stumbles a bit in Episode 4 as it fails to take full advantage of some key DC characters, but the series’ core strengths remain. Read our full review.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/lanterns-season-1-episode-4-review-recap-the-weenie",
-      "image": "https://assets-prd.ignimgs.com/2026/09/03/lanterns-episode-4-review-blogroll-1788451459966.jpg",
-      "published_at": "2026-09-07T02:00:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/spor/galatasaray-da-sporting-maci-oncesi-osimhen-in-yeri-doldu-1704890",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/galatasaray-da-sporting-maci-oncesi-osimhen-in-yeri-doldu-1788771569-846_large.webp",
+      "published_at": "2026-09-07T08:58:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -667,131 +425,21 @@
       "category_slug": "dunya",
       "is_local": false,
       "source": "BBC World",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "title_tr": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-      "summary_tr": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-      "long_summary": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-      "long_summary_tr": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+      "title": "Israeli strikes in southern Lebanese village kill nine",
+      "title_tr": "Israeli strikes in southern Lebanese village kill nine",
+      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "summary_tr": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "long_summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+      "long_summary_tr": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
       "why_important": [
         "Uluslararası dengeleri ilgilendirmesi"
       ],
       "possible_impacts": [
         "Uluslararası ilişkilerde dengeler değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg",
-      "published_at": "2026-09-07T00:57:38+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "İran'dan Hürmüz adımı. Yeni yasaklı bölge ilen edilecek",
-      "title_tr": "İran'dan Hürmüz adımı. Yeni yasaklı bölge ilen edilecek",
-      "summary": "İran, Hürmüz Boğazı’nın giriş-çıkışının kendi kontrolünde olan yeni koridoruna ilişkin Umman'la anlaşmanın yakında imzalanacağını duyurdu.",
-      "summary_tr": "İran, Hürmüz Boğazı’nın giriş-çıkışının kendi kontrolünde olan yeni koridoruna ilişkin Umman'la anlaşmanın yakında imzalanacağını duyurdu.",
-      "long_summary": "İran, Hürmüz Boğazı’nın giriş-çıkışının kendi kontrolünde olan yeni koridoruna ilişkin Umman'la anlaşmanın yakında imzalanacağını duyurdu.",
-      "long_summary_tr": "İran, Hürmüz Boğazı’nın giriş-çıkışının kendi kontrolünde olan yeni koridoruna ilişkin Umman'la anlaşmanın yakında imzalanacağını duyurdu.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/irandan-hurmuz-adimi-yeni-yasakli-bolge-ilen-edilecek-1740708",
-      "image": "https://images.ntv.com.tr/images/hürmüzhark-840972.png",
-      "published_at": "2026-09-07T00:47:56+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Marmara'da panik. Feribot iskeleye çarptı.",
-      "title_tr": "Marmara'da panik. Feribot iskeleye çarptı.",
-      "summary": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı.",
-      "summary_tr": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı.",
-      "long_summary": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı.",
-      "long_summary_tr": "İstanbul-Mudanya seferini yapan feribot yanaşma sırasında iskeleye çarptı. Yolcular arasında büyük panik yaşandı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/marmarada-panik-feribot-iskeleye-carpti-1740705",
-      "image": "https://images.ntv.com.tr/images/BURSA---MUDANYADA-IDO-DENIZ-OTOBUSU-ISK_1493410_444266-624165.jpg",
-      "published_at": "2026-09-07T00:46:08+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Nvidia’nın Huang’ı: OpenAI’ın GPT-6 Astra lansmanı sonrası ’AGI geldi’",
-      "title_tr": "Nvidia’nın Huang’ı: OpenAI’ın GPT-6 Astra lansmanı sonrası ’AGI geldi’",
-      "summary": "Nvidia’nın Huang’ı: OpenAI’ın GPT-6 Astra lansmanı sonrası ’AGI geldi’",
-      "summary_tr": "Nvidia’nın Huang’ı: OpenAI’ın GPT-6 Astra lansmanı sonrası ’AGI geldi’",
-      "long_summary": "Nvidia’nın Huang’ı: OpenAI’ın GPT-6 Astra lansmanı sonrası ’AGI geldi’",
-      "long_summary_tr": "Nvidia’nın Huang’ı: OpenAI’ın GPT-6 Astra lansmanı sonrası ’AGI geldi’",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/nvidiann-huang-openain-gpt6-astra-lansman-sonras-agi-geldi-4056377",
-      "image": "https://content-media.investing.com/news/LYNXMPEB3R08Z_M.jpg",
-      "published_at": "2026-09-07T00:16:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "title_tr": "Austria's Islamic headscarf ban in force as under-14s go back to school",
-      "summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "summary_tr": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "long_summary": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "long_summary_tr": "The government says the law is intended to protect the rights of young girls, but critics say it is fuelling anti-Muslim feeling.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd65/live/c08394c0-a843-11f1-b3a7-d5de760fef6e.jpg",
-      "published_at": "2026-09-07T00:01:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Avustralya’lı Ingenia, Warburg Pincus’un 1,4 milyar dolarlık teklifini reddetti; hisseler yükseldi",
-      "title_tr": "Avustralya’lı Ingenia, Warburg Pincus’un 1,4 milyar dolarlık teklifini reddetti; hisseler yükseldi",
-      "summary": "Avustralya’lı Ingenia, Warburg Pincus’un 1,4 milyar dolarlık teklifini reddetti; hisseler yükseldi",
-      "summary_tr": "Avustralya’lı Ingenia, Warburg Pincus’un 1,4 milyar dolarlık teklifini reddetti; hisseler yükseldi",
-      "long_summary": "Avustralya’lı Ingenia, Warburg Pincus’un 1,4 milyar dolarlık teklifini reddetti; hisseler yükseldi",
-      "long_summary_tr": "Avustralya’lı Ingenia, Warburg Pincus’un 1,4 milyar dolarlık teklifini reddetti; hisseler yükseldi",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/ingenia-warburg-pincusun-14-milyar-dolarlk-teklifini-reddetti-4056375",
-      "image": "https://content-media.investing.com/news/LYNXNPEE33022_M.jpg",
-      "published_at": "2026-09-06T23:37:35+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+      "published_at": "2026-09-07T08:57:30+00:00"
     },
     {
       "origin": "turkiye",
@@ -799,43 +447,109 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Mudanya'da deniz otobüsü iskeleye çarptı",
-      "title_tr": "Mudanya'da deniz otobüsü iskeleye çarptı",
-      "summary": "İstanbul-Mudanya seferini yapan İDO'ya ait deniz otobüsü, Mudanya İskelesi'ne yanaştığı sırada iskeleye çarptı. Yolcuların büyük panik yaşadığı kazada ölen ya da yaralanan olmadı",
-      "summary_tr": "İstanbul-Mudanya seferini yapan İDO'ya ait deniz otobüsü, Mudanya İskelesi'ne yanaştığı sırada iskeleye çarptı. Yolcuların büyük panik yaşadığı kazada ölen ya da yaralanan olmadı",
-      "long_summary": "İstanbul-Mudanya seferini yapan İDO'ya ait deniz otobüsü, Mudanya İskelesi'ne yanaştığı sırada iskeleye çarptı. Yolcuların büyük panik yaşadığı kazada ölen ya da yaralanan olmadı",
-      "long_summary_tr": "İstanbul-Mudanya seferini yapan İDO'ya ait deniz otobüsü, Mudanya İskelesi'ne yanaştığı sırada iskeleye çarptı. Yolcuların büyük panik yaşadığı kazada ölen ya da yaralanan olmadı",
+      "title": "Down sendromlu Emir Enes hem lösemi hem şekerle savaşıyor",
+      "title_tr": "Down sendromlu Emir Enes hem lösemi hem şekerle savaşıyor",
+      "summary": "Muğla'da yaşayan ve lösemi teşhisi konulan Down sendromlu Emir Enes Tufan (15), İzmir’de tedavi görüyor. Kullanılan ilaçların yan etkisiyle kan şekeri yükselen Emir Enes'in annesi Şerife Tufan (48), \"Emir, durumu nedeniyle özel bir çocuk olduğu için diğer çocuklara kıyasla hastalığı daha zor atlatıyor\" dedi",
+      "summary_tr": "Muğla'da yaşayan ve lösemi teşhisi konulan Down sendromlu Emir Enes Tufan (15), İzmir’de tedavi görüyor. Kullanılan ilaçların yan etkisiyle kan şekeri yükselen Emir Enes'in annesi Şerife Tufan (48), \"Emir, durumu nedeniyle özel bir çocuk olduğu için diğer çocuklara kıyasla hastalığı daha zor atlatıyor\" dedi",
+      "long_summary": "Muğla'da yaşayan ve lösemi teşhisi konulan Down sendromlu Emir Enes Tufan (15), İzmir’de tedavi görüyor. Kullanılan ilaçların yan etkisiyle kan şekeri yükselen Emir Enes'in annesi Şerife Tufan (48), \"Emir, durumu nedeniyle özel bir çocuk olduğu için diğer çocuklara kıyasla hastalığı daha zor atlatıyor\" dedi",
+      "long_summary_tr": "Muğla'da yaşayan ve lösemi teşhisi konulan Down sendromlu Emir Enes Tufan (15), İzmir’de tedavi görüyor. Kullanılan ilaçların yan etkisiyle kan şekeri yükselen Emir Enes'in annesi Şerife Tufan (48), \"Emir, durumu nedeniyle özel bir çocuk olduğu için diğer çocuklara kıyasla hastalığı daha zor atlatıyor\" dedi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/gundem/mudanya-da-deniz-otobusu-iskeleye-carpti-3910704",
-      "image": "https://im.haberturk.com/l/2026/09/07/ver1788736920/3910704/jpg/1920x1080",
-      "published_at": "2026-09-06T23:23:17+00:00"
+      "url": "https://www.haberturk.com/saglik/down-sendromlu-emir-enes-hem-losemi-hem-sekerle-savasiyor-haberler-3910775",
+      "image": "https://im.haberturk.com/l/2026/09/07/ver1788771442/3910775/jpg/1920x1080",
+      "published_at": "2026-09-07T08:57:21+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Trabzonspor, Süper Lig'de 55 hafta sonra en farklı galibiyetini aldı",
+      "title_tr": "Trabzonspor, Süper Lig'de 55 hafta sonra en farklı galibiyetini aldı",
+      "summary": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Gençlerbirliği'ni 5-0 yenen Trabzonspor, teknik direktör Hüseyin Çimşir yönetiminde çıktığı ilk maçında farklı bir galibiyete imza attı.Bordo-mavili ekip, Süper Lig'de 55 hafta sonra en farklı galibiyetini elde etti.\n\nLigde en son 2024-2025 sezonunun 19. haftasında, 12 Ocak 2025 tarihinde, sahasında Antalyaspor'u 5-0 yenen bordo-mavililer, Gençlerbirliği karşısından aynı skorla üstün ayrılarak 602 gün sonra en farklı galibiyetine imza attı\n\nSüper Lig'in ilk 3 haftasında bir galibiyet, bir beraberlik ve bir mağlubiyetle 4 puan toplayan ve ardından teknik direktör Fatih Tekke ile yollarını ayıran Karadeniz ekibi, teknik heyet değişiminin yaşandığı haftada Gençlerbirliği karşısında rahat galibiyet elde etti.\n\nLigin üçüncü haftasında Amed Sportif Faaliyetler'e deplasmanda 2-1 yenilen Trabzonspor, Hüseyin Çimşir yönetiminde çıktığı Gençlerbirliği maçında moral bularak çıkışa geçti.\n\nİlk dönemindeki ilk maçına da farklı galibiyetle başlamıştı\n\nHüseyin Çimşir, Trabzonspor'da görev yaptığı 2019-2020 sezonundaki ilk lig maçında farklı galibiyet görmüştü.\n\nBordo-mavililer, teknik direktör Ünal Karaman'ın yerine göreve getirilen Çimşir ile ligin 18. haftasında sahasında Kasımpaşa'yı 6-0'lık sonuçla mağlup etmişti.\n\nKaradeniz ekibi, bu sonuçla 121 hafta sonra en farklı galibiyetini almıştı.\n\nFatih Tekke ile 48 lig maçında en fazla 4 farklı galibiyet\n\nTrabzonspor, yollarını ayırdığı teknik direktör Fatih Tekke ile en farklı galibiyetini ise 2025-2026 sezonunun 8. haftasında sahasında Kayserispor karşısında 4-0'lık sonuçla almıştı.\n\nBordo-mavili takımda 539 gün görev yapan Fatih Tekke yönetiminde 48 lig maçına çıkılırken en fazla 4 farklı galibiyet elde edildi.\n\nŞenol Güneş ile 5 farklı galibiyetler\n\nTrabzonspor, 55 hafta önce Antalyaspor karşısında aldığı 5-0'lık galibiyeti teknik direktör Şenol Güneş yönetiminde elde etmişti.\n\nBordo-mavili takımda 5. dönemini yaşayan Şenol Güneş dönemi 188 gün sürdü. Bu dönemde 23 lig maçına çıkan Trabzonspor, Antalyaspor ve Adana Demirspor karşısında 5-0 galip gelmişti.",
+      "summary_tr": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Gençlerbirliği'ni 5-0 yenen Trabzonspor, teknik direktör Hüseyin Çimşir yönetiminde çıktığı ilk maçında farklı bir galibiyete imza attı.Bordo-mavili ekip, Süper Lig'de 55 hafta sonra en farklı galibiyetini elde etti.\n\nLigde en son 2024-2025 sezonunun 19. haftasında, 12 Ocak 2025 tarihinde, sahasında Antalyaspor'u 5-0 yenen bordo-mavililer, Gençlerbirliği karşısından aynı skorla üstün ayrılarak 602 gün sonra en farklı galibiyetine imza attı\n\nSüper Lig'in ilk 3 haftasında bir galibiyet, bir beraberlik ve bir mağlubiyetle 4 puan toplayan ve ardından teknik direktör Fatih Tekke ile yollarını ayıran Karadeniz ekibi, teknik heyet değişiminin yaşandığı haftada Gençlerbirliği karşısında rahat galibiyet elde etti.\n\nLigin üçüncü haftasında Amed Sportif Faaliyetler'e deplasmanda 2-1 yenilen Trabzonspor, Hüseyin Çimşir yönetiminde çıktığı Gençlerbirliği maçında moral bularak çıkışa geçti.\n\nİlk dönemindeki ilk maçına da farklı galibiyetle başlamıştı\n\nHüseyin Çimşir, Trabzonspor'da görev yaptığı 2019-2020 sezonundaki ilk lig maçında farklı galibiyet görmüştü.\n\nBordo-mavililer, teknik direktör Ünal Karaman'ın yerine göreve getirilen Çimşir ile ligin 18. haftasında sahasında Kasımpaşa'yı 6-0'lık sonuçla mağlup etmişti.\n\nKaradeniz ekibi, bu sonuçla 121 hafta sonra en farklı galibiyetini almıştı.\n\nFatih Tekke ile 48 lig maçında en fazla 4 farklı galibiyet\n\nTrabzonspor, yollarını ayırdığı teknik direktör Fatih Tekke ile en farklı galibiyetini ise 2025-2026 sezonunun 8. haftasında sahasında Kayserispor karşısında 4-0'lık sonuçla almıştı.\n\nBordo-mavili takımda 539 gün görev yapan Fatih Tekke yönetiminde 48 lig maçına çıkılırken en fazla 4 farklı galibiyet elde edildi.\n\nŞenol Güneş ile 5 farklı galibiyetler\n\nTrabzonspor, 55 hafta önce Antalyaspor karşısında aldığı 5-0'lık galibiyeti teknik direktör Şenol Güneş yönetiminde elde etmişti.\n\nBordo-mavili takımda 5. dönemini yaşayan Şenol Güneş dönemi 188 gün sürdü. Bu dönemde 23 lig maçına çıkan Trabzonspor, Antalyaspor ve Adana Demirspor karşısında 5-0 galip gelmişti.",
+      "long_summary": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Gençlerbirliği'ni 5-0 yenen Trabzonspor, teknik direktör Hüseyin Çimşir yönetiminde çıktığı ilk maçında farklı bir galibiyete imza attı.Bordo-mavili ekip, Süper Lig'de 55 hafta sonra en farklı galibiyetini elde etti.\n\nLigde en son 2024-2025 sezonunun 19. haftasında, 12 Ocak 2025 tarihinde, sahasında Antalyaspor'u 5-0 yenen bordo-mavililer, Gençlerbirliği karşısından aynı skorla üstün ayrılarak 602 gün sonra en farklı galibiyetine imza attı\n\nSüper",
+      "long_summary_tr": "Trendyol Süper Lig'in 4. haftasında konuk ettiği Gençlerbirliği'ni 5-0 yenen Trabzonspor, teknik direktör Hüseyin Çimşir yönetiminde çıktığı ilk maçında farklı bir galibiyete imza attı.Bordo-mavili ekip, Süper Lig'de 55 hafta sonra en farklı galibiyetini elde etti.\n\nLigde en son 2024-2025 sezonunun 19. haftasında, 12 Ocak 2025 tarihinde, sahasında Antalyaspor'u 5-0 yenen bordo-mavililer, Gençlerbirliği karşısından aynı skorla üstün ayrılarak 602 gün sonra en farklı galibiyetine imza attı\n\nSüper",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/trabzonspor-super-lig-de-55-hafta-sonra-en-farkli-galibiyetini-aldi-1704887",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/trabzonspor-super-lig-de-55-hafta-sonra-en-farkli-galibiyetini-aldi-1788771474-423_large.webp",
+      "published_at": "2026-09-07T08:57:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Amundi: ECB'nin perşembe günü faiz artırması neredeyse kesin",
+      "title_tr": "Amundi: ECB'nin perşembe günü faiz artırması neredeyse kesin",
+      "summary": "Amundi Investment Institute, Avrupa Merkez Bankasının perşembe günü faiz artırımına gitmesinin \"neredeyse kesinleştiğini\" bildirdi. Kurum, bu adımın ardından ECB'nin yılın geri kalanında faizleri sabi...",
+      "summary_tr": "Amundi Investment Institute, Avrupa Merkez Bankasının perşembe günü faiz artırımına gitmesinin \"neredeyse kesinleştiğini\" bildirdi. Kurum, bu adımın ardından ECB'nin yılın geri kalanında faizleri sabi...",
+      "long_summary": "Amundi Investment Institute, Avrupa Merkez Bankasının perşembe günü faiz artırımına gitmesinin \"neredeyse kesinleştiğini\" bildirdi. Kurum, bu adımın ardından ECB'nin yılın geri kalanında faizleri sabi...",
+      "long_summary_tr": "Amundi Investment Institute, Avrupa Merkez Bankasının perşembe günü faiz artırımına gitmesinin \"neredeyse kesinleştiğini\" bildirdi. Kurum, bu adımın ardından ECB'nin yılın geri kalanında faizleri sabi...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e7bf424008d7d4372d9de/PICNEWS/tr/amundi-ecb-nin-persembe-gunu-faiz-artirmasi-neredeyse-kesin-07-09-26/",
+      "image": "https://news-files.foreks.com/images/452f97177a874349b0f83a46460e75a1.jpeg",
+      "published_at": "2026-09-07T08:55:16+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Dev bankadan OVP yorumu: Dezenflasyonda gecikmeye işaret ediyor",
+      "title_tr": "Dev bankadan OVP yorumu: Dezenflasyonda gecikmeye işaret ediyor",
+      "summary": "ING Global, OVP’de enflasyon tahminlerinin yukarı yönlü revize edilmesinin dezenflasyon sürecinin ötelendiğine işaret ettiğini belirtirken, fiyat istikrarı ve mali disiplin hedeflerinin korunacağı mesajını verdi.ING Global, Türkiye'nin Orta Vadeli Programı'nın (OVP) önceki programa kıyasla özel tüketimin büyümeye daha fazla katkı sağladığı, enflasyon patikasının belirgin şekilde yükseldiği, faiz dışı harcamaların arttığı ve gelecek yıl cari açığın genişlediği bir görünüm ortaya koyduğunu belirtti.\n\nRaporda, enflasyon tahminlerindeki yukarı yönlü revizyonların, 2023 yılı ortasından bu yana uygulanan istikrar programı kapsamında hedeflenen dezenflasyon sürecinin daha ileri bir tarihe ötelendiğine işaret ettiği belirtildi.\n\nBununla birlikte ING, programın 2028 seçim dönemi öncesinde fiyat istikrarı, mali disiplin, finansal istikrar ve ekonominin rekabet gücünün artırılmasına yönelik temel taahhütlerin sürdürüleceği yönündeki kararlılığı ortaya koyduğunu ifade etti.",
+      "summary_tr": "ING Global, OVP’de enflasyon tahminlerinin yukarı yönlü revize edilmesinin dezenflasyon sürecinin ötelendiğine işaret ettiğini belirtirken, fiyat istikrarı ve mali disiplin hedeflerinin korunacağı mesajını verdi.ING Global, Türkiye'nin Orta Vadeli Programı'nın (OVP) önceki programa kıyasla özel tüketimin büyümeye daha fazla katkı sağladığı, enflasyon patikasının belirgin şekilde yükseldiği, faiz dışı harcamaların arttığı ve gelecek yıl cari açığın genişlediği bir görünüm ortaya koyduğunu belirtti.\n\nRaporda, enflasyon tahminlerindeki yukarı yönlü revizyonların, 2023 yılı ortasından bu yana uygulanan istikrar programı kapsamında hedeflenen dezenflasyon sürecinin daha ileri bir tarihe ötelendiğine işaret ettiği belirtildi.\n\nBununla birlikte ING, programın 2028 seçim dönemi öncesinde fiyat istikrarı, mali disiplin, finansal istikrar ve ekonominin rekabet gücünün artırılmasına yönelik temel taahhütlerin sürdürüleceği yönündeki kararlılığı ortaya koyduğunu ifade etti.",
+      "long_summary": "ING Global, OVP’de enflasyon tahminlerinin yukarı yönlü revize edilmesinin dezenflasyon sürecinin ötelendiğine işaret ettiğini belirtirken, fiyat istikrarı ve mali disiplin hedeflerinin korunacağı mesajını verdi.ING Global, Türkiye'nin Orta Vadeli Programı'nın (OVP) önceki programa kıyasla özel tüketimin büyümeye daha fazla katkı sağladığı, enflasyon patikasının belirgin şekilde yükseldiği, faiz dışı harcamaların arttığı ve gelecek yıl cari açığın genişlediği bir görünüm ortaya koyduğunu",
+      "long_summary_tr": "ING Global, OVP’de enflasyon tahminlerinin yukarı yönlü revize edilmesinin dezenflasyon sürecinin ötelendiğine işaret ettiğini belirtirken, fiyat istikrarı ve mali disiplin hedeflerinin korunacağı mesajını verdi.ING Global, Türkiye'nin Orta Vadeli Programı'nın (OVP) önceki programa kıyasla özel tüketimin büyümeye daha fazla katkı sağladığı, enflasyon patikasının belirgin şekilde yükseldiği, faiz dışı harcamaların arttığı ve gelecek yıl cari açığın genişlediği bir görünüm ortaya koyduğunu",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/ekonomi/dev-bankadan-ovp-yorumu-dezenflasyonda-gecikmeye-isaret-ediyor-1704884",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/dev-bankadan-ovp-yorumu-dezenflasyonda-gecikmeye-isaret-ediyor-1788771314-246_large.webp",
+      "published_at": "2026-09-07T08:54:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Gündem",
       "category_slug": "gundem",
       "is_local": false,
-      "source": "NTV",
-      "title": "Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı",
-      "title_tr": "Oyuncu Serhat Kılıç'ın son görüntüleri. Kız arkadaşının ifadesi ortaya çıktı",
-      "summary": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı.",
-      "summary_tr": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı.",
-      "long_summary": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı.",
-      "long_summary_tr": "Evinde ölü bulunan oyuncu Serhat Mustafa Kılıç'ın son görüntüsü, yaşadığı binanın güvenlik kamerasına yansıdı. Kız arkadaşının emniyetteki ifadesi de ortaya çıktı.",
+      "source": "Habertürk",
+      "title": "AHBAP'a 5. dalga operasyon: 53 kişi hakkında gözaltı kararı",
+      "title_tr": "AHBAP'a 5. dalga operasyon: 53 kişi hakkında gözaltı kararı",
+      "summary": "Adalet Bakanı Akın Gürlek, \"AHBAP Derneği üzerinden toplanan deprem bağışlarının akıbetine ilişkin yürütülen soruşturma kapsamında, bu sabah 53 şüphelinin yakalanmasına yönelik İstanbul merkezli 20 ilde 5’inci dalga operasyon başlatıldı\" dedi",
+      "summary_tr": "Adalet Bakanı Akın Gürlek, \"AHBAP Derneği üzerinden toplanan deprem bağışlarının akıbetine ilişkin yürütülen soruşturma kapsamında, bu sabah 53 şüphelinin yakalanmasına yönelik İstanbul merkezli 20 ilde 5’inci dalga operasyon başlatıldı\" dedi",
+      "long_summary": "Adalet Bakanı Akın Gürlek, \"AHBAP Derneği üzerinden toplanan deprem bağışlarının akıbetine ilişkin yürütülen soruşturma kapsamında, bu sabah 53 şüphelinin yakalanmasına yönelik İstanbul merkezli 20 ilde 5’inci dalga operasyon başlatıldı\" dedi",
+      "long_summary_tr": "Adalet Bakanı Akın Gürlek, \"AHBAP Derneği üzerinden toplanan deprem bağışlarının akıbetine ilişkin yürütülen soruşturma kapsamında, bu sabah 53 şüphelinin yakalanmasına yönelik İstanbul merkezli 20 ilde 5’inci dalga operasyon başlatıldı\" dedi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-mustafa-kilicin-son-goruntuleri-ortaya-cikti-1740689",
-      "image": "https://images.ntv.com.tr/images/OYUNCU-SERHAT-KILICIN-SON-GORUNTUSU-ORT_1493072_444190-978236.jpg",
-      "published_at": "2026-09-06T23:13:35+00:00"
+      "url": "https://www.haberturk.com/gundem/son-dakika-ahbap-a-5-dalga-operasyon-53-kisi-hakkinda-gozalti-karari-3910784",
+      "image": "https://im.haberturk.com/l/2026/09/07/ver1788771172/3910784/jpg/1920x1080",
+      "published_at": "2026-09-07T08:53:03+00:00"
     },
     {
       "origin": "yabanci",
@@ -843,56 +557,12 @@
       "category_slug": "dunya",
       "is_local": false,
       "source": "BBC World",
-      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "title_tr": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-      "summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-      "summary_tr": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-      "long_summary": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-      "long_summary_tr": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082b/live/50dfea10-a839-11f1-b3a7-d5de760fef6e.jpg",
-      "published_at": "2026-09-06T23:13:29+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Young praises Rashford and Shaw chemistry",
-      "title_tr": "Young praises Rashford and Shaw chemistry",
-      "summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
-      "summary_tr": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
-      "long_summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
-      "long_summary_tr": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb4/live/a498dc70-aa46-11f1-a291-b542ee92de7c.jpg",
-      "published_at": "2026-09-06T23:07:31+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "title_tr": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
-      "summary_tr": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
-      "long_summary": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
-      "long_summary_tr": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+      "title_tr": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+      "summary": "Preliminary results give the Alternative for Germany a big margin of victory - almost 44% of the vote.",
+      "summary_tr": "Preliminary results give the Alternative for Germany a big margin of victory - almost 44% of the vote.",
+      "long_summary": "Preliminary results give the Alternative for Germany a big margin of victory - almost 44% of the vote.",
+      "long_summary_tr": "Preliminary results give the Alternative for Germany a big margin of victory - almost 44% of the vote.",
       "why_important": [
         "Uluslararası dengeleri ilgilendirmesi"
       ],
@@ -901,95 +571,95 @@
       ],
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-      "published_at": "2026-09-06T23:02:45+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "India's high-stakes exam system faces a crisis of trust",
-      "title_tr": "India's high-stakes exam system faces a crisis of trust",
-      "summary": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
-      "summary_tr": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
-      "long_summary": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
-      "long_summary_tr": "As exam scandals persist, critics ask whether fixing the centralised testing agency is enough or if the model needs to change.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
-      "published_at": "2026-09-06T23:02:40+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "title_tr": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "summary": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "summary_tr": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "long_summary": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "long_summary_tr": "Man City latest: Ndiaye says next move 'was always going to be City'",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "image": "https://e1.365dm.com/26/08/1920x1080/skysports-man-city-club-blog_7326702.jpg?20260820165453",
-      "published_at": "2026-09-06T23:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Gabriel was 'extremely lucky' to avoid red - Rooney",
-      "title_tr": "Gabriel was 'extremely lucky' to avoid red - Rooney",
-      "summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
-      "summary_tr": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
-      "long_summary": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
-      "long_summary_tr": "Match of the Day pundit Wayne Rooney says Gabriel was 'extremely lucky' to stay on the pitch after his challenge on Chelsea's Emi Martinez.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgk531g8gr2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fcb/live/54a319c0-aa40-11f1-aed2-8d6da8d75094.jpg",
-      "published_at": "2026-09-06T22:50:22+00:00"
+      "published_at": "2026-09-07T08:52:04+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
       "is_local": false,
-      "source": "Habertürk",
-      "title": "Sporting Lizbon Galatasaray maçı ne zaman?",
-      "title_tr": "Sporting Lizbon Galatasaray maçı ne zaman?",
-      "summary": "Galatasaray, 2026-2027 sezonunda UEFA Şampiyonlar Ligi lig aşamasındaki ilk maçında Sporting Lizbon ile karşı karşıya gelecek. Jose Alvalade Stadyumu'nda oynanacak karşılaşma öncesinde  Sporting Lizbon Galatasaray maçı tarihini ve başlama saati futbolseverler tarafından araştırılmaya başlandı. Galatasaray'ın Şampiyonlar Ligi lig aşamasındaki diğer rakipleri arasında Barcelona, Lille, Stuttgart, Aston Villa, AEK Athens, Feyenoord ve PSG bulunuyor. Peki Sporting Lizbon - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? İşte Galatasaray'ın 2026-2027 Şampiyonlar Ligi maç takvimi...",
-      "summary_tr": "Galatasaray, 2026-2027 sezonunda UEFA Şampiyonlar Ligi lig aşamasındaki ilk maçında Sporting Lizbon ile karşı karşıya gelecek. Jose Alvalade Stadyumu'nda oynanacak karşılaşma öncesinde  Sporting Lizbon Galatasaray maçı tarihini ve başlama saati futbolseverler tarafından araştırılmaya başlandı. Galatasaray'ın Şampiyonlar Ligi lig aşamasındaki diğer rakipleri arasında Barcelona, Lille, Stuttgart, Aston Villa, AEK Athens, Feyenoord ve PSG bulunuyor. Peki Sporting Lizbon - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? İşte Galatasaray'ın 2026-2027 Şampiyonlar Ligi maç takvimi...",
-      "long_summary": "Galatasaray, 2026-2027 sezonunda UEFA Şampiyonlar Ligi lig aşamasındaki ilk maçında Sporting Lizbon ile karşı karşıya gelecek. Jose Alvalade Stadyumu'nda oynanacak karşılaşma öncesinde  Sporting Lizbon Galatasaray maçı tarihini ve başlama saati futbolseverler tarafından araştırılmaya başlandı. Galatasaray'ın Şampiyonlar Ligi lig aşamasındaki diğer rakipleri arasında Barcelona, Lille, Stuttgart, Aston Villa, AEK Athens, Feyenoord ve PSG bulunuyor. Peki Sporting Lizbon - Galatasaray maçı ne",
-      "long_summary_tr": "Galatasaray, 2026-2027 sezonunda UEFA Şampiyonlar Ligi lig aşamasındaki ilk maçında Sporting Lizbon ile karşı karşıya gelecek. Jose Alvalade Stadyumu'nda oynanacak karşılaşma öncesinde  Sporting Lizbon Galatasaray maçı tarihini ve başlama saati futbolseverler tarafından araştırılmaya başlandı. Galatasaray'ın Şampiyonlar Ligi lig aşamasındaki diğer rakipleri arasında Barcelona, Lille, Stuttgart, Aston Villa, AEK Athens, Feyenoord ve PSG bulunuyor. Peki Sporting Lizbon - Galatasaray maçı ne",
+      "source": "Dünya Gazetesi",
+      "title": "Ahbap Derneği'ne yönelik soruşturmada 5'inci dalga: 47 şüpheli gözaltında",
+      "title_tr": "Ahbap Derneği'ne yönelik soruşturmada 5'inci dalga: 47 şüpheli gözaltında",
+      "summary": "Ahbap Derneği üzerinden 6 Şubat depremlerinin ardından toplanan bağışlara ilişkin yürütülen soruşturmada 5&#039;inci dalga operasyon düzenlendi. İstanbul merkezli 20 ilde 53 şüpheli hakkında yakalama kararı çıkarılırken, 47 kişi gözaltına alındı. Soruşturma kapsamında dernekten 29 şirket ve 7 şahıs şirketine aktarıldığı belirtilen 1,75 milyar liralık para transferi de incelemeye alındı.",
+      "summary_tr": "Ahbap Derneği üzerinden 6 Şubat depremlerinin ardından toplanan bağışlara ilişkin yürütülen soruşturmada 5&#039;inci dalga operasyon düzenlendi. İstanbul merkezli 20 ilde 53 şüpheli hakkında yakalama kararı çıkarılırken, 47 kişi gözaltına alındı. Soruşturma kapsamında dernekten 29 şirket ve 7 şahıs şirketine aktarıldığı belirtilen 1,75 milyar liralık para transferi de incelemeye alındı.",
+      "long_summary": "Ahbap Derneği üzerinden 6 Şubat depremlerinin ardından toplanan bağışlara ilişkin yürütülen soruşturmada 5&#039;inci dalga operasyon düzenlendi. İstanbul merkezli 20 ilde 53 şüpheli hakkında yakalama kararı çıkarılırken, 47 kişi gözaltına alındı. Soruşturma kapsamında dernekten 29 şirket ve 7 şahıs şirketine aktarıldığı belirtilen 1,75 milyar liralık para transferi de incelemeye alındı.",
+      "long_summary_tr": "Ahbap Derneği üzerinden 6 Şubat depremlerinin ardından toplanan bağışlara ilişkin yürütülen soruşturmada 5&#039;inci dalga operasyon düzenlendi. İstanbul merkezli 20 ilde 53 şüpheli hakkında yakalama kararı çıkarılırken, 47 kişi gözaltına alındı. Soruşturma kapsamında dernekten 29 şirket ve 7 şahıs şirketine aktarıldığı belirtilen 1,75 milyar liralık para transferi de incelemeye alındı.",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/foto/sporting-lizbon-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-2026-galatasaray-sampiyonlar-ligi-mac-takvimi-3910682",
-      "image": "https://im.haberturk.com/l/2026/09/06/ver1788734852/3910682/jpg/1920x1080",
-      "published_at": "2026-09-06T22:47:32+00:00"
+      "url": "https://www.dunya.com/gundem/ahbap-dernegine-yonelik-sorusturmada-5inci-dalga-47-supheli-gozaltinda-haberi-839024",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/27/ahbap-h81i_cover.jpg",
+      "published_at": "2026-09-07T08:51:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Ne altın ne gümüş: Üç gündür yükseliyor, fiyatı kritik eşiğin üzerinde",
+      "title_tr": "Ne altın ne gümüş: Üç gündür yükseliyor, fiyatı kritik eşiğin üzerinde",
+      "summary": "Demir cevheri fiyatları, yükselen taşımacılık maliyetleri ve Çin&#039;de tatil öncesi stok alımlarının artacağı beklentisiyle üst üste üçüncü işlem gününde yükseldi. Dalian ve Singapur borsalarında temmuzdan bu yana en yüksek seviyeler görülürken, Singapur&#039;daki gösterge kontrat 100 dolar eşiğinin üzerinde tutundu.",
+      "summary_tr": "Demir cevheri fiyatları, yükselen taşımacılık maliyetleri ve Çin&#039;de tatil öncesi stok alımlarının artacağı beklentisiyle üst üste üçüncü işlem gününde yükseldi. Dalian ve Singapur borsalarında temmuzdan bu yana en yüksek seviyeler görülürken, Singapur&#039;daki gösterge kontrat 100 dolar eşiğinin üzerinde tutundu.",
+      "long_summary": "Demir cevheri fiyatları, yükselen taşımacılık maliyetleri ve Çin&#039;de tatil öncesi stok alımlarının artacağı beklentisiyle üst üste üçüncü işlem gününde yükseldi. Dalian ve Singapur borsalarında temmuzdan bu yana en yüksek seviyeler görülürken, Singapur&#039;daki gösterge kontrat 100 dolar eşiğinin üzerinde tutundu.",
+      "long_summary_tr": "Demir cevheri fiyatları, yükselen taşımacılık maliyetleri ve Çin&#039;de tatil öncesi stok alımlarının artacağı beklentisiyle üst üste üçüncü işlem gününde yükseldi. Dalian ve Singapur borsalarında temmuzdan bu yana en yüksek seviyeler görülürken, Singapur&#039;daki gösterge kontrat 100 dolar eşiğinin üzerinde tutundu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/finans/emtia/ne-altin-ne-gumus-uc-gundur-yukseliyor-fiyati-kritik-esigin-uzerinde-haberi-839026",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/929a43ed-3ffc-4f69-9ea0-00af2256bb4-bcvf_cover.jpg",
+      "published_at": "2026-09-07T08:50:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Ziraat Portföy, Suwen'deki tüm paylarını sattı",
+      "title_tr": "Ziraat Portföy, Suwen'deki tüm paylarını sattı",
+      "summary": "Ziraat Portföy Yönetimi'nin kurucusu ve yöneticisi olduğu Ziraat Portföy Üçüncü Serbest (TL) Fon, Suwen Tekstil Sanayi Pazarlama'daki paylarının tamamını sattı.",
+      "summary_tr": "Ziraat Portföy Yönetimi'nin kurucusu ve yöneticisi olduğu Ziraat Portföy Üçüncü Serbest (TL) Fon, Suwen Tekstil Sanayi Pazarlama'daki paylarının tamamını sattı.",
+      "long_summary": "Ziraat Portföy Yönetimi'nin kurucusu ve yöneticisi olduğu Ziraat Portföy Üçüncü Serbest (TL) Fon, Suwen Tekstil Sanayi Pazarlama'daki paylarının tamamını sattı.",
+      "long_summary_tr": "Ziraat Portföy Yönetimi'nin kurucusu ve yöneticisi olduğu Ziraat Portföy Üçüncü Serbest (TL) Fon, Suwen Tekstil Sanayi Pazarlama'daki paylarının tamamını sattı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e7ab524008d7d4372d9d6/PICNEWS/tr/ziraat-portfoy-suwen-deki-tum-paylarini-satti-07-09-26/",
+      "image": "https://news-files.foreks.com/images/11221db173e84deb87bd88d835574008.jpeg",
+      "published_at": "2026-09-07T08:49:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa’da sürpriz değişim! Orhangazi’ye 1,5 ay sonra yeni komutan",
+      "title_tr": "Bursa’da sürpriz değişim! Orhangazi’ye 1,5 ay sonra yeni komutan",
+      "summary": "Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde dikkat çeken bir değişiklik yaşandı. Temmuz ayındaki atama döneminde Orhangazi’ye görevlendirilen Emre Karasakal’ın ardından yaklaşık 1,5 ay sonra komutanlık görevine Jandarma Yüzbaşı Fahrettin Özçoban atandı.Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde yeni bir atama gerçekleştirildi.\n\nTemmuz ayındaki atama döneminde Karacabey İlçe Jandarma Komutanlığı görevinden Orhangazi İlçe Jandarma Komutanlığına atanan Emre Karasakal’ın yerine yeni isim belirlendi.\n\nYaklaşık 1,5 aylık sürenin ardından Orhangazi İlçe Jandarma Komutanlığı görevine Jandarma Yüzbaşı Fahrettin Özçoban atandı.\n\nYENİ KOMUTAN FAHRETTİN ÖZÇOBAN OLDU\n\nOrhangazi’nin yeni İlçe Jandarma Komutanı Fahrettin Özçoban, atama öncesinde Mustafakemalpaşa İlçe Jandarma Komutanlığı görevini yürütüyordu.\n\nYeni görevlendirmeyle Özçoban, Mustafakemalpaşa’dan Orhangazi’ye atanmış oldu.\n\nHAFTA BAŞINDA GÖREVE BAŞLAYACAK\n\nJandarma Yüzbaşı Fahrettin Özçoban’ın hafta başı itibarıyla Orhangazi’deki görevine başlamasının beklendiği belirtildi.\n\nBöylece Orhangazi İlçe Jandarma Komutanlığında yaklaşık 1,5 ay içerisinde ikinci kez görev değişikliği yaşanmış oldu.",
+      "summary_tr": "Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde dikkat çeken bir değişiklik yaşandı. Temmuz ayındaki atama döneminde Orhangazi’ye görevlendirilen Emre Karasakal’ın ardından yaklaşık 1,5 ay sonra komutanlık görevine Jandarma Yüzbaşı Fahrettin Özçoban atandı.Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde yeni bir atama gerçekleştirildi.\n\nTemmuz ayındaki atama döneminde Karacabey İlçe Jandarma Komutanlığı görevinden Orhangazi İlçe Jandarma Komutanlığına atanan Emre Karasakal’ın yerine yeni isim belirlendi.\n\nYaklaşık 1,5 aylık sürenin ardından Orhangazi İlçe Jandarma Komutanlığı görevine Jandarma Yüzbaşı Fahrettin Özçoban atandı.\n\nYENİ KOMUTAN FAHRETTİN ÖZÇOBAN OLDU\n\nOrhangazi’nin yeni İlçe Jandarma Komutanı Fahrettin Özçoban, atama öncesinde Mustafakemalpaşa İlçe Jandarma Komutanlığı görevini yürütüyordu.\n\nYeni görevlendirmeyle Özçoban, Mustafakemalpaşa’dan Orhangazi’ye atanmış oldu.\n\nHAFTA BAŞINDA GÖREVE BAŞLAYACAK\n\nJandarma Yüzbaşı Fahrettin Özçoban’ın hafta başı itibarıyla Orhangazi’deki görevine başlamasının beklendiği belirtildi.\n\nBöylece Orhangazi İlçe Jandarma Komutanlığında yaklaşık 1,5 ay içerisinde ikinci kez görev değişikliği yaşanmış oldu.",
+      "long_summary": "Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde dikkat çeken bir değişiklik yaşandı. Temmuz ayındaki atama döneminde Orhangazi’ye görevlendirilen Emre Karasakal’ın ardından yaklaşık 1,5 ay sonra komutanlık görevine Jandarma Yüzbaşı Fahrettin Özçoban atandı.Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde yeni bir atama gerçekleştirildi.\n\nTemmuz ayındaki atama döneminde Karacabey İlçe Jandarma Komutanlığı görevinden Orhangazi İlçe Jandarma Komutanlığına atanan",
+      "long_summary_tr": "Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde dikkat çeken bir değişiklik yaşandı. Temmuz ayındaki atama döneminde Orhangazi’ye görevlendirilen Emre Karasakal’ın ardından yaklaşık 1,5 ay sonra komutanlık görevine Jandarma Yüzbaşı Fahrettin Özçoban atandı.Bursa’nın Orhangazi ilçesinde İlçe Jandarma Komutanlığı görevinde yeni bir atama gerçekleştirildi.\n\nTemmuz ayındaki atama döneminde Karacabey İlçe Jandarma Komutanlığı görevinden Orhangazi İlçe Jandarma Komutanlığına atanan",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-surpriz-degisim-orhangazi-ye-1-5-ay-sonra-yeni-komutan-1704881",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/bursa-da-surpriz-degisim-orhangazi-ye-1-5-ay-sonra-yeni-komutan-1788770960-161_large.webp",
+      "published_at": "2026-09-07T08:48:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -997,43 +667,109 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "NTV",
-      "title": "İstanbul'un iki ilçesinde 2 gün denize girme yasağı",
-      "title_tr": "İstanbul'un iki ilçesinde 2 gün denize girme yasağı",
-      "summary": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı.",
-      "summary_tr": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı.",
-      "long_summary": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı.",
-      "long_summary_tr": "Karadeniz'e kıyısı bulunan Sarıyer ve Beykoz'da olumsuz hava şartları nedeniyle 2 gün boyunca denize girmek yasaklandı.",
+      "title": "Oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı",
+      "title_tr": "Oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı",
+      "summary": "İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı.",
+      "summary_tr": "İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı.",
+      "long_summary": "İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı.",
+      "long_summary_tr": "İstanbul'daki evinde ölü bulunan oyuncu Serhat Kılıç'ın ölümünde olay yeri inceleme raporu ortaya çıktı.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/istanbulun-iki-ilcesinde-2-gun-denize-girme-yasagi-1740706",
-      "image": "https://images.ntv.com.tr/images/SAKARYA’DA-DENIZE-GIRMEK-YASAKLANDI_1424979_423549-548412(2).jpg",
-      "published_at": "2026-09-06T22:46:28+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/galeri-oyuncu-serhat-kilicin-olumunde-olay-yeri-inceleme-raporu-ortaya-cikti-1740772",
+      "image": "https://images.ntv.com.tr/images/mustafa-serdar-kılıç-0-409217.jpg",
+      "published_at": "2026-09-07T08:47:53+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
       "is_local": false,
-      "source": "Sky Sports",
-      "title": "The moment Littler saw off Humphries to claim Czech Darts Open",
-      "title_tr": "The moment Littler saw off Humphries to claim Czech Darts Open",
-      "summary": "Luke Littler claims the Czech Darts Open win over Luke Humphries.",
-      "summary_tr": "Luke Littler claims the Czech Darts Open win over Luke Humphries.",
-      "long_summary": "Luke Littler claims the Czech Darts Open win over Luke Humphries.",
-      "long_summary_tr": "Luke Littler claims the Czech Darts Open win over Luke Humphries.",
+      "source": "Investing TR",
+      "title": "Ferrexpo hissesi bugün neden yükseldi?",
+      "title_tr": "Ferrexpo hissesi bugün neden yükseldi?",
+      "summary": "Ferrexpo hissesi bugün neden yükseldi?",
+      "summary_tr": "Ferrexpo hissesi bugün neden yükseldi?",
+      "long_summary": "Ferrexpo hissesi bugün neden yükseldi?",
+      "long_summary_tr": "Ferrexpo hissesi bugün neden yükseldi?",
       "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.skysports.com/watch/video/13582588/luke-littler-edges-luke-humphries-to-claim-czech-darts-open-in-thriller-match",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-darts-littler-humphries_7343786.jpg?20260906225119",
-      "published_at": "2026-09-06T22:43:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/ferrexpo-hissesi-bugun-neden-yukseldi-93CH-4056617",
+      "image": "https://content-media.investing.com/news/LYNXMPEC0409P_M.jpg",
+      "published_at": "2026-09-07T08:47:43+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Hull City'ye gol atmak puan almaktan zor!",
+      "title_tr": "Hull City'ye gol atmak puan almaktan zor!",
+      "summary": "İngiltere Premier Lig ekiplerinden Hull City'nin kaleci antrenörü Erbil Bozkurt, Yunan file bekçisi Konstantinos Tzolakis'i uzun süre takip ettikten sonra transfer ettiklerini ve uzun vadede güçlü bir kaleci grubuna sahip olduklarını söyledi.Championship play-off'larında Milwall ve Middlesbrough ile oynadığı 3 maçta da gol yemeyen Hull City, bu performasını 10 yıl sonra döndüğü Premier Lig'e de taşıdı.\n\nManchester United, Coventry City ve Aston Villa karşısında kalesini gole kapatan Hull City, Premier Lig'de gol yemeyen tek takım olarak sezona beklentilerin çok üstünde bir başlangıç yaptı.\n\n2024'ten bu yana Hull City'nin kaleci antrenörlüğünü yapan Erbil Bozkurt, bu başarıya takımdaki tüm futbolcuların katkısıyla ulaşıldığını belirterek, \"Tabii birçok kişi kaleci olarak bakıyor ama savunma oyuncuları olsun, savunmanın ileride forvetle başlaması olsun, takım olarak çok önemli işler yapıyoruz.\" dedi.\n\nAston Villa maçını da kazanmaya çok yaklaştıklarını dile getiren Bozkurt, \"Sezon başında bize 'İlk 3 maçta 7 puan alabilirsiniz.' deselerdi biz hemen o 7 puanı kabul ederdik. Genel olarak takım çok iyi. Soyunma odası, futbolcuların karakterleri çok iyi. Teknik ekip gerçekçi. Neyi takım olarak iyi yaptığımızı ya da eksiklerimizi çok iyi biliyoruz. Ve nerede olduğumuzu da çok iyi biliyoruz. İnşallah daha da iyi olur.\" ifadelerini kullandı.\n\n\"Tzolakis, bizim çok istediğimiz bir kaleciydi\"\n\nTakıma bu yaz katılan 23 yaşındaki Yunan kaleci Konstantinos Tzolakis'in uzun süredir listelerinde olduğunu aktaran Erbil Bozkurt, \"Bizim çok istediğimiz bir kaleciydi. Tabii transfer döneminde birçok ismi izlememiz gerekiyor. Scouting ekibi, yöneticilerimiz, başkanımız çok yardımcı oldu. Tzolakis, en başından beri izlediğimiz ve benim istediğim kalecilerin en başındaydı. Buraya gelmesi de çok önemli. Bizim için çok büyük bir transfer. Çok sakin bir kaleci. Daha 23 yaşında ve ileride çok daha başarılı işler yapacağına inanıyorum.\" diye konuştu.\n\nYunan file bekçisinin Olympiakos ile 2024 yılında UEFA Konferans Ligi'ni kazandığını anımsatan Bozkurt, \"Çok gelişmek isteyen bir kaleci. İleriye bakıp kendisini daha da geliştirmek isteyen bir isim olduğu için her şey şu an çok iyi gidiyor. Onunla çalışmak da çok zevkli çünkü daha da iyi olmak istiyor. Çok açık biri, karakteri çok düzgün. Bence daha da iyi olacak, buna inanıyorum.\" değerlendirmesinde bulundu.\n\nKalecilerin Championship ve Premier Lig'de çok zorlandığını kaydeden Bozkurt, \"Çünkü adaptasyon süreci çok önemli. Belki dünyanın başka bir liginde yan toplarda, ortalarda kalecilere bu kadar fiziksel iş düşmüyor. İnşallah yılın kalecisi olursa hem bizim için hem kendisi için çok büyük bir başarı olur. Ama daha sezon uzun, çok maç var.\" dedi.\n\n\"İleriye bakınca bence kaleci sorunumuz olmayacak\"\n\nHull City'nin kaleci havuzunu da değerlendiren Erbil Bozkurt, \"A takım kalecileri önemli ama 21 yaş altı takımdan bizimle her gün antrenman yapan 2-3 kaleci oluyor. İleriye bakınca bence kaleci sorunumuz olmayacak. Buradaki kaleci grubu çok güçlü. Herkes birbirine yardım etmek istiyor.\" diye konuştu.\n\nBozkurt, kalecilerle sezona ve maçlara nasıl hazırlandıklarına yönelik soru üzerine şunları kaydetti:\n\n\"Herkesin kendine göre bir sistemi, yöntemi var. Kalecilikte bence doğru ya da yanlış yok. Önemli olan kalecinin görevini yapması, o da gol yememek. Şimdi birçok antrenör kalecilerin ayaklarına bakıyor. Bunlar çok önemli şeyler ama kalecinin en önemli görevi gol yememek. Şut kurtarış yüzdesi yine çok önemli. Benim önceliğim kalecilerimizin adaptasyon sürecinde yanında olmak ve maç içinde olabilecek pozisyonları antrenmanda yaşamaları. Antrenmanın maç gibi geçmesi çok önemli.\"\n\nTzolakis, performansıyla zirvede\n\nLigin gol yemeyen tek kalecisi Konstantinos Tzolakis, kurtarışlarıyla sezona etkili bir başlangıç yaptı.\n\n2-0 kazandıkları Manchester United maçında 5, 1-0 kazandıkları Coventry City karşısında 3, 0-0 sona eren Aston Villa mücadelesinde de 1 kurtarış yapan Yunan kaleci, toplam 9 kurtarışa imza attı.\n\nPremier Lig tarihine geçti\n\nOlimpiakos kalesinde son iki sezonda 35 maçı gol yemeden tamamlayan Konstantinos Tzolakis, Premier Lig tarihinde de yeni çıkan takımların kalecileri arasında ilk 3 maçta gol yemeyen 3. isim oldu.\n\nDaha önce 1998-99 sezonunda Charlton Athletic kalecisi Sasa Ilic, 2017-18 sezonunda da Huddersfield Town kalecisi Jonas Lössl bunu başarmıştı.\n\nAğustos ayının oyuncusu ödülüne aday gösterildi\n\nKonstantinos Tzolakis, Premier Lig tarafından ağustos ayının en iyi oyuncusu ödülüne aday gösterildi.\n\nÖdüle aday diğer oyuncular ise Riccardo Calafiori (Arsenal), Rayan Cherki (Manchester City), Bruno Fernandes (Manchester United), Cole Palmer (Chelsea), Joao Pedro (Chelsea), Mamadou Sangare (Brentford) ve Yoane Wissa (Newcastle United) oldu.",
+      "summary_tr": "İngiltere Premier Lig ekiplerinden Hull City'nin kaleci antrenörü Erbil Bozkurt, Yunan file bekçisi Konstantinos Tzolakis'i uzun süre takip ettikten sonra transfer ettiklerini ve uzun vadede güçlü bir kaleci grubuna sahip olduklarını söyledi.Championship play-off'larında Milwall ve Middlesbrough ile oynadığı 3 maçta da gol yemeyen Hull City, bu performasını 10 yıl sonra döndüğü Premier Lig'e de taşıdı.\n\nManchester United, Coventry City ve Aston Villa karşısında kalesini gole kapatan Hull City, Premier Lig'de gol yemeyen tek takım olarak sezona beklentilerin çok üstünde bir başlangıç yaptı.\n\n2024'ten bu yana Hull City'nin kaleci antrenörlüğünü yapan Erbil Bozkurt, bu başarıya takımdaki tüm futbolcuların katkısıyla ulaşıldığını belirterek, \"Tabii birçok kişi kaleci olarak bakıyor ama savunma oyuncuları olsun, savunmanın ileride forvetle başlaması olsun, takım olarak çok önemli işler yapıyoruz.\" dedi.\n\nAston Villa maçını da kazanmaya çok yaklaştıklarını dile getiren Bozkurt, \"Sezon başında bize 'İlk 3 maçta 7 puan alabilirsiniz.' deselerdi biz hemen o 7 puanı kabul ederdik. Genel olarak takım çok iyi. Soyunma odası, futbolcuların karakterleri çok iyi. Teknik ekip gerçekçi. Neyi takım olarak iyi yaptığımızı ya da eksiklerimizi çok iyi biliyoruz. Ve nerede olduğumuzu da çok iyi biliyoruz. İnşallah daha da iyi olur.\" ifadelerini kullandı.\n\n\"Tzolakis, bizim çok istediğimiz bir kaleciydi\"\n\nTakıma bu yaz katılan 23 yaşındaki Yunan kaleci Konstantinos Tzolakis'in uzun süredir listelerinde olduğunu aktaran Erbil Bozkurt, \"Bizim çok istediğimiz bir kaleciydi. Tabii transfer döneminde birçok ismi izlememiz gerekiyor. Scouting ekibi, yöneticilerimiz, başkanımız çok yardımcı oldu. Tzolakis, en başından beri izlediğimiz ve benim istediğim kalecilerin en başındaydı. Buraya gelmesi de çok önemli. Bizim için çok büyük bir transfer. Çok sakin bir kaleci. Daha 23 yaşında ve ileride çok daha başarılı işler yapacağına inanıyorum.\" diye konuştu.\n\nYunan file bekçisinin Olympiakos ile 2024 yılında UEFA Konferans Ligi'ni kazandığını anımsatan Bozkurt, \"Çok gelişmek isteyen bir kaleci. İleriye bakıp kendisini daha da geliştirmek isteyen bir isim olduğu için her şey şu an çok iyi gidiyor. Onunla çalışmak da çok zevkli çünkü daha da iyi olmak istiyor. Çok açık biri, karakteri çok düzgün. Bence daha da iyi olacak, buna inanıyorum.\" değerlendirmesinde bulundu.\n\nKalecilerin Championship ve Premier Lig'de çok zorlandığını kaydeden Bozkurt, \"Çünkü adaptasyon süreci çok önemli. Belki dünyanın başka bir liginde yan toplarda, ortalarda kalecilere bu kadar fiziksel iş düşmüyor. İnşallah yılın kalecisi olursa hem bizim için hem kendisi için çok büyük bir başarı olur. Ama daha sezon uzun, çok maç var.\" dedi.\n\n\"İleriye bakınca bence kaleci sorunumuz olmayacak\"\n\nHull City'nin kaleci havuzunu da değerlendiren Erbil Bozkurt, \"A takım kalecileri önemli ama 21 yaş altı takımdan bizimle her gün antrenman yapan 2-3 kaleci oluyor. İleriye bakınca bence kaleci sorunumuz olmayacak. Buradaki kaleci grubu çok güçlü. Herkes birbirine yardım etmek istiyor.\" diye konuştu.\n\nBozkurt, kalecilerle sezona ve maçlara nasıl hazırlandıklarına yönelik soru üzerine şunları kaydetti:\n\n\"Herkesin kendine göre bir sistemi, yöntemi var. Kalecilikte bence doğru ya da yanlış yok. Önemli olan kalecinin görevini yapması, o da gol yememek. Şimdi birçok antrenör kalecilerin ayaklarına bakıyor. Bunlar çok önemli şeyler ama kalecinin en önemli görevi gol yememek. Şut kurtarış yüzdesi yine çok önemli. Benim önceliğim kalecilerimizin adaptasyon sürecinde yanında olmak ve maç içinde olabilecek pozisyonları antrenmanda yaşamaları. Antrenmanın maç gibi geçmesi çok önemli.\"\n\nTzolakis, performansıyla zirvede\n\nLigin gol yemeyen tek kalecisi Konstantinos Tzolakis, kurtarışlarıyla sezona etkili bir başlangıç yaptı.\n\n2-0 kazandıkları Manchester United maçında 5, 1-0 kazandıkları Coventry City karşısında 3, 0-0 sona eren Aston Villa mücadelesinde de 1 kurtarış yapan Yunan kaleci, toplam 9 kurtarışa imza attı.\n\nPremier Lig tarihine geçti\n\nOlimpiakos kalesinde son iki sezonda 35 maçı gol yemeden tamamlayan Konstantinos Tzolakis, Premier Lig tarihinde de yeni çıkan takımların kalecileri arasında ilk 3 maçta gol yemeyen 3. isim oldu.\n\nDaha önce 1998-99 sezonunda Charlton Athletic kalecisi Sasa Ilic, 2017-18 sezonunda da Huddersfield Town kalecisi Jonas Lössl bunu başarmıştı.\n\nAğustos ayının oyuncusu ödülüne aday gösterildi\n\nKonstantinos Tzolakis, Premier Lig tarafından ağustos ayının en iyi oyuncusu ödülüne aday gösterildi.\n\nÖdüle aday diğer oyuncular ise Riccardo Calafiori (Arsenal), Rayan Cherki (Manchester City), Bruno Fernandes (Manchester United), Cole Palmer (Chelsea), Joao Pedro (Chelsea), Mamadou Sangare (Brentford) ve Yoane Wissa (Newcastle United) oldu.",
+      "long_summary": "İngiltere Premier Lig ekiplerinden Hull City'nin kaleci antrenörü Erbil Bozkurt, Yunan file bekçisi Konstantinos Tzolakis'i uzun süre takip ettikten sonra transfer ettiklerini ve uzun vadede güçlü bir kaleci grubuna sahip olduklarını söyledi.Championship play-off'larında Milwall ve Middlesbrough ile oynadığı 3 maçta da gol yemeyen Hull City, bu performasını 10 yıl sonra döndüğü Premier Lig'e de taşıdı.\n\nManchester United, Coventry City ve Aston Villa karşısında kalesini gole kapatan Hull City,",
+      "long_summary_tr": "İngiltere Premier Lig ekiplerinden Hull City'nin kaleci antrenörü Erbil Bozkurt, Yunan file bekçisi Konstantinos Tzolakis'i uzun süre takip ettikten sonra transfer ettiklerini ve uzun vadede güçlü bir kaleci grubuna sahip olduklarını söyledi.Championship play-off'larında Milwall ve Middlesbrough ile oynadığı 3 maçta da gol yemeyen Hull City, bu performasını 10 yıl sonra döndüğü Premier Lig'e de taşıdı.\n\nManchester United, Coventry City ve Aston Villa karşısında kalesini gole kapatan Hull City,",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/hull-city-ye-gol-atmak-puan-almaktan-zor-1704878",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/hull-city-ye-gol-atmak-puan-almaktan-zor-1788770877-717_large.webp",
+      "published_at": "2026-09-07T08:47:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Novartis hissesi bugün neden düşüyor?",
+      "title_tr": "Novartis hissesi bugün neden düşüyor?",
+      "summary": "Novartis hissesi bugün neden düşüyor?",
+      "summary_tr": "Novartis hissesi bugün neden düşüyor?",
+      "long_summary": "Novartis hissesi bugün neden düşüyor?",
+      "long_summary_tr": "Novartis hissesi bugün neden düşüyor?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/novartis-hissesi-bugun-neden-dusuyor-93CH-4056616",
+      "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg",
+      "published_at": "2026-09-07T08:46:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Japonya, Trump-Xi zirvesi öncesi  Takaichi-Trump görüşmesi ayarlamaya çalışıyor",
+      "title_tr": "Japonya, Trump-Xi zirvesi öncesi  Takaichi-Trump görüşmesi ayarlamaya çalışıyor",
+      "summary": "Japonya hükümeti, Başbakan Sanae Takaichi ile ABD Başkanı Donald Trump arasında eylül sonunda New York'ta görüşme gerçekleştirilmesi için hazırlık yapıyor. Tokyo'nun, beklenen ABD-Çin zirvesi öncesind...",
+      "summary_tr": "Japonya hükümeti, Başbakan Sanae Takaichi ile ABD Başkanı Donald Trump arasında eylül sonunda New York'ta görüşme gerçekleştirilmesi için hazırlık yapıyor. Tokyo'nun, beklenen ABD-Çin zirvesi öncesind...",
+      "long_summary": "Japonya hükümeti, Başbakan Sanae Takaichi ile ABD Başkanı Donald Trump arasında eylül sonunda New York'ta görüşme gerçekleştirilmesi için hazırlık yapıyor. Tokyo'nun, beklenen ABD-Çin zirvesi öncesind...",
+      "long_summary_tr": "Japonya hükümeti, Başbakan Sanae Takaichi ile ABD Başkanı Donald Trump arasında eylül sonunda New York'ta görüşme gerçekleştirilmesi için hazırlık yapıyor. Tokyo'nun, beklenen ABD-Çin zirvesi öncesind...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e79da04bb7235e55fc8d1/PICNEWS/tr/japonya-trump-xi-zirvesi-oncesi-takaichi-trump-gorusmesi-ayarlamaya-calisiyor-07-09-26/",
+      "image": "https://news-files.foreks.com/images/65a064c47ada476eb5a1fb28b301d0b4.jpeg",
+      "published_at": "2026-09-07T08:46:18+00:00"
     },
     {
       "origin": "turkiye",
@@ -1041,21 +777,87 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "ABD'de uçak kazası: 5 ölü",
-      "title_tr": "ABD'de uçak kazası: 5 ölü",
-      "summary": "ABD'de Amazon'a ait Boeing 767 tipi bir kargo uçağının, Florida eyaletindeki Miami Uluslararası Havalimanı'na inerken pistten çıkması sonucu 5 kişi hayatını kaybetti",
-      "summary_tr": "ABD'de Amazon'a ait Boeing 767 tipi bir kargo uçağının, Florida eyaletindeki Miami Uluslararası Havalimanı'na inerken pistten çıkması sonucu 5 kişi hayatını kaybetti",
-      "long_summary": "ABD'de Amazon'a ait Boeing 767 tipi bir kargo uçağının, Florida eyaletindeki Miami Uluslararası Havalimanı'na inerken pistten çıkması sonucu 5 kişi hayatını kaybetti",
-      "long_summary_tr": "ABD'de Amazon'a ait Boeing 767 tipi bir kargo uçağının, Florida eyaletindeki Miami Uluslararası Havalimanı'na inerken pistten çıkması sonucu 5 kişi hayatını kaybetti",
+      "title": "Karı koca çiftin yürek yakan sonu",
+      "title_tr": "Karı koca çiftin yürek yakan sonu",
+      "summary": "Konya’nın Çumra ilçesinde, kamyonetle çarpışan otomobilin sürücüsü 63 yaşındaki Hasan Gürşahin ve aynı yaştaki eşi Havva Gürşahin hayatını kaybetti, diğer sürücü 32 yaşındaki Ahmet Uysal ise yaralandı. Kazayla ilgili inceleme sürüyor",
+      "summary_tr": "Konya’nın Çumra ilçesinde, kamyonetle çarpışan otomobilin sürücüsü 63 yaşındaki Hasan Gürşahin ve aynı yaştaki eşi Havva Gürşahin hayatını kaybetti, diğer sürücü 32 yaşındaki Ahmet Uysal ise yaralandı. Kazayla ilgili inceleme sürüyor",
+      "long_summary": "Konya’nın Çumra ilçesinde, kamyonetle çarpışan otomobilin sürücüsü 63 yaşındaki Hasan Gürşahin ve aynı yaştaki eşi Havva Gürşahin hayatını kaybetti, diğer sürücü 32 yaşındaki Ahmet Uysal ise yaralandı. Kazayla ilgili inceleme sürüyor",
+      "long_summary_tr": "Konya’nın Çumra ilçesinde, kamyonetle çarpışan otomobilin sürücüsü 63 yaşındaki Hasan Gürşahin ve aynı yaştaki eşi Havva Gürşahin hayatını kaybetti, diğer sürücü 32 yaşındaki Ahmet Uysal ise yaralandı. Kazayla ilgili inceleme sürüyor",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/dunya/son-dakika-abd-de-ucak-kazasi-5-olu-3910701",
-      "image": "https://im.haberturk.com/l/2026/09/07/ver1788734546/3910701/jpg/1920x1080",
-      "published_at": "2026-09-06T22:42:54+00:00"
+      "url": "https://www.haberturk.com/gundem/konya-haberleri-kari-koca-ciftin-yurek-yakan-sonu-son-dakika-haberleri-3910783",
+      "image": "https://im.haberturk.com/l/2026/09/07/ver1788770663/3910783/jpg/1920x1080",
+      "published_at": "2026-09-07T08:44:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "ForInvest Haber Anketi- TCMB'ye dair medyan beklenti Eylül'de %37 politika faizini değiştirmemesi yönünde",
+      "title_tr": "ForInvest Haber Anketi- TCMB'ye dair medyan beklenti Eylül'de %37 politika faizini değiştirmemesi yönünde",
+      "summary": "ForInvest Haber tarafından gerçekleştirilen ankette, TCMB Para Politikası Kurulu'nun (PPK) 10 Eylül 2026 tarihinde yapılacak olan yılın altıncı toplantısı için, ekonomistlerin medyan beklentisi, polit...",
+      "summary_tr": "ForInvest Haber tarafından gerçekleştirilen ankette, TCMB Para Politikası Kurulu'nun (PPK) 10 Eylül 2026 tarihinde yapılacak olan yılın altıncı toplantısı için, ekonomistlerin medyan beklentisi, polit...",
+      "long_summary": "ForInvest Haber tarafından gerçekleştirilen ankette, TCMB Para Politikası Kurulu'nun (PPK) 10 Eylül 2026 tarihinde yapılacak olan yılın altıncı toplantısı için, ekonomistlerin medyan beklentisi, polit...",
+      "long_summary_tr": "ForInvest Haber tarafından gerçekleştirilen ankette, TCMB Para Politikası Kurulu'nun (PPK) 10 Eylül 2026 tarihinde yapılacak olan yılın altıncı toplantısı için, ekonomistlerin medyan beklentisi, polit...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e798395016b5817e56af6/PICNEWS/tr/forinvest-haber-anketi-tcmb-ye-dair-medyan-beklenti-eylul-de-37-politika-faizini-degistirmemesi-yonunde-07-09-26/",
+      "image": "https://news-files.foreks.com/images/bc5b2cc5f7d249ee9159f35d9b77ec20.jpeg",
+      "published_at": "2026-09-07T08:44:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Memur ve emeklinin ocak zammı hesabı değişti: OVP sonrası yeni oranlar ortaya çıktı",
+      "title_tr": "Memur ve emeklinin ocak zammı hesabı değişti: OVP sonrası yeni oranlar ortaya çıktı",
+      "summary": "2027 yılı ocak ayında memur ve emeklilerin alacağı zam için hesaplar, yeni Orta Vadeli Program’daki (OVP) enflasyon tahminiyle değişti. 2026 yıl sonu enflasyonunun yüzde 28,4 olması halinde SSK ve Bağ-Kur emeklilerinin zam oranının yüzde 9,04, memur ve memur emeklilerinin maaş artışının ise yüzde 7 olması öngörülüyor.",
+      "summary_tr": "2027 yılı ocak ayında memur ve emeklilerin alacağı zam için hesaplar, yeni Orta Vadeli Program’daki (OVP) enflasyon tahminiyle değişti. 2026 yıl sonu enflasyonunun yüzde 28,4 olması halinde SSK ve Bağ-Kur emeklilerinin zam oranının yüzde 9,04, memur ve memur emeklilerinin maaş artışının ise yüzde 7 olması öngörülüyor.",
+      "long_summary": "2027 yılı ocak ayında memur ve emeklilerin alacağı zam için hesaplar, yeni Orta Vadeli Program’daki (OVP) enflasyon tahminiyle değişti. 2026 yıl sonu enflasyonunun yüzde 28,4 olması halinde SSK ve Bağ-Kur emeklilerinin zam oranının yüzde 9,04, memur ve memur emeklilerinin maaş artışının ise yüzde 7 olması öngörülüyor.",
+      "long_summary_tr": "2027 yılı ocak ayında memur ve emeklilerin alacağı zam için hesaplar, yeni Orta Vadeli Program’daki (OVP) enflasyon tahminiyle değişti. 2026 yıl sonu enflasyonunun yüzde 28,4 olması halinde SSK ve Bağ-Kur emeklilerinin zam oranının yüzde 9,04, memur ve memur emeklilerinin maaş artışının ise yüzde 7 olması öngörülüyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/memur-ve-emeklinin-ocak-zammi-hesabi-degisti-ovp-sonrasi-yeni-oranlar-ortaya-cikti-galeri-839022",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/yeni-proje-lcke_cover.jpg",
+      "published_at": "2026-09-07T08:44:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Demir cevheri 100 doları aştı, yükseliş üçüncü güne taşındı",
+      "title_tr": "Demir cevheri 100 doları aştı, yükseliş üçüncü güne taşındı",
+      "summary": "Demir cevheri fiyatları, yüksek navlun maliyetleri ve Çin'deki Ulusal Gün tatili öncesinde çelik üreticilerinin stoklarını artıracağı beklentisiyle üst üste üçüncü işlem gününde yükseldi.",
+      "summary_tr": "Demir cevheri fiyatları, yüksek navlun maliyetleri ve Çin'deki Ulusal Gün tatili öncesinde çelik üreticilerinin stoklarını artıracağı beklentisiyle üst üste üçüncü işlem gününde yükseldi.",
+      "long_summary": "Demir cevheri fiyatları, yüksek navlun maliyetleri ve Çin'deki Ulusal Gün tatili öncesinde çelik üreticilerinin stoklarını artıracağı beklentisiyle üst üste üçüncü işlem gününde yükseldi.",
+      "long_summary_tr": "Demir cevheri fiyatları, yüksek navlun maliyetleri ve Çin'deki Ulusal Gün tatili öncesinde çelik üreticilerinin stoklarını artıracağı beklentisiyle üst üste üçüncü işlem gününde yükseldi.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e78ec04bb7235e55fc8cd/PICNEWS/tr/demir-cevheri-100-dolari-asti-yukselis-ucuncu-gune-tasindi-07-09-26/",
+      "image": "https://news-files.foreks.com/images/9954ed9a6eba42e4b6889c7cc56949b1.jpeg",
+      "published_at": "2026-09-07T08:42:20+00:00"
     },
     {
       "origin": "yabanci",
@@ -1063,43 +865,241 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
-      "title_tr": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
-      "summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "summary_tr": "The top stories and transfer rumours from Monday's newspapers...",
-      "long_summary": "The top stories and transfer rumours from Monday's newspapers...",
-      "long_summary_tr": "The top stories and transfer rumours from Monday's newspapers...",
+      "title": "Middlesbrough considering compensation for kit staining at Turf Moor",
+      "title_tr": "Middlesbrough considering compensation for kit staining at Turf Moor",
+      "summary": "Middlesbrough are considering compensation for kit staining at Turf Moor.",
+      "summary_tr": "Middlesbrough are considering compensation for kit staining at Turf Moor.",
+      "long_summary": "Middlesbrough are considering compensation for kit staining at Turf Moor.",
+      "long_summary_tr": "Middlesbrough are considering compensation for kit staining at Turf Moor.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/football/news/12040/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published_at": "2026-09-06T22:41:00+00:00"
+      "url": "https://www.skysports.com/watch/video/13582656/middlesbrough-considering-compensation-for-kit-staining-at-turf-moor",
+      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-football-middlesborough_7343986.jpg?20260907090051",
+      "published_at": "2026-09-07T08:41:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Novartis'in kalp ilacı kritik hedefi karşılayamadı",
+      "title_tr": "Novartis'in kalp ilacı kritik hedefi karşılayamadı",
+      "summary": "Novartis, pelacarsen ilacının ileri aşama klinik çalışmada ölüm, kalp krizi ve felç gibi kardiyovasküler olayların riskini plaseboya kıyasla azaltma yönündeki birincil hedefine ulaşamadığını açıkladı.",
+      "summary_tr": "Novartis, pelacarsen ilacının ileri aşama klinik çalışmada ölüm, kalp krizi ve felç gibi kardiyovasküler olayların riskini plaseboya kıyasla azaltma yönündeki birincil hedefine ulaşamadığını açıkladı.",
+      "long_summary": "Novartis, pelacarsen ilacının ileri aşama klinik çalışmada ölüm, kalp krizi ve felç gibi kardiyovasküler olayların riskini plaseboya kıyasla azaltma yönündeki birincil hedefine ulaşamadığını açıkladı.",
+      "long_summary_tr": "Novartis, pelacarsen ilacının ileri aşama klinik çalışmada ölüm, kalp krizi ve felç gibi kardiyovasküler olayların riskini plaseboya kıyasla azaltma yönündeki birincil hedefine ulaşamadığını açıkladı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e787304bb7235e55fc8cb/PICNEWS/tr/novartis-in-kalp-ilaci-kritik-hedefi-karsilayamadi-07-09-26/",
+      "image": "https://news-files.foreks.com/images/db437d985ee64b77bc023c7ca74479d9.jpeg",
+      "published_at": "2026-09-07T08:40:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Okullar ne zaman açılıyor? Ara tatil ne zaman?",
+      "title_tr": "Okullar ne zaman açılıyor? Ara tatil ne zaman?",
+      "summary": "Uyum haftası ile birlikte yüz binlerce anaokulu ve 1. sınıf öğrencisi okula başladı. Diğer öğrenciler ise bekleyişte... Okul açılış tarihini öğrenmek isteyenler &quot;Okullar ne zaman açılıyor&quot; diye soruyor.",
+      "summary_tr": "Uyum haftası ile birlikte yüz binlerce anaokulu ve 1. sınıf öğrencisi okula başladı. Diğer öğrenciler ise bekleyişte... Okul açılış tarihini öğrenmek isteyenler &quot;Okullar ne zaman açılıyor&quot; diye soruyor.",
+      "long_summary": "Uyum haftası ile birlikte yüz binlerce anaokulu ve 1. sınıf öğrencisi okula başladı. Diğer öğrenciler ise bekleyişte... Okul açılış tarihini öğrenmek isteyenler &quot;Okullar ne zaman açılıyor&quot; diye soruyor.",
+      "long_summary_tr": "Uyum haftası ile birlikte yüz binlerce anaokulu ve 1. sınıf öğrencisi okula başladı. Diğer öğrenciler ise bekleyişte... Okul açılış tarihini öğrenmek isteyenler &quot;Okullar ne zaman açılıyor&quot; diye soruyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/okullar-ne-zaman-aciliyor-ara-tatil-ne-zaman-haberi-839021",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/okul-lyfw_cover.jpg",
+      "published_at": "2026-09-07T08:39:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Türkiye toryum için harekete geçti: Yeni dönem başlıyor",
+      "title_tr": "Türkiye toryum için harekete geçti: Yeni dönem başlıyor",
+      "summary": "Türkiye, uzun yıllardır konuşulan toryum rezervleri ile ilgili harekete geçti. Danimarkalı Copenhagen Atomics ile işbirliği sağlanırken anlaşmayla Türkiye&#039;de nükleer yakıt standartlarına uygun toryum üretilmesi ve bu alanda uluslararası bir tedarikçi haline gelmesi hedefleniyor.",
+      "summary_tr": "Türkiye, uzun yıllardır konuşulan toryum rezervleri ile ilgili harekete geçti. Danimarkalı Copenhagen Atomics ile işbirliği sağlanırken anlaşmayla Türkiye&#039;de nükleer yakıt standartlarına uygun toryum üretilmesi ve bu alanda uluslararası bir tedarikçi haline gelmesi hedefleniyor.",
+      "long_summary": "Türkiye, uzun yıllardır konuşulan toryum rezervleri ile ilgili harekete geçti. Danimarkalı Copenhagen Atomics ile işbirliği sağlanırken anlaşmayla Türkiye&#039;de nükleer yakıt standartlarına uygun toryum üretilmesi ve bu alanda uluslararası bir tedarikçi haline gelmesi hedefleniyor.",
+      "long_summary_tr": "Türkiye, uzun yıllardır konuşulan toryum rezervleri ile ilgili harekete geçti. Danimarkalı Copenhagen Atomics ile işbirliği sağlanırken anlaşmayla Türkiye&#039;de nükleer yakıt standartlarına uygun toryum üretilmesi ve bu alanda uluslararası bir tedarikçi haline gelmesi hedefleniyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/turkiye-toryum-icin-harekete-gecti-yeni-donem-basliyor-haberi-839023",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/07/yeni-proje-2026-09-07t115408-hpf9_cover.jpg",
+      "published_at": "2026-09-07T08:37:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "AHBAP soruşturmasında 5. dalga... Bakan Gürlek: 20 ilde 53 şüpheli için operasyon yapıldı",
+      "title_tr": "AHBAP soruşturmasında 5. dalga... Bakan Gürlek: 20 ilde 53 şüpheli için operasyon yapıldı",
+      "summary": "Adalet Bakanı Akın Gürlek, boşanma ve nafaka düzenlemesinin ekim ayında hayata geçirileceğini söyledi. AHBAP soruşturmasına ilişkin de açıklamada bulunan Gürlek, 5. dalga operasyonun başlatıldığını söyledi.Bakan Gürlek'in açıklamaları şöyle; \n\n6 Şubat depremlerinde milletimizin yaşadığı büyük acıyı, vatandaşlarımızın dayanışma duygusunu ve depremzedelerimiz için yapılan bağışları kişisel menfaate dönüştürmeye yönelik hiçbir girişime müsamaha göstermiyoruz.\n\nİstanbul Cumhuriyet Başsavcılığımız koordinesinde, Ahbap Derneği üzerinden toplanan deprem bağışlarının akıbetine ilişkin yürütülen soruşturma kapsamında, İstanbul İl Emniyet Müdürlüğümüzce bu sabah 5’inci dalga operasyon başlatıldı.\n\nOperasyon; İçişleri Bakanlığı müfettiş raporları, özel denetim raporları, derneğin mali kayıtları ve envanteri, banka hareketleri, bilirkişi incelemeleri ile etkin pişmanlık hükümlerinden yararlanan şüphelilerin ifadeleri doğrultusunda elde edilen deliller üzerine gerçekleştirildi.\n\n6 Şubat–31 Aralık 2023 tarihleri arasında depremzedelerimize ulaştırılmak üzere 4,3 milyar TL bağış toplandığı, bunun 4,2 milyar TL’sinin harcandığı; 950 milyon TL’nin ise nakit olarak çekildiği ve bu çekimlerden birinin tek seferde 500 milyon TL olduğu belirlendi.\n\n6 Şubat–31 Aralık 2023 tarihleri arasında depremzedelerimize ulaştırılmak üzere 4,3 milyar TL bağış toplandığı, 950 milyon TL’nin ise nakit olarak çekildiği ve tek seferde 500 milyon TL çekimler olduğu ve kasadan toplamda 4,2 milyar TL çıkış olduğu anlaşıldı.\n\n29 şirket ve 7 şahıs şirketine toplam 1 milyar 757 milyon 547 bin 770 TL transfer edildiği; bazı yüksek tutarlı harcamaların karşılığında mal veya hizmet alımı bulunmadığı, yardımların nakliyesinden şahsi menfaat sağlandığı ve bazı yardımların kamu kurumlarına faturalarda belirtilenden eksik teslim edildiği tespit edildi.\n\nTüm tespitler doğrultusunda 53 şüphelinin yakalanmasına yönelik İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketlerin gerçek ticari faaliyetlerinin tespitine yönelik incelemeler başlatıldı.\n\nİzmit’teki depolarda ise depremzedeler için temin edilen yüzlerce çadır, tekerlekli sandalye, elektrikli bisiklet, kırtasiye ürünü ve çeşitli yardım malzemesinin kullanılmadan bekletildiği tespit edildi. Bu malzemelerin hak sahiplerine ulaştırılması için gerekli işlemler başlatıldı.\n\nSoruşturmayı büyük bir hassasiyetle yürüten İstanbul Cumhuriyet Başsavcılığımıza, operasyonları başarıyla icra eden İstanbul İl Emniyet Müdürlüğümüze ve süreçte görev alan tüm kamu görevlilerimize teşekkür ediyorum.\n\nCumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ın liderliğinde; vatandaşlarımızın iyi niyetinin, yardımseverliğinin ve milletimizin dayanışma ruhunun istismar edilmesine karşı hukuk devletinin tüm imkânlarını kararlılıkla kullanmaya devam edeceğiz.",
+      "summary_tr": "Adalet Bakanı Akın Gürlek, boşanma ve nafaka düzenlemesinin ekim ayında hayata geçirileceğini söyledi. AHBAP soruşturmasına ilişkin de açıklamada bulunan Gürlek, 5. dalga operasyonun başlatıldığını söyledi.Bakan Gürlek'in açıklamaları şöyle; \n\n6 Şubat depremlerinde milletimizin yaşadığı büyük acıyı, vatandaşlarımızın dayanışma duygusunu ve depremzedelerimiz için yapılan bağışları kişisel menfaate dönüştürmeye yönelik hiçbir girişime müsamaha göstermiyoruz.\n\nİstanbul Cumhuriyet Başsavcılığımız koordinesinde, Ahbap Derneği üzerinden toplanan deprem bağışlarının akıbetine ilişkin yürütülen soruşturma kapsamında, İstanbul İl Emniyet Müdürlüğümüzce bu sabah 5’inci dalga operasyon başlatıldı.\n\nOperasyon; İçişleri Bakanlığı müfettiş raporları, özel denetim raporları, derneğin mali kayıtları ve envanteri, banka hareketleri, bilirkişi incelemeleri ile etkin pişmanlık hükümlerinden yararlanan şüphelilerin ifadeleri doğrultusunda elde edilen deliller üzerine gerçekleştirildi.\n\n6 Şubat–31 Aralık 2023 tarihleri arasında depremzedelerimize ulaştırılmak üzere 4,3 milyar TL bağış toplandığı, bunun 4,2 milyar TL’sinin harcandığı; 950 milyon TL’nin ise nakit olarak çekildiği ve bu çekimlerden birinin tek seferde 500 milyon TL olduğu belirlendi.\n\n6 Şubat–31 Aralık 2023 tarihleri arasında depremzedelerimize ulaştırılmak üzere 4,3 milyar TL bağış toplandığı, 950 milyon TL’nin ise nakit olarak çekildiği ve tek seferde 500 milyon TL çekimler olduğu ve kasadan toplamda 4,2 milyar TL çıkış olduğu anlaşıldı.\n\n29 şirket ve 7 şahıs şirketine toplam 1 milyar 757 milyon 547 bin 770 TL transfer edildiği; bazı yüksek tutarlı harcamaların karşılığında mal veya hizmet alımı bulunmadığı, yardımların nakliyesinden şahsi menfaat sağlandığı ve bazı yardımların kamu kurumlarına faturalarda belirtilenden eksik teslim edildiği tespit edildi.\n\nTüm tespitler doğrultusunda 53 şüphelinin yakalanmasına yönelik İstanbul merkezli 20 ilde eş zamanlı operasyon düzenlendi. Para transferi yapılan şirketlerin gerçek ticari faaliyetlerinin tespitine yönelik incelemeler başlatıldı.\n\nİzmit’teki depolarda ise depremzedeler için temin edilen yüzlerce çadır, tekerlekli sandalye, elektrikli bisiklet, kırtasiye ürünü ve çeşitli yardım malzemesinin kullanılmadan bekletildiği tespit edildi. Bu malzemelerin hak sahiplerine ulaştırılması için gerekli işlemler başlatıldı.\n\nSoruşturmayı büyük bir hassasiyetle yürüten İstanbul Cumhuriyet Başsavcılığımıza, operasyonları başarıyla icra eden İstanbul İl Emniyet Müdürlüğümüze ve süreçte görev alan tüm kamu görevlilerimize teşekkür ediyorum.\n\nCumhurbaşkanımız Sayın Recep Tayyip Erdoğan’ın liderliğinde; vatandaşlarımızın iyi niyetinin, yardımseverliğinin ve milletimizin dayanışma ruhunun istismar edilmesine karşı hukuk devletinin tüm imkânlarını kararlılıkla kullanmaya devam edeceğiz.",
+      "long_summary": "Adalet Bakanı Akın Gürlek, boşanma ve nafaka düzenlemesinin ekim ayında hayata geçirileceğini söyledi. AHBAP soruşturmasına ilişkin de açıklamada bulunan Gürlek, 5. dalga operasyonun başlatıldığını söyledi.Bakan Gürlek'in açıklamaları şöyle; \n\n6 Şubat depremlerinde milletimizin yaşadığı büyük acıyı, vatandaşlarımızın dayanışma duygusunu ve depremzedelerimiz için yapılan bağışları kişisel menfaate dönüştürmeye yönelik hiçbir girişime müsamaha göstermiyoruz.\n\nİstanbul Cumhuriyet Başsavcılığımız",
+      "long_summary_tr": "Adalet Bakanı Akın Gürlek, boşanma ve nafaka düzenlemesinin ekim ayında hayata geçirileceğini söyledi. AHBAP soruşturmasına ilişkin de açıklamada bulunan Gürlek, 5. dalga operasyonun başlatıldığını söyledi.Bakan Gürlek'in açıklamaları şöyle; \n\n6 Şubat depremlerinde milletimizin yaşadığı büyük acıyı, vatandaşlarımızın dayanışma duygusunu ve depremzedelerimiz için yapılan bağışları kişisel menfaate dönüştürmeye yönelik hiçbir girişime müsamaha göstermiyoruz.\n\nİstanbul Cumhuriyet Başsavcılığımız",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/ahbap-sorusturmasinda-5-dalga-bakan-gurlek-20-ilde-53-supheli-icin-operasyon-yapildi-1704875",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/ahbap-sorusturmasinda-5-dalga-bakan-gurlek-20-ilde-53-supheli-icin-operasyon-yapildi-1788770265-694_large.webp",
+      "published_at": "2026-09-07T08:36:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Gündem",
       "category_slug": "gundem",
       "is_local": false,
-      "source": "Habertürk",
-      "title": "Almanya'da eyalet seçimini aşırı sağcı AfD kazandı",
-      "title_tr": "Almanya'da eyalet seçimini aşırı sağcı AfD kazandı",
-      "summary": "Almanya'nın Saksonya-Anhalt eyaletinde düzenlenen meclis seçimini, son projeksiyonlara göre Almanya için Alternatif Partisi (AfD) açık farkla kazandı ancak tek başına hükümet kurabilecek çoğunluğa ulaşamadı",
-      "summary_tr": "Almanya'nın Saksonya-Anhalt eyaletinde düzenlenen meclis seçimini, son projeksiyonlara göre Almanya için Alternatif Partisi (AfD) açık farkla kazandı ancak tek başına hükümet kurabilecek çoğunluğa ulaşamadı",
-      "long_summary": "Almanya'nın Saksonya-Anhalt eyaletinde düzenlenen meclis seçimini, son projeksiyonlara göre Almanya için Alternatif Partisi (AfD) açık farkla kazandı ancak tek başına hükümet kurabilecek çoğunluğa ulaşamadı",
-      "long_summary_tr": "Almanya'nın Saksonya-Anhalt eyaletinde düzenlenen meclis seçimini, son projeksiyonlara göre Almanya için Alternatif Partisi (AfD) açık farkla kazandı ancak tek başına hükümet kurabilecek çoğunluğa ulaşamadı",
+      "source": "NTV",
+      "title": "Kocaeli'de başladı, Türkiye geneline yayılabilir. Düğüne giderken altın taşıma devri bitiyor",
+      "title_tr": "Kocaeli'de başladı, Türkiye geneline yayılabilir. Düğüne giderken altın taşıma devri bitiyor",
+      "summary": "Düğün ve nikahlarda kiosk üzerinden sipariş edilen fiziki altın, İstanbul Kuyumcular Odası güven etiketiyle sigortalı olarak belirtilen adrese gönderiliyor.",
+      "summary_tr": "Düğün ve nikahlarda kiosk üzerinden sipariş edilen fiziki altın, İstanbul Kuyumcular Odası güven etiketiyle sigortalı olarak belirtilen adrese gönderiliyor.",
+      "long_summary": "Düğün ve nikahlarda kiosk üzerinden sipariş edilen fiziki altın, İstanbul Kuyumcular Odası güven etiketiyle sigortalı olarak belirtilen adrese gönderiliyor.",
+      "long_summary_tr": "Düğün ve nikahlarda kiosk üzerinden sipariş edilen fiziki altın, İstanbul Kuyumcular Odası güven etiketiyle sigortalı olarak belirtilen adrese gönderiliyor.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/dunya/almanya-da-eyalet-secimini-asiri-sagci-afd-kazandi-3910702",
-      "image": "https://im.haberturk.com/l/2026/09/07/ver1788733052/3910702/jpg/1920x1080",
-      "published_at": "2026-09-06T22:40:21+00:00"
+      "url": "https://www.ntv.com.tr/turkiye/galeri-kocaelide-basladi-turkiye-geneline-yayilabilir-dugune-giderken-altin-tasima-devri-bitiyor-1740765",
+      "image": "https://images.ntv.com.tr/images/AW782426_01-628277.jpg",
+      "published_at": "2026-09-07T08:35:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Ferrexpo 100 milyon dolarlık artışın ardından %36 yükseldi",
+      "title_tr": "Ferrexpo 100 milyon dolarlık artışın ardından %36 yükseldi",
+      "summary": "Ferrexpo 100 milyon dolarlık artışın ardından %36 yükseldi",
+      "summary_tr": "Ferrexpo 100 milyon dolarlık artışın ardından %36 yükseldi",
+      "long_summary": "Ferrexpo 100 milyon dolarlık artışın ardından %36 yükseldi",
+      "long_summary_tr": "Ferrexpo 100 milyon dolarlık artışın ardından %36 yükseldi",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/ferrexpo-100-milyon-dolarlk-artsn-ardndan-36-yukseldi-4056614",
+      "image": "https://content-media.investing.com/news/news_arrow_up_M_1440047641.jpg",
+      "published_at": "2026-09-07T08:32:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa’da fırsatçılara 42 milyon lira ceza!",
+      "title_tr": "Bursa’da fırsatçılara 42 milyon lira ceza!",
+      "summary": "Bursa’da okulların açılmasına sayılı günler kala kırtasiye ürünlerine yönelik denetimler artırıldı. Bursa Ticaret İl Müdürlüğü ekipleri, kırtasiye ürünlerinin fiyat etiketlerini ve raf-kasa fiyatları arasındaki farklılıkları kontrol ederken, fahiş fiyat artışı yapan işletmeler hakkında da işlem yapıldı. Fahiş fiyat artışı yaptığı tespit edilen işletmelere 180 bin 617 liradan 1 milyon 806 bin 177 liraya kadar idari para cezası uygulanabilecek.Bursa Ticaret İl Müdürlüğü tarafından yapılan açıklamada, kent genelinde piyasa denetimlerinin aralıksız sürdüğü belirtildi. Okulların açılmasının yaklaşmasıyla birlikte özellikle kırtasiye ürünlerine yönelik denetimlerin artırıldığı ifade edildi. Denetimlerin ağustos ayı başında başladığı ve kırtasiye sektöründe faaliyet gösteren işletmelerin ziyaret edilerek gerekli bilgilendirme ve uyarıların yapıldığı kaydedildi. Okulların açılmasına kısa süre kala ise ekiplerin denetimlerini daha da yoğunlaştırdığı bildirildi.\n\n\n\nETİKET VE KASA FİYATLARI KONTROL EDİLİYOR\n\nKırtasiye ürünlerine yönelik denetimlerde, ürünlerin üzerinde fiyat etiketi bulunup bulunmadığı ile raf fiyatı ve kasa fiyatı arasında farklılık olup olmadığı kontrol ediliyor. Yapılan açıklamada, raflarda fiyat etiketi bulunmaması veya etiket fiyatı ile kasa fiyatının farklı olması durumunda her bir aykırılık için 3 bin 973 TL idari para cezası uygulanacağı belirtildi.\n\nEkiplerin ayrıca ürün fiyatlarını da inceleyerek okulların açılmasını fırsat bilerek haksız ve fahiş fiyat artışı yapan işletmeleri tespit edeceği, söz konusu işletmeler hakkında gerekli işlemlerin yapılması amacıyla Bakanlığın İç Ticaret Genel Müdürlüğüne bildirimde bulunulacağı ifade edildi.\n\nFahiş fiyat artışı yaptığı tespit edilen işletmelere Bakanlık tarafından 180 bin 617 TL ile 1 milyon 806 bin 177 TL arasında idari para cezası uygulanabildiği aktarıldı.\n\n\n\nBURSA’DA 4 BİN 800 İŞLETME DENETLENDİ\n\nÖte yandan Bursa genelinde 2026 yılının başından bu yana piyasa denetimlerinin de devam ettiği belirtildi. Bu kapsamda yaklaşık 4 bin 800 işletmede 1 milyon 400 bin ürünün denetlendiği açıklandı. Yaş sebze ve meyve alanında faaliyet gösteren hal işletmelerinin de dahil olduğu denetimlerde yaklaşık 42 milyon TL idari para cezası uygulandığı bildirildi. Ayrıca 600 işletmenin, fahiş fiyat artışı uygulaması nedeniyle haklarında gerekli işlemlerin yapılması amacıyla Ticaret Bakanlığı İç Ticaret Genel Müdürlüğüne gönderildiği kaydedildi.",
+      "summary_tr": "Bursa’da okulların açılmasına sayılı günler kala kırtasiye ürünlerine yönelik denetimler artırıldı. Bursa Ticaret İl Müdürlüğü ekipleri, kırtasiye ürünlerinin fiyat etiketlerini ve raf-kasa fiyatları arasındaki farklılıkları kontrol ederken, fahiş fiyat artışı yapan işletmeler hakkında da işlem yapıldı. Fahiş fiyat artışı yaptığı tespit edilen işletmelere 180 bin 617 liradan 1 milyon 806 bin 177 liraya kadar idari para cezası uygulanabilecek.Bursa Ticaret İl Müdürlüğü tarafından yapılan açıklamada, kent genelinde piyasa denetimlerinin aralıksız sürdüğü belirtildi. Okulların açılmasının yaklaşmasıyla birlikte özellikle kırtasiye ürünlerine yönelik denetimlerin artırıldığı ifade edildi. Denetimlerin ağustos ayı başında başladığı ve kırtasiye sektöründe faaliyet gösteren işletmelerin ziyaret edilerek gerekli bilgilendirme ve uyarıların yapıldığı kaydedildi. Okulların açılmasına kısa süre kala ise ekiplerin denetimlerini daha da yoğunlaştırdığı bildirildi.\n\n\n\nETİKET VE KASA FİYATLARI KONTROL EDİLİYOR\n\nKırtasiye ürünlerine yönelik denetimlerde, ürünlerin üzerinde fiyat etiketi bulunup bulunmadığı ile raf fiyatı ve kasa fiyatı arasında farklılık olup olmadığı kontrol ediliyor. Yapılan açıklamada, raflarda fiyat etiketi bulunmaması veya etiket fiyatı ile kasa fiyatının farklı olması durumunda her bir aykırılık için 3 bin 973 TL idari para cezası uygulanacağı belirtildi.\n\nEkiplerin ayrıca ürün fiyatlarını da inceleyerek okulların açılmasını fırsat bilerek haksız ve fahiş fiyat artışı yapan işletmeleri tespit edeceği, söz konusu işletmeler hakkında gerekli işlemlerin yapılması amacıyla Bakanlığın İç Ticaret Genel Müdürlüğüne bildirimde bulunulacağı ifade edildi.\n\nFahiş fiyat artışı yaptığı tespit edilen işletmelere Bakanlık tarafından 180 bin 617 TL ile 1 milyon 806 bin 177 TL arasında idari para cezası uygulanabildiği aktarıldı.\n\n\n\nBURSA’DA 4 BİN 800 İŞLETME DENETLENDİ\n\nÖte yandan Bursa genelinde 2026 yılının başından bu yana piyasa denetimlerinin de devam ettiği belirtildi. Bu kapsamda yaklaşık 4 bin 800 işletmede 1 milyon 400 bin ürünün denetlendiği açıklandı. Yaş sebze ve meyve alanında faaliyet gösteren hal işletmelerinin de dahil olduğu denetimlerde yaklaşık 42 milyon TL idari para cezası uygulandığı bildirildi. Ayrıca 600 işletmenin, fahiş fiyat artışı uygulaması nedeniyle haklarında gerekli işlemlerin yapılması amacıyla Ticaret Bakanlığı İç Ticaret Genel Müdürlüğüne gönderildiği kaydedildi.",
+      "long_summary": "Bursa’da okulların açılmasına sayılı günler kala kırtasiye ürünlerine yönelik denetimler artırıldı. Bursa Ticaret İl Müdürlüğü ekipleri, kırtasiye ürünlerinin fiyat etiketlerini ve raf-kasa fiyatları arasındaki farklılıkları kontrol ederken, fahiş fiyat artışı yapan işletmeler hakkında da işlem yapıldı. Fahiş fiyat artışı yaptığı tespit edilen işletmelere 180 bin 617 liradan 1 milyon 806 bin 177 liraya kadar idari para cezası uygulanabilecek.Bursa Ticaret İl Müdürlüğü tarafından yapılan",
+      "long_summary_tr": "Bursa’da okulların açılmasına sayılı günler kala kırtasiye ürünlerine yönelik denetimler artırıldı. Bursa Ticaret İl Müdürlüğü ekipleri, kırtasiye ürünlerinin fiyat etiketlerini ve raf-kasa fiyatları arasındaki farklılıkları kontrol ederken, fahiş fiyat artışı yapan işletmeler hakkında da işlem yapıldı. Fahiş fiyat artışı yaptığı tespit edilen işletmelere 180 bin 617 liradan 1 milyon 806 bin 177 liraya kadar idari para cezası uygulanabilecek.Bursa Ticaret İl Müdürlüğü tarafından yapılan",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-firsatcilara-42-milyon-lira-ceza-1704872",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/bursa-da-firsatcilara-42-milyon-lira-ceza-1788769982-626_large.webp",
+      "published_at": "2026-09-07T08:31:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "iPhone Ultra İçin Heyecan Verici Sızıntı Geldi",
+      "title_tr": "iPhone Ultra İçin Heyecan Verici Sızıntı Geldi",
+      "summary": "Apple'ın merakla beklenen katlanabilir iPhone Ultra modeli için Mark Gurman'dan yeni kılıf sızıntısı geldi. İşte 9 Eylül öncesi tüm detaylar.",
+      "summary_tr": "Apple'ın merakla beklenen katlanabilir iPhone Ultra modeli için Mark Gurman'dan yeni kılıf sızıntısı geldi. İşte 9 Eylül öncesi tüm detaylar.",
+      "long_summary": "Apple'ın merakla beklenen katlanabilir iPhone Ultra modeli için Mark Gurman'dan yeni kılıf sızıntısı geldi. İşte 9 Eylül öncesi tüm detaylar.",
+      "long_summary_tr": "Apple'ın merakla beklenen katlanabilir iPhone Ultra modeli için Mark Gurman'dan yeni kılıf sızıntısı geldi. İşte 9 Eylül öncesi tüm detaylar.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/iphone-ultra-icin-heyecan-verici-sizinti-geldi",
+      "image": null,
+      "published_at": "2026-09-07T08:30:29+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Fenerbahçe'den 8 sezon sonra en kötü başlangıç!",
+      "title_tr": "Fenerbahçe'den 8 sezon sonra en kötü başlangıç!",
+      "summary": "Süper Lig'in 4.haftasında sahasında Beşiktaş'a 2-1 mağlup olan Fenerbahçe, 8 sezonun ardından en kötü başlangıcını yaptı.18 sene sonra Şampiyonlar Ligi'nde mücadele edecek Fenerbahçe'de işler yolunda gitmiyor.\n\nİlk 4 maçta 2 galibiyet alan İsmail Kartal'ın ekibi, lider G.Saray'ın 4 puan gerisine düştü. Eleştirilere maruz kalan sarı-lacivertliler, 2018-19'dan sonra en kötü başlangıcı yaptı.\n\nO sene ilk 4 maçta 9 puan kaptıran Kanarya, Bursaspor'u 2-1 yenmesinin ardından Y.Malatyaspor'a 1-0, Göztepe'ye 1-0 ve Kayserispor'a 3-2 kaybetmişti.\n\nBu sezon ise Gençlerbirliği (2-1) ve Beşiktaş'a (2-1) boyun eğen F.Bahçe, sadece 6 puan toplayabildi.",
+      "summary_tr": "Süper Lig'in 4.haftasında sahasında Beşiktaş'a 2-1 mağlup olan Fenerbahçe, 8 sezonun ardından en kötü başlangıcını yaptı.18 sene sonra Şampiyonlar Ligi'nde mücadele edecek Fenerbahçe'de işler yolunda gitmiyor.\n\nİlk 4 maçta 2 galibiyet alan İsmail Kartal'ın ekibi, lider G.Saray'ın 4 puan gerisine düştü. Eleştirilere maruz kalan sarı-lacivertliler, 2018-19'dan sonra en kötü başlangıcı yaptı.\n\nO sene ilk 4 maçta 9 puan kaptıran Kanarya, Bursaspor'u 2-1 yenmesinin ardından Y.Malatyaspor'a 1-0, Göztepe'ye 1-0 ve Kayserispor'a 3-2 kaybetmişti.\n\nBu sezon ise Gençlerbirliği (2-1) ve Beşiktaş'a (2-1) boyun eğen F.Bahçe, sadece 6 puan toplayabildi.",
+      "long_summary": "Süper Lig'in 4.haftasında sahasında Beşiktaş'a 2-1 mağlup olan Fenerbahçe, 8 sezonun ardından en kötü başlangıcını yaptı.18 sene sonra Şampiyonlar Ligi'nde mücadele edecek Fenerbahçe'de işler yolunda gitmiyor.\n\nİlk 4 maçta 2 galibiyet alan İsmail Kartal'ın ekibi, lider G.Saray'ın 4 puan gerisine düştü. Eleştirilere maruz kalan sarı-lacivertliler, 2018-19'dan sonra en kötü başlangıcı yaptı.\n\nO sene ilk 4 maçta 9 puan kaptıran Kanarya, Bursaspor'u 2-1 yenmesinin ardından Y.Malatyaspor'a 1-0,",
+      "long_summary_tr": "Süper Lig'in 4.haftasında sahasında Beşiktaş'a 2-1 mağlup olan Fenerbahçe, 8 sezonun ardından en kötü başlangıcını yaptı.18 sene sonra Şampiyonlar Ligi'nde mücadele edecek Fenerbahçe'de işler yolunda gitmiyor.\n\nİlk 4 maçta 2 galibiyet alan İsmail Kartal'ın ekibi, lider G.Saray'ın 4 puan gerisine düştü. Eleştirilere maruz kalan sarı-lacivertliler, 2018-19'dan sonra en kötü başlangıcı yaptı.\n\nO sene ilk 4 maçta 9 puan kaptıran Kanarya, Bursaspor'u 2-1 yenmesinin ardından Y.Malatyaspor'a 1-0,",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/fenerbahce-den-8-sezon-sonra-en-kotu-baslangic-1704869",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/07/fenerbahce-den-8-sezon-sonra-en-kotu-baslangic-1788769868-776_large.webp",
+      "published_at": "2026-09-07T08:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Euro Bölgesi ekonomisi ivme kazanmaya devam ediyor- Sentix",
+      "title_tr": "Euro Bölgesi ekonomisi ivme kazanmaya devam ediyor- Sentix",
+      "summary": "Euro Bölgesi'nde Sentix Yatırımcı Güven Endeksi, ekonomik toparlanmanın eylülde ivme kazanmasıyla art arda beşinci ayda yükselerek Şubat 2022'den bu yana en yüksek seviyesine ulaştı.",
+      "summary_tr": "Euro Bölgesi'nde Sentix Yatırımcı Güven Endeksi, ekonomik toparlanmanın eylülde ivme kazanmasıyla art arda beşinci ayda yükselerek Şubat 2022'den bu yana en yüksek seviyesine ulaştı.",
+      "long_summary": "Euro Bölgesi'nde Sentix Yatırımcı Güven Endeksi, ekonomik toparlanmanın eylülde ivme kazanmasıyla art arda beşinci ayda yükselerek Şubat 2022'den bu yana en yüksek seviyesine ulaştı.",
+      "long_summary_tr": "Euro Bölgesi'nde Sentix Yatırımcı Güven Endeksi, ekonomik toparlanmanın eylülde ivme kazanmasıyla art arda beşinci ayda yükselerek Şubat 2022'den bu yana en yüksek seviyesine ulaştı.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6a9e760895016b5817e56ae8/PICNEWS/tr/euro-bolgesi-ekonomisi-ivme-kazanmaya-devam-ediyor-sentix-07-09-26/",
+      "image": "https://news-files.foreks.com/images/29d296c19c204f6489f292a64079c6d4.jpeg",
+      "published_at": "2026-09-07T08:30:00+00:00"
     }
   ]
 }
