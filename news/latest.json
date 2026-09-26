@@ -1,49 +1,225 @@
 {
-  "updated_at": "2026-09-26T01:26:31.157519+00:00",
+  "updated_at": "2026-09-26T07:28:14.687140+00:00",
   "articles": [
     {
       "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "BBC World",
-      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "title_tr": "Black woman found hanging from tree was dead before body was 'staged', police say",
-      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "summary_tr": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "long_summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
-      "long_summary_tr": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "source": "Sky Sports",
+      "title": "Curry agrees two-year $116m contract extension with Warriors",
+      "title_tr": "Curry agrees two-year $116m contract extension with Warriors",
+      "summary": "The Golden State Warriors have signed star guard Steph Curry to a two-year, $116m (£88m) contract extension, according to ESPN.",
+      "summary_tr": "The Golden State Warriors have signed star guard Steph Curry to a two-year, $116m (£88m) contract extension, according to ESPN.",
+      "long_summary": "The Golden State Warriors have signed star guard Steph Curry to a two-year, $116m (£88m) contract extension, according to ESPN.",
+      "long_summary_tr": "The Golden State Warriors have signed star guard Steph Curry to a two-year, $116m (£88m) contract extension, according to ESPN.",
       "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1485/live/6664e170-b922-11f1-b685-519146636d7f.jpg",
-      "published_at": "2026-09-26T01:16:29+00:00"
+      "url": "https://www.skysports.com/nba/news/12040/13591980/nba-steph-curry-agrees-two-year-116m-contract-extension-with-golden-state-warriors",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-stephen-curry-warriors_7221246.jpg?20260416065844",
+      "published_at": "2026-09-26T07:45:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "3,9 milyar liralık yasa dışı bahis soruşturmasında 27 tutuklama",
+      "title_tr": "3,9 milyar liralık yasa dışı bahis soruşturmasında 27 tutuklama",
+      "summary": "Şanlıurfa merkezli yasa dışı bahis operasyonunda yakalanan 49 şüpheliden 27’si tutuklandı. Soruşturma kapsamında 25 internet sitesine erişimin engellenmesine karar verildi.",
+      "summary_tr": "Şanlıurfa merkezli yasa dışı bahis operasyonunda yakalanan 49 şüpheliden 27’si tutuklandı. Soruşturma kapsamında 25 internet sitesine erişimin engellenmesine karar verildi.",
+      "long_summary": "Şanlıurfa merkezli yasa dışı bahis operasyonunda yakalanan 49 şüpheliden 27’si tutuklandı. Soruşturma kapsamında 25 internet sitesine erişimin engellenmesine karar verildi.",
+      "long_summary_tr": "Şanlıurfa merkezli yasa dışı bahis operasyonunda yakalanan 49 şüpheliden 27’si tutuklandı. Soruşturma kapsamında 25 internet sitesine erişimin engellenmesine karar verildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/39-milyar-liralik-yasa-disi-bahis-sorusturmasinda-27-tutuklama-1743540",
+      "image": "https://images.ntv.com.tr/images/thumbs_b_c_393c9a965675d709994bfb4d0856df2f-806699.webp",
+      "published_at": "2026-09-26T07:18:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Fenerbahçe transfer yasağının nedenini açıkladı",
+      "title_tr": "Fenerbahçe transfer yasağının nedenini açıkladı",
+      "summary": "FIFA’nın üç dönemlik transfer yasağı listesine giren Fenerbahçe’den açıklama geldi. Sarı-lacivertliler, kararın En-Nesyri’nin bonservis taksidinden kaynaklandığını ve pazartesi yapılacak ödemenin ardından yasağın kaldırılacağını duyurdu.",
+      "summary_tr": "FIFA’nın üç dönemlik transfer yasağı listesine giren Fenerbahçe’den açıklama geldi. Sarı-lacivertliler, kararın En-Nesyri’nin bonservis taksidinden kaynaklandığını ve pazartesi yapılacak ödemenin ardından yasağın kaldırılacağını duyurdu.",
+      "long_summary": "FIFA’nın üç dönemlik transfer yasağı listesine giren Fenerbahçe’den açıklama geldi. Sarı-lacivertliler, kararın En-Nesyri’nin bonservis taksidinden kaynaklandığını ve pazartesi yapılacak ödemenin ardından yasağın kaldırılacağını duyurdu.",
+      "long_summary_tr": "FIFA’nın üç dönemlik transfer yasağı listesine giren Fenerbahçe’den açıklama geldi. Sarı-lacivertliler, kararın En-Nesyri’nin bonservis taksidinden kaynaklandığını ve pazartesi yapılacak ödemenin ardından yasağın kaldırılacağını duyurdu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/spor/fenerbahce-transfer-yasaginin-nedenini-acikladi-haberi-841519",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/26/yeni-proje-2026-09-26t101943-oktr_cover.jpg",
+      "published_at": "2026-09-26T07:16:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "FIFA'dan F.Bahçe'ye 3 dönem transfer yasağı!",
+      "title_tr": "FIFA'dan F.Bahçe'ye 3 dönem transfer yasağı!",
+      "summary": "Fenerbahçe, FIFA tarafından 3 dönem transfer yasağı cezası aldı. Sarı-lacivertli kulüp, cezanın En-Nesyri transferindeki bonservis taksidinin ödenmemesi gerekçesiyle verildiğini, söz konusu borcun pazartesi günü ödenerek transfer yasağının kaldırılacağını açıkladı.",
+      "summary_tr": "Fenerbahçe, FIFA tarafından 3 dönem transfer yasağı cezası aldı. Sarı-lacivertli kulüp, cezanın En-Nesyri transferindeki bonservis taksidinin ödenmemesi gerekçesiyle verildiğini, söz konusu borcun pazartesi günü ödenerek transfer yasağının kaldırılacağını açıkladı.",
+      "long_summary": "Fenerbahçe, FIFA tarafından 3 dönem transfer yasağı cezası aldı. Sarı-lacivertli kulüp, cezanın En-Nesyri transferindeki bonservis taksidinin ödenmemesi gerekçesiyle verildiğini, söz konusu borcun pazartesi günü ödenerek transfer yasağının kaldırılacağını açıkladı.",
+      "long_summary_tr": "Fenerbahçe, FIFA tarafından 3 dönem transfer yasağı cezası aldı. Sarı-lacivertli kulüp, cezanın En-Nesyri transferindeki bonservis taksidinin ödenmemesi gerekçesiyle verildiğini, söz konusu borcun pazartesi günü ödenerek transfer yasağının kaldırılacağını açıkladı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/spor/fifa-fenerbahce-yi-transfer-yasagi-listesine-ekledi-3915210",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790406795/3915210/jpg/1920x1080",
+      "published_at": "2026-09-26T07:13:28+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Cep telefonu, bilgisayar bağımlısıydı... 3 ay tedavi gördü... Kötü haber geldi!",
+      "title_tr": "Cep telefonu, bilgisayar bağımlısıydı... 3 ay tedavi gördü... Kötü haber geldi!",
+      "summary": "Hatay'da, depremin ardından evinden çıkmayarak gününü bilgisayar ve telefonla oynayarak geçiren 25 yaşındaki Barış Özbay, hastanede gördüğü 3 aylık tedavi sürecinin ardından kendisine verilen ilaçları kullanmayı reddederek gününü cep telefonuyla oynayarak geçirmeye devam ediyor. İyi olmak istemediğini ve hayatını düzene sokmak istemediğini ifade eden Özbay, yaklaşık 2 aydan fazla süredir duş almadığını belirterek, çok fazla sanal alemde bulunduğu için oyunların artık kendini etkilemediğini söyledi",
+      "summary_tr": "Hatay'da, depremin ardından evinden çıkmayarak gününü bilgisayar ve telefonla oynayarak geçiren 25 yaşındaki Barış Özbay, hastanede gördüğü 3 aylık tedavi sürecinin ardından kendisine verilen ilaçları kullanmayı reddederek gününü cep telefonuyla oynayarak geçirmeye devam ediyor. İyi olmak istemediğini ve hayatını düzene sokmak istemediğini ifade eden Özbay, yaklaşık 2 aydan fazla süredir duş almadığını belirterek, çok fazla sanal alemde bulunduğu için oyunların artık kendini etkilemediğini söyledi",
+      "long_summary": "Hatay'da, depremin ardından evinden çıkmayarak gününü bilgisayar ve telefonla oynayarak geçiren 25 yaşındaki Barış Özbay, hastanede gördüğü 3 aylık tedavi sürecinin ardından kendisine verilen ilaçları kullanmayı reddederek gününü cep telefonuyla oynayarak geçirmeye devam ediyor. İyi olmak istemediğini ve hayatını düzene sokmak istemediğini ifade eden Özbay, yaklaşık 2 aydan fazla süredir duş almadığını belirterek, çok fazla sanal alemde bulunduğu için oyunların artık kendini etkilemediğini",
+      "long_summary_tr": "Hatay'da, depremin ardından evinden çıkmayarak gününü bilgisayar ve telefonla oynayarak geçiren 25 yaşındaki Barış Özbay, hastanede gördüğü 3 aylık tedavi sürecinin ardından kendisine verilen ilaçları kullanmayı reddederek gününü cep telefonuyla oynayarak geçirmeye devam ediyor. İyi olmak istemediğini ve hayatını düzene sokmak istemediğini ifade eden Özbay, yaklaşık 2 aydan fazla süredir duş almadığını belirterek, çok fazla sanal alemde bulunduğu için oyunların artık kendini etkilemediğini",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/son-dakika-cep-telefonu-bagimlisiydi-3-ay-tedavi-gordu-ama-baris-ozbay-dan-kotu-haber-geldi-3915221",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790406252/3915221/jpg/1920x1080",
+      "published_at": "2026-09-26T07:08:59+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "İddia: Trump, İran'ın 7 günlük ateşkes teklifini reddetti",
+      "title_tr": "İddia: Trump, İran'ın 7 günlük ateşkes teklifini reddetti",
+      "summary": "ABD Başkanı Donald Trump’ın, İran'ın 7 günlük ateşkes teklifini reddettiği ve ara seçimlerin ardından İran'a saldırıların yeniden başlatılmasını değerlendirdiği iddia edildi.",
+      "summary_tr": "ABD Başkanı Donald Trump’ın, İran'ın 7 günlük ateşkes teklifini reddettiği ve ara seçimlerin ardından İran'a saldırıların yeniden başlatılmasını değerlendirdiği iddia edildi.",
+      "long_summary": "ABD Başkanı Donald Trump’ın, İran'ın 7 günlük ateşkes teklifini reddettiği ve ara seçimlerin ardından İran'a saldırıların yeniden başlatılmasını değerlendirdiği iddia edildi.",
+      "long_summary_tr": "ABD Başkanı Donald Trump’ın, İran'ın 7 günlük ateşkes teklifini reddettiği ve ara seçimlerin ardından İran'a saldırıların yeniden başlatılmasını değerlendirdiği iddia edildi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/dunya/wsj-trump-iran-in-7-gunluk-ateskes-teklifini-reddetti-3915220",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790406234/3915220/jpg/1920x1080",
+      "published_at": "2026-09-26T07:04:11+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Çip sektöründe dev birleşme: Hisseler harekete geçti",
+      "title_tr": "Çip sektöründe dev birleşme: Hisseler harekete geçti",
+      "summary": "Skyworks Solutions hisseleri, Qorvo ile planlanan dev birleşmede gelen yeni gelişmenin ardından yükselişe geçti. Tahvil sahiplerinin yüzde 90’ı aşan katılımı dikkat çekerken, piyasaların gözü 2 Ekim’e çevrildi.",
+      "summary_tr": "Skyworks Solutions hisseleri, Qorvo ile planlanan dev birleşmede gelen yeni gelişmenin ardından yükselişe geçti. Tahvil sahiplerinin yüzde 90’ı aşan katılımı dikkat çekerken, piyasaların gözü 2 Ekim’e çevrildi.",
+      "long_summary": "Skyworks Solutions hisseleri, Qorvo ile planlanan dev birleşmede gelen yeni gelişmenin ardından yükselişe geçti. Tahvil sahiplerinin yüzde 90’ı aşan katılımı dikkat çekerken, piyasaların gözü 2 Ekim’e çevrildi.",
+      "long_summary_tr": "Skyworks Solutions hisseleri, Qorvo ile planlanan dev birleşmede gelen yeni gelişmenin ardından yükselişe geçti. Tahvil sahiplerinin yüzde 90’ı aşan katılımı dikkat çekerken, piyasaların gözü 2 Ekim’e çevrildi.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/sektorler/cip-sektorunde-dev-birlesme-hisseler-harekete-gecti-haberi-841518",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/26/yeni-proje-2026-09-26t100438-yruo_cover.jpg",
+      "published_at": "2026-09-26T07:02:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Dacia Hipster: Ucuz Elektrikli Araç Geliyor",
+      "title_tr": "Dacia Hipster: Ucuz Elektrikli Araç Geliyor",
+      "summary": "Dacia'nın 2027'de piyasaya süreceği yeni mikro elektrikli aracı Dacia Hipster, 15 bin euronun altındaki fiyatıyla dikkat çekiyor.",
+      "summary_tr": "Dacia'nın 2027'de piyasaya süreceği yeni mikro elektrikli aracı Dacia Hipster, 15 bin euronun altındaki fiyatıyla dikkat çekiyor.",
+      "long_summary": "Dacia'nın 2027'de piyasaya süreceği yeni mikro elektrikli aracı Dacia Hipster, 15 bin euronun altındaki fiyatıyla dikkat çekiyor.",
+      "long_summary_tr": "Dacia'nın 2027'de piyasaya süreceği yeni mikro elektrikli aracı Dacia Hipster, 15 bin euronun altındaki fiyatıyla dikkat çekiyor.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/dacia-hipster-elektrikli-sehir-otomobili",
+      "image": null,
+      "published_at": "2026-09-26T07:00:55+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Karın ağrısının ardından 15 kilo kitle çıktı",
+      "title_tr": "Karın ağrısının ardından 15 kilo kitle çıktı",
+      "summary": "Malatya'da karın ağrısı ve şişkinlik şikayetiyle hastaneye başvuran Fatma Avşar'ın karnında tespit edilen 15 kiloluk kitle, operasyonla çıkarıldı",
+      "summary_tr": "Malatya'da karın ağrısı ve şişkinlik şikayetiyle hastaneye başvuran Fatma Avşar'ın karnında tespit edilen 15 kiloluk kitle, operasyonla çıkarıldı",
+      "long_summary": "Malatya'da karın ağrısı ve şişkinlik şikayetiyle hastaneye başvuran Fatma Avşar'ın karnında tespit edilen 15 kiloluk kitle, operasyonla çıkarıldı",
+      "long_summary_tr": "Malatya'da karın ağrısı ve şişkinlik şikayetiyle hastaneye başvuran Fatma Avşar'ın karnında tespit edilen 15 kiloluk kitle, operasyonla çıkarıldı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/saglik/karin-agrisinin-ardindan-15-kilo-kitle-cikti-haberler-3915219",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790405717/3915219/jpg/1920x1080",
+      "published_at": "2026-09-26T07:00:20+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
+      "category": "Magazin",
+      "category_slug": "magazin",
       "is_local": false,
-      "source": "Popular Science",
-      "title": "Fat Bear Week, Round 2 results: Bucky Dent, Backpack, 132, and 910 triumph",
-      "title_tr": "Fat Bear Week, Round 2 results: Bucky Dent, Backpack, 132, and 910 triumph",
-      "summary": "The next round of voting starts Monday.\nThe post Fat Bear Week, Round 2 results: Bucky Dent, Backpack, 132, and 910 triumph appeared first on Popular Science.",
-      "summary_tr": "The next round of voting starts Monday.\nThe post Fat Bear Week, Round 2 results: Bucky Dent, Backpack, 132, and 910 triumph appeared first on Popular Science.",
-      "long_summary": "The next round of voting starts Monday.\nThe post Fat Bear Week, Round 2 results: Bucky Dent, Backpack, 132, and 910 triumph appeared first on Popular Science.",
-      "long_summary_tr": "The next round of voting starts Monday.\nThe post Fat Bear Week, Round 2 results: Bucky Dent, Backpack, 132, and 910 triumph appeared first on Popular Science.",
+      "source": "Elle",
+      "title": "Pisces Daily Horoscope",
+      "title_tr": "Pisces Daily Horoscope",
+      "summary": "(February 19 - March 20)",
+      "summary_tr": "(February 19 - March 20)",
+      "long_summary": "(February 19 - March 20)",
+      "long_summary_tr": "(February 19 - March 20)",
       "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
       ],
       "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
       ],
-      "url": "https://www.popsci.com/environment/fat-bear-week-round-2-bracket-walker-bucky-dent-backpack/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/09/WalkerVsBuckyDentV2.jpg?quality=85",
-      "published_at": "2026-09-26T01:03:24+00:00"
+      "url": "https://www.elle.com/horoscopes/daily/a108/pisces-daily-horoscope/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/pisces-final-65c5440b949f5.jpg",
+      "published_at": "2026-09-26T07:00:10+00:00"
     },
     {
       "origin": "turkiye",
@@ -65,7 +241,29 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-26-eylul-2026-1743505",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-09-26T01:00:00+00:00"
+      "published_at": "2026-09-26T07:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa'da domateste 7 tonluk kayıp!",
+      "title_tr": "Bursa'da domateste 7 tonluk kayıp!",
+      "summary": "Bursa'nın Karacabey ilçesinde Manyas Gölü'nden sağlanan sulama suyuna çeltik tarlalarındaki zirai ilaç kalıntılarının karışması, salçalık domates üreticilerini tarlada verim kaybıyla karşı karşıya bıraktı.Karacabey Ziraat Odası İkinci Başkanı Ramazan Düzen ve bölge üreticileri, verim kaybına yol açan durumun çözümü için çeltik tahliye sularının sulama kanallarından ayrılmasını istiyor.\n\n\n\nÇELTİK SUYUNDAN ETKİLENEN DOMATESTE DÖNÜM BAŞI 7 TONA VARAN VERİM KAYBI\n\nGölden gelen suyun sebzelerde gelişim bozukluğuna yol açtığını belirten Ramazan Düzen, şunları söyledi:\n\n\"Yaklaşık 220 bin dönüm arazimiz Manyas Gölü'nden gelen suyla sulanıyor. Manyas ve Gönen tarafından çeltik sularının derelere karışması tarım arazilerimize geldiğinde zararlı madde oluşturuyor. Domateslerimiz yapraklarını kıvırıyor ve verim düşüklüğü yaşanıyor. Çeltik sahasından gelen su ile artezyen suyu arasında dönümde 5, 6, hatta 7 ton verim farkı oluşuyor. Çeltik ekilmesine karşı değiliz, o da üretilmeli fakat suyunu ve yolunu ayıracak bir devlet politikası şart. Manyas Barajı'ndan direkt temiz su indirilebilir ya da çeltik suyunun dereye akıtılması engellenebilir.\"\n\n\n\nDüzen, bu yıl da domateste çeltik suyu yüzünden büyük verim kayıpları yaşandığını belirterek, önümüzdeki sezona kadar bu konuda bir adım atılmasını, çözüm bulunmasını istedi.\n\n\"ARTEZYENLE SULADIĞIMIZ ALANDA VERİM İKİ KATINA ÇIKIYOR\"\n\nBölge üreticilerinden Şakir Akkuş ise ilaçlı suyun rekolteyi doğrudan düşürdüğünü ifade ederek, \"Çeltik suyu ile sulanan yerlerde 5-6 ton kayıp yaşıyoruz. İlaçlı su Manyas ve Gönen tarafından buraya ulaşıyor. Kendi imkanlarımızla çözebileceğimiz bir durum değil, bu suyun bize ulaşması önlenmeli\" dedi.\n\n\n\nArtezyen ile sulama yaptığı alanda verimin iki katına çıktığını aktaran Akkuş, \"Dönümde 12-13 tonun altında üretim yapmak zarar etmek demektir. Çeltik üreticisi kazanırken biz zarar etmek istemiyoruz\" diye konuştu.",
+      "summary_tr": "Bursa'nın Karacabey ilçesinde Manyas Gölü'nden sağlanan sulama suyuna çeltik tarlalarındaki zirai ilaç kalıntılarının karışması, salçalık domates üreticilerini tarlada verim kaybıyla karşı karşıya bıraktı.Karacabey Ziraat Odası İkinci Başkanı Ramazan Düzen ve bölge üreticileri, verim kaybına yol açan durumun çözümü için çeltik tahliye sularının sulama kanallarından ayrılmasını istiyor.\n\n\n\nÇELTİK SUYUNDAN ETKİLENEN DOMATESTE DÖNÜM BAŞI 7 TONA VARAN VERİM KAYBI\n\nGölden gelen suyun sebzelerde gelişim bozukluğuna yol açtığını belirten Ramazan Düzen, şunları söyledi:\n\n\"Yaklaşık 220 bin dönüm arazimiz Manyas Gölü'nden gelen suyla sulanıyor. Manyas ve Gönen tarafından çeltik sularının derelere karışması tarım arazilerimize geldiğinde zararlı madde oluşturuyor. Domateslerimiz yapraklarını kıvırıyor ve verim düşüklüğü yaşanıyor. Çeltik sahasından gelen su ile artezyen suyu arasında dönümde 5, 6, hatta 7 ton verim farkı oluşuyor. Çeltik ekilmesine karşı değiliz, o da üretilmeli fakat suyunu ve yolunu ayıracak bir devlet politikası şart. Manyas Barajı'ndan direkt temiz su indirilebilir ya da çeltik suyunun dereye akıtılması engellenebilir.\"\n\n\n\nDüzen, bu yıl da domateste çeltik suyu yüzünden büyük verim kayıpları yaşandığını belirterek, önümüzdeki sezona kadar bu konuda bir adım atılmasını, çözüm bulunmasını istedi.\n\n\"ARTEZYENLE SULADIĞIMIZ ALANDA VERİM İKİ KATINA ÇIKIYOR\"\n\nBölge üreticilerinden Şakir Akkuş ise ilaçlı suyun rekolteyi doğrudan düşürdüğünü ifade ederek, \"Çeltik suyu ile sulanan yerlerde 5-6 ton kayıp yaşıyoruz. İlaçlı su Manyas ve Gönen tarafından buraya ulaşıyor. Kendi imkanlarımızla çözebileceğimiz bir durum değil, bu suyun bize ulaşması önlenmeli\" dedi.\n\n\n\nArtezyen ile sulama yaptığı alanda verimin iki katına çıktığını aktaran Akkuş, \"Dönümde 12-13 tonun altında üretim yapmak zarar etmek demektir. Çeltik üreticisi kazanırken biz zarar etmek istemiyoruz\" diye konuştu.",
+      "long_summary": "Bursa'nın Karacabey ilçesinde Manyas Gölü'nden sağlanan sulama suyuna çeltik tarlalarındaki zirai ilaç kalıntılarının karışması, salçalık domates üreticilerini tarlada verim kaybıyla karşı karşıya bıraktı.Karacabey Ziraat Odası İkinci Başkanı Ramazan Düzen ve bölge üreticileri, verim kaybına yol açan durumun çözümü için çeltik tahliye sularının sulama kanallarından ayrılmasını istiyor.\n\n\n\nÇELTİK SUYUNDAN ETKİLENEN DOMATESTE DÖNÜM BAŞI 7 TONA VARAN VERİM KAYBI\n\nGölden gelen suyun sebzelerde",
+      "long_summary_tr": "Bursa'nın Karacabey ilçesinde Manyas Gölü'nden sağlanan sulama suyuna çeltik tarlalarındaki zirai ilaç kalıntılarının karışması, salçalık domates üreticilerini tarlada verim kaybıyla karşı karşıya bıraktı.Karacabey Ziraat Odası İkinci Başkanı Ramazan Düzen ve bölge üreticileri, verim kaybına yol açan durumun çözümü için çeltik tahliye sularının sulama kanallarından ayrılmasını istiyor.\n\n\n\nÇELTİK SUYUNDAN ETKİLENEN DOMATESTE DÖNÜM BAŞI 7 TONA VARAN VERİM KAYBI\n\nGölden gelen suyun sebzelerde",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-domateste-7-tonluk-kayip-1717619",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/bursa-da-domateste-7-tonluk-kayip-1790406790-604_large.webp",
+      "published_at": "2026-09-26T07:00:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -73,87 +271,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Hull shrugs off post-Solheim illness to charge into LPGA Tour title mix",
-      "title_tr": "Hull shrugs off post-Solheim illness to charge into LPGA Tour title mix",
-      "summary": "Charley Hull overcame post-Solheim Cup illness and a lack of pre-tournament practice to get within two shots of the early lead at the LPGA Tour’s Walmart NW Arkansas Championship.",
-      "summary_tr": "Charley Hull overcame post-Solheim Cup illness and a lack of pre-tournament practice to get within two shots of the early lead at the LPGA Tour’s Walmart NW Arkansas Championship.",
-      "long_summary": "Charley Hull overcame post-Solheim Cup illness and a lack of pre-tournament practice to get within two shots of the early lead at the LPGA Tour’s Walmart NW Arkansas Championship.",
-      "long_summary_tr": "Charley Hull overcame post-Solheim Cup illness and a lack of pre-tournament practice to get within two shots of the early lead at the LPGA Tour’s Walmart NW Arkansas Championship.",
+      "title": "Eye Of Dubai looks to retain Ripon crown",
+      "title_tr": "Eye Of Dubai looks to retain Ripon crown",
+      "summary": "Ripon, Southwell and Belmont Park headline Saturday's action - live on Sky Sports Racing.",
+      "summary_tr": "Ripon, Southwell and Belmont Park headline Saturday's action - live on Sky Sports Racing.",
+      "long_summary": "Ripon, Southwell and Belmont Park headline Saturday's action - live on Sky Sports Racing.",
+      "long_summary_tr": "Ripon, Southwell and Belmont Park headline Saturday's action - live on Sky Sports Racing.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/golf/news/12040/13591897/lpga-tour-englands-charley-hull-overcomes-post-solheim-cup-illness-to-close-on-early-lead-at-nw-arkansas-championship",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-charley-hull-golf_7361367.jpg?20260925200016",
-      "published_at": "2026-09-26T01:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Morgan Stanley’in kamu finansmanı eş başkanı TD’ye geçti",
-      "title_tr": "Morgan Stanley’in kamu finansmanı eş başkanı TD’ye geçti",
-      "summary": "Morgan Stanley’in kamu finansmanı eş başkanı TD’ye geçti",
-      "summary_tr": "Morgan Stanley’in kamu finansmanı eş başkanı TD’ye geçti",
-      "long_summary": "Morgan Stanley’in kamu finansmanı eş başkanı TD’ye geçti",
-      "long_summary_tr": "Morgan Stanley’in kamu finansmanı eş başkanı TD’ye geçti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/morgan-stanleyin-kamu-finansman-es-baskan-tdye-gecti-4079887",
-      "image": "https://content-media.investing.com/news/LYNXNPEAB411K_M.jpg",
-      "published_at": "2026-09-26T00:43:33+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Balkonda çay içerken düşüp öldü",
-      "title_tr": "Balkonda çay içerken düşüp öldü",
-      "summary": "Aksaray'da 5'inci kattaki evinin balkonundan düşen 49 yaşındaki Erol Baysal, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
-      "summary_tr": "Aksaray'da 5'inci kattaki evinin balkonundan düşen 49 yaşındaki Erol Baysal, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
-      "long_summary": "Aksaray'da 5'inci kattaki evinin balkonundan düşen 49 yaşındaki Erol Baysal, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
-      "long_summary_tr": "Aksaray'da 5'inci kattaki evinin balkonundan düşen 49 yaşındaki Erol Baysal, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/balkonda-cay-icerken-dustu-3915164",
-      "image": "https://im.haberturk.com/l/2026/09/25/ver1790383384/3915164/jpg/1920x1080",
-      "published_at": "2026-09-26T00:43:04+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "title_tr": "OpenAI investigating 'dozens' of instances of agents acting improperly",
-      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "summary_tr": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "long_summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "long_summary_tr": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
-      "published_at": "2026-09-26T00:09:45+00:00"
+      "url": "https://www.skysports.com/racing/news/12040/13591386/today-on-sky-sports-racing-eye-of-dubai-looks-to-retain-ripon-crown",
+      "image": "https://e0.365dm.com/26/04/1920x1080/skysports-ripon-racing_7228587.jpg?20260423181530",
+      "published_at": "2026-09-26T07:00:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -161,21 +293,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "Sky Sports",
-      "title": "Scheffler stunned as International secure 5-0 session sweep over USA!",
-      "title_tr": "Scheffler stunned as International secure 5-0 session sweep over USA!",
-      "summary": "Highlights from the second day of the 2026 Presidents Cup, where the International Team impressed during the Friday foursomes.",
-      "summary_tr": "Highlights from the second day of the 2026 Presidents Cup, where the International Team impressed during the Friday foursomes.",
-      "long_summary": "Highlights from the second day of the 2026 Presidents Cup, where the International Team impressed during the Friday foursomes.",
-      "long_summary_tr": "Highlights from the second day of the 2026 Presidents Cup, where the International Team impressed during the Friday foursomes.",
+      "title": "Fisher vs Pirotton - big fight predictions",
+      "title_tr": "Fisher vs Pirotton - big fight predictions",
+      "summary": "Experts have their say ahead of the Johnny Fisher vs Michael Pirotton, Craig Richards vs Radivoje Kalajdzic and Lee Cutler vs Louis Greene fights, live on Sky Sports from 7pm.",
+      "summary_tr": "Experts have their say ahead of the Johnny Fisher vs Michael Pirotton, Craig Richards vs Radivoje Kalajdzic and Lee Cutler vs Louis Greene fights, live on Sky Sports from 7pm.",
+      "long_summary": "Experts have their say ahead of the Johnny Fisher vs Michael Pirotton, Craig Richards vs Radivoje Kalajdzic and Lee Cutler vs Louis Greene fights, live on Sky Sports from 7pm.",
+      "long_summary_tr": "Experts have their say ahead of the Johnny Fisher vs Michael Pirotton, Craig Richards vs Radivoje Kalajdzic and Lee Cutler vs Louis Greene fights, live on Sky Sports from 7pm.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.skysports.com/watch/video/13591969/presidents-cup-day-two-highlights",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-golf-presidents-cup_7361493.jpg?20260926000334",
-      "published_at": "2026-09-25T23:58:00+00:00"
+      "url": "https://www.skysports.com/boxing/news/12040/13591951/johnny-fisher-vs-michael-pirotton-big-fight-predictions-who-will-win-key-copper-box-clashes-as-heavyweights-collide",
+      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-johnny-fisher-michael-pirotton_7361457.jpg?20260925223504",
+      "published_at": "2026-09-26T07:00:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -183,175 +315,65 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "İngiltere Başbakanı Burnham'dan İskoçya açıklaması",
-      "title_tr": "İngiltere Başbakanı Burnham'dan İskoçya açıklaması",
-      "summary": "İngiltere Başbakanı Andy Burnham, ülkede erken genel seçim yapılacağı iddialarını reddederken İskoçya'nın bağımsızlığı için tekrar bir referandum yapılmayacağını belirtti",
-      "summary_tr": "İngiltere Başbakanı Andy Burnham, ülkede erken genel seçim yapılacağı iddialarını reddederken İskoçya'nın bağımsızlığı için tekrar bir referandum yapılmayacağını belirtti",
-      "long_summary": "İngiltere Başbakanı Andy Burnham, ülkede erken genel seçim yapılacağı iddialarını reddederken İskoçya'nın bağımsızlığı için tekrar bir referandum yapılmayacağını belirtti",
-      "long_summary_tr": "İngiltere Başbakanı Andy Burnham, ülkede erken genel seçim yapılacağı iddialarını reddederken İskoçya'nın bağımsızlığı için tekrar bir referandum yapılmayacağını belirtti",
+      "title": "Türkan Şoray'ın eğlenceli anları",
+      "title_tr": "Türkan Şoray'ın eğlenceli anları",
+      "summary": "Türkan Şoray, Tekirdağ'da düzenlenen 1'inci Uluslararası Gastronomi ve Bağcılık Festivali kapsamındaki 'Tekirdağ Sultan Sofrası' etkinliğine katıldı. Usta oyuncu, sahnede 'Tekirdağ'ın Üzümü' şarkısı eşliğinde dans etti",
+      "summary_tr": "Türkan Şoray, Tekirdağ'da düzenlenen 1'inci Uluslararası Gastronomi ve Bağcılık Festivali kapsamındaki 'Tekirdağ Sultan Sofrası' etkinliğine katıldı. Usta oyuncu, sahnede 'Tekirdağ'ın Üzümü' şarkısı eşliğinde dans etti",
+      "long_summary": "Türkan Şoray, Tekirdağ'da düzenlenen 1'inci Uluslararası Gastronomi ve Bağcılık Festivali kapsamındaki 'Tekirdağ Sultan Sofrası' etkinliğine katıldı. Usta oyuncu, sahnede 'Tekirdağ'ın Üzümü' şarkısı eşliğinde dans etti",
+      "long_summary_tr": "Türkan Şoray, Tekirdağ'da düzenlenen 1'inci Uluslararası Gastronomi ve Bağcılık Festivali kapsamındaki 'Tekirdağ Sultan Sofrası' etkinliğine katıldı. Usta oyuncu, sahnede 'Tekirdağ'ın Üzümü' şarkısı eşliğinde dans etti",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/dunya/ingiltere-basbakani-burnham-dan-iskocya-aciklamasi-3915204",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790380399/3915204/jpg/1920x1080",
-      "published_at": "2026-09-25T23:54:22+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "EA Sports FC 27 Review",
-      "title_tr": "EA Sports FC 27 Review",
-      "summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-      "summary_tr": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-      "long_summary": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-      "long_summary_tr": "EA Sports stands on shaky ground with a new open-world hub, but the realistic, intuitive Tactics system shows promise.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/ea-sports-fc-27-review",
-      "image": "https://assets-prd.ignimgs.com/2026/09/19/ea-fc-27-1789778341891.jpg",
-      "published_at": "2026-09-25T23:50:24+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "How Taylor and Conners stunned Scheffler and Burns at the Presidents Cup",
-      "title_tr": "How Taylor and Conners stunned Scheffler and Burns at the Presidents Cup",
-      "summary": "Highlights from Scottie Scheffler and Sam Burns' final hole foursomes defeat to Corey Conners and Nick Taylor at the Presidents Cup.",
-      "summary_tr": "Highlights from Scottie Scheffler and Sam Burns' final hole foursomes defeat to Corey Conners and Nick Taylor at the Presidents Cup.",
-      "long_summary": "Highlights from Scottie Scheffler and Sam Burns' final hole foursomes defeat to Corey Conners and Nick Taylor at the Presidents Cup.",
-      "long_summary_tr": "Highlights from Scottie Scheffler and Sam Burns' final hole foursomes defeat to Corey Conners and Nick Taylor at the Presidents Cup.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13591967/scottie-scheffler-stunned-as-internationals-secure-5-0-clean-sweep",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-golf-scheffler_7361490.jpg?20260925235821",
-      "published_at": "2026-09-25T23:47:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
-      "title_tr": "Papers: Parish tells Liverpool £50m Sarr move was 'never going to happen'",
-      "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "summary_tr": "The top stories and transfer rumours from Saturday's newspapers...",
-      "long_summary": "The top stories and transfer rumours from Saturday's newspapers...",
-      "long_summary_tr": "The top stories and transfer rumours from Saturday's newspapers...",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13591966/transfer-news-crystal-palace-chairman-steve-parish-tells-liverpool-accepting-50m-ismaila-sarr-bid-was-never-going-to-happen-paper-talk",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published_at": "2026-09-25T23:45:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Are Ethiopians marching back to war in Tigray?",
-      "title_tr": "Are Ethiopians marching back to war in Tigray?",
-      "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "summary_tr": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "long_summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "long_summary_tr": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/058e/live/a94bfae0-b905-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published_at": "2026-09-25T23:42:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "title_tr": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "summary_tr": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "long_summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "long_summary_tr": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
-      "published_at": "2026-09-25T23:38:48+00:00"
+      "url": "https://www.haberturk.com/magazin/turkan-soray-sahnede-dans-etti-3915159",
+      "image": "https://im.haberturk.com/l/2026/09/25/ver1790404269/3915159/jpg/1920x1080",
+      "published_at": "2026-09-26T06:59:51+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "Citigroup, Banamex halka arzı için 3 milyar dolar hedefliyor",
-      "title_tr": "Citigroup, Banamex halka arzı için 3 milyar dolar hedefliyor",
-      "summary": "Citigroup, Banamex halka arzı için 3 milyar dolar hedefliyor",
-      "summary_tr": "Citigroup, Banamex halka arzı için 3 milyar dolar hedefliyor",
-      "long_summary": "Citigroup, Banamex halka arzı için 3 milyar dolar hedefliyor",
-      "long_summary_tr": "Citigroup, Banamex halka arzı için 3 milyar dolar hedefliyor",
+      "source": "Dünya Gazetesi",
+      "title": "Yapay zekânın görünmeyen faturası: 1 milyar görsel için 29 milyon litre su",
+      "title_tr": "Yapay zekânın görünmeyen faturası: 1 milyar görsel için 29 milyon litre su",
+      "summary": "Yapay zekâ ile saniyeler içinde üretilen görsellerin arkasındaki enerji ve su tüketimi giderek büyüyor. Yeni hesaplamalar, 1 milyar yapay zekâ görselinin oluşturulmasının yaklaşık 29 milyon litre su tüketimine karşılık gelebileceğini ortaya koyuyor.",
+      "summary_tr": "Yapay zekâ ile saniyeler içinde üretilen görsellerin arkasındaki enerji ve su tüketimi giderek büyüyor. Yeni hesaplamalar, 1 milyar yapay zekâ görselinin oluşturulmasının yaklaşık 29 milyon litre su tüketimine karşılık gelebileceğini ortaya koyuyor.",
+      "long_summary": "Yapay zekâ ile saniyeler içinde üretilen görsellerin arkasındaki enerji ve su tüketimi giderek büyüyor. Yeni hesaplamalar, 1 milyar yapay zekâ görselinin oluşturulmasının yaklaşık 29 milyon litre su tüketimine karşılık gelebileceğini ortaya koyuyor.",
+      "long_summary_tr": "Yapay zekâ ile saniyeler içinde üretilen görsellerin arkasındaki enerji ve su tüketimi giderek büyüyor. Yeni hesaplamalar, 1 milyar yapay zekâ görselinin oluşturulmasının yaklaşık 29 milyon litre su tüketimine karşılık gelebileceğini ortaya koyuyor.",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/citigroup-banamex-halka-arz-icin-3-milyar-dolar-hedefliyor-4079872",
-      "image": "https://content-media.investing.com/news/LYNXMPEA6K03L_M.jpg",
-      "published_at": "2026-09-25T23:31:35+00:00"
+      "url": "https://www.dunya.com/foto-galeri/gundem/yapay-zekanin-gorunmeyen-faturasi-1-milyar-gorsel-icin-29-milyon-litre-su-galeri-841517",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/26/0000-yapay-zeka-dbyh_cover.jpg",
+      "published_at": "2026-09-26T06:53:00+00:00"
     },
     {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "title_tr": "South African white genocide does not exist, new ambassador to US tells BBC",
-      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "summary_tr": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "long_summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-      "long_summary_tr": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa’da toplu ulaşımda yeni düzenleme! 16 hatta ek sefer kararı",
+      "title_tr": "Bursa’da toplu ulaşımda yeni düzenleme! 16 hatta ek sefer kararı",
+      "summary": "Bursa’da yolcu ve trafik yoğunluğuna yönelik iki haftalık incelemenin ardından toplu ulaşımda yeni düzenlemeye gidildi. Bursa Özel Halk Otobüsleri tarafından yapılan duyuruya göre 16 hatta ek sefer kararı alınırken, seferlerin büyük bölümünün minibüsle işletilen hatlara otobüs takviyesi şeklinde uygulanacağı belirtildi. Mudanya Üniversitesi ulaşımında kullanılan 14/L ve 14/L3 hatları da ek sefer düzenlenen hatlar arasında yer aldı.Bursa’da toplu ulaşımı kullanan vatandaşları ilgilendiren yeni bir sefer düzenlemesi duyuruldu.\n\nBursa Özel Halk Otobüsleri tarafından 26 Eylül 2026 tarihinde yapılan açıklamada, son iki hafta boyunca yönetim ve çözüm ekibi tarafından yolcu ve trafik yoğunluğuna ilişkin kapsamlı analizler gerçekleştirildiği belirtildi.\n\nYapılan değerlendirmelerin ardından bazı toplu taşıma hatlarına ek sefer konulmasına karar verildi.\n\nBURSA’DA 16 HATTA EK SEFER\n\nDuyuruda ek seferlerin büyük bölümünün, minibüsle işletilen hatlara otobüs takviyesi şeklinde uygulanacağı ifade edildi.\n\nEk sefer düzenlenen hatlar şöyle açıklandı:\n\nB/2, H/3, B/10, B/12, 14/L, 14/L3, 14/N, B/16A, B/20A, B/20C, B/31, B/32, B/33A, B/35K1, B/36 ve B/36M.\n\nPaylaşılan listede ayrıca 97/A ibaresi de yer alıyor; ancak metindeki “ek sefer yapılan hatlar” bölümünün satır düzeni nedeniyle bunun aynı liste kapsamında nasıl değerlendirildiğine ilişkin ayrıca bir açıklama bulunmuyor.\n\nMUDANYA ÜNİVERSİTESİ ULAŞIMINDA 14/L VE 14/L3\n\nEk sefer kararı alınan hatlar arasında 14/L ve 14/L3 de bulunuyor.\n\nVerilen bilgilere göre bu hatlar Acemler İstasyonu’ndan hareket ederek Hürriyet, Esentepe, Hamitler/Fethiye İstasyonu, Organize Sanayi İstasyonu, Korupark, Emek İstasyonu ve Geçit İstasyonu güzergâhından geçerek Mudanya Üniversitesi güvenliğine kadar ulaşıyor.\n\nMudanya Üniversitesi’nden metro istasyonuna ulaşım için ise araçlar üniversite kampüsü içerisinden hareket ederek mevcut güzergâhını takip ediyor.\n\nMUDANYA ÜNİVERSİTESİ’NDEN METRO YÖNÜNE HAREKET SAATLERİ\n\nPaylaşılan programa göre Mudanya Üniversitesi’nden metro yönüne 14/L ve 14/L3 hatlarıyla ulaşımda hareket saatleri şöyle:\n\n09.55, 10.15, 10.55, 11.20, 11.55, 12.20, 12.55, 13.20, 13.55, 14.20, 14.55, 15.20, 15.50, 16.15, 16.45, 17.20, 17.55, 18.20 ve 18.55.\n\nHatların diğer hareket saatleri ve ayrıntılı güzergâh bilgilerinin BursaKart uygulaması üzerinden öğrenilebileceği belirtildi.",
+      "summary_tr": "Bursa’da yolcu ve trafik yoğunluğuna yönelik iki haftalık incelemenin ardından toplu ulaşımda yeni düzenlemeye gidildi. Bursa Özel Halk Otobüsleri tarafından yapılan duyuruya göre 16 hatta ek sefer kararı alınırken, seferlerin büyük bölümünün minibüsle işletilen hatlara otobüs takviyesi şeklinde uygulanacağı belirtildi. Mudanya Üniversitesi ulaşımında kullanılan 14/L ve 14/L3 hatları da ek sefer düzenlenen hatlar arasında yer aldı.Bursa’da toplu ulaşımı kullanan vatandaşları ilgilendiren yeni bir sefer düzenlemesi duyuruldu.\n\nBursa Özel Halk Otobüsleri tarafından 26 Eylül 2026 tarihinde yapılan açıklamada, son iki hafta boyunca yönetim ve çözüm ekibi tarafından yolcu ve trafik yoğunluğuna ilişkin kapsamlı analizler gerçekleştirildiği belirtildi.\n\nYapılan değerlendirmelerin ardından bazı toplu taşıma hatlarına ek sefer konulmasına karar verildi.\n\nBURSA’DA 16 HATTA EK SEFER\n\nDuyuruda ek seferlerin büyük bölümünün, minibüsle işletilen hatlara otobüs takviyesi şeklinde uygulanacağı ifade edildi.\n\nEk sefer düzenlenen hatlar şöyle açıklandı:\n\nB/2, H/3, B/10, B/12, 14/L, 14/L3, 14/N, B/16A, B/20A, B/20C, B/31, B/32, B/33A, B/35K1, B/36 ve B/36M.\n\nPaylaşılan listede ayrıca 97/A ibaresi de yer alıyor; ancak metindeki “ek sefer yapılan hatlar” bölümünün satır düzeni nedeniyle bunun aynı liste kapsamında nasıl değerlendirildiğine ilişkin ayrıca bir açıklama bulunmuyor.\n\nMUDANYA ÜNİVERSİTESİ ULAŞIMINDA 14/L VE 14/L3\n\nEk sefer kararı alınan hatlar arasında 14/L ve 14/L3 de bulunuyor.\n\nVerilen bilgilere göre bu hatlar Acemler İstasyonu’ndan hareket ederek Hürriyet, Esentepe, Hamitler/Fethiye İstasyonu, Organize Sanayi İstasyonu, Korupark, Emek İstasyonu ve Geçit İstasyonu güzergâhından geçerek Mudanya Üniversitesi güvenliğine kadar ulaşıyor.\n\nMudanya Üniversitesi’nden metro istasyonuna ulaşım için ise araçlar üniversite kampüsü içerisinden hareket ederek mevcut güzergâhını takip ediyor.\n\nMUDANYA ÜNİVERSİTESİ’NDEN METRO YÖNÜNE HAREKET SAATLERİ\n\nPaylaşılan programa göre Mudanya Üniversitesi’nden metro yönüne 14/L ve 14/L3 hatlarıyla ulaşımda hareket saatleri şöyle:\n\n09.55, 10.15, 10.55, 11.20, 11.55, 12.20, 12.55, 13.20, 13.55, 14.20, 14.55, 15.20, 15.50, 16.15, 16.45, 17.20, 17.55, 18.20 ve 18.55.\n\nHatların diğer hareket saatleri ve ayrıntılı güzergâh bilgilerinin BursaKart uygulaması üzerinden öğrenilebileceği belirtildi.",
+      "long_summary": "Bursa’da yolcu ve trafik yoğunluğuna yönelik iki haftalık incelemenin ardından toplu ulaşımda yeni düzenlemeye gidildi. Bursa Özel Halk Otobüsleri tarafından yapılan duyuruya göre 16 hatta ek sefer kararı alınırken, seferlerin büyük bölümünün minibüsle işletilen hatlara otobüs takviyesi şeklinde uygulanacağı belirtildi. Mudanya Üniversitesi ulaşımında kullanılan 14/L ve 14/L3 hatları da ek sefer düzenlenen hatlar arasında yer aldı.Bursa’da toplu ulaşımı kullanan vatandaşları ilgilendiren yeni",
+      "long_summary_tr": "Bursa’da yolcu ve trafik yoğunluğuna yönelik iki haftalık incelemenin ardından toplu ulaşımda yeni düzenlemeye gidildi. Bursa Özel Halk Otobüsleri tarafından yapılan duyuruya göre 16 hatta ek sefer kararı alınırken, seferlerin büyük bölümünün minibüsle işletilen hatlara otobüs takviyesi şeklinde uygulanacağı belirtildi. Mudanya Üniversitesi ulaşımında kullanılan 14/L ve 14/L3 hatları da ek sefer düzenlenen hatlar arasında yer aldı.Bursa’da toplu ulaşımı kullanan vatandaşları ilgilendiren yeni",
       "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg",
-      "published_at": "2026-09-25T23:20:48+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-toplu-ulasimda-yeni-duzenleme-16-hatta-ek-sefer-karari-1717616",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/bursa-da-toplu-ulasimda-yeni-duzenleme-16-hatta-ek-sefer-karari-1790406158-577_large.webp",
+      "published_at": "2026-09-26T06:52:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -359,131 +381,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "International team lead US in Presidents Cup",
-      "title_tr": "International team lead US in Presidents Cup",
-      "summary": "The International team produce a brilliant fightback in the foursomes on day two of the Presidents Cup to take a 7-3 lead over the United States.",
-      "summary_tr": "The International team produce a brilliant fightback in the foursomes on day two of the Presidents Cup to take a 7-3 lead over the United States.",
-      "long_summary": "The International team produce a brilliant fightback in the foursomes on day two of the Presidents Cup to take a 7-3 lead over the United States.",
-      "long_summary_tr": "The International team produce a brilliant fightback in the foursomes on day two of the Presidents Cup to take a 7-3 lead over the United States.",
+      "title": "The MMA fighter helping Brighton - and filling stadiums",
+      "title_tr": "The MMA fighter helping Brighton - and filling stadiums",
+      "summary": "From helping Brighton with set pieces to fighting in front of nearly 60,000 people - meet MMA star Christian Eckerlin, who competes at Oktagon 94 in Frankfurt on Saturday.",
+      "summary_tr": "From helping Brighton with set pieces to fighting in front of nearly 60,000 people - meet MMA star Christian Eckerlin, who competes at Oktagon 94 in Frankfurt on Saturday.",
+      "long_summary": "From helping Brighton with set pieces to fighting in front of nearly 60,000 people - meet MMA star Christian Eckerlin, who competes at Oktagon 94 in Frankfurt on Saturday.",
+      "long_summary_tr": "From helping Brighton with set pieces to fighting in front of nearly 60,000 people - meet MMA star Christian Eckerlin, who competes at Oktagon 94 in Frankfurt on Saturday.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cwp933xj0z5ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a9/live/83da1680-b931-11f1-902b-af1a6d672907.jpg",
-      "published_at": "2026-09-25T23:10:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "title_tr": "As Merz scrambles for support, Germany's identity crisis is laid bare",
-      "summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "summary_tr": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "long_summary": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "long_summary_tr": "Voters are turning away from the centre in Germany as fears grow about the economy and migration.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cmx2zlqeje9zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/65e845d0-b80e-11f1-b205-219f899eccc7.jpg",
-      "published_at": "2026-09-25T23:08:02+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "GameSpot",
-      "title": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
-      "title_tr": "Microsoft CEO Attempts To Kill Remaining Xbox Goodwill",
-      "summary": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n\n\n\n\"There's some amount of streamlining the team is doing, and Asha is doing, which is great to see,\" said Nadella during his appearance on the Sources Podcast. He also noted that he feels \"fantastic about the IP we have right now. If I look at the studios, the IP portfolio we have, and our ability to then take that and produce great games going forward, I feel fantastic.\"\n\n\n\n\"We have to invent the right sustainable business model that allows us to deliver gaming to more and more people,\" added Nadella.\n\n\n\nRegarding AI, Nadella questioned why Western consumers are so skeptical about the technology compared to other parts of the world.\n\n\n\n\"I think we've not given [AI] breathing space,\" said Nadella. \"In fact ... I was reading the Gallup poll on AI and it's not good in the West. What's also very interesting … it's not a uniform thing around the world. And in fact that's the thing we should ask: 'What did we get wrong in the West that these other countries may not have?' Why are people in Nigeria more optimistic about AI than in the United States?' And I think we should reflect on it and my belief here is the industry [has] to earn the trust [and] show the benefits to both consumers and enterprises and the communities. And then ... we'll be fine. But without it, just any amount of just celebrating technology for technologies sake is not working.\"\n\n\n\nProminent AI skeptic Ed Zitron has blamed Xbox's precarious position on \"catastrophic mismanagement\" by Microsoft and AI bets that didn't pan out. Even after the most recent layoffs, there are indications that more job cuts are coming to Xbox.",
-      "summary_tr": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n\n\n\n\"There's some amount of streamlining the team is doing, and Asha is doing, which is great to see,\" said Nadella during his appearance on the Sources Podcast. He also noted that he feels \"fantastic about the IP we have right now. If I look at the studios, the IP portfolio we have, and our ability to then take that and produce great games going forward, I feel fantastic.\"\n\n\n\n\"We have to invent the right sustainable business model that allows us to deliver gaming to more and more people,\" added Nadella.\n\n\n\nRegarding AI, Nadella questioned why Western consumers are so skeptical about the technology compared to other parts of the world.\n\n\n\n\"I think we've not given [AI] breathing space,\" said Nadella. \"In fact ... I was reading the Gallup poll on AI and it's not good in the West. What's also very interesting … it's not a uniform thing around the world. And in fact that's the thing we should ask: 'What did we get wrong in the West that these other countries may not have?' Why are people in Nigeria more optimistic about AI than in the United States?' And I think we should reflect on it and my belief here is the industry [has] to earn the trust [and] show the benefits to both consumers and enterprises and the communities. And then ... we'll be fine. But without it, just any amount of just celebrating technology for technologies sake is not working.\"\n\n\n\nProminent AI skeptic Ed Zitron has blamed Xbox's precarious position on \"catastrophic mismanagement\" by Microsoft and AI bets that didn't pan out. Even after the most recent layoffs, there are indications that more job cuts are coming to Xbox.",
-      "long_summary": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n\n\n\n\"There's some amount of streamlining the team is doing, and Asha is doing, which is great to see,\" said Nadella during his appearance on the Sources Podcast. He also noted that he feels \"fantastic",
-      "long_summary_tr": "After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step.\n\n\n\n\"There's some amount of streamlining the team is doing, and Asha is doing, which is great to see,\" said Nadella during his appearance on the Sources Podcast. He also noted that he feels \"fantastic",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-1.png?w=300",
-      "published_at": "2026-09-25T23:06:32+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "title_tr": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "summary_tr": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "long_summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "long_summary_tr": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg",
-      "published_at": "2026-09-25T23:05:40+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Northampton, Bath begin Prem season with crushing wins as Pollock sports new hair",
-      "title_tr": "Northampton, Bath begin Prem season with crushing wins as Pollock sports new hair",
-      "summary": "Friday's opening night of the Prem Rugby season sees defending champions Northampton Saints and Bath post crushing wins over Newcastle Red Bulls and Harlequins...",
-      "summary_tr": "Friday's opening night of the Prem Rugby season sees defending champions Northampton Saints and Bath post crushing wins over Newcastle Red Bulls and Harlequins...",
-      "long_summary": "Friday's opening night of the Prem Rugby season sees defending champions Northampton Saints and Bath post crushing wins over Newcastle Red Bulls and Harlequins...",
-      "long_summary_tr": "Friday's opening night of the Prem Rugby season sees defending champions Northampton Saints and Bath post crushing wins over Newcastle Red Bulls and Harlequins...",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-union/news/12040/13591923/prem-rugby-northampton-saints-bath-begin-season-with-crushing-wins-vs-newcastle-red-bulls-harlequins-as-henry-pollock-sports-new-hair",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-henry-pollock-northampton_7361475.jpg?20260925230940",
-      "published_at": "2026-09-25T23:00:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Internationals stun USA with session sweep to build shock Presidents Cup lead",
-      "title_tr": "Internationals stun USA with session sweep to build shock Presidents Cup lead",
-      "summary": "Team USA's hopes of an 11th consecutive Presidents Cup win suffered a major setback after the Internationals produced a stunning foursomes session sweep to build a shock 7-3 lead.",
-      "summary_tr": "Team USA's hopes of an 11th consecutive Presidents Cup win suffered a major setback after the Internationals produced a stunning foursomes session sweep to build a shock 7-3 lead.",
-      "long_summary": "Team USA's hopes of an 11th consecutive Presidents Cup win suffered a major setback after the Internationals produced a stunning foursomes session sweep to build a shock 7-3 lead.",
-      "long_summary_tr": "Team USA's hopes of an 11th consecutive Presidents Cup win suffered a major setback after the Internationals produced a stunning foursomes session sweep to build a shock 7-3 lead.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/golf/news/12040/13591892/presidents-cup-international-team-stun-team-usa-with-session-sweep-in-friday-foursomes-to-build-shock-lead-at-medinah",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-scottie-scheffler_7361489.jpg?20260925234917",
-      "published_at": "2026-09-25T23:00:00+00:00"
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crq8j9572vejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d30/live/31c1d9f0-b823-11f1-9173-8b6ede38f022.jpg",
+      "published_at": "2026-09-26T06:50:40+00:00"
     },
     {
       "origin": "turkiye",
@@ -491,43 +403,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "BİM 29 Eylül 2026 aktüel ürünler kataloğu",
-      "title_tr": "BİM 29 Eylül 2026 aktüel ürünler kataloğu",
-      "summary": "Yeni haftanın BİM aktüel ürünler kataloğu indirimleri belli oldu. 29 Eylül 2026 Salı BİM aktüel indirimlerinde kahve, bisküvi, pasta süsleri, süt ve süt ürünleri yer alıyor. BİM aktüel ürünler kataloğunda Moliendo çekirdek kahve 250 g 295 TL, Nescafe 25'li hazır kahve çeşitleri (3'ü 1 arada / 2'si 1 arada) 189 TL, Abdullah Efendi aromalı Türk Kahvesi çeşitleri 100 g 49,50 TL’den satışa çıkıyor. İşte, BİM aktüel ürünler kataloğu indirimli listesi",
-      "summary_tr": "Yeni haftanın BİM aktüel ürünler kataloğu indirimleri belli oldu. 29 Eylül 2026 Salı BİM aktüel indirimlerinde kahve, bisküvi, pasta süsleri, süt ve süt ürünleri yer alıyor. BİM aktüel ürünler kataloğunda Moliendo çekirdek kahve 250 g 295 TL, Nescafe 25'li hazır kahve çeşitleri (3'ü 1 arada / 2'si 1 arada) 189 TL, Abdullah Efendi aromalı Türk Kahvesi çeşitleri 100 g 49,50 TL’den satışa çıkıyor. İşte, BİM aktüel ürünler kataloğu indirimli listesi",
-      "long_summary": "Yeni haftanın BİM aktüel ürünler kataloğu indirimleri belli oldu. 29 Eylül 2026 Salı BİM aktüel indirimlerinde kahve, bisküvi, pasta süsleri, süt ve süt ürünleri yer alıyor. BİM aktüel ürünler kataloğunda Moliendo çekirdek kahve 250 g 295 TL, Nescafe 25'li hazır kahve çeşitleri (3'ü 1 arada / 2'si 1 arada) 189 TL, Abdullah Efendi aromalı Türk Kahvesi çeşitleri 100 g 49,50 TL’den satışa çıkıyor. İşte, BİM aktüel ürünler kataloğu indirimli listesi",
-      "long_summary_tr": "Yeni haftanın BİM aktüel ürünler kataloğu indirimleri belli oldu. 29 Eylül 2026 Salı BİM aktüel indirimlerinde kahve, bisküvi, pasta süsleri, süt ve süt ürünleri yer alıyor. BİM aktüel ürünler kataloğunda Moliendo çekirdek kahve 250 g 295 TL, Nescafe 25'li hazır kahve çeşitleri (3'ü 1 arada / 2'si 1 arada) 189 TL, Abdullah Efendi aromalı Türk Kahvesi çeşitleri 100 g 49,50 TL’den satışa çıkıyor. İşte, BİM aktüel ürünler kataloğu indirimli listesi",
+      "title": "Bakan Memişoğlu'ndan ülkelere 'ortak sorumluluk' çağrısı",
+      "title_tr": "Bakan Memişoğlu'ndan ülkelere 'ortak sorumluluk' çağrısı",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, pandemilerin küresel sağlık güvenliğinin \"kolektif eylem gerektiren ortak bir sorumluluk\" olduğunu gösterdiğini belirtti",
+      "summary_tr": "Sağlık Bakanı Kemal Memişoğlu, pandemilerin küresel sağlık güvenliğinin \"kolektif eylem gerektiren ortak bir sorumluluk\" olduğunu gösterdiğini belirtti",
+      "long_summary": "Sağlık Bakanı Kemal Memişoğlu, pandemilerin küresel sağlık güvenliğinin \"kolektif eylem gerektiren ortak bir sorumluluk\" olduğunu gösterdiğini belirtti",
+      "long_summary_tr": "Sağlık Bakanı Kemal Memişoğlu, pandemilerin küresel sağlık güvenliğinin \"kolektif eylem gerektiren ortak bir sorumluluk\" olduğunu gösterdiğini belirtti",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/foto/bim-29-eylul-2026-aktuel-urunler-katalogu-kahve-cesitleri-geliyor-bim-aktuel-urunler-katalogunda-neler-var-3915201",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790376306/3915201/jpg/1920x1080",
-      "published_at": "2026-09-25T22:45:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Wilkin: Warrington winner was not a penalty - 'Not enough contact!'",
-      "title_tr": "Wilkin: Warrington winner was not a penalty - 'Not enough contact!'",
-      "summary": "Jon Wilkin has his say on the controversial penalty call that rewarded Warrington Wolves with the win over the Leeds Rhinos.",
-      "summary_tr": "Jon Wilkin has his say on the controversial penalty call that rewarded Warrington Wolves with the win over the Leeds Rhinos.",
-      "long_summary": "Jon Wilkin has his say on the controversial penalty call that rewarded Warrington Wolves with the win over the Leeds Rhinos.",
-      "long_summary_tr": "Jon Wilkin has his say on the controversial penalty call that rewarded Warrington Wolves with the win over the Leeds Rhinos.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13591956/warrington-wolves-vs-leeds-rhinos-jon-wilkin-says-warrington-winner-was-not-penalty-not-enough-contact-to-knock-williams-over",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-rugby-jinkins_7361460.jpg?20260925224544",
-      "published_at": "2026-09-25T22:42:00+00:00"
+      "url": "https://www.haberturk.com/saglik/bakan-memisoglu-ndan-kuresel-saglik-guvenligi-icin-ortak-sorumluluk-cagrisi-3915215",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790405017/3915215/jpg/1920x1080",
+      "published_at": "2026-09-26T06:46:59+00:00"
     },
     {
       "origin": "turkiye",
@@ -535,21 +425,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Afyonkarahisar'da 4 araçlık feci kaza! 1 ölü, 7 yaralı",
-      "title_tr": "Afyonkarahisar'da 4 araçlık feci kaza! 1 ölü, 7 yaralı",
-      "summary": "Afyonkarahisar'da tuğla yüklü TIR ile 3 otomobilin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 7 kişi yaralandı",
-      "summary_tr": "Afyonkarahisar'da tuğla yüklü TIR ile 3 otomobilin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 7 kişi yaralandı",
-      "long_summary": "Afyonkarahisar'da tuğla yüklü TIR ile 3 otomobilin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 7 kişi yaralandı",
-      "long_summary_tr": "Afyonkarahisar'da tuğla yüklü TIR ile 3 otomobilin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 7 kişi yaralandı",
+      "title": "Osmanlı'nın 'en süslü' hamamı yeniden hayat buluyor",
+      "title_tr": "Osmanlı'nın 'en süslü' hamamı yeniden hayat buluyor",
+      "summary": "Edirne'de zengin süslemeleriyle öne çıkan 600 yıllık Gazi Mihal Hamamı'nın restorasyonunda sona yaklaşıldı. Uzun yıllar bakımsız kalan tarihi yapı, aslına uygun şekilde yeniden ayağa kaldırılıyor",
+      "summary_tr": "Edirne'de zengin süslemeleriyle öne çıkan 600 yıllık Gazi Mihal Hamamı'nın restorasyonunda sona yaklaşıldı. Uzun yıllar bakımsız kalan tarihi yapı, aslına uygun şekilde yeniden ayağa kaldırılıyor",
+      "long_summary": "Edirne'de zengin süslemeleriyle öne çıkan 600 yıllık Gazi Mihal Hamamı'nın restorasyonunda sona yaklaşıldı. Uzun yıllar bakımsız kalan tarihi yapı, aslına uygun şekilde yeniden ayağa kaldırılıyor",
+      "long_summary_tr": "Edirne'de zengin süslemeleriyle öne çıkan 600 yıllık Gazi Mihal Hamamı'nın restorasyonunda sona yaklaşıldı. Uzun yıllar bakımsız kalan tarihi yapı, aslına uygun şekilde yeniden ayağa kaldırılıyor",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/gundem/afyonkarahisar-da-4-araclik-feci-kaza-1-olu-7-yarali-3915198",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790376054/3915198/jpg/1920x1080",
-      "published_at": "2026-09-25T22:41:49+00:00"
+      "url": "https://www.haberturk.com/yasam/osmanli-nin-en-suslu-hamamlarindan-gazi-mihal-yeniden-ayaga-kaldiriliyor-3915216",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790405172/3915216/jpg/1920x1080",
+      "published_at": "2026-09-26T06:46:50+00:00"
     },
     {
       "origin": "turkiye",
@@ -557,65 +447,43 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "\"Fransa'yı elimizden kaçırdık\"",
-      "title_tr": "\"Fransa'yı elimizden kaçırdık\"",
-      "summary": "A Milli Futbol Takımımız'ın defans oyuncusu Abdülkerim Bardakcı, UEFA Uluslar A Ligi 1’inci Grup ilk maçında Fransa'ya 1-0 mağlup oldukları karşılaşmayı değerlendirdi. Fransa'yı elinden kaçırdıklarını belirten Bardakcı, \"Kocaeli halkına teşekkür ederiz. Müthiş bir destek... Fransa'yı elimizden kaçırdık. Net pozisyonlarımız var. Net bir tane pozisyonları var, golü buldular. Önümüzdeki maçlara bakacağız.\" dedi.",
-      "summary_tr": "A Milli Futbol Takımımız'ın defans oyuncusu Abdülkerim Bardakcı, UEFA Uluslar A Ligi 1’inci Grup ilk maçında Fransa'ya 1-0 mağlup oldukları karşılaşmayı değerlendirdi. Fransa'yı elinden kaçırdıklarını belirten Bardakcı, \"Kocaeli halkına teşekkür ederiz. Müthiş bir destek... Fransa'yı elimizden kaçırdık. Net pozisyonlarımız var. Net bir tane pozisyonları var, golü buldular. Önümüzdeki maçlara bakacağız.\" dedi.",
-      "long_summary": "A Milli Futbol Takımımız'ın defans oyuncusu Abdülkerim Bardakcı, UEFA Uluslar A Ligi 1’inci Grup ilk maçında Fransa'ya 1-0 mağlup oldukları karşılaşmayı değerlendirdi. Fransa'yı elinden kaçırdıklarını belirten Bardakcı, \"Kocaeli halkına teşekkür ederiz. Müthiş bir destek... Fransa'yı elimizden kaçırdık. Net pozisyonlarımız var. Net bir tane pozisyonları var, golü buldular. Önümüzdeki maçlara bakacağız.\" dedi.",
-      "long_summary_tr": "A Milli Futbol Takımımız'ın defans oyuncusu Abdülkerim Bardakcı, UEFA Uluslar A Ligi 1’inci Grup ilk maçında Fransa'ya 1-0 mağlup oldukları karşılaşmayı değerlendirdi. Fransa'yı elinden kaçırdıklarını belirten Bardakcı, \"Kocaeli halkına teşekkür ederiz. Müthiş bir destek... Fransa'yı elimizden kaçırdık. Net pozisyonlarımız var. Net bir tane pozisyonları var, golü buldular. Önümüzdeki maçlara bakacağız.\" dedi.",
+      "title": "Akdeniz'de 'çizgili papaz' şaşkınlığı",
+      "title_tr": "Akdeniz'de 'çizgili papaz' şaşkınlığı",
+      "summary": "Tropik, ılıman denizlerde yaşayan ve görünümü nedeniyle 'çizgili papaz balığı' adı verilen balık türü, Antalya Körfezi'nde görüntülendi",
+      "summary_tr": "Tropik, ılıman denizlerde yaşayan ve görünümü nedeniyle 'çizgili papaz balığı' adı verilen balık türü, Antalya Körfezi'nde görüntülendi",
+      "long_summary": "Tropik, ılıman denizlerde yaşayan ve görünümü nedeniyle 'çizgili papaz balığı' adı verilen balık türü, Antalya Körfezi'nde görüntülendi",
+      "long_summary_tr": "Tropik, ılıman denizlerde yaşayan ve görünümü nedeniyle 'çizgili papaz balığı' adı verilen balık türü, Antalya Körfezi'nde görüntülendi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/spor/abdulkerim-bardakci-fransa-yi-elimizden-kacirdik-3915200",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790375948/3915200/jpg/1920x1080",
-      "published_at": "2026-09-25T22:39:57+00:00"
+      "url": "https://www.haberturk.com/yasam/antalya-korfezi-nde-tropik-cizgili-papaz-baligi-goruntulendi-3915214",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790405112/3915214/jpg/1920x1080",
+      "published_at": "2026-09-26T06:45:12+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Manisa'daki saldırıda 7 tutuklama",
-      "title_tr": "Manisa'daki saldırıda 7 tutuklama",
-      "summary": "Manisa'nın Turgutlu ilçesinde 11 öğrencinin yaralandığı olayda saldırganın annesi, babası ve dedesinin de aralarında bulunduğu 7 kişi tutuklandı",
-      "summary_tr": "Manisa'nın Turgutlu ilçesinde 11 öğrencinin yaralandığı olayda saldırganın annesi, babası ve dedesinin de aralarında bulunduğu 7 kişi tutuklandı",
-      "long_summary": "Manisa'nın Turgutlu ilçesinde 11 öğrencinin yaralandığı olayda saldırganın annesi, babası ve dedesinin de aralarında bulunduğu 7 kişi tutuklandı",
-      "long_summary_tr": "Manisa'nın Turgutlu ilçesinde 11 öğrencinin yaralandığı olayda saldırganın annesi, babası ve dedesinin de aralarında bulunduğu 7 kişi tutuklandı",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Milyonlarca hane etkilenecek: Elektrik faturalarında gizli zam!",
+      "title_tr": "Milyonlarca hane etkilenecek: Elektrik faturalarında gizli zam!",
+      "summary": "Son kaynak tedarik tarifesinde uygulanan devlet desteği (sübvansiyon) limitlerinin aşağı çekilmesi planlanıyor. Yapılacak bu kısıtlama ile birlikte milyonlarca hanenin faturalarında ciddi artışlar yaşanması bekleniyor.Kış ayları yaklaşırken milyonlarca konut abonesini yakından ilgilendiren kritik bir elektrik faturası düzenlemesi gündeme geldi.\n\nMevcut düzenlemede yıllık 4 bin kilovatsaat (kWh) olarak uygulanan sübvansiyonlu tüketim sınırının, yeni kararla birlikte 3 bin kilovatsaate düşürülmesi hedefleniyor.\n\nBu sınırın geriletilmesi, aylık elektrik faturası ortalama 780 TL ve üzerinde gelen birçok konutun artık devlet desteğinden yararlanamayacağı anlamına geliyor.\n\nLimiti aşan aboneler, enerjiyi gerçek maliyetler üzerinden vergilendirilen yüksek katmanlı tarifelerden tüketmek zorunda kalacak.\n\n\n\nELEKTRİK MÜHENDİSLERİ ODASI: \"BU BİR GİZLİ ZAMDIR\"\n\nDüzenlemeyi değerlendiren Elektrik Mühendisleri Odası (EMO) Genel Başkanı Mahir Ulutaş, limit kısıtlamasının örtülü bir zam niteliği taşıdığına dikkat çekti.\n\nSon 5 yılda dağıtım bedellerinde yaşanan yüksek oranlı artışlara vurgu yapan Ulutaş, küresel piyasalardaki dalgalanmalar ve bölgesel gerilimlerin de etkisiyle enerji maliyetlerinin vatandaşın üzerinde unbearable (taşıyamayacağı) bir yük oluşturduğunu belirtti.\n\n\n\nYENİ KARAR EKİM AYINDA AÇIKLANACAK\n\nElektrik dağıtım şirketlerinden alınan veriler doğrultusunda hazırlanan yeni düzenlemenin ekim ayında resmi olarak duyurulması bekleniyor.\n\nDüzenlemenin yürürlüğe girmesiyle birlikte devlet desteği kapsamındaki abone sayısı belirgin şekilde azalacak.\n\nUzmanlar, özellikle kış mevsiminde dar gelirli ve orta ölçekli ailelerin faturaları ödemekte büyük zorluk yaşayabileceğini belirterek, tüketiciyi ve kamu yararını koruyan sürdürülebilir enerji politikalarının hayata geçirilmesi gerektiğinin altını çiziyor.",
+      "summary_tr": "Son kaynak tedarik tarifesinde uygulanan devlet desteği (sübvansiyon) limitlerinin aşağı çekilmesi planlanıyor. Yapılacak bu kısıtlama ile birlikte milyonlarca hanenin faturalarında ciddi artışlar yaşanması bekleniyor.Kış ayları yaklaşırken milyonlarca konut abonesini yakından ilgilendiren kritik bir elektrik faturası düzenlemesi gündeme geldi.\n\nMevcut düzenlemede yıllık 4 bin kilovatsaat (kWh) olarak uygulanan sübvansiyonlu tüketim sınırının, yeni kararla birlikte 3 bin kilovatsaate düşürülmesi hedefleniyor.\n\nBu sınırın geriletilmesi, aylık elektrik faturası ortalama 780 TL ve üzerinde gelen birçok konutun artık devlet desteğinden yararlanamayacağı anlamına geliyor.\n\nLimiti aşan aboneler, enerjiyi gerçek maliyetler üzerinden vergilendirilen yüksek katmanlı tarifelerden tüketmek zorunda kalacak.\n\n\n\nELEKTRİK MÜHENDİSLERİ ODASI: \"BU BİR GİZLİ ZAMDIR\"\n\nDüzenlemeyi değerlendiren Elektrik Mühendisleri Odası (EMO) Genel Başkanı Mahir Ulutaş, limit kısıtlamasının örtülü bir zam niteliği taşıdığına dikkat çekti.\n\nSon 5 yılda dağıtım bedellerinde yaşanan yüksek oranlı artışlara vurgu yapan Ulutaş, küresel piyasalardaki dalgalanmalar ve bölgesel gerilimlerin de etkisiyle enerji maliyetlerinin vatandaşın üzerinde unbearable (taşıyamayacağı) bir yük oluşturduğunu belirtti.\n\n\n\nYENİ KARAR EKİM AYINDA AÇIKLANACAK\n\nElektrik dağıtım şirketlerinden alınan veriler doğrultusunda hazırlanan yeni düzenlemenin ekim ayında resmi olarak duyurulması bekleniyor.\n\nDüzenlemenin yürürlüğe girmesiyle birlikte devlet desteği kapsamındaki abone sayısı belirgin şekilde azalacak.\n\nUzmanlar, özellikle kış mevsiminde dar gelirli ve orta ölçekli ailelerin faturaları ödemekte büyük zorluk yaşayabileceğini belirterek, tüketiciyi ve kamu yararını koruyan sürdürülebilir enerji politikalarının hayata geçirilmesi gerektiğinin altını çiziyor.",
+      "long_summary": "Son kaynak tedarik tarifesinde uygulanan devlet desteği (sübvansiyon) limitlerinin aşağı çekilmesi planlanıyor. Yapılacak bu kısıtlama ile birlikte milyonlarca hanenin faturalarında ciddi artışlar yaşanması bekleniyor.Kış ayları yaklaşırken milyonlarca konut abonesini yakından ilgilendiren kritik bir elektrik faturası düzenlemesi gündeme geldi.\n\nMevcut düzenlemede yıllık 4 bin kilovatsaat (kWh) olarak uygulanan sübvansiyonlu tüketim sınırının, yeni kararla birlikte 3 bin kilovatsaate",
+      "long_summary_tr": "Son kaynak tedarik tarifesinde uygulanan devlet desteği (sübvansiyon) limitlerinin aşağı çekilmesi planlanıyor. Yapılacak bu kısıtlama ile birlikte milyonlarca hanenin faturalarında ciddi artışlar yaşanması bekleniyor.Kış ayları yaklaşırken milyonlarca konut abonesini yakından ilgilendiren kritik bir elektrik faturası düzenlemesi gündeme geldi.\n\nMevcut düzenlemede yıllık 4 bin kilovatsaat (kWh) olarak uygulanan sübvansiyonlu tüketim sınırının, yeni kararla birlikte 3 bin kilovatsaate",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.haberturk.com/gundem/son-dakika-manisa-daki-saldirida-7-tutuklama-3915187",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790372998/3915187/jpg/1920x1080",
-      "published_at": "2026-09-25T22:30:54+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "\"Bugünü unutturacağız\"",
-      "title_tr": "\"Bugünü unutturacağız\"",
-      "summary": "A Milli Futbol Takımımız'ın oyuncularından Arda Güler, UEFA Uluslar A Ligi 1. Grup ilk maçında 1-0 yenildikleri Fransa maçının ardından bugünü unutturmak istediklerini belirtti.",
-      "summary_tr": "A Milli Futbol Takımımız'ın oyuncularından Arda Güler, UEFA Uluslar A Ligi 1. Grup ilk maçında 1-0 yenildikleri Fransa maçının ardından bugünü unutturmak istediklerini belirtti.",
-      "long_summary": "A Milli Futbol Takımımız'ın oyuncularından Arda Güler, UEFA Uluslar A Ligi 1. Grup ilk maçında 1-0 yenildikleri Fransa maçının ardından bugünü unutturmak istediklerini belirtti.",
-      "long_summary_tr": "A Milli Futbol Takımımız'ın oyuncularından Arda Güler, UEFA Uluslar A Ligi 1. Grup ilk maçında 1-0 yenildikleri Fransa maçının ardından bugünü unutturmak istediklerini belirtti.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/spor/arda-guler-bugunu-unutturacagiz-insallah-3915199",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790375078/3915199/jpg/1920x1080",
-      "published_at": "2026-09-25T22:30:27+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/ekonomi/milyonlarca-hane-etkilenecek-elektrik-faturalarinda-gizli-zam-1717613",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/milyonlarca-hane-etkilenecek-elektrik-faturalarinda-gizli-zam-1790405061-409_large.webp",
+      "published_at": "2026-09-26T06:45:00+00:00"
     },
     {
       "origin": "yabanci",
@@ -623,21 +491,43 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Northampton begin title defence with win over Newcastle",
-      "title_tr": "Northampton begin title defence with win over Newcastle",
-      "summary": "James Pater and Tommy Freeman score hat-tricks as Northampton kick off their title defence with a 59-26 win over Newcastle.",
-      "summary_tr": "James Pater and Tommy Freeman score hat-tricks as Northampton kick off their title defence with a 59-26 win over Newcastle.",
-      "long_summary": "James Pater and Tommy Freeman score hat-tricks as Northampton kick off their title defence with a 59-26 win over Newcastle.",
-      "long_summary_tr": "James Pater and Tommy Freeman score hat-tricks as Northampton kick off their title defence with a 59-26 win over Newcastle.",
+      "title": "Do England have a problem against top-10 teams?",
+      "title_tr": "Do England have a problem against top-10 teams?",
+      "summary": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
+      "summary_tr": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
+      "long_summary": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
+      "long_summary_tr": "As England prepare to take on Spain in their opening Nations League match, BBC Sport takes a look at whether they have a problem when faced with teams in the world top 10.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmrr48zv21xjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c08/live/8e54de00-b91e-11f1-b685-519146636d7f.jpg",
-      "published_at": "2026-09-25T22:25:03+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f65/live/16539990-b8f2-11f1-a698-ff5dd8cb1a06.jpg",
+      "published_at": "2026-09-26T06:41:39+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Arda Güler'den Fransa mağlubiyeti sonrası açıklama!",
+      "title_tr": "Arda Güler'den Fransa mağlubiyeti sonrası açıklama!",
+      "summary": "A Milli Futbol Takımı’nın genç yıldızı Arda Güler, Fransa maçının ardından, \"Son performanslarımızı unutturmak için elimizden geleni yaptık\" dedi.UEFA Uluslar A Ligi 1. Grup ilk maçında Türkiye, Fransa’ya 1-0 mağlup oldu. Maçın ardından milli futbolcu Arda Güler basın mensuplarına açıklamalarda bulundu. Takımdaki eksikliklere rağmen saha içerisinde ellerinden gelen mücadeleyi verdiklerini ifade eden genç yıldız, taraftarların desteğine dikkat çekti.\n\n\"SON PERFORMANSLARIMIZI UNUTTURMAK İÇİN ELİMİZDEN GELENİ YAPTIK\"\n\nSakat ve cezalı oyuncuların eksikliğinin fazlasıyla hissedildiğinden bahseden Arda, önceki maçlarda sergiledikleri kötü performansı unutturmak için ellerinden geleni yaptıklarından bahsederken, \"Öncelikle Kocaeli halkına çok teşekkür ediyoruz. Nereye gidersek gidelim, Türkiye’de, Avrupa’da her yerde destekliyorlar. Son performanslarımızı unutturmak için elimizden geleni yaptık. Bir sürü sakat oyuncumuz vardı, cezalı oyuncularımız vardı. Ona rağmen elimizden gelenin en iyisini yaptığımızı düşünüyorum. Tabii ki kazanmayı çok istedik, çok üzgünüz. Ama şimdi hala önemli maçlarımız var. İnşallah onları kazanacağız. Elimizden geleni yapıp bugünü de unutturacağız inşallah\" ifadelerini kullandı.",
+      "summary_tr": "A Milli Futbol Takımı’nın genç yıldızı Arda Güler, Fransa maçının ardından, \"Son performanslarımızı unutturmak için elimizden geleni yaptık\" dedi.UEFA Uluslar A Ligi 1. Grup ilk maçında Türkiye, Fransa’ya 1-0 mağlup oldu. Maçın ardından milli futbolcu Arda Güler basın mensuplarına açıklamalarda bulundu. Takımdaki eksikliklere rağmen saha içerisinde ellerinden gelen mücadeleyi verdiklerini ifade eden genç yıldız, taraftarların desteğine dikkat çekti.\n\n\"SON PERFORMANSLARIMIZI UNUTTURMAK İÇİN ELİMİZDEN GELENİ YAPTIK\"\n\nSakat ve cezalı oyuncuların eksikliğinin fazlasıyla hissedildiğinden bahseden Arda, önceki maçlarda sergiledikleri kötü performansı unutturmak için ellerinden geleni yaptıklarından bahsederken, \"Öncelikle Kocaeli halkına çok teşekkür ediyoruz. Nereye gidersek gidelim, Türkiye’de, Avrupa’da her yerde destekliyorlar. Son performanslarımızı unutturmak için elimizden geleni yaptık. Bir sürü sakat oyuncumuz vardı, cezalı oyuncularımız vardı. Ona rağmen elimizden gelenin en iyisini yaptığımızı düşünüyorum. Tabii ki kazanmayı çok istedik, çok üzgünüz. Ama şimdi hala önemli maçlarımız var. İnşallah onları kazanacağız. Elimizden geleni yapıp bugünü de unutturacağız inşallah\" ifadelerini kullandı.",
+      "long_summary": "A Milli Futbol Takımı’nın genç yıldızı Arda Güler, Fransa maçının ardından, \"Son performanslarımızı unutturmak için elimizden geleni yaptık\" dedi.UEFA Uluslar A Ligi 1. Grup ilk maçında Türkiye, Fransa’ya 1-0 mağlup oldu. Maçın ardından milli futbolcu Arda Güler basın mensuplarına açıklamalarda bulundu. Takımdaki eksikliklere rağmen saha içerisinde ellerinden gelen mücadeleyi verdiklerini ifade eden genç yıldız, taraftarların desteğine dikkat çekti.\n\n\"SON PERFORMANSLARIMIZI UNUTTURMAK İÇİN",
+      "long_summary_tr": "A Milli Futbol Takımı’nın genç yıldızı Arda Güler, Fransa maçının ardından, \"Son performanslarımızı unutturmak için elimizden geleni yaptık\" dedi.UEFA Uluslar A Ligi 1. Grup ilk maçında Türkiye, Fransa’ya 1-0 mağlup oldu. Maçın ardından milli futbolcu Arda Güler basın mensuplarına açıklamalarda bulundu. Takımdaki eksikliklere rağmen saha içerisinde ellerinden gelen mücadeleyi verdiklerini ifade eden genç yıldız, taraftarların desteğine dikkat çekti.\n\n\"SON PERFORMANSLARIMIZI UNUTTURMAK İÇİN",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/arda-guler-den-fransa-maglubiyeti-sonrasi-aciklama-1717610",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/arda-guler-den-fransa-maglubiyeti-sonrasi-aciklama-1790404927-537_large.webp",
+      "published_at": "2026-09-26T06:41:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -645,21 +535,439 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "'İstifa paylaşımına' gözaltı kararı",
-      "title_tr": "'İstifa paylaşımına' gözaltı kararı",
-      "summary": "Sosyal medyada \"Çok önemli bir bakan Cuma günü istifa edecek.\" şeklinde paylaşım yapan Ali Tarakcı hakkında soruşturma başlatıldı",
-      "summary_tr": "Sosyal medyada \"Çok önemli bir bakan Cuma günü istifa edecek.\" şeklinde paylaşım yapan Ali Tarakcı hakkında soruşturma başlatıldı",
-      "long_summary": "Sosyal medyada \"Çok önemli bir bakan Cuma günü istifa edecek.\" şeklinde paylaşım yapan Ali Tarakcı hakkında soruşturma başlatıldı",
-      "long_summary_tr": "Sosyal medyada \"Çok önemli bir bakan Cuma günü istifa edecek.\" şeklinde paylaşım yapan Ali Tarakcı hakkında soruşturma başlatıldı",
+      "title": "Berhan Şimşek'ten şiddet savunması",
+      "title_tr": "Berhan Şimşek'ten şiddet savunması",
+      "summary": "Cumhuriyet Halk Partisi Parti (CHP) Parti Meclis Üyesi Berhan Şimşek, Özlem Şanver'e şiddet uyguladığı iddia edilen görüntülere ilişkin, \"O şerefsizlere söylüyorum buradan, şerefli şerefsizlere. Sizin birisi kafanıza tabak atarsa ne yaparsınız? Ben de ayağımı salladım. Komşular duymasın diye alıp içeriye götürmüşüz, biz 'şiddet yapan' olmuşuz. Haysiyetsiz, onursuzlar. O Sözcü TV'deki ana haberi sunan, 40 yıldır tanırım. Yazıklar olsun. Bir insan bu kadar para için küçülür mü ya\" dedi",
+      "summary_tr": "Cumhuriyet Halk Partisi Parti (CHP) Parti Meclis Üyesi Berhan Şimşek, Özlem Şanver'e şiddet uyguladığı iddia edilen görüntülere ilişkin, \"O şerefsizlere söylüyorum buradan, şerefli şerefsizlere. Sizin birisi kafanıza tabak atarsa ne yaparsınız? Ben de ayağımı salladım. Komşular duymasın diye alıp içeriye götürmüşüz, biz 'şiddet yapan' olmuşuz. Haysiyetsiz, onursuzlar. O Sözcü TV'deki ana haberi sunan, 40 yıldır tanırım. Yazıklar olsun. Bir insan bu kadar para için küçülür mü ya\" dedi",
+      "long_summary": "Cumhuriyet Halk Partisi Parti (CHP) Parti Meclis Üyesi Berhan Şimşek, Özlem Şanver'e şiddet uyguladığı iddia edilen görüntülere ilişkin, \"O şerefsizlere söylüyorum buradan, şerefli şerefsizlere. Sizin birisi kafanıza tabak atarsa ne yaparsınız? Ben de ayağımı salladım. Komşular duymasın diye alıp içeriye götürmüşüz, biz 'şiddet yapan' olmuşuz. Haysiyetsiz, onursuzlar. O Sözcü TV'deki ana haberi sunan, 40 yıldır tanırım. Yazıklar olsun. Bir insan bu kadar para için küçülür mü ya\" dedi",
+      "long_summary_tr": "Cumhuriyet Halk Partisi Parti (CHP) Parti Meclis Üyesi Berhan Şimşek, Özlem Şanver'e şiddet uyguladığı iddia edilen görüntülere ilişkin, \"O şerefsizlere söylüyorum buradan, şerefli şerefsizlere. Sizin birisi kafanıza tabak atarsa ne yaparsınız? Ben de ayağımı salladım. Komşular duymasın diye alıp içeriye götürmüşüz, biz 'şiddet yapan' olmuşuz. Haysiyetsiz, onursuzlar. O Sözcü TV'deki ana haberi sunan, 40 yıldır tanırım. Yazıklar olsun. Bir insan bu kadar para için küçülür mü ya\" dedi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/gundem/son-dakika-istifa-paylasimina-gozalti-karari-3915192",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790375039/3915192/jpg/1920x1080",
-      "published_at": "2026-09-25T22:24:16+00:00"
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-berhan-simsek-ten-ozlem-sanver-e-siddet-savunmasi-3915209",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790401112/3915209/jpg/1920x1080",
+      "published_at": "2026-09-26T06:39:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "3 yıl sonra evinden çıkan Barış yeniden eve kapandı. “Düzelmek istemiyorum”",
+      "title_tr": "3 yıl sonra evinden çıkan Barış yeniden eve kapandı. “Düzelmek istemiyorum”",
+      "summary": "Hatay’da deprem sonrası bırakıp eve kapanan 25 yaşındaki Barış Özbay, hastanedeki tedavisinin ardından ilaçlarını kullanmayı bıraktı. Günlerini telefon başında geçirmeye devam ediyor.",
+      "summary_tr": "Hatay’da deprem sonrası bırakıp eve kapanan 25 yaşındaki Barış Özbay, hastanedeki tedavisinin ardından ilaçlarını kullanmayı bıraktı. Günlerini telefon başında geçirmeye devam ediyor.",
+      "long_summary": "Hatay’da deprem sonrası bırakıp eve kapanan 25 yaşındaki Barış Özbay, hastanedeki tedavisinin ardından ilaçlarını kullanmayı bıraktı. Günlerini telefon başında geçirmeye devam ediyor.",
+      "long_summary_tr": "Hatay’da deprem sonrası bırakıp eve kapanan 25 yaşındaki Barış Özbay, hastanedeki tedavisinin ardından ilaçlarını kullanmayı bıraktı. Günlerini telefon başında geçirmeye devam ediyor.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/galeri-3-yil-sonra-evinden-cikmisti-tedavinin-ardindan-yeniden-eve-kapandi-1743531",
+      "image": "https://images.ntv.com.tr/images/AW796595_01-744743.jpg",
+      "published_at": "2026-09-26T06:39:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Taşacak Bu Deniz ne zaman başlıyor? Fragman beğenilmedi",
+      "title_tr": "Taşacak Bu Deniz ne zaman başlıyor? Fragman beğenilmedi",
+      "summary": "\"Taşacak Bu Deniz 2. sezon ne zaman başlayacak?\" sorusu sonunda yanıt buldu. Yeni sezon tarihi açıklanırken yayınlanan ilk fragman sosyal medyada beklentiyi karşılamadı; izleyicilerden peş peşe eleştiriler geldi.Haziran ayında sezon finali yapan Taşacak Bu Deniz dizisinin 2. sezon yayın tarihi merak ediliyordu. İzleyiciler 'Taşacak Bu Deniz 2. sezon ne zaman?', 'Yeni bölüm ne zaman yayınlanacak?' gibi soruların yanıtını ararken, dizinin yayın tarihi belli oldu.\n\nTelevizyon dünyasında rekabetin kızıştığı bu yeni yayın döneminde, Taşacak Bu Deniz'in 2. sezonundan fragman da geldi.\n\nTaşacak Bu Deniz 32. bölüm fragmanında yeni sezonda yaşanacak gelişmelere dair ilk ipuçları yer aldı. Ancak heyecan dolu afiş seyirciden tam not alamadı. Seyirciler \"Hiçbir şey anlamadım\", \"Bunu mu bekledik\", \"Bu ne anlamadım\" yorumlarında bulundu.\n\nTAŞACAK BU DENİZ YENİ SEZON NE ZAMAN BAŞLIYOR?\n\nTaşacak Bu Deniz dizisi yeni sezon çekimleri başladı. TRT 1'in fenomen dizisi Taşacak Bu Deniz, 2 Ekim 20.00'de ekrana dönüyor.",
+      "summary_tr": "\"Taşacak Bu Deniz 2. sezon ne zaman başlayacak?\" sorusu sonunda yanıt buldu. Yeni sezon tarihi açıklanırken yayınlanan ilk fragman sosyal medyada beklentiyi karşılamadı; izleyicilerden peş peşe eleştiriler geldi.Haziran ayında sezon finali yapan Taşacak Bu Deniz dizisinin 2. sezon yayın tarihi merak ediliyordu. İzleyiciler 'Taşacak Bu Deniz 2. sezon ne zaman?', 'Yeni bölüm ne zaman yayınlanacak?' gibi soruların yanıtını ararken, dizinin yayın tarihi belli oldu.\n\nTelevizyon dünyasında rekabetin kızıştığı bu yeni yayın döneminde, Taşacak Bu Deniz'in 2. sezonundan fragman da geldi.\n\nTaşacak Bu Deniz 32. bölüm fragmanında yeni sezonda yaşanacak gelişmelere dair ilk ipuçları yer aldı. Ancak heyecan dolu afiş seyirciden tam not alamadı. Seyirciler \"Hiçbir şey anlamadım\", \"Bunu mu bekledik\", \"Bu ne anlamadım\" yorumlarında bulundu.\n\nTAŞACAK BU DENİZ YENİ SEZON NE ZAMAN BAŞLIYOR?\n\nTaşacak Bu Deniz dizisi yeni sezon çekimleri başladı. TRT 1'in fenomen dizisi Taşacak Bu Deniz, 2 Ekim 20.00'de ekrana dönüyor.",
+      "long_summary": "\"Taşacak Bu Deniz 2. sezon ne zaman başlayacak?\" sorusu sonunda yanıt buldu. Yeni sezon tarihi açıklanırken yayınlanan ilk fragman sosyal medyada beklentiyi karşılamadı; izleyicilerden peş peşe eleştiriler geldi.Haziran ayında sezon finali yapan Taşacak Bu Deniz dizisinin 2. sezon yayın tarihi merak ediliyordu. İzleyiciler 'Taşacak Bu Deniz 2. sezon ne zaman?', 'Yeni bölüm ne zaman yayınlanacak?' gibi soruların yanıtını ararken, dizinin yayın tarihi belli oldu.\n\nTelevizyon dünyasında rekabetin",
+      "long_summary_tr": "\"Taşacak Bu Deniz 2. sezon ne zaman başlayacak?\" sorusu sonunda yanıt buldu. Yeni sezon tarihi açıklanırken yayınlanan ilk fragman sosyal medyada beklentiyi karşılamadı; izleyicilerden peş peşe eleştiriler geldi.Haziran ayında sezon finali yapan Taşacak Bu Deniz dizisinin 2. sezon yayın tarihi merak ediliyordu. İzleyiciler 'Taşacak Bu Deniz 2. sezon ne zaman?', 'Yeni bölüm ne zaman yayınlanacak?' gibi soruların yanıtını ararken, dizinin yayın tarihi belli oldu.\n\nTelevizyon dünyasında rekabetin",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/magazin/tasacak-bu-deniz-ne-zaman-basliyor-fragman-begenilmedi-1717607",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/tasacak-bu-deniz-ne-zaman-basliyor-fragman-begenilmedi-1790404872-289_large.webp",
+      "published_at": "2026-09-26T06:33:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "'Fon' soruşturmasında 4 kişi daha tutuklandı",
+      "title_tr": "'Fon' soruşturmasında 4 kişi daha tutuklandı",
+      "summary": "Fon soruşturması kapsamında 4 şüpheli daha tutuklandı. Soruşturmada tutuklu sayısı 51’e yükseldi.",
+      "summary_tr": "Fon soruşturması kapsamında 4 şüpheli daha tutuklandı. Soruşturmada tutuklu sayısı 51’e yükseldi.",
+      "long_summary": "Fon soruşturması kapsamında 4 şüpheli daha tutuklandı. Soruşturmada tutuklu sayısı 51’e yükseldi.",
+      "long_summary_tr": "Fon soruşturması kapsamında 4 şüpheli daha tutuklandı. Soruşturmada tutuklu sayısı 51’e yükseldi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-4-kisi-daha-tutuklandi-3915211",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790403983/3915211/jpg/1920x1080",
+      "published_at": "2026-09-26T06:29:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Dev banka altının zirve yapacağı tarihi verdi!",
+      "title_tr": "Dev banka altının zirve yapacağı tarihi verdi!",
+      "summary": "Altın fiyatlarında son dönemde yaşanan geri çekilmeye rağmen TD Securities, değerli metal için uzun vadeli yükseliş beklentisini koruyor. Banka, 2027’nin ikinci yarısında ons altının 5 bin 350 dolara doğru ilerleyebileceğini öngörüyor.Altın piyasasında son haftalarda yaşanan dalgalanma yatırımcıların gündeminde kalmaya devam ederken, küresel yatırım bankası TD Securities dikkat çeken bir fiyat tahmini paylaştı. Bankanın 14 Eylül 2026 tarihli değerlendirmesine göre ons altın, kısa vadede yüksek faiz ve enerji kaynaklı enflasyon baskısıyla dalgalanabilir ancak uzun vadede yükseliş potansiyelini koruyabilir.\n\nTD Securities, altının 2027'nin ilk dönemlerinde 4.200-4.500 dolar aralığında işlem görmesini bekliyor. Bankanın daha uzun vadeli projeksiyonunda ise ons altının 2027'nin ikinci yarısında 5.350 dolar seviyesine doğru hareket edebileceği belirtiliyor. Bu tahmin, mevcut piyasa koşullarına ilişkin bir öngörü niteliği taşıyor.\n\n\n\nBanka, altındaki yükseliş beklentisinin arkasında birkaç önemli faktör bulunduğuna dikkat çekiyor. Enflasyon baskılarının zaman içinde azalması, ABD dolarının zayıflaması ve faiz maliyetlerinin düşmesi, değerli metal açısından destekleyici unsurlar arasında gösteriliyor.\n\nAltın piyasasında merkez bankalarının alımları da önemli bir başlık olarak öne çıkıyor. TD Securities, daha önceki değerlendirmelerinde merkez bankalarının fiyat düşüşlerinde alıcı konumuna geçtiğine dikkat çekmişti. Bu durum, altının uzun vadeli talep görünümünde etkili olan unsurlardan biri olarak değerlendiriliyor.\n\nÖte yandan yüksek faiz ortamı altın açısından kısa vadeli risk oluşturmaya devam ediyor. Faizlerin yüksek kalması, faiz getirisi sağlamayan altının cazibesini azaltabiliyor. TD Securities de enerji fiyatlarındaki yükselişin enflasyon beklentilerini artırması durumunda faiz indirimi beklentilerinin ötelenebileceğini ve bunun altında baskı yaratabileceğini belirtiyor.\n\n\n\n\n\nBankanın uzun vadeli tahmininde dikkat çeken tarih ise 2027'nin ikinci yarısı oldu. TD Securities, enflasyon baskılarının hafiflemesi, doların değer kaybetmesi ve taşıma maliyetlerinin azalmasıyla birlikte ons altında yeni bir yükseliş döneminin gündeme gelebileceğini öngörüyor. Bankanın projeksiyonunda 5.350 dolar seviyesi öne çıkıyor.\n\nAltın fiyatlarının gelecekte hangi seviyelerde oluşacağı ise faiz kararları, doların seyri, jeopolitik gelişmeler ve merkez bankalarının alımları başta olmak üzere çok sayıda faktöre bağlı olacak. Bu nedenle banka tahmininin kesin fiyat sonucu değil, mevcut ekonomik koşullara dayalı bir piyasa projeksiyonu olduğu unutulmamalı.",
+      "summary_tr": "Altın fiyatlarında son dönemde yaşanan geri çekilmeye rağmen TD Securities, değerli metal için uzun vadeli yükseliş beklentisini koruyor. Banka, 2027’nin ikinci yarısında ons altının 5 bin 350 dolara doğru ilerleyebileceğini öngörüyor.Altın piyasasında son haftalarda yaşanan dalgalanma yatırımcıların gündeminde kalmaya devam ederken, küresel yatırım bankası TD Securities dikkat çeken bir fiyat tahmini paylaştı. Bankanın 14 Eylül 2026 tarihli değerlendirmesine göre ons altın, kısa vadede yüksek faiz ve enerji kaynaklı enflasyon baskısıyla dalgalanabilir ancak uzun vadede yükseliş potansiyelini koruyabilir.\n\nTD Securities, altının 2027'nin ilk dönemlerinde 4.200-4.500 dolar aralığında işlem görmesini bekliyor. Bankanın daha uzun vadeli projeksiyonunda ise ons altının 2027'nin ikinci yarısında 5.350 dolar seviyesine doğru hareket edebileceği belirtiliyor. Bu tahmin, mevcut piyasa koşullarına ilişkin bir öngörü niteliği taşıyor.\n\n\n\nBanka, altındaki yükseliş beklentisinin arkasında birkaç önemli faktör bulunduğuna dikkat çekiyor. Enflasyon baskılarının zaman içinde azalması, ABD dolarının zayıflaması ve faiz maliyetlerinin düşmesi, değerli metal açısından destekleyici unsurlar arasında gösteriliyor.\n\nAltın piyasasında merkez bankalarının alımları da önemli bir başlık olarak öne çıkıyor. TD Securities, daha önceki değerlendirmelerinde merkez bankalarının fiyat düşüşlerinde alıcı konumuna geçtiğine dikkat çekmişti. Bu durum, altının uzun vadeli talep görünümünde etkili olan unsurlardan biri olarak değerlendiriliyor.\n\nÖte yandan yüksek faiz ortamı altın açısından kısa vadeli risk oluşturmaya devam ediyor. Faizlerin yüksek kalması, faiz getirisi sağlamayan altının cazibesini azaltabiliyor. TD Securities de enerji fiyatlarındaki yükselişin enflasyon beklentilerini artırması durumunda faiz indirimi beklentilerinin ötelenebileceğini ve bunun altında baskı yaratabileceğini belirtiyor.\n\n\n\n\n\nBankanın uzun vadeli tahmininde dikkat çeken tarih ise 2027'nin ikinci yarısı oldu. TD Securities, enflasyon baskılarının hafiflemesi, doların değer kaybetmesi ve taşıma maliyetlerinin azalmasıyla birlikte ons altında yeni bir yükseliş döneminin gündeme gelebileceğini öngörüyor. Bankanın projeksiyonunda 5.350 dolar seviyesi öne çıkıyor.\n\nAltın fiyatlarının gelecekte hangi seviyelerde oluşacağı ise faiz kararları, doların seyri, jeopolitik gelişmeler ve merkez bankalarının alımları başta olmak üzere çok sayıda faktöre bağlı olacak. Bu nedenle banka tahmininin kesin fiyat sonucu değil, mevcut ekonomik koşullara dayalı bir piyasa projeksiyonu olduğu unutulmamalı.",
+      "long_summary": "Altın fiyatlarında son dönemde yaşanan geri çekilmeye rağmen TD Securities, değerli metal için uzun vadeli yükseliş beklentisini koruyor. Banka, 2027’nin ikinci yarısında ons altının 5 bin 350 dolara doğru ilerleyebileceğini öngörüyor.Altın piyasasında son haftalarda yaşanan dalgalanma yatırımcıların gündeminde kalmaya devam ederken, küresel yatırım bankası TD Securities dikkat çeken bir fiyat tahmini paylaştı. Bankanın 14 Eylül 2026 tarihli değerlendirmesine göre ons altın, kısa vadede yüksek",
+      "long_summary_tr": "Altın fiyatlarında son dönemde yaşanan geri çekilmeye rağmen TD Securities, değerli metal için uzun vadeli yükseliş beklentisini koruyor. Banka, 2027’nin ikinci yarısında ons altının 5 bin 350 dolara doğru ilerleyebileceğini öngörüyor.Altın piyasasında son haftalarda yaşanan dalgalanma yatırımcıların gündeminde kalmaya devam ederken, küresel yatırım bankası TD Securities dikkat çeken bir fiyat tahmini paylaştı. Bankanın 14 Eylül 2026 tarihli değerlendirmesine göre ons altın, kısa vadede yüksek",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/ekonomi/dev-banka-altinin-zirve-yapacagi-tarihi-verdi-1717604",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/dev-banka-altinin-zirve-yapacagi-tarihi-verdi-1790404175-860_large.webp",
+      "published_at": "2026-09-26T06:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Netanyahu'ya oluşturulan basın takip sistemi ifşa edildi",
+      "title_tr": "Netanyahu'ya oluşturulan basın takip sistemi ifşa edildi",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun basın danışmanı Yonatan Urich'in Başbakan ve eşi Sara Netanyahu için yapay zeka modeli Claude ile medya kuruluşlarını her 90 saniyede bir tarayarak ikili hakkındaki haberleri Whatsapp üzerinden anlık bildiren özel bir sistem oluşturduğu ortaya çıktı.",
+      "summary_tr": "İsrail Başbakanı Binyamin Netanyahu'nun basın danışmanı Yonatan Urich'in Başbakan ve eşi Sara Netanyahu için yapay zeka modeli Claude ile medya kuruluşlarını her 90 saniyede bir tarayarak ikili hakkındaki haberleri Whatsapp üzerinden anlık bildiren özel bir sistem oluşturduğu ortaya çıktı.",
+      "long_summary": "İsrail Başbakanı Binyamin Netanyahu'nun basın danışmanı Yonatan Urich'in Başbakan ve eşi Sara Netanyahu için yapay zeka modeli Claude ile medya kuruluşlarını her 90 saniyede bir tarayarak ikili hakkındaki haberleri Whatsapp üzerinden anlık bildiren özel bir sistem oluşturduğu ortaya çıktı.",
+      "long_summary_tr": "İsrail Başbakanı Binyamin Netanyahu'nun basın danışmanı Yonatan Urich'in Başbakan ve eşi Sara Netanyahu için yapay zeka modeli Claude ile medya kuruluşlarını her 90 saniyede bir tarayarak ikili hakkındaki haberleri Whatsapp üzerinden anlık bildiren özel bir sistem oluşturduğu ortaya çıktı.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/dunya/israil-lideri-netanyahu-icin-olusturulan-basin-takip-sistemi-ifsa-edildi-3915212",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790404036/3915212/jpg/1920x1080",
+      "published_at": "2026-09-26T06:27:16+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Charles brothers 'brilliant' in NI's landmark win",
+      "title_tr": "Charles brothers 'brilliant' in NI's landmark win",
+      "summary": "The Charles brothers led the way for Northern Ireland at both ends of the field during the side's Nations League win over Georgia in Tbilisi.",
+      "summary_tr": "The Charles brothers led the way for Northern Ireland at both ends of the field during the side's Nations League win over Georgia in Tbilisi.",
+      "long_summary": "The Charles brothers led the way for Northern Ireland at both ends of the field during the side's Nations League win over Georgia in Tbilisi.",
+      "long_summary_tr": "The Charles brothers led the way for Northern Ireland at both ends of the field during the side's Nations League win over Georgia in Tbilisi.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy4zz7rze21o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/3f1dddd0-b920-11f1-b685-519146636d7f.jpg",
+      "published_at": "2026-09-26T06:23:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Milli satranççımız Yağız Kaan Erdoğmuş, \"Yılın Çıkış Yapan Sporcusu\" seçildi",
+      "title_tr": "Milli satranççımız Yağız Kaan Erdoğmuş, \"Yılın Çıkış Yapan Sporcusu\" seçildi",
+      "summary": "Milli satranççımız Büyükusta (GM) Yağız Kaan Erdoğmuş, Uluslararası Satranç Federasyonu tarafından ilk kez düzenlenen FIDE Excellence Awards'ta \"Yılın Çıkış Yapan Sporcusu\" ödülünü kazandı.Türkiye Satranç Federasyonunun açıklamasına göre Uluslararası Satranç Federasyonu (FIDE) Excellence Awards'ta satranç dünyasında son iki yılın başarılı sporcu, organizasyon ve projeleri ödüllendirildi.\n\nMilli satranççımız Yağız Kaan Erdoğmuş, uluslararası alanda sergilediği başarılı performansla \"\"Yılın Çıkış Yapan Sporcusu\" kategorisinde ödüle layık görüldü.\n\nTürkiye Satranç Federasyonu da milli sporcuyu elde ettiği başarıdan dolayı tebrik etti.\n\nTürkiye Satranç Federasyonunun açıklamasına göre Uluslararası Satranç Federasyonu (FIDE) Excellence Awards'ta satranç dünyasında son iki yılın başarılı sporcu, organizasyon ve projeleri ödüllendirildi.\n\nMilli satranççımız Yağız Kaan Erdoğmuş, uluslararası alanda sergilediği başarılı performansla \"\"Yılın Çıkış Yapan Sporcusu\" kategorisinde ödüle layık görüldü.\n\nTürkiye Satranç Federasyonu da milli sporcuyu elde ettiği başarıdan dolayı tebrik etti.",
+      "summary_tr": "Milli satranççımız Büyükusta (GM) Yağız Kaan Erdoğmuş, Uluslararası Satranç Federasyonu tarafından ilk kez düzenlenen FIDE Excellence Awards'ta \"Yılın Çıkış Yapan Sporcusu\" ödülünü kazandı.Türkiye Satranç Federasyonunun açıklamasına göre Uluslararası Satranç Federasyonu (FIDE) Excellence Awards'ta satranç dünyasında son iki yılın başarılı sporcu, organizasyon ve projeleri ödüllendirildi.\n\nMilli satranççımız Yağız Kaan Erdoğmuş, uluslararası alanda sergilediği başarılı performansla \"\"Yılın Çıkış Yapan Sporcusu\" kategorisinde ödüle layık görüldü.\n\nTürkiye Satranç Federasyonu da milli sporcuyu elde ettiği başarıdan dolayı tebrik etti.\n\nTürkiye Satranç Federasyonunun açıklamasına göre Uluslararası Satranç Federasyonu (FIDE) Excellence Awards'ta satranç dünyasında son iki yılın başarılı sporcu, organizasyon ve projeleri ödüllendirildi.\n\nMilli satranççımız Yağız Kaan Erdoğmuş, uluslararası alanda sergilediği başarılı performansla \"\"Yılın Çıkış Yapan Sporcusu\" kategorisinde ödüle layık görüldü.\n\nTürkiye Satranç Federasyonu da milli sporcuyu elde ettiği başarıdan dolayı tebrik etti.",
+      "long_summary": "Milli satranççımız Büyükusta (GM) Yağız Kaan Erdoğmuş, Uluslararası Satranç Federasyonu tarafından ilk kez düzenlenen FIDE Excellence Awards'ta \"Yılın Çıkış Yapan Sporcusu\" ödülünü kazandı.Türkiye Satranç Federasyonunun açıklamasına göre Uluslararası Satranç Federasyonu (FIDE) Excellence Awards'ta satranç dünyasında son iki yılın başarılı sporcu, organizasyon ve projeleri ödüllendirildi.\n\nMilli satranççımız Yağız Kaan Erdoğmuş, uluslararası alanda sergilediği başarılı performansla \"\"Yılın Çıkış",
+      "long_summary_tr": "Milli satranççımız Büyükusta (GM) Yağız Kaan Erdoğmuş, Uluslararası Satranç Federasyonu tarafından ilk kez düzenlenen FIDE Excellence Awards'ta \"Yılın Çıkış Yapan Sporcusu\" ödülünü kazandı.Türkiye Satranç Federasyonunun açıklamasına göre Uluslararası Satranç Federasyonu (FIDE) Excellence Awards'ta satranç dünyasında son iki yılın başarılı sporcu, organizasyon ve projeleri ödüllendirildi.\n\nMilli satranççımız Yağız Kaan Erdoğmuş, uluslararası alanda sergilediği başarılı performansla \"\"Yılın Çıkış",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/milli-satranccimiz-yagiz-kaan-erdogmus-yilin-cikis-yapan-sporcusu-secildi-1717601",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/milli-satranccimiz-yagiz-kaan-erdogmus-yilin-cikis-yapan-sporcusu-secildi-1790403659-711_large.webp",
+      "published_at": "2026-09-26T06:20:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Gümüşte sıkışma büyüdü: 64 doların ardından hangi seviyeler izlenecek?",
+      "title_tr": "Gümüşte sıkışma büyüdü: 64 doların ardından hangi seviyeler izlenecek?",
+      "summary": "Gümüşte sert hareketlerin ardından fiyat 64 dolar çevresinde sıkıştı. Dolar ve tahvil faizlerindeki hareket değerli metalleri baskılarken teknik göstergeler henüz güçlü bir yön vermiyor. Piyasada şimdi 63 dolar desteği ile 66 dolar direnci arasındaki mücadele izleniyor.",
+      "summary_tr": "Gümüşte sert hareketlerin ardından fiyat 64 dolar çevresinde sıkıştı. Dolar ve tahvil faizlerindeki hareket değerli metalleri baskılarken teknik göstergeler henüz güçlü bir yön vermiyor. Piyasada şimdi 63 dolar desteği ile 66 dolar direnci arasındaki mücadele izleniyor.",
+      "long_summary": "Gümüşte sert hareketlerin ardından fiyat 64 dolar çevresinde sıkıştı. Dolar ve tahvil faizlerindeki hareket değerli metalleri baskılarken teknik göstergeler henüz güçlü bir yön vermiyor. Piyasada şimdi 63 dolar desteği ile 66 dolar direnci arasındaki mücadele izleniyor.",
+      "long_summary_tr": "Gümüşte sert hareketlerin ardından fiyat 64 dolar çevresinde sıkıştı. Dolar ve tahvil faizlerindeki hareket değerli metalleri baskılarken teknik göstergeler henüz güçlü bir yön vermiyor. Piyasada şimdi 63 dolar desteği ile 66 dolar direnci arasındaki mücadele izleniyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/gumuste-sikisma-buyudu-64-dolarin-ardindan-hangi-seviyeler-izlenecek-galeri-841516",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/26/02-gumus-yeniden-67-dolara-yoneldi-gttg_cover.jpg",
+      "published_at": "2026-09-26T06:20:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Bir havayolu şirketi daha bilet satışlarını durdurdu",
+      "title_tr": "Bir havayolu şirketi daha bilet satışlarını durdurdu",
+      "summary": "Havacılık sektöründe yaşanan yedek parça sıkıntısı bir havayolu şirketini daha vurdu. Filosundaki son faal turboprop uçağın da yere indirilmesiyle uçuşlar askıya alınırken şirket bilet satışlarını durdurdu.",
+      "summary_tr": "Havacılık sektöründe yaşanan yedek parça sıkıntısı bir havayolu şirketini daha vurdu. Filosundaki son faal turboprop uçağın da yere indirilmesiyle uçuşlar askıya alınırken şirket bilet satışlarını durdurdu.",
+      "long_summary": "Havacılık sektöründe yaşanan yedek parça sıkıntısı bir havayolu şirketini daha vurdu. Filosundaki son faal turboprop uçağın da yere indirilmesiyle uçuşlar askıya alınırken şirket bilet satışlarını durdurdu.",
+      "long_summary_tr": "Havacılık sektöründe yaşanan yedek parça sıkıntısı bir havayolu şirketini daha vurdu. Filosundaki son faal turboprop uçağın da yere indirilmesiyle uçuşlar askıya alınırken şirket bilet satışlarını durdurdu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/bir-havayolu-sirketi-daha-bilet-satislarini-durdurdu-haberi-841515",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/26/yeni-proje-2026-09-26t092314-xuw6_cover.jpg",
+      "published_at": "2026-09-26T06:18:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Eel-powered Kurihara, 11, wins gold at Asian Games",
+      "title_tr": "Eel-powered Kurihara, 11, wins gold at Asian Games",
+      "summary": "Student Yuki Kurihara, 11 - the youngest competitor at the Asian Games - wins gold by beating opponents almost three times his age at a computer game.",
+      "summary_tr": "Student Yuki Kurihara, 11 - the youngest competitor at the Asian Games - wins gold by beating opponents almost three times his age at a computer game.",
+      "long_summary": "Student Yuki Kurihara, 11 - the youngest competitor at the Asian Games - wins gold by beating opponents almost three times his age at a computer game.",
+      "long_summary_tr": "Student Yuki Kurihara, 11 - the youngest competitor at the Asian Games - wins gold by beating opponents almost three times his age at a computer game.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/sport/articles/cr1e51g1nvd6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0bd/live/01dd0120-b971-11f1-a3de-03d9e271781d.jpg",
+      "published_at": "2026-09-26T06:17:37+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Türkiye'yi uyardı, doların 60 lira olacağı tarihi açıkladı!",
+      "title_tr": "Türkiye'yi uyardı, doların 60 lira olacağı tarihi açıkladı!",
+      "summary": "Doların TL karşısında son bir yılda yakaladığı istikrarlı yükseliş, 15 Eylül'de piyasaları vuran fon krizi, yaklaşan seçimler derken piyasalara ilişkin tahminlerde güncellemeler gelmeye başladı. Küresel kredi derecelendirme kuruluşu Fitch Ratings de tahminlerini güncelleyerek doların 60 lira olacağı tarihi açıkladı.Uluslararası kredi derecelendirme kuruluşı Fitch Ratings, Türkiye ekonomisine ilişkin yeni raporunu yayımladı.\n\nRaporda, \"BB-\" seviyesindeki kredi notu ve \"Durağan\" görünüm üzerindeki risklere dikkat çekilirken, enflasyon, döviz rezervleri ve büyüme tahminleriyle birlikte dolar/TL kuru için 2026 ve 2027 sonu beklentileri açıklandı.\n\nTÜRKİYE'Yİ UYARDI\n\nFitch Ratings, Türkiye'nin kredi notunu \"BB-\" ve görünümünü \"Durağan\" olarak teyit ederken, yüksek enflasyon, politika riskleri ve dış şoklara karşı hassasiyetin not üzerinde baskı oluşturmayı sürdürdüğünü kaydetti.\n\nİran savaşının etkisiyle cari işlemler açığının GSYH'ye oranının 2025'teki yüzde 1,9 seviyesinden 2026'da yaklaşık yüzde 3'e yükseleceği tahmin edildi. Yıllık ortalama petrol fiyatlarındaki 20 dolarlık artışın cari açığı artırabileceği, petrolün 2027'de ortalama 70 dolara gerilemesiyle açığın genel olarak yatay seyredeceği öngörüldü.\n\n\n\nPara piyasası fonlarından çıkan kaynağın büyük bölümünün TL mevduata kaydığı, mevduat dolarizasyonunun yüzde 39 seviyesinde istikrarlı kaldığı ancak yaklaşan seçimler öncesinde dolarizasyonun yeniden artma riskinin orta-yüksek seviyede olduğu vurgulandı.\n\nMART SONUNDAN İTİBAREN 25 MİLYAR DOLAR ARTTI\n\nSıkı parasal koşulların kısa vadeli dış riskleri azalttığını vurgulayan Fitch, brüt döviz rezervlerinin mart sonundan bu yana 25 milyar dolar artarak 23 Eylül itibarıyla 176 milyar dolara ulaştığını bildirdi. Swap hariç net rezervlerin ise mart sonundaki 16 milyar dolardan 45 milyar dolara yükseldiği aktarıldı. Ancak mevcut rezervlerin, İran savaşı öncesindeki 210 milyar doların ve \"BB\" notuna sahip ülkelerin 5,2 aylık medyan seviyesinin altında kaldığı ifade edildi.\n\nYaklaşık 18 milyar dolarlık yatırım fonunun tasfiyesine yönelik son adımları değerlendiren kurum, alınan zamanında önlemlerin hisse senedi piyasasındaki baskıyı sınırladığını ve gelişmelerin kredi notu üzerinde önemli bir etki yaratmasının beklenmediğini belirtti.\n\nDOLARIN 60 LİRA OLACAĞI TARİHİ AÇIKLADI\n\nReel efektif döviz kurundaki değerlenmenin ihracat üzerindeki baskısını azaltmak amacıyla Mayıs 2026'dan bu yana sürdürülen kademeli TL değer kaybının devam edeceğini öngören Fitch, kur ve enflasyon beklentilerini şu şekilde sıraladı:\n\nEnflasyon Tahmini: Yıl sonu enflasyonunun 2026'da yüzde 30,5'e, 2027'de ise yüzde 23,5'e gerileyeceği öngörüldü.\n\nDolar/TL Beklentisi: Dolar kurunun 2026 sonunda 51 TL, 2027 sonunda ise 60 TL seviyesine ulaşması bekleniyor.\n\nEKONOMİK BÜYÜME 2027'DE HIZLANACAK\n\nTürkiye ekonomisindeki büyümeye ilişkin verileri de paylaşan Fitch, ekonomik büyümenin 2026'daki yüzde 2,8 seviyesinden 2027'de yüzde 4,3'e hızlanacağını tahmin etti.\n\nGelecek yıl kredi teşvikleri ve geçici bütçe gevşemesi yoluyla ilave politika riskleri görülse de aşırı heterodoks politikalara dönüş beklenmediği kaydedildi.",
+      "summary_tr": "Doların TL karşısında son bir yılda yakaladığı istikrarlı yükseliş, 15 Eylül'de piyasaları vuran fon krizi, yaklaşan seçimler derken piyasalara ilişkin tahminlerde güncellemeler gelmeye başladı. Küresel kredi derecelendirme kuruluşu Fitch Ratings de tahminlerini güncelleyerek doların 60 lira olacağı tarihi açıkladı.Uluslararası kredi derecelendirme kuruluşı Fitch Ratings, Türkiye ekonomisine ilişkin yeni raporunu yayımladı.\n\nRaporda, \"BB-\" seviyesindeki kredi notu ve \"Durağan\" görünüm üzerindeki risklere dikkat çekilirken, enflasyon, döviz rezervleri ve büyüme tahminleriyle birlikte dolar/TL kuru için 2026 ve 2027 sonu beklentileri açıklandı.\n\nTÜRKİYE'Yİ UYARDI\n\nFitch Ratings, Türkiye'nin kredi notunu \"BB-\" ve görünümünü \"Durağan\" olarak teyit ederken, yüksek enflasyon, politika riskleri ve dış şoklara karşı hassasiyetin not üzerinde baskı oluşturmayı sürdürdüğünü kaydetti.\n\nİran savaşının etkisiyle cari işlemler açığının GSYH'ye oranının 2025'teki yüzde 1,9 seviyesinden 2026'da yaklaşık yüzde 3'e yükseleceği tahmin edildi. Yıllık ortalama petrol fiyatlarındaki 20 dolarlık artışın cari açığı artırabileceği, petrolün 2027'de ortalama 70 dolara gerilemesiyle açığın genel olarak yatay seyredeceği öngörüldü.\n\n\n\nPara piyasası fonlarından çıkan kaynağın büyük bölümünün TL mevduata kaydığı, mevduat dolarizasyonunun yüzde 39 seviyesinde istikrarlı kaldığı ancak yaklaşan seçimler öncesinde dolarizasyonun yeniden artma riskinin orta-yüksek seviyede olduğu vurgulandı.\n\nMART SONUNDAN İTİBAREN 25 MİLYAR DOLAR ARTTI\n\nSıkı parasal koşulların kısa vadeli dış riskleri azalttığını vurgulayan Fitch, brüt döviz rezervlerinin mart sonundan bu yana 25 milyar dolar artarak 23 Eylül itibarıyla 176 milyar dolara ulaştığını bildirdi. Swap hariç net rezervlerin ise mart sonundaki 16 milyar dolardan 45 milyar dolara yükseldiği aktarıldı. Ancak mevcut rezervlerin, İran savaşı öncesindeki 210 milyar doların ve \"BB\" notuna sahip ülkelerin 5,2 aylık medyan seviyesinin altında kaldığı ifade edildi.\n\nYaklaşık 18 milyar dolarlık yatırım fonunun tasfiyesine yönelik son adımları değerlendiren kurum, alınan zamanında önlemlerin hisse senedi piyasasındaki baskıyı sınırladığını ve gelişmelerin kredi notu üzerinde önemli bir etki yaratmasının beklenmediğini belirtti.\n\nDOLARIN 60 LİRA OLACAĞI TARİHİ AÇIKLADI\n\nReel efektif döviz kurundaki değerlenmenin ihracat üzerindeki baskısını azaltmak amacıyla Mayıs 2026'dan bu yana sürdürülen kademeli TL değer kaybının devam edeceğini öngören Fitch, kur ve enflasyon beklentilerini şu şekilde sıraladı:\n\nEnflasyon Tahmini: Yıl sonu enflasyonunun 2026'da yüzde 30,5'e, 2027'de ise yüzde 23,5'e gerileyeceği öngörüldü.\n\nDolar/TL Beklentisi: Dolar kurunun 2026 sonunda 51 TL, 2027 sonunda ise 60 TL seviyesine ulaşması bekleniyor.\n\nEKONOMİK BÜYÜME 2027'DE HIZLANACAK\n\nTürkiye ekonomisindeki büyümeye ilişkin verileri de paylaşan Fitch, ekonomik büyümenin 2026'daki yüzde 2,8 seviyesinden 2027'de yüzde 4,3'e hızlanacağını tahmin etti.\n\nGelecek yıl kredi teşvikleri ve geçici bütçe gevşemesi yoluyla ilave politika riskleri görülse de aşırı heterodoks politikalara dönüş beklenmediği kaydedildi.",
+      "long_summary": "Doların TL karşısında son bir yılda yakaladığı istikrarlı yükseliş, 15 Eylül'de piyasaları vuran fon krizi, yaklaşan seçimler derken piyasalara ilişkin tahminlerde güncellemeler gelmeye başladı. Küresel kredi derecelendirme kuruluşu Fitch Ratings de tahminlerini güncelleyerek doların 60 lira olacağı tarihi açıkladı.Uluslararası kredi derecelendirme kuruluşı Fitch Ratings, Türkiye ekonomisine ilişkin yeni raporunu yayımladı.\n\nRaporda, \"BB-\" seviyesindeki kredi notu ve \"Durağan\" görünüm",
+      "long_summary_tr": "Doların TL karşısında son bir yılda yakaladığı istikrarlı yükseliş, 15 Eylül'de piyasaları vuran fon krizi, yaklaşan seçimler derken piyasalara ilişkin tahminlerde güncellemeler gelmeye başladı. Küresel kredi derecelendirme kuruluşu Fitch Ratings de tahminlerini güncelleyerek doların 60 lira olacağı tarihi açıkladı.Uluslararası kredi derecelendirme kuruluşı Fitch Ratings, Türkiye ekonomisine ilişkin yeni raporunu yayımladı.\n\nRaporda, \"BB-\" seviyesindeki kredi notu ve \"Durağan\" görünüm",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/ekonomi/turkiye-yi-uyardi-dolarin-60-lira-olacagi-tarihi-acikladi-1717598",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/turkiye-yi-uyardi-dolarin-60-lira-olacagi-tarihi-acikladi-1790403441-751_large.webp",
+      "published_at": "2026-09-26T06:16:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "İğne ile öldürülen hasta için hemşirelere ceza yağdı",
+      "title_tr": "İğne ile öldürülen hasta için hemşirelere ceza yağdı",
+      "summary": "Gaziantep'te, 3 yıl önce geçirdiği trafik kazasının ardından tedavi gördüğü özel bir hastanede can veren 27 yaşındaki Abdurrezzak Baysal'ın ölümüne ilişkin hastane çalışanlarının yargılandığı davada hemşire Aslı Ersoy'a, \"olası kastla adam öldürme\" suçundan müebbet hapis, diğer hemşire Mustafa Çelik'e ise \"olası kastla adam öldürme\" suçundan 25 yıl hapis cezası verdi",
+      "summary_tr": "Gaziantep'te, 3 yıl önce geçirdiği trafik kazasının ardından tedavi gördüğü özel bir hastanede can veren 27 yaşındaki Abdurrezzak Baysal'ın ölümüne ilişkin hastane çalışanlarının yargılandığı davada hemşire Aslı Ersoy'a, \"olası kastla adam öldürme\" suçundan müebbet hapis, diğer hemşire Mustafa Çelik'e ise \"olası kastla adam öldürme\" suçundan 25 yıl hapis cezası verdi",
+      "long_summary": "Gaziantep'te, 3 yıl önce geçirdiği trafik kazasının ardından tedavi gördüğü özel bir hastanede can veren 27 yaşındaki Abdurrezzak Baysal'ın ölümüne ilişkin hastane çalışanlarının yargılandığı davada hemşire Aslı Ersoy'a, \"olası kastla adam öldürme\" suçundan müebbet hapis, diğer hemşire Mustafa Çelik'e ise \"olası kastla adam öldürme\" suçundan 25 yıl hapis cezası verdi",
+      "long_summary_tr": "Gaziantep'te, 3 yıl önce geçirdiği trafik kazasının ardından tedavi gördüğü özel bir hastanede can veren 27 yaşındaki Abdurrezzak Baysal'ın ölümüne ilişkin hastane çalışanlarının yargılandığı davada hemşire Aslı Ersoy'a, \"olası kastla adam öldürme\" suçundan müebbet hapis, diğer hemşire Mustafa Çelik'e ise \"olası kastla adam öldürme\" suçundan 25 yıl hapis cezası verdi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-igne-ile-oldurulen-hasta-icin-hemsirelere-ceza-yagdi-gaziantep-haberleri-3915208",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790399832/3915208/jpg/1920x1080",
+      "published_at": "2026-09-26T06:15:45+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Sıcaklıklar düşecek... Bugün hava nasıl olacak? Yaza veda başlıyor...",
+      "title_tr": "Sıcaklıklar düşecek... Bugün hava nasıl olacak? Yaza veda başlıyor...",
+      "summary": "MGM'den yapılan açıklamaya göre, hafta sonu Balkanlar üzerinden gelen serin ve yağışlı sistem Türkiye’yi etkisi altına alacak. Sıcaklık, bugün ve yarın mevsim normallerinde seyrederken pazartesiden itibaren özellikle batı ve iç bölgelerde 4-5 derece kadar azalacak. İşte bugün illerimizde beklenen hava durumu...",
+      "summary_tr": "MGM'den yapılan açıklamaya göre, hafta sonu Balkanlar üzerinden gelen serin ve yağışlı sistem Türkiye’yi etkisi altına alacak. Sıcaklık, bugün ve yarın mevsim normallerinde seyrederken pazartesiden itibaren özellikle batı ve iç bölgelerde 4-5 derece kadar azalacak. İşte bugün illerimizde beklenen hava durumu...",
+      "long_summary": "MGM'den yapılan açıklamaya göre, hafta sonu Balkanlar üzerinden gelen serin ve yağışlı sistem Türkiye’yi etkisi altına alacak. Sıcaklık, bugün ve yarın mevsim normallerinde seyrederken pazartesiden itibaren özellikle batı ve iç bölgelerde 4-5 derece kadar azalacak. İşte bugün illerimizde beklenen hava durumu...",
+      "long_summary_tr": "MGM'den yapılan açıklamaya göre, hafta sonu Balkanlar üzerinden gelen serin ve yağışlı sistem Türkiye’yi etkisi altına alacak. Sıcaklık, bugün ve yarın mevsim normallerinde seyrederken pazartesiden itibaren özellikle batı ve iç bölgelerde 4-5 derece kadar azalacak. İşte bugün illerimizde beklenen hava durumu...",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/hava-durumu-istanbul-sicakliklar-dusecek-bugun-hava-nasil-olacak-yaza-veda-basliyor-3915206",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790395372/3915206/jpg/1920x1080",
+      "published_at": "2026-09-26T06:13:34+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Fon soruşturmasında tutuklu sayısı 51'e yükseldi",
+      "title_tr": "Fon soruşturmasında tutuklu sayısı 51'e yükseldi",
+      "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında 4 kişi daha tutuklanırken, toplam tutuklu sayısı 51'e yükseldi.Fon soruşturmasında gözaltına alınan 4 isim daha tutuklandı.\n\nBöylelikle soruşturma kapsamında tutuklananların sayısı 51'e yükseldi.\n\nİSİMLERİ BELLİ OLDU\n\nTutuklanan 4 şüphelinin isimleri belli oldu:\n\nEthem Bulut Beytorun,\nGürkan Parlakaç,\nÖzdemir Uçar,\nMustafa Dedik.\n\nTUTUKLU SAYISI 51'E YÜKSELDİ\n\n4 şüphelinin daha tutuklanmasıyla soruşturma kapsamında tutuklananların sayısı 51'e yükseldi.",
+      "summary_tr": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında 4 kişi daha tutuklanırken, toplam tutuklu sayısı 51'e yükseldi.Fon soruşturmasında gözaltına alınan 4 isim daha tutuklandı.\n\nBöylelikle soruşturma kapsamında tutuklananların sayısı 51'e yükseldi.\n\nİSİMLERİ BELLİ OLDU\n\nTutuklanan 4 şüphelinin isimleri belli oldu:\n\nEthem Bulut Beytorun,\nGürkan Parlakaç,\nÖzdemir Uçar,\nMustafa Dedik.\n\nTUTUKLU SAYISI 51'E YÜKSELDİ\n\n4 şüphelinin daha tutuklanmasıyla soruşturma kapsamında tutuklananların sayısı 51'e yükseldi.",
+      "long_summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında 4 kişi daha tutuklanırken, toplam tutuklu sayısı 51'e yükseldi.Fon soruşturmasında gözaltına alınan 4 isim daha tutuklandı.\n\nBöylelikle soruşturma kapsamında tutuklananların sayısı 51'e yükseldi.\n\nİSİMLERİ BELLİ OLDU\n\nTutuklanan 4 şüphelinin isimleri belli oldu:\n\nEthem Bulut Beytorun,\nGürkan Parlakaç,\nÖzdemir Uçar,\nMustafa Dedik.\n\nTUTUKLU SAYISI 51'E YÜKSELDİ\n\n4 şüphelinin daha tutuklanmasıyla soruşturma",
+      "long_summary_tr": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında 4 kişi daha tutuklanırken, toplam tutuklu sayısı 51'e yükseldi.Fon soruşturmasında gözaltına alınan 4 isim daha tutuklandı.\n\nBöylelikle soruşturma kapsamında tutuklananların sayısı 51'e yükseldi.\n\nİSİMLERİ BELLİ OLDU\n\nTutuklanan 4 şüphelinin isimleri belli oldu:\n\nEthem Bulut Beytorun,\nGürkan Parlakaç,\nÖzdemir Uçar,\nMustafa Dedik.\n\nTUTUKLU SAYISI 51'E YÜKSELDİ\n\n4 şüphelinin daha tutuklanmasıyla soruşturma",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/fon-sorusturmasinda-tutuklu-sayisi-51-e-yukseldi-1717595",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/fon-sorusturmasinda-tutuklu-sayisi-51-e-yukseldi-1790403259-64_large.webp",
+      "published_at": "2026-09-26T06:13:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "SGK yazısıyla kıdem tazminatı",
+      "title_tr": "SGK yazısıyla kıdem tazminatı",
+      "summary": "Yaş dışındaki emeklilik koşullarını yerine getiren işçiler, kendi istekleriyle işten ayrıldıklarında kıdem tazminatını alabilirler. İşçiler, koşulları yerine getirdiklerine dair yazıyı Sosyal Güvenlik Kurumundan alıp işverene vermek zorundalar. Peki, SGK’dan yazı alan işçi işten ayrılmadan kıdem tazminatı alabilir mi? Yazıya rağmen işveren tazminatını ödemezse ne yapmalı? Ahmet Kıvanç, Habertürk okurlarının sorularını yanıtladı",
+      "summary_tr": "Yaş dışındaki emeklilik koşullarını yerine getiren işçiler, kendi istekleriyle işten ayrıldıklarında kıdem tazminatını alabilirler. İşçiler, koşulları yerine getirdiklerine dair yazıyı Sosyal Güvenlik Kurumundan alıp işverene vermek zorundalar. Peki, SGK’dan yazı alan işçi işten ayrılmadan kıdem tazminatı alabilir mi? Yazıya rağmen işveren tazminatını ödemezse ne yapmalı? Ahmet Kıvanç, Habertürk okurlarının sorularını yanıtladı",
+      "long_summary": "Yaş dışındaki emeklilik koşullarını yerine getiren işçiler, kendi istekleriyle işten ayrıldıklarında kıdem tazminatını alabilirler. İşçiler, koşulları yerine getirdiklerine dair yazıyı Sosyal Güvenlik Kurumundan alıp işverene vermek zorundalar. Peki, SGK’dan yazı alan işçi işten ayrılmadan kıdem tazminatı alabilir mi? Yazıya rağmen işveren tazminatını ödemezse ne yapmalı? Ahmet Kıvanç, Habertürk okurlarının sorularını yanıtladı",
+      "long_summary_tr": "Yaş dışındaki emeklilik koşullarını yerine getiren işçiler, kendi istekleriyle işten ayrıldıklarında kıdem tazminatını alabilirler. İşçiler, koşulları yerine getirdiklerine dair yazıyı Sosyal Güvenlik Kurumundan alıp işverene vermek zorundalar. Peki, SGK’dan yazı alan işçi işten ayrılmadan kıdem tazminatı alabilir mi? Yazıya rağmen işveren tazminatını ödemezse ne yapmalı? Ahmet Kıvanç, Habertürk okurlarının sorularını yanıtladı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/sgk-yazisiyla-kidem-tazminati-3915105",
+      "image": "https://im.haberturk.com/l/2026/09/25/ver1790348617/3915105/jpg/1920x1080",
+      "published_at": "2026-09-26T06:12:42+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Ayfer kaçmaya çalıştı... Kocası tetiğe bastı",
+      "title_tr": "Ayfer kaçmaya çalıştı... Kocası tetiğe bastı",
+      "summary": "Diyarbakır’da, 37 yaşındaki O.Ç., tartıştığı eşi 32 yaşındaki Ayfer Çakmak’ı, evden çıkıp kaçmaya çalışırken av tüfeğiyle vurarak öldürdü. Cinayet şüphelisi O.Ç., olayın ardından gözaltına alındı. Polis, olayla ilgili soruşturmaya devam ediyor",
+      "summary_tr": "Diyarbakır’da, 37 yaşındaki O.Ç., tartıştığı eşi 32 yaşındaki Ayfer Çakmak’ı, evden çıkıp kaçmaya çalışırken av tüfeğiyle vurarak öldürdü. Cinayet şüphelisi O.Ç., olayın ardından gözaltına alındı. Polis, olayla ilgili soruşturmaya devam ediyor",
+      "long_summary": "Diyarbakır’da, 37 yaşındaki O.Ç., tartıştığı eşi 32 yaşındaki Ayfer Çakmak’ı, evden çıkıp kaçmaya çalışırken av tüfeğiyle vurarak öldürdü. Cinayet şüphelisi O.Ç., olayın ardından gözaltına alındı. Polis, olayla ilgili soruşturmaya devam ediyor",
+      "long_summary_tr": "Diyarbakır’da, 37 yaşındaki O.Ç., tartıştığı eşi 32 yaşındaki Ayfer Çakmak’ı, evden çıkıp kaçmaya çalışırken av tüfeğiyle vurarak öldürdü. Cinayet şüphelisi O.Ç., olayın ardından gözaltına alındı. Polis, olayla ilgili soruşturmaya devam ediyor",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-ayfer-kacmaya-calisti-katil-koca-tetige-basti-diyarbakir-haberleri-3915207",
+      "image": "https://im.haberturk.com/l/2026/09/26/ver1790397326/3915207/jpg/1920x1080",
+      "published_at": "2026-09-26T06:12:40+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "BBC Sport",
+      "title": "Chadwick says driving F1 car 'top of bucket list'",
+      "title_tr": "Chadwick says driving F1 car 'top of bucket list'",
+      "summary": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
+      "summary_tr": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
+      "long_summary": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
+      "long_summary_tr": "Jamie Chadwick says testing a Formula 1 car is the highlight of her motorsport career.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/ck5ywrn20z3vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a6/live/97982900-b8e1-11f1-ba42-19e1456ae537.jpg",
+      "published_at": "2026-09-26T06:09:46+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Ünlü isimlerin gittiği lüks spor salonu zinciri 16 şubesini kapattı",
+      "title_tr": "Ünlü isimlerin gittiği lüks spor salonu zinciri 16 şubesini kapattı",
+      "summary": "İngiltere&#039;nin başkenti Londra&#039;da faaliyet gösteren beş lüks spor salonu zinciri, 16 şubesini beklenmedik şekilde kapattı. Yıllık üyelik ücretlerinin 2 bin 400 sterline ulaştığı salonların kapanması, ders paketlerini önceden satın alan yüzlerce üyeyi mağdur etti. Kapanan merkezler arasında dünyaca ünlü isimlerin tercih ettiği spor salonları da bulunuyor.",
+      "summary_tr": "İngiltere&#039;nin başkenti Londra&#039;da faaliyet gösteren beş lüks spor salonu zinciri, 16 şubesini beklenmedik şekilde kapattı. Yıllık üyelik ücretlerinin 2 bin 400 sterline ulaştığı salonların kapanması, ders paketlerini önceden satın alan yüzlerce üyeyi mağdur etti. Kapanan merkezler arasında dünyaca ünlü isimlerin tercih ettiği spor salonları da bulunuyor.",
+      "long_summary": "İngiltere&#039;nin başkenti Londra&#039;da faaliyet gösteren beş lüks spor salonu zinciri, 16 şubesini beklenmedik şekilde kapattı. Yıllık üyelik ücretlerinin 2 bin 400 sterline ulaştığı salonların kapanması, ders paketlerini önceden satın alan yüzlerce üyeyi mağdur etti. Kapanan merkezler arasında dünyaca ünlü isimlerin tercih ettiği spor salonları da bulunuyor.",
+      "long_summary_tr": "İngiltere&#039;nin başkenti Londra&#039;da faaliyet gösteren beş lüks spor salonu zinciri, 16 şubesini beklenmedik şekilde kapattı. Yıllık üyelik ücretlerinin 2 bin 400 sterline ulaştığı salonların kapanması, ders paketlerini önceden satın alan yüzlerce üyeyi mağdur etti. Kapanan merkezler arasında dünyaca ünlü isimlerin tercih ettiği spor salonları da bulunuyor.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/unlu-isimlerin-gittigi-luks-spor-salonu-zinciri-16-subesini-kapatti-haberi-841514",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/09/26/chatgpt-gorseli-26-eyl-2026-09-15-5-nk2g_cover.jpg",
+      "published_at": "2026-09-26T06:09:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Haftanın Kitapları",
+      "title_tr": "Haftanın Kitapları",
+      "summary": "Biyografiden öyküye, araştırmadan romana, anıdan şiire bu hafta da pek çok kitap okurla buluştu. İşte yeni çıkan kitaplar arasından sizin için seçtiklerimiz...",
+      "summary_tr": "Biyografiden öyküye, araştırmadan romana, anıdan şiire bu hafta da pek çok kitap okurla buluştu. İşte yeni çıkan kitaplar arasından sizin için seçtiklerimiz...",
+      "long_summary": "Biyografiden öyküye, araştırmadan romana, anıdan şiire bu hafta da pek çok kitap okurla buluştu. İşte yeni çıkan kitaplar arasından sizin için seçtiklerimiz...",
+      "long_summary_tr": "Biyografiden öyküye, araştırmadan romana, anıdan şiire bu hafta da pek çok kitap okurla buluştu. İşte yeni çıkan kitaplar arasından sizin için seçtiklerimiz...",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/kultur-sanat/foto/haftanin-kitaplari-3915008",
+      "image": "https://im.haberturk.com/l/2026/09/25/ver1790401983/3915008/jpg/1920x1080",
+      "published_at": "2026-09-26T06:08:24+00:00"
     },
     {
       "origin": "turkiye",
@@ -681,29 +989,7 @@
       ],
       "url": "https://www.haberturk.com/bilgi/foto/masterchef-odul-oyununu-kim-kazandi-eleme-potasinda-kim-var-25-eylul-masterchef-hangi-takim-kazandi-3915174",
       "image": "https://im.haberturk.com/l/2026/09/25/ver1790364799/3915174/jpg/1920x1080",
-      "published_at": "2026-09-25T22:16:36+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Should 'soft' Warrington penalty that left Leeds heartbroken have stood?",
-      "title_tr": "Should 'soft' Warrington penalty that left Leeds heartbroken have stood?",
-      "summary": "It was a semi-final that had it all: hard-hitting rugby, controversy and a late dash of attempted heroics.",
-      "summary_tr": "It was a semi-final that had it all: hard-hitting rugby, controversy and a late dash of attempted heroics.",
-      "long_summary": "It was a semi-final that had it all: hard-hitting rugby, controversy and a late dash of attempted heroics.",
-      "long_summary_tr": "It was a semi-final that had it all: hard-hitting rugby, controversy and a late dash of attempted heroics.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-league/news/12040/13591952/warrington-wolves-beat-leeds-rhinos-to-reach-super-league-grand-final-should-the-soft-penalty-that-decided-semi-final-have-stood",
-      "image": "https://e2.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7361450.jpg?20260925222245",
-      "published_at": "2026-09-25T22:15:00+00:00"
+      "published_at": "2026-09-26T06:08:20+00:00"
     },
     {
       "origin": "turkiye",
@@ -711,21 +997,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "İkinci cemre ne zaman düşecek?",
-      "title_tr": "İkinci cemre ne zaman düşecek?",
-      "summary": "Baharın müjdecisi olarak bilinen cemre düşme tarihleri gündemde yer alıyor. Cemre düşmesi halk kültüründe baharın habercisi olarak biliniyor. Cemreler hanaya, suya ve toprağa olmak üzere farklı aralıklarla üç kez düşüyor. Ardından havalar ısınıyor ve bahar geliyor. Peki, İkinci cemre düştü mü, ne zaman düşecek? İşte, havaya, suya, toprağa sırasıyla cemre düşme tarihleri 2026",
-      "summary_tr": "Baharın müjdecisi olarak bilinen cemre düşme tarihleri gündemde yer alıyor. Cemre düşmesi halk kültüründe baharın habercisi olarak biliniyor. Cemreler hanaya, suya ve toprağa olmak üzere farklı aralıklarla üç kez düşüyor. Ardından havalar ısınıyor ve bahar geliyor. Peki, İkinci cemre düştü mü, ne zaman düşecek? İşte, havaya, suya, toprağa sırasıyla cemre düşme tarihleri 2026",
-      "long_summary": "Baharın müjdecisi olarak bilinen cemre düşme tarihleri gündemde yer alıyor. Cemre düşmesi halk kültüründe baharın habercisi olarak biliniyor. Cemreler hanaya, suya ve toprağa olmak üzere farklı aralıklarla üç kez düşüyor. Ardından havalar ısınıyor ve bahar geliyor. Peki, İkinci cemre düştü mü, ne zaman düşecek? İşte, havaya, suya, toprağa sırasıyla cemre düşme tarihleri 2026",
-      "long_summary_tr": "Baharın müjdecisi olarak bilinen cemre düşme tarihleri gündemde yer alıyor. Cemre düşmesi halk kültüründe baharın habercisi olarak biliniyor. Cemreler hanaya, suya ve toprağa olmak üzere farklı aralıklarla üç kez düşüyor. Ardından havalar ısınıyor ve bahar geliyor. Peki, İkinci cemre düştü mü, ne zaman düşecek? İşte, havaya, suya, toprağa sırasıyla cemre düşme tarihleri 2026",
+      "title": "Hafta sonu hava nasıl olacak?",
+      "title_tr": "Hafta sonu hava nasıl olacak?",
+      "summary": "Meteoroloji’den hava durumu tahmini paylaşıldı. Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Cengiz Çelik, yurt genelinde beklenen hava durumuna ilişkin değerlendirmede bulundu. Yapılan değerlendirmelere göre Marmara, Ege ve Batı Akdeniz ile İç Anadolu’nun batısında pazar günü sağanak ve gök gürültülü sağanak yağış beklentisi var. Peki, bu hafta sonu hava nasıl olacak?  İşte, 26-27 Eylül 2026 Ankara, İzmir, İstanbul ve il il hava durumu tahmini",
+      "summary_tr": "Meteoroloji’den hava durumu tahmini paylaşıldı. Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Cengiz Çelik, yurt genelinde beklenen hava durumuna ilişkin değerlendirmede bulundu. Yapılan değerlendirmelere göre Marmara, Ege ve Batı Akdeniz ile İç Anadolu’nun batısında pazar günü sağanak ve gök gürültülü sağanak yağış beklentisi var. Peki, bu hafta sonu hava nasıl olacak?  İşte, 26-27 Eylül 2026 Ankara, İzmir, İstanbul ve il il hava durumu tahmini",
+      "long_summary": "Meteoroloji’den hava durumu tahmini paylaşıldı. Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Cengiz Çelik, yurt genelinde beklenen hava durumuna ilişkin değerlendirmede bulundu. Yapılan değerlendirmelere göre Marmara, Ege ve Batı Akdeniz ile İç Anadolu’nun batısında pazar günü sağanak ve gök gürültülü sağanak yağış beklentisi var. Peki, bu hafta sonu hava nasıl olacak?  İşte, 26-27 Eylül 2026 Ankara, İzmir, İstanbul ve il il hava durumu tahmini",
+      "long_summary_tr": "Meteoroloji’den hava durumu tahmini paylaşıldı. Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Cengiz Çelik, yurt genelinde beklenen hava durumuna ilişkin değerlendirmede bulundu. Yapılan değerlendirmelere göre Marmara, Ege ve Batı Akdeniz ile İç Anadolu’nun batısında pazar günü sağanak ve gök gürültülü sağanak yağış beklentisi var. Peki, bu hafta sonu hava nasıl olacak?  İşte, 26-27 Eylül 2026 Ankara, İzmir, İstanbul ve il il hava durumu tahmini",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/ikinci-cemre-dustu-mu-nereye-dusecek-havaya-suya-topraga-sirasiyla-cemre-dusme-tarihi-2026-3864706",
-      "image": "https://im.haberturk.com/l/2026/02/25/ver1772089474/3864706/jpg/1920x1080",
-      "published_at": "2026-09-25T22:14:35+00:00"
+      "url": "https://www.haberturk.com/bilgi/foto/hafta-sonu-hava-nasil-olacak-26-27-eylul-2026-ankara-izmir-istanbul-ve-il-il-hava-durumu-tahmini-3915168",
+      "image": "https://im.haberturk.com/l/2026/09/25/ver1790362761/3915168/jpg/1920x1080",
+      "published_at": "2026-09-26T06:08:14+00:00"
     },
     {
       "origin": "turkiye",
@@ -733,43 +1019,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Arefe Günü noter açık mı?",
-      "title_tr": "Arefe Günü noter açık mı?",
-      "summary": "Ramazan Bayramı bu yıl 19 Mart Arefe Günü’nden 22 Mart Pazar gününe dek sürecek. Yurttaşlar arefe günü ve bayramda noterler açık mı sorusunu gündeme getiriyor. Peki, Arefe Günü noterler açık mı? İşte detaylar...",
-      "summary_tr": "Ramazan Bayramı bu yıl 19 Mart Arefe Günü’nden 22 Mart Pazar gününe dek sürecek. Yurttaşlar arefe günü ve bayramda noterler açık mı sorusunu gündeme getiriyor. Peki, Arefe Günü noterler açık mı? İşte detaylar...",
-      "long_summary": "Ramazan Bayramı bu yıl 19 Mart Arefe Günü’nden 22 Mart Pazar gününe dek sürecek. Yurttaşlar arefe günü ve bayramda noterler açık mı sorusunu gündeme getiriyor. Peki, Arefe Günü noterler açık mı? İşte detaylar...",
-      "long_summary_tr": "Ramazan Bayramı bu yıl 19 Mart Arefe Günü’nden 22 Mart Pazar gününe dek sürecek. Yurttaşlar arefe günü ve bayramda noterler açık mı sorusunu gündeme getiriyor. Peki, Arefe Günü noterler açık mı? İşte detaylar...",
+      "title": "İBB burs başvuru tarihi açıklandı!",
+      "title_tr": "İBB burs başvuru tarihi açıklandı!",
+      "summary": "İBB burs başvuru tarihi belli oldu. İstanbul’da üniversite okuyan gençlerin kültürel ve sosyal olarak daha aktif olmaları ve eğitimde fırsat eşitliği sağlamak için İBB Genç Üniversiteli bursu desteği bu sene de devam ediyor. Burstan faydalanmak isteyen öğrenciler İBB burs başvuru tarihi, şartları gibi detayları araştırıyor. Belirtilen tarihler dışında yapılan müracaatlar değerlendirmeye alınmayacağı biliniyor. Peki, 2026 2027 Genç Üniversiteli İBB burs başvurusu ne zaman, başvurular nasıl ve nereden yapılır?",
+      "summary_tr": "İBB burs başvuru tarihi belli oldu. İstanbul’da üniversite okuyan gençlerin kültürel ve sosyal olarak daha aktif olmaları ve eğitimde fırsat eşitliği sağlamak için İBB Genç Üniversiteli bursu desteği bu sene de devam ediyor. Burstan faydalanmak isteyen öğrenciler İBB burs başvuru tarihi, şartları gibi detayları araştırıyor. Belirtilen tarihler dışında yapılan müracaatlar değerlendirmeye alınmayacağı biliniyor. Peki, 2026 2027 Genç Üniversiteli İBB burs başvurusu ne zaman, başvurular nasıl ve nereden yapılır?",
+      "long_summary": "İBB burs başvuru tarihi belli oldu. İstanbul’da üniversite okuyan gençlerin kültürel ve sosyal olarak daha aktif olmaları ve eğitimde fırsat eşitliği sağlamak için İBB Genç Üniversiteli bursu desteği bu sene de devam ediyor. Burstan faydalanmak isteyen öğrenciler İBB burs başvuru tarihi, şartları gibi detayları araştırıyor. Belirtilen tarihler dışında yapılan müracaatlar değerlendirmeye alınmayacağı biliniyor. Peki, 2026 2027 Genç Üniversiteli İBB burs başvurusu ne zaman, başvurular nasıl ve",
+      "long_summary_tr": "İBB burs başvuru tarihi belli oldu. İstanbul’da üniversite okuyan gençlerin kültürel ve sosyal olarak daha aktif olmaları ve eğitimde fırsat eşitliği sağlamak için İBB Genç Üniversiteli bursu desteği bu sene de devam ediyor. Burstan faydalanmak isteyen öğrenciler İBB burs başvuru tarihi, şartları gibi detayları araştırıyor. Belirtilen tarihler dışında yapılan müracaatlar değerlendirmeye alınmayacağı biliniyor. Peki, 2026 2027 Genç Üniversiteli İBB burs başvurusu ne zaman, başvurular nasıl ve",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/arefe-gunu-noter-acik-mi-kapali-mi-19-mart-arefe-gunu-noterler-saat-kaca-kadar-acik-rmz06-3867312",
-      "image": "https://im.haberturk.com/l/2026/03/05/ver1773899537/3867312/jpg/1920x1080",
-      "published_at": "2026-09-25T22:13:25+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Dünya",
-      "category_slug": "dunya",
-      "is_local": false,
-      "source": "BBC World",
-      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "title_tr": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "summary_tr": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "long_summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "long_summary_tr": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
-      "why_important": [
-        "Uluslararası dengeleri ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Uluslararası ilişkilerde dengeler değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published_at": "2026-09-25T22:12:48+00:00"
+      "url": "https://www.haberturk.com/bilgi/foto/ibb-burs-basvuru-tarihi-aciklandi-2026-2027-genc-universiteli-ibb-burs-basvurusu-nasil-ve-nereden-yapilir-3915137",
+      "image": "https://im.haberturk.com/l/2026/09/25/ver1790351661/3915137/jpg/1920x1080",
+      "published_at": "2026-09-26T06:07:40+00:00"
     },
     {
       "origin": "turkiye",
@@ -777,329 +1041,65 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "BİLSEM sonuçları açıklandı!",
-      "title_tr": "BİLSEM sonuçları açıklandı!",
-      "summary": "Milli Eğitim Bakanlığı (MEB) tarafından 27 Şubat Cuma günü BİLSEM sonuçları açıklandı. Böylece bireysel değerlendirme uygulamalarına katılmaya hak kazanan öğrenciler belli oldu. Bireysel değerlendirme aşamasına katılan adaylar, BİLSEM sonuç bilgilerine www.meb.gov.tr adresinden ulaşabilecek. İşte, MEB 2026 BİLSEM sonuç sorgulama ekranı ve tüm detaylar",
-      "summary_tr": "Milli Eğitim Bakanlığı (MEB) tarafından 27 Şubat Cuma günü BİLSEM sonuçları açıklandı. Böylece bireysel değerlendirme uygulamalarına katılmaya hak kazanan öğrenciler belli oldu. Bireysel değerlendirme aşamasına katılan adaylar, BİLSEM sonuç bilgilerine www.meb.gov.tr adresinden ulaşabilecek. İşte, MEB 2026 BİLSEM sonuç sorgulama ekranı ve tüm detaylar",
-      "long_summary": "Milli Eğitim Bakanlığı (MEB) tarafından 27 Şubat Cuma günü BİLSEM sonuçları açıklandı. Böylece bireysel değerlendirme uygulamalarına katılmaya hak kazanan öğrenciler belli oldu. Bireysel değerlendirme aşamasına katılan adaylar, BİLSEM sonuç bilgilerine www.meb.gov.tr adresinden ulaşabilecek. İşte, MEB 2026 BİLSEM sonuç sorgulama ekranı ve tüm detaylar",
-      "long_summary_tr": "Milli Eğitim Bakanlığı (MEB) tarafından 27 Şubat Cuma günü BİLSEM sonuçları açıklandı. Böylece bireysel değerlendirme uygulamalarına katılmaya hak kazanan öğrenciler belli oldu. Bireysel değerlendirme aşamasına katılan adaylar, BİLSEM sonuç bilgilerine www.meb.gov.tr adresinden ulaşabilecek. İşte, MEB 2026 BİLSEM sonuç sorgulama ekranı ve tüm detaylar",
+      "title": "Türkiye Fransa maçı sonucu",
+      "title_tr": "Türkiye Fransa maçı sonucu",
+      "summary": "UEFA Uluslar Ligi’nde Türkiye Fransa maçı canlı yayında izleyiciyle buluştu. A Milli Futbol Takımı, UEFA Uluslar Ligi A Ligi’ndeki ilk maçında Fransa ile karşı karşıya geldi. Milli takımın maç sonucunu merak edenler ''Türkiye Fransa maçı kaç kaç bitti?'' sorusuna yanıt arıyor. Ay-yıldızlı futbolcularımız gelecek maçta İtalya ile kozlarını paylaşacak. Fransa ise Belçika ile karşı karşıya gelecek.  Peki Türkiye Fransa maç sonucu nasıl? İşte, Türkiye Fransa maçı sonucu ve goller özeti",
+      "summary_tr": "UEFA Uluslar Ligi’nde Türkiye Fransa maçı canlı yayında izleyiciyle buluştu. A Milli Futbol Takımı, UEFA Uluslar Ligi A Ligi’ndeki ilk maçında Fransa ile karşı karşıya geldi. Milli takımın maç sonucunu merak edenler ''Türkiye Fransa maçı kaç kaç bitti?'' sorusuna yanıt arıyor. Ay-yıldızlı futbolcularımız gelecek maçta İtalya ile kozlarını paylaşacak. Fransa ise Belçika ile karşı karşıya gelecek.  Peki Türkiye Fransa maç sonucu nasıl? İşte, Türkiye Fransa maçı sonucu ve goller özeti",
+      "long_summary": "UEFA Uluslar Ligi’nde Türkiye Fransa maçı canlı yayında izleyiciyle buluştu. A Milli Futbol Takımı, UEFA Uluslar Ligi A Ligi’ndeki ilk maçında Fransa ile karşı karşıya geldi. Milli takımın maç sonucunu merak edenler ''Türkiye Fransa maçı kaç kaç bitti?'' sorusuna yanıt arıyor. Ay-yıldızlı futbolcularımız gelecek maçta İtalya ile kozlarını paylaşacak. Fransa ise Belçika ile karşı karşıya gelecek.  Peki Türkiye Fransa maç sonucu nasıl? İşte, Türkiye Fransa maçı sonucu ve goller özeti",
+      "long_summary_tr": "UEFA Uluslar Ligi’nde Türkiye Fransa maçı canlı yayında izleyiciyle buluştu. A Milli Futbol Takımı, UEFA Uluslar Ligi A Ligi’ndeki ilk maçında Fransa ile karşı karşıya geldi. Milli takımın maç sonucunu merak edenler ''Türkiye Fransa maçı kaç kaç bitti?'' sorusuna yanıt arıyor. Ay-yıldızlı futbolcularımız gelecek maçta İtalya ile kozlarını paylaşacak. Fransa ise Belçika ile karşı karşıya gelecek.  Peki Türkiye Fransa maç sonucu nasıl? İşte, Türkiye Fransa maçı sonucu ve goller özeti",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/bilsem-sonuclari-aciklandi-2026-bilsem-on-degerlendirme-sonuclari-meb-sorgulamasi-nasil-yapilir-3865092",
-      "image": "https://im.haberturk.com/l/2026/02/26/ver1772200957/3865092/jpg/1920x1080",
-      "published_at": "2026-09-25T22:12:35+00:00"
+      "url": "https://www.haberturk.com/bilgi/foto/turkiye-fransa-maci-canli-izle-turkiye-fransa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-canli-yayinlanacak-3915130",
+      "image": "https://im.haberturk.com/l/2026/09/25/ver1790350599/3915130/jpg/1920x1080",
+      "published_at": "2026-09-26T06:07:30+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "İkinci ara tatil bayram tatiliyle birleşecek mi?",
-      "title_tr": "İkinci ara tatil bayram tatiliyle birleşecek mi?",
-      "summary": "Milli Eğitim Bakanlığı tarafından açıklanan 2025 2026 eğitim takvimine göre ikinci ara tatil takvimi belli oldu. Birinci dönem ara tatili, 10-14 Kasım arasında yapıldı. Yarıyıl tatili ise 19 Ocak tarihinde gerçekleşti. Peki, ikinci ara tatil ne zaman, hangi tarihte başlıyor?",
-      "summary_tr": "Milli Eğitim Bakanlığı tarafından açıklanan 2025 2026 eğitim takvimine göre ikinci ara tatil takvimi belli oldu. Birinci dönem ara tatili, 10-14 Kasım arasında yapıldı. Yarıyıl tatili ise 19 Ocak tarihinde gerçekleşti. Peki, ikinci ara tatil ne zaman, hangi tarihte başlıyor?",
-      "long_summary": "Milli Eğitim Bakanlığı tarafından açıklanan 2025 2026 eğitim takvimine göre ikinci ara tatil takvimi belli oldu. Birinci dönem ara tatili, 10-14 Kasım arasında yapıldı. Yarıyıl tatili ise 19 Ocak tarihinde gerçekleşti. Peki, ikinci ara tatil ne zaman, hangi tarihte başlıyor?",
-      "long_summary_tr": "Milli Eğitim Bakanlığı tarafından açıklanan 2025 2026 eğitim takvimine göre ikinci ara tatil takvimi belli oldu. Birinci dönem ara tatili, 10-14 Kasım arasında yapıldı. Yarıyıl tatili ise 19 Ocak tarihinde gerçekleşti. Peki, ikinci ara tatil ne zaman, hangi tarihte başlıyor?",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa Büyükşehir güreşçisi tarihi er meydanında",
+      "title_tr": "Bursa Büyükşehir güreşçisi tarihi er meydanında",
+      "summary": "Bursa Büyükşehir Belediyespor güreşçisi Alperen Düzenci, yağlı güreşte 57 yıl sonra ilk kez düzenlenecek olan Cumhurbaşkanlığı Kupası’nda Bursa’yı temsil edecek.Türkiye Geleneksel Güreşler Federasyonu tarafından Yağlı Güreş Cumhurbaşkanlığı Kupası, 26 Eylül Cumartesi günü Atatürk Havalimanı Millet Bahçesi’nde düzenlenecek. 57 yıl sonra yeniden hayata geçirilen organizasyonda, 8 başpehlivan ve 84 pehlivan yer alacak.\n\nErkan Taş, Feyzullah Aktürk, Seçkin Duman, Mustafa Taş, Ali Gürbüz, Orhan Okulu, Sinan Yıldız ve Yusuf İslam Taş gibi başpehlivanların ter dökeceği Yağlı Güreş Cumhurbaşkanlığı Kupası’nda Bursa Büyükşehir Belediyespor güreşçisi Alperen Düzenci de er meydanına çıkacak. Küçük Orta Büyük Boy kategorisinde mücadele edecek Büyükşehir Belediyespor güreşçisi Alperen Düzenci, madalya için mücadele edecek. Saat 08.00’deki kura çekimiyle başlayacak Cumhurbaşkanlığı Kupası, saat 17.00’de yapılması planlanan başpehlivanlık final maçıyla sona erecek.\n\nBursa Büyükşehir Belediye Başkan Vekili Şahin Biba, “Büyükşehir Belediyesi olarak ata sporumuz güreşin hem şehrimizde hem de ülkemizdeki gelişimine katkı sunmak istiyoruz. Bursa’mızda şampiyon güreşçiler yetiştirmeyi, şehrimizin ‘spor kenti’ kimliğine güç katmayı ve ata sporumuza olan ilgiyi artırmayı hedefliyoruz. Bu doğrultuda 57 yıl sonra yeniden düzenlenen Cumhurbaşkanlığı Kupası’nda Bursa’nın da temsil edilmesini kıymetli buluyorum. Büyükşehir Belediyespor güreşçimiz Alperen Düzenci’ye er meydanında başarılar diliyorum” dedi.",
+      "summary_tr": "Bursa Büyükşehir Belediyespor güreşçisi Alperen Düzenci, yağlı güreşte 57 yıl sonra ilk kez düzenlenecek olan Cumhurbaşkanlığı Kupası’nda Bursa’yı temsil edecek.Türkiye Geleneksel Güreşler Federasyonu tarafından Yağlı Güreş Cumhurbaşkanlığı Kupası, 26 Eylül Cumartesi günü Atatürk Havalimanı Millet Bahçesi’nde düzenlenecek. 57 yıl sonra yeniden hayata geçirilen organizasyonda, 8 başpehlivan ve 84 pehlivan yer alacak.\n\nErkan Taş, Feyzullah Aktürk, Seçkin Duman, Mustafa Taş, Ali Gürbüz, Orhan Okulu, Sinan Yıldız ve Yusuf İslam Taş gibi başpehlivanların ter dökeceği Yağlı Güreş Cumhurbaşkanlığı Kupası’nda Bursa Büyükşehir Belediyespor güreşçisi Alperen Düzenci de er meydanına çıkacak. Küçük Orta Büyük Boy kategorisinde mücadele edecek Büyükşehir Belediyespor güreşçisi Alperen Düzenci, madalya için mücadele edecek. Saat 08.00’deki kura çekimiyle başlayacak Cumhurbaşkanlığı Kupası, saat 17.00’de yapılması planlanan başpehlivanlık final maçıyla sona erecek.\n\nBursa Büyükşehir Belediye Başkan Vekili Şahin Biba, “Büyükşehir Belediyesi olarak ata sporumuz güreşin hem şehrimizde hem de ülkemizdeki gelişimine katkı sunmak istiyoruz. Bursa’mızda şampiyon güreşçiler yetiştirmeyi, şehrimizin ‘spor kenti’ kimliğine güç katmayı ve ata sporumuza olan ilgiyi artırmayı hedefliyoruz. Bu doğrultuda 57 yıl sonra yeniden düzenlenen Cumhurbaşkanlığı Kupası’nda Bursa’nın da temsil edilmesini kıymetli buluyorum. Büyükşehir Belediyespor güreşçimiz Alperen Düzenci’ye er meydanında başarılar diliyorum” dedi.",
+      "long_summary": "Bursa Büyükşehir Belediyespor güreşçisi Alperen Düzenci, yağlı güreşte 57 yıl sonra ilk kez düzenlenecek olan Cumhurbaşkanlığı Kupası’nda Bursa’yı temsil edecek.Türkiye Geleneksel Güreşler Federasyonu tarafından Yağlı Güreş Cumhurbaşkanlığı Kupası, 26 Eylül Cumartesi günü Atatürk Havalimanı Millet Bahçesi’nde düzenlenecek. 57 yıl sonra yeniden hayata geçirilen organizasyonda, 8 başpehlivan ve 84 pehlivan yer alacak.\n\nErkan Taş, Feyzullah Aktürk, Seçkin Duman, Mustafa Taş, Ali Gürbüz, Orhan",
+      "long_summary_tr": "Bursa Büyükşehir Belediyespor güreşçisi Alperen Düzenci, yağlı güreşte 57 yıl sonra ilk kez düzenlenecek olan Cumhurbaşkanlığı Kupası’nda Bursa’yı temsil edecek.Türkiye Geleneksel Güreşler Federasyonu tarafından Yağlı Güreş Cumhurbaşkanlığı Kupası, 26 Eylül Cumartesi günü Atatürk Havalimanı Millet Bahçesi’nde düzenlenecek. 57 yıl sonra yeniden hayata geçirilen organizasyonda, 8 başpehlivan ve 84 pehlivan yer alacak.\n\nErkan Taş, Feyzullah Aktürk, Seçkin Duman, Mustafa Taş, Ali Gürbüz, Orhan",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.haberturk.com/ikinci-ara-tatil-ne-zaman-hangi-tarihte-meb-2025-2026-ara-tatil-takvimi-3864530",
-      "image": "https://im.haberturk.com/l/2026/02/24/ver1771937689/3864530/jpg/1920x1080",
-      "published_at": "2026-09-25T22:11:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Carreras magic lights up Bath win over Harlequins",
-      "title_tr": "Carreras magic lights up Bath win over Harlequins",
-      "summary": "A terrific try from full-back Santiago Carreras is the highlight of Bath's Prem opening night bonus-point victory over Harlequins.",
-      "summary_tr": "A terrific try from full-back Santiago Carreras is the highlight of Bath's Prem opening night bonus-point victory over Harlequins.",
-      "long_summary": "A terrific try from full-back Santiago Carreras is the highlight of Bath's Prem opening night bonus-point victory over Harlequins.",
-      "long_summary_tr": "A terrific try from full-back Santiago Carreras is the highlight of Bath's Prem opening night bonus-point victory over Harlequins.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv4g5y8y3582o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35d/live/897bc660-b918-11f1-9be9-632355708508.jpg",
-      "published_at": "2026-09-25T22:08:43+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-buyuksehir-gurescisi-tarihi-er-meydaninda-1717592",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/bursa-buyuksehir-gurescisi-tarihi-er-meydaninda-1790402924-882_large.webp",
+      "published_at": "2026-09-26T06:07:00+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Bakan Fidan, İranlı mevkidaşı ile görüştü",
-      "title_tr": "Bakan Fidan, İranlı mevkidaşı ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Erakçi, New York'ta bir araya geldi",
-      "summary_tr": "Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Erakçi, New York'ta bir araya geldi",
-      "long_summary": "Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Erakçi, New York'ta bir araya geldi",
-      "long_summary_tr": "Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Erakçi, New York'ta bir araya geldi",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Manisa'da okul yakınındaki saldırıya ilişkin 7 şüpheli tutuklandı",
+      "title_tr": "Manisa'da okul yakınındaki saldırıya ilişkin 7 şüpheli tutuklandı",
+      "summary": "Manisa'nın Turgutlu ilçesinde okul yakınında 11 öğrencinin yaralandığı silahlı saldırıya ilişkin adliyeye sevk edilen 10 şüpheliden 7'si tutuklandı.Manisa'nın Turgutlu ilçesinde İnci Üzmez Mesleki ve Teknik Anadolu Lisesi yakınındaki saldırının ardından gözaltına alınan 10 şüphelinin emniyetteki işlemleri tamamlandı.\n\nSağlık kontrolünden geçirilerek adliyeye sevk edilen şüphelilerden saldırıyı gerçekleştiren 15 yaşındaki H.O. ile annesi, babası, dedesi, arkadaşı, kuzeni ve fişekleri sattığı iddia edilen av bayisi işletmecisi, çıkarıldıkları nöbetçi sulh ceza hakimliğince tutuklandı.\n\nZanlılardan 3'ü ise adli kontrol şartıyla serbest bırakıldı.",
+      "summary_tr": "Manisa'nın Turgutlu ilçesinde okul yakınında 11 öğrencinin yaralandığı silahlı saldırıya ilişkin adliyeye sevk edilen 10 şüpheliden 7'si tutuklandı.Manisa'nın Turgutlu ilçesinde İnci Üzmez Mesleki ve Teknik Anadolu Lisesi yakınındaki saldırının ardından gözaltına alınan 10 şüphelinin emniyetteki işlemleri tamamlandı.\n\nSağlık kontrolünden geçirilerek adliyeye sevk edilen şüphelilerden saldırıyı gerçekleştiren 15 yaşındaki H.O. ile annesi, babası, dedesi, arkadaşı, kuzeni ve fişekleri sattığı iddia edilen av bayisi işletmecisi, çıkarıldıkları nöbetçi sulh ceza hakimliğince tutuklandı.\n\nZanlılardan 3'ü ise adli kontrol şartıyla serbest bırakıldı.",
+      "long_summary": "Manisa'nın Turgutlu ilçesinde okul yakınında 11 öğrencinin yaralandığı silahlı saldırıya ilişkin adliyeye sevk edilen 10 şüpheliden 7'si tutuklandı.Manisa'nın Turgutlu ilçesinde İnci Üzmez Mesleki ve Teknik Anadolu Lisesi yakınındaki saldırının ardından gözaltına alınan 10 şüphelinin emniyetteki işlemleri tamamlandı.\n\nSağlık kontrolünden geçirilerek adliyeye sevk edilen şüphelilerden saldırıyı gerçekleştiren 15 yaşındaki H.O. ile annesi, babası, dedesi, arkadaşı, kuzeni ve fişekleri sattığı",
+      "long_summary_tr": "Manisa'nın Turgutlu ilçesinde okul yakınında 11 öğrencinin yaralandığı silahlı saldırıya ilişkin adliyeye sevk edilen 10 şüpheliden 7'si tutuklandı.Manisa'nın Turgutlu ilçesinde İnci Üzmez Mesleki ve Teknik Anadolu Lisesi yakınındaki saldırının ardından gözaltına alınan 10 şüphelinin emniyetteki işlemleri tamamlandı.\n\nSağlık kontrolünden geçirilerek adliyeye sevk edilen şüphelilerden saldırıyı gerçekleştiren 15 yaşındaki H.O. ile annesi, babası, dedesi, arkadaşı, kuzeni ve fişekleri sattığı",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.haberturk.com/dunya/bakan-fidan-iranli-mevkidasi-ile-gorustu-3915181",
-      "image": "https://im.haberturk.com/l/2026/09/25/ver1790367764/3915181/jpg/1920x1080",
-      "published_at": "2026-09-25T22:08:30+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Warrington edge past Leeds to reach Grand Final",
-      "title_tr": "Warrington edge past Leeds to reach Grand Final",
-      "summary": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
-      "summary_tr": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
-      "long_summary": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
-      "long_summary_tr": "Warrington Wolves reach their first Super League Grand Final in eight years with a thrilling victory against Leeds Rhinos.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ck4glyxd4j6no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48d5/live/ac93e930-b921-11f1-b685-519146636d7f.jpg",
-      "published_at": "2026-09-25T22:06:43+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "DUS 1.dönem başvuruları başladı",
-      "title_tr": "DUS 1.dönem başvuruları başladı",
-      "summary": "ÖSYM tarafından yayımlanan duyuruya göre, 2026 DUS ve STS Diş Hekimliği 1. dönem sınavları için başvuruların alınmaya başladığını bildirdi. Sınava başvurular, 10-17 Mart 2026 tarihleri arasında yapılacak. Peki DUS başvuruları nasıl ve nereden yapılır?",
-      "summary_tr": "ÖSYM tarafından yayımlanan duyuruya göre, 2026 DUS ve STS Diş Hekimliği 1. dönem sınavları için başvuruların alınmaya başladığını bildirdi. Sınava başvurular, 10-17 Mart 2026 tarihleri arasında yapılacak. Peki DUS başvuruları nasıl ve nereden yapılır?",
-      "long_summary": "ÖSYM tarafından yayımlanan duyuruya göre, 2026 DUS ve STS Diş Hekimliği 1. dönem sınavları için başvuruların alınmaya başladığını bildirdi. Sınava başvurular, 10-17 Mart 2026 tarihleri arasında yapılacak. Peki DUS başvuruları nasıl ve nereden yapılır?",
-      "long_summary_tr": "ÖSYM tarafından yayımlanan duyuruya göre, 2026 DUS ve STS Diş Hekimliği 1. dönem sınavları için başvuruların alınmaya başladığını bildirdi. Sınava başvurular, 10-17 Mart 2026 tarihleri arasında yapılacak. Peki DUS başvuruları nasıl ve nereden yapılır?",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/dus-1donem-basvuru-ekrani-dus-basvurulari-nasil-ve-nereden-yapilir-3868456",
-      "image": "https://im.haberturk.com/l/2026/03/10/ver1773126553/3868456/jpg/1920x1080",
-      "published_at": "2026-09-25T22:05:12+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "\"Türkiye'de oynamak her zaman keyiflidir\"",
-      "title_tr": "\"Türkiye'de oynamak her zaman keyiflidir\"",
-      "summary": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Horozlar'da Rayan Cherki, galibiyet sonrası açıklamalarda bulundu.",
-      "summary_tr": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Horozlar'da Rayan Cherki, galibiyet sonrası açıklamalarda bulundu.",
-      "long_summary": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Horozlar'da Rayan Cherki, galibiyet sonrası açıklamalarda bulundu.",
-      "long_summary_tr": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Horozlar'da Rayan Cherki, galibiyet sonrası açıklamalarda bulundu.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/spor/rayan-cherki-turkiye-de-oynamak-her-zaman-keyiflidir-3915197",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790373788/3915197/jpg/1920x1080",
-      "published_at": "2026-09-25T22:03:36+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Late DRAMA! Connor misses 62-yard penalty to level the scoring with final kick!",
-      "title_tr": "Late DRAMA! Connor misses 62-yard penalty to level the scoring with final kick!",
-      "summary": "Jake Connor and Leeds Rhinos choose to kick the penalty to tie the game from over 60 metres which lands well short after controversial penalty call in the last minute of the match.",
-      "summary_tr": "Jake Connor and Leeds Rhinos choose to kick the penalty to tie the game from over 60 metres which lands well short after controversial penalty call in the last minute of the match.",
-      "long_summary": "Jake Connor and Leeds Rhinos choose to kick the penalty to tie the game from over 60 metres which lands well short after controversial penalty call in the last minute of the match.",
-      "long_summary_tr": "Jake Connor and Leeds Rhinos choose to kick the penalty to tie the game from over 60 metres which lands well short after controversial penalty call in the last minute of the match.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13591948/heartbreak-for-jarrod-connor-his-62-yard-penalty-miss-denies-rhinos-a-last-gasp-equaliser",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-connor-pen-leeds-rhinos_7361446.jpg?20260925221802",
-      "published_at": "2026-09-25T22:03:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "AÖL kayıt yenileme tarihleri",
-      "title_tr": "AÖL kayıt yenileme tarihleri",
-      "summary": "Açık Öğretim Lisesi 2026-2027 AÖL kayıt yenileme tarihleri duyuruldu. 11 Eylül tarihinde başlayan AÖL kayıtlarına ilişkin ücret belli oldu. Açık Öğretim Lisesi yeni kayıt ve kayıt yenileme işlemleri için 750 TL ücret ödenecek. Peki AÖL kayıtları nasıl yapılır, kayıt yenileme ne zaman bitiyor?",
-      "summary_tr": "Açık Öğretim Lisesi 2026-2027 AÖL kayıt yenileme tarihleri duyuruldu. 11 Eylül tarihinde başlayan AÖL kayıtlarına ilişkin ücret belli oldu. Açık Öğretim Lisesi yeni kayıt ve kayıt yenileme işlemleri için 750 TL ücret ödenecek. Peki AÖL kayıtları nasıl yapılır, kayıt yenileme ne zaman bitiyor?",
-      "long_summary": "Açık Öğretim Lisesi 2026-2027 AÖL kayıt yenileme tarihleri duyuruldu. 11 Eylül tarihinde başlayan AÖL kayıtlarına ilişkin ücret belli oldu. Açık Öğretim Lisesi yeni kayıt ve kayıt yenileme işlemleri için 750 TL ücret ödenecek. Peki AÖL kayıtları nasıl yapılır, kayıt yenileme ne zaman bitiyor?",
-      "long_summary_tr": "Açık Öğretim Lisesi 2026-2027 AÖL kayıt yenileme tarihleri duyuruldu. 11 Eylül tarihinde başlayan AÖL kayıtlarına ilişkin ücret belli oldu. Açık Öğretim Lisesi yeni kayıt ve kayıt yenileme işlemleri için 750 TL ücret ödenecek. Peki AÖL kayıtları nasıl yapılır, kayıt yenileme ne zaman bitiyor?",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/bilgi/foto/aol-kayit-yenileme-tarihleri-2026-acik-lise-aol-kayitlari-nasil-yapilir-kayit-yenileme-ne-zaman-bitiyor-3915196",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790373647/3915196/jpg/1920x1080",
-      "published_at": "2026-09-25T22:01:11+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Man City charges - what happens now?",
-      "title_tr": "Man City charges - what happens now?",
-      "summary": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry...",
-      "summary_tr": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry...",
-      "long_summary": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry...",
-      "long_summary_tr": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry...",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now",
-      "image": "https://e2.365dm.com/25/07/1920x1080/skysports-premier-league-manchester-city_6978987.jpg?20250731135029",
-      "published_at": "2026-09-25T22:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "\"Türkiye'de oynamak kolay değil!\"",
-      "title_tr": "\"Türkiye'de oynamak kolay değil!\"",
-      "summary": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Fransa'nın teknik direktörü Zinedine Zidane, galibiyet sonrası açıklamalarda bulundu.",
-      "summary_tr": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Fransa'nın teknik direktörü Zinedine Zidane, galibiyet sonrası açıklamalarda bulundu.",
-      "long_summary": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Fransa'nın teknik direktörü Zinedine Zidane, galibiyet sonrası açıklamalarda bulundu.",
-      "long_summary_tr": "UEFA Uluslar A Ligi 1. Grup ilk maçında Fransa, Kocaeli'nde A Milli Futbol Takımımız'ı 1-0'lık skorla mağlup etti. Fransa'nın teknik direktörü Zinedine Zidane, galibiyet sonrası açıklamalarda bulundu.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/spor/fransa-da-zinedine-zidane-turkiye-de-oynamak-kolay-degil-3915194",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790373062/3915194/jpg/1920x1080",
-      "published_at": "2026-09-25T21:59:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Warrington reach Grand Final after penalty drama and Leeds' last-kick miss",
-      "title_tr": "Warrington reach Grand Final after penalty drama and Leeds' last-kick miss",
-      "summary": "Warrington Wolves made it through to the Super League Grand Final with a 14-12 victory over Leeds Rhinos, a controversial penalty proving the difference at Headingley Stadium.",
-      "summary_tr": "Warrington Wolves made it through to the Super League Grand Final with a 14-12 victory over Leeds Rhinos, a controversial penalty proving the difference at Headingley Stadium.",
-      "long_summary": "Warrington Wolves made it through to the Super League Grand Final with a 14-12 victory over Leeds Rhinos, a controversial penalty proving the difference at Headingley Stadium.",
-      "long_summary_tr": "Warrington Wolves made it through to the Super League Grand Final with a 14-12 victory over Leeds Rhinos, a controversial penalty proving the difference at Headingley Stadium.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/rugby-league/news/12040/13591907/warrington-wolves-through-to-super-league-grand-final-after-controversial-penalty-with-14-12-win-over-leeds-rhinos",
-      "image": "https://e0.365dm.com/26/09/1920x1080/skysports-rugby-league-super-league_7361416.jpg?20260925213330",
-      "published_at": "2026-09-25T21:58:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "BBC Sport",
-      "title": "Rodri believes in Man City's 'innocence'",
-      "title_tr": "Rodri believes in Man City's 'innocence'",
-      "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-      "summary_tr": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-      "long_summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-      "long_summary_tr": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6656/live/face4040-b927-11f1-b247-17210618604e.jpg",
-      "published_at": "2026-09-25T21:56:35+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Ankara'da komşuya darp: 3 tutuklama",
-      "title_tr": "Ankara'da komşuya darp: 3 tutuklama",
-      "summary": "Ankara Keçiören'de komşusunu darbedip silahla tehdit eden 3 şüpheli tutuklandı",
-      "summary_tr": "Ankara Keçiören'de komşusunu darbedip silahla tehdit eden 3 şüpheli tutuklandı",
-      "long_summary": "Ankara Keçiören'de komşusunu darbedip silahla tehdit eden 3 şüpheli tutuklandı",
-      "long_summary_tr": "Ankara Keçiören'de komşusunu darbedip silahla tehdit eden 3 şüpheli tutuklandı",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/ankara-da-komsuya-darp-3-tutuklama-3915195",
-      "image": "https://im.haberturk.com/l/2026/09/26/ver1790373250/3915195/jpg/1920x1080",
-      "published_at": "2026-09-25T21:54:36+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Warrington take lead after controversial penalty call against Leeds!",
-      "title_tr": "Warrington take lead after controversial penalty call against Leeds!",
-      "summary": "Warrington Wolves charged ahead of Leeds Rhinos after a controversial penalty call.",
-      "summary_tr": "Warrington Wolves charged ahead of Leeds Rhinos after a controversial penalty call.",
-      "long_summary": "Warrington Wolves charged ahead of Leeds Rhinos after a controversial penalty call.",
-      "long_summary_tr": "Warrington Wolves charged ahead of Leeds Rhinos after a controversial penalty call.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/watch/video/13591946/warrington-wolves-take-lead-after-controversial-penalty-call-vs-leeds-rhinos",
-      "image": "https://e1.365dm.com/26/09/1920x1080/skysports-wolves-rugby_7361442.jpg?20260925220859",
-      "published_at": "2026-09-25T21:52:00+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/gundem/manisa-da-okul-yakinindaki-saldiriya-iliskin-7-supheli-tutuklandi-1717589",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/09/26/manisa-da-okul-yakinindaki-saldiriya-iliskin-7-supheli-tutuklandi-1790402813-485_large.webp",
+      "published_at": "2026-09-26T06:06:00+00:00"
     }
   ]
 }
