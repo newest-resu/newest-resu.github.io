@@ -1,269 +1,27 @@
 {
-  "updated_at": "2026-10-16T17:22:49.666386+00:00",
+  "updated_at": "2026-10-16T20:55:14.497932+00:00",
   "articles": [
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "NTV",
-      "title": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP'den istifa etti",
-      "title_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP'den istifa etti",
-      "summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Cumhuriyet Halk Partisi'nden istifa ettiğini açıkladı.",
-      "summary_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Cumhuriyet Halk Partisi'nden istifa ettiğini açıkladı.",
-      "long_summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Cumhuriyet Halk Partisi'nden istifa ettiğini açıkladı.",
-      "long_summary_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Cumhuriyet Halk Partisi'nden istifa ettiğini açıkladı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.ntv.com.tr/turkiye/mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti-1746631",
-      "image": "https://images.ntv.com.tr/images/images-479782.jpg",
-      "published_at": "2026-10-16T17:05:51+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa etti",
-      "title_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa etti",
-      "summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP’den istifa ettiğini açıklayarak belediye başkanlığı görevini bağımsız olarak sürdüreceğini bildirdi.",
-      "summary_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP’den istifa ettiğini açıklayarak belediye başkanlığı görevini bağımsız olarak sürdüreceğini bildirdi.",
-      "long_summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP’den istifa ettiğini açıklayarak belediye başkanlığı görevini bağımsız olarak sürdüreceğini bildirdi.",
-      "long_summary_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP’den istifa ettiğini açıklayarak belediye başkanlığı görevini bağımsız olarak sürdüreceğini bildirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti-haberi-844194",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/08/16/ahmet-aras-nla2_cover.jpg",
-      "published_at": "2026-10-16T17:04:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Avrupa borsaları, yapay zeka sektöründeki toparlanmayla günü yükselişle kapattı",
-      "title_tr": "Avrupa borsaları, yapay zeka sektöründeki toparlanmayla günü yükselişle kapattı",
-      "summary": "Küresel piyasalarda yapay zeka yatırımlarına yönelik endişelerin hafiflemesi ve ABD Merkez Bankası (Fed) Başkanı Kevin Warsh&#039;un açıklamalarının iyimserliği desteklemesiyle Avrupa borsaları, haftanın son işlem gününü yükselişle tamamladı.",
-      "summary_tr": "Küresel piyasalarda yapay zeka yatırımlarına yönelik endişelerin hafiflemesi ve ABD Merkez Bankası (Fed) Başkanı Kevin Warsh&#039;un açıklamalarının iyimserliği desteklemesiyle Avrupa borsaları, haftanın son işlem gününü yükselişle tamamladı.",
-      "long_summary": "Küresel piyasalarda yapay zeka yatırımlarına yönelik endişelerin hafiflemesi ve ABD Merkez Bankası (Fed) Başkanı Kevin Warsh&#039;un açıklamalarının iyimserliği desteklemesiyle Avrupa borsaları, haftanın son işlem gününü yükselişle tamamladı.",
-      "long_summary_tr": "Küresel piyasalarda yapay zeka yatırımlarına yönelik endişelerin hafiflemesi ve ABD Merkez Bankası (Fed) Başkanı Kevin Warsh&#039;un açıklamalarının iyimserliği desteklemesiyle Avrupa borsaları, haftanın son işlem gününü yükselişle tamamladı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/finans/borsa/avrupa-borsalari-yapay-zeka-sektorundeki-toparlanmayla-gunu-yukselisle-kapatti-haberi-844193",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2025/04/23/avrupa-borsalari-l5ny_cover.png",
-      "published_at": "2026-10-16T17:03:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "NVIDIA RTX 5090 Piyasada Yok: Üretim Sona mı Erdi?",
-      "title_tr": "NVIDIA RTX 5090 Piyasada Yok: Üretim Sona mı Erdi?",
-      "summary": "NVIDIA’nın Blackwell mimarili amiral gemisi ekran kartı GeForce RTX 5090 için dikkat çekici bir gelişme yaşandı. RTX 5090 üretimi hakkındaki sonlandırma iddiaları gündemdeki yerini korurken model, NVIDIA’nın resmi Marketplace sayfasındaki ekran kartı seçenekleri arasından kayboldu. Değişiklik ilk olarak Reddit’te u/just_IT_guy isimli kullanıcı tarafından fark edildi. Kullanıcının paylaştığı ekran görüntüsüne göre RTX 5090, yalnızca bir gün […]",
-      "summary_tr": "NVIDIA’nın Blackwell mimarili amiral gemisi ekran kartı GeForce RTX 5090 için dikkat çekici bir gelişme yaşandı. RTX 5090 üretimi hakkındaki sonlandırma iddiaları gündemdeki yerini korurken model, NVIDIA’nın resmi Marketplace sayfasındaki ekran kartı seçenekleri arasından kayboldu. Değişiklik ilk olarak Reddit’te u/just_IT_guy isimli kullanıcı tarafından fark edildi. Kullanıcının paylaştığı ekran görüntüsüne göre RTX 5090, yalnızca bir gün […]",
-      "long_summary": "NVIDIA’nın Blackwell mimarili amiral gemisi ekran kartı GeForce RTX 5090 için dikkat çekici bir gelişme yaşandı. RTX 5090 üretimi hakkındaki sonlandırma iddiaları gündemdeki yerini korurken model, NVIDIA’nın resmi Marketplace sayfasındaki ekran kartı seçenekleri arasından kayboldu. Değişiklik ilk olarak Reddit’te u/just_IT_guy isimli kullanıcı tarafından fark edildi. Kullanıcının paylaştığı ekran görüntüsüne göre RTX 5090, yalnızca bir gün […]",
-      "long_summary_tr": "NVIDIA’nın Blackwell mimarili amiral gemisi ekran kartı GeForce RTX 5090 için dikkat çekici bir gelişme yaşandı. RTX 5090 üretimi hakkındaki sonlandırma iddiaları gündemdeki yerini korurken model, NVIDIA’nın resmi Marketplace sayfasındaki ekran kartı seçenekleri arasından kayboldu. Değişiklik ilk olarak Reddit’te u/just_IT_guy isimli kullanıcı tarafından fark edildi. Kullanıcının paylaştığı ekran görüntüsüne göre RTX 5090, yalnızca bir gün […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/nvidia-rtx-5090-piyasada-yok-uretim-sona-mi-erdi",
-      "image": null,
-      "published_at": "2026-10-16T17:00:55+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
-      "is_local": false,
-      "source": "Popular Science",
-      "title": "Tiny, critically endangered bat rescued and released in Pennsylvania",
-      "title_tr": "Tiny, critically endangered bat rescued and released in Pennsylvania",
-      "summary": "A fungal disease has wiped out up to 97 percent of northern long-eared bats in North America.\nThe post Tiny, critically endangered bat rescued and released in Pennsylvania appeared first on Popular Science.",
-      "summary_tr": "A fungal disease has wiped out up to 97 percent of northern long-eared bats in North America.\nThe post Tiny, critically endangered bat rescued and released in Pennsylvania appeared first on Popular Science.",
-      "long_summary": "A fungal disease has wiped out up to 97 percent of northern long-eared bats in North America.\nThe post Tiny, critically endangered bat rescued and released in Pennsylvania appeared first on Popular Science.",
-      "long_summary_tr": "A fungal disease has wiped out up to 97 percent of northern long-eared bats in North America.\nThe post Tiny, critically endangered bat rescued and released in Pennsylvania appeared first on Popular Science.",
-      "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
-      ],
-      "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
-      ],
-      "url": "https://www.popsci.com/environment/endangered-bat-rescued-released-pennsylvania/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/10/rescued-bat-lead.png?quality=85",
-      "published_at": "2026-10-16T17:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Muğla Belediye Başkanı Ahmet Aras CHP'den istifa etti",
-      "title_tr": "Muğla Belediye Başkanı Ahmet Aras CHP'den istifa etti",
-      "summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP üyeliğinden ayrılarak görevini bağımsız sürdürme kararı aldığını açıkladı. Aras, “Bir süredir şahsım üzerinden yürütülen siyasi tartışmaların, kentimiz için yaptığımız çalışmaların önüne geçtiğini görüyorum. Bu tartışmaların Muğla’ya ve hemşehrilerimize bir katkı sağlamadığına inanıyorum” dedi.",
-      "summary_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP üyeliğinden ayrılarak görevini bağımsız sürdürme kararı aldığını açıkladı. Aras, “Bir süredir şahsım üzerinden yürütülen siyasi tartışmaların, kentimiz için yaptığımız çalışmaların önüne geçtiğini görüyorum. Bu tartışmaların Muğla’ya ve hemşehrilerimize bir katkı sağlamadığına inanıyorum” dedi.",
-      "long_summary": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP üyeliğinden ayrılarak görevini bağımsız sürdürme kararı aldığını açıkladı. Aras, “Bir süredir şahsım üzerinden yürütülen siyasi tartışmaların, kentimiz için yaptığımız çalışmaların önüne geçtiğini görüyorum. Bu tartışmaların Muğla’ya ve hemşehrilerimize bir katkı sağlamadığına inanıyorum” dedi.",
-      "long_summary_tr": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras, CHP üyeliğinden ayrılarak görevini bağımsız sürdürme kararı aldığını açıkladı. Aras, “Bir süredir şahsım üzerinden yürütülen siyasi tartışmaların, kentimiz için yaptığımız çalışmaların önüne geçtiğini görüyorum. Bu tartışmaların Muğla’ya ve hemşehrilerimize bir katkı sağlamadığına inanıyorum” dedi.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/son-dakika-mugla-belediye-baskani-ahmet-aras-chp-den-istifa-etti-3920309",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792169484/3920309/jpg/1920x1080",
-      "published_at": "2026-10-16T16:58:27+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Trabzonspor'da Beşiktaş mesaisi!",
-      "title_tr": "Trabzonspor'da Beşiktaş mesaisi!",
-      "summary": "Trabzonspor, Süper Lig'in 8. haftasında Beşiktaş ile oynayacağı maçın hazırlıklarına başladı.",
-      "summary_tr": "Trabzonspor, Süper Lig'in 8. haftasında Beşiktaş ile oynayacağı maçın hazırlıklarına başladı.",
-      "long_summary": "Trabzonspor, Süper Lig'in 8. haftasında Beşiktaş ile oynayacağı maçın hazırlıklarına başladı.",
-      "long_summary_tr": "Trabzonspor, Süper Lig'in 8. haftasında Beşiktaş ile oynayacağı maçın hazırlıklarına başladı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/spor/trabzonspor-besiktas-macinin-hazirliklarina-basladi-3920308",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792169840/3920308/jpg/1920x1080",
-      "published_at": "2026-10-16T16:57:36+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı ile görüştü",
-      "title_tr": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı ile görüştü",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti. İki lider, görüşmenin ardından ortak basın toplantısı düzenledi. Cumhurbaşkanı Erdoğan, \"Özellikle son yıllarda hızla gelişen ilişkilere sahip olduğumuz Kamboçya'yı, Güneydoğu Asya bölgesinde önemli bir ortağımız olarak görüyorum.\" dedi.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti. İki lider, görüşmenin ardından ortak basın toplantısı düzenledi. Cumhurbaşkanı Erdoğan, \"Özellikle son yıllarda hızla gelişen ilişkilere sahip olduğumuz Kamboçya'yı, Güneydoğu Asya bölgesinde önemli bir ortağımız olarak görüyorum.\" dedi.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti. İki lider, görüşmenin ardından ortak basın toplantısı düzenledi. Cumhurbaşkanı Erdoğan, \"Özellikle son yıllarda hızla gelişen ilişkilere sahip olduğumuz Kamboçya'yı, Güneydoğu Asya bölgesinde önemli bir ortağımız olarak görüyorum.\" dedi.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti. İki lider, görüşmenin ardından ortak basın toplantısı düzenledi. Cumhurbaşkanı Erdoğan, \"Özellikle son yıllarda hızla gelişen ilişkilere sahip olduğumuz Kamboçya'yı, Güneydoğu Asya bölgesinde önemli bir ortağımız olarak görüyorum.\" dedi.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-kambocya-basbakani-ile-gorustu-3920293",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792168412/3920293/jpg/1920x1080",
-      "published_at": "2026-10-16T16:55:46+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Tasarruf finansmanında sözleşmeler değişmeyecek",
-      "title_tr": "Tasarruf finansmanında sözleşmeler değişmeyecek",
-      "summary": "Katılımevim ve Birevim'in Emlak Katılım'a devrine ilişkin süreç devam ediyor. Devir işlemlerinin tamamlanmasının ardından vatandaşların ödeme yaptığı hesap bilgileri, mevcut sözleşmeleri ve taksit koşulları değişmeyecek. Peki, otomobil veya konut sözleşmesi bulunanlar ödemelerini nasıl yapacak? Habertürk'ten Buse Gençtürk'ün haberi...",
-      "summary_tr": "Katılımevim ve Birevim'in Emlak Katılım'a devrine ilişkin süreç devam ediyor. Devir işlemlerinin tamamlanmasının ardından vatandaşların ödeme yaptığı hesap bilgileri, mevcut sözleşmeleri ve taksit koşulları değişmeyecek. Peki, otomobil veya konut sözleşmesi bulunanlar ödemelerini nasıl yapacak? Habertürk'ten Buse Gençtürk'ün haberi...",
-      "long_summary": "Katılımevim ve Birevim'in Emlak Katılım'a devrine ilişkin süreç devam ediyor. Devir işlemlerinin tamamlanmasının ardından vatandaşların ödeme yaptığı hesap bilgileri, mevcut sözleşmeleri ve taksit koşulları değişmeyecek. Peki, otomobil veya konut sözleşmesi bulunanlar ödemelerini nasıl yapacak? Habertürk'ten Buse Gençtürk'ün haberi...",
-      "long_summary_tr": "Katılımevim ve Birevim'in Emlak Katılım'a devrine ilişkin süreç devam ediyor. Devir işlemlerinin tamamlanmasının ardından vatandaşların ödeme yaptığı hesap bilgileri, mevcut sözleşmeleri ve taksit koşulları değişmeyecek. Peki, otomobil veya konut sözleşmesi bulunanlar ödemelerini nasıl yapacak? Habertürk'ten Buse Gençtürk'ün haberi...",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/ekonomi/katilimevim-ve-birevim-in-emlak-katilim-a-devrinde-mevcut-sozlesmeler-korunacak-3920305",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792169459/3920305/jpg/1920x1080",
-      "published_at": "2026-10-16T16:55:08+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "The Launch: October’s Must-Know Fashion News",
-      "title_tr": "The Launch: October’s Must-Know Fashion News",
-      "summary": "The Launch: October’s Must-Know Fashion News",
-      "summary_tr": "The Launch: October’s Must-Know Fashion News",
-      "long_summary": "The Launch: October’s Must-Know Fashion News",
-      "long_summary_tr": "The Launch: October’s Must-Know Fashion News",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/a73993035/best-fashion-launches-october-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/9c51cc28-f9c3-49a7-ac19-5637b9f94181.jpg",
-      "published_at": "2026-10-16T16:50:56+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Culture Watch: What to See and Where to Go in October",
-      "title_tr": "Culture Watch: What to See and Where to Go in October",
-      "summary": "Culture Watch: What to See and Where to Go in October",
-      "summary_tr": "Culture Watch: What to See and Where to Go in October",
-      "long_summary": "Culture Watch: What to See and Where to Go in October",
-      "long_summary_tr": "Culture Watch: What to See and Where to Go in October",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/art-design/a74029701/best-fashion-exhibitions-october-2026/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/58ad00b2-6694-4911-926e-e9989d5e85aa.jpg",
-      "published_at": "2026-10-16T16:47:52+00:00"
-    },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Türkiye Sigorta Birliği'nden açıklama: Sel sonrası sigorta işlemlerinde nelere dikkat edilmeli?",
-      "title_tr": "Türkiye Sigorta Birliği'nden açıklama: Sel sonrası sigorta işlemlerinde nelere dikkat edilmeli?",
-      "summary": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarından etkilenen vatandaşların hasarlarını gecikmeden sigorta şirketlerine bildirmeleri gerektiğini belirtti. Birlik, ekspertiz ve tazminat süreçlerinin sağlıklı ilerlemesi için zararların fotoğraf ve videolarla belgelenmesini tavsiye etti.",
-      "summary_tr": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarından etkilenen vatandaşların hasarlarını gecikmeden sigorta şirketlerine bildirmeleri gerektiğini belirtti. Birlik, ekspertiz ve tazminat süreçlerinin sağlıklı ilerlemesi için zararların fotoğraf ve videolarla belgelenmesini tavsiye etti.",
-      "long_summary": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarından etkilenen vatandaşların hasarlarını gecikmeden sigorta şirketlerine bildirmeleri gerektiğini belirtti. Birlik, ekspertiz ve tazminat süreçlerinin sağlıklı ilerlemesi için zararların fotoğraf ve videolarla belgelenmesini tavsiye etti.",
-      "long_summary_tr": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarından etkilenen vatandaşların hasarlarını gecikmeden sigorta şirketlerine bildirmeleri gerektiğini belirtti. Birlik, ekspertiz ve tazminat süreçlerinin sağlıklı ilerlemesi için zararların fotoğraf ve videolarla belgelenmesini tavsiye etti.",
+      "source": "Foreks",
+      "title": "Türkiye'nin ABD tahvil varlıkları ağustosta 3,18 milyar dolara yükseldi",
+      "title_tr": "Türkiye'nin ABD tahvil varlıkları ağustosta 3,18 milyar dolara yükseldi",
+      "summary": "Türkiye'nin ABD menkul kıymetlerindeki toplam varlıkları Ağustos 2026'da 3 milyar 182 milyon dolara yükseldi. Temmuz ayında söz konusu tutar 3 milyar 105 milyon dolar seviyesindeydi.",
+      "summary_tr": "Türkiye'nin ABD menkul kıymetlerindeki toplam varlıkları Ağustos 2026'da 3 milyar 182 milyon dolara yükseldi. Temmuz ayında söz konusu tutar 3 milyar 105 milyon dolar seviyesindeydi.",
+      "long_summary": "Türkiye'nin ABD menkul kıymetlerindeki toplam varlıkları Ağustos 2026'da 3 milyar 182 milyon dolara yükseldi. Temmuz ayında söz konusu tutar 3 milyar 105 milyon dolar seviyesindeydi.",
+      "long_summary_tr": "Türkiye'nin ABD menkul kıymetlerindeki toplam varlıkları Ağustos 2026'da 3 milyar 182 milyon dolara yükseldi. Temmuz ayında söz konusu tutar 3 milyar 105 milyon dolar seviyesindeydi.",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/turkiye-sigorta-birligi-nden-aciklama-sel-sonrasi-sigorta-icin-nelere-dikkat-edilmeli-3791703",
-      "image": "https://geoim.bloomberght.com/l/2026/10/16/ver1792169347/3791703/jpg/1280x720",
-      "published_at": "2026-10-16T16:46:08+00:00"
+      "url": "https://www.foreks.com/haber/detay/6ad28c9f58b1b941c208bfce/PICNEWS/tr/turkiye-nin-abd-tahvil-varliklari-agustosta-3-18-milyar-dolara-yukseldi-16-10-26/",
+      "image": "https://news-files.foreks.com/images/14cc58dc88d64758bbf1b44f3bd2d6d7.jpeg",
+      "published_at": "2026-10-16T20:44:15+00:00"
     },
     {
       "origin": "turkiye",
@@ -271,12 +29,12 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Cafer Mahiroğlu soruşturmasında 7 tutuklama",
-      "title_tr": "Cafer Mahiroğlu soruşturmasında 7 tutuklama",
-      "summary": "Cafer Mahiroğlu'na yönelik soruşturma kapsamında hakimliğe sevk edilen 12 şüpheliden 7'si tutuklandı. Şüphelilerden 4'ü hakkında ev hapsi, 1'i hakkında ise adli kontrol tedbiri uygulanmasına karar verildi",
-      "summary_tr": "Cafer Mahiroğlu'na yönelik soruşturma kapsamında hakimliğe sevk edilen 12 şüpheliden 7'si tutuklandı. Şüphelilerden 4'ü hakkında ev hapsi, 1'i hakkında ise adli kontrol tedbiri uygulanmasına karar verildi",
-      "long_summary": "Cafer Mahiroğlu'na yönelik soruşturma kapsamında hakimliğe sevk edilen 12 şüpheliden 7'si tutuklandı. Şüphelilerden 4'ü hakkında ev hapsi, 1'i hakkında ise adli kontrol tedbiri uygulanmasına karar verildi",
-      "long_summary_tr": "Cafer Mahiroğlu'na yönelik soruşturma kapsamında hakimliğe sevk edilen 12 şüpheliden 7'si tutuklandı. Şüphelilerden 4'ü hakkında ev hapsi, 1'i hakkında ise adli kontrol tedbiri uygulanmasına karar verildi",
+      "title": "Mahiroğlu soruşturmasında 7 tutuklama talebi",
+      "title_tr": "Mahiroğlu soruşturmasında 7 tutuklama talebi",
+      "summary": "Cafer Mahiroğlu hakkında yürütülen soruşturmada gözaltına alınan 12 kişi adliyeye getirildi. Şüphelilerden 7'si tutuklama talebiyle, 5 kişi adli kontrol istemiyle Sulh Ceza Hakimliği'ne sevk edildi",
+      "summary_tr": "Cafer Mahiroğlu hakkında yürütülen soruşturmada gözaltına alınan 12 kişi adliyeye getirildi. Şüphelilerden 7'si tutuklama talebiyle, 5 kişi adli kontrol istemiyle Sulh Ceza Hakimliği'ne sevk edildi",
+      "long_summary": "Cafer Mahiroğlu hakkında yürütülen soruşturmada gözaltına alınan 12 kişi adliyeye getirildi. Şüphelilerden 7'si tutuklama talebiyle, 5 kişi adli kontrol istemiyle Sulh Ceza Hakimliği'ne sevk edildi",
+      "long_summary_tr": "Cafer Mahiroğlu hakkında yürütülen soruşturmada gözaltına alınan 12 kişi adliyeye getirildi. Şüphelilerden 7'si tutuklama talebiyle, 5 kişi adli kontrol istemiyle Sulh Ceza Hakimliği'ne sevk edildi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
@@ -284,30 +42,162 @@
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
       "url": "https://www.haberturk.com/gundem/son-dakika-mahiroglu-sorusturmasinda-12-sevk-3920304",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792169085/3920304/jpg/1920x1080",
-      "published_at": "2026-10-16T16:45:37+00:00"
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792182913/3920304/jpg/1920x1080",
+      "published_at": "2026-10-16T20:40:26+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Magazin",
+      "category_slug": "magazin",
+      "is_local": false,
+      "source": "Elle",
+      "title": "How Luxury Cars Became the Ultimate Expression of Personal Style",
+      "title_tr": "How Luxury Cars Became the Ultimate Expression of Personal Style",
+      "summary": "Creating your dream vehicle now goes far beyond choosing the perfect paint color.",
+      "summary_tr": "Creating your dream vehicle now goes far beyond choosing the perfect paint color.",
+      "long_summary": "Creating your dream vehicle now goes far beyond choosing the perfect paint color.",
+      "long_summary_tr": "Creating your dream vehicle now goes far beyond choosing the perfect paint color.",
+      "why_important": [
+        "Kamuoyunun ve medyanın ilgisini çekmesi"
+      ],
+      "possible_impacts": [
+        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+      ],
+      "url": "https://www.elle.com/culture/art-design/a73869406/luxury-car-customization-trends/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/507f43c2-d024-4b87-8a20-335d4ac0c614.jpg",
+      "published_at": "2026-10-16T20:40:20+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
+      "category": "Finans",
+      "category_slug": "finans",
       "is_local": false,
-      "source": "NTV",
-      "title": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı Manet'i kabul etti",
-      "title_tr": "Cumhurbaşkanı Erdoğan, Kamboçya Başbakanı Manet'i kabul etti",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kamboçya Başbakanı Hun Manet'i kabul etti.",
+      "source": "Foreks",
+      "title": "Moody's, Mısır'ın kredi notunu yükseltti",
+      "title_tr": "Moody's, Mısır'ın kredi notunu yükseltti",
+      "summary": "Moody's Ratings, Mısır'ın uzun vadeli yerel ve yabancı para cinsinden ihraççı notlarını Caa1'den B3'e yükseltti. Kuruluş, yabancı para cinsinden kıdemli teminatsız borçlanma notunu da B3'e, MTN progra...",
+      "summary_tr": "Moody's Ratings, Mısır'ın uzun vadeli yerel ve yabancı para cinsinden ihraççı notlarını Caa1'den B3'e yükseltti. Kuruluş, yabancı para cinsinden kıdemli teminatsız borçlanma notunu da B3'e, MTN progra...",
+      "long_summary": "Moody's Ratings, Mısır'ın uzun vadeli yerel ve yabancı para cinsinden ihraççı notlarını Caa1'den B3'e yükseltti. Kuruluş, yabancı para cinsinden kıdemli teminatsız borçlanma notunu da B3'e, MTN progra...",
+      "long_summary_tr": "Moody's Ratings, Mısır'ın uzun vadeli yerel ve yabancı para cinsinden ihraççı notlarını Caa1'den B3'e yükseltti. Kuruluş, yabancı para cinsinden kıdemli teminatsız borçlanma notunu da B3'e, MTN progra...",
       "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
+        "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
+        "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-kambocya-basbakani-maneti-kabul-etti-1746629",
-      "image": "https://images.ntv.com.tr/images/AA-20261016-42777323-42777321-CUMHURBASKANI_RECEP_TAYYIP_ERDOGAN-938528.jpg",
-      "published_at": "2026-10-16T16:44:27+00:00"
+      "url": "https://www.foreks.com/haber/detay/6ad28aef58b1b941c208bf9c/PICNEWS/tr/moody-s-misir-in-kredi-notunu-yukseltti-16-10-26/",
+      "image": "https://news-files.foreks.com/images/114c61907d3147c58a233e5e87de2233.jpeg",
+      "published_at": "2026-10-16T20:37:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Celanese hisseleri LCP fiyatlarını küresel artırımın ardından düştü",
+      "title_tr": "Celanese hisseleri LCP fiyatlarını küresel artırımın ardından düştü",
+      "summary": "Celanese hisseleri LCP fiyatlarını küresel artırımın ardından düştü",
+      "summary_tr": "Celanese hisseleri LCP fiyatlarını küresel artırımın ardından düştü",
+      "long_summary": "Celanese hisseleri LCP fiyatlarını küresel artırımın ardından düştü",
+      "long_summary_tr": "Celanese hisseleri LCP fiyatlarını küresel artırımın ardından düştü",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/celanese-hisseleri-lcp-fiyatlarn-kuresel-artrmn-ardndan-dustu-4107451",
+      "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg",
+      "published_at": "2026-10-16T20:36:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Wall Street haftayı yapay zeka hisselerindeki sert satışlarla tamamladı",
+      "title_tr": "Wall Street haftayı yapay zeka hisselerindeki sert satışlarla tamamladı",
+      "summary": "Wall Street'te cuma günü satışlar teknoloji ve yapay zeka bağlantılı hisselerde yoğunlaştı. Yapay zeka yatırımlarının karlılığa dönüşmesinin, CoreWeave ve benzeri büyük ölçekli veri merkezi şirketleri...",
+      "summary_tr": "Wall Street'te cuma günü satışlar teknoloji ve yapay zeka bağlantılı hisselerde yoğunlaştı. Yapay zeka yatırımlarının karlılığa dönüşmesinin, CoreWeave ve benzeri büyük ölçekli veri merkezi şirketleri...",
+      "long_summary": "Wall Street'te cuma günü satışlar teknoloji ve yapay zeka bağlantılı hisselerde yoğunlaştı. Yapay zeka yatırımlarının karlılığa dönüşmesinin, CoreWeave ve benzeri büyük ölçekli veri merkezi şirketleri...",
+      "long_summary_tr": "Wall Street'te cuma günü satışlar teknoloji ve yapay zeka bağlantılı hisselerde yoğunlaştı. Yapay zeka yatırımlarının karlılığa dönüşmesinin, CoreWeave ve benzeri büyük ölçekli veri merkezi şirketleri...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad289e9422c786f3f7a4b0c/PICNEWS/tr/wall-street-haftayi-yapay-zeka-hisselerindeki-sert-satislarla-tamamladi-16-10-26/",
+      "image": "https://news-files.foreks.com/images/0fb3472c177647f18820f413581a2894.jpeg",
+      "published_at": "2026-10-16T20:32:41+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "2027 bütçesinden 6,3 trilyon lira kaynak ayrıldı: Kamu personeli için hangi kuruma ne kadar ödeme yapılacak?",
+      "title_tr": "2027 bütçesinden 6,3 trilyon lira kaynak ayrıldı: Kamu personeli için hangi kuruma ne kadar ödeme yapılacak?",
+      "summary": "2027 yılı Merkezi Yönetim Bütçe Kanunu Teklifi’ne göre, kamu personelinin giderleri için 6 trilyon 318,5 milyar lira ödenek ayrıldı. Personel giderlerinde en büyük pay 1 trilyon 794,5 milyar lirayla Milli Eğitim Bakanlığına verilirken, Sağlık Bakanlığı 1 trilyon 113,8 milyar lirayla ikinci sırada yer aldı. Kamu personeli giderleri için ayrılan ödenek, 2026 yılına göre yüzde 28,8 arttı.",
+      "summary_tr": "2027 yılı Merkezi Yönetim Bütçe Kanunu Teklifi’ne göre, kamu personelinin giderleri için 6 trilyon 318,5 milyar lira ödenek ayrıldı. Personel giderlerinde en büyük pay 1 trilyon 794,5 milyar lirayla Milli Eğitim Bakanlığına verilirken, Sağlık Bakanlığı 1 trilyon 113,8 milyar lirayla ikinci sırada yer aldı. Kamu personeli giderleri için ayrılan ödenek, 2026 yılına göre yüzde 28,8 arttı.",
+      "long_summary": "2027 yılı Merkezi Yönetim Bütçe Kanunu Teklifi’ne göre, kamu personelinin giderleri için 6 trilyon 318,5 milyar lira ödenek ayrıldı. Personel giderlerinde en büyük pay 1 trilyon 794,5 milyar lirayla Milli Eğitim Bakanlığına verilirken, Sağlık Bakanlığı 1 trilyon 113,8 milyar lirayla ikinci sırada yer aldı. Kamu personeli giderleri için ayrılan ödenek, 2026 yılına göre yüzde 28,8 arttı.",
+      "long_summary_tr": "2027 yılı Merkezi Yönetim Bütçe Kanunu Teklifi’ne göre, kamu personelinin giderleri için 6 trilyon 318,5 milyar lira ödenek ayrıldı. Personel giderlerinde en büyük pay 1 trilyon 794,5 milyar lirayla Milli Eğitim Bakanlığına verilirken, Sağlık Bakanlığı 1 trilyon 113,8 milyar lirayla ikinci sırada yer aldı. Kamu personeli giderleri için ayrılan ödenek, 2026 yılına göre yüzde 28,8 arttı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/ekonomi/2027-butcesinden-63-trilyon-lira-kaynak-ayrildi-kamu-personeli-icin-hangi-kuruma-ne-kadar-odeme-yapilacak-haberi-844204",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/14/para-qv7n_cover.jpg",
+      "published_at": "2026-10-16T20:32:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Rock Tech Lithium hisseleri neden yükseliyor?",
+      "title_tr": "Rock Tech Lithium hisseleri neden yükseliyor?",
+      "summary": "Rock Tech Lithium hisseleri neden yükseliyor?",
+      "summary_tr": "Rock Tech Lithium hisseleri neden yükseliyor?",
+      "long_summary": "Rock Tech Lithium hisseleri neden yükseliyor?",
+      "long_summary_tr": "Rock Tech Lithium hisseleri neden yükseliyor?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/rock-tech-lithium-hisseleri-neden-yukseliyor-93CH-4107439",
+      "image": "https://content-media.investing.com/news/LYNXMPECBE0OL_M.jpg",
+      "published_at": "2026-10-16T20:30:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "ABD'ye uzun vadeli sermaye girişleri ağustosta 279,2 milyar dolara çıktı",
+      "title_tr": "ABD'ye uzun vadeli sermaye girişleri ağustosta 279,2 milyar dolara çıktı",
+      "summary": "ABD Hazine Bakanlığı'nın açıkladığı Uluslararası Sermaye Hareketleri (TIC) verilerine göre, ağustosta ABD'ye toplam net uluslararası sermaye girişi 199,8 milyar dolar olarak gerçekleşti. Bunun 178,5 m...",
+      "summary_tr": "ABD Hazine Bakanlığı'nın açıkladığı Uluslararası Sermaye Hareketleri (TIC) verilerine göre, ağustosta ABD'ye toplam net uluslararası sermaye girişi 199,8 milyar dolar olarak gerçekleşti. Bunun 178,5 m...",
+      "long_summary": "ABD Hazine Bakanlığı'nın açıkladığı Uluslararası Sermaye Hareketleri (TIC) verilerine göre, ağustosta ABD'ye toplam net uluslararası sermaye girişi 199,8 milyar dolar olarak gerçekleşti. Bunun 178,5 m...",
+      "long_summary_tr": "ABD Hazine Bakanlığı'nın açıkladığı Uluslararası Sermaye Hareketleri (TIC) verilerine göre, ağustosta ABD'ye toplam net uluslararası sermaye girişi 199,8 milyar dolar olarak gerçekleşti. Bunun 178,5 m...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad2894658b1b941c208bf5c/PICNEWS/tr/abd-ye-uzun-vadeli-sermaye-girisleri-agustosta-279-2-milyar-dolara-cikti-16-10-26/",
+      "image": "https://news-files.foreks.com/images/2a72ed88925748c5886277eee78fa9fb.jpeg",
+      "published_at": "2026-10-16T20:29:58+00:00"
     },
     {
       "origin": "turkiye",
@@ -315,21 +205,65 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Rus heyetinden Galatasaray'a ziyaret!",
-      "title_tr": "Rus heyetinden Galatasaray'a ziyaret!",
-      "summary": "Rusya'nın Ankara Büyükelçisi Sergey Vershinin ve İstanbul Başkonsolosu Alexander Kalachev, Galatasaray Başkanı Dursun Özbek'i ziyaret etti.",
-      "summary_tr": "Rusya'nın Ankara Büyükelçisi Sergey Vershinin ve İstanbul Başkonsolosu Alexander Kalachev, Galatasaray Başkanı Dursun Özbek'i ziyaret etti.",
-      "long_summary": "Rusya'nın Ankara Büyükelçisi Sergey Vershinin ve İstanbul Başkonsolosu Alexander Kalachev, Galatasaray Başkanı Dursun Özbek'i ziyaret etti.",
-      "long_summary_tr": "Rusya'nın Ankara Büyükelçisi Sergey Vershinin ve İstanbul Başkonsolosu Alexander Kalachev, Galatasaray Başkanı Dursun Özbek'i ziyaret etti.",
+      "title": "Orkun Kökçü için sakatlık açıklaması!",
+      "title_tr": "Orkun Kökçü için sakatlık açıklaması!",
+      "summary": "Beşiktaş, Hoffenheim maçında sakatlanan Orkun Kökçü’nün sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışması tespit edildiğini açıkladı.",
+      "summary_tr": "Beşiktaş, Hoffenheim maçında sakatlanan Orkun Kökçü’nün sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışması tespit edildiğini açıkladı.",
+      "long_summary": "Beşiktaş, Hoffenheim maçında sakatlanan Orkun Kökçü’nün sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışması tespit edildiğini açıkladı.",
+      "long_summary_tr": "Beşiktaş, Hoffenheim maçında sakatlanan Orkun Kökçü’nün sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışması tespit edildiğini açıkladı.",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/spor/rus-heyetinden-galatasaray-a-ziyaret-3920307",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792168983/3920307/jpg/1920x1080",
-      "published_at": "2026-10-16T16:43:26+00:00"
+      "url": "https://www.haberturk.com/spor/besiktas-tan-orkun-kokcu-icin-sakatlik-aciklamasi-3920352",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792182499/3920352/jpg/1920x1080",
+      "published_at": "2026-10-16T20:28:34+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "GameSpot",
+      "title": "All The Records GTA 6 Will Break, We Think",
+      "title_tr": "All The Records GTA 6 Will Break, We Think",
+      "summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \n\n\n\nBut just how big will the launch be? And what records could GTA 6 beat if it delivers? \n\n\n\nLucia and Jason in GTA 6.\n\n\n\nThe records\n\n\n\nThe last GTA game, 2013's GTA 5, was a huge hit right out of the gate. It brought in $800 million in revenue over its first 24 hours and $1 billion in its first three days. Even a decade later, the game remains a sales juggernaut, eclipsing 230 million copies sold and counting.\n\n\n\nRockstar's latest game, 2018's Red Dead Redemption II, launched with $725 million in revenue over its opening weekend. It's gone on to sell more than 87 million copies, making it one of the top five best-selling games ever.\n\n\n\nOutside of Rockstar, Bethesda's 2015 RPG Fallout 4 had a gigantic launch, shipping 12 million copies for launch day alone, generating sales in excess of $750 million. \n\n\n\nSo to sum up, here are the records that GTA 6 is expected to surpass:\n\n\n\n\nGTA 5: $800 million in 24 hours and $1 billion in three days \n\n\n\nRed Dead Redemption II: $725 million over its first weekend\n\n\n\nFallout 4: $750 million on launch day\n\n\n\n\nGTA 6 has enormous shoes to fill to match and surpass Rockstar's previous games and Fallout 4. But if Sensor Tower's data that projects 25 million preorders by launch is correct--or even close--then it should have no problem beating GTA 5's initial sales.\n\n\n\nOne thing working in GTA 6's favor when it comes to comparisons to past games is that GTA 6 has a higher selling price. The base game goes for $80, compared to the $60 that GTA 5 and Red Dead Redemption II launched at years ago.\n\n\n\nOf course, $60 in 2013 dollars equates to about $85 today when factoring in inflation. But even inflation-adjusted figures would likely show that GTA 6 has a bigger launch, if it becomes the hit everyone expects it to. And when Take-Two inevitably shares GTA 6 sales data, you can bet the company will present the data is the absolute best possible light, whatever language and specifics it takes to get there.\n\n\n\nThe numbers so far\n\n\n\nOfficially, neither Rockstar nor parent company Take-Two have shared any numbers at all about preorders or sales projections since preorders opened in June. Take-Two boss Strauss Zelnick said it would not be prudent to disclose preorder figures because they could be misleading. His argument was that, technically speaking, GTA 6 has not sold a single copy yet, as, in theory, every preordered copy of the game could be returned. That's silly, of course; it sounds more like Zelnick is staying true to his mantra of never declaring success before it occurs. \n\n\n\nWhatever the case, Zelnick said GTA 6 preorders \"vastly\" surpassed international expectations, but he did not say what those expectations were or \"whether they mean anything\" anyway.\n\n\n\nZelnick said sharing real, raw data for GTA 6 preorders could mislead investors, so Take-Two is not going to do so.\n\n\n\n“I’ve reminded people that we simply don’t know the demand curve because it’s just never happened before,” Zelnick said. “Given that, we think the raw numbers could potentially be misleading in a direction we wouldn’t feel good about.”\n\n\n\nSpeaking during Take-Two’s latest earnings call, Zelnick said of GTA 6’s preorder numbers, “No one’s ever seen anything like this before at Take-Two, or in the industry.” He added: “To be clear, we haven’t sold one unit yet. You can cancel a preorder.”\n\n\n\n$2 billion by launch?\n\n\n\nThe research firm Sensor Tower has a \"GTA 6 Sales Tracker\" site that shows estimates for GTA 6 preorders, displaying 6.08 million through October 13, and that apparently includes any returned/refunded copies. The group estimates that this works out to $594 million in revenue so far, with a split of 74% for PlayStation 5 and 26% for Xbox Series X|S.\n\n\n\nSensor Tower's Karl Kontus said in an interview that reorders for GTA 6 could be in the area of 25 million when the game releases, which would amount to “unprecedented preorder performance.” \n\n\n\nAt 25 million, that would work out to about $2 billion in revenue, which would cover the game's development budget and the majority of the marketing spend, he said. Kontus went on to say that he expects the majority of GTA 6 preorders to come in the last week or so before launch, as the hype peaks. Currently, the preorder split is skewing toward the $100 edition, Sensor Tower said, but that makes sense since people who preorder early are probably more on the enthusiast side. At launch, Sensor Tower said it expects about a 50/50 split between the $80 and $100 editions for preorder numbers.\n\n\n\n\nhttps://www.youtube.com/watch?v=klc0fQmAL6k\n\n\n\n\n\n\n\n\nLaunch is only the beginning\n\n\n\nGTA 6 is being marketed as a single-player experience that will be available on console exclusively. That may be true for now, but everyone expects Rockstar to release the next evolution of GTA Online for GTA 6, and eventually bring the game to PC. A recent report said the PC edition could launch sooner than expected.\n\n\n\nThe investment company Jeffries released a note recently that says Take-Two's stock is currently trading at a discount at about $200/share today, October 16, and could jump to $300/share. The company is bullish on Take-Two not just because GTA 6 is expected to be a huge hit, but also because the next version of GTA Online will represent another revenue vector, and the expected PC edition will create another selling cycle. \n\n\n\nA scene from GTA 6.\n\n\n\nThese are not wild predictions. After all, GTA Online, to this day, continues to bring in steady revenue for Take-Two through its various microtransactions and the GTA+ subscription service. It's only reasonable to assume Rockstar would further flesh out GTA Online for GTA 6 and create even more ways for people to spend time (and money) in the world. As for the PC edition, it makes a lot of sense that it would drive people to pick up the game there if that's their preferred platform, and they could be double-dippers, further enriching Take-Two in the process. \n\n\n\nA different console market\n\n\n\nGTA 5 launched at the very tail end of the PS3 and Xbox 360 console lifecycles, which created a unique situation that no doubt increased the game's sales potential. Those consoles combined for an install base of more than 150 million units, so Rockstar had an enormous market to sell into. And as stated above, it sold fantastically in this environment.\n\n\n\nRockstar launched the game for those platforms, but then also brought it to PS4 and Xbox One, and then to PS5 and Xbox Series X|S in the years that followed, with new improvements along the way. People didn't need  to pay again, as free upgrades were offered in some situations, but it can be safely assumed many people double-dipped. \n\n\n\nGTA 6 is launching in a very different world for the console market, as the PS5 and Xbox Series X|S are today more expensive than ever due to tariffs, the AI-fueled demand for memory and components, the war in Iran, and various other global macroeconomic factors driving up prices. The PS5 has sold more than 95 million units, and it's estimated that Xbox Series X|S is about a third of that, so there are probably more than 120 million combined units out there.\n\n\n\nWhat about the long run?\n\n\n\nIf GTA 6 does outperform GTA 5 at launch, that doesn't necessarily it will be able to catch up to GTA 5 over the long haul. GTA 5 has sold more than 230 million copies, and it benefitted from the unique setup mentioned above. The game also debuted prior to the live-service black hole that exists today, with games like Fortnite and Roblox sucking up time and money from the market. \n\n\n\nWhile there has been talk of the PS6 and Project Helix family of devices from Xbox, reports have suggested those platforms could be delayed due to the complexities and headaches related to the current environment mentioned above. Whenever the next PlayStation and Xbox consoles are available, though, it's a safe bet we'll see GTA 6 ported to them at some point. \n\n\n\nAs for the massive market that is the Switch 2, GTA 6 has not been announced for Nintendo's platform. It may not be ruled out, however, as Rockstar reportedly conducted tests for this--but that's all they could be. Nintendo of America's president told fans to ask Rockstar about GTA 6 for Switch 2.\n\n\n\nAnother issue at play for GTA 6 is that console generations are much longer than before, due to the market factors described above. So while Rockstar was able to migrate GTA 5 to new platforms every couple of years, and reap the benefits, that could be a more challenging proposition going forward. \n\n\n\nDespite these possible headwinds, I am betting that the next evolution of GTA Online is a bonafide juggernaut that will outshine the main game in the fullness of time. For one, I expect Rockstar to heavily lean into user-generated content and provide a generally bigger and deeper world for GTA Online that gives players more things to do and more reasons to stay. In turn, this could create more opportunities for Rockstar to monetize and create its own kind of metaverse. Here's to hoping Rockstar divulges the goods on GTA Online 2.0 soon.\n\n\n\nGTA 6 is a must-have game for many people, but for those people on the fence who don't already own a console or want a new one, putting up $600 for a base PS5 or $500 for a Series S might lead to serious sticker shock. \n\n\n\nKeep checking back with GameSpot for more on GTA 6 in the days and weeks ahead.",
+      "summary_tr": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \n\n\n\nBut just how big will the launch be? And what records could GTA 6 beat if it delivers? \n\n\n\nLucia and Jason in GTA 6.\n\n\n\nThe records\n\n\n\nThe last GTA game, 2013's GTA 5, was a huge hit right out of the gate. It brought in $800 million in revenue over its first 24 hours and $1 billion in its first three days. Even a decade later, the game remains a sales juggernaut, eclipsing 230 million copies sold and counting.\n\n\n\nRockstar's latest game, 2018's Red Dead Redemption II, launched with $725 million in revenue over its opening weekend. It's gone on to sell more than 87 million copies, making it one of the top five best-selling games ever.\n\n\n\nOutside of Rockstar, Bethesda's 2015 RPG Fallout 4 had a gigantic launch, shipping 12 million copies for launch day alone, generating sales in excess of $750 million. \n\n\n\nSo to sum up, here are the records that GTA 6 is expected to surpass:\n\n\n\n\nGTA 5: $800 million in 24 hours and $1 billion in three days \n\n\n\nRed Dead Redemption II: $725 million over its first weekend\n\n\n\nFallout 4: $750 million on launch day\n\n\n\n\nGTA 6 has enormous shoes to fill to match and surpass Rockstar's previous games and Fallout 4. But if Sensor Tower's data that projects 25 million preorders by launch is correct--or even close--then it should have no problem beating GTA 5's initial sales.\n\n\n\nOne thing working in GTA 6's favor when it comes to comparisons to past games is that GTA 6 has a higher selling price. The base game goes for $80, compared to the $60 that GTA 5 and Red Dead Redemption II launched at years ago.\n\n\n\nOf course, $60 in 2013 dollars equates to about $85 today when factoring in inflation. But even inflation-adjusted figures would likely show that GTA 6 has a bigger launch, if it becomes the hit everyone expects it to. And when Take-Two inevitably shares GTA 6 sales data, you can bet the company will present the data is the absolute best possible light, whatever language and specifics it takes to get there.\n\n\n\nThe numbers so far\n\n\n\nOfficially, neither Rockstar nor parent company Take-Two have shared any numbers at all about preorders or sales projections since preorders opened in June. Take-Two boss Strauss Zelnick said it would not be prudent to disclose preorder figures because they could be misleading. His argument was that, technically speaking, GTA 6 has not sold a single copy yet, as, in theory, every preordered copy of the game could be returned. That's silly, of course; it sounds more like Zelnick is staying true to his mantra of never declaring success before it occurs. \n\n\n\nWhatever the case, Zelnick said GTA 6 preorders \"vastly\" surpassed international expectations, but he did not say what those expectations were or \"whether they mean anything\" anyway.\n\n\n\nZelnick said sharing real, raw data for GTA 6 preorders could mislead investors, so Take-Two is not going to do so.\n\n\n\n“I’ve reminded people that we simply don’t know the demand curve because it’s just never happened before,” Zelnick said. “Given that, we think the raw numbers could potentially be misleading in a direction we wouldn’t feel good about.”\n\n\n\nSpeaking during Take-Two’s latest earnings call, Zelnick said of GTA 6’s preorder numbers, “No one’s ever seen anything like this before at Take-Two, or in the industry.” He added: “To be clear, we haven’t sold one unit yet. You can cancel a preorder.”\n\n\n\n$2 billion by launch?\n\n\n\nThe research firm Sensor Tower has a \"GTA 6 Sales Tracker\" site that shows estimates for GTA 6 preorders, displaying 6.08 million through October 13, and that apparently includes any returned/refunded copies. The group estimates that this works out to $594 million in revenue so far, with a split of 74% for PlayStation 5 and 26% for Xbox Series X|S.\n\n\n\nSensor Tower's Karl Kontus said in an interview that reorders for GTA 6 could be in the area of 25 million when the game releases, which would amount to “unprecedented preorder performance.” \n\n\n\nAt 25 million, that would work out to about $2 billion in revenue, which would cover the game's development budget and the majority of the marketing spend, he said. Kontus went on to say that he expects the majority of GTA 6 preorders to come in the last week or so before launch, as the hype peaks. Currently, the preorder split is skewing toward the $100 edition, Sensor Tower said, but that makes sense since people who preorder early are probably more on the enthusiast side. At launch, Sensor Tower said it expects about a 50/50 split between the $80 and $100 editions for preorder numbers.\n\n\n\n\nhttps://www.youtube.com/watch?v=klc0fQmAL6k\n\n\n\n\n\n\n\n\nLaunch is only the beginning\n\n\n\nGTA 6 is being marketed as a single-player experience that will be available on console exclusively. That may be true for now, but everyone expects Rockstar to release the next evolution of GTA Online for GTA 6, and eventually bring the game to PC. A recent report said the PC edition could launch sooner than expected.\n\n\n\nThe investment company Jeffries released a note recently that says Take-Two's stock is currently trading at a discount at about $200/share today, October 16, and could jump to $300/share. The company is bullish on Take-Two not just because GTA 6 is expected to be a huge hit, but also because the next version of GTA Online will represent another revenue vector, and the expected PC edition will create another selling cycle. \n\n\n\nA scene from GTA 6.\n\n\n\nThese are not wild predictions. After all, GTA Online, to this day, continues to bring in steady revenue for Take-Two through its various microtransactions and the GTA+ subscription service. It's only reasonable to assume Rockstar would further flesh out GTA Online for GTA 6 and create even more ways for people to spend time (and money) in the world. As for the PC edition, it makes a lot of sense that it would drive people to pick up the game there if that's their preferred platform, and they could be double-dippers, further enriching Take-Two in the process. \n\n\n\nA different console market\n\n\n\nGTA 5 launched at the very tail end of the PS3 and Xbox 360 console lifecycles, which created a unique situation that no doubt increased the game's sales potential. Those consoles combined for an install base of more than 150 million units, so Rockstar had an enormous market to sell into. And as stated above, it sold fantastically in this environment.\n\n\n\nRockstar launched the game for those platforms, but then also brought it to PS4 and Xbox One, and then to PS5 and Xbox Series X|S in the years that followed, with new improvements along the way. People didn't need  to pay again, as free upgrades were offered in some situations, but it can be safely assumed many people double-dipped. \n\n\n\nGTA 6 is launching in a very different world for the console market, as the PS5 and Xbox Series X|S are today more expensive than ever due to tariffs, the AI-fueled demand for memory and components, the war in Iran, and various other global macroeconomic factors driving up prices. The PS5 has sold more than 95 million units, and it's estimated that Xbox Series X|S is about a third of that, so there are probably more than 120 million combined units out there.\n\n\n\nWhat about the long run?\n\n\n\nIf GTA 6 does outperform GTA 5 at launch, that doesn't necessarily it will be able to catch up to GTA 5 over the long haul. GTA 5 has sold more than 230 million copies, and it benefitted from the unique setup mentioned above. The game also debuted prior to the live-service black hole that exists today, with games like Fortnite and Roblox sucking up time and money from the market. \n\n\n\nWhile there has been talk of the PS6 and Project Helix family of devices from Xbox, reports have suggested those platforms could be delayed due to the complexities and headaches related to the current environment mentioned above. Whenever the next PlayStation and Xbox consoles are available, though, it's a safe bet we'll see GTA 6 ported to them at some point. \n\n\n\nAs for the massive market that is the Switch 2, GTA 6 has not been announced for Nintendo's platform. It may not be ruled out, however, as Rockstar reportedly conducted tests for this--but that's all they could be. Nintendo of America's president told fans to ask Rockstar about GTA 6 for Switch 2.\n\n\n\nAnother issue at play for GTA 6 is that console generations are much longer than before, due to the market factors described above. So while Rockstar was able to migrate GTA 5 to new platforms every couple of years, and reap the benefits, that could be a more challenging proposition going forward. \n\n\n\nDespite these possible headwinds, I am betting that the next evolution of GTA Online is a bonafide juggernaut that will outshine the main game in the fullness of time. For one, I expect Rockstar to heavily lean into user-generated content and provide a generally bigger and deeper world for GTA Online that gives players more things to do and more reasons to stay. In turn, this could create more opportunities for Rockstar to monetize and create its own kind of metaverse. Here's to hoping Rockstar divulges the goods on GTA Online 2.0 soon.\n\n\n\nGTA 6 is a must-have game for many people, but for those people on the fence who don't already own a console or want a new one, putting up $600 for a base PS5 or $500 for a Series S might lead to serious sticker shock. \n\n\n\nKeep checking back with GameSpot for more on GTA 6 in the days and weeks ahead.",
+      "long_summary": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \n\n\n\nBut just how big will the launch be? And what records could GTA 6 beat if it delivers? \n\n\n\nLucia and Jason in GTA 6.\n\n\n\nThe records\n\n\n\nThe last GTA game, 2013's GTA 5, was a huge hit right out of the gate. It brought in $800 million in revenue",
+      "long_summary_tr": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \n\n\n\nBut just how big will the launch be? And what records could GTA 6 beat if it delivers? \n\n\n\nLucia and Jason in GTA 6.\n\n\n\nThe records\n\n\n\nThe last GTA game, 2013's GTA 5, was a huge hit right out of the gate. It brought in $800 million in revenue",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
+      "published_at": "2026-10-16T20:27:22+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "SPK, Hedef Portföy fonlarında tasfiye sürecini başlattı",
+      "title_tr": "SPK, Hedef Portföy fonlarında tasfiye sürecini başlattı",
+      "summary": "Sermaye Piyasası Kurulu (SPK), 17 Eylül 2026 tarihli kararları uyarınca tasfiyesine karar verilen Hedef Portföy Yönetimi AŞ'nin kurucusu olduğu fonların tasfiye işlemlerinin başlatılmasına karar verdi...",
+      "summary_tr": "Sermaye Piyasası Kurulu (SPK), 17 Eylül 2026 tarihli kararları uyarınca tasfiyesine karar verilen Hedef Portföy Yönetimi AŞ'nin kurucusu olduğu fonların tasfiye işlemlerinin başlatılmasına karar verdi...",
+      "long_summary": "Sermaye Piyasası Kurulu (SPK), 17 Eylül 2026 tarihli kararları uyarınca tasfiyesine karar verilen Hedef Portföy Yönetimi AŞ'nin kurucusu olduğu fonların tasfiye işlemlerinin başlatılmasına karar verdi...",
+      "long_summary_tr": "Sermaye Piyasası Kurulu (SPK), 17 Eylül 2026 tarihli kararları uyarınca tasfiyesine karar verilen Hedef Portföy Yönetimi AŞ'nin kurucusu olduğu fonların tasfiye işlemlerinin başlatılmasına karar verdi...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad28826422c786f3f7a4af4/PICNEWS/tr/spk-hedef-portfoy-fonlarinda-tasfiye-surecini-baslatti-16-10-26/",
+      "image": "https://news-files.foreks.com/images/6c64d08f29da4cdcb8e0ce8209400c49.jpeg",
+      "published_at": "2026-10-16T20:25:10+00:00"
     },
     {
       "origin": "turkiye",
@@ -351,403 +285,51 @@
       ],
       "url": "https://www.haberturk.com/gundem/istanbul-sel-son-durum-selde-can-kaybi-ne-oldu-son-dakika-haberi-3920108",
       "image": "https://im.haberturk.com/l/2026/10/16/ver1792164913/3920108/jpg/1920x1080",
-      "published_at": "2026-10-16T16:40:47+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
-      "title_tr": "Save 50% Off a Rechargeable LED Light Up Mask With 50 Different Effects for Halloween, Now Under $20",
-      "summary": "Powered by over 200 high‑brightness RGB LEDs.",
-      "summary_tr": "Powered by over 200 high‑brightness RGB LEDs.",
-      "long_summary": "Powered by over 200 high‑brightness RGB LEDs.",
-      "long_summary_tr": "Powered by over 200 high‑brightness RGB LEDs.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/led-mask-halloween-deal-october-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/10/14/moyaca-1792009399853.jpg",
-      "published_at": "2026-10-16T16:40:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "5 Comfy-Chic Thanksgiving Outfit Ideas, Courtesy of Meghan Markle’s Go-To Sweater Brand",
-      "title_tr": "5 Comfy-Chic Thanksgiving Outfit Ideas, Courtesy of Meghan Markle’s Go-To Sweater Brand",
-      "summary": "Discover pieces that still leave room for seconds, from cashmere knits to satin pull-on pants.",
-      "summary_tr": "Discover pieces that still leave room for seconds, from cashmere knits to satin pull-on pants.",
-      "long_summary": "Discover pieces that still leave room for seconds, from cashmere knits to satin pull-on pants.",
-      "long_summary_tr": "Discover pieces that still leave room for seconds, from cashmere knits to satin pull-on pants.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/fashion/shopping/a74133497/thanksgiving-outfit-ideas-jenni-kayne/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/c452b14f-1295-47bd-a14c-19471d1dc351.png",
-      "published_at": "2026-10-16T16:39:01+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Carrie Season 2: What We Know",
-      "title_tr": "Carrie Season 2: What We Know",
-      "summary": "Carrie Season 2: What We Know",
-      "summary_tr": "Carrie Season 2: What We Know",
-      "long_summary": "Carrie Season 2: What We Know",
-      "long_summary_tr": "Carrie Season 2: What We Know",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a74149564/carrie-season-2-news-cast-plot-release-date/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/9a00cdae-142d-4004-ac07-287b45aef04a.png",
-      "published_at": "2026-10-16T16:35:42+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan'dan, Gültekin'e veda",
-      "title_tr": "Cumhurbaşkanı Erdoğan'dan, Gültekin'e veda",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in Büyük Çamlıca Camii’nde düzenlenen cenaze törenine katıldı. Cumhurbaşkanı Erdoğan, \"Bu yolculuk hepimiz için mukadder. Bu mukadder olan yolculuğa da hepimiz hazırlıklı olsun\" dedi",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in Büyük Çamlıca Camii’nde düzenlenen cenaze törenine katıldı. Cumhurbaşkanı Erdoğan, \"Bu yolculuk hepimiz için mukadder. Bu mukadder olan yolculuğa da hepimiz hazırlıklı olsun\" dedi",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in Büyük Çamlıca Camii’nde düzenlenen cenaze törenine katıldı. Cumhurbaşkanı Erdoğan, \"Bu yolculuk hepimiz için mukadder. Bu mukadder olan yolculuğa da hepimiz hazırlıklı olsun\" dedi",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in Büyük Çamlıca Camii’nde düzenlenen cenaze törenine katıldı. Cumhurbaşkanı Erdoğan, \"Bu yolculuk hepimiz için mukadder. Bu mukadder olan yolculuğa da hepimiz hazırlıklı olsun\" dedi",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-gultekin-e-veda-3920226",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792151218/3920226/jpg/1920x1080",
-      "published_at": "2026-10-16T16:35:24+00:00"
+      "published_at": "2026-10-16T20:23:12+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "Corporacion America Airports hissesi bugün neden yükseliyor?",
-      "title_tr": "Corporacion America Airports hissesi bugün neden yükseliyor?",
-      "summary": "Corporacion America Airports hissesi bugün neden yükseliyor?",
-      "summary_tr": "Corporacion America Airports hissesi bugün neden yükseliyor?",
-      "long_summary": "Corporacion America Airports hissesi bugün neden yükseliyor?",
-      "long_summary_tr": "Corporacion America Airports hissesi bugün neden yükseliyor?",
+      "source": "Foreks",
+      "title": "SPK'dan Vişne Madencilik ve Işıklar Enerji işlemlerine ilişkin suç duyuruları ve 2 yıl işlem yasağı",
+      "title_tr": "SPK'dan Vişne Madencilik ve Işıklar Enerji işlemlerine ilişkin suç duyuruları ve 2 yıl işlem yasağı",
+      "summary": "Sermaye Piyasası Kurulu (SPK), Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD) ile Işıklar Enerji ve Yapı Holding AŞ (IEYHO) pay piyasalarında gerçekleştirilen işlemlere ilişkin incelemeler sonuc...",
+      "summary_tr": "Sermaye Piyasası Kurulu (SPK), Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD) ile Işıklar Enerji ve Yapı Holding AŞ (IEYHO) pay piyasalarında gerçekleştirilen işlemlere ilişkin incelemeler sonuc...",
+      "long_summary": "Sermaye Piyasası Kurulu (SPK), Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD) ile Işıklar Enerji ve Yapı Holding AŞ (IEYHO) pay piyasalarında gerçekleştirilen işlemlere ilişkin incelemeler sonuc...",
+      "long_summary_tr": "Sermaye Piyasası Kurulu (SPK), Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD) ile Işıklar Enerji ve Yapı Holding AŞ (IEYHO) pay piyasalarında gerçekleştirilen işlemlere ilişkin incelemeler sonuc...",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/corporacion-america-airports-hissesi-bugun-neden-yukseliyor-93CH-4107352",
-      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
-      "published_at": "2026-10-16T16:35:20+00:00"
+      "url": "https://www.foreks.com/haber/detay/6ad2877958b1b941c208bf52/PICNEWS/tr/spk-dan-visne-madencilik-ve-isiklar-enerji-islemlerine-iliskin-suc-duyurulari-ve-2-yil-islem-yasagi-16-10-26/",
+      "image": "https://news-files.foreks.com/images/60275f578a83435285bc76c6492a857e.jpeg",
+      "published_at": "2026-10-16T20:22:17+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Investing TR",
-      "title": "NiSource hisseleri neden yükselişte?",
-      "title_tr": "NiSource hisseleri neden yükselişte?",
-      "summary": "NiSource hisseleri neden yükselişte?",
-      "summary_tr": "NiSource hisseleri neden yükselişte?",
-      "long_summary": "NiSource hisseleri neden yükselişte?",
-      "long_summary_tr": "NiSource hisseleri neden yükselişte?",
+      "source": "Foreks",
+      "title": "SPK'dan Şekerbank'ın 1 milyar TL'lik sermaye artırımına onay",
+      "title_tr": "SPK'dan Şekerbank'ın 1 milyar TL'lik sermaye artırımına onay",
+      "summary": "Sermaye Piyasası Kurulu'nun 16 Ekim 2026 tarihli ve 2026/70 sayılı bültenine göre, Şekerbank TAŞ'nin sermayesini 2,5 milyar TL'den 3,5 milyar TL'ye çıkaracak 1 milyar TL'lik bedelli sermaye artırımı h...",
+      "summary_tr": "Sermaye Piyasası Kurulu'nun 16 Ekim 2026 tarihli ve 2026/70 sayılı bültenine göre, Şekerbank TAŞ'nin sermayesini 2,5 milyar TL'den 3,5 milyar TL'ye çıkaracak 1 milyar TL'lik bedelli sermaye artırımı h...",
+      "long_summary": "Sermaye Piyasası Kurulu'nun 16 Ekim 2026 tarihli ve 2026/70 sayılı bültenine göre, Şekerbank TAŞ'nin sermayesini 2,5 milyar TL'den 3,5 milyar TL'ye çıkaracak 1 milyar TL'lik bedelli sermaye artırımı h...",
+      "long_summary_tr": "Sermaye Piyasası Kurulu'nun 16 Ekim 2026 tarihli ve 2026/70 sayılı bültenine göre, Şekerbank TAŞ'nin sermayesini 2,5 milyar TL'den 3,5 milyar TL'ye çıkaracak 1 milyar TL'lik bedelli sermaye artırımı h...",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/nisource-hisseleri-neden-yukseliste-93CH-4107351",
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published_at": "2026-10-16T16:35:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Köprü yıkıldı! Evde mahsur kaldılar... 2'si çocuk 8 kişiydi...",
-      "title_tr": "Köprü yıkıldı! Evde mahsur kaldılar... 2'si çocuk 8 kişiydi...",
-      "summary": "Sakarya’nın Sapanca ilçesinde sağanak nedeniyle taşan Fevziye-Akçay Deresi üzerindeki köprünün yıkılması sonucu 2 si çocuk 8 kişi evlerinde mahsur kaldı. Beton elektrik direkleri arasına halatlı düzenek kuruldu. Nefesler tutuldu...",
-      "summary_tr": "Sakarya’nın Sapanca ilçesinde sağanak nedeniyle taşan Fevziye-Akçay Deresi üzerindeki köprünün yıkılması sonucu 2 si çocuk 8 kişi evlerinde mahsur kaldı. Beton elektrik direkleri arasına halatlı düzenek kuruldu. Nefesler tutuldu...",
-      "long_summary": "Sakarya’nın Sapanca ilçesinde sağanak nedeniyle taşan Fevziye-Akçay Deresi üzerindeki köprünün yıkılması sonucu 2 si çocuk 8 kişi evlerinde mahsur kaldı. Beton elektrik direkleri arasına halatlı düzenek kuruldu. Nefesler tutuldu...",
-      "long_summary_tr": "Sakarya’nın Sapanca ilçesinde sağanak nedeniyle taşan Fevziye-Akçay Deresi üzerindeki köprünün yıkılması sonucu 2 si çocuk 8 kişi evlerinde mahsur kaldı. Beton elektrik direkleri arasına halatlı düzenek kuruldu. Nefesler tutuldu...",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-kopru-yikildi-evde-mahsur-kaldilar-2-si-cocuk-8-kisiydi-sakarya-haberleri-3920250",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792153225/3920250/jpg/1920x1080",
-      "published_at": "2026-10-16T16:34:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "MGM'den kritik uyarı geldi! Bu illere dikkat!",
-      "title_tr": "MGM'den kritik uyarı geldi! Bu illere dikkat!",
-      "summary": "Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Abdullah Macit, hafta sonunda yurt genelinde yağışların etkili olacağını belirterek, \"Cumartesi günü Kocaeli, Sakarya, Yalova ve Bursa çevrelerinde, pazar günü ise Düzce, Zonguldak ve Bartın çevrelerinde yağışlar yer yer çok kuvvetli ve şiddetli olacak. Vatandaşlarımızın sel ve su baskınlarına karşı dikkatli olmalarını istiyoruz\" dedi. MGM, ayrıca 36 il için \"sarı\" ve 4 kent için \"turuncu\" kodlu uyarıda bulundu",
-      "summary_tr": "Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Abdullah Macit, hafta sonunda yurt genelinde yağışların etkili olacağını belirterek, \"Cumartesi günü Kocaeli, Sakarya, Yalova ve Bursa çevrelerinde, pazar günü ise Düzce, Zonguldak ve Bartın çevrelerinde yağışlar yer yer çok kuvvetli ve şiddetli olacak. Vatandaşlarımızın sel ve su baskınlarına karşı dikkatli olmalarını istiyoruz\" dedi. MGM, ayrıca 36 il için \"sarı\" ve 4 kent için \"turuncu\" kodlu uyarıda bulundu",
-      "long_summary": "Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Abdullah Macit, hafta sonunda yurt genelinde yağışların etkili olacağını belirterek, \"Cumartesi günü Kocaeli, Sakarya, Yalova ve Bursa çevrelerinde, pazar günü ise Düzce, Zonguldak ve Bartın çevrelerinde yağışlar yer yer çok kuvvetli ve şiddetli olacak. Vatandaşlarımızın sel ve su baskınlarına karşı dikkatli olmalarını istiyoruz\" dedi. MGM, ayrıca 36 il için \"sarı\" ve 4 kent için \"turuncu\" kodlu uyarıda bulundu",
-      "long_summary_tr": "Meteoroloji Genel Müdürlüğü (MGM) Hava Tahmin Uzmanı Abdullah Macit, hafta sonunda yurt genelinde yağışların etkili olacağını belirterek, \"Cumartesi günü Kocaeli, Sakarya, Yalova ve Bursa çevrelerinde, pazar günü ise Düzce, Zonguldak ve Bartın çevrelerinde yağışlar yer yer çok kuvvetli ve şiddetli olacak. Vatandaşlarımızın sel ve su baskınlarına karşı dikkatli olmalarını istiyoruz\" dedi. MGM, ayrıca 36 il için \"sarı\" ve 4 kent için \"turuncu\" kodlu uyarıda bulundu",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/son-dakika-haberi-mgm-den-kritik-uyari-geldi-bu-illere-dikkat-yagis-surecek-mi-3920262",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792155291/3920262/jpg/1920x1080",
-      "published_at": "2026-10-16T16:33:37+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "İzleme Komisyonu için kritik süreç",
-      "title_tr": "İzleme Komisyonu için kritik süreç",
-      "summary": "Terörsüz Türkiye süreci kapsamında kurulması planlanan İzleme ve İrtibat Komisyonu için gözler TBMM'ye çevrildi. Meclis Başkanı Numan Kurtulmuş'un siyasi partilerle görüşmesi beklenirken komisyonun 15 ila 23 üyeden oluşabileceği belirtiliyor. İlk aşamada yaklaşık 2 bin 400 kişinin çerçeve yasadan yararlanabileceği ifade ediliyor. Buse Gençtürk'ün haberi",
-      "summary_tr": "Terörsüz Türkiye süreci kapsamında kurulması planlanan İzleme ve İrtibat Komisyonu için gözler TBMM'ye çevrildi. Meclis Başkanı Numan Kurtulmuş'un siyasi partilerle görüşmesi beklenirken komisyonun 15 ila 23 üyeden oluşabileceği belirtiliyor. İlk aşamada yaklaşık 2 bin 400 kişinin çerçeve yasadan yararlanabileceği ifade ediliyor. Buse Gençtürk'ün haberi",
-      "long_summary": "Terörsüz Türkiye süreci kapsamında kurulması planlanan İzleme ve İrtibat Komisyonu için gözler TBMM'ye çevrildi. Meclis Başkanı Numan Kurtulmuş'un siyasi partilerle görüşmesi beklenirken komisyonun 15 ila 23 üyeden oluşabileceği belirtiliyor. İlk aşamada yaklaşık 2 bin 400 kişinin çerçeve yasadan yararlanabileceği ifade ediliyor. Buse Gençtürk'ün haberi",
-      "long_summary_tr": "Terörsüz Türkiye süreci kapsamında kurulması planlanan İzleme ve İrtibat Komisyonu için gözler TBMM'ye çevrildi. Meclis Başkanı Numan Kurtulmuş'un siyasi partilerle görüşmesi beklenirken komisyonun 15 ila 23 üyeden oluşabileceği belirtiliyor. İlk aşamada yaklaşık 2 bin 400 kişinin çerçeve yasadan yararlanabileceği ifade ediliyor. Buse Gençtürk'ün haberi",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/izleme-ve-irtibat-komisyonu-icin-tbmm-de-kritik-surec-basliyor-3920302",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792168308/3920302/jpg/1920x1080",
-      "published_at": "2026-10-16T16:32:10+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "AKOM'dan İstanbullulara uyarı",
-      "title_tr": "AKOM'dan İstanbullulara uyarı",
-      "summary": "İstanbul'da şiddetli yağışların ardından yeni sağanak uyarısı yapıldı. AKOM'da açıklamalarda bulunan İBB Başkanvekili Nuri Aslan, kentte turuncu alarm seviyesine geçildiğini belirterek vatandaşlardan zorunlu olmadıkça evlerinden çıkmamalarını, ulaşım için ise toplu taşıma araçlarını tercih etmelerini istedi",
-      "summary_tr": "İstanbul'da şiddetli yağışların ardından yeni sağanak uyarısı yapıldı. AKOM'da açıklamalarda bulunan İBB Başkanvekili Nuri Aslan, kentte turuncu alarm seviyesine geçildiğini belirterek vatandaşlardan zorunlu olmadıkça evlerinden çıkmamalarını, ulaşım için ise toplu taşıma araçlarını tercih etmelerini istedi",
-      "long_summary": "İstanbul'da şiddetli yağışların ardından yeni sağanak uyarısı yapıldı. AKOM'da açıklamalarda bulunan İBB Başkanvekili Nuri Aslan, kentte turuncu alarm seviyesine geçildiğini belirterek vatandaşlardan zorunlu olmadıkça evlerinden çıkmamalarını, ulaşım için ise toplu taşıma araçlarını tercih etmelerini istedi",
-      "long_summary_tr": "İstanbul'da şiddetli yağışların ardından yeni sağanak uyarısı yapıldı. AKOM'da açıklamalarda bulunan İBB Başkanvekili Nuri Aslan, kentte turuncu alarm seviyesine geçildiğini belirterek vatandaşlardan zorunlu olmadıkça evlerinden çıkmamalarını, ulaşım için ise toplu taşıma araçlarını tercih etmelerini istedi",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/ibb-baskanvekili-nuri-aslan-istanbullulara-zorunlu-olmadikca-disari-cikmayin-cagrisi-yapti-3920303",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792168161/3920303/jpg/1920x1080",
-      "published_at": "2026-10-16T16:30:58+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Get a Switch 2-Ready 512GB MicroSD Express Card for $85",
-      "title_tr": "Get a Switch 2-Ready 512GB MicroSD Express Card for $85",
-      "summary": "This microSD Express card deal lets you expand your Switch 2 storage for as cheap as you'll find in 2026.",
-      "summary_tr": "This microSD Express card deal lets you expand your Switch 2 storage for as cheap as you'll find in 2026.",
-      "long_summary": "This microSD Express card deal lets you expand your Switch 2 storage for as cheap as you'll find in 2026.",
-      "long_summary_tr": "This microSD Express card deal lets you expand your Switch 2 storage for as cheap as you'll find in 2026.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/switch-2-ready-512gb-onn-microsd-express-card-on-sale",
-      "image": "https://assets-prd.ignimgs.com/2026/10/16/copy-of-untitled-1792167706969.png",
-      "published_at": "2026-10-16T16:30:34+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "United States GP: UK schedule as F1 returns to COTA",
-      "title_tr": "United States GP: UK schedule as F1 returns to COTA",
-      "summary": "Following an extended stint across Asia, Formula 1 heads to America for the United States Grand Prix at the iconic Circuit of The Americas in Austin, Texas.",
-      "summary_tr": "Following an extended stint across Asia, Formula 1 heads to America for the United States Grand Prix at the iconic Circuit of The Americas in Austin, Texas.",
-      "long_summary": "Following an extended stint across Asia, Formula 1 heads to America for the United States Grand Prix at the iconic Circuit of The Americas in Austin, Texas.",
-      "long_summary_tr": "Following an extended stint across Asia, Formula 1 heads to America for the United States Grand Prix at the iconic Circuit of The Americas in Austin, Texas.",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/f1/news/12040/13599576/united-states-gp-2026-dates-schedule-austin-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-cota-live-on-sky-sports",
-      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7378211.jpg?20261016121200",
-      "published_at": "2026-10-16T16:30:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Defense News",
-      "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-      "title_tr": "Order to limit Starshield for Ukraine came from inside White House, sources say",
-      "summary": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House.",
-      "summary_tr": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House.",
-      "long_summary": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House.",
-      "long_summary_tr": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/",
-      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T3NGNWASERA67ASVFIBSQMVR3U.JPG",
-      "published_at": "2026-10-16T16:30:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Migros 1 alana 1 bedava kampanyası devam ediyor mu?",
-      "title_tr": "Migros 1 alana 1 bedava kampanyası devam ediyor mu?",
-      "summary": "Migros 1 alana 1 bedava kampanyasında indirimli ürünler duyuruldu. Ekim ayının ikinci haftasına özel Migros indirimleri 10 Ekim’de başladı. Farklı ürün kategorilerinde avantajlı alışveriş fırsatları sunuluyor. Toz deterjan, züccaciye ürünleri, kahvaltılık, kişisel bakım ürünleri kampanya kapsamında yer alıyor. Peki Migros 1 alana 1 bedava indirimlerinde neler var? Migros 1 alana 1 bedava kampanyası devam ediyor mu, bitti mi?",
-      "summary_tr": "Migros 1 alana 1 bedava kampanyasında indirimli ürünler duyuruldu. Ekim ayının ikinci haftasına özel Migros indirimleri 10 Ekim’de başladı. Farklı ürün kategorilerinde avantajlı alışveriş fırsatları sunuluyor. Toz deterjan, züccaciye ürünleri, kahvaltılık, kişisel bakım ürünleri kampanya kapsamında yer alıyor. Peki Migros 1 alana 1 bedava indirimlerinde neler var? Migros 1 alana 1 bedava kampanyası devam ediyor mu, bitti mi?",
-      "long_summary": "Migros 1 alana 1 bedava kampanyasında indirimli ürünler duyuruldu. Ekim ayının ikinci haftasına özel Migros indirimleri 10 Ekim’de başladı. Farklı ürün kategorilerinde avantajlı alışveriş fırsatları sunuluyor. Toz deterjan, züccaciye ürünleri, kahvaltılık, kişisel bakım ürünleri kampanya kapsamında yer alıyor. Peki Migros 1 alana 1 bedava indirimlerinde neler var? Migros 1 alana 1 bedava kampanyası devam ediyor mu, bitti mi?",
-      "long_summary_tr": "Migros 1 alana 1 bedava kampanyasında indirimli ürünler duyuruldu. Ekim ayının ikinci haftasına özel Migros indirimleri 10 Ekim’de başladı. Farklı ürün kategorilerinde avantajlı alışveriş fırsatları sunuluyor. Toz deterjan, züccaciye ürünleri, kahvaltılık, kişisel bakım ürünleri kampanya kapsamında yer alıyor. Peki Migros 1 alana 1 bedava indirimlerinde neler var? Migros 1 alana 1 bedava kampanyası devam ediyor mu, bitti mi?",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/bilgi/migros-1-alana-1-bedava-indirimlerinde-neler-var-migros-1-alana-1-bedava-kampanyasi-devam-ediyor-mu-bitti-mi-3919817",
-      "image": "https://im.haberturk.com/l/2026/10/15/ver1792016919/3919817/jpg/1920x1080",
-      "published_at": "2026-10-16T16:29:39+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Nathan Fielder’s Elizabeth Holmes Documentary, You Can See Everything: What We Know So Far",
-      "title_tr": "Nathan Fielder’s Elizabeth Holmes Documentary, You Can See Everything: What We Know So Far",
-      "summary": "Nathan Fielder’s Elizabeth Holmes Documentary, You Can See Everything: What We Know So Far",
-      "summary_tr": "Nathan Fielder’s Elizabeth Holmes Documentary, You Can See Everything: What We Know So Far",
-      "long_summary": "Nathan Fielder’s Elizabeth Holmes Documentary, You Can See Everything: What We Know So Far",
-      "long_summary_tr": "Nathan Fielder’s Elizabeth Holmes Documentary, You Can See Everything: What We Know So Far",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/movies-tv/a73653622/you-can-see-everything-documentary-news-cast-release-date/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d59894f1-a4ba-4c83-a522-469832d594d1.jpg",
-      "published_at": "2026-10-16T16:28:48+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Savunma / Askeri",
-      "category_slug": "savunma_askeri",
-      "is_local": false,
-      "source": "Breaking Defense",
-      "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
-      "title_tr": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
-      "summary": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, whose portfolio now spans from a reusable drone interceptor to a low-cost cruise missile.",
-      "summary_tr": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, whose portfolio now spans from a reusable drone interceptor to a low-cost cruise missile.",
-      "long_summary": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, whose portfolio now spans from a reusable drone interceptor to a low-cost cruise missile.",
-      "long_summary_tr": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, whose portfolio now spans from a reusable drone interceptor to a low-cost cruise missile.",
-      "why_important": [
-        "Ulusal veya bölgesel güvenlikle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Bölgesel güvenlik dengeleri etkilenebilir"
-      ],
-      "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
-      "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Zone-5-eclipse-e1792079717288-1024x577.jpeg",
-      "published_at": "2026-10-16T16:28:00+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
-      "is_local": false,
-      "source": "Elle",
-      "title": "Kate Middleton Releases the Video She Filmed at the Same Time as Meghan Markle and Prince Harry’s Event",
-      "title_tr": "Kate Middleton Releases the Video She Filmed at the Same Time as Meghan Markle and Prince Harry’s Event",
-      "summary": "The Princess of Wales announced her own new project.",
-      "summary_tr": "The Princess of Wales announced her own new project.",
-      "long_summary": "The Princess of Wales announced her own new project.",
-      "long_summary_tr": "The Princess of Wales announced her own new project.",
-      "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
-      ],
-      "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
-      ],
-      "url": "https://www.elle.com/culture/celebrities/a74158921/kate-middleton-secret-video-release-meghan-harry-nottingham-event-day/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/d7c9867d-3096-474e-aadb-8bef5c3e0722.jpg",
-      "published_at": "2026-10-16T16:23:22+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
-      "title_tr": "Save $40 Off Microsoft's Professional-Grade Xbox Elite Series 2 Core Wireless Controller",
-      "summary": "Worth the upgrade.",
-      "summary_tr": "Worth the upgrade.",
-      "long_summary": "Worth the upgrade.",
-      "long_summary_tr": "Worth the upgrade.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/xbox-elite-controller-deal-october-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/10/15/xboxelitecorecontroller-1792100339964.jpg",
-      "published_at": "2026-10-16T16:20:00+00:00"
+      "url": "https://www.foreks.com/haber/detay/6ad2870358b1b941c208bf4e/PICNEWS/tr/spk-dan-sekerbank-in-1-milyar-tl-lik-sermaye-artirimina-onay-16-10-26/",
+      "image": "https://news-files.foreks.com/images/cd9a7342d9554230abb5517d3b9a9f94.jpeg",
+      "published_at": "2026-10-16T20:20:19+00:00"
     },
     {
       "origin": "yabanci",
@@ -755,219 +337,21 @@
       "category_slug": "spor",
       "is_local": false,
       "source": "BBC Sport",
-      "title": "Do Manchester City have any grounds to win their appeal?",
-      "title_tr": "Do Manchester City have any grounds to win their appeal?",
-      "summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-      "summary_tr": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-      "long_summary": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
-      "long_summary_tr": "Manchester City face \"substantial hurdles\" to overcome if they are to have any chance of winning their appeal after being found guilty of breaking the Premier League's financial rules, a leading lawyer has told BBC Sport.",
+      "title": "Bellingham agrees new Real deal - Saturday's gossip",
+      "title_tr": "Bellingham agrees new Real deal - Saturday's gossip",
+      "summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
+      "summary_tr": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
+      "long_summary": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
+      "long_summary_tr": "Real Madrid midfielder Jude Bellingham ready to commit his future to La Liga club, Arsenal and Liverpool told price for Brentford's Kevin Schade, Man Utd and Chelsea among clubs monitoring Jules Kounde's future at Barcelona, plus more.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6je5lwxk5l0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg",
-      "published_at": "2026-10-16T16:17:01+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
-      "title_tr": "Preorder the SteelSeries Sensei Pro and Rival Pro 8K Gaming Mice With Unlimited Battery Life",
-      "summary": "Shaping up to be the best gaming mice on the market.",
-      "summary_tr": "Shaping up to be the best gaming mice on the market.",
-      "long_summary": "Shaping up to be the best gaming mice on the market.",
-      "long_summary_tr": "Shaping up to be the best gaming mice on the market.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/preorder-the-steelseries-new-sensei-pro-and-rival-pro-gaming-mice",
-      "image": "https://assets-prd.ignimgs.com/2026/10/15/steelseriessenseipro-1792108299203.jpg",
-      "published_at": "2026-10-16T16:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi TBMM'ye sunuldu",
-      "title_tr": "2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi TBMM'ye sunuldu",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla hazırlanan 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi TBMM'ye sunuldu.",
-      "summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla hazırlanan 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi TBMM'ye sunuldu.",
-      "long_summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla hazırlanan 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi TBMM'ye sunuldu.",
-      "long_summary_tr": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla hazırlanan 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi TBMM'ye sunuldu.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/2027-yili-merkezi-yonetim-butce-kanunu-teklifi-tbmm-ye-sunuldu-3791702",
-      "image": "https://geoim.bloomberght.com/l/2026/10/16/ver1792167304/3791702/jpg/1280x720",
-      "published_at": "2026-10-16T16:14:23+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Emergent Biosolutions hissesi bugün neden düşüyor?",
-      "title_tr": "Emergent Biosolutions hissesi bugün neden düşüyor?",
-      "summary": "Emergent Biosolutions hissesi bugün neden düşüyor?",
-      "summary_tr": "Emergent Biosolutions hissesi bugün neden düşüyor?",
-      "long_summary": "Emergent Biosolutions hissesi bugün neden düşüyor?",
-      "long_summary_tr": "Emergent Biosolutions hissesi bugün neden düşüyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/emergent-biosolutions-hissesi-bugun-neden-dusuyor-93CH-4107341",
-      "image": "https://content-media.investing.com/news/LYNXNPEC3B0CQ_M.jpg",
-      "published_at": "2026-10-16T16:14:04+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Fox Factory hisseleri bugün neden düşüyor?",
-      "title_tr": "Fox Factory hisseleri bugün neden düşüyor?",
-      "summary": "Fox Factory hisseleri bugün neden düşüyor?",
-      "summary_tr": "Fox Factory hisseleri bugün neden düşüyor?",
-      "long_summary": "Fox Factory hisseleri bugün neden düşüyor?",
-      "long_summary_tr": "Fox Factory hisseleri bugün neden düşüyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/fox-factory-hisseleri-bugun-neden-dusuyor-93CH-4107340",
-      "image": "https://content-media.investing.com/news/LYNXMPEBBR0PM_M.jpg",
-      "published_at": "2026-10-16T16:13:56+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Ironwood Pharmaceuticals hisseleri neden düşüyor?",
-      "title_tr": "Ironwood Pharmaceuticals hisseleri neden düşüyor?",
-      "summary": "Ironwood Pharmaceuticals hisseleri neden düşüyor?",
-      "summary_tr": "Ironwood Pharmaceuticals hisseleri neden düşüyor?",
-      "long_summary": "Ironwood Pharmaceuticals hisseleri neden düşüyor?",
-      "long_summary_tr": "Ironwood Pharmaceuticals hisseleri neden düşüyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/ironwood-pharmaceuticals-hisseleri-neden-dusuyor-93CH-4107339",
-      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
-      "published_at": "2026-10-16T16:13:55+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Endonezya düzenleyicileri üç şirkete toplam 61,2 milyon dolar ceza",
-      "title_tr": "Endonezya düzenleyicileri üç şirkete toplam 61,2 milyon dolar ceza",
-      "summary": "Endonezya düzenleyicileri üç şirkete toplam 61,2 milyon dolar ceza",
-      "summary_tr": "Endonezya düzenleyicileri üç şirkete toplam 61,2 milyon dolar ceza",
-      "long_summary": "Endonezya düzenleyicileri üç şirkete toplam 61,2 milyon dolar ceza",
-      "long_summary_tr": "Endonezya düzenleyicileri üç şirkete toplam 61,2 milyon dolar ceza",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/endonezya-duzenleyicileri-uc-sirkete-toplam-612-milyon-dolar-ceza-93CH-4107338",
-      "image": "https://content-media.investing.com/news/LYNXNPEB8506G_M.jpg",
-      "published_at": "2026-10-16T16:13:30+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Teknoloji",
-      "category_slug": "teknoloji",
-      "is_local": false,
-      "source": "ShiftDelete",
-      "title": "Bluetooth Kulaklık Önerisi (5 Adet)",
-      "title_tr": "Bluetooth Kulaklık Önerisi (5 Adet)",
-      "summary": "Bluetooth kulaklık arayanlar için piyasada farklı fiyat aralıklarında birçok model bulunuyor. Kulaklık seçerken ses kalitesi, pil ömrü, mikrofon performansı ve aktif gürültü engelleme gibi özellikler aradığını kulaklığı bulma konusunda önem taşıyor. Peki, hangi Bluetooth kulaklık alınmalı? İşte Bluetooth kulaklık önerileri. İçeriğimize başlamadan önce şunu belirtmeliyiz ki, listede bulunan kulaklık modelleri satış oranları dikkate alınarak hazırlanmıştır. […]",
-      "summary_tr": "Bluetooth kulaklık arayanlar için piyasada farklı fiyat aralıklarında birçok model bulunuyor. Kulaklık seçerken ses kalitesi, pil ömrü, mikrofon performansı ve aktif gürültü engelleme gibi özellikler aradığını kulaklığı bulma konusunda önem taşıyor. Peki, hangi Bluetooth kulaklık alınmalı? İşte Bluetooth kulaklık önerileri. İçeriğimize başlamadan önce şunu belirtmeliyiz ki, listede bulunan kulaklık modelleri satış oranları dikkate alınarak hazırlanmıştır. […]",
-      "long_summary": "Bluetooth kulaklık arayanlar için piyasada farklı fiyat aralıklarında birçok model bulunuyor. Kulaklık seçerken ses kalitesi, pil ömrü, mikrofon performansı ve aktif gürültü engelleme gibi özellikler aradığını kulaklığı bulma konusunda önem taşıyor. Peki, hangi Bluetooth kulaklık alınmalı? İşte Bluetooth kulaklık önerileri. İçeriğimize başlamadan önce şunu belirtmeliyiz ki, listede bulunan kulaklık modelleri satış oranları dikkate alınarak hazırlanmıştır. […]",
-      "long_summary_tr": "Bluetooth kulaklık arayanlar için piyasada farklı fiyat aralıklarında birçok model bulunuyor. Kulaklık seçerken ses kalitesi, pil ömrü, mikrofon performansı ve aktif gürültü engelleme gibi özellikler aradığını kulaklığı bulma konusunda önem taşıyor. Peki, hangi Bluetooth kulaklık alınmalı? İşte Bluetooth kulaklık önerileri. İçeriğimize başlamadan önce şunu belirtmeliyiz ki, listede bulunan kulaklık modelleri satış oranları dikkate alınarak hazırlanmıştır. […]",
-      "why_important": [
-        "Yeni teknolojik gelişmeler içermesi"
-      ],
-      "possible_impacts": [
-        "Yeni ürün ve hizmetler gündeme gelebilir"
-      ],
-      "url": "https://shiftdelete.net/bluetooth-kulaklik-onerisi",
-      "image": null,
-      "published_at": "2026-10-16T16:13:06+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Strategy yeni kurallar nedeniyle MSCI endekslerinden çıkarılabilir",
-      "title_tr": "Strategy yeni kurallar nedeniyle MSCI endekslerinden çıkarılabilir",
-      "summary": "Strategy yeni kurallar nedeniyle MSCI endekslerinden çıkarılabilir",
-      "summary_tr": "Strategy yeni kurallar nedeniyle MSCI endekslerinden çıkarılabilir",
-      "long_summary": "Strategy yeni kurallar nedeniyle MSCI endekslerinden çıkarılabilir",
-      "long_summary_tr": "Strategy yeni kurallar nedeniyle MSCI endekslerinden çıkarılabilir",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/strategy-yeni-kurallar-nedeniyle-msci-endekslerinden-ckarlabilir-93CH-4107336",
-      "image": "https://content-media.investing.com/news/MicroStrategy_800x533_L_1659517189.jpg",
-      "published_at": "2026-10-16T16:13:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "On Numara sonuçları ne zaman açıklanacak?",
-      "title_tr": "On Numara sonuçları ne zaman açıklanacak?",
-      "summary": "On Numara 16 Ekim sonuçları sorgulama ekranında sorgulanmaya başladı. Sisal Şans tarafından noter huzurunda gerçekleştirilen On Numara çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlanıyor. Kazandıran numaraların kendilerine çıkmasını isteyen vatandaşlar On Numara sonuçları ne zaman açıklanacak, saat kaçta sorusuna yanıt arıyor. Peki On Numara sonuçları açıklandı mı? İşte, 16 Ekim 2026 Milli Piyango Online On Numara çekiliş sonuçları sorgulama ekranı ve kazandıran numaralar listesi",
-      "summary_tr": "On Numara 16 Ekim sonuçları sorgulama ekranında sorgulanmaya başladı. Sisal Şans tarafından noter huzurunda gerçekleştirilen On Numara çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlanıyor. Kazandıran numaraların kendilerine çıkmasını isteyen vatandaşlar On Numara sonuçları ne zaman açıklanacak, saat kaçta sorusuna yanıt arıyor. Peki On Numara sonuçları açıklandı mı? İşte, 16 Ekim 2026 Milli Piyango Online On Numara çekiliş sonuçları sorgulama ekranı ve kazandıran numaralar listesi",
-      "long_summary": "On Numara 16 Ekim sonuçları sorgulama ekranında sorgulanmaya başladı. Sisal Şans tarafından noter huzurunda gerçekleştirilen On Numara çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlanıyor. Kazandıran numaraların kendilerine çıkmasını isteyen vatandaşlar On Numara sonuçları ne zaman açıklanacak, saat kaçta sorusuna yanıt arıyor. Peki On Numara sonuçları açıklandı mı? İşte, 16 Ekim 2026 Milli Piyango Online On Numara çekiliş sonuçları sorgulama ekranı ve kazandıran numaralar",
-      "long_summary_tr": "On Numara 16 Ekim sonuçları sorgulama ekranında sorgulanmaya başladı. Sisal Şans tarafından noter huzurunda gerçekleştirilen On Numara çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlanıyor. Kazandıran numaraların kendilerine çıkmasını isteyen vatandaşlar On Numara sonuçları ne zaman açıklanacak, saat kaçta sorusuna yanıt arıyor. Peki On Numara sonuçları açıklandı mı? İşte, 16 Ekim 2026 Milli Piyango Online On Numara çekiliş sonuçları sorgulama ekranı ve kazandıran numaralar",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/bilgi/foto/on-numara-sonuclari-aciklaniyor-16-ekim-2026-milli-piyango-online-on-numara-cekilis-sonuclari-sorgulama-ekrani-3920301",
-      "image": "https://im.haberturk.com/l/2026/10/16/ver1792167133/3920301/jpg/1920x1080",
-      "published_at": "2026-10-16T16:12:28+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9e0/live/022b0be0-c99d-11f1-9a39-31b474234113.png",
+      "published_at": "2026-10-16T20:16:40+00:00"
     },
     {
       "origin": "turkiye",
@@ -975,43 +359,197 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Bu hafta yatırım araçlarından en çok kazandıran ve kaybettirenler",
-      "title_tr": "Bu hafta yatırım araçlarından en çok kazandıran ve kaybettirenler",
-      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi haftayı yüzde 4,44 kayıpla kapatırken, dolar, avro ve altın sınırlı yükseliş gösterdi. Yatırım fonları genelinde değer kaybı yaşanırken, yüzde 0,83 getiri sağlayan para piyasası fonları haftanın en çok kazandıranı oldu.",
-      "summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi haftayı yüzde 4,44 kayıpla kapatırken, dolar, avro ve altın sınırlı yükseliş gösterdi. Yatırım fonları genelinde değer kaybı yaşanırken, yüzde 0,83 getiri sağlayan para piyasası fonları haftanın en çok kazandıranı oldu.",
-      "long_summary": "Borsa İstanbul&#039;da BIST 100 endeksi haftayı yüzde 4,44 kayıpla kapatırken, dolar, avro ve altın sınırlı yükseliş gösterdi. Yatırım fonları genelinde değer kaybı yaşanırken, yüzde 0,83 getiri sağlayan para piyasası fonları haftanın en çok kazandıranı oldu.",
-      "long_summary_tr": "Borsa İstanbul&#039;da BIST 100 endeksi haftayı yüzde 4,44 kayıpla kapatırken, dolar, avro ve altın sınırlı yükseliş gösterdi. Yatırım fonları genelinde değer kaybı yaşanırken, yüzde 0,83 getiri sağlayan para piyasası fonları haftanın en çok kazandıranı oldu.",
+      "title": "Rosatom’dan Akkuyu açıklaması: İlk reaktör aralıkta devreye alınacak",
+      "title_tr": "Rosatom’dan Akkuyu açıklaması: İlk reaktör aralıkta devreye alınacak",
+      "summary": "Rosatom Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali’nin ilk reaktöründe aralık ayının ikinci yarısında fiziksel başlatma sürecini gerçekleştirmeyi ve yıl sonuna kadar devreye alma aşamasına geçmeyi planladıklarını açıkladı.",
+      "summary_tr": "Rosatom Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali’nin ilk reaktöründe aralık ayının ikinci yarısında fiziksel başlatma sürecini gerçekleştirmeyi ve yıl sonuna kadar devreye alma aşamasına geçmeyi planladıklarını açıkladı.",
+      "long_summary": "Rosatom Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali’nin ilk reaktöründe aralık ayının ikinci yarısında fiziksel başlatma sürecini gerçekleştirmeyi ve yıl sonuna kadar devreye alma aşamasına geçmeyi planladıklarını açıkladı.",
+      "long_summary_tr": "Rosatom Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali’nin ilk reaktöründe aralık ayının ikinci yarısında fiziksel başlatma sürecini gerçekleştirmeyi ve yıl sonuna kadar devreye alma aşamasına geçmeyi planladıklarını açıkladı.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/finans/borsa/bu-hafta-yatirim-araclarindan-en-cok-kazandiran-ve-kaybettirenler-haberi-844189",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/07/23/yabanci-yatirimcilar-borsa-istanbul-i9qm_cover.jpg",
-      "published_at": "2026-10-16T16:12:00+00:00"
+      "url": "https://www.dunya.com/gundem/rosatomdan-akkuyu-aciklamasi-ilk-reaktor-aralikta-devreye-alinacak-haberi-844203",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2023/12/18/akkuyu-ngs1-ej1i_cover.jpg",
+      "published_at": "2026-10-16T20:15:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Moody’s, CVR Energy’nin notunu B1’e yükseltti",
+      "title_tr": "Moody’s, CVR Energy’nin notunu B1’e yükseltti",
+      "summary": "Moody’s, CVR Energy’nin notunu B1’e yükseltti",
+      "summary_tr": "Moody’s, CVR Energy’nin notunu B1’e yükseltti",
+      "long_summary": "Moody’s, CVR Energy’nin notunu B1’e yükseltti",
+      "long_summary_tr": "Moody’s, CVR Energy’nin notunu B1’e yükseltti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/moodys-cvr-energynin-notunu-b1e-yukseltti-4107431",
+      "image": "https://content-media.investing.com/news/LYNXMPEM3F1FY_1200_L.jpg",
+      "published_at": "2026-10-16T20:11:21+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "S&P, Hollanda'nın 'AAA/A-1+' notlarını teyit etti",
+      "title_tr": "S&P, Hollanda'nın 'AAA/A-1+' notlarını teyit etti",
+      "summary": "S&P, Hollanda'nın uzun ve kısa vadeli kredi notlarını \"AAA/A-1+\" seviyesinde teyit ederken, görünümü \"durağan\" olarak korudu.",
+      "summary_tr": "S&P, Hollanda'nın uzun ve kısa vadeli kredi notlarını \"AAA/A-1+\" seviyesinde teyit ederken, görünümü \"durağan\" olarak korudu.",
+      "long_summary": "S&P, Hollanda'nın uzun ve kısa vadeli kredi notlarını \"AAA/A-1+\" seviyesinde teyit ederken, görünümü \"durağan\" olarak korudu.",
+      "long_summary_tr": "S&P, Hollanda'nın uzun ve kısa vadeli kredi notlarını \"AAA/A-1+\" seviyesinde teyit ederken, görünümü \"durağan\" olarak korudu.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad284d058b1b941c208bf47/PICNEWS/tr/sp-hollanda-nin-aaa-a-1-notlarini-teyit-etti-16-10-26/",
+      "image": "https://news-files.foreks.com/images/8174f61a98e34ebf93d2ac3ae1bc2f69.jpeg",
+      "published_at": "2026-10-16T20:10:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Kocaeli'de eğitim ve spora ara",
+      "title_tr": "Kocaeli'de eğitim ve spora ara",
+      "summary": "Kocaeli'de hafta sonu beklenen şiddetli yağış nedeniyle bazı eğitim ve spor faaliyetlerine iki gün ara verildi. Valilik, 17-18 Ekim tarihlerinde özel kurslar, yüz yüze eğitimler, sürücü kursu sınavları ve yerel spor müsabakalarının gerçekleştirilmeyeceğini duyurdu",
+      "summary_tr": "Kocaeli'de hafta sonu beklenen şiddetli yağış nedeniyle bazı eğitim ve spor faaliyetlerine iki gün ara verildi. Valilik, 17-18 Ekim tarihlerinde özel kurslar, yüz yüze eğitimler, sürücü kursu sınavları ve yerel spor müsabakalarının gerçekleştirilmeyeceğini duyurdu",
+      "long_summary": "Kocaeli'de hafta sonu beklenen şiddetli yağış nedeniyle bazı eğitim ve spor faaliyetlerine iki gün ara verildi. Valilik, 17-18 Ekim tarihlerinde özel kurslar, yüz yüze eğitimler, sürücü kursu sınavları ve yerel spor müsabakalarının gerçekleştirilmeyeceğini duyurdu",
+      "long_summary_tr": "Kocaeli'de hafta sonu beklenen şiddetli yağış nedeniyle bazı eğitim ve spor faaliyetlerine iki gün ara verildi. Valilik, 17-18 Ekim tarihlerinde özel kurslar, yüz yüze eğitimler, sürücü kursu sınavları ve yerel spor müsabakalarının gerçekleştirilmeyeceğini duyurdu",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/kocaeli-de-siddetli-yagis-nedeniyle-hafta-sonu-bazi-faaliyetler-durduruldu-3920350",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792181267/3920350/jpg/1920x1080",
+      "published_at": "2026-10-16T20:09:07+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"İran'ın en az 25 milyar dolarlık ihracatını engelledik\"",
+      "title_tr": "\"İran'ın en az 25 milyar dolarlık ihracatını engelledik\"",
+      "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek verdiklerini savundu.",
+      "summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek verdiklerini savundu.",
+      "long_summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek verdiklerini savundu.",
+      "long_summary_tr": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran'ın en az 25 milyar dolar değerindeki ham petrol ihracatını engellediklerini ve yaklaşık 350 milyon dolar değerindeki dijital kripto varlığın dondurulmasına destek verdiklerini savundu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/dunya/centcom-iran-in-en-az-25-milyar-dolarlik-petrol-ihracatini-engelledik-3920351",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792181292/3920351/jpg/1920x1080",
+      "published_at": "2026-10-16T20:09:07+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "27 yıl sonra bir ilk",
+      "title_tr": "27 yıl sonra bir ilk",
+      "summary": "Ebru Gündeş, 27 yıl aradan sonra ilk kez 'Dön Ne Olur' şarkısını sahnede seslendirdi. 1999'da şarkının kaydı sırasında beyin kanaması geçirip ölümden dönen Gündeş, o günden bu yana şarkıyı repertuvarına almamıştı",
+      "summary_tr": "Ebru Gündeş, 27 yıl aradan sonra ilk kez 'Dön Ne Olur' şarkısını sahnede seslendirdi. 1999'da şarkının kaydı sırasında beyin kanaması geçirip ölümden dönen Gündeş, o günden bu yana şarkıyı repertuvarına almamıştı",
+      "long_summary": "Ebru Gündeş, 27 yıl aradan sonra ilk kez 'Dön Ne Olur' şarkısını sahnede seslendirdi. 1999'da şarkının kaydı sırasında beyin kanaması geçirip ölümden dönen Gündeş, o günden bu yana şarkıyı repertuvarına almamıştı",
+      "long_summary_tr": "Ebru Gündeş, 27 yıl aradan sonra ilk kez 'Dön Ne Olur' şarkısını sahnede seslendirdi. 1999'da şarkının kaydı sırasında beyin kanaması geçirip ölümden dönen Gündeş, o günden bu yana şarkıyı repertuvarına almamıştı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/magazin/ebru-gundes-ten-27-yil-sonra-bir-ilk-3920348",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792181305/3920348/jpg/1920x1080",
+      "published_at": "2026-10-16T20:08:35+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
+      "category": "Savunma / Askeri",
+      "category_slug": "savunma_askeri",
       "is_local": false,
-      "source": "IGN",
-      "title": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
-      "title_tr": "Don't Miss Out on Amazon's Fall Audible Deal: Pay $0.99 Per Month Plus Get $20 Credit",
-      "summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
-      "summary_tr": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
-      "long_summary": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
-      "long_summary_tr": "Both Amazon Prime and non-Prime members, new subscribers and (most) previous subscribers are eligible.",
+      "source": "Defense News",
+      "title": "What is Starshield, SpaceX’s military version of Starlink?",
+      "title_tr": "What is Starshield, SpaceX’s military version of Starlink?",
+      "summary": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
+      "summary_tr": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
+      "long_summary": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
+      "long_summary_tr": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
       "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+        "Ulusal veya bölgesel güvenlikle ilgili olması"
       ],
       "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
+        "Bölgesel güvenlik dengeleri etkilenebilir"
       ],
-      "url": "https://www.ign.com/articles/amazon-audible-deal-october-2026",
-      "image": "https://assets-prd.ignimgs.com/2026/10/15/amazonaudible-1792085241908.jpg",
-      "published_at": "2026-10-16T16:10:00+00:00"
+      "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3UGM4F74CRC35KG744CWYJFDB4.JPG",
+      "published_at": "2026-10-16T20:08:08+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Compass, Kaliforniya listeleme servisine dava açtı",
+      "title_tr": "Compass, Kaliforniya listeleme servisine dava açtı",
+      "summary": "Compass, Kaliforniya listeleme servisine dava açtı",
+      "summary_tr": "Compass, Kaliforniya listeleme servisine dava açtı",
+      "long_summary": "Compass, Kaliforniya listeleme servisine dava açtı",
+      "long_summary_tr": "Compass, Kaliforniya listeleme servisine dava açtı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/compass-kaliforniya-listeleme-servisine-dava-act-4107425",
+      "image": "https://content-media.investing.com/news/LYNXMPEM521KY_1200_L.jpg",
+      "published_at": "2026-10-16T20:07:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"Çok hak etmediğimiz bir mağlubiyet daha aldık!\"",
+      "title_tr": "\"Çok hak etmediğimiz bir mağlubiyet daha aldık!\"",
+      "summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Çorum FK maçının ardından, \"Bence çok hak etmedik ama boş dönüyoruz. İlk kez deplasmandan puan alamıyoruz\" dedi.",
+      "summary_tr": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Çorum FK maçının ardından, \"Bence çok hak etmedik ama boş dönüyoruz. İlk kez deplasmandan puan alamıyoruz\" dedi.",
+      "long_summary": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Çorum FK maçının ardından, \"Bence çok hak etmedik ama boş dönüyoruz. İlk kez deplasmandan puan alamıyoruz\" dedi.",
+      "long_summary_tr": "Çaykur Rizespor Teknik Direktörü Recep Uçar, Çorum FK maçının ardından, \"Bence çok hak etmedik ama boş dönüyoruz. İlk kez deplasmandan puan alamıyoruz\" dedi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/spor/recep-ucar-cok-hak-etmedigimiz-bir-maglubiyet-daha-aldik-3920349",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792181143/3920349/jpg/1920x1080",
+      "published_at": "2026-10-16T20:06:05+00:00"
     },
     {
       "origin": "turkiye",
@@ -1019,87 +557,549 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Bloomberg HT",
-      "title": "ABD'den Sudan'daki çatışmalar için ateşkes çağrısı",
-      "title_tr": "ABD'den Sudan'daki çatışmalar için ateşkes çağrısı",
-      "summary": "ABD'nin BM Daimi Temsilciliği Yönetim ve Reform Sorumlusu Büyükelçi Jeffrey Bartos, Sudan'da devam eden çatışmaların sona erdirilmesi için insani ateşkes çağrısında bulundu.",
-      "summary_tr": "ABD'nin BM Daimi Temsilciliği Yönetim ve Reform Sorumlusu Büyükelçi Jeffrey Bartos, Sudan'da devam eden çatışmaların sona erdirilmesi için insani ateşkes çağrısında bulundu.",
-      "long_summary": "ABD'nin BM Daimi Temsilciliği Yönetim ve Reform Sorumlusu Büyükelçi Jeffrey Bartos, Sudan'da devam eden çatışmaların sona erdirilmesi için insani ateşkes çağrısında bulundu.",
-      "long_summary_tr": "ABD'nin BM Daimi Temsilciliği Yönetim ve Reform Sorumlusu Büyükelçi Jeffrey Bartos, Sudan'da devam eden çatışmaların sona erdirilmesi için insani ateşkes çağrısında bulundu.",
+      "title": "Novak: Küresel dizel arz açığı dünya ticaretinin dörtte birine ulaştı",
+      "title_tr": "Novak: Küresel dizel arz açığı dünya ticaretinin dörtte birine ulaştı",
+      "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını açıkladı.",
+      "summary_tr": "Rusya Başbakan Yardımcısı Aleksandr Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını açıkladı.",
+      "long_summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını açıkladı.",
+      "long_summary_tr": "Rusya Başbakan Yardımcısı Aleksandr Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını açıkladı.",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.bloomberght.com/abd-den-sudan-daki-catismalar-icin-ateskes-cagrisi-3791701",
-      "image": "https://geoim.bloomberght.com/l/2026/10/16/ver1792166851/3791701/jpg/1280x720",
-      "published_at": "2026-10-16T16:07:06+00:00"
+      "url": "https://www.bloomberght.com/novak-kuresel-dizel-arz-acigi-dunya-ticaretinin-dortte-birine-ulasti-3791713",
+      "image": "https://geoim.bloomberght.com/l/2026/10/16/ver1792181092/3791713/jpg/1280x720",
+      "published_at": "2026-10-16T20:04:12+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Burak Yılmaz'ın ekibi Çorum FK yükselişe devam ediyor!",
+      "title_tr": "Burak Yılmaz'ın ekibi Çorum FK yükselişe devam ediyor!",
+      "summary": "Trendyol Süper Lig'in 8. haftasında Çorum FK, sahasında ağırladığı Çaykur Rizespor'u 2-1 mağlup etti. Ev sahibi ekibin yeni teknik direktörü Burak Yılmaz, takımının başında çıktığı ikinci karşılaşmadan da galibiyetle ayrılarak 2'de 2 yaptı.Trendyol Süper Lig'in 8. haftasında Çorum FK ile Çaykur Rizespor kozlarını paylaştı. Yeni teknik direktörü Burak Yılmaz yönetiminde yakaladığı çıkışı sürdürmek isteyen Çorum FK, taraftarı önünde çıktığı zorlu mücadeleyi 2-1 kazanarak kritik bir üç puanı hanesine yazdırmayı başardı.\n\nİLK YARIDA KARŞILIKLI GOLLER SAHNEDEYDİ\n\nMücadeleye hızlı başlayan konuk ekip Çaykur Rizespor, 32. dakikada Qazim Laçi'nin kaydettiği golle deplasmanda 1-0 öne geçti. Yediği golün ardından çabuk toparlanan Çorum FK, rakip kalede baskısını artırdı. Ev sahibi ekip, 38. dakikada yıldız futbolcusu Cengiz Ünder'in ağlara gönderdiği şık golle skora dengeyi getirdi ve ilk yarı 1-1'lik eşitlikle tamamlandı.\n\nMOUKOKO SAHNEYE ÇIKTI, GALİBİYETİ GETİRDİ\n\nKarşılaşmanın ikinci yarısında taraftarının da desteğiyle galibiyet golü için yüklenen Çorum FK, aradığı golü müsabakanın son bölümünde buldu. 80. dakikada sahneye çıkan genç golcü Youssoufa Moukoko, kaydettiği kritik golle takımını 2-1 öne geçirdi. Kalan dakikalarda skor üstünlüğünü koruyan ev sahibi ekip, sahadan zaferle ayrıldı.\n\nBURAK YILMAZ İLE 2 MAÇTA 6 PUAN\n\nÇorum FK'nın çiçeği burnunda teknik direktörü Burak Yılmaz, göreve gelişinin ardından yakaladığı olumlu havayı Çaykur Rizespor karşısında da sürdürdü. Yeni takımıyla çıktığı ilk iki lig maçından da galibiyetle ayrılan genç çalıştırıcı, 2'de 2 yaparak 6 puan topladı ve kırmızı-siyahlı ekibin ligdeki çıkışına liderlik etti.",
+      "summary_tr": "Trendyol Süper Lig'in 8. haftasında Çorum FK, sahasında ağırladığı Çaykur Rizespor'u 2-1 mağlup etti. Ev sahibi ekibin yeni teknik direktörü Burak Yılmaz, takımının başında çıktığı ikinci karşılaşmadan da galibiyetle ayrılarak 2'de 2 yaptı.Trendyol Süper Lig'in 8. haftasında Çorum FK ile Çaykur Rizespor kozlarını paylaştı. Yeni teknik direktörü Burak Yılmaz yönetiminde yakaladığı çıkışı sürdürmek isteyen Çorum FK, taraftarı önünde çıktığı zorlu mücadeleyi 2-1 kazanarak kritik bir üç puanı hanesine yazdırmayı başardı.\n\nİLK YARIDA KARŞILIKLI GOLLER SAHNEDEYDİ\n\nMücadeleye hızlı başlayan konuk ekip Çaykur Rizespor, 32. dakikada Qazim Laçi'nin kaydettiği golle deplasmanda 1-0 öne geçti. Yediği golün ardından çabuk toparlanan Çorum FK, rakip kalede baskısını artırdı. Ev sahibi ekip, 38. dakikada yıldız futbolcusu Cengiz Ünder'in ağlara gönderdiği şık golle skora dengeyi getirdi ve ilk yarı 1-1'lik eşitlikle tamamlandı.\n\nMOUKOKO SAHNEYE ÇIKTI, GALİBİYETİ GETİRDİ\n\nKarşılaşmanın ikinci yarısında taraftarının da desteğiyle galibiyet golü için yüklenen Çorum FK, aradığı golü müsabakanın son bölümünde buldu. 80. dakikada sahneye çıkan genç golcü Youssoufa Moukoko, kaydettiği kritik golle takımını 2-1 öne geçirdi. Kalan dakikalarda skor üstünlüğünü koruyan ev sahibi ekip, sahadan zaferle ayrıldı.\n\nBURAK YILMAZ İLE 2 MAÇTA 6 PUAN\n\nÇorum FK'nın çiçeği burnunda teknik direktörü Burak Yılmaz, göreve gelişinin ardından yakaladığı olumlu havayı Çaykur Rizespor karşısında da sürdürdü. Yeni takımıyla çıktığı ilk iki lig maçından da galibiyetle ayrılan genç çalıştırıcı, 2'de 2 yaparak 6 puan topladı ve kırmızı-siyahlı ekibin ligdeki çıkışına liderlik etti.",
+      "long_summary": "Trendyol Süper Lig'in 8. haftasında Çorum FK, sahasında ağırladığı Çaykur Rizespor'u 2-1 mağlup etti. Ev sahibi ekibin yeni teknik direktörü Burak Yılmaz, takımının başında çıktığı ikinci karşılaşmadan da galibiyetle ayrılarak 2'de 2 yaptı.Trendyol Süper Lig'in 8. haftasında Çorum FK ile Çaykur Rizespor kozlarını paylaştı. Yeni teknik direktörü Burak Yılmaz yönetiminde yakaladığı çıkışı sürdürmek isteyen Çorum FK, taraftarı önünde çıktığı zorlu mücadeleyi 2-1 kazanarak kritik bir üç puanı",
+      "long_summary_tr": "Trendyol Süper Lig'in 8. haftasında Çorum FK, sahasında ağırladığı Çaykur Rizespor'u 2-1 mağlup etti. Ev sahibi ekibin yeni teknik direktörü Burak Yılmaz, takımının başında çıktığı ikinci karşılaşmadan da galibiyetle ayrılarak 2'de 2 yaptı.Trendyol Süper Lig'in 8. haftasında Çorum FK ile Çaykur Rizespor kozlarını paylaştı. Yeni teknik direktörü Burak Yılmaz yönetiminde yakaladığı çıkışı sürdürmek isteyen Çorum FK, taraftarı önünde çıktığı zorlu mücadeleyi 2-1 kazanarak kritik bir üç puanı",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/spor/burak-yilmaz-in-ekibi-corum-fk-yukselise-devam-ediyor-1731350",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/burak-yilmaz-in-ekibi-corum-fk-yukselise-devam-ediyor-1792183457-968_large.webp",
+      "published_at": "2026-10-16T20:01:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "AMD CEO’su Lisa Su: İşlemci Pazarı 2030’a Kadar 10 Kat Büyüyecek",
+      "title_tr": "AMD CEO’su Lisa Su: İşlemci Pazarı 2030’a Kadar 10 Kat Büyüyecek",
+      "summary": "AMD CEO'su Lisa Su, yapay zeka ajanlarının etkisiyle işlemci pazarının 2030'a kadar 10 kat büyüyeceğini ve yeni EPYC Verano işlemcisini duyurdu.",
+      "summary_tr": "AMD CEO'su Lisa Su, yapay zeka ajanlarının etkisiyle işlemci pazarının 2030'a kadar 10 kat büyüyeceğini ve yeni EPYC Verano işlemcisini duyurdu.",
+      "long_summary": "AMD CEO'su Lisa Su, yapay zeka ajanlarının etkisiyle işlemci pazarının 2030'a kadar 10 kat büyüyeceğini ve yeni EPYC Verano işlemcisini duyurdu.",
+      "long_summary_tr": "AMD CEO'su Lisa Su, yapay zeka ajanlarının etkisiyle işlemci pazarının 2030'a kadar 10 kat büyüyeceğini ve yeni EPYC Verano işlemcisini duyurdu.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/amd-ceo-lisa-su-islemci-pazari-2030-beklentisi",
+      "image": null,
+      "published_at": "2026-10-16T20:00:21+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
-      "source": "BBC Sport",
-      "title": "Feel-good Koumas story something for Liverpool to smile about",
-      "title_tr": "Feel-good Koumas story something for Liverpool to smile about",
-      "summary": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-      "summary_tr": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-      "long_summary": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
-      "long_summary_tr": "Lewis Koumas on breaking Steven Gerrard's record, seizing his opportunity under Andoni Iraola, and why he couldn't sleep after playing Manchester City.",
+      "source": "Sky Sports",
+      "title": "As Hearts test looms is O'Neill right to be 'delighted' by Benfica defeat?",
+      "title_tr": "As Hearts test looms is O'Neill right to be 'delighted' by Benfica defeat?",
+      "summary": "Martin O'Neill wants Celtic to take the positives from a 4-1 defeat to Benfica when they host Hearts on Sunday - live on Sky Sports.",
+      "summary_tr": "Martin O'Neill wants Celtic to take the positives from a 4-1 defeat to Benfica when they host Hearts on Sunday - live on Sky Sports.",
+      "long_summary": "Martin O'Neill wants Celtic to take the positives from a 4-1 defeat to Benfica when they host Hearts on Sunday - live on Sky Sports.",
+      "long_summary_tr": "Martin O'Neill wants Celtic to take the positives from a 4-1 defeat to Benfica when they host Hearts on Sunday - live on Sky Sports.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy7l5e4376no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/816c/live/a60cdcc0-c86c-11f1-971b-634f423608e9.jpg",
-      "published_at": "2026-10-16T16:06:37+00:00"
+      "url": "https://www.skysports.com/football/news/12040/13599884/martin-oneill-as-hearts-test-awaits-is-celtic-manager-right-to-be-delighted-despite-benfica-defeat",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-celtic-oneill_7378522.jpg?20261016200842",
+      "published_at": "2026-10-16T20:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "FAA, Boeing 737 MAX 10 jetliner’ı onaylamaya yaklaştı",
+      "title_tr": "FAA, Boeing 737 MAX 10 jetliner’ı onaylamaya yaklaştı",
+      "summary": "FAA, Boeing 737 MAX 10 jetliner’ı onaylamaya yaklaştı",
+      "summary_tr": "FAA, Boeing 737 MAX 10 jetliner’ı onaylamaya yaklaştı",
+      "long_summary": "FAA, Boeing 737 MAX 10 jetliner’ı onaylamaya yaklaştı",
+      "long_summary_tr": "FAA, Boeing 737 MAX 10 jetliner’ı onaylamaya yaklaştı",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/faa-boeing-737-max-10-jetliner-onaylamaya-yaklast-4107419",
+      "image": "https://content-media.investing.com/news/LYNXNPEB670Y6_M.jpg",
+      "published_at": "2026-10-16T19:56:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Dang humması Çad'da patlak verdi: Yüzlerce vaka var, 7 kişi hayatını kaybetti",
+      "title_tr": "Dang humması Çad'da patlak verdi: Yüzlerce vaka var, 7 kişi hayatını kaybetti",
+      "summary": "Çad'da dang humması patlak verdi. Ülkenin 4 vilayetinde dang hummasına 213 kişide rastlandığı 2 binden fazla şüpheli vaka olduğu, 7 kişinin ise hayatını kaybettiği belirtildi.Çad Sağlık Bakanlığının resmi internet sitesinde, Çad Halk Sağlığı ve Hastalıkları Önleme Devlet Sekreteri Mbaidedji Dekandji'nin katıldığı toplantıda ülkedeki dang hummasına ilişkin yaptığı açıklamalar yayımlandı.\n\nDekandji, başkent Encemine dahil ülkenin 4 vilayetinde dang humması salgını görüldüğünü açıkladı.\n\n2 BİNDEN FAZLA ŞÜPHELİ VAR\n\n8 Ekim itibarıyla 4 vilayette 2 bin 929 şüpheli vakanın tespit edildiğini, bunlardan 213'ünün PCR testiyle doğrulandığını belirten Dekandji, 7 kişinin öldüğünü bildirdi.\n\nDekandji, doğrulanan vakaların yüzde 81'ine denk gelen 173'ünün Encemine'de görüldüğünü ve kentteki 5 sağlık bölgesinin salgından etkilendiğini kaydetti.\n\nSALGINLA MÜCADELE İÇİN EYLEM PLANI\n\nSalgının temmuzda ülkenin doğusundaki Vadi Fira bölgesinde bulunan Kounoungou Mülteci Kampı'nda başladığını belirten Dekandji, salgınla mücadele kapsamında 7 temel alandan oluşan bir eylem planı uygulandığını anlattı.\n\nDekandji, planın koordinasyon, hastalık takibi, tanı, tedavi, iletişim, hastalık taşıyıcılarıyla mücadele ve lojistik alanlarını kapsadığını ifade etti.",
+      "summary_tr": "Çad'da dang humması patlak verdi. Ülkenin 4 vilayetinde dang hummasına 213 kişide rastlandığı 2 binden fazla şüpheli vaka olduğu, 7 kişinin ise hayatını kaybettiği belirtildi.Çad Sağlık Bakanlığının resmi internet sitesinde, Çad Halk Sağlığı ve Hastalıkları Önleme Devlet Sekreteri Mbaidedji Dekandji'nin katıldığı toplantıda ülkedeki dang hummasına ilişkin yaptığı açıklamalar yayımlandı.\n\nDekandji, başkent Encemine dahil ülkenin 4 vilayetinde dang humması salgını görüldüğünü açıkladı.\n\n2 BİNDEN FAZLA ŞÜPHELİ VAR\n\n8 Ekim itibarıyla 4 vilayette 2 bin 929 şüpheli vakanın tespit edildiğini, bunlardan 213'ünün PCR testiyle doğrulandığını belirten Dekandji, 7 kişinin öldüğünü bildirdi.\n\nDekandji, doğrulanan vakaların yüzde 81'ine denk gelen 173'ünün Encemine'de görüldüğünü ve kentteki 5 sağlık bölgesinin salgından etkilendiğini kaydetti.\n\nSALGINLA MÜCADELE İÇİN EYLEM PLANI\n\nSalgının temmuzda ülkenin doğusundaki Vadi Fira bölgesinde bulunan Kounoungou Mülteci Kampı'nda başladığını belirten Dekandji, salgınla mücadele kapsamında 7 temel alandan oluşan bir eylem planı uygulandığını anlattı.\n\nDekandji, planın koordinasyon, hastalık takibi, tanı, tedavi, iletişim, hastalık taşıyıcılarıyla mücadele ve lojistik alanlarını kapsadığını ifade etti.",
+      "long_summary": "Çad'da dang humması patlak verdi. Ülkenin 4 vilayetinde dang hummasına 213 kişide rastlandığı 2 binden fazla şüpheli vaka olduğu, 7 kişinin ise hayatını kaybettiği belirtildi.Çad Sağlık Bakanlığının resmi internet sitesinde, Çad Halk Sağlığı ve Hastalıkları Önleme Devlet Sekreteri Mbaidedji Dekandji'nin katıldığı toplantıda ülkedeki dang hummasına ilişkin yaptığı açıklamalar yayımlandı.\n\nDekandji, başkent Encemine dahil ülkenin 4 vilayetinde dang humması salgını görüldüğünü açıkladı.\n\n2 BİNDEN",
+      "long_summary_tr": "Çad'da dang humması patlak verdi. Ülkenin 4 vilayetinde dang hummasına 213 kişide rastlandığı 2 binden fazla şüpheli vaka olduğu, 7 kişinin ise hayatını kaybettiği belirtildi.Çad Sağlık Bakanlığının resmi internet sitesinde, Çad Halk Sağlığı ve Hastalıkları Önleme Devlet Sekreteri Mbaidedji Dekandji'nin katıldığı toplantıda ülkedeki dang hummasına ilişkin yaptığı açıklamalar yayımlandı.\n\nDekandji, başkent Encemine dahil ülkenin 4 vilayetinde dang humması salgını görüldüğünü açıkladı.\n\n2 BİNDEN",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/dunya/dang-hummasi-cad-da-patlak-verdi-yuzlerce-vaka-var-7-kisi-hayatini-kaybetti-1731347",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/dang-hummasi-cad-da-patlak-verdi-yuzlerce-vaka-var-7-kisi-hayatini-kaybetti-1792183315-802_large.webp",
+      "published_at": "2026-10-16T19:55:00+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Magazin",
-      "category_slug": "magazin",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
       "is_local": false,
-      "source": "Elle",
-      "title": "The Hunting Wives Season 3: What We Know So Far",
-      "title_tr": "The Hunting Wives Season 3: What We Know So Far",
-      "summary": "The Hunting Wives Season 3: What We Know So Far",
-      "summary_tr": "The Hunting Wives Season 3: What We Know So Far",
-      "long_summary": "The Hunting Wives Season 3: What We Know So Far",
-      "long_summary_tr": "The Hunting Wives Season 3: What We Know So Far",
+      "source": "IGN",
+      "title": "Meet the Solos AirGo V2: Smart Glasses That Pack Powerful AI Into a Sleek, Modular Design",
+      "title_tr": "Meet the Solos AirGo V2: Smart Glasses That Pack Powerful AI Into a Sleek, Modular Design",
+      "summary": "With a discreet camera, all-day battery life, and a comfortable fit, you’ll never want to take them off.",
+      "summary_tr": "With a discreet camera, all-day battery life, and a comfortable fit, you’ll never want to take them off.",
+      "long_summary": "With a discreet camera, all-day battery life, and a comfortable fit, you’ll never want to take them off.",
+      "long_summary_tr": "With a discreet camera, all-day battery life, and a comfortable fit, you’ll never want to take them off.",
       "why_important": [
-        "Kamuoyunun ve medyanın ilgisini çekmesi"
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
       ],
       "possible_impacts": [
-        "Kamuoyunun ilgisi farklı alanlara kayabilir"
+        "Oyun sektöründe rekabet artabilir"
       ],
-      "url": "https://www.elle.com/culture/movies-tv/a74148593/the-hunting-wives-season-3-news-cast-plot/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/3edb0454-aa4b-4337-b06e-4d96d1bd651d.jpg",
-      "published_at": "2026-10-16T16:03:24+00:00"
+      "url": "https://www.ign.com/articles/solos-airgo-v2-smart-glasses",
+      "image": "https://assets-prd.ignimgs.com/2026/10/15/untitled-design-21-1792105238888.png",
+      "published_at": "2026-10-16T19:50:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The ASUS Xbox ROG Ally X20 Handheld Gaming PC Is Officially Released and Orders Are Now Shipping Out",
+      "title_tr": "The ASUS Xbox ROG Ally X20 Handheld Gaming PC Is Officially Released and Orders Are Now Shipping Out",
+      "summary": "The most powerful Ryzen-based gaming handheld version 2.0.",
+      "summary_tr": "The most powerful Ryzen-based gaming handheld version 2.0.",
+      "long_summary": "The most powerful Ryzen-based gaming handheld version 2.0.",
+      "long_summary_tr": "The most powerful Ryzen-based gaming handheld version 2.0.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/asus-xbox-rog-ally-x20-handheld-gaming-pc-is-now-shipping",
+      "image": "https://assets-prd.ignimgs.com/2026/10/16/asusrogallyx20-1792177084460.jpg",
+      "published_at": "2026-10-16T19:50:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Google deprem uyarılarını yeniledi! Artık çok daha fazla bilgi verecek",
+      "title_tr": "Google deprem uyarılarını yeniledi! Artık çok daha fazla bilgi verecek",
+      "summary": "Google, Android deprem uyarı sisteminin kapsama alanını 98 bölgeden dünya genelinde 200’den fazla bölgeye genişletti. Güncellemeyle birlikte deprem uyarıları daha detaylı hale geliyor.Google, Android akıllı telefonlarda kullanılan deprem uyarı sistemini güncelleyerek hizmetin kapsama alanını dünya genelinde 200'den fazla bölgeye genişletti. Daha önce 98 bölgede kullanılabilen sistem artık daha fazla kullanıcıya ulaşırken deprem uyarılarında da ayrıntılı bilgiler sunmaya başlayacak.\n\n2021 yılında kullanıma sunulan Android deprem uyarı sistemi akıllı telefonların sensörlerinden yararlanarak depremin ilk belirtilerini tespit ediyor. Yıkıcı etkiler olmadan önce kullanıcılara birkaç saniyelik erken uyarı süresi kazandırıyor. Google bugüne kadar bir milyarı aşkın deprem uyarısı gönderdiğini ve hayatların kurtarılmasına yardımcı olduğunu belirtti.\n\nANDROİD DEPREM UYARILARI 200’DEN FAZLA BÖLGEDE KULLANILACAK\n\nGoogle’ın açıklamasına göre Android deprem uyarıları sistemi bugünden itibaren dünya genelinde 200’den fazla bölgede hizmet verecek. Daha önce 98 bölgeyle sınırlı olan kapsama alanına Panama ve Guatemala da eklendi.\n\nBölgesel genişlemenin yanı sıra Google, deprem uyarılarının tasarımında da değişikliğe gidiyor. Özellikle \"Be Ready\" (Hazır Ol) aşaması depremin merkez üssü ve tahmini büyüklüğü hakkında daha ayrıntılı bilgiler sağlayacak şekilde geliştirildi.\n\nÜÇ FARKLI UYARI SEVİYESİ SUNULUYOR\n\nAndroid'in deprem uyarı sistemi sarsıntının tahmini şiddetine göre üç farklı uyarı seviyesi sunuyor. Google’ın paylaştığı bilgilere göre seviyeler şu şekilde çalışıyor:\n\nBe Aware (Farkında Ol): Hafif sarsıntıların tahmin edildiği durumlarda gönderilen temel uyarı, yakınlarda bir deprem tespit edildiğini bildiriyor.\n\nBe Ready (Hazır Ol): Daha güçlü sarsıntılar için gönderilen ayrıntılı uyarı kullanıcıları gerekli önlemleri almaya hazırlıyor.\n\nTake Action (Harekete Geç): Orta ve şiddetli sarsıntılarda tam ekran olarak görüntülenen uyarı, güvenliğin sağlanması için anında uygulanabilecek tavsiyeler sunuyor.\n\nGoogle özellikle \"Be Ready\" uyarısını daha kullanışlı hale getirmek için yeni rehberlik bilgileri eklediğini açıkladı. Kullanıcılar artık sarsıntının tespit edildiği alanı gösteren harita, tahmini deprem büyüklüğü ve alınabilecek önlemlerle karşılaşacak. Ayrıca deprem hakkında yeni bilgiler geldikçe daha fazla ayrıntıya ulaşmayı sağlayan bir düğme de uyarı ekranında yer alacak.",
+      "summary_tr": "Google, Android deprem uyarı sisteminin kapsama alanını 98 bölgeden dünya genelinde 200’den fazla bölgeye genişletti. Güncellemeyle birlikte deprem uyarıları daha detaylı hale geliyor.Google, Android akıllı telefonlarda kullanılan deprem uyarı sistemini güncelleyerek hizmetin kapsama alanını dünya genelinde 200'den fazla bölgeye genişletti. Daha önce 98 bölgede kullanılabilen sistem artık daha fazla kullanıcıya ulaşırken deprem uyarılarında da ayrıntılı bilgiler sunmaya başlayacak.\n\n2021 yılında kullanıma sunulan Android deprem uyarı sistemi akıllı telefonların sensörlerinden yararlanarak depremin ilk belirtilerini tespit ediyor. Yıkıcı etkiler olmadan önce kullanıcılara birkaç saniyelik erken uyarı süresi kazandırıyor. Google bugüne kadar bir milyarı aşkın deprem uyarısı gönderdiğini ve hayatların kurtarılmasına yardımcı olduğunu belirtti.\n\nANDROİD DEPREM UYARILARI 200’DEN FAZLA BÖLGEDE KULLANILACAK\n\nGoogle’ın açıklamasına göre Android deprem uyarıları sistemi bugünden itibaren dünya genelinde 200’den fazla bölgede hizmet verecek. Daha önce 98 bölgeyle sınırlı olan kapsama alanına Panama ve Guatemala da eklendi.\n\nBölgesel genişlemenin yanı sıra Google, deprem uyarılarının tasarımında da değişikliğe gidiyor. Özellikle \"Be Ready\" (Hazır Ol) aşaması depremin merkez üssü ve tahmini büyüklüğü hakkında daha ayrıntılı bilgiler sağlayacak şekilde geliştirildi.\n\nÜÇ FARKLI UYARI SEVİYESİ SUNULUYOR\n\nAndroid'in deprem uyarı sistemi sarsıntının tahmini şiddetine göre üç farklı uyarı seviyesi sunuyor. Google’ın paylaştığı bilgilere göre seviyeler şu şekilde çalışıyor:\n\nBe Aware (Farkında Ol): Hafif sarsıntıların tahmin edildiği durumlarda gönderilen temel uyarı, yakınlarda bir deprem tespit edildiğini bildiriyor.\n\nBe Ready (Hazır Ol): Daha güçlü sarsıntılar için gönderilen ayrıntılı uyarı kullanıcıları gerekli önlemleri almaya hazırlıyor.\n\nTake Action (Harekete Geç): Orta ve şiddetli sarsıntılarda tam ekran olarak görüntülenen uyarı, güvenliğin sağlanması için anında uygulanabilecek tavsiyeler sunuyor.\n\nGoogle özellikle \"Be Ready\" uyarısını daha kullanışlı hale getirmek için yeni rehberlik bilgileri eklediğini açıkladı. Kullanıcılar artık sarsıntının tespit edildiği alanı gösteren harita, tahmini deprem büyüklüğü ve alınabilecek önlemlerle karşılaşacak. Ayrıca deprem hakkında yeni bilgiler geldikçe daha fazla ayrıntıya ulaşmayı sağlayan bir düğme de uyarı ekranında yer alacak.",
+      "long_summary": "Google, Android deprem uyarı sisteminin kapsama alanını 98 bölgeden dünya genelinde 200’den fazla bölgeye genişletti. Güncellemeyle birlikte deprem uyarıları daha detaylı hale geliyor.Google, Android akıllı telefonlarda kullanılan deprem uyarı sistemini güncelleyerek hizmetin kapsama alanını dünya genelinde 200'den fazla bölgeye genişletti. Daha önce 98 bölgede kullanılabilen sistem artık daha fazla kullanıcıya ulaşırken deprem uyarılarında da ayrıntılı bilgiler sunmaya başlayacak.\n\n2021",
+      "long_summary_tr": "Google, Android deprem uyarı sisteminin kapsama alanını 98 bölgeden dünya genelinde 200’den fazla bölgeye genişletti. Güncellemeyle birlikte deprem uyarıları daha detaylı hale geliyor.Google, Android akıllı telefonlarda kullanılan deprem uyarı sistemini güncelleyerek hizmetin kapsama alanını dünya genelinde 200'den fazla bölgeye genişletti. Daha önce 98 bölgede kullanılabilen sistem artık daha fazla kullanıcıya ulaşırken deprem uyarılarında da ayrıntılı bilgiler sunmaya başlayacak.\n\n2021",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/teknoloji/google-deprem-uyarilarini-yeniledi-artik-cok-daha-fazla-bilgi-verecek-1731344",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/google-deprem-uyarilarini-yeniledi-artik-cok-daha-fazla-bilgi-verecek-1792183239-703_large.webp",
+      "published_at": "2026-10-16T19:49:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bedelli kışla şartı kalkacak mı? DMM'den kışlasız bedelli askerlik iddialarına açıklama",
+      "title_tr": "Bedelli kışla şartı kalkacak mı? DMM'den kışlasız bedelli askerlik iddialarına açıklama",
+      "summary": "Bedelli askerlikte 28 günlük temel eğitim süresinin kaldırılacağı ve kışlasız bedelli askerlik modeline geçileceği yönündeki iddialara Dezenformasyonla Mücadele Merkezi (DMM) yanıt verdi. Yapılan açıklamada, söz konusu iddiaların gerçeği yansıtmadığı belirtildi.Bedelli askerlik kışla şartı, askerlik yükümlülüğünü bedelli olarak yerine getirmek isteyen vatandaşların gündeminde yer alıyor. Özellikle 28 günlük temel askerlik eğitiminin kaldırılacağı yönündeki paylaşımlar, kışlasız bedelli askerlik uygulamasına ilişkin araştırmaları artırdı. Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, 16 Ekim 2026 tarihinde yaptığı açıklamayla iddialara ilişkin son durumu duyurdu. Peki, bedelli kışla şartı nedir, 28 günlük eğitim kalkacak mı?\n\nBEDELLİ KIŞLA ŞARTI NEDİR?\n\nBedelli askerlikte kışla şartı, bedelli askerlikten yararlanan yükümlülerin belirlenen bedeli ödemelerinin yanı sıra temel askerlik eğitimine katılmalarını ifade ediyor. Mevcut uygulamada yükümlülerin 28 günlük temel askerlik eğitimini tamamlaması gerekiyor.\n\nKışlasız bedelli askerlik ise yükümlülerin kışlada temel askerlik eğitimi almadan askerlik hizmetlerini tamamlamalarını öngören model olarak gündeme geliyor. Ancak bu modelin yürürlüğe girdiğine ilişkin resmi bir düzenleme bulunmuyor.\n\nDMM'DEN KIŞLASIZ BEDELLİ ASKERLİK AÇIKLAMASI\n\nCumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), bedelli askerlikte 28 günlük temel askerlik eğitiminin kaldırılacağı yönündeki iddiaların gerçeği yansıtmadığını bildirdi.\n\n16 Ekim 2026 tarihinde yapılan açıklamada, bedelli askerlik hizmetine ilişkin yasal düzenlemelerin ve uygulama esaslarının devam ettiği belirtildi. Açıklamada ayrıca konuya ilişkin yetkili makamlarca alınmış, somutlaşmış veya netleşmiş yeni bir karar bulunmadığı ifade edildi.\n\nDMM, vatandaşların doğrulanmamış paylaşımlar yerine ilgili resmi kurumlar tarafından yapılan açıklamaları takip etmeleri gerektiğini vurguladı.\n\nBEDELLİ ASKERLİKTE 28 GÜN KALKACAK MI?\n\nBedelli askerlikte 28 günlük temel askerlik eğitiminin kaldırılmasına ilişkin alınmış resmi bir karar bulunmuyor. DMM'nin açıklamasına göre, bu yöndeki iddialar gerçeği yansıtmıyor ve mevcut uygulama devam ediyor.\n\nYeni bir yasal düzenleme yapılmadığı sürece bedelli askerlikten yararlanan yükümlülerin 28 günlük temel askerlik eğitimini tamamlamaları gerekiyor. Kışla şartının kaldırılması veya eğitim süresinin değiştirilmesi konusunda yapılabilecek olası değişikliklerin ise resmi açıklamalarla duyurulması bekleniyor.\n\nKIŞLASIZ BEDELLİ ASKERLİK ÇIKACAK MI?\n\nKışlasız bedelli askerlik uygulamasına geçileceğine ilişkin kesinleşmiş bir karar açıklanmadı. DMM'nin 16 Ekim 2026 tarihli açıklaması da 28 günlük temel eğitimin kaldırılacağı yönündeki iddiaların doğru olmadığını ortaya koydu.\n\nBu nedenle kışlasız bedelli askerlik şu an için yürürlükte olan bir uygulama değil. Bedelli askerlikte kışla şartının değiştirilip değiştirilmeyeceği, yetkili kurumların ilerleyen dönemde yapacağı resmi açıklamalar ve olası yasal düzenlemeler doğrultusunda belli olacak.",
+      "summary_tr": "Bedelli askerlikte 28 günlük temel eğitim süresinin kaldırılacağı ve kışlasız bedelli askerlik modeline geçileceği yönündeki iddialara Dezenformasyonla Mücadele Merkezi (DMM) yanıt verdi. Yapılan açıklamada, söz konusu iddiaların gerçeği yansıtmadığı belirtildi.Bedelli askerlik kışla şartı, askerlik yükümlülüğünü bedelli olarak yerine getirmek isteyen vatandaşların gündeminde yer alıyor. Özellikle 28 günlük temel askerlik eğitiminin kaldırılacağı yönündeki paylaşımlar, kışlasız bedelli askerlik uygulamasına ilişkin araştırmaları artırdı. Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, 16 Ekim 2026 tarihinde yaptığı açıklamayla iddialara ilişkin son durumu duyurdu. Peki, bedelli kışla şartı nedir, 28 günlük eğitim kalkacak mı?\n\nBEDELLİ KIŞLA ŞARTI NEDİR?\n\nBedelli askerlikte kışla şartı, bedelli askerlikten yararlanan yükümlülerin belirlenen bedeli ödemelerinin yanı sıra temel askerlik eğitimine katılmalarını ifade ediyor. Mevcut uygulamada yükümlülerin 28 günlük temel askerlik eğitimini tamamlaması gerekiyor.\n\nKışlasız bedelli askerlik ise yükümlülerin kışlada temel askerlik eğitimi almadan askerlik hizmetlerini tamamlamalarını öngören model olarak gündeme geliyor. Ancak bu modelin yürürlüğe girdiğine ilişkin resmi bir düzenleme bulunmuyor.\n\nDMM'DEN KIŞLASIZ BEDELLİ ASKERLİK AÇIKLAMASI\n\nCumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), bedelli askerlikte 28 günlük temel askerlik eğitiminin kaldırılacağı yönündeki iddiaların gerçeği yansıtmadığını bildirdi.\n\n16 Ekim 2026 tarihinde yapılan açıklamada, bedelli askerlik hizmetine ilişkin yasal düzenlemelerin ve uygulama esaslarının devam ettiği belirtildi. Açıklamada ayrıca konuya ilişkin yetkili makamlarca alınmış, somutlaşmış veya netleşmiş yeni bir karar bulunmadığı ifade edildi.\n\nDMM, vatandaşların doğrulanmamış paylaşımlar yerine ilgili resmi kurumlar tarafından yapılan açıklamaları takip etmeleri gerektiğini vurguladı.\n\nBEDELLİ ASKERLİKTE 28 GÜN KALKACAK MI?\n\nBedelli askerlikte 28 günlük temel askerlik eğitiminin kaldırılmasına ilişkin alınmış resmi bir karar bulunmuyor. DMM'nin açıklamasına göre, bu yöndeki iddialar gerçeği yansıtmıyor ve mevcut uygulama devam ediyor.\n\nYeni bir yasal düzenleme yapılmadığı sürece bedelli askerlikten yararlanan yükümlülerin 28 günlük temel askerlik eğitimini tamamlamaları gerekiyor. Kışla şartının kaldırılması veya eğitim süresinin değiştirilmesi konusunda yapılabilecek olası değişikliklerin ise resmi açıklamalarla duyurulması bekleniyor.\n\nKIŞLASIZ BEDELLİ ASKERLİK ÇIKACAK MI?\n\nKışlasız bedelli askerlik uygulamasına geçileceğine ilişkin kesinleşmiş bir karar açıklanmadı. DMM'nin 16 Ekim 2026 tarihli açıklaması da 28 günlük temel eğitimin kaldırılacağı yönündeki iddiaların doğru olmadığını ortaya koydu.\n\nBu nedenle kışlasız bedelli askerlik şu an için yürürlükte olan bir uygulama değil. Bedelli askerlikte kışla şartının değiştirilip değiştirilmeyeceği, yetkili kurumların ilerleyen dönemde yapacağı resmi açıklamalar ve olası yasal düzenlemeler doğrultusunda belli olacak.",
+      "long_summary": "Bedelli askerlikte 28 günlük temel eğitim süresinin kaldırılacağı ve kışlasız bedelli askerlik modeline geçileceği yönündeki iddialara Dezenformasyonla Mücadele Merkezi (DMM) yanıt verdi. Yapılan açıklamada, söz konusu iddiaların gerçeği yansıtmadığı belirtildi.Bedelli askerlik kışla şartı, askerlik yükümlülüğünü bedelli olarak yerine getirmek isteyen vatandaşların gündeminde yer alıyor. Özellikle 28 günlük temel askerlik eğitiminin kaldırılacağı yönündeki paylaşımlar, kışlasız bedelli askerlik",
+      "long_summary_tr": "Bedelli askerlikte 28 günlük temel eğitim süresinin kaldırılacağı ve kışlasız bedelli askerlik modeline geçileceği yönündeki iddialara Dezenformasyonla Mücadele Merkezi (DMM) yanıt verdi. Yapılan açıklamada, söz konusu iddiaların gerçeği yansıtmadığı belirtildi.Bedelli askerlik kışla şartı, askerlik yükümlülüğünü bedelli olarak yerine getirmek isteyen vatandaşların gündeminde yer alıyor. Özellikle 28 günlük temel askerlik eğitiminin kaldırılacağı yönündeki paylaşımlar, kışlasız bedelli askerlik",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/bedelli-kisla-sarti-kalkacak-mi-dmm-den-kislasiz-bedelli-askerlik-iddialarina-aciklama-1731341",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/bedelli-kisla-sarti-kalkacak-mi-dmm-den-kislasiz-bedelli-askerlik-iddialarina-aciklama-1792183163-475_large.webp",
+      "published_at": "2026-10-16T19:44:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Waymo'nun robotaksileri Kanada'ya geliyor",
+      "title_tr": "Waymo'nun robotaksileri Kanada'ya geliyor",
+      "summary": "Alphabet'in sürücüsüz araç birimi Waymo, Ontario'nun otonom araç pilot programına katılma onayı almasının ardından Kanada pazarına giriş yapıyor. Waymo, her yeni şehirde benzer bir yol haritası izliyor, önce manuel haritalama ile başlayıp ardından test aşamasına geçiyor ve nihayetinde ticari bir hizmet sunmaya başlıyor.",
+      "summary_tr": "Alphabet'in sürücüsüz araç birimi Waymo, Ontario'nun otonom araç pilot programına katılma onayı almasının ardından Kanada pazarına giriş yapıyor. Waymo, her yeni şehirde benzer bir yol haritası izliyor, önce manuel haritalama ile başlayıp ardından test aşamasına geçiyor ve nihayetinde ticari bir hizmet sunmaya başlıyor.",
+      "long_summary": "Alphabet'in sürücüsüz araç birimi Waymo, Ontario'nun otonom araç pilot programına katılma onayı almasının ardından Kanada pazarına giriş yapıyor. Waymo, her yeni şehirde benzer bir yol haritası izliyor, önce manuel haritalama ile başlayıp ardından test aşamasına geçiyor ve nihayetinde ticari bir hizmet sunmaya başlıyor.",
+      "long_summary_tr": "Alphabet'in sürücüsüz araç birimi Waymo, Ontario'nun otonom araç pilot programına katılma onayı almasının ardından Kanada pazarına giriş yapıyor. Waymo, her yeni şehirde benzer bir yol haritası izliyor, önce manuel haritalama ile başlayıp ardından test aşamasına geçiyor ve nihayetinde ticari bir hizmet sunmaya başlıyor.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/waymo-nun-robotaksileri-kanada-ya-geliyor-3791711",
+      "image": "https://geoim.bloomberght.com/l/2026/10/16/ver1792179921/3791711/jpg/1280x720",
+      "published_at": "2026-10-16T19:43:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 16 Ekim 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
+      "title_tr": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 16 Ekim 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
+      "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz. İşte MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar.",
+      "summary_tr": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz. İşte MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar.",
+      "long_summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz. İşte MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar.",
+      "long_summary_tr": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebilirsiniz. İşte MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1746642",
+      "image": "https://images.ntv.com.tr/images/on-numara-cekilis-174764.jpg",
+      "published_at": "2026-10-16T19:40:43+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Kocaeli Valiliği açıkladı: Hafta sonu eğitim ve spor faaliyetleri iptal edildi",
+      "title_tr": "Kocaeli Valiliği açıkladı: Hafta sonu eğitim ve spor faaliyetleri iptal edildi",
+      "summary": "Kocaeli Valiliği, hafta sonu etkili olması beklenen fırtına sebebiyle çeşitli eğitim faaliyetleri, kurslar, sınavlar ve spor müsabakalarına ara verildiğini bildirdi.Kocaeli'nde 17-18 Ekim tarihlerinde yapılacak eğitim ve spor faaliyetleri hava muhalefetine takıldı.\n\nKocaeli Valiliği, beklenen fırtına nedeniyle kent genelinde bazı kurs, sınav ve spor faaliyetlerine iki gün boyunca ara verileceğini duyurdu.\n\nBuna göre, Bilim ve Sanat Merkezlerinde (BİLSEM) yüz yüze eğitimler, e-sınav merkezlerinde gerçekleştirilen sınavlar, özel kurslar ve Destekleme ve Yetiştirme Kursları (DYK) 17-18 Ekim tarihlerinde yapılmayacak.\n\nHalk Eğitim Merkezleri ile belediyelere bağlı Akademi ve KO-MEK gibi kurumlarda yüz yüze gerçekleştirilen kurs faaliyetleri de durdurulacak.\n\nSINAVLAR DA İPTAL\n\nKarar doğrultusunda Motorlu Taşıt Sürücüleri Kursu sınavları ile iş makineleri kurs ve sınavlarına da ara verilecek.\n\nÖzel Eğitim ve Rehabilitasyon Merkezlerinde verilen eğitimler de belirtilen tarihlerde gerçekleştirilmeyecek.\n\nSPOR MÜSABAKALARI DA ERTELENDİ\n\nAçıklamada ayrıç; il şampiyonaları, yerel lig müsabakaları ve Gençlik ve Spor Bakanlığı projeleri kapsamında yürütülen GSB Spor Okulları eğitimleri söz konusu tarihlerde yapılmayacak.",
+      "summary_tr": "Kocaeli Valiliği, hafta sonu etkili olması beklenen fırtına sebebiyle çeşitli eğitim faaliyetleri, kurslar, sınavlar ve spor müsabakalarına ara verildiğini bildirdi.Kocaeli'nde 17-18 Ekim tarihlerinde yapılacak eğitim ve spor faaliyetleri hava muhalefetine takıldı.\n\nKocaeli Valiliği, beklenen fırtına nedeniyle kent genelinde bazı kurs, sınav ve spor faaliyetlerine iki gün boyunca ara verileceğini duyurdu.\n\nBuna göre, Bilim ve Sanat Merkezlerinde (BİLSEM) yüz yüze eğitimler, e-sınav merkezlerinde gerçekleştirilen sınavlar, özel kurslar ve Destekleme ve Yetiştirme Kursları (DYK) 17-18 Ekim tarihlerinde yapılmayacak.\n\nHalk Eğitim Merkezleri ile belediyelere bağlı Akademi ve KO-MEK gibi kurumlarda yüz yüze gerçekleştirilen kurs faaliyetleri de durdurulacak.\n\nSINAVLAR DA İPTAL\n\nKarar doğrultusunda Motorlu Taşıt Sürücüleri Kursu sınavları ile iş makineleri kurs ve sınavlarına da ara verilecek.\n\nÖzel Eğitim ve Rehabilitasyon Merkezlerinde verilen eğitimler de belirtilen tarihlerde gerçekleştirilmeyecek.\n\nSPOR MÜSABAKALARI DA ERTELENDİ\n\nAçıklamada ayrıç; il şampiyonaları, yerel lig müsabakaları ve Gençlik ve Spor Bakanlığı projeleri kapsamında yürütülen GSB Spor Okulları eğitimleri söz konusu tarihlerde yapılmayacak.",
+      "long_summary": "Kocaeli Valiliği, hafta sonu etkili olması beklenen fırtına sebebiyle çeşitli eğitim faaliyetleri, kurslar, sınavlar ve spor müsabakalarına ara verildiğini bildirdi.Kocaeli'nde 17-18 Ekim tarihlerinde yapılacak eğitim ve spor faaliyetleri hava muhalefetine takıldı.\n\nKocaeli Valiliği, beklenen fırtına nedeniyle kent genelinde bazı kurs, sınav ve spor faaliyetlerine iki gün boyunca ara verileceğini duyurdu.\n\nBuna göre, Bilim ve Sanat Merkezlerinde (BİLSEM) yüz yüze eğitimler, e-sınav",
+      "long_summary_tr": "Kocaeli Valiliği, hafta sonu etkili olması beklenen fırtına sebebiyle çeşitli eğitim faaliyetleri, kurslar, sınavlar ve spor müsabakalarına ara verildiğini bildirdi.Kocaeli'nde 17-18 Ekim tarihlerinde yapılacak eğitim ve spor faaliyetleri hava muhalefetine takıldı.\n\nKocaeli Valiliği, beklenen fırtına nedeniyle kent genelinde bazı kurs, sınav ve spor faaliyetlerine iki gün boyunca ara verileceğini duyurdu.\n\nBuna göre, Bilim ve Sanat Merkezlerinde (BİLSEM) yüz yüze eğitimler, e-sınav",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/kocaeli-valiligi-acikladi-hafta-sonu-egitim-ve-spor-faaliyetleri-iptal-edildi-1731338",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/kocaeli-valiligi-acikladi-hafta-sonu-egitim-ve-spor-faaliyetleri-iptal-edildi-1792183065-85_large.webp",
+      "published_at": "2026-10-16T19:40:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
+      "title_tr": "SPECS, Snap's First-Ever AR Glasses, Ships Out This Fall",
+      "summary": "A new, lightweight and stylish personal wearable computer.",
+      "summary_tr": "A new, lightweight and stylish personal wearable computer.",
+      "long_summary": "A new, lightweight and stylish personal wearable computer.",
+      "long_summary_tr": "A new, lightweight and stylish personal wearable computer.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/specs-snaps-first-ever-ar-glasses-ships-out-this-fall",
+      "image": "https://assets-prd.ignimgs.com/2026/10/13/specsjackharlow-1791922650971.jpg",
+      "published_at": "2026-10-16T19:40:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "TSB’den selzedelere uyarı: Hasar tespitinde bu adımlara dikkat",
+      "title_tr": "TSB’den selzedelere uyarı: Hasar tespitinde bu adımlara dikkat",
+      "summary": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarının ardından can güvenliğinin korunması, hasarların doğru belgelenmesi ve sigorta süreçlerinin sağlıklı yürütülmesi için uyarılarda bulundu. Birlik, zarar gören alanların fotoğraf ve videolarla kayıt altına alınmasını, hasar tespiti tamamlanmadan eşyaların elden çıkarılmamasını ve suya maruz kalan araçların kesinlikle çalıştırılmamasını tavsiye etti.",
+      "summary_tr": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarının ardından can güvenliğinin korunması, hasarların doğru belgelenmesi ve sigorta süreçlerinin sağlıklı yürütülmesi için uyarılarda bulundu. Birlik, zarar gören alanların fotoğraf ve videolarla kayıt altına alınmasını, hasar tespiti tamamlanmadan eşyaların elden çıkarılmamasını ve suya maruz kalan araçların kesinlikle çalıştırılmamasını tavsiye etti.",
+      "long_summary": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarının ardından can güvenliğinin korunması, hasarların doğru belgelenmesi ve sigorta süreçlerinin sağlıklı yürütülmesi için uyarılarda bulundu. Birlik, zarar gören alanların fotoğraf ve videolarla kayıt altına alınmasını, hasar tespiti tamamlanmadan eşyaların elden çıkarılmamasını ve suya maruz kalan araçların kesinlikle çalıştırılmamasını tavsiye etti.",
+      "long_summary_tr": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarının ardından can güvenliğinin korunması, hasarların doğru belgelenmesi ve sigorta süreçlerinin sağlıklı yürütülmesi için uyarılarda bulundu. Birlik, zarar gören alanların fotoğraf ve videolarla kayıt altına alınmasını, hasar tespiti tamamlanmadan eşyaların elden çıkarılmamasını ve suya maruz kalan araçların kesinlikle çalıştırılmamasını tavsiye etti.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/tsbden-selzedelere-uyari-hasar-tespitinde-bu-adimlara-dikkat-haberi-844202",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/16/istanbul-sel-araba-wkck_cover.jpg",
+      "published_at": "2026-10-16T19:38:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "I Bought a Steam Machine – Here’s Why (and How It’s Going)",
+      "title_tr": "I Bought a Steam Machine – Here’s Why (and How It’s Going)",
+      "summary": "I bought a Steam Machine, despite the high price. Here's why I have no regrets.",
+      "summary_tr": "I bought a Steam Machine, despite the high price. Here's why I have no regrets.",
+      "long_summary": "I bought a Steam Machine, despite the high price. Here's why I have no regrets.",
+      "long_summary_tr": "I bought a Steam Machine, despite the high price. Here's why I have no regrets.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/i-bought-a-steam-machine-heres-why-and-how-its-going",
+      "image": "https://assets-prd.ignimgs.com/2026/10/16/steam-machine-blogroll-1792177637050.jpeg",
+      "published_at": "2026-10-16T19:37:36+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Oyun / Dijital",
+      "category_slug": "oyun_dijital",
+      "is_local": false,
+      "source": "IGN",
+      "title": "The MSI Codex R2 Intel Edition RTX 5070 Prebuilt Gaming PC Drops to $1449 With Free Delivery",
+      "title_tr": "The MSI Codex R2 Intel Edition RTX 5070 Prebuilt Gaming PC Drops to $1449 With Free Delivery",
+      "summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+      "summary_tr": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+      "long_summary": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+      "long_summary_tr": "Excellent prebuilt option for 1080p and 1440p gaming, and it's capable enough to run games in 4K as well.",
+      "why_important": [
+        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
+      ],
+      "possible_impacts": [
+        "Oyun sektöründe rekabet artabilir"
+      ],
+      "url": "https://www.ign.com/articles/msi-codex-r2-rtx-5070-prebuilt-gaming-pc-deal-october-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/10/13/msicodexz2-1791935650524.jpg",
+      "published_at": "2026-10-16T19:35:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "title_tr": "Trump denies limiting Ukraine access to Starlink network",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "summary_tr": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "long_summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "long_summary_tr": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg",
+      "published_at": "2026-10-16T19:33:48+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bolu Anadolu Otoyolu'nda seyir halindeki minibüs yandı",
+      "title_tr": "Bolu Anadolu Otoyolu'nda seyir halindeki minibüs yandı",
+      "summary": "Anadolu Otoyolu'nun Bolu kesiminde seyir halindeki minibüste çıkan yangın, itfaiye ekiplerince söndürüldü.Otoyolda Ankara istikametine seyreden F.D. idaresindeki 06 KNB 01 plakalı minibüste, Alpagut Mahallesi mevkisinde henüz bilinmeyen nedenle yangın çıktı.\n\nYangını fark eden sürücü, minibüsü sağ şeride çekerek itfaiye ekiplerinden yardım istedi. Olay yerine itfaiye ve jandarma ekipleri sevk edildi.\n\nYangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Söndürme çalışmaları nedeniyle kontrollü sağlanan ulaşım, yanan aracın çekici yardımıyla kaldırılmasının ardından normale döndü.",
+      "summary_tr": "Anadolu Otoyolu'nun Bolu kesiminde seyir halindeki minibüste çıkan yangın, itfaiye ekiplerince söndürüldü.Otoyolda Ankara istikametine seyreden F.D. idaresindeki 06 KNB 01 plakalı minibüste, Alpagut Mahallesi mevkisinde henüz bilinmeyen nedenle yangın çıktı.\n\nYangını fark eden sürücü, minibüsü sağ şeride çekerek itfaiye ekiplerinden yardım istedi. Olay yerine itfaiye ve jandarma ekipleri sevk edildi.\n\nYangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Söndürme çalışmaları nedeniyle kontrollü sağlanan ulaşım, yanan aracın çekici yardımıyla kaldırılmasının ardından normale döndü.",
+      "long_summary": "Anadolu Otoyolu'nun Bolu kesiminde seyir halindeki minibüste çıkan yangın, itfaiye ekiplerince söndürüldü.Otoyolda Ankara istikametine seyreden F.D. idaresindeki 06 KNB 01 plakalı minibüste, Alpagut Mahallesi mevkisinde henüz bilinmeyen nedenle yangın çıktı.\n\nYangını fark eden sürücü, minibüsü sağ şeride çekerek itfaiye ekiplerinden yardım istedi. Olay yerine itfaiye ve jandarma ekipleri sevk edildi.\n\nYangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Söndürme çalışmaları nedeniyle kontrollü",
+      "long_summary_tr": "Anadolu Otoyolu'nun Bolu kesiminde seyir halindeki minibüste çıkan yangın, itfaiye ekiplerince söndürüldü.Otoyolda Ankara istikametine seyreden F.D. idaresindeki 06 KNB 01 plakalı minibüste, Alpagut Mahallesi mevkisinde henüz bilinmeyen nedenle yangın çıktı.\n\nYangını fark eden sürücü, minibüsü sağ şeride çekerek itfaiye ekiplerinden yardım istedi. Olay yerine itfaiye ve jandarma ekipleri sevk edildi.\n\nYangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Söndürme çalışmaları nedeniyle kontrollü",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/bolu-anadolu-otoyolu-nda-seyir-halindeki-minibus-yandi-1731335",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/bolu-anadolu-otoyolu-nda-seyir-halindeki-minibus-yandi-1792182992-481_large.webp",
+      "published_at": "2026-10-16T19:33:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"Evlilikten geri adım attım\"",
+      "title_tr": "\"Evlilikten geri adım attım\"",
+      "summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın Müge Zop ile evlendiği ortaya çıkmıştı. Dilber Ay'ın kızı Filiz Çelik'in tepkisinin ardından Karakaş'ı terk eden Zop, eşinin barışma çağrısına \"Evlilikten geri adım attım, zamana ihtiyacım var\" yanıtını verdi",
+      "summary_tr": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın Müge Zop ile evlendiği ortaya çıkmıştı. Dilber Ay'ın kızı Filiz Çelik'in tepkisinin ardından Karakaş'ı terk eden Zop, eşinin barışma çağrısına \"Evlilikten geri adım attım, zamana ihtiyacım var\" yanıtını verdi",
+      "long_summary": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın Müge Zop ile evlendiği ortaya çıkmıştı. Dilber Ay'ın kızı Filiz Çelik'in tepkisinin ardından Karakaş'ı terk eden Zop, eşinin barışma çağrısına \"Evlilikten geri adım attım, zamana ihtiyacım var\" yanıtını verdi",
+      "long_summary_tr": "2019'da vefat eden Dilber Ay'ın eşi İbrahim Karakaş'ın Müge Zop ile evlendiği ortaya çıkmıştı. Dilber Ay'ın kızı Filiz Çelik'in tepkisinin ardından Karakaş'ı terk eden Zop, eşinin barışma çağrısına \"Evlilikten geri adım attım, zamana ihtiyacım var\" yanıtını verdi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/magazin/foto/muge-zop-evlilikten-geri-adim-attim-3920343",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792178872/3920343/jpg/1920x1080",
+      "published_at": "2026-10-16T19:28:02+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Malatya ve Siirt'te yasa dışı bahis operasyonunda yakalanan 3 şüpheli tutuklandı",
+      "title_tr": "Malatya ve Siirt'te yasa dışı bahis operasyonunda yakalanan 3 şüpheli tutuklandı",
+      "summary": "Malatya ve Siirt'te düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 6 şüpheliden 3'ü tutuklandı.İl Emniyet Müdürlüğünden yapılan açıklamaya göre, Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, yasa dışı bahis faaliyetlerinde kullanılmak üzere banka hesaplarını kullandırdığı tespit edilen 6 şüpheliye ait hesaplarda toplam 165 milyon liralık para hareketi belirledi.\n\nMalatya ve Siirt'te gerçekleştirilen eş zamanlı operasyonlarda 6 şüpheli yakalandı, 12 dijital materyal ele geçirildi. Adli mercilere sevk edilen şüphelilerden 3'ü tutuklandı, 3'ü adli kontrol şartıyla serbest bırakıldı.",
+      "summary_tr": "Malatya ve Siirt'te düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 6 şüpheliden 3'ü tutuklandı.İl Emniyet Müdürlüğünden yapılan açıklamaya göre, Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, yasa dışı bahis faaliyetlerinde kullanılmak üzere banka hesaplarını kullandırdığı tespit edilen 6 şüpheliye ait hesaplarda toplam 165 milyon liralık para hareketi belirledi.\n\nMalatya ve Siirt'te gerçekleştirilen eş zamanlı operasyonlarda 6 şüpheli yakalandı, 12 dijital materyal ele geçirildi. Adli mercilere sevk edilen şüphelilerden 3'ü tutuklandı, 3'ü adli kontrol şartıyla serbest bırakıldı.",
+      "long_summary": "Malatya ve Siirt'te düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 6 şüpheliden 3'ü tutuklandı.İl Emniyet Müdürlüğünden yapılan açıklamaya göre, Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, yasa dışı bahis faaliyetlerinde kullanılmak üzere banka hesaplarını kullandırdığı tespit edilen 6 şüpheliye ait hesaplarda toplam 165 milyon liralık para hareketi belirledi.\n\nMalatya ve Siirt'te gerçekleştirilen eş zamanlı operasyonlarda 6 şüpheli yakalandı, 12 dijital materyal ele geçirildi.",
+      "long_summary_tr": "Malatya ve Siirt'te düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 6 şüpheliden 3'ü tutuklandı.İl Emniyet Müdürlüğünden yapılan açıklamaya göre, Siber Suçlarla Mücadele Şube Müdürlüğü ekipleri, yasa dışı bahis faaliyetlerinde kullanılmak üzere banka hesaplarını kullandırdığı tespit edilen 6 şüpheliye ait hesaplarda toplam 165 milyon liralık para hareketi belirledi.\n\nMalatya ve Siirt'te gerçekleştirilen eş zamanlı operasyonlarda 6 şüpheli yakalandı, 12 dijital materyal ele geçirildi.",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/malatya-ve-siirt-te-yasa-disi-bahis-operasyonunda-yakalanan-3-supheli-tutuklandi-1731332",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/malatya-ve-siirt-te-yasa-disi-bahis-operasyonunda-yakalanan-3-supheli-tutuklandi-1792182934-351_large.webp",
+      "published_at": "2026-10-16T19:28:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Beşiktaş, EuroLeague'de Bayern Münih'i devirdi!",
+      "title_tr": "Beşiktaş, EuroLeague'de Bayern Münih'i devirdi!",
+      "summary": "EuroLeague'in 6. haftasında Beşiktaş, sahasında Bayern Münih'i 95-87 mağlup etti. Bu sonuçla Beşiktaş, 6. haftada üçüncü galibiyetini aldı. Bayern Münih ise dördüncü kez mağlup oldu.",
+      "summary_tr": "EuroLeague'in 6. haftasında Beşiktaş, sahasında Bayern Münih'i 95-87 mağlup etti. Bu sonuçla Beşiktaş, 6. haftada üçüncü galibiyetini aldı. Bayern Münih ise dördüncü kez mağlup oldu.",
+      "long_summary": "EuroLeague'in 6. haftasında Beşiktaş, sahasında Bayern Münih'i 95-87 mağlup etti. Bu sonuçla Beşiktaş, 6. haftada üçüncü galibiyetini aldı. Bayern Münih ise dördüncü kez mağlup oldu.",
+      "long_summary_tr": "EuroLeague'in 6. haftasında Beşiktaş, sahasında Bayern Münih'i 95-87 mağlup etti. Bu sonuçla Beşiktaş, 6. haftada üçüncü galibiyetini aldı. Bayern Münih ise dördüncü kez mağlup oldu.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/spor/besiktas-95-bayern-munih-87-mac-sonucu-3920345",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792178623/3920345/jpg/1920x1080",
+      "published_at": "2026-10-16T19:24:59+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Eskişehir'de otel sahibinin şüpheli ölümü",
+      "title_tr": "Eskişehir'de otel sahibinin şüpheli ölümü",
+      "summary": "Eskişehir'de sahibi olduğu otelde cansız bedenine ulaşılan şahsın ölümüyle ilgili soruşturma başlatıldı.Olay, Odunpazarı ilçesi İstiklal Mahallesi Metin Bey Sokak üzerindeki bir otelde meydana geldi. Edinilen bilgilere göre, Cüneyt Y. (44) sahibi olduğu otelde ölü bulundu. İhbar üzerine adrese polis ekipleri ve belediye tabibi sevk edildi. Tabip tarafından yapılan incelemede, şahsın ölümü şüpheli olarak değerlendirildi. Cüneyt Y.'nin yakınları otelin önünde gözyaşlarına boğulurken, olayla ilgili soruşturma başlatıldı.",
+      "summary_tr": "Eskişehir'de sahibi olduğu otelde cansız bedenine ulaşılan şahsın ölümüyle ilgili soruşturma başlatıldı.Olay, Odunpazarı ilçesi İstiklal Mahallesi Metin Bey Sokak üzerindeki bir otelde meydana geldi. Edinilen bilgilere göre, Cüneyt Y. (44) sahibi olduğu otelde ölü bulundu. İhbar üzerine adrese polis ekipleri ve belediye tabibi sevk edildi. Tabip tarafından yapılan incelemede, şahsın ölümü şüpheli olarak değerlendirildi. Cüneyt Y.'nin yakınları otelin önünde gözyaşlarına boğulurken, olayla ilgili soruşturma başlatıldı.",
+      "long_summary": "Eskişehir'de sahibi olduğu otelde cansız bedenine ulaşılan şahsın ölümüyle ilgili soruşturma başlatıldı.Olay, Odunpazarı ilçesi İstiklal Mahallesi Metin Bey Sokak üzerindeki bir otelde meydana geldi. Edinilen bilgilere göre, Cüneyt Y. (44) sahibi olduğu otelde ölü bulundu. İhbar üzerine adrese polis ekipleri ve belediye tabibi sevk edildi. Tabip tarafından yapılan incelemede, şahsın ölümü şüpheli olarak değerlendirildi. Cüneyt Y.'nin yakınları otelin önünde gözyaşlarına boğulurken, olayla",
+      "long_summary_tr": "Eskişehir'de sahibi olduğu otelde cansız bedenine ulaşılan şahsın ölümüyle ilgili soruşturma başlatıldı.Olay, Odunpazarı ilçesi İstiklal Mahallesi Metin Bey Sokak üzerindeki bir otelde meydana geldi. Edinilen bilgilere göre, Cüneyt Y. (44) sahibi olduğu otelde ölü bulundu. İhbar üzerine adrese polis ekipleri ve belediye tabibi sevk edildi. Tabip tarafından yapılan incelemede, şahsın ölümü şüpheli olarak değerlendirildi. Cüneyt Y.'nin yakınları otelin önünde gözyaşlarına boğulurken, olayla",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/eskisehir-de-otel-sahibinin-supheli-olumu-1731329",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/16/eskisehir-de-otel-sahibinin-supheli-olumu-1792182475-576_large.webp",
+      "published_at": "2026-10-16T19:24:00+00:00"
     },
     {
       "origin": "yabanci",
       "category": "Spor",
       "category_slug": "spor",
       "is_local": false,
-      "source": "BBC Sport",
-      "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
-      "title_tr": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
-      "summary": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-      "summary_tr": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-      "long_summary": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
-      "long_summary_tr": "FC United are hoping for FA Cup success, 21 years after being formed as a supporter-owned club following the Glazer family takeover of Manchester United.",
+      "source": "Sky Sports",
+      "title": "Dubois and Wardley both career heaviest for heavyweight title rematch",
+      "title_tr": "Dubois and Wardley both career heaviest for heavyweight title rematch",
+      "summary": "Both Daniel Dubois and Fabio Wardley weighed in at a career heaviest for their WBO heavyweight championship rematch.",
+      "summary_tr": "Both Daniel Dubois and Fabio Wardley weighed in at a career heaviest for their WBO heavyweight championship rematch.",
+      "long_summary": "Both Daniel Dubois and Fabio Wardley weighed in at a career heaviest for their WBO heavyweight championship rematch.",
+      "long_summary_tr": "Both Daniel Dubois and Fabio Wardley weighed in at a career heaviest for their WBO heavyweight championship rematch.",
       "why_important": [
         "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
         "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmr4yn3qyw2go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca7/live/bb3bbd00-c70e-11f1-bc2e-018d645d8d21.jpg",
-      "published_at": "2026-10-16T16:01:49+00:00"
+      "url": "https://www.skysports.com/boxing/news/12040/13600037/daniel-dubois-and-fabio-wardley-both-career-heaviest-for-heavyweight-title-rematch-definitely-not-going-the-distance",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-fabio-wardley-daniel-dubois_7378503.jpg?20261016192423",
+      "published_at": "2026-10-16T19:24:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Yasa dışı bahis operasyonunda 20 tutuklama",
+      "title_tr": "Yasa dışı bahis operasyonunda 20 tutuklama",
+      "summary": "Şanlıurfa merkezli olarak Antalya'da da düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 22 şüpheliden 20'si tutuklandı. Şüphelilere ait yaklaşık 7 milyon lira değerindeki 6 araç ve 1 taşınmaza el konulurken, banka hesapları ile kripto para cüzdanlarına da tedbir uygulandı",
+      "summary_tr": "Şanlıurfa merkezli olarak Antalya'da da düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 22 şüpheliden 20'si tutuklandı. Şüphelilere ait yaklaşık 7 milyon lira değerindeki 6 araç ve 1 taşınmaza el konulurken, banka hesapları ile kripto para cüzdanlarına da tedbir uygulandı",
+      "long_summary": "Şanlıurfa merkezli olarak Antalya'da da düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 22 şüpheliden 20'si tutuklandı. Şüphelilere ait yaklaşık 7 milyon lira değerindeki 6 araç ve 1 taşınmaza el konulurken, banka hesapları ile kripto para cüzdanlarına da tedbir uygulandı",
+      "long_summary_tr": "Şanlıurfa merkezli olarak Antalya'da da düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 22 şüpheliden 20'si tutuklandı. Şüphelilere ait yaklaşık 7 milyon lira değerindeki 6 araç ve 1 taşınmaza el konulurken, banka hesapları ile kripto para cüzdanlarına da tedbir uygulandı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/sanliurfa-ve-antalya-daki-operasyonda-20-supheli-tutuklandi-mal-varliklarina-el-konuldu-3920346",
+      "image": "https://im.haberturk.com/l/2026/10/16/ver1792178611/3920346/jpg/1920x1080",
+      "published_at": "2026-10-16T19:23:57+00:00"
     }
   ]
 }
