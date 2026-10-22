@@ -1,49 +1,555 @@
 {
-  "updated_at": "2026-10-22T04:15:49.402000+00:00",
+  "updated_at": "2026-10-22T10:01:33.239794+00:00",
   "articles": [
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "'Left-arm spin torments again' - England's openers fall after fast start",
+      "title_tr": "'Left-arm spin torments again' - England's openers fall after fast start",
+      "summary": "Sri Lanka strike with left-arm spin causing England problems again as Dunith Wellalage removes both Tom Banton and Ben Duckett.",
+      "summary_tr": "Sri Lanka strike with left-arm spin causing England problems again as Dunith Wellalage removes both Tom Banton and Ben Duckett.",
+      "long_summary": "Sri Lanka strike with left-arm spin causing England problems again as Dunith Wellalage removes both Tom Banton and Ben Duckett.",
+      "long_summary_tr": "Sri Lanka strike with left-arm spin causing England problems again as Dunith Wellalage removes both Tom Banton and Ben Duckett.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/watch/video/13602188/impressive-tom-banton-innings-ends-after-well-made-half-century-against-sri-lanka",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-england-cricket-banton_7383530.jpg?20261022102458",
+      "published_at": "2026-10-22T10:08:00+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "From the highest highs to the lowest lows: How Bjorn is rediscovering her best self",
+      "title_tr": "From the highest highs to the lowest lows: How Bjorn is rediscovering her best self",
+      "summary": "Returning from months on the sidelines is a huge challenge for any footballer. To do it twice in succession is a daunting prospect — but Chelsea’s Nathalie Bjorn has overcome the odds to do just that.",
+      "summary_tr": "Returning from months on the sidelines is a huge challenge for any footballer. To do it twice in succession is a daunting prospect — but Chelsea’s Nathalie Bjorn has overcome the odds to do just that.",
+      "long_summary": "Returning from months on the sidelines is a huge challenge for any footballer. To do it twice in succession is a daunting prospect — but Chelsea’s Nathalie Bjorn has overcome the odds to do just that.",
+      "long_summary_tr": "Returning from months on the sidelines is a huge challenge for any footballer. To do it twice in succession is a daunting prospect — but Chelsea’s Nathalie Bjorn has overcome the odds to do just that.",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/news/12040/13601848/nathalie-bjorn-chelsea-women-defender-on-her-incredible-injury-comeback-vice-captaincy-and-wsl-improvements",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-wsl-womens-super-league_7381501.jpg?20261020112001",
+      "published_at": "2026-10-22T10:00:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "NTV",
+      "title": "AB'ye Libya tepkisi. MSB: \"Mutabakat uluslararası hukuk temelinde imzalandı\"",
+      "title_tr": "AB'ye Libya tepkisi. MSB: \"Mutabakat uluslararası hukuk temelinde imzalandı\"",
+      "summary": "Milli Savunma Bakanlığı, \"AB'nin tek taraflı değerlendirmesi Libya anlaşmasının geçerliliğini ortadan kaldırmaz.\" kaldırmaz tepkisiyle mutabakatın uluslararası hukuk temelinde imzalandığını bildirdi.",
+      "summary_tr": "Milli Savunma Bakanlığı, \"AB'nin tek taraflı değerlendirmesi Libya anlaşmasının geçerliliğini ortadan kaldırmaz.\" kaldırmaz tepkisiyle mutabakatın uluslararası hukuk temelinde imzalandığını bildirdi.",
+      "long_summary": "Milli Savunma Bakanlığı, \"AB'nin tek taraflı değerlendirmesi Libya anlaşmasının geçerliliğini ortadan kaldırmaz.\" kaldırmaz tepkisiyle mutabakatın uluslararası hukuk temelinde imzalandığını bildirdi.",
+      "long_summary_tr": "Milli Savunma Bakanlığı, \"AB'nin tek taraflı değerlendirmesi Libya anlaşmasının geçerliliğini ortadan kaldırmaz.\" kaldırmaz tepkisiyle mutabakatın uluslararası hukuk temelinde imzalandığını bildirdi.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.ntv.com.tr/turkiye/abye-libya-tepkisi-msb-mutabakat-uluslararasi-hukuk-temelinde-imzalandi-1747473",
+      "image": "https://images.ntv.com.tr/images/MSBbasınbilgilendirme-953042(2).jpg",
+      "published_at": "2026-10-22T09:53:58+00:00"
+    },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
       "source": "Foreks",
-      "title": "Anthropic'ten OpenAI ve Meta'ya rakip: Claude Duet tanıtıldı",
-      "title_tr": "Anthropic'ten OpenAI ve Meta'ya rakip: Claude Duet tanıtıldı",
-      "summary": "Yapay zeka şirketi Anthropic, küçük işletmeler ve profesyoneller için geliştirdiği kişisel yapay zeka asistanı Claude Duet'in ön izleme sürümünü duyurdu. Kullanıcılar adına çeşitli görevleri yerine ge...",
-      "summary_tr": "Yapay zeka şirketi Anthropic, küçük işletmeler ve profesyoneller için geliştirdiği kişisel yapay zeka asistanı Claude Duet'in ön izleme sürümünü duyurdu. Kullanıcılar adına çeşitli görevleri yerine ge...",
-      "long_summary": "Yapay zeka şirketi Anthropic, küçük işletmeler ve profesyoneller için geliştirdiği kişisel yapay zeka asistanı Claude Duet'in ön izleme sürümünü duyurdu. Kullanıcılar adına çeşitli görevleri yerine ge...",
-      "long_summary_tr": "Yapay zeka şirketi Anthropic, küçük işletmeler ve profesyoneller için geliştirdiği kişisel yapay zeka asistanı Claude Duet'in ön izleme sürümünü duyurdu. Kullanıcılar adına çeşitli görevleri yerine ge...",
+      "title": "Barclays'ten yapay zeka hamlesi: 5 bin çalışan işten çıkarılacak",
+      "title_tr": "Barclays'ten yapay zeka hamlesi: 5 bin çalışan işten çıkarılacak",
+      "summary": "İngiliz bankacılık devi Barclays, yapay zeka ve otomasyon teknolojilerini kullanarak maliyetlerini azaltmak amacıyla bu yıl yaklaşık 5 bin çalışanını işten çıkaracağını açıkladı. Bankanın toplam iş gü...",
+      "summary_tr": "İngiliz bankacılık devi Barclays, yapay zeka ve otomasyon teknolojilerini kullanarak maliyetlerini azaltmak amacıyla bu yıl yaklaşık 5 bin çalışanını işten çıkaracağını açıkladı. Bankanın toplam iş gü...",
+      "long_summary": "İngiliz bankacılık devi Barclays, yapay zeka ve otomasyon teknolojilerini kullanarak maliyetlerini azaltmak amacıyla bu yıl yaklaşık 5 bin çalışanını işten çıkaracağını açıkladı. Bankanın toplam iş gü...",
+      "long_summary_tr": "İngiliz bankacılık devi Barclays, yapay zeka ve otomasyon teknolojilerini kullanarak maliyetlerini azaltmak amacıyla bu yıl yaklaşık 5 bin çalışanını işten çıkaracağını açıkladı. Bankanın toplam iş gü...",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.foreks.com/haber/detay/6ad98bd458b1b941c208ec51/PICNEWS/tr/anthropic-ten-openai-ve-meta-ya-rakip-claude-duet-tanitildi-22-10-26/",
-      "image": "https://news-files.foreks.com/images/826e9ef3e3a441bab3a23a0aced51500.jpeg",
-      "published_at": "2026-10-22T04:06:44+00:00"
+      "url": "https://www.foreks.com/haber/detay/6ad9dcdb9e3f57734fbcd04a/PICNEWS/tr/barclays-ten-yapay-zeka-hamlesi-5-bin-calisan-isten-cikarilacak-22-10-26/",
+      "image": "https://news-files.foreks.com/images/2c63f8d0d7404e6f82fd1901742fd41c.jpeg",
+      "published_at": "2026-10-22T09:52:27+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"Enflasyonla mücadelemizi sürdüreceğiz\"",
+      "title_tr": "\"Enflasyonla mücadelemizi sürdüreceğiz\"",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin ekonomik büyüklüğüne ilişkin bilgiler vererek, \"Milli gelirimizin mevcut döviz kurlarıyla bu yıl yaklaşık 1,8 trilyon dolara, satın alma gücü paritesine göre ise yaklaşık 4 trilyon dolara ulaşmasını bekliyoruz\" dedi. Türkiye'nin önemli bir nüfusa ve güçlü altyapıya sahip büyük bir ekonomi olduğunu dile getiren Şimşek, \"(Avantajlarımıza karşın) Tabii zorluklarımız da var. Yüksek enflasyonu aşmak için bütüncül politikalar uyguluyoruz\" ifadelerini kullandı",
+      "summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin ekonomik büyüklüğüne ilişkin bilgiler vererek, \"Milli gelirimizin mevcut döviz kurlarıyla bu yıl yaklaşık 1,8 trilyon dolara, satın alma gücü paritesine göre ise yaklaşık 4 trilyon dolara ulaşmasını bekliyoruz\" dedi. Türkiye'nin önemli bir nüfusa ve güçlü altyapıya sahip büyük bir ekonomi olduğunu dile getiren Şimşek, \"(Avantajlarımıza karşın) Tabii zorluklarımız da var. Yüksek enflasyonu aşmak için bütüncül politikalar uyguluyoruz\" ifadelerini kullandı",
+      "long_summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin ekonomik büyüklüğüne ilişkin bilgiler vererek, \"Milli gelirimizin mevcut döviz kurlarıyla bu yıl yaklaşık 1,8 trilyon dolara, satın alma gücü paritesine göre ise yaklaşık 4 trilyon dolara ulaşmasını bekliyoruz\" dedi. Türkiye'nin önemli bir nüfusa ve güçlü altyapıya sahip büyük bir ekonomi olduğunu dile getiren Şimşek, \"(Avantajlarımıza karşın) Tabii zorluklarımız da var. Yüksek enflasyonu aşmak için bütüncül politikalar uyguluyoruz\" ifadelerini",
+      "long_summary_tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, Türkiye'nin ekonomik büyüklüğüne ilişkin bilgiler vererek, \"Milli gelirimizin mevcut döviz kurlarıyla bu yıl yaklaşık 1,8 trilyon dolara, satın alma gücü paritesine göre ise yaklaşık 4 trilyon dolara ulaşmasını bekliyoruz\" dedi. Türkiye'nin önemli bir nüfusa ve güçlü altyapıya sahip büyük bir ekonomi olduğunu dile getiren Şimşek, \"(Avantajlarımıza karşın) Tabii zorluklarımız da var. Yüksek enflasyonu aşmak için bütüncül politikalar uyguluyoruz\" ifadelerini",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/bakan-simsek-enflasyonla-mucadelemizi-surdurecegiz-3921691",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792662598/3921691/jpg/1920x1080",
+      "published_at": "2026-10-22T09:51:57+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Ne kadar katkı verdiler?",
+      "title_tr": "Ne kadar katkı verdiler?",
+      "summary": "Yılmaz Erdoğan'ın dijital platformlara ürettiği projeler etrafında dönen tartışmalar, Türk sinemasındaki yapım süreçlerini ve sektörün sorunsalını yeniden gündeme taşıdı. Diğer yandan sayısal veriler, dijital platformlara içerik ürettiği için hedef gösterilen Erdoğan'ın ortağı olduğu BKM’nin son çeyrek asırda Türk sinemasının en büyük motor gücü olduğunu gösteriyor. BKM'nin sinema sektörüne katkısı ise yüzde 21 olarak gerçekleşti",
+      "summary_tr": "Yılmaz Erdoğan'ın dijital platformlara ürettiği projeler etrafında dönen tartışmalar, Türk sinemasındaki yapım süreçlerini ve sektörün sorunsalını yeniden gündeme taşıdı. Diğer yandan sayısal veriler, dijital platformlara içerik ürettiği için hedef gösterilen Erdoğan'ın ortağı olduğu BKM’nin son çeyrek asırda Türk sinemasının en büyük motor gücü olduğunu gösteriyor. BKM'nin sinema sektörüne katkısı ise yüzde 21 olarak gerçekleşti",
+      "long_summary": "Yılmaz Erdoğan'ın dijital platformlara ürettiği projeler etrafında dönen tartışmalar, Türk sinemasındaki yapım süreçlerini ve sektörün sorunsalını yeniden gündeme taşıdı. Diğer yandan sayısal veriler, dijital platformlara içerik ürettiği için hedef gösterilen Erdoğan'ın ortağı olduğu BKM’nin son çeyrek asırda Türk sinemasının en büyük motor gücü olduğunu gösteriyor. BKM'nin sinema sektörüne katkısı ise yüzde 21 olarak gerçekleşti",
+      "long_summary_tr": "Yılmaz Erdoğan'ın dijital platformlara ürettiği projeler etrafında dönen tartışmalar, Türk sinemasındaki yapım süreçlerini ve sektörün sorunsalını yeniden gündeme taşıdı. Diğer yandan sayısal veriler, dijital platformlara içerik ürettiği için hedef gösterilen Erdoğan'ın ortağı olduğu BKM’nin son çeyrek asırda Türk sinemasının en büyük motor gücü olduğunu gösteriyor. BKM'nin sinema sektörüne katkısı ise yüzde 21 olarak gerçekleşti",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/kesfet/bkm-nin-katkisi-21-oraninda-gerceklesti-3921392",
+      "image": "https://im.haberturk.com/l/2026/10/21/ver1792612369/3921392/jpg/1920x1080",
+      "published_at": "2026-10-22T09:50:05+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Bernstein: Samsung 3Ç26’da HBM gelirinde SK hynix’i geçti",
+      "title_tr": "Bernstein: Samsung 3Ç26’da HBM gelirinde SK hynix’i geçti",
+      "summary": "Bernstein: Samsung 3Ç26’da HBM gelirinde SK hynix’i geçti",
+      "summary_tr": "Bernstein: Samsung 3Ç26’da HBM gelirinde SK hynix’i geçti",
+      "long_summary": "Bernstein: Samsung 3Ç26’da HBM gelirinde SK hynix’i geçti",
+      "long_summary_tr": "Bernstein: Samsung 3Ç26’da HBM gelirinde SK hynix’i geçti",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/bernstein-samsung-3c26da-hbm-gelirinde-sk-hynixi-gecti-93CH-4114617",
+      "image": "https://content-media.investing.com/news/fa8a2f803ea2ddf92359d55091dcde0a_M.jpg",
+      "published_at": "2026-10-22T09:50:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Investing TR",
+      "title": "Sartorius hissesi bugün neden yükseliyor?",
+      "title_tr": "Sartorius hissesi bugün neden yükseliyor?",
+      "summary": "Sartorius hissesi bugün neden yükseliyor?",
+      "summary_tr": "Sartorius hissesi bugün neden yükseliyor?",
+      "long_summary": "Sartorius hissesi bugün neden yükseliyor?",
+      "long_summary_tr": "Sartorius hissesi bugün neden yükseliyor?",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://tr.investing.com/news/stock-market-news/sartorius-hissesi-bugun-neden-yukseliyor-93CH-4114616",
+      "image": "https://content-media.investing.com/news/LYNXNPEC0K08U_M.jpg",
+      "published_at": "2026-10-22T09:49:51+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "'Menekşe' sete çıktı",
+      "title_tr": "'Menekşe' sete çıktı",
+      "summary": "SHOW TV'nin merakla beklenen yeni dizisi 'Menekşe'nin çekimleri başladı. Genç oyuncuları deneyimli isimlerle buluşturan 'Menekşe', çok yakında hafta içi her gün SHOW TV'de ekranlara gelecek",
+      "summary_tr": "SHOW TV'nin merakla beklenen yeni dizisi 'Menekşe'nin çekimleri başladı. Genç oyuncuları deneyimli isimlerle buluşturan 'Menekşe', çok yakında hafta içi her gün SHOW TV'de ekranlara gelecek",
+      "long_summary": "SHOW TV'nin merakla beklenen yeni dizisi 'Menekşe'nin çekimleri başladı. Genç oyuncuları deneyimli isimlerle buluşturan 'Menekşe', çok yakında hafta içi her gün SHOW TV'de ekranlara gelecek",
+      "long_summary_tr": "SHOW TV'nin merakla beklenen yeni dizisi 'Menekşe'nin çekimleri başladı. Genç oyuncuları deneyimli isimlerle buluşturan 'Menekşe', çok yakında hafta içi her gün SHOW TV'de ekranlara gelecek",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/magazin/show-tv-nin-yeni-dizisi-menekse-sete-cikti-3921682",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792662157/3921682/jpg/1920x1080",
+      "published_at": "2026-10-22T09:49:24+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Wall Street'te hedef fiyatlar yükseldi: Tesla, IBM ve SpaceX için yeni tahminler",
+      "title_tr": "Wall Street'te hedef fiyatlar yükseldi: Tesla, IBM ve SpaceX için yeni tahminler",
+      "summary": "Wall Street'in önde gelen yatırım bankaları, Tesla, IBM, SpaceX, Texas Instruments ve Palantir için hedef fiyatlarını yukarı yönlü revize ederken, Netflix'in hedef fiyatı düşürüldü. Tesla için en yüks...",
+      "summary_tr": "Wall Street'in önde gelen yatırım bankaları, Tesla, IBM, SpaceX, Texas Instruments ve Palantir için hedef fiyatlarını yukarı yönlü revize ederken, Netflix'in hedef fiyatı düşürüldü. Tesla için en yüks...",
+      "long_summary": "Wall Street'in önde gelen yatırım bankaları, Tesla, IBM, SpaceX, Texas Instruments ve Palantir için hedef fiyatlarını yukarı yönlü revize ederken, Netflix'in hedef fiyatı düşürüldü. Tesla için en yüks...",
+      "long_summary_tr": "Wall Street'in önde gelen yatırım bankaları, Tesla, IBM, SpaceX, Texas Instruments ve Palantir için hedef fiyatlarını yukarı yönlü revize ederken, Netflix'in hedef fiyatı düşürüldü. Tesla için en yüks...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad9dc0458b1b941c208ef95/PICNEWS/tr/wall-street-te-hedef-fiyatlar-yukseldi-tesla-ibm-ve-spacex-icin-yeni-tahminler-22-10-26/",
+      "image": "https://news-files.foreks.com/images/e907e6fcd16b46ddaec1211da4fbf881.jpeg",
+      "published_at": "2026-10-22T09:48:52+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Güney Kore siber kriz uyarı seviyesini yükseltti",
+      "title_tr": "Güney Kore siber kriz uyarı seviyesini yükseltti",
+      "summary": "Güney Kore, internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde tespit edilen iki kritik siber güvenlik açığı nedeniyle siber kriz uyarı seviyesini yükseltti.",
+      "summary_tr": "Güney Kore, internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde tespit edilen iki kritik siber güvenlik açığı nedeniyle siber kriz uyarı seviyesini yükseltti.",
+      "long_summary": "Güney Kore, internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde tespit edilen iki kritik siber güvenlik açığı nedeniyle siber kriz uyarı seviyesini yükseltti.",
+      "long_summary_tr": "Güney Kore, internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde tespit edilen iki kritik siber güvenlik açığı nedeniyle siber kriz uyarı seviyesini yükseltti.",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/guney-kore-siber-kriz-uyari-seviyesini-yukseltti-3921689",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792662498/3921689/jpg/1920x1080",
+      "published_at": "2026-10-22T09:48:18+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Sele kapılan iki kız kardeşin ölümünde 2 kişiye dava!",
+      "title_tr": "Sele kapılan iki kız kardeşin ölümünde 2 kişiye dava!",
+      "summary": "İzmir'de sel sularına kapılan otomobildeki Nergiz ve Balımnaz Türkkal'ın ölümüne ilişkin, araçtan kendi imkanlarıyla kurtulan iki kişi hakkında, kazanın ardından sağlık, kolluk ve arama kurtarma ekiplerine zamanında haber vermeyerek iki kardeşin ölümüne neden oldukları iddiasıyla dava açıldı",
+      "summary_tr": "İzmir'de sel sularına kapılan otomobildeki Nergiz ve Balımnaz Türkkal'ın ölümüne ilişkin, araçtan kendi imkanlarıyla kurtulan iki kişi hakkında, kazanın ardından sağlık, kolluk ve arama kurtarma ekiplerine zamanında haber vermeyerek iki kardeşin ölümüne neden oldukları iddiasıyla dava açıldı",
+      "long_summary": "İzmir'de sel sularına kapılan otomobildeki Nergiz ve Balımnaz Türkkal'ın ölümüne ilişkin, araçtan kendi imkanlarıyla kurtulan iki kişi hakkında, kazanın ardından sağlık, kolluk ve arama kurtarma ekiplerine zamanında haber vermeyerek iki kardeşin ölümüne neden oldukları iddiasıyla dava açıldı",
+      "long_summary_tr": "İzmir'de sel sularına kapılan otomobildeki Nergiz ve Balımnaz Türkkal'ın ölümüne ilişkin, araçtan kendi imkanlarıyla kurtulan iki kişi hakkında, kazanın ardından sağlık, kolluk ve arama kurtarma ekiplerine zamanında haber vermeyerek iki kardeşin ölümüne neden oldukları iddiasıyla dava açıldı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/son-dakika-zamaninda-haber-vermediler-iddiasi-sele-kapilan-iki-kiz-kardesin-olumunde-2-kisiye-dava-3921679",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792662404/3921679/jpg/1920x1080",
+      "published_at": "2026-10-22T09:47:04+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Talas'ta 15 ton bitkisel atık yağ toplandı",
+      "title_tr": "Talas'ta 15 ton bitkisel atık yağ toplandı",
+      "summary": "Kayseri'nin Talas ilçesinde belediye, 2025 yılında 15 ton bitkisel atık yağ topladı",
+      "summary_tr": "Kayseri'nin Talas ilçesinde belediye, 2025 yılında 15 ton bitkisel atık yağ topladı",
+      "long_summary": "Kayseri'nin Talas ilçesinde belediye, 2025 yılında 15 ton bitkisel atık yağ topladı",
+      "long_summary_tr": "Kayseri'nin Talas ilçesinde belediye, 2025 yılında 15 ton bitkisel atık yağ topladı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/talas-ta-15-ton-bitkisel-atik-yag-toplandi-3921688",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792662201/3921688/jpg/1920x1080",
+      "published_at": "2026-10-22T09:44:29+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Spor",
+      "category_slug": "spor",
+      "is_local": false,
+      "source": "Sky Sports",
+      "title": "Live on Sky: Bolton vs Middlesbrough",
+      "title_tr": "Live on Sky: Bolton vs Middlesbrough",
+      "summary": "Live on Sky: Bolton vs Middlesbrough",
+      "summary_tr": "Live on Sky: Bolton vs Middlesbrough",
+      "long_summary": "Live on Sky: Bolton vs Middlesbrough",
+      "long_summary_tr": "Live on Sky: Bolton vs Middlesbrough",
+      "why_important": [
+        "Sportif rekabet ve sonuçları etkilemesi"
+      ],
+      "possible_impacts": [
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
+      ],
+      "url": "https://www.skysports.com/football/bolton-wanderers-vs-middlesbrough/live/560631",
+      "image": "https://e2.365dm.com/26/10/1920x1080/skysports-bolton-middlesbrough_7380871.jpg?20261019161602",
+      "published_at": "2026-10-22T09:43:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Tesla'nın kârı düştü",
+      "title_tr": "Tesla'nın kârı düştü",
+      "summary": "Amerikan elektrikli otomobil üreticisi Tesla'nın net kârı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti",
+      "summary_tr": "Amerikan elektrikli otomobil üreticisi Tesla'nın net kârı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti",
+      "long_summary": "Amerikan elektrikli otomobil üreticisi Tesla'nın net kârı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti",
+      "long_summary_tr": "Amerikan elektrikli otomobil üreticisi Tesla'nın net kârı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/tesla-nin-kri-dustu-3921687",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792662134/3921687/jpg/1920x1080",
+      "published_at": "2026-10-22T09:42:40+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Manifest'in kurucusu Tolga Akış'ın hakim karşısına çıkacağı tarih belli oldu",
+      "title_tr": "Manifest'in kurucusu Tolga Akış'ın hakim karşısına çıkacağı tarih belli oldu",
+      "summary": "Manifest&#039;in kurucusu Tolga Akış hakkında müstehcenlik suçlamasıyla hazırlanan iddianame kabul edildi. Tutuklu Akış, 6 aydan 3 yıla kadar hapis istemiyle 12 Kasım&#039;da hakim karşısına çıkacak. Savcılık, grubun gösterilerinin hazırlanması ve görüntülerin yayımlanmasında Akış&#039;ın sorumluluğu bulunduğunu ileri sürerken, Akış ifadesinde dans figürlerini yönetmediğini ve bu konuda sorumluluğunun olmadığını savundu.",
+      "summary_tr": "Manifest&#039;in kurucusu Tolga Akış hakkında müstehcenlik suçlamasıyla hazırlanan iddianame kabul edildi. Tutuklu Akış, 6 aydan 3 yıla kadar hapis istemiyle 12 Kasım&#039;da hakim karşısına çıkacak. Savcılık, grubun gösterilerinin hazırlanması ve görüntülerin yayımlanmasında Akış&#039;ın sorumluluğu bulunduğunu ileri sürerken, Akış ifadesinde dans figürlerini yönetmediğini ve bu konuda sorumluluğunun olmadığını savundu.",
+      "long_summary": "Manifest&#039;in kurucusu Tolga Akış hakkında müstehcenlik suçlamasıyla hazırlanan iddianame kabul edildi. Tutuklu Akış, 6 aydan 3 yıla kadar hapis istemiyle 12 Kasım&#039;da hakim karşısına çıkacak. Savcılık, grubun gösterilerinin hazırlanması ve görüntülerin yayımlanmasında Akış&#039;ın sorumluluğu bulunduğunu ileri sürerken, Akış ifadesinde dans figürlerini yönetmediğini ve bu konuda sorumluluğunun olmadığını savundu.",
+      "long_summary_tr": "Manifest&#039;in kurucusu Tolga Akış hakkında müstehcenlik suçlamasıyla hazırlanan iddianame kabul edildi. Tutuklu Akış, 6 aydan 3 yıla kadar hapis istemiyle 12 Kasım&#039;da hakim karşısına çıkacak. Savcılık, grubun gösterilerinin hazırlanması ve görüntülerin yayımlanmasında Akış&#039;ın sorumluluğu bulunduğunu ileri sürerken, Akış ifadesinde dans figürlerini yönetmediğini ve bu konuda sorumluluğunun olmadığını savundu.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/gundem/manifestin-kurucusu-tolga-akisin-hakim-karsisina-cikacagi-tarih-belli-oldu-haberi-844871",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/08/27/manifest-tolga-akis-yrry_cover.jpg",
+      "published_at": "2026-10-22T09:42:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Almanya'da doğal gaz talebi dokuz ayın zirvesinde, depolardaki doluluk rekor düşük seviyede",
+      "title_tr": "Almanya'da doğal gaz talebi dokuz ayın zirvesinde, depolardaki doluluk rekor düşük seviyede",
+      "summary": "Almanya'da soğuk hava koşulları ve rüzgar enerjisi üretimindeki zayıflama, doğal gazla elektrik üretimini artırarak gaz talebini son dokuz ayın en yüksek seviyesine taşıdı. Ülkedeki doğal gaz depoları...",
+      "summary_tr": "Almanya'da soğuk hava koşulları ve rüzgar enerjisi üretimindeki zayıflama, doğal gazla elektrik üretimini artırarak gaz talebini son dokuz ayın en yüksek seviyesine taşıdı. Ülkedeki doğal gaz depoları...",
+      "long_summary": "Almanya'da soğuk hava koşulları ve rüzgar enerjisi üretimindeki zayıflama, doğal gazla elektrik üretimini artırarak gaz talebini son dokuz ayın en yüksek seviyesine taşıdı. Ülkedeki doğal gaz depoları...",
+      "long_summary_tr": "Almanya'da soğuk hava koşulları ve rüzgar enerjisi üretimindeki zayıflama, doğal gazla elektrik üretimini artırarak gaz talebini son dokuz ayın en yüksek seviyesine taşıdı. Ülkedeki doğal gaz depoları...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad9da1658b1b941c208ef8b/PICNEWS/tr/almanya-da-dogal-gaz-talebi-dokuz-ayin-zirvesinde-depolardaki-doluluk-rekor-dusuk-seviyede-22-10-26/",
+      "image": "https://news-files.foreks.com/images/593340f11e8e4b80b14739ab6a1963de.jpeg",
+      "published_at": "2026-10-22T09:40:38+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Sevda için gözyaşları sel oldu!",
+      "title_tr": "Sevda için gözyaşları sel oldu!",
+      "summary": "Adana'da dün arkadaşlık teklifini reddettiği G.F. tarafından av tüfeğiyle vurulan 22 yaşındaki Sevda Dinler, gözyaşları arasında toprağa verildi. Gözaltındaki zanlının işlemlerinin devam ettiği belirtildi",
+      "summary_tr": "Adana'da dün arkadaşlık teklifini reddettiği G.F. tarafından av tüfeğiyle vurulan 22 yaşındaki Sevda Dinler, gözyaşları arasında toprağa verildi. Gözaltındaki zanlının işlemlerinin devam ettiği belirtildi",
+      "long_summary": "Adana'da dün arkadaşlık teklifini reddettiği G.F. tarafından av tüfeğiyle vurulan 22 yaşındaki Sevda Dinler, gözyaşları arasında toprağa verildi. Gözaltındaki zanlının işlemlerinin devam ettiği belirtildi",
+      "long_summary_tr": "Adana'da dün arkadaşlık teklifini reddettiği G.F. tarafından av tüfeğiyle vurulan 22 yaşındaki Sevda Dinler, gözyaşları arasında toprağa verildi. Gözaltındaki zanlının işlemlerinin devam ettiği belirtildi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/son-dakika-sevda-icin-gozyaslari-sel-oldu-arkadaslik-teklifini-reddedince-oldurulmustu-3921673",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792660553/3921673/jpg/1920x1080",
+      "published_at": "2026-10-22T09:40:13+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Mitolojiden tiyatroya BlackBox sanatla dolu",
+      "title_tr": "Mitolojiden tiyatroya BlackBox sanatla dolu",
+      "summary": "Türkiye İş Bankası Resim Heykel Müzesi içerisindeki, Beyoğlu’nun kültür-sanat durağı BlackBox kasım ayındaki seminerlerinde İstanbul’un gizemlerle dolu tarihini, sanatçıları ve sanat akımlarını, edebiyat ve operanın klasikleşmiş eserlerini keşfetmeye davet ediyor. İlk dönemine yoğun ilgi gösterilen “Klasik Mitoloji” başlıklı sertifika programı da genişletilmiş ve zenginleştirilmiş içeriğiyle bu ay BlackBox’ta yeniden başlıyor. İşte program",
+      "summary_tr": "Türkiye İş Bankası Resim Heykel Müzesi içerisindeki, Beyoğlu’nun kültür-sanat durağı BlackBox kasım ayındaki seminerlerinde İstanbul’un gizemlerle dolu tarihini, sanatçıları ve sanat akımlarını, edebiyat ve operanın klasikleşmiş eserlerini keşfetmeye davet ediyor. İlk dönemine yoğun ilgi gösterilen “Klasik Mitoloji” başlıklı sertifika programı da genişletilmiş ve zenginleştirilmiş içeriğiyle bu ay BlackBox’ta yeniden başlıyor. İşte program",
+      "long_summary": "Türkiye İş Bankası Resim Heykel Müzesi içerisindeki, Beyoğlu’nun kültür-sanat durağı BlackBox kasım ayındaki seminerlerinde İstanbul’un gizemlerle dolu tarihini, sanatçıları ve sanat akımlarını, edebiyat ve operanın klasikleşmiş eserlerini keşfetmeye davet ediyor. İlk dönemine yoğun ilgi gösterilen “Klasik Mitoloji” başlıklı sertifika programı da genişletilmiş ve zenginleştirilmiş içeriğiyle bu ay BlackBox’ta yeniden başlıyor. İşte program",
+      "long_summary_tr": "Türkiye İş Bankası Resim Heykel Müzesi içerisindeki, Beyoğlu’nun kültür-sanat durağı BlackBox kasım ayındaki seminerlerinde İstanbul’un gizemlerle dolu tarihini, sanatçıları ve sanat akımlarını, edebiyat ve operanın klasikleşmiş eserlerini keşfetmeye davet ediyor. İlk dönemine yoğun ilgi gösterilen “Klasik Mitoloji” başlıklı sertifika programı da genişletilmiş ve zenginleştirilmiş içeriğiyle bu ay BlackBox’ta yeniden başlıyor. İşte program",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/kultur-sanat/mitolojiden-tiyatroya-blackbox-sanatla-dolu-3921683",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661892/3921683/jpg/1920x1080",
+      "published_at": "2026-10-22T09:38:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"7. Şinasi Develi Mersin Kent Ödülü\" başvuruları başladı",
+      "title_tr": "\"7. Şinasi Develi Mersin Kent Ödülü\" başvuruları başladı",
+      "summary": "Mersin'in tarihsel ve kültürel birikiminin korunması, kent belleğinin güçlendirilmesi ve gelecek kuşaklara aktarılması amacıyla düzenlenen \"7. Şinasi Develi Mersin Kent Ödülü\" başvuruları başladı. Mersin Büyükşehir Belediyesi'nin de paydaşları arasında yer aldığı ödül; kentin geçmişini araştıran, kültürel değerlerini görünür kılan ve Mersin'e ilişkin özgün eserler üreten kişi ve çalışmaları teşvik etmeyi amaçlıyor",
+      "summary_tr": "Mersin'in tarihsel ve kültürel birikiminin korunması, kent belleğinin güçlendirilmesi ve gelecek kuşaklara aktarılması amacıyla düzenlenen \"7. Şinasi Develi Mersin Kent Ödülü\" başvuruları başladı. Mersin Büyükşehir Belediyesi'nin de paydaşları arasında yer aldığı ödül; kentin geçmişini araştıran, kültürel değerlerini görünür kılan ve Mersin'e ilişkin özgün eserler üreten kişi ve çalışmaları teşvik etmeyi amaçlıyor",
+      "long_summary": "Mersin'in tarihsel ve kültürel birikiminin korunması, kent belleğinin güçlendirilmesi ve gelecek kuşaklara aktarılması amacıyla düzenlenen \"7. Şinasi Develi Mersin Kent Ödülü\" başvuruları başladı. Mersin Büyükşehir Belediyesi'nin de paydaşları arasında yer aldığı ödül; kentin geçmişini araştıran, kültürel değerlerini görünür kılan ve Mersin'e ilişkin özgün eserler üreten kişi ve çalışmaları teşvik etmeyi amaçlıyor",
+      "long_summary_tr": "Mersin'in tarihsel ve kültürel birikiminin korunması, kent belleğinin güçlendirilmesi ve gelecek kuşaklara aktarılması amacıyla düzenlenen \"7. Şinasi Develi Mersin Kent Ödülü\" başvuruları başladı. Mersin Büyükşehir Belediyesi'nin de paydaşları arasında yer aldığı ödül; kentin geçmişini araştıran, kültürel değerlerini görünür kılan ve Mersin'e ilişkin özgün eserler üreten kişi ve çalışmaları teşvik etmeyi amaçlıyor",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/7-sinasi-develi-mersin-kent-odulu-basvurulari-basladi-3921680",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661756/3921680/jpg/1920x1080",
+      "published_at": "2026-10-22T09:38:49+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Yaşar Holding, COP31’in “İklim Destekçisi” oldu",
+      "title_tr": "Yaşar Holding, COP31’in “İklim Destekçisi” oldu",
+      "summary": "Yaşar Holding COP31’de Yeşil Bölge’de Yeşil Sanayileşme alanında “İklim Destekçisi” olarak yer alacak. Konuya ilişkin açıklamada bulunan Yaşar Holding Yönetim Kurulu Başkanı Feyhan Yaşar \"İklim dönüşümünün kalıcı bir başarıya ulaşması; üreticilerden tüketicilere, çalışanlardan gençlere, iş dünyasından yerel topluluklara kadar toplumun her kesiminin sürece katılmasıyla mümkündür\" ifadelerini kullandı",
+      "summary_tr": "Yaşar Holding COP31’de Yeşil Bölge’de Yeşil Sanayileşme alanında “İklim Destekçisi” olarak yer alacak. Konuya ilişkin açıklamada bulunan Yaşar Holding Yönetim Kurulu Başkanı Feyhan Yaşar \"İklim dönüşümünün kalıcı bir başarıya ulaşması; üreticilerden tüketicilere, çalışanlardan gençlere, iş dünyasından yerel topluluklara kadar toplumun her kesiminin sürece katılmasıyla mümkündür\" ifadelerini kullandı",
+      "long_summary": "Yaşar Holding COP31’de Yeşil Bölge’de Yeşil Sanayileşme alanında “İklim Destekçisi” olarak yer alacak. Konuya ilişkin açıklamada bulunan Yaşar Holding Yönetim Kurulu Başkanı Feyhan Yaşar \"İklim dönüşümünün kalıcı bir başarıya ulaşması; üreticilerden tüketicilere, çalışanlardan gençlere, iş dünyasından yerel topluluklara kadar toplumun her kesiminin sürece katılmasıyla mümkündür\" ifadelerini kullandı",
+      "long_summary_tr": "Yaşar Holding COP31’de Yeşil Bölge’de Yeşil Sanayileşme alanında “İklim Destekçisi” olarak yer alacak. Konuya ilişkin açıklamada bulunan Yaşar Holding Yönetim Kurulu Başkanı Feyhan Yaşar \"İklim dönüşümünün kalıcı bir başarıya ulaşması; üreticilerden tüketicilere, çalışanlardan gençlere, iş dünyasından yerel topluluklara kadar toplumun her kesiminin sürece katılmasıyla mümkündür\" ifadelerini kullandı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/yasar-holding-cop31in-iklim-destekcisi-oldu-3921681",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661651/3921681/jpg/1920x1080",
+      "published_at": "2026-10-22T09:37:19+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Ekonomi",
+      "category_slug": "ekonomi",
+      "is_local": false,
+      "source": "Dünya Gazetesi",
+      "title": "Kilosu 3 liradan 10 bin liraya çıkıyor: Dağların 'yeşil altını' yeni gelir kapısı",
+      "title_tr": "Kilosu 3 liradan 10 bin liraya çıkıyor: Dağların 'yeşil altını' yeni gelir kapısı",
+      "summary": "Kahramanmaraş&#039;ın Andırın ilçesinde dağlarda yetişen defne ağaçları yüksek katma değer potansiyeliyle dikkat çekiyor. Kilosu 3 liradan toplanan &#039;yeşil altın&#039; işlendiğinde değeri 10 bin liraya kadar çıkıyor. Bölgenin gelir kapısı haline gelen defnenin yerel ekonomiye katkısını artırmak için de yeni bir çalışma başlatıldı.",
+      "summary_tr": "Kahramanmaraş&#039;ın Andırın ilçesinde dağlarda yetişen defne ağaçları yüksek katma değer potansiyeliyle dikkat çekiyor. Kilosu 3 liradan toplanan &#039;yeşil altın&#039; işlendiğinde değeri 10 bin liraya kadar çıkıyor. Bölgenin gelir kapısı haline gelen defnenin yerel ekonomiye katkısını artırmak için de yeni bir çalışma başlatıldı.",
+      "long_summary": "Kahramanmaraş&#039;ın Andırın ilçesinde dağlarda yetişen defne ağaçları yüksek katma değer potansiyeliyle dikkat çekiyor. Kilosu 3 liradan toplanan &#039;yeşil altın&#039; işlendiğinde değeri 10 bin liraya kadar çıkıyor. Bölgenin gelir kapısı haline gelen defnenin yerel ekonomiye katkısını artırmak için de yeni bir çalışma başlatıldı.",
+      "long_summary_tr": "Kahramanmaraş&#039;ın Andırın ilçesinde dağlarda yetişen defne ağaçları yüksek katma değer potansiyeliyle dikkat çekiyor. Kilosu 3 liradan toplanan &#039;yeşil altın&#039; işlendiğinde değeri 10 bin liraya kadar çıkıyor. Bölgenin gelir kapısı haline gelen defnenin yerel ekonomiye katkısını artırmak için de yeni bir çalışma başlatıldı.",
+      "why_important": [
+        "Makro ekonomik dengeler açısından önem taşıması"
+      ],
+      "possible_impacts": [
+        "Ekonomik beklentiler yeniden şekillenebilir"
+      ],
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/kilosu-3-liradan-10-bin-liraya-cikiyor-daglarin-yesil-altini-yeni-gelir-kapisi-galeri-844870",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/yeni-proje-92-3npz_cover.jpg",
+      "published_at": "2026-10-22T09:37:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Foreks",
+      "title": "Vişne Madencilik'ten gözaltı iddialarına yalanlama",
+      "title_tr": "Vişne Madencilik'ten gözaltı iddialarına yalanlama",
+      "summary": "Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD), şirket paylarında gerçekleştirilen işlemlere yönelik soruşturma kapsamında ortakları ve yöneticilerinin gözaltına alındığı yönündeki haberlerin ge...",
+      "summary_tr": "Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD), şirket paylarında gerçekleştirilen işlemlere yönelik soruşturma kapsamında ortakları ve yöneticilerinin gözaltına alındığı yönündeki haberlerin ge...",
+      "long_summary": "Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD), şirket paylarında gerçekleştirilen işlemlere yönelik soruşturma kapsamında ortakları ve yöneticilerinin gözaltına alındığı yönündeki haberlerin ge...",
+      "long_summary_tr": "Vişne Madencilik Üretim Sanayi ve Ticaret AŞ (VSNMD), şirket paylarında gerçekleştirilen işlemlere yönelik soruşturma kapsamında ortakları ve yöneticilerinin gözaltına alındığı yönündeki haberlerin ge...",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.foreks.com/haber/detay/6ad9d83f422c786f3f7a7b8c/PICNEWS/tr/visne-madencilik-ten-gozalti-iddialarina-yalanlama-22-10-26/",
+      "image": "https://news-files.foreks.com/images/54ad08aaa44348f59823efdc9246478c.jpeg",
+      "published_at": "2026-10-22T09:32:47+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Avrupa Komisyonu Başkanı'na tepki",
+      "title_tr": "Avrupa Komisyonu Başkanı'na tepki",
+      "summary": "AK Parti Sözcüsü Çelik, Türkiye ile Libya arasındaki deniz yetki alanları anlaşmasına yönelik açıklamaları nedeniyle Avrupa Komisyonu Başkanı Ursula von der Leyen'e tepki gösterdi. Çelik, \"Türkiye ve Libya’nın haklarının korunması bakımından bu anlaşma hukuki olarak sağlam temellere dayanmaktadır. Sahadaki gerçekleri ve hukuk ilkelerini görmezden gelen beyanlar ve dayatmacı yaklaşımlar bizim için geçersizdir\" ifadelerini kullandı",
+      "summary_tr": "AK Parti Sözcüsü Çelik, Türkiye ile Libya arasındaki deniz yetki alanları anlaşmasına yönelik açıklamaları nedeniyle Avrupa Komisyonu Başkanı Ursula von der Leyen'e tepki gösterdi. Çelik, \"Türkiye ve Libya’nın haklarının korunması bakımından bu anlaşma hukuki olarak sağlam temellere dayanmaktadır. Sahadaki gerçekleri ve hukuk ilkelerini görmezden gelen beyanlar ve dayatmacı yaklaşımlar bizim için geçersizdir\" ifadelerini kullandı",
+      "long_summary": "AK Parti Sözcüsü Çelik, Türkiye ile Libya arasındaki deniz yetki alanları anlaşmasına yönelik açıklamaları nedeniyle Avrupa Komisyonu Başkanı Ursula von der Leyen'e tepki gösterdi. Çelik, \"Türkiye ve Libya’nın haklarının korunması bakımından bu anlaşma hukuki olarak sağlam temellere dayanmaktadır. Sahadaki gerçekleri ve hukuk ilkelerini görmezden gelen beyanlar ve dayatmacı yaklaşımlar bizim için geçersizdir\" ifadelerini kullandı",
+      "long_summary_tr": "AK Parti Sözcüsü Çelik, Türkiye ile Libya arasındaki deniz yetki alanları anlaşmasına yönelik açıklamaları nedeniyle Avrupa Komisyonu Başkanı Ursula von der Leyen'e tepki gösterdi. Çelik, \"Türkiye ve Libya’nın haklarının korunması bakımından bu anlaşma hukuki olarak sağlam temellere dayanmaktadır. Sahadaki gerçekleri ve hukuk ilkelerini görmezden gelen beyanlar ve dayatmacı yaklaşımlar bizim için geçersizdir\" ifadelerini kullandı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/dunya/turkiye-den-avrupa-komisyonu-baskani-ursula-von-der-leyen-e-tepki-3921677",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661497/3921677/jpg/1920x1080",
+      "published_at": "2026-10-22T09:32:19+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Teknoloji",
       "category_slug": "teknoloji",
       "is_local": false,
-      "source": "Webtekno",
-      "title": "Efsane Oyun Şirketi BioWare Kapanıyor!",
-      "title_tr": "Efsane Oyun Şirketi BioWare Kapanıyor!",
-      "summary": "Electronic Arts , Mass Effect ile Dragon Age gibi ikonik serilere imza atan efsanevi geliştirici BioWare'i kapatma kararı aldı.",
-      "summary_tr": "Electronic Arts , Mass Effect ile Dragon Age gibi ikonik serilere imza atan efsanevi geliştirici BioWare'i kapatma kararı aldı.",
-      "long_summary": "Electronic Arts , Mass Effect ile Dragon Age gibi ikonik serilere imza atan efsanevi geliştirici BioWare'i kapatma kararı aldı.",
-      "long_summary_tr": "Electronic Arts , Mass Effect ile Dragon Age gibi ikonik serilere imza atan efsanevi geliştirici BioWare'i kapatma kararı aldı.",
+      "source": "ShiftDelete",
+      "title": "Alışverişlerde Yeni Taksit Düzenlemesi: Elektronik, Beyaz Eşya ve Seyahatte Limitler Belli Oldu",
+      "title_tr": "Alışverişlerde Yeni Taksit Düzenlemesi: Elektronik, Beyaz Eşya ve Seyahatte Limitler Belli Oldu",
+      "summary": "Kredi kartı veya tüketici kredisi kullanmadan, senetli satış ve alternatif ödeme yöntemleriyle alışveriş yapan milyonlarca tüketici için kurallar yeniden yazılıyor. Ticaret Bakanlığı, perakende ticaret kapsamında sunulan senetli taksit seçeneklerine yönelik kapsamlı bir düzenlemeyi hayata geçiriyor. Elektronik ürünlerden beyaz eşyaya, mobilyadan tatil harcamalarına kadar pek çok kategoride geçerli olacak yeni taksit üst sınırları, hanehalkı bütçelerini ve […]",
+      "summary_tr": "Kredi kartı veya tüketici kredisi kullanmadan, senetli satış ve alternatif ödeme yöntemleriyle alışveriş yapan milyonlarca tüketici için kurallar yeniden yazılıyor. Ticaret Bakanlığı, perakende ticaret kapsamında sunulan senetli taksit seçeneklerine yönelik kapsamlı bir düzenlemeyi hayata geçiriyor. Elektronik ürünlerden beyaz eşyaya, mobilyadan tatil harcamalarına kadar pek çok kategoride geçerli olacak yeni taksit üst sınırları, hanehalkı bütçelerini ve […]",
+      "long_summary": "Kredi kartı veya tüketici kredisi kullanmadan, senetli satış ve alternatif ödeme yöntemleriyle alışveriş yapan milyonlarca tüketici için kurallar yeniden yazılıyor. Ticaret Bakanlığı, perakende ticaret kapsamında sunulan senetli taksit seçeneklerine yönelik kapsamlı bir düzenlemeyi hayata geçiriyor. Elektronik ürünlerden beyaz eşyaya, mobilyadan tatil harcamalarına kadar pek çok kategoride geçerli olacak yeni taksit üst sınırları, hanehalkı bütçelerini ve […]",
+      "long_summary_tr": "Kredi kartı veya tüketici kredisi kullanmadan, senetli satış ve alternatif ödeme yöntemleriyle alışveriş yapan milyonlarca tüketici için kurallar yeniden yazılıyor. Ticaret Bakanlığı, perakende ticaret kapsamında sunulan senetli taksit seçeneklerine yönelik kapsamlı bir düzenlemeyi hayata geçiriyor. Elektronik ürünlerden beyaz eşyaya, mobilyadan tatil harcamalarına kadar pek çok kategoride geçerli olacak yeni taksit üst sınırları, hanehalkı bütçelerini ve […]",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://www.webtekno.com/bioware-kapaniyor-h227671.html",
-      "image": "https://imgrosetta.webtekno.com/file/694181/694181-640xauto.jpg",
-      "published_at": "2026-10-22T04:05:58+00:00"
+      "url": "https://shiftdelete.net/alisverislerde-yeni-taksit-duzenlemesi-elektronik-beyaz-esya-ve-seyahatte-limitler-belli-oldu",
+      "image": null,
+      "published_at": "2026-10-22T09:31:26+00:00"
     },
     {
       "origin": "turkiye",
@@ -51,21 +557,87 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Foreks",
-      "title": "Yabancı yatırımcılardan Japon tahvillerinde 1,45 trilyon yenlik alım",
-      "title_tr": "Yabancı yatırımcılardan Japon tahvillerinde 1,45 trilyon yenlik alım",
-      "summary": "Japonya'da yabancı yatırımcılar, 16 Ekim'de sona eren haftada 1 trilyon 454,2 milyar yen tutarında Japon devlet tahvili alımı gerçekleştirdi. Aynı dönemde Japon hisse senetlerinden 66,5 milyar yenlik ...",
-      "summary_tr": "Japonya'da yabancı yatırımcılar, 16 Ekim'de sona eren haftada 1 trilyon 454,2 milyar yen tutarında Japon devlet tahvili alımı gerçekleştirdi. Aynı dönemde Japon hisse senetlerinden 66,5 milyar yenlik ...",
-      "long_summary": "Japonya'da yabancı yatırımcılar, 16 Ekim'de sona eren haftada 1 trilyon 454,2 milyar yen tutarında Japon devlet tahvili alımı gerçekleştirdi. Aynı dönemde Japon hisse senetlerinden 66,5 milyar yenlik ...",
-      "long_summary_tr": "Japonya'da yabancı yatırımcılar, 16 Ekim'de sona eren haftada 1 trilyon 454,2 milyar yen tutarında Japon devlet tahvili alımı gerçekleştirdi. Aynı dönemde Japon hisse senetlerinden 66,5 milyar yenlik ...",
+      "title": "Aramco'dan petrol sevkiyatında yeni plan",
+      "title_tr": "Aramco'dan petrol sevkiyatında yeni plan",
+      "summary": "Suudi Arabistan'ın petrol şirketi Saudi Aramco, Orta Doğu'da yaşanabilecek arz kesintilerine karşı doğu-batı petrol boru hattı ağının kapasitesini günlük 10 milyon varile kadar artırmayı hedefliyor.",
+      "summary_tr": "Suudi Arabistan'ın petrol şirketi Saudi Aramco, Orta Doğu'da yaşanabilecek arz kesintilerine karşı doğu-batı petrol boru hattı ağının kapasitesini günlük 10 milyon varile kadar artırmayı hedefliyor.",
+      "long_summary": "Suudi Arabistan'ın petrol şirketi Saudi Aramco, Orta Doğu'da yaşanabilecek arz kesintilerine karşı doğu-batı petrol boru hattı ağının kapasitesini günlük 10 milyon varile kadar artırmayı hedefliyor.",
+      "long_summary_tr": "Suudi Arabistan'ın petrol şirketi Saudi Aramco, Orta Doğu'da yaşanabilecek arz kesintilerine karşı doğu-batı petrol boru hattı ağının kapasitesini günlük 10 milyon varile kadar artırmayı hedefliyor.",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.foreks.com/haber/detay/6ad98aee58b1b941c208ec4e/PICNEWS/tr/yabanci-yatirimcilardan-japon-tahvillerinde-1-45-trilyon-yenlik-alim-22-10-26/",
-      "image": "https://news-files.foreks.com/images/af5843d42f8d46b2a3ce848a82eb9d81.jpeg",
-      "published_at": "2026-10-22T04:02:54+00:00"
+      "url": "https://www.foreks.com/haber/detay/6ad9d7d558b1b941c208ef77/PICNEWS/tr/aramco-dan-petrol-sevkiyatinda-yeni-plan-22-10-26/",
+      "image": "https://news-files.foreks.com/images/d2941e9498624c04b43dab34ea7445e6.jpeg",
+      "published_at": "2026-10-22T09:31:01+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Tarsus Belediye Başkanı Boltaç CHP’den istifa ettiğini açıkladı",
+      "title_tr": "Tarsus Belediye Başkanı Boltaç CHP’den istifa ettiğini açıkladı",
+      "summary": "Mersin’in Tarsus ilçe Belediye Başkanı Ali Boltaç, Cumhuriyet Halk Partisi (CHP) içerisinde hakkında başlatılan disiplin ve ihraç sürecinin sonucunu beklemeden partisinden istifa etme kararı aldığını duyurdu.Meclis toplantısında söz alan Tarsus Belediye Başkanı Ali Boltaç, CHP içerisinde hakkında yürütülen disiplin sürecine ilişkin açıklamada bulundu. Son günlerde yaşanan gelişmeleri dikkatle değerlendirdiğini belirten Boltaç, parti üyeliğinden kendi özgür iradesiyle ayrılma kararı aldığını ifade etti.\nSiyaseti birlikte yaşadığı insanlara hizmet etmenin bir yolu olarak gördüğünü dile getiren Boltaç, hakkında başlatılan disiplin sürecini yakından takip ettiğini söyledi.\n\n\"İhraç sürecinin sonucunu beklemeyeceğim\"\n\nBoltaç, açıklamasında şu ifadelere yer verdi: \"Son günlerde Cumhuriyet Halk Partisi içerisinde şahsımla ilgili başlatılan disiplin sürecini kamuoyuyla birlikte yakından takip ediyorum. Bu süreçte yaşanan gelişmeleri dikkatle değerlendirdim. Geldiğimiz noktada hakkımda yürütülen ihraç sürecinin sonucunu beklemeksizin Cumhuriyet Halk Partisi üyeliğinden kendi özgür irademle istifa etme kararı alıyorum.\"\nİstifa kararının anlık bir tepki olarak değerlendirilmemesi gerektiğini vurgulayan Boltaç, kararının herhangi bir kırgınlık veya öfkeden kaynaklanmadığını belirtti.",
+      "summary_tr": "Mersin’in Tarsus ilçe Belediye Başkanı Ali Boltaç, Cumhuriyet Halk Partisi (CHP) içerisinde hakkında başlatılan disiplin ve ihraç sürecinin sonucunu beklemeden partisinden istifa etme kararı aldığını duyurdu.Meclis toplantısında söz alan Tarsus Belediye Başkanı Ali Boltaç, CHP içerisinde hakkında yürütülen disiplin sürecine ilişkin açıklamada bulundu. Son günlerde yaşanan gelişmeleri dikkatle değerlendirdiğini belirten Boltaç, parti üyeliğinden kendi özgür iradesiyle ayrılma kararı aldığını ifade etti.\nSiyaseti birlikte yaşadığı insanlara hizmet etmenin bir yolu olarak gördüğünü dile getiren Boltaç, hakkında başlatılan disiplin sürecini yakından takip ettiğini söyledi.\n\n\"İhraç sürecinin sonucunu beklemeyeceğim\"\n\nBoltaç, açıklamasında şu ifadelere yer verdi: \"Son günlerde Cumhuriyet Halk Partisi içerisinde şahsımla ilgili başlatılan disiplin sürecini kamuoyuyla birlikte yakından takip ediyorum. Bu süreçte yaşanan gelişmeleri dikkatle değerlendirdim. Geldiğimiz noktada hakkımda yürütülen ihraç sürecinin sonucunu beklemeksizin Cumhuriyet Halk Partisi üyeliğinden kendi özgür irademle istifa etme kararı alıyorum.\"\nİstifa kararının anlık bir tepki olarak değerlendirilmemesi gerektiğini vurgulayan Boltaç, kararının herhangi bir kırgınlık veya öfkeden kaynaklanmadığını belirtti.",
+      "long_summary": "Mersin’in Tarsus ilçe Belediye Başkanı Ali Boltaç, Cumhuriyet Halk Partisi (CHP) içerisinde hakkında başlatılan disiplin ve ihraç sürecinin sonucunu beklemeden partisinden istifa etme kararı aldığını duyurdu.Meclis toplantısında söz alan Tarsus Belediye Başkanı Ali Boltaç, CHP içerisinde hakkında yürütülen disiplin sürecine ilişkin açıklamada bulundu. Son günlerde yaşanan gelişmeleri dikkatle değerlendirdiğini belirten Boltaç, parti üyeliğinden kendi özgür iradesiyle ayrılma kararı aldığını",
+      "long_summary_tr": "Mersin’in Tarsus ilçe Belediye Başkanı Ali Boltaç, Cumhuriyet Halk Partisi (CHP) içerisinde hakkında başlatılan disiplin ve ihraç sürecinin sonucunu beklemeden partisinden istifa etme kararı aldığını duyurdu.Meclis toplantısında söz alan Tarsus Belediye Başkanı Ali Boltaç, CHP içerisinde hakkında yürütülen disiplin sürecine ilişkin açıklamada bulundu. Son günlerde yaşanan gelişmeleri dikkatle değerlendirdiğini belirten Boltaç, parti üyeliğinden kendi özgür iradesiyle ayrılma kararı aldığını",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/tarsus-belediye-baskani-boltac-chp-den-istifa-ettigini-acikladi-1734935",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/22/tarsus-belediye-baskani-boltac-chp-den-istifa-ettigini-acikladi-1792661544-160_large.webp",
+      "published_at": "2026-10-22T09:31:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Finans",
+      "category_slug": "finans",
+      "is_local": false,
+      "source": "Bloomberg HT",
+      "title": "Mustafa V. Koç Spor Ödülü'nün 2026 kazananları açıklandı",
+      "title_tr": "Mustafa V. Koç Spor Ödülü'nün 2026 kazananları açıklandı",
+      "summary": "Koç Holding ve Türkiye Milli Olimpiyat Komitesi (TMOK) işbirliğiyle düzenlenen Mustafa V. Koç Spor Ödülü'nün sahipleri belli oldu.",
+      "summary_tr": "Koç Holding ve Türkiye Milli Olimpiyat Komitesi (TMOK) işbirliğiyle düzenlenen Mustafa V. Koç Spor Ödülü'nün sahipleri belli oldu.",
+      "long_summary": "Koç Holding ve Türkiye Milli Olimpiyat Komitesi (TMOK) işbirliğiyle düzenlenen Mustafa V. Koç Spor Ödülü'nün sahipleri belli oldu.",
+      "long_summary_tr": "Koç Holding ve Türkiye Milli Olimpiyat Komitesi (TMOK) işbirliğiyle düzenlenen Mustafa V. Koç Spor Ödülü'nün sahipleri belli oldu.",
+      "why_important": [
+        "Finansal piyasalar üzerinde etkili olması"
+      ],
+      "possible_impacts": [
+        "Finansal piyasalarda volatilite artabilir"
+      ],
+      "url": "https://www.bloomberght.com/mustafa-v-koc-spor-odulu-nun-2026-kazananlari-aciklandi-3792196",
+      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792661514/3792196/jpg/1280x720",
+      "published_at": "2026-10-22T09:30:56+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
+      "is_local": false,
+      "source": "ShiftDelete",
+      "title": "Sony Yeni PS5 Güncellemesi ile Jailbreak Yarışını Kızıştırıyor",
+      "title_tr": "Sony Yeni PS5 Güncellemesi ile Jailbreak Yarışını Kızıştırıyor",
+      "summary": "Sony, yeni PS5 güncellemesi ile jailbreak girişimlerine karşı önlemlerini artırıyor. GTA 6 öncesi konsol güvenliğindeki son gelişmeleri öğrenin.",
+      "summary_tr": "Sony, yeni PS5 güncellemesi ile jailbreak girişimlerine karşı önlemlerini artırıyor. GTA 6 öncesi konsol güvenliğindeki son gelişmeleri öğrenin.",
+      "long_summary": "Sony, yeni PS5 güncellemesi ile jailbreak girişimlerine karşı önlemlerini artırıyor. GTA 6 öncesi konsol güvenliğindeki son gelişmeleri öğrenin.",
+      "long_summary_tr": "Sony, yeni PS5 güncellemesi ile jailbreak girişimlerine karşı önlemlerini artırıyor. GTA 6 öncesi konsol güvenliğindeki son gelişmeleri öğrenin.",
+      "why_important": [
+        "Yeni teknolojik gelişmeler içermesi"
+      ],
+      "possible_impacts": [
+        "Yeni ürün ve hizmetler gündeme gelebilir"
+      ],
+      "url": "https://shiftdelete.net/sony-yeni-ps5-guncellemesi-ile-jailbreak-yarisini-kizistiriyor",
+      "image": null,
+      "published_at": "2026-10-22T09:30:11+00:00"
     },
     {
       "origin": "turkiye",
@@ -87,51 +659,51 @@
       ],
       "url": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-ekim-2026-1747393",
       "image": "https://images.ntv.com.tr/images/477a4d82-9d42-44a3-8135-f2a9ec017f8a.jpg",
-      "published_at": "2026-10-22T04:00:00+00:00"
+      "published_at": "2026-10-22T09:30:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Ankara’da özel okul öğretmeni fuhuş ve uyuşturucu soruşturmasında tutuklandı!",
+      "title_tr": "Ankara’da özel okul öğretmeni fuhuş ve uyuşturucu soruşturmasında tutuklandı!",
+      "summary": "Ankara’da uyuşturucu ve fuhuş suçlarına yönelik operasyonlarda gözaltına alınanlar arasında, özel bir okulda 4 yıldır sınıf öğretmenliği yaptığı belirtilen S.D.’nin de bulunduğu ortaya çıktı. Soruşturma kapsamında tutuklandığı belirtilen kadın hakkında fuhşa aracılık ettiği iddiası gündeme gelirken, okul yönetiminin olayın duyulmaması için çalışanlara baskı yaptığı öne sürüldü.Uyuşturucu ve fuhuş soruşturması kapsamında dosyaya giren bazı eğlence mekânlarıyla bağlantılı olduğu ve fuhşa aracılık ettiği iddia edilen S.D. hakkında yürütülen soruşturmanın ayrıntıları gündem oldu.\n\n4 YILDIR SINIF ÖĞRETMENLİĞİ YAPIYORDU\n\nAnkara’da uyuşturucu madde ticareti, uyuşturucu veya uyarıcı madde kullanımını kolaylaştırma, uyuşturucu madde kullanma ve fuhuş suçlarına yönelik geniş kapsamlı operasyonlar düzenlendi. Operasyonlar kapsamında popüler eğlence mekânlarına baskınlar yapılırken, aralarında ünlü isimlerin ve iş dünyasından kişilerin de bulunduğu çok sayıda kişi gözaltına alındı.\n\nGözaltına alınanlar arasında, özel bir okulda 4 yıldır sınıf öğretmeni olarak görev yaptığı belirtilen S.D.’nin de yer aldığı öğrenildi. S.D.’nin uyuşturucu ve fuhuş suçlamaları kapsamında tutuklandığı belirtildi. Kadının soruşturma dosyasındaki eğlence mekânlarıyla bağlantısı olduğu ve fuhşa aracılık ettiği yönündeki iddialar ise soruşturmanın öne çıkan başlıkları arasında yer aldı.\n\n\n\nOKUL YÖNETİMİ HAKKINDA BASKI İDDİASI\n\nOlayın ardından okul yönetimiyle ilgili de dikkat çeken iddialar gündeme geldi. Okul yetkililerinin velilere, S.D.’nin ikamet değişikliği nedeniyle okuldan ayrıldığı bilgisini verdiği öne sürüldü.\n\nAyrıca okul yönetiminin diğer öğretmenlere ve çalışanlara olay hakkında konuşmamaları yönünde baskı yaptığı, konuyu anlatmaları hâlinde işten çıkarılabilecekleri tehdidinde bulunduğu iddia edildi.",
+      "summary_tr": "Ankara’da uyuşturucu ve fuhuş suçlarına yönelik operasyonlarda gözaltına alınanlar arasında, özel bir okulda 4 yıldır sınıf öğretmenliği yaptığı belirtilen S.D.’nin de bulunduğu ortaya çıktı. Soruşturma kapsamında tutuklandığı belirtilen kadın hakkında fuhşa aracılık ettiği iddiası gündeme gelirken, okul yönetiminin olayın duyulmaması için çalışanlara baskı yaptığı öne sürüldü.Uyuşturucu ve fuhuş soruşturması kapsamında dosyaya giren bazı eğlence mekânlarıyla bağlantılı olduğu ve fuhşa aracılık ettiği iddia edilen S.D. hakkında yürütülen soruşturmanın ayrıntıları gündem oldu.\n\n4 YILDIR SINIF ÖĞRETMENLİĞİ YAPIYORDU\n\nAnkara’da uyuşturucu madde ticareti, uyuşturucu veya uyarıcı madde kullanımını kolaylaştırma, uyuşturucu madde kullanma ve fuhuş suçlarına yönelik geniş kapsamlı operasyonlar düzenlendi. Operasyonlar kapsamında popüler eğlence mekânlarına baskınlar yapılırken, aralarında ünlü isimlerin ve iş dünyasından kişilerin de bulunduğu çok sayıda kişi gözaltına alındı.\n\nGözaltına alınanlar arasında, özel bir okulda 4 yıldır sınıf öğretmeni olarak görev yaptığı belirtilen S.D.’nin de yer aldığı öğrenildi. S.D.’nin uyuşturucu ve fuhuş suçlamaları kapsamında tutuklandığı belirtildi. Kadının soruşturma dosyasındaki eğlence mekânlarıyla bağlantısı olduğu ve fuhşa aracılık ettiği yönündeki iddialar ise soruşturmanın öne çıkan başlıkları arasında yer aldı.\n\n\n\nOKUL YÖNETİMİ HAKKINDA BASKI İDDİASI\n\nOlayın ardından okul yönetimiyle ilgili de dikkat çeken iddialar gündeme geldi. Okul yetkililerinin velilere, S.D.’nin ikamet değişikliği nedeniyle okuldan ayrıldığı bilgisini verdiği öne sürüldü.\n\nAyrıca okul yönetiminin diğer öğretmenlere ve çalışanlara olay hakkında konuşmamaları yönünde baskı yaptığı, konuyu anlatmaları hâlinde işten çıkarılabilecekleri tehdidinde bulunduğu iddia edildi.",
+      "long_summary": "Ankara’da uyuşturucu ve fuhuş suçlarına yönelik operasyonlarda gözaltına alınanlar arasında, özel bir okulda 4 yıldır sınıf öğretmenliği yaptığı belirtilen S.D.’nin de bulunduğu ortaya çıktı. Soruşturma kapsamında tutuklandığı belirtilen kadın hakkında fuhşa aracılık ettiği iddiası gündeme gelirken, okul yönetiminin olayın duyulmaması için çalışanlara baskı yaptığı öne sürüldü.Uyuşturucu ve fuhuş soruşturması kapsamında dosyaya giren bazı eğlence mekânlarıyla bağlantılı olduğu ve fuhşa aracılık",
+      "long_summary_tr": "Ankara’da uyuşturucu ve fuhuş suçlarına yönelik operasyonlarda gözaltına alınanlar arasında, özel bir okulda 4 yıldır sınıf öğretmenliği yaptığı belirtilen S.D.’nin de bulunduğu ortaya çıktı. Soruşturma kapsamında tutuklandığı belirtilen kadın hakkında fuhşa aracılık ettiği iddiası gündeme gelirken, okul yönetiminin olayın duyulmaması için çalışanlara baskı yaptığı öne sürüldü.Uyuşturucu ve fuhuş soruşturması kapsamında dosyaya giren bazı eğlence mekânlarıyla bağlantılı olduğu ve fuhşa aracılık",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/gundem/ankara-da-ozel-okul-ogretmeni-fuhus-ve-uyusturucu-sorusturmasinda-tutuklandi-1734932",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/22/ankara-da-ozel-okul-ogretmeni-fuhus-ve-uyusturucu-sorusturmasinda-tutuklandi-1792661488-590_large.webp",
+      "published_at": "2026-10-22T09:30:00+00:00"
     },
     {
       "origin": "yabanci",
-      "category": "Bilim",
-      "category_slug": "bilim",
+      "category": "Spor",
+      "category_slug": "spor",
       "is_local": false,
-      "source": "Popular Science",
-      "title": "Baby manta rays stick to the shallows to avoid sharks and orca",
-      "title_tr": "Baby manta rays stick to the shallows to avoid sharks and orca",
-      "summary": "Adults can reach 30 feet long and weigh over 4,400 pounds, but coastal areas offer the young fish space to grow.\nThe post Baby manta rays stick to the shallows to avoid sharks and orca appeared first on Popular Science.",
-      "summary_tr": "Adults can reach 30 feet long and weigh over 4,400 pounds, but coastal areas offer the young fish space to grow.\nThe post Baby manta rays stick to the shallows to avoid sharks and orca appeared first on Popular Science.",
-      "long_summary": "Adults can reach 30 feet long and weigh over 4,400 pounds, but coastal areas offer the young fish space to grow.\nThe post Baby manta rays stick to the shallows to avoid sharks and orca appeared first on Popular Science.",
-      "long_summary_tr": "Adults can reach 30 feet long and weigh over 4,400 pounds, but coastal areas offer the young fish space to grow.\nThe post Baby manta rays stick to the shallows to avoid sharks and orca appeared first on Popular Science.",
+      "source": "Sky Sports",
+      "title": "England reach 100 two down vs Sri Lanka in ODI tri-series LIVE!",
+      "title_tr": "England reach 100 two down vs Sri Lanka in ODI tri-series LIVE!",
+      "summary": "England reach 100 two down vs Sri Lanka in ODI tri-series LIVE!",
+      "summary_tr": "England reach 100 two down vs Sri Lanka in ODI tri-series LIVE!",
+      "long_summary": "England reach 100 two down vs Sri Lanka in ODI tri-series LIVE!",
+      "long_summary_tr": "England reach 100 two down vs Sri Lanka in ODI tri-series LIVE!",
       "why_important": [
-        "Teknolojik ve akademik gelişmelere katkı sağlaması"
+        "Sportif rekabet ve sonuçları etkilemesi"
       ],
       "possible_impacts": [
-        "Yeni keşifler farklı alanlara yön verebilir"
+        "Lig sıralamaları ve rekabet dengeleri değişebilir"
       ],
-      "url": "https://www.popsci.com/environment/baby-manta-rays-shallows/",
-      "image": "https://www.popsci.com/wp-content/uploads/2026/10/baby-ray-lead.png?quality=85",
-      "published_at": "2026-10-22T04:00:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Tesla'dan 20 milyar dolarlık yatırım planı ve 5 milyon araç hedefi",
-      "title_tr": "Tesla'dan 20 milyar dolarlık yatırım planı ve 5 milyon araç hedefi",
-      "summary": "Tesla, 2026 yılı sermaye harcaması beklentisini yaklaşık 20 milyar dolara yükseltirken, 2030 yılı civarında yıllık 5 milyon araç üretim seviyesine ulaşmayı hedeflediğini açıkladı. Şirket, üçüncü çeyre...",
-      "summary_tr": "Tesla, 2026 yılı sermaye harcaması beklentisini yaklaşık 20 milyar dolara yükseltirken, 2030 yılı civarında yıllık 5 milyon araç üretim seviyesine ulaşmayı hedeflediğini açıkladı. Şirket, üçüncü çeyre...",
-      "long_summary": "Tesla, 2026 yılı sermaye harcaması beklentisini yaklaşık 20 milyar dolara yükseltirken, 2030 yılı civarında yıllık 5 milyon araç üretim seviyesine ulaşmayı hedeflediğini açıkladı. Şirket, üçüncü çeyre...",
-      "long_summary_tr": "Tesla, 2026 yılı sermaye harcaması beklentisini yaklaşık 20 milyar dolara yükseltirken, 2030 yılı civarında yıllık 5 milyon araç üretim seviyesine ulaşmayı hedeflediğini açıkladı. Şirket, üçüncü çeyre...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad98a1658b1b941c208ec3c/PICNEWS/tr/tesla-dan-20-milyar-dolarlik-yatirim-plani-ve-5-milyon-arac-hedefi-22-10-26/",
-      "image": "https://news-files.foreks.com/images/f6533a51fb984aa9a73c484467ce5843.jpeg",
-      "published_at": "2026-10-22T03:59:18+00:00"
+      "url": "https://www.skysports.com/cricket/live-blog/12040/13602136/england-vs-sri-lanka-odi-tri-series-live-latest-cricket-scores-updates-and-video-as-harry-brooks-side-chase-victory",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-wellalage-sri-lanka_7383526.jpg?20261022101636",
+      "published_at": "2026-10-22T09:30:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -139,21 +711,21 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Petrol var, motorin taşınamıyor: Kuveyt'ten kritik uyarı",
-      "title_tr": "Petrol var, motorin taşınamıyor: Kuveyt'ten kritik uyarı",
-      "summary": "Kuveyt Petrol Şirketi CEO&#039;su, küresel enerji piyasasındaki asıl sorunun artık ham petrol değil, motorin gibi rafine ürünlerin taşınması olduğunu açıkladı. Tanker sıkıntısı ve Hürmüz&#039;deki saldırılar, petrol akışı toparlansa bile fiyat baskısını sürdürüyor.",
-      "summary_tr": "Kuveyt Petrol Şirketi CEO&#039;su, küresel enerji piyasasındaki asıl sorunun artık ham petrol değil, motorin gibi rafine ürünlerin taşınması olduğunu açıkladı. Tanker sıkıntısı ve Hürmüz&#039;deki saldırılar, petrol akışı toparlansa bile fiyat baskısını sürdürüyor.",
-      "long_summary": "Kuveyt Petrol Şirketi CEO&#039;su, küresel enerji piyasasındaki asıl sorunun artık ham petrol değil, motorin gibi rafine ürünlerin taşınması olduğunu açıkladı. Tanker sıkıntısı ve Hürmüz&#039;deki saldırılar, petrol akışı toparlansa bile fiyat baskısını sürdürüyor.",
-      "long_summary_tr": "Kuveyt Petrol Şirketi CEO&#039;su, küresel enerji piyasasındaki asıl sorunun artık ham petrol değil, motorin gibi rafine ürünlerin taşınması olduğunu açıkladı. Tanker sıkıntısı ve Hürmüz&#039;deki saldırılar, petrol akışı toparlansa bile fiyat baskısını sürdürüyor.",
+      "title": "Vergi rekabetinde Türkiye ilk 10'da: ABD ve Almanya geride kaldı",
+      "title_tr": "Vergi rekabetinde Türkiye ilk 10'da: ABD ve Almanya geride kaldı",
+      "summary": "Tax Foundation’ın 2026 vergi rekabetçiliği endeksi 38 OECD ülkesini karşılaştırdı. Türkiye, ABD ve Almanya&#039;yı geride bırakarak ilk 10&#039;a yerleşti. Sıralamada dikkat çeken ülkeler ve zirveyi belirleyen kurallar merak konusu oldu.",
+      "summary_tr": "Tax Foundation’ın 2026 vergi rekabetçiliği endeksi 38 OECD ülkesini karşılaştırdı. Türkiye, ABD ve Almanya&#039;yı geride bırakarak ilk 10&#039;a yerleşti. Sıralamada dikkat çeken ülkeler ve zirveyi belirleyen kurallar merak konusu oldu.",
+      "long_summary": "Tax Foundation’ın 2026 vergi rekabetçiliği endeksi 38 OECD ülkesini karşılaştırdı. Türkiye, ABD ve Almanya&#039;yı geride bırakarak ilk 10&#039;a yerleşti. Sıralamada dikkat çeken ülkeler ve zirveyi belirleyen kurallar merak konusu oldu.",
+      "long_summary_tr": "Tax Foundation’ın 2026 vergi rekabetçiliği endeksi 38 OECD ülkesini karşılaştırdı. Türkiye, ABD ve Almanya&#039;yı geride bırakarak ilk 10&#039;a yerleşti. Sıralamada dikkat çeken ülkeler ve zirveyi belirleyen kurallar merak konusu oldu.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/gundem/petrol-var-motorin-tasinamiyor-kuveytten-kritik-uyari-haberi-844815",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-motorin-ana-gorsel-nwin_cover.jpg",
-      "published_at": "2026-10-22T03:57:00+00:00"
+      "url": "https://www.dunya.com/foto-galeri/ekonomi/vergi-rekabetinde-turkiye-ilk-10da-abd-ve-almanya-geride-kaldi-galeri-844869",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-ana-gorsel-turkiye-vergi-rekabet-imx2_cover.jpg",
+      "published_at": "2026-10-22T09:30:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -161,175 +733,21 @@
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "Webtekno",
-      "title": "Apple Music Logosu Değişti: İşte Yeni Logo!",
-      "title_tr": "Apple Music Logosu Değişti: İşte Yeni Logo!",
-      "summary": "Apple Music, yeniden markalaşmaya gitti. Bu kapsamda logo da değişti.",
-      "summary_tr": "Apple Music, yeniden markalaşmaya gitti. Bu kapsamda logo da değişti.",
-      "long_summary": "Apple Music, yeniden markalaşmaya gitti. Bu kapsamda logo da değişti.",
-      "long_summary_tr": "Apple Music, yeniden markalaşmaya gitti. Bu kapsamda logo da değişti.",
+      "title": "Bütçe Dostu Olması Beklenen Samsung Galaxy A08 5G İçin Geri Sayım Başladı",
+      "title_tr": "Bütçe Dostu Olması Beklenen Samsung Galaxy A08 5G İçin Geri Sayım Başladı",
+      "summary": "Uygun fiyatlı bir telefon arayanların radarına girmeye aday Samsung Galaxy A08 5G, 6.000 mAh bataryasıyla IMEI veritabanında ortaya çıktı. Bu kayıt, cihazın geliştirme ve piyasaya hazırlık sürecinde olduğuna dair önemli bir işaret.",
+      "summary_tr": "Uygun fiyatlı bir telefon arayanların radarına girmeye aday Samsung Galaxy A08 5G, 6.000 mAh bataryasıyla IMEI veritabanında ortaya çıktı. Bu kayıt, cihazın geliştirme ve piyasaya hazırlık sürecinde olduğuna dair önemli bir işaret.",
+      "long_summary": "Uygun fiyatlı bir telefon arayanların radarına girmeye aday Samsung Galaxy A08 5G, 6.000 mAh bataryasıyla IMEI veritabanında ortaya çıktı. Bu kayıt, cihazın geliştirme ve piyasaya hazırlık sürecinde olduğuna dair önemli bir işaret.",
+      "long_summary_tr": "Uygun fiyatlı bir telefon arayanların radarına girmeye aday Samsung Galaxy A08 5G, 6.000 mAh bataryasıyla IMEI veritabanında ortaya çıktı. Bu kayıt, cihazın geliştirme ve piyasaya hazırlık sürecinde olduğuna dair önemli bir işaret.",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://www.webtekno.com/apple-music-yeni-logo-h227669.html",
-      "image": "https://imgrosetta.webtekno.com/file/694178/694178-640xauto.jpg",
-      "published_at": "2026-10-22T03:56:07+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Asya borsaları yapay zeka endişeleriyle düştü",
-      "title_tr": "Asya borsaları yapay zeka endişeleriyle düştü",
-      "summary": "Asya borsaları yapay zeka endişeleriyle düştü",
-      "summary_tr": "Asya borsaları yapay zeka endişeleriyle düştü",
-      "long_summary": "Asya borsaları yapay zeka endişeleriyle düştü",
-      "long_summary_tr": "Asya borsaları yapay zeka endişeleriyle düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/asya-borsalar-yapay-zeka-endiseleriyle-dustu-4114111",
-      "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg",
-      "published_at": "2026-10-22T03:55:43+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Texas Instruments bilançosu açıklandı; gelir beklentisi tahminleri aştı",
-      "title_tr": "Texas Instruments bilançosu açıklandı; gelir beklentisi tahminleri aştı",
-      "summary": "ABD'li çip üreticisi Texas Instruments, otomotiv ve sanayi müşterilerinden gelen güçlü talebin desteğiyle 2026'nın son çeyreğine ilişkin gelir ve kar beklentilerini analist tahminlerinin üzerinde açık...",
-      "summary_tr": "ABD'li çip üreticisi Texas Instruments, otomotiv ve sanayi müşterilerinden gelen güçlü talebin desteğiyle 2026'nın son çeyreğine ilişkin gelir ve kar beklentilerini analist tahminlerinin üzerinde açık...",
-      "long_summary": "ABD'li çip üreticisi Texas Instruments, otomotiv ve sanayi müşterilerinden gelen güçlü talebin desteğiyle 2026'nın son çeyreğine ilişkin gelir ve kar beklentilerini analist tahminlerinin üzerinde açık...",
-      "long_summary_tr": "ABD'li çip üreticisi Texas Instruments, otomotiv ve sanayi müşterilerinden gelen güçlü talebin desteğiyle 2026'nın son çeyreğine ilişkin gelir ve kar beklentilerini analist tahminlerinin üzerinde açık...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad9892958b1b941c208ec3b/PICNEWS/tr/texas-instruments-bilancosu-aciklandi-gelir-beklentisi-tahminleri-asti-22-10-26/",
-      "image": "https://news-files.foreks.com/images/0df1b67076374bcd980ff7c16cdc97d6.jpeg",
-      "published_at": "2026-10-22T03:55:21+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Kanada Başbakanı Carney, ABD'ye ticari bağımlılığı azaltmak için Türkiye'ye geliyor",
-      "title_tr": "Kanada Başbakanı Carney, ABD'ye ticari bağımlılığı azaltmak için Türkiye'ye geliyor",
-      "summary": "Kanada Başbakanı Mark Carney, ülkesinin ABD'ye olan ticari bağımlılığını azaltma hedefi kapsamında perşembe günü Türkiye'de Cumhurbaşkanı Recep Tayyip Erdoğan ile görüşecek. Ziyaret, bir Kanada lideri...",
-      "summary_tr": "Kanada Başbakanı Mark Carney, ülkesinin ABD'ye olan ticari bağımlılığını azaltma hedefi kapsamında perşembe günü Türkiye'de Cumhurbaşkanı Recep Tayyip Erdoğan ile görüşecek. Ziyaret, bir Kanada lideri...",
-      "long_summary": "Kanada Başbakanı Mark Carney, ülkesinin ABD'ye olan ticari bağımlılığını azaltma hedefi kapsamında perşembe günü Türkiye'de Cumhurbaşkanı Recep Tayyip Erdoğan ile görüşecek. Ziyaret, bir Kanada lideri...",
-      "long_summary_tr": "Kanada Başbakanı Mark Carney, ülkesinin ABD'ye olan ticari bağımlılığını azaltma hedefi kapsamında perşembe günü Türkiye'de Cumhurbaşkanı Recep Tayyip Erdoğan ile görüşecek. Ziyaret, bir Kanada lideri...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad9889d422c786f3f7a785c/PICNEWS/tr/kanada-basbakani-carney-abd-ye-ticari-bagimliligi-azaltmak-icin-turkiye-ye-geliyor-22-10-26/",
-      "image": "https://news-files.foreks.com/images/9afd20e7a85a4a7a8cd71e8ed0cc7357.jpeg",
-      "published_at": "2026-10-22T03:53:01+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Ukrayna'da barış umutları buğday fiyatlarını 14 haftanın dibine çekti",
-      "title_tr": "Ukrayna'da barış umutları buğday fiyatlarını 14 haftanın dibine çekti",
-      "summary": "ABD'de buğday vadeli işlemleri, Rusya ile Ukrayna arasında barış anlaşması sağlanmasına yönelik diplomatik girişimlerin ardından düz 14 haftanın en düşük seviyesine geriledi.",
-      "summary_tr": "ABD'de buğday vadeli işlemleri, Rusya ile Ukrayna arasında barış anlaşması sağlanmasına yönelik diplomatik girişimlerin ardından düz 14 haftanın en düşük seviyesine geriledi.",
-      "long_summary": "ABD'de buğday vadeli işlemleri, Rusya ile Ukrayna arasında barış anlaşması sağlanmasına yönelik diplomatik girişimlerin ardından düz 14 haftanın en düşük seviyesine geriledi.",
-      "long_summary_tr": "ABD'de buğday vadeli işlemleri, Rusya ile Ukrayna arasında barış anlaşması sağlanmasına yönelik diplomatik girişimlerin ardından düz 14 haftanın en düşük seviyesine geriledi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad98745422c786f3f7a7859/PICNEWS/tr/ukrayna-da-baris-umutlari-bugday-fiyatlarini-14-haftanin-dibine-cekti-22-10-26/",
-      "image": "https://news-files.foreks.com/images/a5e9c3e8f6184d20b6a1b74eae876fab.jpeg",
-      "published_at": "2026-10-22T03:47:17+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "Güney Kore faizi yüzde 3'te tuttu: Kasımda yeni artış sinyali",
-      "title_tr": "Güney Kore faizi yüzde 3'te tuttu: Kasımda yeni artış sinyali",
-      "summary": "Güney Kore Merkez Bankası, iki toplantı üst üste faiz artırdıktan sonra politika faizini yüzde 3&#039;te sabit bıraktı. Ancak yapay zekâ kaynaklı ihracat büyümesi ve hedefin üzerinde seyreden enflasyon, kasım ayında yeni faiz artışı ihtimalini güçlendirdi.",
-      "summary_tr": "Güney Kore Merkez Bankası, iki toplantı üst üste faiz artırdıktan sonra politika faizini yüzde 3&#039;te sabit bıraktı. Ancak yapay zekâ kaynaklı ihracat büyümesi ve hedefin üzerinde seyreden enflasyon, kasım ayında yeni faiz artışı ihtimalini güçlendirdi.",
-      "long_summary": "Güney Kore Merkez Bankası, iki toplantı üst üste faiz artırdıktan sonra politika faizini yüzde 3&#039;te sabit bıraktı. Ancak yapay zekâ kaynaklı ihracat büyümesi ve hedefin üzerinde seyreden enflasyon, kasım ayında yeni faiz artışı ihtimalini güçlendirdi.",
-      "long_summary_tr": "Güney Kore Merkez Bankası, iki toplantı üst üste faiz artırdıktan sonra politika faizini yüzde 3&#039;te sabit bıraktı. Ancak yapay zekâ kaynaklı ihracat büyümesi ve hedefin üzerinde seyreden enflasyon, kasım ayında yeni faiz artışı ihtimalini güçlendirdi.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/guney-kore-faizi-yuzde-3te-tuttu-kasimda-yeni-artis-sinyali-haberi-844814",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-guney-kore-ana-gorsel-5jiy_cover.jpg",
-      "published_at": "2026-10-22T03:45:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "SAP bilançosu açıklandı; gelir ilk kez 10 milyar euroya ulaştı",
-      "title_tr": "SAP bilançosu açıklandı; gelir ilk kez 10 milyar euroya ulaştı",
-      "summary": "Alman yazılım şirketi SAP, 2026 yılının üçüncü çeyreğinde toplam gelirini ilk kez 10 milyar euroya (11,2 milyar dolar) çıkarırken bulut gelirlerinde beklentilerin üzerinde büyüme kaydetti. Şirket, güç...",
-      "summary_tr": "Alman yazılım şirketi SAP, 2026 yılının üçüncü çeyreğinde toplam gelirini ilk kez 10 milyar euroya (11,2 milyar dolar) çıkarırken bulut gelirlerinde beklentilerin üzerinde büyüme kaydetti. Şirket, güç...",
-      "long_summary": "Alman yazılım şirketi SAP, 2026 yılının üçüncü çeyreğinde toplam gelirini ilk kez 10 milyar euroya (11,2 milyar dolar) çıkarırken bulut gelirlerinde beklentilerin üzerinde büyüme kaydetti. Şirket, güç...",
-      "long_summary_tr": "Alman yazılım şirketi SAP, 2026 yılının üçüncü çeyreğinde toplam gelirini ilk kez 10 milyar euroya (11,2 milyar dolar) çıkarırken bulut gelirlerinde beklentilerin üzerinde büyüme kaydetti. Şirket, güç...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad9865f58b1b941c208ec35/PICNEWS/tr/sap-bilancosu-aciklandi-gelir-ilk-kez-10-milyar-euroya-ulasti-22-10-26/",
-      "image": "https://news-files.foreks.com/images/a016aeedfa184408903e18f6732a3f88.jpeg",
-      "published_at": "2026-10-22T03:43:27+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "ABD'den İran'ın petrol taşımacılığı ağına yeni yaptırımlar",
-      "title_tr": "ABD'den İran'ın petrol taşımacılığı ağına yeni yaptırımlar",
-      "summary": "ABD Hazine Bakanlığı, İran'ın deniz taşımacılığı ağlarına yıllardır hukuki destek sağladığı gerekçesiyle Yunanistan ve Panama merkezli Karnakis & Karnakis hukuk firmasına yaptırım uyguladı. Bakanl...",
-      "summary_tr": "ABD Hazine Bakanlığı, İran'ın deniz taşımacılığı ağlarına yıllardır hukuki destek sağladığı gerekçesiyle Yunanistan ve Panama merkezli Karnakis & Karnakis hukuk firmasına yaptırım uyguladı. Bakanl...",
-      "long_summary": "ABD Hazine Bakanlığı, İran'ın deniz taşımacılığı ağlarına yıllardır hukuki destek sağladığı gerekçesiyle Yunanistan ve Panama merkezli Karnakis & Karnakis hukuk firmasına yaptırım uyguladı. Bakanl...",
-      "long_summary_tr": "ABD Hazine Bakanlığı, İran'ın deniz taşımacılığı ağlarına yıllardır hukuki destek sağladığı gerekçesiyle Yunanistan ve Panama merkezli Karnakis & Karnakis hukuk firmasına yaptırım uyguladı. Bakanl...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad985b558b1b941c208ec31/PICNEWS/tr/abd-den-iran-in-petrol-tasimaciligi-agina-yeni-yaptirimlar-22-10-26/",
-      "image": "https://news-files.foreks.com/images/885ec3dade5f47a5b6f765965e503465.jpeg",
-      "published_at": "2026-10-22T03:40:37+00:00"
+      "url": "https://www.webtekno.com/samsung-galaxy-a08-5g-icin-geri-sayim-basladi-h227713.html",
+      "image": "https://imgrosetta.webtekno.com/file/694244/694244-640xauto.jpg",
+      "published_at": "2026-10-22T09:28:57+00:00"
     },
     {
       "origin": "turkiye",
@@ -337,87 +755,43 @@
       "category_slug": "teknoloji",
       "is_local": false,
       "source": "Webtekno",
-      "title": "İnternetin Omurgası PHP'de 2 Kritik Güvenlik Açığı",
-      "title_tr": "İnternetin Omurgası PHP'de 2 Kritik Güvenlik Açığı",
-      "summary": "İnternet altyapısının temel taşlarından PHP'de iki kritik güvenlik açığı tespit edildi ve dünya genelinde milyonlarca sunucu alarma geçti.",
-      "summary_tr": "İnternet altyapısının temel taşlarından PHP'de iki kritik güvenlik açığı tespit edildi ve dünya genelinde milyonlarca sunucu alarma geçti.",
-      "long_summary": "İnternet altyapısının temel taşlarından PHP'de iki kritik güvenlik açığı tespit edildi ve dünya genelinde milyonlarca sunucu alarma geçti.",
-      "long_summary_tr": "İnternet altyapısının temel taşlarından PHP'de iki kritik güvenlik açığı tespit edildi ve dünya genelinde milyonlarca sunucu alarma geçti.",
+      "title": "Gemini, Apple CarPlay’in Google Maps Uygulamasına Geldi!",
+      "title_tr": "Gemini, Apple CarPlay’in Google Maps Uygulamasına Geldi!",
+      "summary": "Google, Gemini sesli asistanını Apple CarPlay’de Google Maps üzerinden sürücülerine sunmaya başladı.",
+      "summary_tr": "Google, Gemini sesli asistanını Apple CarPlay’de Google Maps üzerinden sürücülerine sunmaya başladı.",
+      "long_summary": "Google, Gemini sesli asistanını Apple CarPlay’de Google Maps üzerinden sürücülerine sunmaya başladı.",
+      "long_summary_tr": "Google, Gemini sesli asistanını Apple CarPlay’de Google Maps üzerinden sürücülerine sunmaya başladı.",
       "why_important": [
         "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
         "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://www.webtekno.com/php-guvenlik-acigi-h227668.html",
-      "image": "https://imgrosetta.webtekno.com/file/694174/694174-640xauto.jpg",
-      "published_at": "2026-10-22T03:40:05+00:00"
+      "url": "https://www.webtekno.com/gemini-apple-carplay-maps-geldi-h227710.html",
+      "image": "https://imgrosetta.webtekno.com/file/694234/694234-640xauto.jpg",
+      "published_at": "2026-10-22T09:28:38+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "category": "Teknoloji",
+      "category_slug": "teknoloji",
       "is_local": false,
-      "source": "Foreks",
-      "title": "ABD'den Suudi Arabistan'daki diplomatik personele tahliye emri",
-      "title_tr": "ABD'den Suudi Arabistan'daki diplomatik personele tahliye emri",
-      "summary": "ABD Dışişleri Bakanlığı, Suudi Arabistan'da acil olmayan görevlerde çalışan personelin ve aile üyelerinin ülkeden ayrılmasını emretti. Bakanlık, Körfez bölgesindeki diğer ABD diplomatik misyonlarından...",
-      "summary_tr": "ABD Dışişleri Bakanlığı, Suudi Arabistan'da acil olmayan görevlerde çalışan personelin ve aile üyelerinin ülkeden ayrılmasını emretti. Bakanlık, Körfez bölgesindeki diğer ABD diplomatik misyonlarından...",
-      "long_summary": "ABD Dışişleri Bakanlığı, Suudi Arabistan'da acil olmayan görevlerde çalışan personelin ve aile üyelerinin ülkeden ayrılmasını emretti. Bakanlık, Körfez bölgesindeki diğer ABD diplomatik misyonlarından...",
-      "long_summary_tr": "ABD Dışişleri Bakanlığı, Suudi Arabistan'da acil olmayan görevlerde çalışan personelin ve aile üyelerinin ülkeden ayrılmasını emretti. Bakanlık, Körfez bölgesindeki diğer ABD diplomatik misyonlarından...",
+      "source": "Webtekno",
+      "title": "Yeni PS5 Kulaklığı PlayStation Pulse’un Çıkış Tarihi ve Fiyatı Açıklandı",
+      "title_tr": "Yeni PS5 Kulaklığı PlayStation Pulse’un Çıkış Tarihi ve Fiyatı Açıklandı",
+      "summary": "Sony, eylülde tanıttığı yeni PlayStation Pulse kulaklığının fiyatını ve çıkış tarihini paylaştı.",
+      "summary_tr": "Sony, eylülde tanıttığı yeni PlayStation Pulse kulaklığının fiyatını ve çıkış tarihini paylaştı.",
+      "long_summary": "Sony, eylülde tanıttığı yeni PlayStation Pulse kulaklığının fiyatını ve çıkış tarihini paylaştı.",
+      "long_summary_tr": "Sony, eylülde tanıttığı yeni PlayStation Pulse kulaklığının fiyatını ve çıkış tarihini paylaştı.",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Yeni teknolojik gelişmeler içermesi"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Yeni ürün ve hizmetler gündeme gelebilir"
       ],
-      "url": "https://www.foreks.com/haber/detay/6ad9853858b1b941c208ec26/PICNEWS/tr/abd-den-suudi-arabistan-daki-diplomatik-personele-tahliye-emri-22-10-26/",
-      "image": "https://news-files.foreks.com/images/3b0d8703b2294598a1e685cb27b1be8d.jpeg",
-      "published_at": "2026-10-22T03:38:32+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Tesla’nın Asya tedarikçilerinin hisseleri düştü",
-      "title_tr": "Tesla’nın Asya tedarikçilerinin hisseleri düştü",
-      "summary": "Tesla’nın Asya tedarikçilerinin hisseleri düştü",
-      "summary_tr": "Tesla’nın Asya tedarikçilerinin hisseleri düştü",
-      "long_summary": "Tesla’nın Asya tedarikçilerinin hisseleri düştü",
-      "long_summary_tr": "Tesla’nın Asya tedarikçilerinin hisseleri düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/teslann-asya-tedarikcilerinin-hisseleri-dustu-4114108",
-      "image": "https://content-media.investing.com/news/LYNXNPEF1P0T6_M.jpg",
-      "published_at": "2026-10-22T03:37:33+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Zelenskiy'den ABD'nin üçlü barış görüşmesi önerisine destek",
-      "title_tr": "Zelenskiy'den ABD'nin üçlü barış görüşmesi önerisine destek",
-      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD'nin Ukrayna, Rusya ve ABD arasında müzakere heyetleri düzeyinde üçlü görüşme yapılması önerisini desteklediklerini açıkladı. Zelenskiy, görüşmenin mümkü...",
-      "summary_tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD'nin Ukrayna, Rusya ve ABD arasında müzakere heyetleri düzeyinde üçlü görüşme yapılması önerisini desteklediklerini açıkladı. Zelenskiy, görüşmenin mümkü...",
-      "long_summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD'nin Ukrayna, Rusya ve ABD arasında müzakere heyetleri düzeyinde üçlü görüşme yapılması önerisini desteklediklerini açıkladı. Zelenskiy, görüşmenin mümkü...",
-      "long_summary_tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD'nin Ukrayna, Rusya ve ABD arasında müzakere heyetleri düzeyinde üçlü görüşme yapılması önerisini desteklediklerini açıkladı. Zelenskiy, görüşmenin mümkü...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad98457422c786f3f7a7844/PICNEWS/tr/zelenskiy-den-abd-nin-uclu-baris-gorusmesi-onerisine-destek-22-10-26/",
-      "image": "https://news-files.foreks.com/images/55ac380667e04337bc28dde63014f3d9.jpeg",
-      "published_at": "2026-10-22T03:34:47+00:00"
+      "url": "https://www.webtekno.com/playstation-pulse-cikis-tarihi-fiyati-aciklandi-h227704.html",
+      "image": "https://imgrosetta.webtekno.com/file/694229/694229-640xauto.jpg",
+      "published_at": "2026-10-22T09:28:30+00:00"
     },
     {
       "origin": "turkiye",
@@ -425,109 +799,21 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "28 bin Euro'ya çalışacak eleman bulamıyorlar!",
-      "title_tr": "28 bin Euro'ya çalışacak eleman bulamıyorlar!",
-      "summary": "İspanya'da inşaat sektörü ciddi bir iş gücü kriziyle çalkalanıyor. Önümüzdeki yıllarda 700 bin yeni çalışana ihtiyaç duyulan ülkede, deneyimli ustaların yıllık brüt maaşları 28 bin Euro'yu aşabiliyor. Ancak yüksek maaşlara rağmen şirketler, şantiyelerde çalışacak nitelikli personel bulmakta zorlanıyor.",
-      "summary_tr": "İspanya'da inşaat sektörü ciddi bir iş gücü kriziyle çalkalanıyor. Önümüzdeki yıllarda 700 bin yeni çalışana ihtiyaç duyulan ülkede, deneyimli ustaların yıllık brüt maaşları 28 bin Euro'yu aşabiliyor. Ancak yüksek maaşlara rağmen şirketler, şantiyelerde çalışacak nitelikli personel bulmakta zorlanıyor.",
-      "long_summary": "İspanya'da inşaat sektörü ciddi bir iş gücü kriziyle çalkalanıyor. Önümüzdeki yıllarda 700 bin yeni çalışana ihtiyaç duyulan ülkede, deneyimli ustaların yıllık brüt maaşları 28 bin Euro'yu aşabiliyor. Ancak yüksek maaşlara rağmen şirketler, şantiyelerde çalışacak nitelikli personel bulmakta zorlanıyor.",
-      "long_summary_tr": "İspanya'da inşaat sektörü ciddi bir iş gücü kriziyle çalkalanıyor. Önümüzdeki yıllarda 700 bin yeni çalışana ihtiyaç duyulan ülkede, deneyimli ustaların yıllık brüt maaşları 28 bin Euro'yu aşabiliyor. Ancak yüksek maaşlara rağmen şirketler, şantiyelerde çalışacak nitelikli personel bulmakta zorlanıyor.",
+      "title": "Little Caesars Türkiye Dinçerler Group’a geçti",
+      "title_tr": "Little Caesars Türkiye Dinçerler Group’a geçti",
+      "summary": "Dinçerler Group, Little Caesars Pizza’nın Türkiye operasyonunu bünyesine kattı. Dinçerler Group CEO’su Dinçerler “Önceliğimiz Little Caesars Pizza’nın global standartlarını Türkiye’de her noktada aynı güç ve tutarlılıkla yaşatmak\" dedi",
+      "summary_tr": "Dinçerler Group, Little Caesars Pizza’nın Türkiye operasyonunu bünyesine kattı. Dinçerler Group CEO’su Dinçerler “Önceliğimiz Little Caesars Pizza’nın global standartlarını Türkiye’de her noktada aynı güç ve tutarlılıkla yaşatmak\" dedi",
+      "long_summary": "Dinçerler Group, Little Caesars Pizza’nın Türkiye operasyonunu bünyesine kattı. Dinçerler Group CEO’su Dinçerler “Önceliğimiz Little Caesars Pizza’nın global standartlarını Türkiye’de her noktada aynı güç ve tutarlılıkla yaşatmak\" dedi",
+      "long_summary_tr": "Dinçerler Group, Little Caesars Pizza’nın Türkiye operasyonunu bünyesine kattı. Dinçerler Group CEO’su Dinçerler “Önceliğimiz Little Caesars Pizza’nın global standartlarını Türkiye’de her noktada aynı güç ve tutarlılıkla yaşatmak\" dedi",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/bilgi/yillik-28-bin-euro-maas-veriyorlar-ama-calisacak-eleman-bulamiyorlar-3921482",
-      "image": "https://im.haberturk.com/l/2026/10/21/ver1792590953/3921482/jpg/1920x1080",
-      "published_at": "2026-10-22T03:33:44+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Ekonomi",
-      "category_slug": "ekonomi",
-      "is_local": false,
-      "source": "Dünya Gazetesi",
-      "title": "ABD, Suudi Arabistan'dan personelini çekiyor: Petrol tesislerinde saldırı alarmı",
-      "title_tr": "ABD, Suudi Arabistan'dan personelini çekiyor: Petrol tesislerinde saldırı alarmı",
-      "summary": "Yemen&#039;deki Husilerin Suudi Arabistan&#039;ın havalimanları ve petrol tesislerine yönelik saldırıları üzerine ABD, acil görevlerde bulunmayan personeline ülkeden ayrılma talimatı verdi. Karar, Körfez&#039;deki güvenlik ve enerji arzı risklerini artırdı.",
-      "summary_tr": "Yemen&#039;deki Husilerin Suudi Arabistan&#039;ın havalimanları ve petrol tesislerine yönelik saldırıları üzerine ABD, acil görevlerde bulunmayan personeline ülkeden ayrılma talimatı verdi. Karar, Körfez&#039;deki güvenlik ve enerji arzı risklerini artırdı.",
-      "long_summary": "Yemen&#039;deki Husilerin Suudi Arabistan&#039;ın havalimanları ve petrol tesislerine yönelik saldırıları üzerine ABD, acil görevlerde bulunmayan personeline ülkeden ayrılma talimatı verdi. Karar, Körfez&#039;deki güvenlik ve enerji arzı risklerini artırdı.",
-      "long_summary_tr": "Yemen&#039;deki Husilerin Suudi Arabistan&#039;ın havalimanları ve petrol tesislerine yönelik saldırıları üzerine ABD, acil görevlerde bulunmayan personeline ülkeden ayrılma talimatı verdi. Karar, Körfez&#039;deki güvenlik ve enerji arzı risklerini artırdı.",
-      "why_important": [
-        "Makro ekonomik dengeler açısından önem taşıması"
-      ],
-      "possible_impacts": [
-        "Ekonomik beklentiler yeniden şekillenebilir"
-      ],
-      "url": "https://www.dunya.com/gundem/abd-suudi-arabistandan-personelini-cekiyor-petrol-tesislerinde-saldiri-alarmi-haberi-844813",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-suudi-arabistan-ana-gorsel-dr0v_cover.jpg",
-      "published_at": "2026-10-22T03:33:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Arjantin ekonomisi, temmuz ayındaki sert daralmanın ardından ağustosta sınırlı toparlanma gösterdi",
-      "title_tr": "Arjantin ekonomisi, temmuz ayındaki sert daralmanın ardından ağustosta sınırlı toparlanma gösterdi",
-      "summary": "Arjantin ekonomisi, temmuz ayındaki sert daralmanın ardından ağustosta sınırlı toparlanma gösterdi. Ekonomik faaliyet, aylık bazda yüzde 0,1 artarak analistlerin yüzde 1,5'lik büyüme beklentisinin old...",
-      "summary_tr": "Arjantin ekonomisi, temmuz ayındaki sert daralmanın ardından ağustosta sınırlı toparlanma gösterdi. Ekonomik faaliyet, aylık bazda yüzde 0,1 artarak analistlerin yüzde 1,5'lik büyüme beklentisinin old...",
-      "long_summary": "Arjantin ekonomisi, temmuz ayındaki sert daralmanın ardından ağustosta sınırlı toparlanma gösterdi. Ekonomik faaliyet, aylık bazda yüzde 0,1 artarak analistlerin yüzde 1,5'lik büyüme beklentisinin old...",
-      "long_summary_tr": "Arjantin ekonomisi, temmuz ayındaki sert daralmanın ardından ağustosta sınırlı toparlanma gösterdi. Ekonomik faaliyet, aylık bazda yüzde 0,1 artarak analistlerin yüzde 1,5'lik büyüme beklentisinin old...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad983a9422c786f3f7a7841/PICNEWS/tr/arjantin-ekonomisi-temmuz-ayindaki-sert-daralmanin-ardindan-agustosta-sinirli-toparlanma-gosterdi-22-10-26/",
-      "image": "https://news-files.foreks.com/images/e7113796820e4b068dfd779d30115bbe.jpeg",
-      "published_at": "2026-10-22T03:31:53+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Petrol, Suudi Arabistan'daki saldırılarla yükseldi",
-      "title_tr": "Petrol, Suudi Arabistan'daki saldırılarla yükseldi",
-      "summary": "Petrol, Yemen'deki Husilerin Suudi Arabistan'a yönelik saldırılarını artırması ve ABD'nin ülkedeki bazı diplomatik temsilciliklerinden personel yakınlarının ayrılmasını istemesiyle perşembe günü yükseldi.",
-      "summary_tr": "Petrol, Yemen'deki Husilerin Suudi Arabistan'a yönelik saldırılarını artırması ve ABD'nin ülkedeki bazı diplomatik temsilciliklerinden personel yakınlarının ayrılmasını istemesiyle perşembe günü yükseldi.",
-      "long_summary": "Petrol, Yemen'deki Husilerin Suudi Arabistan'a yönelik saldırılarını artırması ve ABD'nin ülkedeki bazı diplomatik temsilciliklerinden personel yakınlarının ayrılmasını istemesiyle perşembe günü yükseldi.",
-      "long_summary_tr": "Petrol, Yemen'deki Husilerin Suudi Arabistan'a yönelik saldırılarını artırması ve ABD'nin ülkedeki bazı diplomatik temsilciliklerinden personel yakınlarının ayrılmasını istemesiyle perşembe günü yükseldi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/petrol-suudi-arabistandaki-saldirilarla-yukseldi-3792157",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792639811/3792157/jpg/1280x720",
-      "published_at": "2026-10-22T03:29:11+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Güney Kore Merkez Bankası iki artışının ardından faizi yüzde 3'te tuttu",
-      "title_tr": "Güney Kore Merkez Bankası iki artışının ardından faizi yüzde 3'te tuttu",
-      "summary": "Güney Kore Merkez Bankası (BOK), temmuz ve ağustos aylarında gerçekleştirdiği art arda 25'er baz puanlık faiz artışlarının ardından politika faizini yüzde 3,00 seviyesinde sabit tuttu. Bankanın yedi ü...",
-      "summary_tr": "Güney Kore Merkez Bankası (BOK), temmuz ve ağustos aylarında gerçekleştirdiği art arda 25'er baz puanlık faiz artışlarının ardından politika faizini yüzde 3,00 seviyesinde sabit tuttu. Bankanın yedi ü...",
-      "long_summary": "Güney Kore Merkez Bankası (BOK), temmuz ve ağustos aylarında gerçekleştirdiği art arda 25'er baz puanlık faiz artışlarının ardından politika faizini yüzde 3,00 seviyesinde sabit tuttu. Bankanın yedi ü...",
-      "long_summary_tr": "Güney Kore Merkez Bankası (BOK), temmuz ve ağustos aylarında gerçekleştirdiği art arda 25'er baz puanlık faiz artışlarının ardından politika faizini yüzde 3,00 seviyesinde sabit tuttu. Bankanın yedi ü...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad9827c422c786f3f7a783e/PICNEWS/tr/guney-kore-merkez-bankasi-iki-artisinin-ardindan-faizi-yuzde-3-te-tuttu-22-10-26/",
-      "image": "https://news-files.foreks.com/images/ea339dbf3cbc4860a505836d398f98a3.jpeg",
-      "published_at": "2026-10-22T03:26:52+00:00"
+      "url": "https://www.haberturk.com/ekonomi/little-caesars-turkiye-dincerler-groupa-gecti-3921678",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661322/3921678/jpg/1920x1080",
+      "published_at": "2026-10-22T09:28:22+00:00"
     },
     {
       "origin": "turkiye",
@@ -535,21 +821,109 @@
       "category_slug": "gundem",
       "is_local": false,
       "source": "Habertürk",
-      "title": "Türkiye ve 3 ülke arasında 'Bedir' Mutabakat Zaptı imzalandı",
-      "title_tr": "Türkiye ve 3 ülke arasında 'Bedir' Mutabakat Zaptı imzalandı",
-      "summary": "Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı. İşte mutabakat zaptının detayları...",
-      "summary_tr": "Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı. İşte mutabakat zaptının detayları...",
-      "long_summary": "Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı. İşte mutabakat zaptının detayları...",
-      "long_summary_tr": "Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı. İşte mutabakat zaptının detayları...",
+      "title": "\"Alkolik gibi beslenmeyi yendim\"",
+      "title_tr": "\"Alkolik gibi beslenmeyi yendim\"",
+      "summary": "Verdiği 90 kiloyla bambaşka birine dönüşen John Goodman, 180 kiloya kadar çıkmasının nedeninin alkolü bıraksa da alkolik gibi hissetmesi olduğunu söyledi. Ünlü oyuncu, nasıl kilo verdiğini açıkladı",
+      "summary_tr": "Verdiği 90 kiloyla bambaşka birine dönüşen John Goodman, 180 kiloya kadar çıkmasının nedeninin alkolü bıraksa da alkolik gibi hissetmesi olduğunu söyledi. Ünlü oyuncu, nasıl kilo verdiğini açıkladı",
+      "long_summary": "Verdiği 90 kiloyla bambaşka birine dönüşen John Goodman, 180 kiloya kadar çıkmasının nedeninin alkolü bıraksa da alkolik gibi hissetmesi olduğunu söyledi. Ünlü oyuncu, nasıl kilo verdiğini açıkladı",
+      "long_summary_tr": "Verdiği 90 kiloyla bambaşka birine dönüşen John Goodman, 180 kiloya kadar çıkmasının nedeninin alkolü bıraksa da alkolik gibi hissetmesi olduğunu söyledi. Ünlü oyuncu, nasıl kilo verdiğini açıkladı",
       "why_important": [
         "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
         "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.haberturk.com/gundem/bedir-mutabakati-nedir-turkiye-ve-3-ulke-arasinda-bedir-mutabakat-zapti-imzalandi-son-dakika-3921413",
-      "image": "https://im.haberturk.com/l/2026/10/21/ver1792581190/3921413/jpg/1920x1080",
-      "published_at": "2026-10-22T03:21:26+00:00"
+      "url": "https://www.haberturk.com/magazin/john-goodman-90-kilo-verme-sirrini-acikladi-alkolik-gibi-beslenme-aliskanligimi-yendim-3921675",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661240/3921675/jpg/1920x1080",
+      "published_at": "2026-10-22T09:27:39+00:00"
+    },
+    {
+      "origin": "yabanci",
+      "category": "Dünya",
+      "category_slug": "dunya",
+      "is_local": false,
+      "source": "BBC World",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "title_tr": "How do Israel's elections work and who are the main contenders?",
+      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "summary_tr": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "long_summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "long_summary_tr": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
+      "why_important": [
+        "Uluslararası dengeleri ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Uluslararası ilişkilerde dengeler değişebilir"
+      ],
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76d4/live/4dd4b040-ccb4-11f1-9a39-31b474234113.png",
+      "published_at": "2026-10-22T09:27:10+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Anadolu Kısaları Forum II’ye seçilen projeler açıklandı",
+      "title_tr": "Anadolu Kısaları Forum II’ye seçilen projeler açıklandı",
+      "summary": "30 Ekim – 1 Kasım 2026 tarihlerinde İstanbul’da düzenlenecek Anadolu Kısaları Forum II’nin proje seçkisi açıklandı. Seçici kurulun değerlendirmesi sonucunda belirlenen 13 kısa film projesine, TOBB Next Frame kapsamında ödül alarak Forum’a katılmaya hak kazanan bir proje daha eklendi",
+      "summary_tr": "30 Ekim – 1 Kasım 2026 tarihlerinde İstanbul’da düzenlenecek Anadolu Kısaları Forum II’nin proje seçkisi açıklandı. Seçici kurulun değerlendirmesi sonucunda belirlenen 13 kısa film projesine, TOBB Next Frame kapsamında ödül alarak Forum’a katılmaya hak kazanan bir proje daha eklendi",
+      "long_summary": "30 Ekim – 1 Kasım 2026 tarihlerinde İstanbul’da düzenlenecek Anadolu Kısaları Forum II’nin proje seçkisi açıklandı. Seçici kurulun değerlendirmesi sonucunda belirlenen 13 kısa film projesine, TOBB Next Frame kapsamında ödül alarak Forum’a katılmaya hak kazanan bir proje daha eklendi",
+      "long_summary_tr": "30 Ekim – 1 Kasım 2026 tarihlerinde İstanbul’da düzenlenecek Anadolu Kısaları Forum II’nin proje seçkisi açıklandı. Seçici kurulun değerlendirmesi sonucunda belirlenen 13 kısa film projesine, TOBB Next Frame kapsamında ödül alarak Forum’a katılmaya hak kazanan bir proje daha eklendi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/kultur-sanat/anadolu-kisalari-forum-iiye-secilen-projeler-aciklandi-3921676",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792661175/3921676/jpg/1920x1080",
+      "published_at": "2026-10-22T09:27:06+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Çinlilerden Kung-Fu'cu güvenlik robotu",
+      "title_tr": "Çinlilerden Kung-Fu'cu güvenlik robotu",
+      "summary": "Çinli robotik şirketi Unitree, kung fu hareketleri yapabilen ve fiziksel müdahale gerektiren senaryolarda kullanılmak üzere tanıtılan yeni insansı robotu H2-X Kung Fu Legend Guardian’ı görücüye çıkardı",
+      "summary_tr": "Çinli robotik şirketi Unitree, kung fu hareketleri yapabilen ve fiziksel müdahale gerektiren senaryolarda kullanılmak üzere tanıtılan yeni insansı robotu H2-X Kung Fu Legend Guardian’ı görücüye çıkardı",
+      "long_summary": "Çinli robotik şirketi Unitree, kung fu hareketleri yapabilen ve fiziksel müdahale gerektiren senaryolarda kullanılmak üzere tanıtılan yeni insansı robotu H2-X Kung Fu Legend Guardian’ı görücüye çıkardı",
+      "long_summary_tr": "Çinli robotik şirketi Unitree, kung fu hareketleri yapabilen ve fiziksel müdahale gerektiren senaryolarda kullanılmak üzere tanıtılan yeni insansı robotu H2-X Kung Fu Legend Guardian’ı görücüye çıkardı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/cinden-robot-koruma-kung-fu-da-yapiyor-3921490",
+      "image": "https://im.haberturk.com/l/2026/10/21/ver1792661011/3921490/jpg/1920x1080",
+      "published_at": "2026-10-22T09:26:29+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa Kestel'de Türk Halk Müziği Korosu için başvurular başladı! İşte katılım şartları",
+      "title_tr": "Bursa Kestel'de Türk Halk Müziği Korosu için başvurular başladı! İşte katılım şartları",
+      "summary": "Bursa'nın Kestel ilçesinde Türk Halk Müziği Korosu, yeni dönem çalışmalarına 4 Kasım Çarşamba günü başlayacak. Şenol Kaya şefliğinde gerçekleştirilecek koro çalışmalarına 18 yaş ve üzeri vatandaşlar katılabilecek, başvurular Kestel Belediyesi'nin internet sitesi üzerinden yapılabilecek.Bursa'nın Kestel ilçesinde kültür ve sanat faaliyetleri kapsamında Türk Halk Müziği Korosu yeni dönem çalışmalarına hazırlanıyor.\n\nKestel Belediyesi tarafından düzenlenen ve Şenol Kaya şefliğinde faaliyet gösteren Türk Halk Müziği Korosu, müziğe ilgi duyan vatandaşları bir araya getirecek.\n\nAnadolu'nun farklı yörelerine ait türkülerin seslendirileceği koro çalışmalarına katılmak isteyen vatandaşlar, belediyenin internet sitesi üzerinden başvuru yapabilecek.\n\n\n\nBURSA KESTEL'DE TÜRK HALK MÜZİĞİ KOROSU YENİ DÖNEME HAZIRLANIYOR\n\nKestel Belediyesi, ilçede kültürel ve sanatsal faaliyetlerin yaygınlaştırılması amacıyla yürüttüğü çalışmalara devam ediyor.\n\nBu kapsamda Kestel Belediyesi Türk Halk Müziği Korosu, yeni dönemde müzikseverlerle buluşmaya hazırlanıyor.\n\nŞenol Kaya şefliğinde gerçekleştirilecek çalışmalarla Türk halk müziğine ilgi duyan vatandaşların bir araya gelmesi hedefleniyor.\n\n\n\nKESTEL TÜRK HALK MÜZİĞİ KOROSU 4 KASIM'DA BAŞLIYOR\n\nKestel Belediyesi Türk Halk Müziği Korosu'nun yeni dönem çalışmaları, 4 Kasım 2026 Çarşamba günü başlayacak.\n\nKoro kapsamında katılımcılar, Anadolu'nun farklı yörelerine ait türküleri seslendirme imkânı bulacak.\n\nÇalışmaların aynı zamanda katılımcıların müzikal becerilerini geliştirmelerine katkı sağlaması amaçlanıyor.\n\nBURSA KESTEL'DE KORO BAŞVURUSU NASIL YAPILIR?\n\nKestel Belediyesi Türk Halk Müziği Korosu'na katılmak isteyen vatandaşlar için başvuru koşulları açıklandı.\n\nYeni dönem çalışmalarına 18 yaş ve üzeri vatandaşlar katılabilecek.\n\nBaşvurular, Kestel Belediyesi'nin resmi internet adresi olan kestel.bel.tr üzerinden gerçekleştirilebilecek.\n\n\n\nBAŞKAN FERHAT EROL: KÜLTÜRÜMÜZÜN EZGİLERİNİ GELECEK NESİLLERE TAŞIYORUZ\n\nKestel Belediye Başkanı Ferhat Erol, Türk Halk Müziği Korosu'nun yeni dönem çalışmalarına ilişkin açıklamalarda bulundu.\n\nKültür ve sanatın toplumsal değerlerin yaşatılmasındaki önemine dikkat çeken Başkan Erol, Türk halk müziğinin Anadolu'nun kültürel mirasının önemli bir parçası olduğunu belirtti.\n\nErol, açıklamasında şu ifadeleri kullandı:\n\n\"Türk halk müziğimiz, Anadolu'nun zengin kültürel mirasını, geçmişten bugüne taşıyan en kıymetli değerlerimizden biridir. Kestel Belediyesi olarak hemşerilerimizi kültür ve sanatla buluşturmayı, geleneksel değerlerimizi yaşatmayı ve bu değerleri gelecek nesillere aktarmayı önemsiyoruz.\"\n\n\"MÜZİĞE GÖNÜL VEREN VATANDAŞLARIMIZI BİR ARAYA GETİRİYORUZ\"\n\nKestel Belediye Başkanı Ferhat Erol, Türk Halk Müziği Korosu aracılığıyla vatandaşların kültürel faaliyetlerde buluşmasına katkı sağladıklarını ifade etti.\n\nBaşkan Erol, açıklamasının devamında şunları söyledi:\n\n\"Türk Halk Müziği Koromuzla hem müziğe gönül veren vatandaşlarımızı bir araya getiriyor hem de kültürel mirasımızın yaşatılmasına katkı sunuyoruz. Yeni dönemde koromuza katılacak tüm hemşerilerimize başarılar diliyor, bu güzel çalışmada emeği geçen herkese teşekkür ediyorum.\"\n\nKestel Belediyesi Türk Halk Müziği Korosu, 4 Kasım'da başlayacak yeni dönem çalışmalarıyla Türk halk müziğine ilgi duyan vatandaşları bir araya getirecek.",
+      "summary_tr": "Bursa'nın Kestel ilçesinde Türk Halk Müziği Korosu, yeni dönem çalışmalarına 4 Kasım Çarşamba günü başlayacak. Şenol Kaya şefliğinde gerçekleştirilecek koro çalışmalarına 18 yaş ve üzeri vatandaşlar katılabilecek, başvurular Kestel Belediyesi'nin internet sitesi üzerinden yapılabilecek.Bursa'nın Kestel ilçesinde kültür ve sanat faaliyetleri kapsamında Türk Halk Müziği Korosu yeni dönem çalışmalarına hazırlanıyor.\n\nKestel Belediyesi tarafından düzenlenen ve Şenol Kaya şefliğinde faaliyet gösteren Türk Halk Müziği Korosu, müziğe ilgi duyan vatandaşları bir araya getirecek.\n\nAnadolu'nun farklı yörelerine ait türkülerin seslendirileceği koro çalışmalarına katılmak isteyen vatandaşlar, belediyenin internet sitesi üzerinden başvuru yapabilecek.\n\n\n\nBURSA KESTEL'DE TÜRK HALK MÜZİĞİ KOROSU YENİ DÖNEME HAZIRLANIYOR\n\nKestel Belediyesi, ilçede kültürel ve sanatsal faaliyetlerin yaygınlaştırılması amacıyla yürüttüğü çalışmalara devam ediyor.\n\nBu kapsamda Kestel Belediyesi Türk Halk Müziği Korosu, yeni dönemde müzikseverlerle buluşmaya hazırlanıyor.\n\nŞenol Kaya şefliğinde gerçekleştirilecek çalışmalarla Türk halk müziğine ilgi duyan vatandaşların bir araya gelmesi hedefleniyor.\n\n\n\nKESTEL TÜRK HALK MÜZİĞİ KOROSU 4 KASIM'DA BAŞLIYOR\n\nKestel Belediyesi Türk Halk Müziği Korosu'nun yeni dönem çalışmaları, 4 Kasım 2026 Çarşamba günü başlayacak.\n\nKoro kapsamında katılımcılar, Anadolu'nun farklı yörelerine ait türküleri seslendirme imkânı bulacak.\n\nÇalışmaların aynı zamanda katılımcıların müzikal becerilerini geliştirmelerine katkı sağlaması amaçlanıyor.\n\nBURSA KESTEL'DE KORO BAŞVURUSU NASIL YAPILIR?\n\nKestel Belediyesi Türk Halk Müziği Korosu'na katılmak isteyen vatandaşlar için başvuru koşulları açıklandı.\n\nYeni dönem çalışmalarına 18 yaş ve üzeri vatandaşlar katılabilecek.\n\nBaşvurular, Kestel Belediyesi'nin resmi internet adresi olan kestel.bel.tr üzerinden gerçekleştirilebilecek.\n\n\n\nBAŞKAN FERHAT EROL: KÜLTÜRÜMÜZÜN EZGİLERİNİ GELECEK NESİLLERE TAŞIYORUZ\n\nKestel Belediye Başkanı Ferhat Erol, Türk Halk Müziği Korosu'nun yeni dönem çalışmalarına ilişkin açıklamalarda bulundu.\n\nKültür ve sanatın toplumsal değerlerin yaşatılmasındaki önemine dikkat çeken Başkan Erol, Türk halk müziğinin Anadolu'nun kültürel mirasının önemli bir parçası olduğunu belirtti.\n\nErol, açıklamasında şu ifadeleri kullandı:\n\n\"Türk halk müziğimiz, Anadolu'nun zengin kültürel mirasını, geçmişten bugüne taşıyan en kıymetli değerlerimizden biridir. Kestel Belediyesi olarak hemşerilerimizi kültür ve sanatla buluşturmayı, geleneksel değerlerimizi yaşatmayı ve bu değerleri gelecek nesillere aktarmayı önemsiyoruz.\"\n\n\"MÜZİĞE GÖNÜL VEREN VATANDAŞLARIMIZI BİR ARAYA GETİRİYORUZ\"\n\nKestel Belediye Başkanı Ferhat Erol, Türk Halk Müziği Korosu aracılığıyla vatandaşların kültürel faaliyetlerde buluşmasına katkı sağladıklarını ifade etti.\n\nBaşkan Erol, açıklamasının devamında şunları söyledi:\n\n\"Türk Halk Müziği Koromuzla hem müziğe gönül veren vatandaşlarımızı bir araya getiriyor hem de kültürel mirasımızın yaşatılmasına katkı sunuyoruz. Yeni dönemde koromuza katılacak tüm hemşerilerimize başarılar diliyor, bu güzel çalışmada emeği geçen herkese teşekkür ediyorum.\"\n\nKestel Belediyesi Türk Halk Müziği Korosu, 4 Kasım'da başlayacak yeni dönem çalışmalarıyla Türk halk müziğine ilgi duyan vatandaşları bir araya getirecek.",
+      "long_summary": "Bursa'nın Kestel ilçesinde Türk Halk Müziği Korosu, yeni dönem çalışmalarına 4 Kasım Çarşamba günü başlayacak. Şenol Kaya şefliğinde gerçekleştirilecek koro çalışmalarına 18 yaş ve üzeri vatandaşlar katılabilecek, başvurular Kestel Belediyesi'nin internet sitesi üzerinden yapılabilecek.Bursa'nın Kestel ilçesinde kültür ve sanat faaliyetleri kapsamında Türk Halk Müziği Korosu yeni dönem çalışmalarına hazırlanıyor.\n\nKestel Belediyesi tarafından düzenlenen ve Şenol Kaya şefliğinde faaliyet",
+      "long_summary_tr": "Bursa'nın Kestel ilçesinde Türk Halk Müziği Korosu, yeni dönem çalışmalarına 4 Kasım Çarşamba günü başlayacak. Şenol Kaya şefliğinde gerçekleştirilecek koro çalışmalarına 18 yaş ve üzeri vatandaşlar katılabilecek, başvurular Kestel Belediyesi'nin internet sitesi üzerinden yapılabilecek.Bursa'nın Kestel ilçesinde kültür ve sanat faaliyetleri kapsamında Türk Halk Müziği Korosu yeni dönem çalışmalarına hazırlanıyor.\n\nKestel Belediyesi tarafından düzenlenen ve Şenol Kaya şefliğinde faaliyet",
+      "why_important": [
+        "Bölge halkının günlük yaşamını etkilemesi"
+      ],
+      "possible_impacts": [
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
+      ],
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-kestel-de-turk-halk-muzigi-korosu-icin-basvurular-basladi-iste-katilim-sartlari-1734929",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/22/bursa-kestel-de-turk-halk-muzigi-korosu-icin-basvurular-basladi-iste-katilim-sartlari-1792661242-32_large.webp",
+      "published_at": "2026-10-22T09:26:00+00:00"
     },
     {
       "origin": "turkiye",
@@ -557,131 +931,65 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "İran'ın denizdeki petrolü tükendi: 135 milyon varillik stok eridi",
-      "title_tr": "İran'ın denizdeki petrolü tükendi: 135 milyon varillik stok eridi",
-      "summary": "ABD&#039;nin deniz ablukası, İran&#039;ın Çin&#039;e petrol satışında kullandığı tanker stoklarını tüketme noktasına getirdi. Bir dönem 135 milyon varile ulaşan denizdeki petrolün azalması, Tahran&#039;ın döviz gelirlerini ve enerji ticaretini baskılıyor.",
-      "summary_tr": "ABD&#039;nin deniz ablukası, İran&#039;ın Çin&#039;e petrol satışında kullandığı tanker stoklarını tüketme noktasına getirdi. Bir dönem 135 milyon varile ulaşan denizdeki petrolün azalması, Tahran&#039;ın döviz gelirlerini ve enerji ticaretini baskılıyor.",
-      "long_summary": "ABD&#039;nin deniz ablukası, İran&#039;ın Çin&#039;e petrol satışında kullandığı tanker stoklarını tüketme noktasına getirdi. Bir dönem 135 milyon varile ulaşan denizdeki petrolün azalması, Tahran&#039;ın döviz gelirlerini ve enerji ticaretini baskılıyor.",
-      "long_summary_tr": "ABD&#039;nin deniz ablukası, İran&#039;ın Çin&#039;e petrol satışında kullandığı tanker stoklarını tüketme noktasına getirdi. Bir dönem 135 milyon varile ulaşan denizdeki petrolün azalması, Tahran&#039;ın döviz gelirlerini ve enerji ticaretini baskılıyor.",
+      "title": "Papa 14. Leo'nun ameliyat sonuçları açıklandı",
+      "title_tr": "Papa 14. Leo'nun ameliyat sonuçları açıklandı",
+      "summary": "Akciğer kanseri nedeniyle ameliyat edilen Papa 14. Leo&#039;nun nihai test sonuçları açıklandı. Vatikan, hastalığın sınırlı bir bölgede kaldığını ve yapılan değerlendirmede ek tedaviye gerek görülmediğini duyurdu.",
+      "summary_tr": "Akciğer kanseri nedeniyle ameliyat edilen Papa 14. Leo&#039;nun nihai test sonuçları açıklandı. Vatikan, hastalığın sınırlı bir bölgede kaldığını ve yapılan değerlendirmede ek tedaviye gerek görülmediğini duyurdu.",
+      "long_summary": "Akciğer kanseri nedeniyle ameliyat edilen Papa 14. Leo&#039;nun nihai test sonuçları açıklandı. Vatikan, hastalığın sınırlı bir bölgede kaldığını ve yapılan değerlendirmede ek tedaviye gerek görülmediğini duyurdu.",
+      "long_summary_tr": "Akciğer kanseri nedeniyle ameliyat edilen Papa 14. Leo&#039;nun nihai test sonuçları açıklandı. Vatikan, hastalığın sınırlı bir bölgede kaldığını ve yapılan değerlendirmede ek tedaviye gerek görülmediğini duyurdu.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/gundem/iranin-denizdeki-petrolu-tukendi-135-milyon-varillik-stok-eridi-haberi-844812",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-iran-petrol-ana-gorsel-lrtb_cover.jpg",
-      "published_at": "2026-10-22T03:21:00+00:00"
+      "url": "https://www.dunya.com/dunya/papa-14-leonun-ameliyat-sonuclari-aciklandi-haberi-844868",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/ekran-goruntusu-2026-10-22-122618-g4jp_cover.jpg",
+      "published_at": "2026-10-22T09:24:00+00:00"
     },
     {
       "origin": "turkiye",
       "category": "Finans",
       "category_slug": "finans",
       "is_local": false,
-      "source": "Foreks",
-      "title": "Varlık fonlarının Çin yatırımları yüzde 190 arttı: Körfez ülkeleri başı çekiyor",
-      "title_tr": "Varlık fonlarının Çin yatırımları yüzde 190 arttı: Körfez ülkeleri başı çekiyor",
-      "summary": "Küresel ulusal varlık fonlarının Çin ana karası ve Hong Kong'a yönelik yatırımları, 2026 yılının ilk dokuz ayında yaklaşık yüzde 190 artarak 14,2 milyar dolara ulaştı. Önceki yıl yaşanan sert düşüşün ...",
-      "summary_tr": "Küresel ulusal varlık fonlarının Çin ana karası ve Hong Kong'a yönelik yatırımları, 2026 yılının ilk dokuz ayında yaklaşık yüzde 190 artarak 14,2 milyar dolara ulaştı. Önceki yıl yaşanan sert düşüşün ...",
-      "long_summary": "Küresel ulusal varlık fonlarının Çin ana karası ve Hong Kong'a yönelik yatırımları, 2026 yılının ilk dokuz ayında yaklaşık yüzde 190 artarak 14,2 milyar dolara ulaştı. Önceki yıl yaşanan sert düşüşün ...",
-      "long_summary_tr": "Küresel ulusal varlık fonlarının Çin ana karası ve Hong Kong'a yönelik yatırımları, 2026 yılının ilk dokuz ayında yaklaşık yüzde 190 artarak 14,2 milyar dolara ulaştı. Önceki yıl yaşanan sert düşüşün ...",
+      "source": "Investing TR",
+      "title": "Addtech güçlü talep ile üç aylık kârını artırdı",
+      "title_tr": "Addtech güçlü talep ile üç aylık kârını artırdı",
+      "summary": "Addtech güçlü talep ile üç aylık kârını artırdı",
+      "summary_tr": "Addtech güçlü talep ile üç aylık kârını artırdı",
+      "long_summary": "Addtech güçlü talep ile üç aylık kârını artırdı",
+      "long_summary_tr": "Addtech güçlü talep ile üç aylık kârını artırdı",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://www.foreks.com/haber/detay/6ad980a458b1b941c208ec18/PICNEWS/tr/varlik-fonlarinin-cin-yatirimlari-yuzde-190-artti-korfez-ulkeleri-basi-cekiyor-22-10-26/",
-      "image": "https://news-files.foreks.com/images/ae373129a8264194b7207b2c303687a5.jpeg",
-      "published_at": "2026-10-22T03:19:00+00:00"
+      "url": "https://tr.investing.com/news/stock-market-news/addtech-guclu-talep-ile-uc-aylk-karn-artrd-93CH-4114576",
+      "image": "https://content-media.investing.com/news/LYNXMPEDAF0IH_M.jpg",
+      "published_at": "2026-10-22T09:23:20+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
+      "category": "Gündem",
+      "category_slug": "gundem",
       "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Kanada ve Ontario eyaleti, ABD tarifelerine karşı 8,7 milyar dolarlık paket açıkladı",
-      "title_tr": "Kanada ve Ontario eyaleti, ABD tarifelerine karşı 8,7 milyar dolarlık paket açıkladı",
-      "summary": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar dolarlık yatırımları ve yeni önlemleri duyurdu.",
-      "summary_tr": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar dolarlık yatırımları ve yeni önlemleri duyurdu.",
-      "long_summary": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar dolarlık yatırımları ve yeni önlemleri duyurdu.",
-      "long_summary_tr": "Kanada Başbakanı Mark Carney ile Ontario eyaletinin Başbakanı Doug Ford, ABD tarifelerinin yarattığı ekonomik belirsizliğe karşı Ontario'daki stratejik sektörleri ve çalışanları desteklemek amacıyla toplam 8,7 milyar dolarlık yatırımları ve yeni önlemleri duyurdu.",
+      "source": "Habertürk",
+      "title": "Dünyayı alarma geçiren 'PHP2Shell' açığı nedir?",
+      "title_tr": "Dünyayı alarma geçiren 'PHP2Shell' açığı nedir?",
+      "summary": "PHP. Çoğunuz adını daha önce duymamış olabilirsiniz. Ancak dünya genelinde milyonlarca internet sitesinin arkasında yer alan bu programlama dili, bugün pek çok ülkede internet sitelerinin geçici olarak kapatılmasına neden oldu, ülkeleri alarma geçirdi. Dünya genelindeki internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde, yapay zeka desteğiyle iki kritik güvenlik açığı tespit edildi. FBI'dan yapılan uyarıda bu güvenlik açıklarının hassas verileri ve ağları tehlikeye atabileceği ifade edildi. Türkiye'de ise Siber Güvenlik Başkanlığı, kritik güvenlik açığına yönelik ulusal ölçekte uyarı yayımladı ve önleyici güvenlik çalışmalarını devreye aldı. Peki PHP'deki bu açık nedir ve bu durum neden kritik?",
+      "summary_tr": "PHP. Çoğunuz adını daha önce duymamış olabilirsiniz. Ancak dünya genelinde milyonlarca internet sitesinin arkasında yer alan bu programlama dili, bugün pek çok ülkede internet sitelerinin geçici olarak kapatılmasına neden oldu, ülkeleri alarma geçirdi. Dünya genelindeki internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde, yapay zeka desteğiyle iki kritik güvenlik açığı tespit edildi. FBI'dan yapılan uyarıda bu güvenlik açıklarının hassas verileri ve ağları tehlikeye atabileceği ifade edildi. Türkiye'de ise Siber Güvenlik Başkanlığı, kritik güvenlik açığına yönelik ulusal ölçekte uyarı yayımladı ve önleyici güvenlik çalışmalarını devreye aldı. Peki PHP'deki bu açık nedir ve bu durum neden kritik?",
+      "long_summary": "PHP. Çoğunuz adını daha önce duymamış olabilirsiniz. Ancak dünya genelinde milyonlarca internet sitesinin arkasında yer alan bu programlama dili, bugün pek çok ülkede internet sitelerinin geçici olarak kapatılmasına neden oldu, ülkeleri alarma geçirdi. Dünya genelindeki internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde, yapay zeka desteğiyle iki kritik güvenlik açığı tespit edildi. FBI'dan yapılan uyarıda bu güvenlik açıklarının hassas verileri ve ağları tehlikeye",
+      "long_summary_tr": "PHP. Çoğunuz adını daha önce duymamış olabilirsiniz. Ancak dünya genelinde milyonlarca internet sitesinin arkasında yer alan bu programlama dili, bugün pek çok ülkede internet sitelerinin geçici olarak kapatılmasına neden oldu, ülkeleri alarma geçirdi. Dünya genelindeki internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde, yapay zeka desteğiyle iki kritik güvenlik açığı tespit edildi. FBI'dan yapılan uyarıda bu güvenlik açıklarının hassas verileri ve ağları tehlikeye",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Resmî kurumları ve politikaları ilgilendirmesi"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Resmî kurumların yeni adımlar atması beklenebilir"
       ],
-      "url": "https://www.bloomberght.com/kanada-ve-ontario-eyaleti-abd-tarifelerine-karsi-8-7-milyar-dolarlik-paket-acikladi-3792156",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792639082/3792156/jpg/1280x720",
-      "published_at": "2026-10-22T03:17:13+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "İngiltere'de bütçe hazırlığı: Şirketlerin maliyetleri ve düzenleyici yükleri azaltılacak",
-      "title_tr": "İngiltere'de bütçe hazırlığı: Şirketlerin maliyetleri ve düzenleyici yükleri azaltılacak",
-      "summary": "İngiltere'de bütçe hazırlığı: Şirketlerin maliyetleri ve düzenleyici yükleri azaltılacakİngiltere Maliye Bakanı John Healey, 28 Ekim'de açıklayacağı ilk bütçesinde işletmelerin maliyetlerini düşürmey...",
-      "summary_tr": "İngiltere'de bütçe hazırlığı: Şirketlerin maliyetleri ve düzenleyici yükleri azaltılacakİngiltere Maliye Bakanı John Healey, 28 Ekim'de açıklayacağı ilk bütçesinde işletmelerin maliyetlerini düşürmey...",
-      "long_summary": "İngiltere'de bütçe hazırlığı: Şirketlerin maliyetleri ve düzenleyici yükleri azaltılacakİngiltere Maliye Bakanı John Healey, 28 Ekim'de açıklayacağı ilk bütçesinde işletmelerin maliyetlerini düşürmey...",
-      "long_summary_tr": "İngiltere'de bütçe hazırlığı: Şirketlerin maliyetleri ve düzenleyici yükleri azaltılacakİngiltere Maliye Bakanı John Healey, 28 Ekim'de açıklayacağı ilk bütçesinde işletmelerin maliyetlerini düşürmey...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad97fb4422c786f3f7a783a/PICNEWS/tr/ingiltere-de-butce-hazirligi-sirketlerin-maliyetleri-ve-duzenleyici-yukleri-azaltilacak-22-10-26/",
-      "image": "https://news-files.foreks.com/images/7dadcde2642c46838d1ddc9a4de2d8ca.jpeg",
-      "published_at": "2026-10-22T03:15:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi, TBMM Genel Kurulu'nda",
-      "title_tr": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi, TBMM Genel Kurulu'nda",
-      "summary": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
-      "summary_tr": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
-      "long_summary": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
-      "long_summary_tr": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulu-3792155",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792638921/3792155/jpg/1280x720",
-      "published_at": "2026-10-22T03:14:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Bloomberg HT",
-      "title": "Ekonomi ve siyaset gündemi- 22 Ekim 2026",
-      "title_tr": "Ekonomi ve siyaset gündemi- 22 Ekim 2026",
-      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "long_summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "long_summary_tr": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-22-ekim-2026-3792154",
-      "image": "https://geoim.bloomberght.com/l/2026/10/22/ver1792638702/3792154/jpg/1280x720",
-      "published_at": "2026-10-22T03:10:34+00:00"
+      "url": "https://www.haberturk.com/ekonomi/dunyayi-alarma-geciren-php2shell-acigi-nedir-ve-ne-kadar-kritik-3921654",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792658619/3921654/jpg/1920x1080",
+      "published_at": "2026-10-22T09:23:07+00:00"
     },
     {
       "origin": "turkiye",
@@ -689,21 +997,65 @@
       "category_slug": "ekonomi",
       "is_local": false,
       "source": "Dünya Gazetesi",
-      "title": "Altında 4.100 dolar alarmı: Uzmanlar düşüş riskine dikkat çekti",
-      "title_tr": "Altında 4.100 dolar alarmı: Uzmanlar düşüş riskine dikkat çekti",
-      "summary": "Altın fiyatları 4.100 dolar sınırına yaklaşırken piyasada satış baskısı yeniden öne çıktı. Orta Doğu&#039;daki gerilime rağmen yükselişe geçemeyen altın için uzmanların uyardığı seviyeler ve Fed&#039;in faiz takvimi dikkat çekiyor.",
-      "summary_tr": "Altın fiyatları 4.100 dolar sınırına yaklaşırken piyasada satış baskısı yeniden öne çıktı. Orta Doğu&#039;daki gerilime rağmen yükselişe geçemeyen altın için uzmanların uyardığı seviyeler ve Fed&#039;in faiz takvimi dikkat çekiyor.",
-      "long_summary": "Altın fiyatları 4.100 dolar sınırına yaklaşırken piyasada satış baskısı yeniden öne çıktı. Orta Doğu&#039;daki gerilime rağmen yükselişe geçemeyen altın için uzmanların uyardığı seviyeler ve Fed&#039;in faiz takvimi dikkat çekiyor.",
-      "long_summary_tr": "Altın fiyatları 4.100 dolar sınırına yaklaşırken piyasada satış baskısı yeniden öne çıktı. Orta Doğu&#039;daki gerilime rağmen yükselişe geçemeyen altın için uzmanların uyardığı seviyeler ve Fed&#039;in faiz takvimi dikkat çekiyor.",
+      "title": "Nestle, Rusya'da kontrolü kaybetti",
+      "title_tr": "Nestle, Rusya'da kontrolü kaybetti",
+      "summary": "Rusya&#039;nın geçen ay yönetimine el koyduğu Nestle, ülkedeki faaliyetlerini mali tablolarından çıkardı. Şirket, 1,6 milyar İsviçre frangı tutarında net varlığı kayıtlardan silerken 1,4 milyar franklık muhasebe gideri açıkladı. Satışlarda ise beklentileri aştı.",
+      "summary_tr": "Rusya&#039;nın geçen ay yönetimine el koyduğu Nestle, ülkedeki faaliyetlerini mali tablolarından çıkardı. Şirket, 1,6 milyar İsviçre frangı tutarında net varlığı kayıtlardan silerken 1,4 milyar franklık muhasebe gideri açıkladı. Satışlarda ise beklentileri aştı.",
+      "long_summary": "Rusya&#039;nın geçen ay yönetimine el koyduğu Nestle, ülkedeki faaliyetlerini mali tablolarından çıkardı. Şirket, 1,6 milyar İsviçre frangı tutarında net varlığı kayıtlardan silerken 1,4 milyar franklık muhasebe gideri açıkladı. Satışlarda ise beklentileri aştı.",
+      "long_summary_tr": "Rusya&#039;nın geçen ay yönetimine el koyduğu Nestle, ülkedeki faaliyetlerini mali tablolarından çıkardı. Şirket, 1,6 milyar İsviçre frangı tutarında net varlığı kayıtlardan silerken 1,4 milyar franklık muhasebe gideri açıkladı. Satışlarda ise beklentileri aştı.",
       "why_important": [
         "Makro ekonomik dengeler açısından önem taşıması"
       ],
       "possible_impacts": [
         "Ekonomik beklentiler yeniden şekillenebilir"
       ],
-      "url": "https://www.dunya.com/foto-galeri/ekonomi/altinda-4100-dolar-alarmi-uzmanlar-dusus-riskine-dikkat-cekti-galeri-844811",
-      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-ana-gorsel-altin-kasasi-y8xr_cover.jpg",
-      "published_at": "2026-10-22T03:03:00+00:00"
+      "url": "https://www.dunya.com/ekonomi/nestle-rusyada-kontrolu-kaybetti-haberi-844867",
+      "image": "https://image.dunya.com/rcman/Cw1280h720q95gc/storage/files/images/2026/10/22/01-ana-gorsel-nestle-rusyada-kontro-dwns_cover.jpg",
+      "published_at": "2026-10-22T09:21:00+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "Siber Güvenlik Başkanlığı: Kamu dijital hizmetleri kesintisiz devam ediyor",
+      "title_tr": "Siber Güvenlik Başkanlığı: Kamu dijital hizmetleri kesintisiz devam ediyor",
+      "summary": "Siber Güvenlik Başkanlığı'ndan yapılan açıklamada \"E-devlet kapısı başta olmak üzere kamu dijital hizmetleri kesintisiz şekilde sunulmaya devam ediyor\" denildi. Açıklamada ayrıca Sistemler 7 gün 24 saat izlenirken düzenli güvenlik testleri ve kontrollerle olası riskler takip ediliyor\" denildi",
+      "summary_tr": "Siber Güvenlik Başkanlığı'ndan yapılan açıklamada \"E-devlet kapısı başta olmak üzere kamu dijital hizmetleri kesintisiz şekilde sunulmaya devam ediyor\" denildi. Açıklamada ayrıca Sistemler 7 gün 24 saat izlenirken düzenli güvenlik testleri ve kontrollerle olası riskler takip ediliyor\" denildi",
+      "long_summary": "Siber Güvenlik Başkanlığı'ndan yapılan açıklamada \"E-devlet kapısı başta olmak üzere kamu dijital hizmetleri kesintisiz şekilde sunulmaya devam ediyor\" denildi. Açıklamada ayrıca Sistemler 7 gün 24 saat izlenirken düzenli güvenlik testleri ve kontrollerle olası riskler takip ediliyor\" denildi",
+      "long_summary_tr": "Siber Güvenlik Başkanlığı'ndan yapılan açıklamada \"E-devlet kapısı başta olmak üzere kamu dijital hizmetleri kesintisiz şekilde sunulmaya devam ediyor\" denildi. Açıklamada ayrıca Sistemler 7 gün 24 saat izlenirken düzenli güvenlik testleri ve kontrollerle olası riskler takip ediliyor\" denildi",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/ekonomi/son-dakika-siber-guvenlik-baskanligi-kamu-dijital-hizmetleri-kesintisiz-devam-ediyor-3921665",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792660439/3921665/jpg/1920x1080",
+      "published_at": "2026-10-22T09:20:03+00:00"
+    },
+    {
+      "origin": "turkiye",
+      "category": "Gündem",
+      "category_slug": "gundem",
+      "is_local": false,
+      "source": "Habertürk",
+      "title": "\"Libya mutabakatı hukuken geçerlidir\"",
+      "title_tr": "\"Libya mutabakatı hukuken geçerlidir\"",
+      "summary": "Milli Savunma Bakanlığı (MSB), Libya Temsilciler Meclisi'nin Deniz Yetki Alanları Mutabakatı'nı onaylamasını memnuniyetle karşıladıklarını belirterek, AB ve Yunanistan'ın tepkilerine \"Üçüncü tarafların değerlendirmeleri mutabakatın hukuki geçerliliğini ortadan kaldıramaz\" yanıtını verdi. Bakanlık ayrıca Katar'dan Eurofighter uçağı tedariki ve TSK bünyesinde yeni kurulan komutanlığa ilişkin detayları paylaştı",
+      "summary_tr": "Milli Savunma Bakanlığı (MSB), Libya Temsilciler Meclisi'nin Deniz Yetki Alanları Mutabakatı'nı onaylamasını memnuniyetle karşıladıklarını belirterek, AB ve Yunanistan'ın tepkilerine \"Üçüncü tarafların değerlendirmeleri mutabakatın hukuki geçerliliğini ortadan kaldıramaz\" yanıtını verdi. Bakanlık ayrıca Katar'dan Eurofighter uçağı tedariki ve TSK bünyesinde yeni kurulan komutanlığa ilişkin detayları paylaştı",
+      "long_summary": "Milli Savunma Bakanlığı (MSB), Libya Temsilciler Meclisi'nin Deniz Yetki Alanları Mutabakatı'nı onaylamasını memnuniyetle karşıladıklarını belirterek, AB ve Yunanistan'ın tepkilerine \"Üçüncü tarafların değerlendirmeleri mutabakatın hukuki geçerliliğini ortadan kaldıramaz\" yanıtını verdi. Bakanlık ayrıca Katar'dan Eurofighter uçağı tedariki ve TSK bünyesinde yeni kurulan komutanlığa ilişkin detayları paylaştı",
+      "long_summary_tr": "Milli Savunma Bakanlığı (MSB), Libya Temsilciler Meclisi'nin Deniz Yetki Alanları Mutabakatı'nı onaylamasını memnuniyetle karşıladıklarını belirterek, AB ve Yunanistan'ın tepkilerine \"Üçüncü tarafların değerlendirmeleri mutabakatın hukuki geçerliliğini ortadan kaldıramaz\" yanıtını verdi. Bakanlık ayrıca Katar'dan Eurofighter uçağı tedariki ve TSK bünyesinde yeni kurulan komutanlığa ilişkin detayları paylaştı",
+      "why_important": [
+        "Resmî kurumları ve politikaları ilgilendirmesi"
+      ],
+      "possible_impacts": [
+        "Resmî kurumların yeni adımlar atması beklenebilir"
+      ],
+      "url": "https://www.haberturk.com/gundem/son-dakika-msb-den-katar-dan-eurofighter-tedarikine-iliskin-aciklama-3921671",
+      "image": "https://im.haberturk.com/l/2026/10/22/ver1792660605/3921671/jpg/1920x1080",
+      "published_at": "2026-10-22T09:20:01+00:00"
     },
     {
       "origin": "turkiye",
@@ -711,395 +1063,43 @@
       "category_slug": "finans",
       "is_local": false,
       "source": "Investing TR",
-      "title": "Deepseek, Tencent ve CATL destekli turda 15 milyar dolar topladı",
-      "title_tr": "Deepseek, Tencent ve CATL destekli turda 15 milyar dolar topladı",
-      "summary": "Deepseek, Tencent ve CATL destekli turda 15 milyar dolar topladı",
-      "summary_tr": "Deepseek, Tencent ve CATL destekli turda 15 milyar dolar topladı",
-      "long_summary": "Deepseek, Tencent ve CATL destekli turda 15 milyar dolar topladı",
-      "long_summary_tr": "Deepseek, Tencent ve CATL destekli turda 15 milyar dolar topladı",
+      "title": "Telia güçlü üçüncü çeyrek sonrası 2026 rehberini yükseltti",
+      "title_tr": "Telia güçlü üçüncü çeyrek sonrası 2026 rehberini yükseltti",
+      "summary": "Telia güçlü üçüncü çeyrek sonrası 2026 rehberini yükseltti",
+      "summary_tr": "Telia güçlü üçüncü çeyrek sonrası 2026 rehberini yükseltti",
+      "long_summary": "Telia güçlü üçüncü çeyrek sonrası 2026 rehberini yükseltti",
+      "long_summary_tr": "Telia güçlü üçüncü çeyrek sonrası 2026 rehberini yükseltti",
       "why_important": [
         "Finansal piyasalar üzerinde etkili olması"
       ],
       "possible_impacts": [
         "Finansal piyasalarda volatilite artabilir"
       ],
-      "url": "https://tr.investing.com/news/stock-market-news/deepseek-tencent-ve-catl-destekli-turda-15-milyar-dolar-toplad-4114102",
-      "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg",
-      "published_at": "2026-10-22T02:57:09+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "+%48, +%39, +%22: Yapay zekamız bu blue-chip hisselerini önceden tespit etti",
-      "title_tr": "+%48, +%39, +%22: Yapay zekamız bu blue-chip hisselerini önceden tespit etti",
-      "summary": "+%48, +%39, +%22: Yapay zekamız bu blue-chip hisselerini önceden tespit etti",
-      "summary_tr": "+%48, +%39, +%22: Yapay zekamız bu blue-chip hisselerini önceden tespit etti",
-      "long_summary": "+%48, +%39, +%22: Yapay zekamız bu blue-chip hisselerini önceden tespit etti",
-      "long_summary_tr": "+%48, +%39, +%22: Yapay zekamız bu blue-chip hisselerini önceden tespit etti",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/48-39-22-yapay-zekamz-bu-mavi-cip-hisseleri-isaretledi-4114095",
-      "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg",
-      "published_at": "2026-10-22T02:42:34+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Unitree Robotics hissesi bugün neden yükseliyor?",
-      "title_tr": "Unitree Robotics hissesi bugün neden yükseliyor?",
-      "summary": "Unitree Robotics hissesi bugün neden yükseliyor?",
-      "summary_tr": "Unitree Robotics hissesi bugün neden yükseliyor?",
-      "long_summary": "Unitree Robotics hissesi bugün neden yükseliyor?",
-      "long_summary_tr": "Unitree Robotics hissesi bugün neden yükseliyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/unitree-robotics-hissesi-bugun-neden-yukseliyor-93CH-4114094",
+      "url": "https://tr.investing.com/news/stock-market-news/telia-guclu-ucuncu-ceyrek-sonras-2026-rehberini-yukseltti-93CH-4114560",
       "image": "https://content-media.investing.com/news/LYNXNPEC0E0NG_M.jpg",
-      "published_at": "2026-10-22T02:41:07+00:00"
+      "published_at": "2026-10-22T09:17:37+00:00"
     },
     {
       "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "IBM bilançosu açıklandı; Gelir ve karı beklentileri aştı, nakit akışı tahmini yükseltildi",
-      "title_tr": "IBM bilançosu açıklandı; Gelir ve karı beklentileri aştı, nakit akışı tahmini yükseltildi",
-      "summary": "ABD'li teknoloji şirketi IBM, 2026 yılının üçüncü çeyreğinde gelirini yüzde 5 artırarak 17,1 milyar dolara yükseltti ve piyasa beklentilerini aştı. Şirket, yazılım ve altyapı faaliyetlerindeki büyümen...",
-      "summary_tr": "ABD'li teknoloji şirketi IBM, 2026 yılının üçüncü çeyreğinde gelirini yüzde 5 artırarak 17,1 milyar dolara yükseltti ve piyasa beklentilerini aştı. Şirket, yazılım ve altyapı faaliyetlerindeki büyümen...",
-      "long_summary": "ABD'li teknoloji şirketi IBM, 2026 yılının üçüncü çeyreğinde gelirini yüzde 5 artırarak 17,1 milyar dolara yükseltti ve piyasa beklentilerini aştı. Şirket, yazılım ve altyapı faaliyetlerindeki büyümen...",
-      "long_summary_tr": "ABD'li teknoloji şirketi IBM, 2026 yılının üçüncü çeyreğinde gelirini yüzde 5 artırarak 17,1 milyar dolara yükseltti ve piyasa beklentilerini aştı. Şirket, yazılım ve altyapı faaliyetlerindeki büyümen...",
+      "category": "Yerel",
+      "category_slug": "yerel",
+      "is_local": true,
+      "source": "Bursa Hakimiyet",
+      "title": "Bursa'da ilkokul mezunlarına iş fırsatı! Gemlik ve Orhangazi'ye servis var...",
+      "title_tr": "Bursa'da ilkokul mezunlarına iş fırsatı! Gemlik ve Orhangazi'ye servis var...",
+      "summary": "Bursa'nın Gemlik ilçesinde düzenlenen İstihdam Buluşmaları kapsamında Sofra Grup firması, yemekhane personeli ve aşçı yardımcısı alımı gerçekleştirecek. Kadın ve erkek adayların katılabileceği personel görüşmeleri, 22 Ekim 2026 Perşembe günü saat 10.00-13.00 arasında Cemil Meriç Kültür Merkezi'nde yapılacak.Bursa'nın Gemlik ilçesinde iş arayan vatandaşları ilgilendiren yeni bir istihdam duyurusu yapıldı.\n\nGemlik Belediyesi ve İŞKUR iş birliğiyle düzenlenen Gemlik İstihdam Buluşmaları kapsamında Sofra Grup firması, farklı pozisyonlarda çalıştırılmak üzere personel alımı gerçekleştirecek.\n\nYayımlanan duyuruya göre, firma bünyesinde yemekhane personeli ve aşçı yardımcısı pozisyonları için adaylarla görüşmeler yapılacak.\n\nBURSA GEMLİK'TE SOFRA GRUP PERSONEL ALIMI YAPACAK\n\nGemlik İstihdam Buluşmaları kapsamında Sofra Grup firmasında çalışmak isteyen adaylar için personel görüşmeleri düzenlenecek.\n\nFirma tarafından yemekhane personeli ve aşçı yardımcısı pozisyonlarında görevlendirilmek üzere çalışan alımı yapılacak.\n\nİstihdam buluşmasına hem kadın hem de erkek adaylar katılabilecek.\n\n\n\nSOFRA GRUP PERSONEL ALIMI BAŞVURU ŞARTLARI NELER?\n\nBursa Gemlik'te gerçekleştirilecek personel görüşmeleri için aranan şartlar açıklandı.\n\nYayımlanan duyuruya göre, adayların en az ilkokul mezunu olması ve üç vardiya sisteminde çalışabilmesi gerekiyor.\n\nPersonel alımında kadın ve erkek adaylar değerlendirilecek.\n\nAyrıca firma tarafından Gemlik ve Orhangazi ilçeleri için servis imkânı sunulacağı belirtildi.\n\nGEMLİK İSTİHDAM BULUŞMALARI 22 EKİM'DE DÜZENLENECEK\n\nSofra Grup firmasının personel görüşmeleri, 22 Ekim 2026 Perşembe günü gerçekleştirilecek.\n\nİş arayan adaylar, saat 10.00 ile 13.00 arasında Gemlik'teki Cemil Meriç Kültür Merkezi'nde düzenlenecek istihdam buluşmasına katılabilecek.\n\nGörüşmelerde yemekhane personeli ve aşçı yardımcısı pozisyonları için adaylar değerlendirilecek.\n\n\n\nBURSA'DA İŞ ARAYANLAR İÇİN GEMLİK VE ORHANGAZİ SERVİSİ\n\nGemlik İstihdam Buluşmaları kapsamında yayımlanan duyuruda, Sofra Grup firmasının Gemlik ve Orhangazi ilçelerinde servis hizmeti sunduğu bilgisi de yer aldı.\n\nÜç vardiya sisteminde çalışabilecek, en az ilkokul mezunu kadın ve erkek adaylar, belirtilen tarih ve saatlerde Cemil Meriç Kültür Merkezi'ndeki personel görüşmelerine katılabilecek.",
+      "summary_tr": "Bursa'nın Gemlik ilçesinde düzenlenen İstihdam Buluşmaları kapsamında Sofra Grup firması, yemekhane personeli ve aşçı yardımcısı alımı gerçekleştirecek. Kadın ve erkek adayların katılabileceği personel görüşmeleri, 22 Ekim 2026 Perşembe günü saat 10.00-13.00 arasında Cemil Meriç Kültür Merkezi'nde yapılacak.Bursa'nın Gemlik ilçesinde iş arayan vatandaşları ilgilendiren yeni bir istihdam duyurusu yapıldı.\n\nGemlik Belediyesi ve İŞKUR iş birliğiyle düzenlenen Gemlik İstihdam Buluşmaları kapsamında Sofra Grup firması, farklı pozisyonlarda çalıştırılmak üzere personel alımı gerçekleştirecek.\n\nYayımlanan duyuruya göre, firma bünyesinde yemekhane personeli ve aşçı yardımcısı pozisyonları için adaylarla görüşmeler yapılacak.\n\nBURSA GEMLİK'TE SOFRA GRUP PERSONEL ALIMI YAPACAK\n\nGemlik İstihdam Buluşmaları kapsamında Sofra Grup firmasında çalışmak isteyen adaylar için personel görüşmeleri düzenlenecek.\n\nFirma tarafından yemekhane personeli ve aşçı yardımcısı pozisyonlarında görevlendirilmek üzere çalışan alımı yapılacak.\n\nİstihdam buluşmasına hem kadın hem de erkek adaylar katılabilecek.\n\n\n\nSOFRA GRUP PERSONEL ALIMI BAŞVURU ŞARTLARI NELER?\n\nBursa Gemlik'te gerçekleştirilecek personel görüşmeleri için aranan şartlar açıklandı.\n\nYayımlanan duyuruya göre, adayların en az ilkokul mezunu olması ve üç vardiya sisteminde çalışabilmesi gerekiyor.\n\nPersonel alımında kadın ve erkek adaylar değerlendirilecek.\n\nAyrıca firma tarafından Gemlik ve Orhangazi ilçeleri için servis imkânı sunulacağı belirtildi.\n\nGEMLİK İSTİHDAM BULUŞMALARI 22 EKİM'DE DÜZENLENECEK\n\nSofra Grup firmasının personel görüşmeleri, 22 Ekim 2026 Perşembe günü gerçekleştirilecek.\n\nİş arayan adaylar, saat 10.00 ile 13.00 arasında Gemlik'teki Cemil Meriç Kültür Merkezi'nde düzenlenecek istihdam buluşmasına katılabilecek.\n\nGörüşmelerde yemekhane personeli ve aşçı yardımcısı pozisyonları için adaylar değerlendirilecek.\n\n\n\nBURSA'DA İŞ ARAYANLAR İÇİN GEMLİK VE ORHANGAZİ SERVİSİ\n\nGemlik İstihdam Buluşmaları kapsamında yayımlanan duyuruda, Sofra Grup firmasının Gemlik ve Orhangazi ilçelerinde servis hizmeti sunduğu bilgisi de yer aldı.\n\nÜç vardiya sisteminde çalışabilecek, en az ilkokul mezunu kadın ve erkek adaylar, belirtilen tarih ve saatlerde Cemil Meriç Kültür Merkezi'ndeki personel görüşmelerine katılabilecek.",
+      "long_summary": "Bursa'nın Gemlik ilçesinde düzenlenen İstihdam Buluşmaları kapsamında Sofra Grup firması, yemekhane personeli ve aşçı yardımcısı alımı gerçekleştirecek. Kadın ve erkek adayların katılabileceği personel görüşmeleri, 22 Ekim 2026 Perşembe günü saat 10.00-13.00 arasında Cemil Meriç Kültür Merkezi'nde yapılacak.Bursa'nın Gemlik ilçesinde iş arayan vatandaşları ilgilendiren yeni bir istihdam duyurusu yapıldı.\n\nGemlik Belediyesi ve İŞKUR iş birliğiyle düzenlenen Gemlik İstihdam Buluşmaları kapsamında",
+      "long_summary_tr": "Bursa'nın Gemlik ilçesinde düzenlenen İstihdam Buluşmaları kapsamında Sofra Grup firması, yemekhane personeli ve aşçı yardımcısı alımı gerçekleştirecek. Kadın ve erkek adayların katılabileceği personel görüşmeleri, 22 Ekim 2026 Perşembe günü saat 10.00-13.00 arasında Cemil Meriç Kültür Merkezi'nde yapılacak.Bursa'nın Gemlik ilçesinde iş arayan vatandaşları ilgilendiren yeni bir istihdam duyurusu yapıldı.\n\nGemlik Belediyesi ve İŞKUR iş birliğiyle düzenlenen Gemlik İstihdam Buluşmaları kapsamında",
       "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
+        "Bölge halkının günlük yaşamını etkilemesi"
       ],
       "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
+        "Yerel yönetimlerde karar süreçleri etkilenebilir"
       ],
-      "url": "https://www.foreks.com/haber/detay/6ad970be58b1b941c208ebdb/PICNEWS/tr/ibm-bilancosu-aciklandi-gelir-ve-kari-beklentileri-asti-nakit-akisi-tahmini-yukseltildi-22-10-26/",
-      "image": "https://news-files.foreks.com/images/133a004a4da24f79bc4ee2b844dbcb1e.jpeg",
-      "published_at": "2026-10-22T02:11:10+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Euro Bölgesi'nde borçlar 14,4 trilyon euroya ulaştı",
-      "title_tr": "Euro Bölgesi'nde borçlar 14,4 trilyon euroya ulaştı",
-      "summary": "Euro Bölgesi'nde kamu borcunun gayrisafi yurt içi hasılaya (GSYH) oranı, 2026 yılının ikinci çeyreğinde yüzde 88,8'e yükseldi. İtalya, borç oranında Yunanistan'a yaklaşırken, Fransa'nın kamu borcu yüz...",
-      "summary_tr": "Euro Bölgesi'nde kamu borcunun gayrisafi yurt içi hasılaya (GSYH) oranı, 2026 yılının ikinci çeyreğinde yüzde 88,8'e yükseldi. İtalya, borç oranında Yunanistan'a yaklaşırken, Fransa'nın kamu borcu yüz...",
-      "long_summary": "Euro Bölgesi'nde kamu borcunun gayrisafi yurt içi hasılaya (GSYH) oranı, 2026 yılının ikinci çeyreğinde yüzde 88,8'e yükseldi. İtalya, borç oranında Yunanistan'a yaklaşırken, Fransa'nın kamu borcu yüz...",
-      "long_summary_tr": "Euro Bölgesi'nde kamu borcunun gayrisafi yurt içi hasılaya (GSYH) oranı, 2026 yılının ikinci çeyreğinde yüzde 88,8'e yükseldi. İtalya, borç oranında Yunanistan'a yaklaşırken, Fransa'nın kamu borcu yüz...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad96fad422c786f3f7a77f5/PICNEWS/tr/euro-bolgesi-nde-borclar-14-4-trilyon-euroya-ulasti-22-10-26/",
-      "image": "https://news-files.foreks.com/images/d963d651986a41da89109a4ff8489fbd.jpeg",
-      "published_at": "2026-10-22T02:06:37+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "Euro Bölgesi'nde bütçe açığı yükseldi",
-      "title_tr": "Euro Bölgesi'nde bütçe açığı yükseldi",
-      "summary": "Mevsimsellikten arındırılmış verilere göre, Euro Bölgesi'nde kamu bütçe açığının GSYH'ye oranı ikinci çeyrekte yüzde 3,2'den yüzde 3,3'e yükseldi.",
-      "summary_tr": "Mevsimsellikten arındırılmış verilere göre, Euro Bölgesi'nde kamu bütçe açığının GSYH'ye oranı ikinci çeyrekte yüzde 3,2'den yüzde 3,3'e yükseldi.",
-      "long_summary": "Mevsimsellikten arındırılmış verilere göre, Euro Bölgesi'nde kamu bütçe açığının GSYH'ye oranı ikinci çeyrekte yüzde 3,2'den yüzde 3,3'e yükseldi.",
-      "long_summary_tr": "Mevsimsellikten arındırılmış verilere göre, Euro Bölgesi'nde kamu bütçe açığının GSYH'ye oranı ikinci çeyrekte yüzde 3,2'den yüzde 3,3'e yükseldi.",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad96f6958b1b941c208ebcf/PICNEWS/tr/euro-bolgesi-nde-butce-acigi-yukseldi-22-10-26/",
-      "image": "https://news-files.foreks.com/images/124ceb0e7a734735b4c42191e17cc9cc.jpeg",
-      "published_at": "2026-10-22T02:05:29+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Foreks",
-      "title": "TEFAS'ta satış talimatı gerçekleşmeyen fon yatırımcıları da tasfiye kapsamına alındı",
-      "title_tr": "TEFAS'ta satış talimatı gerçekleşmeyen fon yatırımcıları da tasfiye kapsamına alındı",
-      "summary": "TBMM Genel Kurulu'nda, tasfiyesine karar verilen yatırım fonlarına ilişkin kanun teklifinin ilk 5 maddesi kabul edildi. Anadolu Ajansının (AA) haberine göre, Genel Kurulda kabul edilen önergeyle, Tür...",
-      "summary_tr": "TBMM Genel Kurulu'nda, tasfiyesine karar verilen yatırım fonlarına ilişkin kanun teklifinin ilk 5 maddesi kabul edildi. Anadolu Ajansının (AA) haberine göre, Genel Kurulda kabul edilen önergeyle, Tür...",
-      "long_summary": "TBMM Genel Kurulu'nda, tasfiyesine karar verilen yatırım fonlarına ilişkin kanun teklifinin ilk 5 maddesi kabul edildi. Anadolu Ajansının (AA) haberine göre, Genel Kurulda kabul edilen önergeyle, Tür...",
-      "long_summary_tr": "TBMM Genel Kurulu'nda, tasfiyesine karar verilen yatırım fonlarına ilişkin kanun teklifinin ilk 5 maddesi kabul edildi. Anadolu Ajansının (AA) haberine göre, Genel Kurulda kabul edilen önergeyle, Tür...",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://www.foreks.com/haber/detay/6ad96de058b1b941c208ebc4/PICNEWS/tr/tefas-ta-satis-talimati-gerceklesmeyen-fon-yatirimcilari-da-tasfiye-kapsamina-alindi-22-10-26/",
-      "image": "https://news-files.foreks.com/images/5c34fe14d4d1471db607c992ef744b5d.jpeg",
-      "published_at": "2026-10-22T01:58:56+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Microsoft'tan siber saldırı açıklaması",
-      "title_tr": "Microsoft'tan siber saldırı açıklaması",
-      "summary": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi",
-      "summary_tr": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi",
-      "long_summary": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi",
-      "long_summary_tr": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/dunya/microsoft-tan-siber-saldiri-aciklamasi-3921580",
-      "image": "https://im.haberturk.com/l/2026/10/22/ver1792633973/3921580/jpg/1920x1080",
-      "published_at": "2026-10-22T01:57:51+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "ABD hisse senedi vadeli işlemleri Tesla ve Meta kazançlarıyla düştü",
-      "title_tr": "ABD hisse senedi vadeli işlemleri Tesla ve Meta kazançlarıyla düştü",
-      "summary": "ABD hisse senedi vadeli işlemleri Tesla ve Meta kazançlarıyla düştü",
-      "summary_tr": "ABD hisse senedi vadeli işlemleri Tesla ve Meta kazançlarıyla düştü",
-      "long_summary": "ABD hisse senedi vadeli işlemleri Tesla ve Meta kazançlarıyla düştü",
-      "long_summary_tr": "ABD hisse senedi vadeli işlemleri Tesla ve Meta kazançlarıyla düştü",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-tesla-ve-meta-kazanclaryla-dustu-4114075",
-      "image": "https://content-media.investing.com/news/LYNXMPEM5L113_1200_L.jpg",
-      "published_at": "2026-10-22T01:10:50+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "Tesla hissesi bugün mesai sonrasında neden düşüyor?",
-      "title_tr": "Tesla hissesi bugün mesai sonrasında neden düşüyor?",
-      "summary": "Tesla hissesi bugün mesai sonrasında neden düşüyor?",
-      "summary_tr": "Tesla hissesi bugün mesai sonrasında neden düşüyor?",
-      "long_summary": "Tesla hissesi bugün mesai sonrasında neden düşüyor?",
-      "long_summary_tr": "Tesla hissesi bugün mesai sonrasında neden düşüyor?",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/tesla-hissesi-bugun-mesai-sonrasnda-neden-dusuyor-93CH-4114070",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM3818H_L.jpg",
-      "published_at": "2026-10-22T00:52:10+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
-      "title_tr": "Dragon Ball Xenoverse 3 Narrows Release Window Following Player Feedback",
-      "summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month window into a six-month one, saying that it'll be out in the second half of 2027.",
-      "summary_tr": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month window into a six-month one, saying that it'll be out in the second half of 2027.",
-      "long_summary": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month window into a six-month one, saying that it'll be out in the second half of 2027.",
-      "long_summary_tr": "Bandai Namco announced a narrower release window for the upcoming multiplayer-enabled brawler Dragon Ball Xenoverse 3, although it's not too much more specific. Previously, the publisher had stated that the sequel to 2016 fan-favorite would arrive in 2027. Now, it's turned that from a 12-month window into a six-month one, saying that it'll be out in the second half of 2027.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/dragon-ball-xenoverse-3-narrows-release-window-following-player-feedback",
-      "image": "https://assets-prd.ignimgs.com/2026/10/22/dbz-1792630322966.jpg",
-      "published_at": "2026-10-22T00:41:48+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Polise ateş açtı, bacağından vurularak yakalandı",
-      "title_tr": "Polise ateş açtı, bacağından vurularak yakalandı",
-      "summary": "İstanbul Zeytinburnu'nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltına alındı",
-      "summary_tr": "İstanbul Zeytinburnu'nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltına alındı",
-      "long_summary": "İstanbul Zeytinburnu'nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltına alındı",
-      "long_summary_tr": "İstanbul Zeytinburnu'nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltına alındı",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/gundem/zeytinburnu-nda-polise-ates-acan-supheli-vurularak-yakalandi-3921579",
-      "image": "https://im.haberturk.com/l/2026/10/22/ver1792628941/3921579/jpg/1920x1080",
-      "published_at": "2026-10-22T00:29:34+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-      "title_tr": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-      "summary": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-      "summary_tr": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-      "long_summary": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-      "long_summary_tr": "Brandon Sanderson Wants to Know Who Really Wrote the Mr. Beast Book",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/brandon-sanderson-wants-to-know-who-really-wrote-the-mr-beast-book",
-      "image": "https://assets-prd.ignimgs.com/2026/10/22/mr-beast-book-1792627565871.png",
-      "published_at": "2026-10-22T00:14:50+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-      "title_tr": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-      "summary": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-      "summary_tr": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-      "long_summary": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-      "long_summary_tr": "WSL latest: Five-star Man Utd beat Liverpool in Subway Players Cup",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest",
-      "image": "https://e1.365dm.com/25/09/1920x1080/skysports-wsl-womens-super-league_7010956.jpg?20250904114315",
-      "published_at": "2026-10-21T23:50:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Gündem",
-      "category_slug": "gundem",
-      "is_local": false,
-      "source": "Habertürk",
-      "title": "Brüksel'de Brükselli gibi olmak",
-      "title_tr": "Brüksel'de Brükselli gibi olmak",
-      "summary": "Eğer Brüksel'de bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Lokalin Peşinde serisinin ikincisi Brüksel hakkında. Pınar Aksu yazdı.",
-      "summary_tr": "Eğer Brüksel'de bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Lokalin Peşinde serisinin ikincisi Brüksel hakkında. Pınar Aksu yazdı.",
-      "long_summary": "Eğer Brüksel'de bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Lokalin Peşinde serisinin ikincisi Brüksel hakkında. Pınar Aksu yazdı.",
-      "long_summary_tr": "Eğer Brüksel'de bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Lokalin Peşinde serisinin ikincisi Brüksel hakkında. Pınar Aksu yazdı.",
-      "why_important": [
-        "Resmî kurumları ve politikaları ilgilendirmesi"
-      ],
-      "possible_impacts": [
-        "Resmî kurumların yeni adımlar atması beklenebilir"
-      ],
-      "url": "https://www.haberturk.com/htgastro/seyahat/lokalin-pesinde-burokrasinin-arkasindaki-surrealist-bruksel-3921459",
-      "image": "https://im.haberturk.com/l/2026/10/21/ver1792624997/3921459/jpg/1920x1080",
-      "published_at": "2026-10-21T23:32:47+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Spor",
-      "category_slug": "spor",
-      "is_local": false,
-      "source": "Sky Sports",
-      "title": "Papers: Brighton boss Hurzeler would be Shearer's pick to replace Carrick",
-      "title_tr": "Papers: Brighton boss Hurzeler would be Shearer's pick to replace Carrick",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "summary_tr": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "long_summary": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "long_summary_tr": "The top stories and transfer rumours from Wednesday's newspapers...",
-      "why_important": [
-        "Sportif rekabet ve sonuçları etkilemesi"
-      ],
-      "possible_impacts": [
-        "Lig sıralamaları ve rekabet dengeleri değişebilir"
-      ],
-      "url": "https://www.skysports.com/football/news/12040/13602091/manchester-united-should-appoint-fabio-hurzeler-if-they-replace-michel-carrick-says-former-premier-league-winner-alan-shearer-paper-talk",
-      "image": "https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "published_at": "2026-10-21T23:23:00+00:00"
-    },
-    {
-      "origin": "turkiye",
-      "category": "Finans",
-      "category_slug": "finans",
-      "is_local": false,
-      "source": "Investing TR",
-      "title": "AstraZeneca’nın nadir böbrek hastalığı ilacı ABD’de onaylandı",
-      "title_tr": "AstraZeneca’nın nadir böbrek hastalığı ilacı ABD’de onaylandı",
-      "summary": "AstraZeneca’nın nadir böbrek hastalığı ilacı ABD’de onaylandı",
-      "summary_tr": "AstraZeneca’nın nadir böbrek hastalığı ilacı ABD’de onaylandı",
-      "long_summary": "AstraZeneca’nın nadir böbrek hastalığı ilacı ABD’de onaylandı",
-      "long_summary_tr": "AstraZeneca’nın nadir böbrek hastalığı ilacı ABD’de onaylandı",
-      "why_important": [
-        "Finansal piyasalar üzerinde etkili olması"
-      ],
-      "possible_impacts": [
-        "Finansal piyasalarda volatilite artabilir"
-      ],
-      "url": "https://tr.investing.com/news/stock-market-news/astrazenecann-nadir-bobrek-hastalg-ilac-abdde-onayland-93CH-4114043",
-      "image": "https://content-media.investing.com/news/LYNXMPEBBG0U8_M.jpg",
-      "published_at": "2026-10-21T23:21:46+00:00"
-    },
-    {
-      "origin": "yabanci",
-      "category": "Oyun / Dijital",
-      "category_slug": "oyun_dijital",
-      "is_local": false,
-      "source": "IGN",
-      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-      "title_tr": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-      "summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
-      "summary_tr": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
-      "long_summary": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
-      "long_summary_tr": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
-      "why_important": [
-        "Kullanıcı deneyimleri ve trendlerle ilgili olması"
-      ],
-      "possible_impacts": [
-        "Oyun sektöründe rekabet artabilir"
-      ],
-      "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
-      "image": "https://assets-prd.ignimgs.com/2026/10/21/burger-shot-1792623074820.jpg",
-      "published_at": "2026-10-21T23:15:44+00:00"
+      "url": "https://www.bursahakimiyet.com.tr/bursa/bursa-da-ilkokul-mezunlarina-is-firsati-gemlik-ve-orhangazi-ye-servis-var-1734926",
+      "image": "https://www.bursahakimiyet.com.tr/static/2026/10/22/bursa-gemlik-te-is-arayanlara-firsat-sofra-grup-personel-alimi-yapacak-1792660651-575_large.webp",
+      "published_at": "2026-10-22T09:16:00+00:00"
     }
   ]
 }
